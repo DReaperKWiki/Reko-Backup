@@ -1,0 +1,39 @@
+<noinclude>{{documentation}}</noinclude><includeonly>[[Category:虛擬YouTuber]]</includeonly>{{Navbox
+|listclass=hlist
+|name       = 虛擬YouTuber
+|title      = [[虛擬YouTuber]]
+|group1     = Vtuber四天王
+|list1      = [[絆愛|キズナアイ]]・[[輝夜月]]・[[ミライアカリ]]・[[電脳少女シロ]]・[[ねこます]]
+|group2     = [[Hololive production]]
+|list2      = 參見[[模板:Hololive production]]
+|group3     = [[にじさんじ]]
+|list3      = 參見[[模板:NIJISANJI]]
+|group4     = [[Phase-Connect]]
+|list4      = 參見[[模板:Phase-Connect]]
+|group5     = [[Mythic Talent]]
+|list5      = [[Anny]]・[[Camila]]・[[Nyatasha Nyanners]]・[[Neuro-sama]]・[[Saruei]]・[[Silvervale]]・[[Shylily]]・[[Veibae]]
+|group6     = 個人勢
+|list6      = 
+{{Navbox|child|
+|group1 = 日本
+|list1= [[WEATHEROID TypeA Airi]]・[[富士葵]]・[[アズマリム]]・[[鳴神裁]]・[[時雨羽衣]]・[[P丸様。]]・[[Mikeneko|みけねこ]]・[[Nonchii|のんちぃ]]・[[結城さくな]]・[[周防パトラ]]・[[Kson]]・[[Henya the Genius]]
+|group2 = 大中華
+|list2= [[茸茸鼠]]・[[東雪蓮]]
+|group3 = 英語
+|list3= [[Akuma Nihmune]]・[[Dokibird]]・[[Dooby]]・[[fallenshadow]]・[[Filian]]・[[Hoshino Charlotte]]・[[rpr]]・[[Nimi Nightmare]]・[[Sameko Saba]]・[[Mint Fantôme]]・[[Matara Kan]]・[[GEEGA]]・[[Zentreya]]
+}}
+
+|group7     = 其他
+|list7      = 
+{{Navbox|child|
+|group1 = 企業/團體
+|list1= [[ゲーム部プロジェクト]]・[[アイドル部 (.live)]]・[[VOMS Project]]・[[利姆諾斯 Limnos]]・[[ぶいすぽっ]]・[[V.W.P]]・''[[VShojo]]''
+|group2 = VTuber
+|list2= [[たみー]]・[[藤崎由愛]]・[[紡ネン]]
+|group3 = 其他
+|list3= [[虛擬YouTuber/早期VTuber一覽|早期VTuber一覽]]
+}}
+
+}}
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

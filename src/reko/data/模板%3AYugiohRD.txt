@@ -1,0 +1,51 @@
+<noinclude>{{documentation}}</noinclude>
+{{Navbox
+|name   = YugiohRD
+|title  = [[遊戲王超速決鬥]]
+  |titlestyle = background:gold;
+  |abovestyle = background:#FFEB80;
+  |groupstyle = background:#FF3333;color:white;
+  |liststyle = background:#E6E6E6;
+|state      = expanded
+|group1 = 動畫牌組系列
+|list1= 
+{{Navbox|child|
+  |groupstyle = background:#FF3333;color:white;
+  |liststyle = background:#E6E6E6;
+|group1 =SEVENS
+|list1= [[第七大道 (超速決鬥)|第七大道]]・[[多拉基亞斯 (超速決鬥)|多拉基亞斯]]/[[The☆ (超速決鬥)|The☆]]・[[魔將 (超速決鬥)|魔將]]・[[CAN:D (超速決鬥)|CAN:D]]・[[背號39號 球兒皇霍姆]]・[[治療之神 迪安凱特 (超速決鬥)|迪安凱特]]・ [[花牙]]・[[金屬徽章 (超速決鬥)|金屬徽章]]・[[魂魔]]・[[獸機界]]・[[透幻郷]]
+|group2 =GORUSH!!
+|list2= [[天河北地 (超速決鬥)|天河北地]]・[[橫貫武士 (超速決鬥)|橫貫武士]]・[[接合科技 (超速決鬥)|接合科技]]・ [[真紅動]]・[[魔法羊女 (超速決鬥)|魔法羊女]]・[[藝術天使]]・[[幻壞]]・[[名媛玫瑰]]・[[原初 (超速決鬥)|原初]]・[[暗物質人偶]]・[[秘密捜査官 (超速決鬥)|秘密捜査官]]・[[宇宙都市傳説 (超速決鬥)|宇宙都市傳説]]・[[深淵殺戮者]]・[[麗鳥]]・[[網域辣諜]]・[[OTS (超速決鬥)|OTS]]
+}}
+|group2 = OCG牌組系列強化
+|list2=
+{{Navbox|child|
+  |groupstyle = background:#FF3333;color:white;
+  |liststyle = background:#E6E6E6; 
+|group1 =DM
+|list1= [[黑魔導 (超速決鬥)|黑魔導]]・[[暗黑騎士 蓋亞 (超速決鬥)|暗黑騎士 蓋亞]]・[[混沌戰士 (超速決鬥)|混沌戰士]]・[[青眼白龍 (超速決鬥)|青眼白龍]]・[[真紅眼黑龍 (超速決鬥)|真紅眼黑龍]]・[[惡魔的召喚 (超速決鬥)|惡魔的召喚]]・[[神鷹女郎 (超速決鬥)|神鷹女郎]]・[[人造人 (超速決鬥)|人造人]]・[[零件 (超速決鬥)|零件]]
+|group2 =GX
+|list2= [[E·HERO (超速決鬥)|E·HERO]]（[[E·HERO 新生人 (超速決鬥)|E‧HERO 新生人]]）・[[古代機械 (超速決鬥)|古代機械]]・[[電子龍 (超速決鬥)|電子龍]]
+|group3 =其他
+|list3= [[注射天使莉莉 (超速決鬥)|注射天使莉莉]]・[[傑拉的戰士 (超速決鬥)|傑拉的戰士]]・[[飢餓 (超速決鬥)|飢餓的漢堡]]・[[帝 (超速決鬥)|帝]]
+}}
+|group3 = 原創牌組系列
+|list3= [[焰魔]]・[[蒼救]]・[[深淵海人]]・[[鮮莓果 (超速決鬥)|鮮莓果]]・[[夢中 (超速決鬥)|夢中]]・[[R·HERO (超速決鬥)|R·HERO]]・[[傳奇 (超速決鬥)|傳奇]]・[[萬事屋 (超速決鬥)|萬事屋]]・[[宇宙姬 (超速決鬥)|宇宙姬]]
+{{Navbox|child|
+  |groupstyle = background:#FF3333;color:white;
+  |liststyle = background:#E6E6E6; 
+}}
+|group4 = 知名魔陷
+|list4= [[死者甦醒]]・[[融合_(遊戲王牌組系列)#聚合（フュージョン／Fusion）|聚合]]・[[金屬化_(遊戲王牌組系列)#時間機械（時（とき）の機械（きかい）－タイム・マシーン）|時間機械]]
+{{Navbox|child|
+  |groupstyle = background:#FF3333;color:white;
+  |liststyle = background:#E6E6E6; 
+}}
+|group5 = 動畫漫畫
+|list5= [[遊☆戯☆王 SEVENS]]・ [[遊☆戯☆王 GORUSH!!]]
+| belowstyle = text-align:left
+| below      = <references />
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
+
+[[分類:遊☆戯☆王 超速決鬥]]

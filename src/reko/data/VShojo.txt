@@ -1,0 +1,222 @@
+{{h0|VShojo}}
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub row}}
+|}
+
+[[File:VShojo_logo.png|250px|center]]
+
+== 簡介 ==
+* 位於美國的[[虛擬YouTuber]]運營事務所
+* 成員大多在Twitch平台活動，部分成員也會在Youtube頻道中活動
+* 於2025/07/24宣布因缺乏資金而倒閉
+
+== <s>前</s>成員列表 ==
+{|class="wikitable" style="margin:auto;"
+!姓名
+!說明
+!頻道
+!推特
+|-
+!colspan=5 align="center"|創始成員
+|-
+|colspan=5 align="center"|除Apricot和Hime Hajime外均於2020年11月24日以VShojo成員再次出道
+|-
+|Nyatasha Nyanners
+|{{color|red||已於2023/04/30離開VShojo，恢復個人勢身分}}<br>現已加入Mythic Talent
+|[https://www.twitch.tv/nyanners 連結]
+|{{twitter|NyanNyanners|name=連結}}
+|-
+|Zentreya
+|{{color|red||已於2025/07/11離開VShojo，恢復個人勢身分}}
+|[https://www.twitch.tv/zentreya 連結]
+|{{twitter|zentreya|name=連結}}
+|-
+|Ironmouse
+|{{color|red||於2025/07/21宣布離開VShojo，恢復個人勢身分{{censored|，並透露下述的侵吞訂閱馬拉松捐款事件}}}}
+|[https://www.twitch.tv/ironmouse 連結]
+|{{twitter|Ironmouse|name=連結}}
+|-
+|Silvervale
+|{{color|red||已於2023/04/25離開VShojo，恢復個人勢身分}}<br>現已加入Mythic Talent
+|[https://www.twitch.tv/silvervale 連結]
+|{{twitter|_Silvervale_|name=連結}}
+|-
+|Projekt Melody
+|{{color|red||已於2025/07/22離開VShojo，恢復個人勢身分}}
+|[https://www.youtube.com/@ProjektMelody 連結]
+|{{twitter|ProjektMelody|name=連結}}
+|-
+|Apricot
+|{{color|red||已於2025/07/24離開VShojo}}
+|[https://www.twitch.tv/Apricot 連結]
+|{{twitter|LichVtuber|name=連結}}
+|-
+|Hime Hajime
+|{{color|red||已於2025/07/22離開VShojo}}
+|[https://www.twitch.tv/hajime 連結]
+|{{twitter|HeemHajeem|name=連結}}
+|-
+!colspan=5 align="center"|2021/04/09加入
+|-
+|Veibae
+|2020/04/12出道的個人勢VTuber<br>{{color|red||已於2023/04/25離開VShojo，恢復個人勢身分}}<br>現已加入Mythic Talent
+|[https://www.twitch.tv/vei 連結]
+|{{twitter|Veibae|name=連結}}
+|-
+!colspan=5 align="center"|VShojo NEXT
+|-
+|colspan=5 align="center"|兩人皆於2022/07/16加入，為VShojo JP所屬
+|-
+|[[Kson]]
+|早於2016/05/01開始在Niconico活動的實況主<br>{{color|red||已於2025/07/22離開VShojo，恢復個人勢身分}}
+|[https://www.youtube.com/@ksonONAIR 連結]
+|{{twitter|ksononair|name=連結}}
+|-
+|飴宮なずな
+|<s>{{censored|某人的分靈體}}</s><br>{{color|red||已於2023/12/31離開VShojo，成為個人勢}}
+|[https://www.twitch.tv/AmemiyaNazuna 連結]
+|{{twitter|AmemiyaNazuna|name=連結}}
+|-
+!colspan=5 align="center"|2022/12/03加入
+|-
+|Haruka Karibu
+|加拿大個人勢VTuber，於2020/05/08在Twitch出道<br>{{color|red||已於2025/07/22離開VShojo，恢復個人勢身分}}
+|[https://www.twitch.tv/harukakaribu 連結]
+|{{twitter|haruka_karibu|name=連結}}
+|-
+!colspan=5 align="center"|2023年加入
+|-
+|[[Henya the Genius]]
+|IQ999的天才<br>於2023/05/13在VShojo出道<br>{{color|red||已於2025/07/23離開VShojo，成為個人勢}}
+|[https://www.twitch.tv/henyathegenius 連結]
+|{{twitter|henyathegenius|name=連結}}
+|-
+|GEEGA
+|General GEEGA<br>早於2021/02/16出道的個人勢VTuber<br>於2023/09/02加入VShojo<br>{{color|red||已於2025/06/27離開VShojo}}
+|[https://www.twitch.tv/GEEGA 連結]
+|{{twitter|GeneralGEEGA|name=連結}}
+|-
+|Kuro Kurenai
+|K9 Kuro<br>於2023/09/30在VShojo出道<br><s>VShonen</s><br>{{color|red||已於2025/07/22離開VShojo}}
+|[https://www.twitch.tv/K9KURO 連結]
+|{{twitter|K9_KURO|name=連結}}
+|-
+|Matara Kan
+|於2023/10/15在VShojo出道<br>{{censored|某九尾狐的轉生}}<br>{{color|red||VShojo於2025/05/05與Matara Kan脫離合作關係，Matara Kan繼續以個人勢身分活動}}
+|[https://www.twitch.tv/MataraKan 連結]
+|{{twitter|MataraKan|name=連結}}
+|-
+!colspan=5 align="center"|2024/04/20加入
+|-
+|Michi Mochievee
+|與另一個人勢VTuber[[Camila]]為好友關係<br>{{color|red||已於2025/07/22離開VShojo}}
+|[https://www.twitch.tv/michimochievee 連結]
+|{{twitter|MichiMochievee|name=連結}}
+|-
+!colspan=5 align="center"|VShojo NOVA
+|-
+|colspan=5 align="center"|四人均在2024年11月出道，為VShojo JP所屬
+|-
+|暁月ホタル<!--中之人是遠藤ゆりか(?)-->
+|{{color|red||已於2025/07/23離開VShojo，成為個人勢}}
+|[https://www.youtube.com/@AkatsukiDHotaru 連結]
+|{{twitter|AkatsukiDHotaru|name=連結}}
+|-
+|ヘスティアハピネス (Hestia Happiness)
+|同期中唯一一位原個人勢加入VShojo<ref>於2022/08/27在Youtube出道</ref><br>{{color|red||已於2025/07/23離開VShojo，恢復個人勢身分}}
+|[https://www.youtube.com/@HestiaHappiness 連結]
+|{{twitter|HestiaHappiness|name=連結}}
+|-
+|柚鳥ペケ
+|{{color|red||已於2025/07/23離開VShojo，成為個人勢}}
+|[https://www.twitch.tv/pekeispeak 連結]
+|{{twitter|PekeIsPeak|name=連結}}
+|-
+|陵本なぎ
+|JK勇者<br>曾於出道直播中操作氣槍時不小心射爆了自己的電腦屏幕<br>{{color|red||已於2025/07/23離開VShojo，成為個人勢}}
+|[https://www.youtube.com/@NagIsekaied 連結]
+|{{twitter|NagIsekaied|name=連結}}
+|-
+!colspan=5 align="center"|2025/01/26加入
+|-
+|AmaLee
+|Monarch, Queen of the Multiverse<br>2021/12/11出道的個人勢VTuber<br>{{color|red||已於2025/07/22離開VShojo，恢復個人勢身分}}<br><s>Scuff Queen</s>
+|[https://www.twitch.tv/leeandlie 連結]
+|{{twitter|MonarchVerse|name=連結}}
+|}
+
+=== 未正式加入成員 ===
+* {{censored|於侵吞捐款事件中有人透露過}}部分VTuber已跟VShojo簽約但未正式以VShojo成員身分出道
+** 以知將會有一個偶像三人組團體<ref>有一成員身分未知</ref>和一個魔物娘主題的團體
+
+{|class="wikitable" style="margin:auto;"
+!姓名
+!說明
+!頻道
+!推特
+|-
+|Momo
+|Momo Mischief，個人勢VTuber<br>曾透露於2019-2020年間與VShojo簽約，但未曾以VShojo成員的身分再次出道<br>現已加入Mythic Talent
+|[https://www.twitch.tv/momo 連結]
+|{{twitter|MomoMischief|name=連結}}
+|-
+!colspan=5 align="center"|未知偶像團體
+|-
+|[[Mint Fantôme]]
+|幽靈女僕，於2020/07/24出道的個人勢VTuber，與[[Dokibird]]為好友關係<br>{{censored|某森林妖精的原先身分}}<br>於2025年7月22日透露曾與VShojo合作並通過2024 EN海選，將會與另外兩人合作組成偶像團體並以VShojo成員的身分再次出道<br>，但因VShojo倒閉而最終未成事
+|[https://www.youtube.com/@mintfantome 連結]
+|{{twitter|MintFantome|name=連結}}
+|-
+|Phoebe Chan
+|於2020/07/18出道的個人勢VTuber兼偶像<br>曾於2024年透露自己為另一已解散的箱PRISM Project的VTuber Amami Ami 的神仙教母{{censored|亦即是中之人}}<br>於2025年7月22日透露曾通過2024 EN海選並將會加入VShojo的偶像團體，但因欠薪問題而主動解約
+|[https://www.twitch.tv/Feebee 連結]
+|{{twitter|feebeechanchibi|name=連結}}
+|-
+!colspan=5 align="center"|未知魔物娘團體<ref>第四人身分未知</ref>
+|-
+|Beribug
+|
+|{{youtube|c=UC8PMqEDpXcsooyDGiLvxs4w|title=連結}}
+|{{twitter|beribug_|name=連結}}
+|-
+|PiaPiUFO
+|
+|[https://www.youtube.com/c/PiaPIUFO 連結]
+|{{twitter|PiaPiUFO|name=連結}}
+|-
+|Tori Oriane
+|
+|[https://twitch.tv/torioriane 連結]
+|{{twitter|torioriane|name=連結}}
+|}
+
+== 爭議事件 ==
+=== VShojo侵吞Ironmouse 訂閱馬拉松捐款事件 ===
+* VShojo炸箱的起因
+* 於2025/07/21 Ironmouse[https://www.youtube.com/watch?v=MwLbGcUMy6g 突然宣布離開VShojo]，並透露VShojo不但拖欠款項，更侵吞來自Ironmouse自己訂閱馬拉松，供給免疫缺陷基金會(Immune deficiency foundation)共51.5萬美元捐款
+* 事件曝光後陸續有其他成員宣佈即時退出VShojo，並且透露VShojo也拖欠她們薪金
+** 在Kson的直播中更是直接找上Vshojo的日本分部負責人對質{{censored|，並發覺有美國總部虧空公款的可能性}}
+* 至於VShojo於同年7月24日<s>終於</s>在X(Twitter)[https://x.com/VShojo/status/1948442574722924778 宣布因資金短缺而終止運作]
+
+== 相關連結 ==
+* '''[[Reko Wiki]]條目'''
+** [[虛擬Youtuber]]
+
+* '''官方連結'''
+** [https://www.vshojo.com/ 官方網站]
+** 官方Twitter：{{twitter|VShojo|name=英文}} | {{twitter|VShojoJP|name=日文}}
+** 官方YouTube頻道: {{youtube|c=UC1pn1v7PbOpIJrXnawBA3dQ|title=現頻道}} | {{youtube|c=UCp1aw_NTHltGdNEPTHsVDiQ|title=原頻道}} | {{youtube|c=UCEcW1x1GhXZNxurEVJ5lB2A|title=短片}}
+** 其他連結：[https://www.reddit.com/r/vshojo 官方Subreddit]
+
+* '''外部資訊連結'''
+** wiki類連結：[https://dic.pixiv.net/a/VShojo pixiv百科]、[https://virtualyoutuber.fandom.com/wiki/VShojo Virtual YouTuber Wiki (英語)]、[https://en.namu.wiki/w/VShojo namu wiki]
+** 其他連結：[https://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/VShojo TVTrope連結]
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references />
+[[Category:虛擬YouTuber]]
+[[Category:VShojo]]
+{{虛擬YouTuber}}

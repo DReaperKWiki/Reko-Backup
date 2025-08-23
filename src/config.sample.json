@@ -1,0 +1,14 @@
+{   
+    "wiki": {
+		"reko": {
+            "name": "Reko Wiki",
+            "url": "https://rekowiki.org/w/api.php",
+            "botName": "",
+            "botPassword": ""
+        }
+    },    
+    "backlog_day":1,
+    "ignore": [
+        
+    ]       
+}

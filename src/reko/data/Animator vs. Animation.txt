@@ -1,0 +1,1027 @@
+{{h0| Animator vs. Animation/AVA/火柴人 VS 動畫師/動畫師和動畫{{ref|早年的無授權搬運譯名}}/桌面大戰/Alan Becker火柴人系列/AB柴{{ref|對岸常見略稱}}}}
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
+|-
+{{stub row}}
+|-
+|以下可能透露部份劇情，沒看過<s>又不想'''被突然活過來的火柴人打爆繪圖軟體界面乃至於整部電腦，或者終端裡的東西掉東掉西'''</s>的話請不要繼續看下去。
+|}
+[[檔案:AVA Season 2 Poster Logo.png|center|500px]]
+==解說==
+* 美國獨立動畫師Alan Becker于2006年創作的火柴人Flash短篇動畫
+** 其創作有受[[Warner Bros. Animation|樂一通]]動畫短片《Duck Amuck》和Crockett Johnson繪本改編動畫《阿羅有支彩色筆》啟發，靈感來源中亦有《Stix》《ひまつぶし》等Flash遊戲的影子
+** 除了不亞於其他優秀火柴人動畫的流暢動作場面外，最大的特征是創意十足地跳脫火柴人對打的題材主流，直接將動畫軟體本身作為戰場和武器，上演{{ruby|火柴人|Animation}}與其{{ruby|創造者|Animator}}對抗的全武行
+** 由於年輕時的Alan非常討厭說話<s>甚至15歲以前幾乎不和家人以外的人說話</s>，因此花費大量時間在觀察周圍一切的非語言表現上，其動畫也是幾乎沒有語言表現<ref>必要時會出現字幕，但除了有真人出鏡的場合可能會有幾句外，全系列是一句台詞也沒有<s>倒是省下了找人配音的成本</s></ref>，全靠生動的動作展現的默劇
+*** 但這一決定無形中成為了系列能脫離語言藩籬走向世界、在非英語地區（包括東亞三國）吸引大批觀眾的主要原因之一
+* 2006年6月3日首發于Flash門戶網站[[Flash Game|Newgrounds]]上，憑藉優秀的想象力和表現力，發佈第二日便直衝平台榜二
+** Alan自此一炮走紅，並收到大量網站主希望轉載這部作品的請求，<s>當然包括對岸的4399在內，在版權意識並不明朗的千禧之初，不分地域的無端轉載者更是一抓一大把</s>
+** 更有甚者試圖用75美金從當時年僅'''17歲'''且家境不算富裕的Alan手中買斷作品版權，'''幸得貴人及時阻止'''，Alan才得以保住自己的作品<s>和未來的動畫師生涯</s>
+*** 這位貴人就是Albino Blacksheep<ref>一家主營Flash動畫和各種千禧年代手機玩意的網站</ref>的老闆Steven Lerner。後來Alan糊里糊塗地被臭名昭著的強盜網站EBaum's World耍猴時<ref>用一筆250美金的掩口費要他向那邊老闆Eric Bauman寫一份對要求對面撤下無端轉載自己作品的「道歉聲明」</ref>，即使Lerner初時覺得被出賣，仍然肯想辦法為Alan解困。<s>[https://ericbaumanexplains.ytmnd.com/ 案件][https://ebaumalansrevenge.ytmnd.com/ 重演](笑)，此事也成為Alan早年在維基百科上為數不多的記載出場，還有人做了GMOD動畫短片解釋整起事件經緯</s>
+* 此後Alan得到網站Atomfiles<ref>一家主打短篇動畫發佈和分享的網站，其母公司2012年被Comedy Central併購後改稱CC Studios至今</ref>的<s>正規正經的</s>資助，於同年11月發佈續集《AvA2》，成為一代人的童年回憶
+* 於次年（2007年）攜兩部作品入駐當時正逐漸成為主流平台的Youtube，<s>同時和早已無端轉載作品到Youtube上獲利的一眾盜搬狗開打版權戰，歷時數年才取得完全勝利</s>
+* 在強烈要求續集的粉絲呼籲下，於2010年發佈<s>各種意義上手筆超大的</s>《AvA3》{{censored|<s>並在其中把自己電腦炸到藍屏</s>}}，為系列畫上{{censored|暫時的}}句點
+* 此後Alan專心於學業，不再有意向製作續集
+** 從学校畢業后本打算進入皮克斯工作，但實習生申請接連被拒了兩年，於是改變主意想在較小的動畫公司內任職
+** 這時聽從慧眼識金的導師建議，重新拾起年輕時的創作系列，在2014年通過眾籌製作並發佈《AvA4》，從此走向個人事業的真正巔峰
+*** 在AvA4的劇情基礎上製作的衍生作《Animation vs. Minecraft》更是紅到發紫，令Alan堅定了靠創作謀生的信念
+* 其動畫作品中的人物動態全部是逐幀繪製而成，幾秒鐘的動畫背後可能是數小時的工作量，因此早期影片更新速度相當緩慢
+** 由於創意愈發複雜，需求的工作量越來越大，後來組建了自己的動畫團隊，招攬著名火柴人動畫師oxob3000、Shruiken255、Terkoiz等成員參與製作。本人如今已極少親自作畫<ref>但有時工期趕不及還是會親身下場救火，如AvM33後半的群體戰鬥場面</ref>，基本上僅負責AvA和AvM等主要系列的編導工作
+** 一部分新近的人氣系列（《Animation vs. Education》等）更是由團隊主導製作
+* 除火柴人動畫外亦出品過動畫製作教程、在Minecraft中復刻[[吉卜力工作室|吉卜力]]作品地圖等內容
+** 有一和好友DJ Welch一起<s>不務正業打電動</s>運營的分頻道「Animators VS Games」，除遊戲實況外還會發佈二人一同觀看主頻道新作的反應影片
+*** 遊戲實況的封面圖常有火柴人出來客串，其中不乏疑似設定補充的細節<ref>如TCO和TDL的面部塗鴉造型、火柴幫和vic+僱傭兵小隊的對應關係等<s>不過更多還是四色招惹TDL或vic開飛碟轟炸TCO和TSC之類的謎場面</s></ref>
+* 已婚，育有一兒一女。偶爾家人會在作品中客串聲演，<s>主要負責把他從電腦前支開方便火柴人進去他擁有的各個終端搞事情</s>
+** 順帶一提太太Kaori在俄亥俄州哥倫布市有自己開的日料烹飪學校，還寫了一本麻糬食譜
+* 07年曾與人合作{{ref|合作方為'''時年14歲'''的遊戲創作者Charles Yeh，<s>這群Flash創作者都是什麼少年怪物？！</s>}}推出一部基於前兩部動畫內容改編的Flash遊戲《Animator vs. Animation Game》，讓玩家扮演動畫師的游標用各種工具制服火柴人，{{censored|但火柴人打不死，反倒是游標會有生命限制<s>一定程度上還原了作中Alan容易老馬的部分</s>，除默認的vic外更有需要對抗TCO及他各色超能力的高難度關卡}}
+* 於25年初公佈正規官方遊戲《Animation VERSUS》（下称AnV）正在開發中的情報，並於同年三月底開啟Kickstarter眾籌，五小時內便<s>在各路熱情觀眾的狂暴注資下</s>完成13萬美金的基本籌款目標<s>順便把團隊成員的下巴都驚掉</s>，到眾籌活動結束時總共籌得<s>1{{ruby|柴萬|stickillion}}<ref>由主力開發者Muno慶祝眾籌大獲成功時提出，1 stickillion = 998416</ref></s>將近一百萬美金。目前暫定於28年6月發售
+** 從已知情報來看為類《Rivals of Aether》的像素風格鬥遊戲，但將以[[任天堂明星大亂鬥]]為代表的'''平台格鬥'''和[[快打旋風]]、[[聖騎士之戰]]等知名'''傳統格鬥'''的要素結合一處
+** 同時亦有可以聯機協作的[[RogueLike|肉鴿]]模式和擁有專門的動畫過場、與動畫主系列同一舞台的劇情模式
+
+==動畫系列==
+* 除按官方給出的系列劃分外，可分為正劇（Full-length episodes，多為前後劇情存在強關聯、時長較長的連續劇)和短篇（Shorts，前後關聯較鬆散或沒有關聯、時長較短的單元劇）兩大類
+** 不過哪怕是同一系列內也會出現正劇和短篇混雜的情況，比如說AvM就是單元劇和連續劇交替主導的情形
+* 通常而言如果有露出電腦系統時間，基本上一定是影片發佈當日或早幾日。一定程度上可從影片首發日期判斷各事件先後順序，但連續劇由於分集製作的關係，只有首集的發佈時間存在劇情意義
+** 也存在著補述或插述早期事件，<s>更有後期吃書、誤植時間的作畫失誤乃至於'''做好的短片隔了好幾個月才發出來'''的情況</s>，總之發佈時間僅供參考就好
+* 以下介紹主要系列和相關定番
+
+===Animator vs. Animation/火柴人 VS 動畫師===
+* 通稱AvA，最初創作和最主要的系列，圍繞{{color|#8436e2||動畫師（Alan本人）}}和他{{color|#505050||筆}}{{color|#000000||下}}{{color|#FF0000||造}}{{color|#FF6600||物}}在電腦界面裡<s>打破[[第四面牆]]的家庭喧嘩</s>的衝突展開的連續劇
+** 需要注意的是和衍生系列不同，'''第一個A代表的是{{ruby|Animator|動畫師}}而非{{ruby|Animation|火柴人}}'''
+** {{censored|<s>一個火柴人引發的血案、滑鼠游標先後和三個兒子父子喧嘩、Alan電腦受害史</s>}}
+** 從AvA4開始，{{censored|由於Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和拆Alan電腦界面的定番還是會有的</s>
+* AvA5最初被分拆為EP1~4發佈，不過後來Alan重整系列，將整個AvA5四部曲定義為AvAS2，原本的AvA5 EP1~4隨之升格為AvA5~8
+** 與之相應，AvA1~4被整體定義為S1，原定分為七部曲的AvA6則變成了S3
+* 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS2才開始有意識地佈置長線伏筆，[[吃書]]早期設定自然難免
+* 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本被打回去重寫了一遍</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
+** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來{{censored|<s>但這群倒霉柴還是要繼續等個半年多</s>}}
+
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 集數 !! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+! colspan="5"|<center>'''Season 1'''</center>
+|-
+| 1 || Animator vs. Animation<br>火柴人 VS 動畫師 || 2006/6/3 (Newgrounds)<br>2007/5/14 (Youtube) || ''{{color|#8436e2||動畫師}}和他的{{color|#505050||動畫}}陷入一場生死搏鬥，戰場？Flash軟體界面。{{color|#8436e2||動畫師}}畫出這個{{color|#505050||火柴人}}只為了折磨他，而{{color|#505050||火柴人}}將使用他能找到的一切——畫筆工具、橡皮工具等等報復他的施虐者。智謀對上力量，誰會贏？請各位看官拭目以待。''{{ref|原影片簡介翻譯，以下斜體皆同}}<br>各種意義上的一切的開始，<s>長子</s>{{color|#505050||victim}}初登場，一度靠分身群毆把游標打得落至下風，{{censored|但最後還是被Alan抓到機會直接關掉檔案而未被保存<s>以至於AvA11出來前的十八年間很多二創都要設法解釋他是怎麼活下來的</s>}}|| [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1Bp4y1q7xU bilibili]
+|-
+| 2 || Animator vs. Animation II<br>火柴人 VS 動畫師 2 || 2006/11/4 (Atom)<br>2007/3/15 (Newgrounds)<br>2007/5/14 (Youtube) || ''尋求挑戰的{{color|#8436e2||動畫師}}決定創造一個更難擊敗的火柴人，但他對自己到底給了這個小傢伙多少力量幾乎一無所知，{{color|#000000||天選之子}}萬歲！''<br><s>Alan老馬實錄</s>，<s>次子</s>{{color|#000000||The Chosen One (TCO)}}初登場，舞台從前作的Flash 8界面內擴展到桌面上，附帶各種桌面圖標為捍衛電腦安危車輪大戰TCO的創意場面<s>雖然最後還是要靠殺軟救場</s><br>題外話：由於Alan未經多想便直接在影片中暴露了自己的AIM賬號，直接導致他一打開AIM就會被滿滿當當的垃圾信息刷屏而從此放棄使用該平台<s>可見保護個資安全有多麼重要</s> || [https://www.youtube.com/watch?v=nxM1cnphLpw youtube]<br>[https://www.bilibili.com/video/BV1nk4y1m7uq bilibili]
+|-
+| 3 || Animator vs. Animation III<br>火柴人 VS 動畫師 3 || 2010/10/4 (Atom)<br>2011/10/2 (Youtube) || ''第二集裡的{{color|#000000||「天選之子」}}被{{color|#8436e2||動畫師}}當成彈窗廣告屏蔽插件困在IE瀏覽器里。這段動畫描述了他如何逃到Microsoft Word、空當接龍、掃雷乃至於電腦桌面上的經歷。''<br>AvA2的直接續集，為了遏制逃脫束縛的TCO，Alan在這集中造出了<s>三子</s>{{color|#FF0000||The Dark Lord (TDL)}}{{censored|殊不知他這一畫就搞出了個系列最大亂源，<s>甚至差點讓整個互聯網陷入危機</s>}}<br>{{censored|如上所述，由於Alan當時沒有繼續製作續集的打算，為不留餘地直接爆破了（劇中）自己的電腦，當然後來的事嘛……}} || [https://www.youtube.com/watch?v=PCtr04cnx5A youtube]<br>[https://www.bilibili.com/video/BV1o54y1S7tY bilibili]
+|-
+| 4 || Animator vs. Animation IV<br>火柴人 VS 動畫師 4 || 2014/10/2 || ''一個{{color|#FF6600||火柴人}}和創造他的{{color|#8436e2||動畫師}}之間的戰鬥。本集中，現實中的{{color|#8436e2||動畫師}}終於出鏡和他的電腦顯示器互動。這個{{color|#FF6600||火柴人}}激烈反抗著他的創造者，駭入他的臉書賬戶讓他社死、通過USB線進入他的iPhone、以及自行繪製動畫形象來破壞動畫軟體界面。''<br><s>末子</s>{{color|#FF6600||The Second Coming (TSC)}}和他的{{color|#66cc00||四}}{{color|#33ccff||色}}{{color|#ffcc00||夥}}{{color|#cc0000||伴}}們初登場，成為此後大多數影片中的主角陣<s>雖然本集中四色其實沒多少戲份和描寫</s><br>時隔四年後的正統續作，此時Alan已從學校畢業且有家室要供養，故以眾籌方式籌集資金製作，參與眾籌者多數以臉書好友身份在劇中出現，其中一人「Darren Schwartz」更是作為出資最多者得到了直接的客串戲份 || [https://www.youtube.com/watch?v=VufDd-QL1c0 youtube]<br>[https://www.bilibili.com/video/BV1if4y1X7iH bilibili]
+|-
+! colspan="5"|<center><s>Animator vs. Animation V</s> '''Season 2'''</center>
+|-
+| 5 || The Virus<br>病毒 || 2018/8/19 || ''{{color|#FF0000||新威脅}}入侵了這台電腦。''<br>又是時隔四年<s>外加若干部AvM等分支作</s>的續作，主要內容是關係已十分融洽的TSC和Alan攜手對抗突然侵入電腦、擁有刪除數據能力的紅蜘蛛病毒「ViraBot」<br>{{censored|在Alan連游標帶系統菜單都被病毒完封、而火柴幫也被紛紛包成蛛絲粽子的緊急關頭，桌面突然被某個熟悉的身影炸開一個白洞——}} || [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1VD4y1U7WQ bilibili]
+|-
+| 6 || The Chosen One's Return<br>天選之子回歸 || 2018/10/28 || ''一位{{color|#000000||老朋友}}現身拯救了世界。''<br>書接前回，TCO堂堂回歸，給後輩們好好秀了一手五花八門的超能力後事了拂衣去{{censored|<s>不過可能因為光打這隻紅蜘蛛就耗了太多力氣，才會在後續集數裡被強化TDL占到上風</s>}} || [https://youtu.be/dL8F0B8Hj0o youtube]<br>[https://www.bilibili.com/video/BV1Rk4y1m7eP bilibili]
+|-
+| 7 || The Flashback<br>閃回 || 2019/3/11 || ''揭露{{color|#000000||TCO}}和{{color|#FF0000||TDL}}的過去。''<br>如題所示的回憶集，主要解釋了這兩隻柴{{censored|如何從AvA3末尾的藍屏爆炸中逃脫}}到AvA5發生前的一系列經緯<br>此後的重要舞台「外聯網」在此集亮相，同時也是系列首次出現<s>拉長製作周期的罪魁禍首之一</s>非平面場景 || [https://youtu.be/_vfSvckpQWo youtube]<br>[https://www.bilibili.com/video/BV1R54y1S7ZL bilibili]
+|-
+| 8 || The Showdown<br>決戰 || 2020/10/24 || ''{{color|#000000||TCO}}和{{color|#FF0000||TDL}}間的史詩級決戰。''<br>確實是史詩級的<s>兄弟鬩墻</s>決戰，大多數時間裡先前一頭熱跟著TCO一起跳進白洞的五小隻都只能縮在一旁觀戰{{censored|不過也有Yellow手搓代碼把遊標拉來助陣，和TSC極限覺醒翻盤的高光時刻}}<br>題外話，雖然設定上是緊接著AvA5（18年8月）發生的事件，但製作使用的網頁素材是相對近期錄製的{{censored|所以會有中途掠過的推特趨勢裡出現'''COVID-19'''等18年不可能有的關鍵字的穿幫鏡頭，<s>在Youtube上的'''AvA8影片本身'''裡借力打力的部分更讓一眾考據者燒乾腦漿也解釋不清</s>}} || [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1VD4y1U7WQ bilibili]
+|-
+! colspan="5"|<center><s>Animator vs. Animation VI</s> '''Season 3'''</center>
+|-
+| 9 || Wanted<br>通緝 || 2023/4/29 || ''{{color|#000000||TCO}}有麻煩了。''<br>再度時隔三年<s>外加整整兩季AvM</s>的續作，開場就是全Blender製作場景、駕駛飛行載具的僱傭兵小隊街頭追逐被通緝的TCO的大場面<br>{{censored|結尾處僱傭兵小隊復命的對象是一隻灰色的空心頭，同時周圍展示著許多Flash 8的工具圖標，難不成……？}} || [https://www.youtube.com/watch?v=dzJvuswZ5ys youtube]<br>[https://www.bilibili.com/video/BV1dh4y1n7Sh bilibili]
+|-
+| 10 || The Box<br>盒子 || 2023/11/4 || ''在盒子中凡事皆可。''<br>{{censored|前回末尾現身的victim正式登場，然後一出來就是近乎一整集的<s>靠純科技吊打超能力者、看得同人女大呼刺激（無誤）的</s>對TCO暴力拷問<ref>{{censored|原定會比實際呈現的更加激烈和一邊倒，從事後流出的廢稿描述來看甚至會有TCO被吊頸的鏡頭，但等Alan關切時團隊已經做好了相對較為[[排毒]]版本的整段動畫，於是也就按著排毒版本做下去了（無誤）}}</ref>，要他吐出游標（Alan）的線索<br>最後也得知先前召喚游標的是Yellow，在四色剛潛入Rocket Corp.便慘遭逮捕的同時，慢條斯理地點燃印有游標形象的紙張……<s>讓觀眾們苦等之後發展等了一年多結果（見下）</s>}} || [https://www.youtube.com/watch?v=OPo5_EBO5JM youtube]<br>[https://www.bilibili.com/video/BV14e411X7HM bilibili]
+|-
+| 11 || Victim<br>受害者 || 2024/12/14 || ''作為一切開端的{{color|#505050||那個火柴人}}。''<br>{{censored|整集都是vic的回憶，看過之後只會想問Alan你吃錯什麼藥要這樣對待你家長子（劇情中和劇本外雙重含義），<s>雖然也有人在意的是「那TCO和TSC是不是還要再繼續被關一年」</s><br>場面極大的揭開了整個AvA/外聯網的世設一角<s>難怪製作週期長達兩年</s>，在背景中給出了Purple一家的起源和暗示覺醒TSC能力的真實面目<br><s>Alan發刀太狠，觀眾不是為vic的遭遇胃痛就是為自己的二創設定被狠狠背刺而哀嚎，完全無法料想按目前的情況，之後到底要怎麼給vic一個救贖或好結局</s>}} || [https://www.youtube.com/watch?v=2eHozBXlEpw youtube]<br>[https://www.bilibili.com/video/BV1XBBEYVEWx bilibili]
+|}
+{{hidef}}
+
+===Animation vs. Minecraft Shorts/火柴人 VS 我的世界===
+* 通稱AvM(S)，接續AvA4之後，關於{{color|#FF6600||TSC}}和{{color|#66cc00||他}}{{color|#33ccff||的}}{{color|#ffcc00||朋}}{{color|#cc0000||友}}們一起玩[[Minecraft]]的故事，目前共四季
+** 和AvA、Av系列不同，該系列裡Alan從未現身過，{{censored|設定上的解釋是他不會一直坐在電腦前、也會有去其他房間或為了防止被火柴人打擾而用筆電處理工作的時候}}
+* 起初只是一篇以MC為主題的單獨短篇（下稱無印/VSMC），因為發佈後備受好評{{censored|加上後續的VS Youtube表現相對不彰}}，Alan決定將其擴展為和AvA並行的分支系列
+* 系列化後一開始為劇情間關聯不大的單元劇，後面內容愈發複雜，從S1後半開始儼然變成連續劇，更新趨勢亦<s>蠻當然地</s>超越主系列的AvA
+** S1後基本是按集數少的日常回Season（S2、S4）和集數多的主線回Season（S3、S5）交替的節奏更新
+** 雖然系列名裡有Short但是單篇時長越來越長，到後面不時就超越無印時長，EP30更是創下全作品時長之最，搞得Alan後面搞真正的短片時不得不在系列名里加上Actual
+* 早期固定在每月18日前後發佈，後面由於場面、劇情和製作技術越來越複雜，製作週期也隨之拉長
+** 目前已發佈劇集中以EP36的製作時間（整整一年）最為誇張
+* 雖然還原了各類遊戲設定和玩法細節，但不時會出現一些劇情需要和作畫失誤等導致、實際原版遊戲中根本不存在的{{ruby|特性|BUG}}和細節錯誤（以材質貼圖為重災區）
+** {{censored|不存在的合成配方/藥水，戰力和AI行為過於有能的原版生物，在Java版裡出現基岩版特有特性等……<s>有[https://www.bilibili.com/video/BV1EvLpzQErT 解析者]笑稱其實本作內的MC是結合j'''A'''va版和'''B'''edrock版，專屬於本作的'''AB'''版</s>}}
+* 常見誤區是AvM和AvA是完全平行的故事，但包括一部分接續AvMS3劇情的AS短片在內，能找到很多AvA和AvM是發生在同一舞台內的暗示甚至明示<ref>如EP30中，KO看的電視似乎是AvAS3登場的Rocket Corp.出品，{{Censored|AvA11中更給出了Purple一家在Newgrounds遭大肆破壞時爬出作品縮略圖逃生的鏡頭}}</ref>
+** 在三千萬訂閱紀念直播裡正式確認這兩大主系列為同一世界觀，只是相應事件彼此錯開發生或同步進行。<s>Skim：「我覺得應該會有觀眾做事件時間軸的」</s>
+** 後面的<s>真</s>EP0將時間線拉回到AvA3結尾直後，讓TCO和TDL體驗了一把Beta測試版本<s>，現在就只剩下大哥還沒接觸過MC了</s>
+
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 集數 !! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| N/a || Animation vs. Minecraft<br>火柴人 VS 我的世界 || 2015/12/15 ||''{{color|#FF6600||五}}{{color|#66cc00||隻}}{{color|#33ccff||火}}{{color|#ffcc00||柴}}{{color|#cc0000||人}}在電腦裡找到了一個MC方塊，這個方塊威力無窮，但在錯誤的人手裡會十分危險。''<br>TSC意外踩到任務列中MC圖標後發生的一系列事件，篇中大致塑造和奠定了四色的愛好、性格和[[角色定位]]，此後所有劇集都沒有太脫離過這篇確立的基礎<br>雖然不被正式視為後續AvMS系列的一部分，但由於是開首之作加上和EP1存在直接劇情關聯，社群中'''曾經'''以「序章」「EP0」等稱呼，也在此列出，<s>結果十年後Alan出了部時間線比這篇還早的真·EP0……所以這部該叫啥，EP-1？EP0.5？</s><br>↑目前英文圈討論內多稱為「'''Pilot'''（試播集）」，華文圈則暫未見統一意見，編者在本詞條內將採用「'''無印'''」、「'''VS MC'''」等個人己見，不便之處請見諒 || [https://www.youtube.com/watch?v=GW_fdXHOWp4 youtube]<br>[https://www.bilibili.com/video/BV1jD4y1Q76c bilibili]
+|-
+| EP0 || Beta<br>測試版 || 2025/7/5 || ''2011年，當時MC還在Beta測試版本，有{{color|#000000||兩個}}{{color|#FF0000||旅行者}}發現了這個嶄新的方塊世界……''<br>真·AVM0，以迷你劇形式補完TCO和TDL逃離ALANSPC到大鬧Newgrounds之間的部分經緯，講述兩隻柴意外闖入Beta版MC世界<ref>由存在枯灌木和沒有飽食度+僵尸掉落羽毛來看，應為Beta1.6或1.7版本，另外該世界中存在相當規模的玩家建築群，有可能他們其實是一頭撞進了誰家多人伺服……<s>對伺服內玩家來說這大概會變成新的怪談</s></ref>的短暫插曲<br>TCO和TDL各自體驗MC世界的方式完美體現了MC玩法創造和毀滅之兩面性，同時也埋下二柴日後逐漸理念不合最終決裂的伏筆，{{censored|而在最終離開MC世界之前TCO帶走了一塊鵝卵石，<s>令觀眾紛紛猜測這到底是AvAS3的破局伏筆還是TCO參演AvMS5的暗示</s>}}<br><s>Alan知道大家想看TDL返場/TCO和TDL的決裂前日常/空心頭前輩組玩MC，於是把這三樣東西拌一起端出來了，[[常見網絡用語列表-中國大陸#特攝相關|還不快說謝謝阿蘭哥]]<br>要說是第0話罷，沒有五色的份，要說不像了罷，這確是MC前傳，就說它是不是了罷</s> || [https://www.youtube.com/watch?v=YPURifoeYfk youtube]<br>[https://www.bilibili.com/video/BV1Wh4y1s7Zd bilibili]
+|-
+! colspan="5"|<center>'''Season 1'''</center>
+|-
+| EP1 || The Rediscovery<br>重新發現 || 2017/11/18 || 正式的系列首作，無印的事件過去三年後，TSC在開始菜單內發現了另一個MC圖標……<br>除了再次強調橙綠黃藍的定位外，這次還補完了{{censored|之前因為一上來就被Him附身而沒有詳細描寫的}}Red的角色定位<br>{{censored|鑒於上次的事件，大家做好全副武裝和心理準備才提心吊膽地把MC交給Red，結果Red一通突發惡疾似的動作盡頭只是用生物蛋放出幾隻小兔，氣得Blue用頭盔敲了他一記}} || [https://www.youtube.com/watch?v=sVhWjSKywAQ youtube]<br>[https://www.bilibili.com/video/BV1Da4y1h7tB bilibili]
+|-
+| EP2 || The Building Contest<br>建築比賽 || 2017/12/18 || 四色的速建比賽，TSC負責出題和當裁判<s>和展現其站著也能睡著的午睡技術</s><br>Green的建築天分殺死了比賽，{{censored|然後參賽作品就被Yellow和Blue默契十足地炸了}} || [https://www.youtube.com/watch?v=J_PRXuovweE youtube]<br>[https://www.bilibili.com/video/BV1PT4y1E7sE bilibili]
+|-
+| EP3 || The Roller Coaster<br>過山車 || 2018/1/19 || Yellow在試驗紅石元件時意外發現任務列下面別有天地，於是發揮聰明才智造了一套兼具觀賞和娛樂性的過山車出來請兄弟們遊玩{{censored|，只可惜漏算了MC沒有慣性的事}}<br>題外話，數年後Alan推出長款桌墊周邊，其中一款的圖案便是這套過山車路線的設計圖<s>雖然中間那個360°大回旋怎麼想都不太可能在原版遊戲中還原出來就是了</s> || [https://www.youtube.com/watch?v=cPWPAjYb5eI youtube]<br>[https://www.bilibili.com/video/BV1pK411H7jZ bilibili]
+|-
+| EP4 || Potions<br>藥水 || 2018/2/18 || 之前只是單純種地的Blue首次接觸到地獄疙瘩<s>原來可以吃</s>進而接觸到MC的藥水釀造系統，<s>某種意義上也可以說是一切的開始（看向未來的AvMS3）</s><br>後面Red遛豬時偶遇<s>喝藥喝到撐的</s>Blue和他釀造出來的藥水山，{{censored|而那頭小豬趁二柴沒注意喝光了那些藥水，化身諸神黃昏級的神豬大鬧電腦，火柴幫全員嗑藥上陣都不是對手……還好時間是把殺豬刀（字面含義}} || [https://www.youtube.com/watch?v=KXgaSaME-Ms youtube]<br>[https://www.bilibili.com/video/BV1ov411B7zm bilibili]
+|-
+| EP5 || Note Blocks<br>音階盒 || 2018/3/18 || ''注意：本片配樂異常洗腦。''<br>Red和Blue在練習建築時發現音階盒可以用於演奏音樂，Yellow加入後引入紅石音樂的玩法，到Green甚至當場組了個音階盒樂隊玩合奏<br>其時'''凌晨三點半'''，可想而知<s>在睡美容覺所以沒有參與的</s>TSC的心情如何，<s>此曲由此得名「再臨處刑曲（一代目）」</s> || [https://www.youtube.com/watch?v=c9DrryMw248 youtube]<br>[https://www.bilibili.com/video/BV1Gv411z7cT bilibili]
+|-
+| EP6 || Command Blocks<br>指令方塊 || 2018/4/18 || Yellow再次率先發現新大陸，這次是自學指令方塊，不過沒和兄弟一起玩而是拿去玩兄弟們（無誤<br>{{censored|和Red一起玩過頭差點釀成炸電腦的大禍，<s>還好[[成句/只要出問題，C4炸藥都能搞定|只要出問題，重啟都能搞定]]</s>}} || [https://www.youtube.com/watch?v=y5zW1c30MGQ youtube]<br>[https://www.bilibili.com/video/BV18C4y1h7qk bilibili]
+|-
+| EP7 || PVP<br>玩家對戰 || 2018/5/19 || 紅藍綠和橙黃同時在桌面上各自搭建建築，結果因為用地衝突產生矛盾進而局勢一再升級{{censored|，事件最後以Green被TSC失手誤殺告終}}<br>{{censored|……才怪，Green很快就在網頁內重生，結果兄弟們為他造了靈堂正在悼念，<s>從棺材裡詐尸</s>突然蹦出來的他因為嚇到兄弟們當場被Blue和TSC一柴一劍砍回網頁去了<s>[[隻狼：暗影雙死|隻柴：小綠雙死]]</s>}}<br><s>從此集開始，大家一提到Green就會想到史萊姆球</s> || [https://www.youtube.com/watch?v=z2sRTaa9lZU youtube]<br>[https://www.bilibili.com/video/BV1TC4y1h7Zq bilibili]
+|-
+| EP8 || The Nether<br>地獄 || 2018/6/19 || Blue和Green吃蛋糕時遭遇天降僵尸豬人<ref>本集發佈時最新的MC版本為1.13，僵尸豬人變僵尸化豬布林是1.16的事了</ref>，從而發現了<s>不知為何會出現在</s>倉儲檔案夾裡的地獄門<br>Tips：不要亂打僵尸豬人，更不要在打了僵尸豬人的前提下衝進<s>刷怪率超高的</s>地獄要塞，<s>除非你和兄弟想當[[MMORPG#《魔獸世界》的Leeeeroy_Jenkins!|Leeeeroy Jenkins]]</s><br>最後藍綠依靠釣竿<s>提前預言了未來更新內容地</s>'''騎乘一隻地獄幽靈'''<ref>7年後的MCLive 2025中宣佈與地獄幽靈同族的飛行坐騎生物「快樂幽靈」，<s>一群人立即表示此事在Alan Becker作品中早有記載</s></ref>清怪同時返回地獄門，和地獄揮別時發現居然還有其他地獄門存在，以及一隻紫色的實心頭火柴人……？ || [https://www.youtube.com/watch?v=E7x2pH6yiL4 youtube]<br>[https://www.bilibili.com/video/BV1za4y1h7Bk bilibili]
+|-
+| EP9 || Villagers<br>村民 || 2018/7/19 || 書接前回，追著紫色火柴人「Purple」進入對方地獄門的Blue和Green來到一台Mac電腦內，發現該台電腦內存在著奉Purple為王的村民聚落，然後就被村民扛去上貢了（無誤）<br>{{censored|該村莊極其重視由Purple賞賜的地獄石英，藍綠二柴由於向村民分發前回采掘到的石英被Purple視為大不敬者投入大牢，不過用賄賂村民的方式成功逃獄並演變成向村民們大肆分發石英塊和金塊的狀況<br>Purple在發現村民們收集石英等建材是為了替自己改建宮殿後便認可了Blue和Green，分發<s>從[[四次元口袋]]裡掏出來的</s>王冠給他們，並邀請他們一起進入宮殿下的密室……}} || [https://www.youtube.com/watch?v=_fPhQLM4Iac youtube]<br>[https://www.bilibili.com/video/BV1UA411e79J bilibili]
+|-
+| EP10 || The End<br>終界 || 2018/9/19 || 書接前回，ALANSPC內的橙紅黃三柴<s>終於</s>發現藍綠不知去向，並跟著他們留下的通天石柱發現了檔案夾內的地獄門。{{censored|回到村莊這邊，原來密室內藏有終界傳送門，於是三柴一同前往終界一探究竟<s>雖然Purple只是出於需要幫手的目的才叫上他們的樣子</s><br>一番騷操作下不單令龍蛋在終界龍未死亡時出現，更誤打誤撞（物理）發現終界船，並讓Purple得到<s>其專武</s>鞘翅，然後他就見龍蛋忘義拋下Green和Blue飛回主島，留他們面對終界龍的怒火甚至差點葬身虛空，還好兄弟們在村民指引下及時趕來救場<br>最後盜竊龍蛋為村莊引來無妄之災的Purple被村民們放逐，}}重聚的火柴幫終於能打道回府，一出地獄門卻發現附近還有更多地獄門…… || [https://www.youtube.com/watch?v=wkedWWxRABM youtube]<br>[https://www.bilibili.com/video/BV1Cv411i76a bilibili]
+|-
+| EP11 || SkyBlock<br>空島 || 2019/1/29 || 書接前回，紅黃藍三柴立刻迫不及待地跑去探索其他地獄門，Green說服一心只想回家的TSC未果後加入另外三隻行列，而他們選擇的地獄門通往的是經典空島生存地圖「Skyblock」的世界……<br>{{censored|Green和Red爭執時不慎把整個物資箱撞進虛空，與此同時唯一的樹苗也掉入虛空，變成真「空」島的地獄開局……才怪，後面一度過上有滋有味的空島生活<s>直到簡易刷怪塔被苦力怕炸毀+突逢雷雨天氣導致怪物大舉入侵</s><br>與此同時獨自在電腦內享受<s>自建沙灘+海濱效果音</s>的TSC因寂寞去網頁老家時突然意識到兄弟們在外遇險的可能性（確實如此），立刻一頭衝進地獄，但被地獄幽靈襲擊炸毀通往空島世界的門戶，不單是堵死了門那邊四色的退路，也把TSC逼入通往另一個未知世界的地獄門……}} || [https://www.youtube.com/watch?v=WTPt07NO61A youtube]<br>[https://www.bilibili.com/video/BV1WA411e7uQ bilibili]
+|-
+| EP12 || The Killer Bunny<br>殺手兔 || 2019/4/4 || ''{{color|#FF6600||Orange}}遭遇了邪惡的殺手兔，這隻兔子殺人的方式十分迂迴。''<br>書接前回，來到殺手兔領地的TSC不明真相下向對方打聽兄弟們去向，{{censored|被騙到綠林府邸內享用鴻門宴，但靠著<s>主角光環</s>強運有意無意地躲過一系列機關暗算，最後在殺手兔孤注一擲引爆府邸周圍暗藏的大量TNT時利用對方嗜好成功脫逃<br>與此同時四色那邊趁天候轉好成功收復空島，但在一切看似向好時Red被一隻漏網之魚的蜘蛛撲下高台，原來空島下面是一片海洋……}}<br>原標題為觀眾投票所起的「TNT Land/TNT大陸」，後修改為現標題，<s>但B站官方代理投稿標題目前還是舊的</s> || [https://www.youtube.com/watch?v=O3JPzQYJTZk youtube]<br>[https://www.bilibili.com/video/BV1Ez4y1D7ES bilibili]
+|-
+| EP13 || The Dolphin Kingdom<br>海豚王國 || 2019/5/11 || ''海豚王后被遠古深海守衛綁到海底遺跡裡了！''<br>書接前回，四色在海上以魚充飢時發現水底<s>的1.13海洋更新內容</s>別有天地，並得一隻海豚招待前往海底王國{{censored|，原來海底王國的海豚王后被遠古深海守衛劫走，海豚國王征召國民軍隊討伐未果<s>16條拿鐵劍的熱帶魚團滅前總共打出1點傷害</s>，無奈之下將救援任務委託給外來者<br>四色順利完成委託後得到前往當地地獄門的地圖，但半路被下行氣泡柱拖進海底峽谷還遭遇<s>飛翔荷蘭人號</s>沉尸追殺，走投無路之下闖入一死胡同洞穴，大家精疲力盡，Green更拿出五柴合照失聲痛哭……其實逃離殺手兔領地的TSC這時和他們只有一墻之隔，劇情在此中斷}}<br>{{censored|……才怪咧！}} || [https://www.youtube.com/watch?v=zRD4-cl9_OU youtube]<br>[https://www.bilibili.com/video/BV1o5411Y7an bilibili]
+|-
+| EP14 || Cave Spider Roller Coaster<br>洞穴蜘蛛與過山車 || 2019/9/21 || ''和過山車那集差不多，但是多了蜘蛛。''<br>書接前回，火柴幫在錯綜複雜的洞穴內尋找TSC來時的地獄門，中途兄弟們卻一個個失蹤{{censored|被洞穴蜘蛛綁走上貢去了<br>Blue和Green成功救回即將變成洞穴蜘蛛女王美餐的兄弟們，然後就被蜘蛛大軍追殺著逃進廢棄礦井，展開一段極其驚險刺激的高速礦車追逐戰}}<br>S1的收官集，某種意義上正如影片簡介所言，就是EP3加上大量洞穴蜘蛛，有許多複用EP3素材的地方，但即使如此，由於同一鏡頭內圖層和角色過多，該集還是耗費了數個月才製作完成<s>雖然和S3及其後劇集一比這根本不算什麼</s><br>於2023/10/18成為Youtube上播放數最高的Minecraft相關影片（截止編輯時共4.5億次），並超過無印成為Alan頻道上最多播放的影片 || [https://www.youtube.com/watch?v=pCBP4M08ndE youtube]<br>[https://www.bilibili.com/video/BV1n5411e7ud bilibili]
+|-
+! colspan="5"|<center>'''Season 2'''</center>
+|-
+| EP15 || Redstone Academy<br>紅石學院 || 2020/2/15 || ''{{color|#ffcc00||Yellow}}將他對紅石的畢生所學傾囊相授，然後考驗他的朋友們，要他們造出史上最荒謬的紅石裝置。''<br>Yellow為兄弟們開設紅石教學班，<s>可能也想順便教會屏幕前的觀眾們，至於學不學的會另說了</s><br>{{censored|結業作業為自主設計一組紅石裝置，莫名開始攀比的TSC和Green雙雙造出能'''在MC裡玩MC'''的計算機，結果第一名讓Red的洗豬機奪下}}<ref>{{censored|影片留言中有考察指出兩柴的計算機都運用到Yellow未曾教授的要素＝兩人極有可能作弊，因此兩人實際上被排除於評分外（評分時Yellow並未對兩人的裝置留下筆記）；Blue則是因為其設計的自動煮湯機紅石要素太少，更多運用水流機制而得低分}}</ref> || [https://www.youtube.com/watch?v=X7Mpp35EAqI youtube]<br>[https://www.bilibili.com/video/BV1Sz4y1X7VY bilibili]
+|-
+| EP16 || Note Block Battle<br>音樂對決 || 2020/3/14 || ''{{color|#66cc00||Green}}太會玩音階盒了，所以{{color|#cc0000||Red}}、{{color|#33ccff||Blue}}和{{color|#ffcc00||Yellow}}弄出一隻音樂小雞，幫助他們在史詩級樂隊對決中戰勝對方。''<br>如簡介所示，到後面Green和<s>[[風評被害#YouTube和ニコニコ動畫等影音平台的惡搞相關|蔡徐坤]]</s>音樂小雞（再加上同樣喝下音樂才能藥水的紅黃藍）在鬥樂中惺惺相惜，最終聯手/喙共演一曲搖滾版《命運<s>亂</s>交響曲》<s>貝多芬揭棺而起</s><br>理所當然正在睡覺的TSC再次受害，<s>人稱再臨處刑曲（二代目）</s>{{censored|，但這次忍無可忍下他抄起同款樂器，用一通狂暴solo震撼全場（物理）後揚長而去}}<br><s>音階盒+羊毛<ref>音階盒下的方塊類型會影響其音色，羊毛（任意顏色）可讓音階盒發出吉他音色</ref>+墻+現場附魔的喚雷三叉戟=電吉他，再加上雞就變成電「雞」他</s> || [https://www.youtube.com/watch?v=c0egcErkap0 youtube]<br>[https://www.bilibili.com/video/BV1Ai4y137Si bilibili]
+|-
+| EP17 || Build Battle<br>建築大賽 || 2020/4/11 || ''大家都因為{{color|#66cc00||Green}}總能在建築比賽中獲勝而氣得跳腳，到底誰能打敗他？''<br><s>舊活新整其一，EP2強化重置版</s><br>時隔15集，Green依然在建築競賽中一騎絕塵<s>還練出一套能把兄弟們丟來的TNT及時打飛的身手</s>，哪怕Yellow<s>賄賂裁判</s>讓TSC將主題選定為對自己更有利的類型，都敵不過Green總能造出更<s>離譜</s>優秀的作品{{censored|<s>雖然但是會跳舞還會主動反擊的真·機器人還是太誇張了</s><br>天道好輪回，無論是對Green還是兄弟們都一樣}} || [https://www.youtube.com/watch?v=WDQ60JGcxkw youtube]<br>[https://www.bilibili.com/video/BV1hi4y1V7KQ bilibili]
+|-
+| EP18 || Texture Pack<br>材質包 || 2020/6/13 || ''{{color|#ffcc00||Yellow}}和{{color|#cc0000||Red}}亂換所有方塊的材質，讓大家的生活一片混亂'' || [https://www.youtube.com/watch?v=ZXUCbK3Au4k youtube]<br>[https://www.bilibili.com/video/BV1Ng4y1i71y bilibili]
+|-
+| EP19 || Lucky Blocks<br>幸運方塊 || 2020/9/6 || ''基於人氣Mod<ref>即同名mod，添加了破壞後會隨機生成物品或觸發事件的幸運方塊，因其隨機性富於節目效果成為大量MC實況主的影片題材，其熱度曆久不衰</ref>創作。''<br>S2收官集，<s>繼上一集之後，Yellow又玩過火整出事了</s><br>在五色發現<s>不知為何會突然出現在原版遊戲裡的</s>幸運方塊後，Yellow私底下一通研究把<s>界伏盒</s>幸運方塊內的光球拆出來為所欲為，結果反讓光球奪舍自己身體大鬧一場<s>而且還會人傳人</s>{{censored|，一通亂戰後好不容易將光球「請」回原處，結果玩心未盡的TSC掏出顆綠寶石幸運方塊……}}<br><s>{{censored|在MC裡打出Terraria<ref>與MC並稱方塊建造類沙盒生存雙壁的2D像素遊戲，相比MC更偏重於戰鬥和PVE部分</ref>的效果、繼無印後Red再次一挑四但是反向、超級小豬從諸神黃昏轉職天蓬元帥}}<br>合成帽、地獄疙瘩法杖、[[進擊的巨人|立體機動裝置]]、[[仮面ライダー鎧武|大橙丸]]、海晶弓、火花魔棒、TNT箭……這幸運方塊裡頭怎麼什麼都有<ref>按理來說原版幸運方塊Mod里是不會開出這種縫合道具的</ref></s> || [https://www.youtube.com/watch?v=en5KyaRyRbw youtube]<br>[https://www.bilibili.com/video/BV1gK4y1a7io bilibili]
+|-
+! colspan="5"|<center>'''Season 3'''</center>
+|-
+| EP20 || The Piglin War<br>豬布林戰爭 || 2020/12/12 || ''{{color|#33ccff||Blue}}的地獄疙瘩吃完了，他要去哪裡補貨？'' || [https://www.youtube.com/watch?v=en5KyaRyRbw youtube]<br>[https://www.bilibili.com/video/BV13y4y1i7XC bilibili]
+|-
+| EP21 || The Witch<br>女巫 || 2021/2/6 || ''不是你在遊戲裡會遇到的普通女巫。'' || [https://www.youtube.com/watch?v=-Y2Mi2iAVMY youtube]<br>[https://www.bilibili.com/video/BV1wK4y1Q7Ui bilibili]
+|-
+| EP22 || Parkour<br>跑酷 || 2021/4/3 || ''一場跑酷友誼賽而已，不會有什麼壞事發生的，對吧？'' || [https://www.youtube.com/watch?v=q4dANhP7BVg youtube]<br>[https://www.bilibili.com/video/BV1tB4y1w7jz bilibili]
+|-
+| EP23 || Titan Ravager<br>泰坦劫毀獸 || 2021/5/22 || ''見鬼，有什麼東西一直在吃莊稼……'' || [https://www.youtube.com/watch?v=L_Z7lQTtJK8 youtube]<br>[https://www.bilibili.com/video/BV1ef4y1Y7C3 bilibili]
+|-
+| EP24 || Lush Caves<br>蒼郁洞穴 || 2021/6/12 || ''{{color|#FF6600||Orange}}和{{color|#cc0000||Red}}在洞穴深處遇到了某個人，不是伏守者。'' || [https://www.youtube.com/watch?v=yPCSUE0-4qI youtube]<br>[https://www.bilibili.com/video/BV1Y64y167Sa bilibili]
+|-
+| EP25 || The Ultimate Weapon<br>終極武器 || 2021/8/28 || ''MC的遊戲圖標不只能讓你變成創造模式。'' || [https://www.youtube.com/watch?v=8kiPjEeTaW4 youtube]<br>[https://www.bilibili.com/video/BV1Z3411B7r3 bilibili]
+|-
+| EP26 || The Warden<br>地下的守護者 || 2021/11/2 ||  || [https://www.youtube.com/watch?v=YZ4W964hocA youtube]<br>[https://www.bilibili.com/video/BV1Y34y1o7QM bilibili]
+|-
+| EP27 || Monster School<br>怪物學院 || 2022/3/5 || ''{{color|#cc0000||Red}}只有通過期末考試才能逃脫。'' || [https://www.youtube.com/watch?v=SNuJrSP3JDA youtube]<br>[https://www.bilibili.com/video/BV1WS4y1S7Qp bilibili]
+|-
+| EP28 || The Raid<br>突襲 || 2022/4/23 || ''這些窳民選錯襲擊對象了。'' || [https://www.youtube.com/watch?v=o5RhbG3tOT8 youtube]<br>[https://www.bilibili.com/video/BV1XS4y1h7gi bilibili]
+|-
+| EP29 || Note Block Universe<br>音符世界 || 2022/7/30 || ''{{color|#66cc00||Green}}被迫用音樂詢問{{color|#980098||Purple}}的去向。'' || [https://www.youtube.com/watch?v=4P6l35M61GY youtube]<br>[https://www.bilibili.com/video/BV1sB4y1C72v bilibili]
+|-
+| EP30 || The King<br>國王 || 2022/12/3 || ''故事的開頭和本季的結束。'' || [https://youtu.be/Sp2nxlrQ89w youtube]<br>[https://www.bilibili.com/video/BV1Jv4y1o7fU bilibili]
+|-
+! colspan="5"|<center>'''Season 4'''</center>
+|-
+| EP31 || Ultimate Minecart Race<br>終極礦車競賽 || 2023/5/27 || <s>舊活新整其二，EP3的PVP排位賽版本</s><br>拿鏟子划船式加速、水下礦車用三叉戟跟TNT加速、乾脆放棄礦車自己跑，各種奇怪招式紛紛盡出<s>……這還是礦車賽嗎？</s><br>{{censored|全員同時到達終點，但又為了獎盃爭個你死我活，Yellow只能把獎盃變成四個，得獎台也變寬一點<s>但好「兇」弟們依舊不肯放過彼此</s>}} || [https://www.youtube.com/watch?v=mOo9iTx0aMQ youtube]<br>[https://www.bilibili.com/video/BV1Wh4y1s7Zd bilibili]
+|-
+| EP32 || The Chef<br>廚師 || 2023/9/16 || ''MC的料理很無聊，是時候該升級了。'' || [https://www.youtube.com/watch?v=7UPEJjZ0UAE youtube]<br>[https://www.bilibili.com/video/BV1Kp4y1P7sn bilibili]
+|-
+| EP33 || Lucky Block Staff<br>幸運方塊權杖 || 2023/12/23 || ''{{color|#cc0000||Red}}用幸運方塊做了個小實驗……''<br>在眾柴拿著之前KO讓予的權杖跟諸多方塊配對測試後，摸到了幸運方塊，但想起之前（EP19）的事後紛紛搖頭……然後試完後就被Red拿去、趁著Yellow睡覺偷走權杖玩去了<s>然後果然又出事了<br>KO知道後會就權杖用法沉思Part 1</s> || [https://www.youtube.com/watch?v=vlVUVsx6BYY youtube]<br>[https://www.bilibili.com/video/BV1FQ4y1g7eL bilibili]
+|-
+| EP34 || The Prank<br>惡作劇 || 2024/3/30 || ''{{color|#cc0000||Red}}能成功捉弄到{{color|#66cc00||惡作劇絕緣體}}嗎？'' || [https://youtu.be/CvfldRjkmW0?si=UNkKDKuLthua4KkQ youtube]<br>[https://www.bilibili.com/video/BV1W1421D7cp bilibili]
+|-
+| EP35 || Note Block Concert<br>音階盒音樂會 || 2024/5/25 || Green活用在EP29中學會的新技能舉辦盛大的專場交響音樂會，<s>邀請兄弟們和村民擔當樂團，還借來權杖裝上音階盒使用</s>，結果精心准備的演出被一條喜愛音樂的蠹魚<ref>有一幕可見Green的物品欄內不知為何有終界傳送門框架的存在，有觀眾猜測可能在暗示整個演出場地由Green爆改要塞得來，才會有大量蠹魚出沒</ref>搶盡風頭{{censored|其實若不是Green被打擾演出後氣得一腳踹飛對方都不會有之後的展開<br>最後不單演出主角徹底被蠹魚們搶走，Green還被蠹魚群圍攻→被巨型蠹魚石像砸在底下，而兄弟們反倒和蠹魚樂團合奏得十分開心<ref>{{censored|有可能是為了幫兄弟解圍而主動和蠹魚合奏引開牠們注意力}}</ref>並收穫掌聲雷動<s>還拍下他被圍攻的窘況留念</s>}}<br><s>[[成句/偽裝真差，一看就知道是○○|偽裝真差]]，一看就知道是在致敬[[湯姆與傑利]]的《The Cat Concerto》和《in the Hollywood Bowl》等集</s><br>演出曲目：喬治·蓋希文《藍色狂想曲》→尼古拉·林姆斯基-高沙可夫《野{{ruby|蜂|<s>蠹</s>}}飛舞》→Sheet Music Boss《Rush E》<ref>十分知名的MIDI梗曲，從一開始就沒有考慮過单人手彈可能性的「黑樂譜」<s>雖然還是有不怕死的音樂家敢於挑戰，在劇中也讓火柴幫和蠹魚群彈到音階盒冒煙甚至自燃</s></ref><br><s>KO知道後會就權杖用法沉思Part 2</s> || [https://www.youtube.com/watch?v=w0bYgvYokFM youtube]<br>[https://www.bilibili.com/video/BV1kD42137Qh bilibili]
+|-
+| EP36 || Bed Wars<br>起床戰爭<ref>一類PVP玩法，玩家需要保護自家基地內作為重生點的床不被其他隊伍破壞，同時破壞其他隊伍的床並擊倒無法重生的玩家，存活到最後的隊伍獲勝</ref> || 2025/04/19 || 四色由於自製的起床戰爭地圖玩不過癮，跑進Hypixel<ref>規模最大、活躍玩家數目最多的MC商業伺服，主打以起床戰爭、空島戰爭等多人PVP玩法為主的各類小遊戲</ref>和各地人類玩家同台競技，但由於火柴人的性能遠超遊戲規則限制<ref>手速極高、能在JAVA版本服務器內使出基岩版限定的跑搭技術、可以直接投擲物品和武器對玩家造成傷害、對玩家使用投技或騎乘毆打等無法反制的體術、和地圖中生物互動<s>比如說把基地商人抓起來強迫對方吐出所有商品</s>、極強的攀爬和跳躍能力、因為是火柴人的關係碰撞箱細到一般玩家很難打到……相比之下玩家唯一的優勢就是手比較長可以隔空打人</ref>而引發一系列風波{{censored|最後引來管理員關切}}<br>'''須知：無論是否主觀上存在[[外掛|作弊]]意願或行為，在線上比賽內使出對其他玩家而言的[[金手指|不公平手段]]絕對是要挨Ban的'''<br>S4收官集，AvM系列首次引入全3D製作，使用特製Blender插件結合MC Replay模組，讓火柴人們在真實的MC地圖中和真實玩家互動，還專門請來數位知名的起床戰爭主播出鏡客串增添真實感<s>然後由於技術複雜加出場角色過多，製作耗時拉長到不能再長，踏上AvA11的年更後塵<ref><s>根據AnV前瞻直播所言，甚至可能是為了趕上宣傳眾籌的末班車才在眾籌結束前緊趕慢趕做出來的</s></ref></s><br><s>四色負責打架，TSC負責起床</s> || [https://www.youtube.com/watch?v=z2wAeLZjm-Q youtube]<br>[https://www.bilibili.com/video/BV1vP5tzsEjx bilibili]
+|}
+{{hidef}}
+
+=== Animation vs./火柴人 VS ______{{ref|空格處不固定}} ===
+* 通稱Av(其他)，從AvM衍生出來的另一個分支系列，<s>被AvM系列掩蓋的陰影人</s>
+** 每集都是獨立劇情，基本上就是{{color|#FF6600||T}}{{color|#66cc00||S}}{{color|#33ccff||C}}{{color|#ffcc00||等}}{{color|#cc0000||柴}}和各種多媒體內容互（打）動（交）
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| Animation vs. Minecraft<br>火柴人 VS 我的世界 || 2015/12/15 || 參見上面AvMS部分 || [https://www.youtube.com/watch?v=GW_fdXHOWp4 youtube]<br>[https://www.bilibili.com/video/BV1jD4y1Q76c bilibili]
+|-
+| Animation vs. YouTube<br>火柴人 VS YouTube || 2017/8/3 || ''{{color|#FF6600||兩個}}{{color|#66cc00||火柴人}}和Youtube播放器搏命相鬥，對抗影片和字幕的攻擊。超過30個人氣影片和YouTuber客串！'' || [https://www.youtube.com/watch?v=lhikdD6Hf2M youtube]<br>[https://www.bilibili.com/video/BV1T5411e76H bilibili]
+|-
+| Animation vs. League of Legends<br>火柴人 VS [[League of Legends|英雄聯盟]] || 2018/12/21 || ''{{color|#FF6600||桌面}}{{color|#66cc00||上}}{{color|#33ccff||的}}{{color|#ffcc00||火柴}}{{color|#cc0000||人}}們成了LOL的英雄，大戰野怪、龍和……{{color|#980098||紫色火柴人}}？'' || [https://www.youtube.com/watch?v=kA0Ywk7sQLg youtube]<br>[https://www.bilibili.com/video/BV1ok4y1z7LB bilibili]
+|-
+| Animation vs. Pokémon<br>火柴人 VS [[寶可夢]] || 2019/7/6 || ''別把NDS插在電腦上就走開不管……'' || [https://www.youtube.com/watch?v=fJYpKsGroio youtube]<br>[https://www.bilibili.com/video/BV1sk4y1q7GS bilibili]
+|-
+| Animation vs. Super Mario Bros<br>火柴人 VS [[瑪利歐系列|超級瑪利歐兄弟]] || 2019/11/9 || ''{{color|#FF6600||桌面}}{{color|#66cc00||上}}{{color|#33ccff||的}}{{color|#ffcc00||火柴}}{{color|#cc0000||人}}大戰超級瑪利歐兄弟1~3裡的瑪利歐、栗寶寶、慢慢龜、吞食花等等。'' || [https://www.youtube.com/watch?v=E-fbaLE_0Ew youtube]<br>[https://www.bilibili.com/video/BV1Yf4y1R7jP bilibili]
+|-
+| Animation vs. Arcade Games<br>火柴人 VS 電子遊戲 || 2021/11/26 ||  || [https://www.youtube.com/watch?v=-kCePEEBjvc youtube]<br>[https://www.bilibili.com/video/BV1dU4y1T7B4 bilibili]
+|}
+{{hidef}}
+
+==== Animation vs. Education/火柴人 VS 教育 ====
+* 通稱AvE，不和其他系列共享同一舞台（電腦/網絡世界）的同時，出場角色目前僅有{{color|#FF6600||TSC}}（數學~幾何，成癮有客串）、{{color|#ffcc00||Yellow}}（編程）和{{color|#33ccff||Blue}}（成癮），且多數時候都是在謎之空間內單獨出演{{censored|<s>甚至到底是不是主系列裡我們認知的那幾個柴可能都有待商權</s><ref>{{censored|沒有任何跡象表明AvE和其他系列存在劇情或設定上的關聯，Alan更傾向於認為AvE自成一體系}}</ref>}}
+** {{censored|<s>依AvA11的彩蛋分析，有觀眾猜測該系列或許是他們被Rocket Corp.囚禁時所作的夢境</s>}}
+** 標題關係，也被視為Av系列下的分支系列
+* Alan對寓教於樂和挑戰不靠語言說明詮釋各種知識點的嘗試，視覺效果極強，光是第一作《VS數學》就達到了前所未有的高度，破圈到會被諸多數學老師拿去播放給學生看的地步
+** 不過該系列的製作主要由Alan團隊的首席動畫師Terkoiz操刀，<s>和Alan經常為到底是更嚴謹表現知識點和更為劇情服務而犧牲嚴謹性發生口角</s>
+*** 「To be clear, my lead animator is the math nerd behind all this.」 by Alan
+* <s>就算觀眾看不懂也會大受震撼的系列，{{censored|定番是在一堆中小學知識點中間突然就給你來個超綱的插入}}</s>
+** <s>《關於我看火柴人動畫看得突然長出腦子這件事》</s>
+* 從<s>Alan突然丟出來的</s>《VS成癮》開始，主題不再局限於學術科目，而逐漸向更廣泛的社會知識等方面擴展
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| Animation vs. Math<br>火柴人 VS 數學 || 2023/6/24 || ''你對數學了解有多深？''<br>系列首作，發佈後立刻靠其驚人的表現力<s>和腦洞大開</s>一鳴驚人，先後榮獲2023年格致科學傳播獎「年度影響力科普影片」、BiliBili年度最佳作品，並為Alan捧下2024年IMI（Independent Media Initiative）獎<br>一言以蔽之：TSC大戰[https://zh.wikipedia.org/zh-tw/%E6%AD%90%E6%8B%89%E6%81%86%E7%AD%89%E5%BC%8F 歐拉恆等式（e<sup>iπ</sup>）]<br>{{censored|末尾出現了ζ<ref>[https://zh.wikipedia.org/zh-tw/%E9%BB%8E%E6%9B%BC%CE%B6%E5%87%BD%E6%95%B8 黎曼ζ函數]，代表數論</ref>、Ф<ref>[https://zh.wikipedia.org/zh-tw/%E9%BB%84%E9%87%91%E5%88%86%E5%89%B2%E7%8E%87 黃金分割率]，代表幾何</ref>、δ<ref>疑似指[https://zh.wikipedia.org/zh-tw/%CE%95-%CE%B4%E8%AF%AD%E8%A8%80 ε-δ語言]，代表分析學</ref>和א<ref>[https://zh.wikipedia.org/zh-tw/%E9%98%BF%E5%88%97%E5%A4%AB%E6%95%B8 阿列夫數]，代表集合論</ref>等數學符號夥伴，疑似在暗示後續的AvE主題→然後真的出了以Ф作為主角的《VS幾何》}} || {{youtube|B1J6Ou4q8vE|youtube}}<br>[https://www.bilibili.com/video/BV1ph4y1g75E?p=1 bilibili]
+|-
+| Animation vs. Physics<br>火柴人 VS 物理 || 2023/12/9 || ''來吧大夥……這比火箭科學容易多了。''<br>從基本力學一路跑到相對論和量子力學，場面之大可謂系列之最，{{censored|最後甚至涉及到純粹的理論物理，讓TSC鑽進黑洞<ref>{{censored|理論上任何物体落入黑洞視界都會被極大重力撕扯成基本粒子，<s>但TSC是用矢量軟件繪製的火柴人所以哪怕縮得比基本粒子還小都沒事</s>}}</ref>[[時間旅行|遇上]][[平行世界|其他時間線]][[另一個我|的自己]]，<s>比起科普可能更接近[[科幻]]了</s>}} || {{youtube|ErMSHiQRnc8|youtube}}<br>[https://www.bilibili.com/video/BV1cG411e75o?p=1 bilibili]
+|-
+| Animation vs. Geometry<br>火柴人 VS 幾何 || 2024/6/29 || 從物理宇宙回歸數學次元，這次是TSC和Ф（黃金分割率）的互動故事{{censored|，然而中間突然<s>定番超綱</s>殺出個四維幾何[https://zh.wikipedia.org/zh-tw/%E6%AD%A3%E4%BA%8C%E5%8D%81%E5%9B%9B%E8%83%9E%E4%BD%93 正二十四胞體]}}<br>{{censored|在影片末尾的正十二面體萬花筒中出現了《VS物理》中的牛仔帽版TSC<s>還突然揮手把這邊的TSC嚇得一頭栽進正十二面體裡</s>，正式確立二作設定上存在聯繫}}<br>涉及的知識點相比前兩作要少和淺顯<s>各種非歐幾何和拓撲學表示很淦</s>，但單論視覺和特效表現是不亞於甚至超過前作的 || {{youtube|VEJWE6cpqw0|youtube}}<br>[https://www.bilibili.com/video/BV1hs421T7g8?p=1 bilibili]
+|-
+| Animation vs. Coding<br>火柴人 VS 編程 || <s>2025/2/29</s><br>2025/3/1<ref>一月底Alan在IMI獎的獲獎感言中提及本作正在製作，稍後（二月初）的訂閱者郵件中更放出截圖和'''「會在本月稍後時間發佈」'''的消息，由此大家都認為會在月內最後一個週六（也就是2月22日）發佈，結果當天觀眾坐立不安一整天最後只等到一集Actual Short<s>一度引發海內外社群嘩然。</s>然後在'''俄亥俄州當地時間2月28日23:07分'''時突然發出9小時後'''（當地時間3月1日8:00）'''的首播消息<s>原來25年的二月也有29天哦</s></ref> || ''{{color|#8436e2||/(^∇^)╯}}''<br>主角由TSC更替為{{censored|<s>在AvA10末尾同樣被抓去的</s>}}Yellow，{{censored|<s>加深了這個系列可能和Rocket Corp.有關的嫌疑</s>}}<br>基本內容就是Yellow在代碼空間內自學[[程式語言|Python]]語法{{censored|然後初上手時敲太多錯誤語法出來，把他的筆電氣到<s>機魂大怒</s>開始追著他咬（完全無誤）}}<br>{{censored|有部分觀眾不滿於標題叫編程，但完全沒涉及其他程式語言或算法不說，影片全程只有相當淺顯的Python庫展示<s>不如改叫VS Python</s>，不過負責製作的Terkoiz其實也是在Alan和團隊監督下臨時趕鴨子上架學的Python……}}<br><s>最大的亮點大概是片尾Alan的賣萌顔文字業配動畫</s> || {{youtube|EFmxPMdBqmU|youtube}}<br>[https://www.bilibili.com/video/BV11RXRYuEdL bilibili]
+|-
+| Animation vs. Addiction<br>火柴人 VS 成癮|| 2025/3/15 || ''不，本集完全跟地獄疙瘩無關''。<br>與先前短片風格截然不同，言簡意駭地講述Blue在謎之空間內發現一系列[[強化藥物|按下便會令柴飄飄欲仙的按鈕]]{{ref|實際表現手法十分隱晦，其共通性使其說是在暗喻'''有毒關係、賭博、煙酒、不健康生活習慣和社交網絡/遊戲上癮等廣義成癮現象'''也能成立，不過結合下述的相關聯想，大多數人都下意識認為這些按鈕暗喻的就是'''以毒品為代表的一眾成癮性藥物'''}}，之後在偶遇的TSC協助下擺脫[[物欲感應器|按按鈕成癮]]的故事<br>首映前放出的預告縮略圖{{censored|內身體逐漸碎裂崩潰的Blue}}嚇倒不少人<s>並讓各路平台上一時間噴出許多不妙的二創</s>，但最終結局光明，並且戒斷療法某種意義上相當簡單：{{censored|在兄弟指導下練習<s>Chinese Kung Fu</s>正念冥想法}}{{ref|然而現實中一旦接觸過毒品，哪怕確實有TSC一樣不離不棄的親友，'''能夠像片中Blue這樣完全戒掉毒癮的例子少之又少，光靠練習冥想也不可能如此順利地擺脫毒品對身心帶來的嚴重影響，實際上生理戒毒後基於已經對神經系統的影響以及心理對毒品的看待下至今亦難有根治之法，說到底像Blue這樣能及時醒悟、意識到自己需要幫助和堅定戒毒信念的人本來就寥寥無幾'''，所以編者在此奉勸各位：'''戒毒的最佳方式就是從一開始就絕對不要碰毒品。'''}}<br>基本上一放出預告，海內外就都有人聯想到Film Bilder出品的禁毒公益短片{{youtube|HUngLgGRJpo|《Nuggets》}}{{censored|裡那隻吸取「金塊」成癮、最終身體黑化垮掉的奇異鳥/幾維鳥}}，還有人迅速畫出了兩作主角的聯動同人圖，播出後亦可見本集前半段{{censored|<s>嗑藥</s>成癮的}}演出明顯有致敬《Nuggets》的影子<br><s>地獄疙瘩感覺有人在婊它；另外雖然影片簡介裡說本集不關地獄疙瘩事，但某版縮略圖裡還是在一堆按鈕中混入了一顆地獄疙瘩</s>|| [https://www.youtube.com/watch?v=KoB2cqmYZNg youtube]<br> [https://www.bilibili.com/video/BV1cCQmY6EJ7 bilibili]
+|}
+{{hidef}}
+
+==== 公益短片 ====
+* Alan出於聲援環保公益活動目的制作的宣傳短片
+** 定番：Blue獲得可以用鈔票凈化環境的超能力→火柴幫齊心協力賺錢讓Blue可以發揮能力{{censored|→TSC一覺驚醒發現是夢，不過Alan真的在考慮要給環保項目捐多少錢→火柴幫齊心協力讓Alan捐出遠多於他預想的金額}} 
+*** {{censored|<s>最和平的系列，過程中只有Alan（的錢包）受傷</s>}}
+** 但除了Blue的鈔能力（無誤）以上定番'''全都'''沒有在《VS水》裡出現
+* 《VS海洋垃圾》由於標題格式原因會被分類為Av系列，而《全新超能力》此前則多是歸類到其他作品去，編者則按其共通性將它們單獨劃分為一系列
+** 不過在官方的24小時輪播直播頻道「ABTV」的節目表中，官方縮寫為《Av-Team Trees》和《Av-Team Seas》，得證這兩部作品確實算是Av所屬
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| Blue's New Superpower - #TeamTrees<br>Blue的全新超能力 || 2019/10/30 || ''{{color|#33ccff||Blue}}能把鈔票變成樹！你也可以！''<br>Blue向兄弟們兜售一美金一根的士○架以籌款用於種樹（字面），由於兄弟們很快便掏空了錢包，於是在Yellow的計策下開著熱狗車<s>一邊強買強賣一邊</s>四處留樹，<s>從城市馬路一路種到'''堵車的高速路面'''上（並引發車禍），連MC世界和'''海面'''都種上了樹</s><br>{{censored|末尾TSC在Teamtrees的網頁下端醒來，發現Alan猶豫半天只打算為活動捐獻5棵樹，於是抓起下排的100直接丟上去，讓最終捐獻數變成5100後替<s>剛反應過來數字怎麼變了的</s>Alan按下確認鍵}}<br>為應援MrBeast的[https://teamtrees.org/ #teamtrees公益植樹活動]<ref>每捐獻1美金即可為活動捐贈一棵樹苗，原目標為在2020年1月1日前籌集到兩千萬美金（已達成目標）</ref>而作，Alan事後為該活動捐獻了5100美金{{censored|並留言稱「是我的火柴人讓我捐這麼多的」}} || [https://www.youtube.com/watch?v=mlLl8eFJgkU youtube]<br>[https://www.bilibili.com/video/BV1t54y1v7e6 bilibili]
+|-
+| Animation vs. Trash #TeamSeas<br>火柴人 VS 海洋垃圾 || 2021/12/11 || ''請捐款拯救我們的海洋！''<br>火柴幫在佈滿垃圾的海灘上玩耍，Blue向兄弟們兜(ry)的冰棍時發現把鈔票丟到地上可以讓周圍的垃圾消失，由於兄弟們<s>再次</s>很快便(ry)開著冰淇淋艇(ry)用'''鈔票重機槍'''清理所經之處的海洋垃圾，途中還幫岸上正在植樹的Teamtrees志願者清理了場地<br><s>不過幫助海上遇見的衝浪者清掉'''即將撞到他們的巨大垃圾球'''，'''變形成潛水艇模式'''連海底的垃圾也不放過，'''發射鈔票魚雷'''進行廣域清理……教練用不用這麼誇張啊你們</s><br>{{censored|末尾可知原來只是TSC在沙發上蓋著宣傳折頁睡著時做的夢，不過Alan確實在瀏覽Teamseas的網頁，於是火柴幫<s>從四面八方抱著數字竄出</s>試圖讓Alan捐出個天文數字但都被早有預期的游標攔下及丟開，最後是Red趁對方還未來得及刪掉捐獻欄內的天文數字拍下確認鍵}}<br>為應援<s>同樣出自</s>MrBeast的[https://teamseas.org/ #teamseas公益垃圾清理活動]<ref>每捐獻1美金即可讓活動多清理一磅海洋垃圾，原目標為在2022年1月1日前籌集到三千萬美金（已達成目標）</ref>而作，Alan事後為該活動捐獻了10200美金{{censored|而非火柴幫試圖讓他捐出的'''18547808美金'''<s>話說這個金額真的會讓Alan破產吧喂你們這群看事不嫌事大的屁孩</s>，並留言稱「我的火柴人差點讓我捐出遠多於此的金額」}} || [https://www.youtube.com/watch?v=23BwajC5CKM youtube]<br>[https://www.bilibili.com/video/BV1pr4y1D7QX bilibili]
+|-
+| Animation vs. Water - #TeamWater<br>火柴人 VS 水  || 2025/8/9 || 與前兩作幽默誇張化的環保活動相比，本次風格更加寫實{{censored|不避諱強調飲用污水會令居民致病致死的嚴重性}}。這次Blue並不能直接淨化污水，而是將鈔票變成淨水工程師帽子後分發，讓大家一同合作加入淨水行動{{censored|也包括屏幕前的你我}}<br>{{censored|<s>Alan今次沒有破財</s>，主要是這次並沒有TSC醒來的劇情描寫}}<br>為應援<s>還是出自</s>MrBeast的[https://teamwater.org/ #teamwater公益淨水活動]<ref>每捐獻1美金即可讓活動多為一人提供一年份的清潔飲水，目標為在2025年8月31日前籌集到四千萬美金</ref>而作 || [https://www.youtube.com/watch?v=d_uDE3cD_Xg youtube]<br>[https://www.bilibili.com/video/BV1eRttz4E6n bilibili]
+|}
+{{hidef}}
+
+===Influncer Arc/網紅之路===
+* 通稱IA，以{{color|#66cc00||Green}}作為主角，描述其作為[[網路紅人]]從一炮走紅到迷失於熱度中再到金盆洗手的全過程，共三集
+** 劇中Green開設的Youtube頻道、[https://www.instagram.com/greenzilla4real Ins]和[https://www.tiktok.com/@greenzilla4real Tiktok]是實際存在的，真的有上傳Green制作的影片和自拍，Green還會在評論區點讚和留言{{ref|實際上是Alan本人親自扮演Green和觀眾們互動<s>順便不經意地透露一些設定</s>}}，觀眾們的實際留言也會出現在影片中
+** 在這層意義上是唯一劇情和現實時間線同步進行的系列{{censored|，但這麼一考慮就會發現IA3裡Green以外的四柴被困在Youtube頁面裡將近一周時間……<s>Alan這段時間在幹啥哦……</s>}}
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 集數 !! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| 1 || Green's Channel!<br>Green的新頻道 || 2024/9/7 || ''請關注{{color|#66cc00||Green}}的新頻道！[https://www.youtube.com/@Greenzilla4 @Greenzilla4]''<br>Green攝製並剪輯了一部火柴幫的花式灌籃合集，為了方便和兄弟一起欣賞<s>而不需要讓擠不進去的柴扒著TSC的空心頭從中間看</s>申請了自己的Youtube頻道，然後……<br><s>Alan試圖教會觀眾如何用PR作影片後製，雖然大家看完只會想說自己的剪輯水準怎麼還不如五個火柴人</s><br>{{censored|事實證明加太多<s>便宜</s>特效和濾鏡真的會出事，雖然末尾看似一切都解決了，但是……？}} || [https://youtu.be/i6fwSzRiEJM?si=6jWvaW7mFi7vuVcq youtube]<br>[https://www.bilibili.com/video/BV1D6pbemE8R bilibili]
+|-
+| 2 || IS GREEN OKAY?<br>Green還好嗎！？ || 2024/10/5 || 不出意外的話出意外了，{{censored|品嘗到名聲滋味的Green為迎合觀眾意見一步步做出違背本意的行為，為熱度甚至不惜騙兄弟掉進岩漿陷阱，丟進回收站的廢片也越來越多……<br>本來觀眾們看Green頻道那邊的更新愈發不對勁時心已經逐漸揪起來了，看到這一集評論區更是哀鴻遍野}} || [https://youtu.be/0m1HmcbBmjs?si=rYBYIbk6UePJtaTL youtube]<br>[https://www.bilibili.com/video/BV1dd19YPEwC bilibili]
+|-
+| 3 || Burnout<br>精疲力竭 || 2024/10/19 || {{censored|開首紅黃藍橙四柴就被肥大化後撐爆回收站爬出的Glitch Green抓住，<s>而只顧著在影片工作室裡刷手機的Green還以為被攆得滿電腦亂飛的兄弟們是在玩閃光大蹦床沒叫上他，氣得當場攝製反應影片向觀眾們控訴</s><br>只看到Green那邊的更新的話會擔心到底發生了什麼，然而其實是個意外溫柔的故事，最後Green和兄弟們也解開芥蒂，拋下虛無縹緲的熱度去打球了<s>被當球打的Chrome圖標：那我呢</s>}} || [https://www.youtube.com/watch?v=Qg1FcfQv-WI youtube]<br>[https://www.bilibili.com/video/BV19yCdYaEet bilibili]
+|}
+{{hidef}}
+
+===Actual Shorts/火柴人短片系列===
+* 通稱AS，在AvMS3和AvA的基礎上衍生的豎屏短片系列，時長通常在30秒到一分鐘上下
+** 由於<s>一點都不短的</s>AvMS已經占據了Short的名義，不得不加上Actual的前綴
+* 早期固定每週六發佈，S2開始<s>拖更</s>變成隔週六更新至今，<s>基本就是在正片出不來的時候用來水更新的</s>
+* 主要由團隊編劇Skim負責編導工作，<s>會出現很多不適合在正劇裡出現的[[公式が病気|發病]]和整蠱展開</s>
+** MC要素外也有混入其他風行梗、篇幅過短的聯動集或recall以前的劇集，有部分短片會聚焦正劇中路人或其他角色展開
+* 會將每年製作的短片劃分為一季並釋出（打亂順序的）合集供大家一次看個爽，目前第三季進行中
+
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 集數 !! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+! colspan="5"|<center>'''Season 1'''</center>
+|-
+| 1 || Basketball<br>籃球 || 2022/9/10 || ''真是場噩夢''<br>Green和Blue打籃球，不滿用蜘蛛網充當籃筐的效果，於是{{censored|把'''旁邊路過'''的TSC抓來固定在籃板上，'''掰平他的空心頭往裡大灌籃'''……還好只是TSC做的夢}} || [https://www.youtube.com/shorts/27IlyWXwd-g youtube]<br>[https://www.bilibili.com/video/BV13P411G7nb bilibili]
+|-
+| 2 || Bob<br>鮑勃 || 2022/9/17 || ''鮑勃真是個乖孩子''<br>TSC的簡筆畫造物「鮑勃」首次登場，{{censored|剛被畫出來不久便開始愈發過分地欺負Green，到後面Green被誤解無事生非而被TSC丟走後，更直接將矛頭轉向TSC}} || [https://www.youtube.com/shorts/TF5NLYbmEBc youtube]<br>[https://www.bilibili.com/video/BV1yY4y1N7mJ bilibili]
+|-
+| 3 || Enchanted Origami<br>附魔千紙鶴 || 2022/9/24 || ''或許換其他紙試試''<br>TSC突發奇想把附魔台上的書拆下來折紙鶴玩，然後這些紙鶴活了……還好在釀成大禍前盡數收容成功<s>被燒毀的IE：喂</s> || [https://www.youtube.com/shorts/5G5mqXvsKyU youtube]<br>[https://www.bilibili.com/video/BV1yD4y1C7NK bilibili]
+|-
+| 4 || Creeper Prank<br>苦力怕惡作劇 || 2022/10/1 || ''Aw man...''<br><s>So we back in the mine♪</s><Ref>源自著名MC實況者CaptainSparklez的苦力怕主題填詞翻唱曲《Revenge》的Meme，基本格式就是只要有人說出「Aw man」的話一定要接唱「So we back in the (ry)」，甚至一看到苦力怕就會有同好把歌詞從頭接起來</ref><br>Red穿著苦力怕皮套嚇唬兄弟們{{censored|最後遭到正牌苦力怕的現世報}} || [https://www.youtube.com/shorts/BkwdfnffeMw youtube]<br>[https://www.bilibili.com/video/BV1Xe411L7AA bilibili]
+|-
+| 5 || My Ghast Friend<br>我的地獄幽靈朋友 || 2022/10/8 || ''只是我和我的地獄幽靈朋友在廣袤世界上''<br>只是Yellow和<s>不知為何會來到桌面上的</s>一隻地獄幽靈友好相處的日常，{{censored|然後Blue誤認兄弟在被地獄幽靈襲擊，接下來發生什麼自不用多說<br><s>進度：不安的同盟</s><br>數年後Mojang宣佈實裝快樂幽靈時，推上馬上噴出一片Yellow和快樂幽靈的二創}} || [https://www.youtube.com/shorts/GCwIkC4w-Ho youtube]<br>[https://www.bilibili.com/video/BV1j14y177UF bilibili]
+|-
+| 6 || Carrot on a Stick<br>胡蘿蔔釣竿 || 2022/10/15 || ''誰會贏？''<br>Red用胡蘿蔔釣竿騎豬，Green用小麥釣竿騎牛，TSC用骨頭釣竿騎狗，{{censored|Yellow用'''地獄疙瘩釣竿'''騎Blue並一騎絕塵}} || [https://www.youtube.com/shorts/dOyE-nEUco4 youtube]<br>[https://www.bilibili.com/video/BV13G41177eZ bilibili]
+|-
+| 7 || Water Bucket Clutch<br><s>水桶離合器</s><Ref name="錯誤翻譯標題">B站搬運時的標題錯翻</ref><br>落地水|| 2022/10/22 || ''我有個大膽的想法……'' <br>火柴幫比試花樣落地水，{{censored|但奶桶是倒不出來的，所以Red的大膽想法後果可想而知}}|| [https://www.youtube.com/shorts/CXYtaJueO3c youtube]<br>[https://www.bilibili.com/video/BV1V14y15727 bilibili]
+|-
+| 8 || Color Confusion<br>混亂顏色 || 2022/10/29 || Yellow發現了吸管工具和填充工具的妙用並決定和兄弟們開個小小的玩笑<br>{{censored|所有柴都被他染成Blue的色號，就連TSC的空心頭也被<s>灌水</s>填充成實心<s>然後就以頭搶地（物理）了</s>}} || [https://www.youtube.com/shorts/g5FCa7myUwY youtube]<br>[https://www.bilibili.com/video/BV1wt4y1K7gP bilibili]
+|-
+| 9 || Spawn Eggs<br><s>生蛋怪</s><Ref name="錯誤翻譯標題"></ref><br>生怪蛋 || 2022/11/5 || ''外加生怪磚''<br>Red發現往生怪磚裡填裝複數生怪蛋可以生出縫合生物，{{censored|然後不斷增生的縫合生物把五兄弟連同整個電腦都淹沒了}} || [https://www.youtube.com/shorts/eNQki9oimwg youtube]<br>[https://www.bilibili.com/video/BV1av4y1U7fV bilibili]
+|-
+| 10 || Beef<br>牛肉 || 2022/11/12 || <s>牛：這麼好吃的東西給我也來一份</s> || [https://www.youtube.com/shorts/CiodgRaY3uA youtube]<br>[https://www.bilibili.com/video/BV1Lt4y1N7m1 bilibili]
+|-
+| 11 || Autocorrect<br>自動修正 || 2022/11/19 || 只是火柴幫為正在給友人寫郵件的Alan修改錯字{{censored|但愈演愈烈，Green加入後更直接把口語化的原文整個打掉重寫成超正式公函，讓Alan哭笑不得地要他們收手}} || [https://www.youtube.com/shorts/_cIrUjcorDM youtube]<br>[https://www.bilibili.com/video/BV11G4y1V7oq bilibili]
+|-
+| 12 || Hangman<ref>一種猜單詞遊戲，一方出一個單詞或短語作為題目，另一方逐個猜測題目中含有什麼字母，若猜對則將字母填上題目，若猜錯則出題方在題目邊的絞刑架上畫出一筆，當絞刑架上畫出完整的小人時即宣告遊戲結束。</ref> <br>上吊的人|| 2022/11/26 || Alan和火柴幫一起玩吊人遊戲{{censored|<s>並不經意間讓絞刑架上的小人一時復活，把他們吓得四散奔逃</s>}}<br>順便一提，題目是{{censored|Alan大學時的課題影片標題「My Paper crane flew away」}} || [https://www.youtube.com/shorts/5746SJTnpn8 youtube]<br>[https://www.bilibili.com/video/BV1A44y1S7nP bilibili]
+|-
+| 13 || Power Outage<br>停電 || 2022/12/17 || 關於紅黃藍在沙發上自娛自樂時桌面突然漆黑一片的事{{censored|，原來是Green為打碟爆改顯示設置，接下來四色便開心地蹦起了迪<br>其時為深夜十一點，TSC再次被吵到睡不著覺<s>人稱再臨處刑曲三代目</s>}} || [https://www.youtube.com/shorts/Qx6lTY8UnPw youtube]<br>[https://www.bilibili.com/video/BV1144y1Z7ZZ bilibili]
+|-
+| 14 || Ice Skating<br>滑冰 || 2022/12/24 || ''聖誕快樂！''<br>聖誕慶賀集，內容是Purple和KO在冰湖上愉快地滑冰 || [https://www.youtube.com/shorts/xwZRzeFCfjo youtube]<br>[https://www.bilibili.com/video/BV1TR4y1U7GS bilibili]
+|-
+| 15 || Fireworks<br>煙花 || 2022/12/31 || ''2023新年快樂！''<br>火柴幫一起觀賞新年煙花的療愈動畫{{censored|煙花內含彩蛋：游標、KO、Purple、MC圖標、Him、怪物學院的同學們、泰坦劫毀獸和伏守者，顯然是在新舊年交接之際回顧剛完結的AvMS3}}<br><s>有人建議最好看三次：第一次看火柴幫的有愛互動，第二次看煙花，第三次看整體</s> || [https://www.youtube.com/shorts/baUkeYKZa9Y youtube]<br>[https://www.bilibili.com/video/BV1iW4y1575p bilibili]
+|-
+| 16 || The Floor is Lava<br>熔岩地板 || 2023/1/7 || 地板是岩漿（物理）<br>{{censored|Red和Green在熔岩跑酷過程中不慎把包括Becker家合照集在內的一系列重要文件弄進熔岩燒掉，最後落得被Alan追著抽的下場}} || [https://www.youtube.com/shorts/NePpXeYX3lA youtube]<br>[https://www.bilibili.com/video/BV1t8411G7c7 bilibili]
+|-
+| 17 || Fishing Trouble<br>釣魚麻煩 || 2023/1/14 || 四色比拼釣魚，一直空軍的Yellow終於釣上來個大傢伙{{censored|遠古深海守衛：亻尓女子。緊接著四色就被深海守衛軍團通通轟上天，<s>遠在海岸上日光浴的TSC：發生什麼事了？</s>}} || [https://www.youtube.com/shorts/_t7iPRpeFRU youtube]<br>[https://www.bilibili.com/video/BV1iv4y167P7 bilibili]
+|-
+| 18 || Bottle Flip<br>瓶子翻轉 || 2023/1/21 || 四色的翻瓶挑戰，翻瓶→翻桶→翻釀造台，{{censored|Blue的翻鍋釜嘗試終結了比賽<s>順便把Green砸出了畫面外</s>}} || [https://www.youtube.com/shorts/WHz85mu3jEc youtube]<br>[https://www.bilibili.com/video/BV1nG4y1M7B2 bilibili]
+|-
+| 19 || Slime Trampoline<br>史萊姆蹦床 || 2023/1/28 || 橙黃藍三隻一起玩史萊姆方塊蹦床，{{censored|但玩過火被困在史萊姆方塊中動彈不得，<s>變成了火柴人果凍，而剩下兩色好兄弟只是在一旁[[橘朔也|OMO]]</s>}} || [https://www.youtube.com/shorts/JR5mzYrn8SU youtube]<br>[https://www.bilibili.com/video/BV1nG4y1M7B2 bilibili]
+|-
+| 20 || Music Lesson<br>音樂課 || 2023/2/4 || Green試圖教會TSC自體發聲，而TSC無論如何也只能噴出字幕{{censored|還讓Green[[殺人歌聲|慘遭字幕痛擊]]}} || [https://www.youtube.com/shorts/gpQDHnM7mNU youtube]<br>[https://www.bilibili.com/video/BV1sR4y1B7tk bilibili]
+|-
+| 21 || Pop Ups<br>彈出窗口 || 2023/2/11 || TSC大戰殺不盡的彈窗廣告{{censored|最後殺紅了眼，連來看他情況的Blue和Yellow也一錘一個放倒了}}<br>{{censored|<s>彈窗裡[[成句/有奇怪的東西混進去了|混進了很多奇怪的東西]]，包括'''鼠標相親網站'''和'''想偷混進來的ViraBot'''</s>}} || [https://www.youtube.com/shorts/uEwFnlj9uXk youtube]<br>[https://www.bilibili.com/video/BV1pe4y1w7Pz/?spm_id_from=333.1387.search.video_card.click bilibili]
+|-
+| 22 || King Orange vs. The Dark Lord<br><s>橙色國王VS黑暗之王</s><ref name="錯誤翻譯標題"></ref><br>橙王VS黑暗領主 || 2023/2/18 || 手持二合一圖標權杖的KO和裝備ViraBot手環的TDL的關公戰秦瓊，{{censored|數據刪除對決，中途卻突然殺出一隻巨型六翼神豬<br>其實是Yellow和Green在用KO和TDL的玩偶玩耍，卻被Red抱著小豬過來攪局，氣得Green當場一摔玩偶走人}}<br>題外話，因為此短片的存在，有些二創開始將原作中見都沒見過的KO和TDL拉郎配…… || [https://www.youtube.com/shorts/S38K4bSECmU youtube]<br>[https://www.bilibili.com/video/BV1eM411J75B bilibili]
+|-
+| 23 || Snowball War<br>雪球戰爭 || 2023/2/25 || 橙綠VS紅黃藍的雪球戰，Red和Blue先後被對面的高速雪球攻勢撂倒，關鍵時刻靠Yellow{{censored|蓋出一台投石機投射巨大雪球}}反敗為勝</s> || [https://www.youtube.com/shorts/BtNjobzHHOw youtube]<br>[https://www.bilibili.com/video/BV1HM411x7xS bilibili]
+|-
+| 24 || Omelette<br>製作蛋餅 || 2023/3/4 || <s>最後做出來的其實算是雞肉餅，圖片僅供參考，請以實物為准</s><br>順便一提，MC中從雞蛋裡敲出小雞的概率是1/8 || [https://www.youtube.com/shorts/tFlLjaUCo_E youtube]<br>[https://www.bilibili.com/video/BV1CX4y1U7TP bilibili]
+|-
+| 25 || Frost Walker<br>霜行者 || 2023/3/11 || Yellow試驗新附魔{{censored|時不慎把剛好在水池裡游泳的TSC凍到冰裡}}<br>不過有一說一，冰霜行者作為寶藏附魔按理來說是無法通過附魔台直接獲得的 || [https://www.youtube.com/shorts/GB3JhBjgNEA youtube]<br>[https://www.bilibili.com/video/BV1Xc411j7UA bilibili]
+|-
+| 26 || Wipeout Course<ref>海外版本的男生女生向前衝</ref><br>殲滅賽 || 2023/3/18 || <s>歡迎收看冷色暖色向前衝我是你們的主持人Alan(ry)、[[Fall Guys: Ultimate Knockout|火柴人：終極淘汰賽]]</s><br>兄弟們紛紛折戟於賽道機關，TSC過關斬將終於要通關時{{censored|被先前被機關打飛的Yellow砸落，最後的勝利由<s>稀里糊塗就抵達終點的</s>Yellow獲得}} || [https://www.youtube.com/shorts/Kz_KH51DMaI youtube]<br>[https://www.bilibili.com/video/BV1YL411d7Cz bilibili]
+|-
+| 27 || Gunslinger<br>槍手 || 2023/3/25 || 藍黃綠的西部快槍手遊戲，{{censored|快槍手Blue＜雙槍手Green＜發明了雙重弩接力發射技巧的Yellow}} || [https://www.youtube.com/shorts/cy4lfjN5vtM youtube]<br>[https://www.bilibili.com/video/BV1dm4y167ao bilibili]
+|-
+| 28 || Clicks Per Second<br>每秒點擊次數 || 2023/4/1/ || Alan和火柴幫一起<s>作弊</s>挑戰點擊速度測試，<s>說是挑戰結果大家又是指令方塊權杖上buff又是畫出啄木鳥和鑽機的</s>{{censored|最後不出意外地把網頁搞到過熱爆炸}} || [https://www.youtube.com/shorts/MUNdQtzgkig youtube]<br>[https://www.bilibili.com/video/BV1Bo4y1n7PJ bilibili]
+|-
+| 29 || Plantenstein<br>種蘋果 || 2023/4/8 || 正在種田的Blue突發奇想，把TSC畫出的果樹果核當種子種到MC的田地裡，結果……<br><s>B站代理放棄思考的名字，</s>英文原名是Plant(植物)+[[Frankenstein (Fate)|Frankenstein]]的合成詞 || [https://www.youtube.com/shorts/nRckdBgn5FM youtube]<br>[https://www.bilibili.com/video/BV1bL41127Fr bilibili]
+|-
+| 30 || Cherry Blossoms<br>櫻花 || 2023/4/15 || Purple在MC世界收集1.20更新的櫻花樹苗{{censored|帶回外聯網的某處墓地，供在母親的墓碑前面<br>前往墓地途中有路過一張TCO的通緝令（AvA9開頭同款），再次得證AvM和AvA是發生在同一世界線內的故事}} || [https://www.youtube.com/shorts/vu3sVVfz5TU youtube]<br>[https://www.bilibili.com/video/BV1oV4y1d7zb bilibili]
+|-
+| 31 || New Wallpaper<br>新壁紙 || 2023/4/22 || Yellow趁Alan被女兒叫走時偷跑到他的手機裡並把Green設置為手機壁紙，把回來的Alan嚇得差點摔機<br>{{censored|其實Alan的手機並非iPhone，但由於負責本集製作的Skim按iPhone的規格做的動畫，他也只好借台iPhone配合劇本}} || [https://www.youtube.com/shorts/NcnmwZYSLzI youtube]<br>[https://www.bilibili.com/video/BV1sM41157q2 bilibili]
+|-
+| 32 || Workout<br>鍛煉 || 2023/5/6 || Biger、Better、Stronger的Red和Green，但努力再好不如別柴隨便搞搞，{{censored|Red看到喝了力量藥水的Blue一拳打爆自己鍛煉後也打不破的黑曜石後直接破防摔頭帶}}<br><s>美人魚戰士和企鵝男孩合♂為一體</s> || [https://www.youtube.com/shorts/zB2MtzQb2iM youtube]<br>[https://www.bilibili.com/video/BV1oo4y1c7h6 bilibili]
+|-
+| 33 || Ragdoll<br>布娃娃 || 2023/5/13 || Red在看過GMOD布娃娃系統的搞笑集錦影片後拉著兄弟們一起來玩布娃娃遊戲，{{censored|TSC一出門就看到四個柔若無骨（字面）的兄弟從天而降，以為是自己起猛了便揉揉眼回房繼續睡}} || [https://www.youtube.com/shorts/Y3RYfj0IsCo youtube]<br>[https://www.bilibili.com/video/BV1La4y1u7K3 bilibili]
+|-
+| 34 || A New Witch<br>新女巫誕生 || 2023/5/20 || Blue終於複製出AvM21的女巫使用的喚醒藥水，一時興起偷走Red的黑貓、Green的Cos裝束和Yellow的指令方塊權杖Cos女巫 || [https://www.youtube.com/shorts/1pFdA94J2qg youtube]<br>[https://www.bilibili.com/video/BV16o4y1G7Ps bilibili]
+|-
+| 35 || Turtle Eggs<br>海龜蛋 || 2023/6/3 || Red試圖從小豬和玩耍中的兄弟們那裡保護正在孵化的海龜蛋，{{censored|千防萬防最後是自己一屁股坐了個功虧一簣}} || [https://www.youtube.com/shorts/ZY9Bt9DkZ_M youtube]<br>[https://www.bilibili.com/video/BV1mV4y1U72m bilibili]
+|-
+| 36 || [[星之卡比|Kirby<br>星之卡比]] || 2023/6/10 || Yellow和TSC把《星之卡比 超究極豪華版》里的卡比帶了出來，隨後TSC被卡比吞掉並Copy能力{{censored|從口部噴出AvA8里覺醒TSC的綠色光炮}}，之後卡比<s>疑似力竭</s>切入[[星之卡比Copy能力#睡覺（スリープ）|睡覺]]狀態，兩柴則被剛才的大場面弄得一頭霧水 || [https://www.youtube.com/shorts/otEWdW75iG8 youtube]<br>[https://www.bilibili.com/video/BV1Nm4y1v7tj bilibili]
+|-
+| 37 || Pork<br>烤豬肉 || 2023/6/17 || Red試圖說服TSC別當著小豬的面吃烤豬肉，{{censored|<s>但他們用的法子是把Green架在火上讓TSC「換位思考」</s>}} || [https://www.youtube.com/shorts/URVAqg4tEjQ youtube]<br>[https://www.bilibili.com/video/BV1Kh4y197Zk bilibili]
+|-
+| 38 || It's Alive!<br>喚醒藥水 || 2023/7/1 || 書接AS34，Blue將喚醒藥水分給兄弟們使用，Yellow想活化指令方塊的行為喚起大家關於AvM6的「美好」回憶，還好最後有成功阻止到{{censored|<s>但Green莫名其妙被TSC的活化箱子襲擊並吃了下去</s>}} || [https://www.youtube.com/shorts/mjvrDdwsSQw youtube]<br>[https://www.bilibili.com/video/BV1uh4y1u7sK bilibili]
+|-
+| 39 || Fruit Ninja<br>水果忍者 || 2023/7/8 || TSC玩丐版水果忍者<s>當你玩水果忍者時，記得要找兩個好兄弟幫你丟水果</s><br>{{censored|最後TSC挑戰蒙眼切西瓜時還以為順手把末尾的Green也切了，不過其實只是Green用自己的等身立牌和TSC開玩笑}} || [https://www.youtube.com/shorts/bKMkw4vazgE youtube]<br>[https://www.bilibili.com/video/BV13g4y1w7jm bilibili]
+|-
+| 40 || Bob Is Always There<br>鮑勃總是在那裡 || 2023/7/15 || 書接AS2，忍受不了被鮑勃不停針對的Green終於爆發，把鮑勃封印到了任務列深處，<s>然後鮑勃就待在那裡，一直……一直……</s><br>{{censored|由於表達時光流逝的蒙太奇中閃現過若干疑似影射時間軸上相對本集的未來事件畫面，有時會被考據者[[藍色的窗簾|用於分析未來的劇情內容]]}} || [https://www.youtube.com/shorts/gQp-2HUy_EI youtube]<br>[https://www.bilibili.com/video/BV15F411Q7T7 bilibili]
+|-
+| 41 || Faces<br>面部塗鴉 || 2023/7/22 || Alan給TSC畫上臉後，興奮的TSC也掏出筆為兄弟們畫臉<br>二創者狂喜、某種意義上的官方確認擬人設定，<s>雖然只有Blue的表情變得特別奇怪</s> || [https://www.youtube.com/shorts/VKXMICY7l_g youtube]<br>[https://www.bilibili.com/video/BV1u14y1X7N2 bilibili]
+|-
+| 42 || Cup Song<br>杯子交響樂 || 2023/7/29 || <s>拍拍左右左拍拿放，拍拿磕磕換拍扣</s><br>拿給Green拍的東西越來越奇怪，{{censored|最後Blue給他塞了個粘手的蜘蛛網}} || [https://youtube.com/shorts/JkUv2UHKPss youtube]<br>[https://www.bilibili.com/video/BV1Ap4y1L7Wb bilibili]
+|-
+| 43 || Feel Better<br>加油！一切都會更好的 || 2023/8/12 || {{censored|Alan本尊首次正面出演，屏幕內的火柴幫在為屏幕外<s>不知為何</s>消沉的他加油打氣<br>（AVG反應影片中）DJ：你在難過什麼？ Alan：我也不知道，是Skim這麼寫的。}} || [https://www.youtube.com/shorts/Czdsu1Oi6vE youtube]<br>[https://www.bilibili.com/video/BV1p44y1c7UN bilibili]
+|-
+| 44 || Ricochet<br>彈跳 || 2023/8/19 || Red和TSC在打怪時發現盾牌可以反彈箭矢，一番<s>謎之</s>操作下整出一發軌道炮級別的高速箭矢把對面骷髏幹飛{{censored|然後這發箭矢帶著骷髏環遊世界一周後飛回原地幹飛橙紅兩隻，<s>原來MC世界是圓的嗎</s>}} || [https://youtube.com/shorts/iBzLtNUspY0 youtube]<br>[https://www.bilibili.com/video/BV1aX4y1W71c bilibili]
+|-
+| 45 || Corn Dog Guy<br>玉米熱狗 || 2023/8/26 || 從路人視角看AvA9開首的街頭追逐，不過本篇的重點在於'''鏡頭內熱狗攤攤主該說是樂天+神經大條還是善於發掘商機的反應'''<br>{{censored|<s>正常柴會像他這樣攤檔連貨品被流彈打成馬賽克狀態，第一反應是換個名義加價賣出去嗎</s>}} || [https://www.youtube.com/shorts/RIQu-uks6Bs youtube]<br>[https://www.bilibili.com/video/BV1vz4y1M7Dw bilibili]
+|-
+| 46 || Sticktron<br>變形金剛 || 2023/9/2 || <s>[[成句/偽裝真差，一看就知道是○○|偽裝真差]]，一看就是[[生身單位]]版的[[成句/我來組成頭部|合體蘿蔔]]<br>[[超級戰隊系列|火柴戰隊五色連者]]：再臨橙，[[動物戦隊ジュウオウジャー|獸王]]紅，[[魔法戦隊マジレンジャー|魔藥]]藍，編程黃，音樂綠，還可能追加戰士[[鳥人戦隊ジェットマン|飛翼]]紫及番外戰士[[王様戦隊キングオージャー|君王]]橘</s><br>{{censored|不過理想很豐滿現實很骨感，玩高危動作最後只能是全員撲街收場，<s>Yellow率先撐不住，TSC失去平衡摔倒，Red被甩出去頭著地，唯一還能直立的Blue被掉下來的Green砸趴</s>}} || [https://www.youtube.com/shorts/r9YcPibYYc4 youtube]<br>[https://www.bilibili.com/video/BV1Cm4y1N7VT bilibili]
+|-
+| 47 || Piggie Love<br>豬豬之戀 || 2023/9/9 || Red的小豬與一頭母豬一見鐘情並步入婚姻殿堂，{{censored|更在婚禮上現場[[H|「造」]]豬<s>達成進度：送子鳥的禮物</s><br><s>被豬片生放送突臉的</s>未成年柴們反應各異：Red擰頭扶額、Blue和Yellow別臉後仰、Green抬手震撼，Purple雙手捂眼，TSC直接大腦當機一整個僵住}} || [https://youtube.com/shorts/gBdjZ4gR4A4 youtube]<br>[https://www.bilibili.com/video/BV19k4y1c7jb bilibili]
+|-
+| 48 || TNT Jump<br>TNT彈射起跳！ || 2023/9/23 || TSC教兄弟們<s>炮爺出擊</s>TNT跳，至於教學成果嘛……{{censored|<s>Red感受到了{{ruby|重力勢能|方向不對摔死}}，Yellow感受到了{{ruby|風能|被風吹跑摔死}}，Green感受到了{{ruby|動能|角度太低撞死}}，Blue感受到了{{ruby|化學能|直接被炸死}}</s><br>不過從後面的影片來看最後大家還是多少有學會的}} || [https://www.youtube.com/shorts/OZT001NY6bI youtube]<br>[https://www.bilibili.com/video/BV1Zm4y157TU bilibili]
+|-
+| 49 || Fox<br>狐狸 || 2023/9/30 || 一言以蔽之：Red和MC狐狸玩耍時被旁邊的火狐瀏覽器吃飛醋<br>影片中的火狐為<s>公式偷懶</s>AvA3的舊素材複用，<s>因此不要問Alan怎麼23年還在用09年版本的瀏覽器了</s> || [https://www.youtube.com/shorts/z69EUIbOFlk youtube]<br>[https://www.bilibili.com/video/BV15u411u7cc bilibili]
+|-
+| 50 || Rainstorm<br>暴雨 || 2023/10/08 || 怪物學院返場集，終界使者因為外面下雨的關係無法出去和同學們一起玩耍，幸得Red伸出援手借他一把雨傘{{censored|但'''雷雨天+高個子+雨傘舉高高是萬萬不可取的危險行為'''，請各位小朋友不要學習}} || [https://www.youtube.com/shorts/UgjNVue2_Gk youtube]<br>[https://www.bilibili.com/video/BV1284y117zy bilibili]
+|-
+| 51 || Matador<br>鬥牛士 || 2023/10/14 || '''指「羊」為「牛」'''、Green的耍帥集，只不過他鬥的這頭「牛」著實脾氣大{{censored|至於那個觀著戰就被一把拽去當紅布甩的Red純屬被兄弟拖下水}} || [https://youtube.com/shorts/UcHTOtUVUV4 youtube]<br>[https://www.bilibili.com/video/BV1e34y1g7wY bilibili]
+|-
+| 52 || Backrooms<br><s>密室</s><ref name="錯誤翻譯標題"></ref><br>後室 || 2023/10/21 || TSC失手把硬幣落入沙發縫隙，伸手去摸時不慎卡入後室Level 0，{{censored|不過因為和該層級的實體同樣都是火柴人（大概），在後室裡迷失一段時間後就得實體指路成功切回{{ruby|前室|現實世界}}了<br>末尾TSC在沙發上驚醒，驚魂未定下掏出硬幣想占個吉凶……<br><s>油管熱評：「I just want a video of him finally sleeping peacefully」</s>}} || [https://www.youtube.com/shorts/c2IwDLj9o4Q youtube]<br>[https://www.bilibili.com/video/BV1284y1d7Pt bilibili]
+|-
+| 53 || Nether Lap<br><s>虛空之眠</s><ref name="錯誤翻譯標題"></ref><br>地獄之眠 || 2023/10/28 || Yellow全力阻止Red在地獄探索途中去躺<s>不知為什麼會出現在路邊的</s>床，但Red一意孤行之下還是如願以償並被炸飛<ref>MC中在地獄和終界使用床時會引發爆炸，由此導致的死亡訊息為「死者 被 [刻意的遊戲設計] 殺死了」</ref><br>{{censored|其實Red已在附近的重生錨處設置重生點，躺床不是為了休息而是為了靠死亡重生刷新狀態，最後精神滿滿地拖著被床炸得半殘的Yellow繼續探索}} || [https://www.youtube.com/shorts/oPAIoyMCoOY youtube]<br>[https://www.bilibili.com/video/BV1Vc411Z7dv bilibili]
+|-
+| 54 || [[Rickroll|A Special Song]]<br>一首特別的歌 || 2023/11/11 || <s>'''你被騙了，但也完全沒被騙'''</s><br>就是你想的'''那首歌'''的音階盒版本翻奏+Green領著兄弟們翻跳本家MV，<s>[[偽娘|扮演金髮女郎]]的Blue一登場直接看傻一群觀眾</s><br><s>B站觀眾紛紛開玩笑稱代理應該把影片標題改成《AvA8預告》之流，而Youtube那邊大家都在問「是誰讓Green上互聯網的」</s> || [https://www.youtube.com/shorts/3DSkcmAEjH4 youtube]<br>[https://www.bilibili.com/video/BV1YQ4y187Ep bilibili]
+|-
+! colspan="5"|<center>'''Season 2'''</center>
+|-
+| 55 || Blu-ing Stand<br>煉制魔藥 || 2023/12/2 || 遇上彩虹，吃定彩虹（無誤）{{censored|<s>火柴人原來可以像氣球一樣被吹脹……教練我剛看了三小</s>}} || [https://www.youtube.com/shorts/2pM1PrWbcV8 youtube]<br>[https://www.bilibili.com/video/BV14H4y1C7P3 bilibili]
+|-
+| 56 || Speedrun<br>速通 || 2023/12/16 || TSC玩速通，用時4分43秒<br>{{censored|終界龍死因：被鐵砧砸到脖子}} || [https://www.youtube.com/shorts/RqhGnw-4TeQ youtube]<br>[https://www.bilibili.com/video/BV1Tb4y1L7cz bilibili]
+|-
+| 57 || [[成句/You cannot pass!|You Shall Not Pass<br>你不能通過]] || 2023/12/31 || 被洞穴蜘蛛王和凋靈怪王追殺的火柴幫復刻《魔戒現身》中摩瑞亞礦坑名場面，手持指令方塊權杖的Yellow帥氣地完全還原甘道夫當時的舉動{{censored|包括和對面一起掉下去的部分<br><s>帥不過三秒，掉下去沒過多久就摟著指令方塊權杖縮成一團地飄上來</s>}} || [https://www.youtube.com/shorts/LDJCMHqISfw youtube]<br>[https://www.bilibili.com/video/BV1W94y1c7ta bilibili]
+|-
+| 58 || Lightsaber Duel<br>光劍決鬥 || 2024/1/13 || 藍綠紅三隻用<s>從谷歌圖片搜索裡扒下來的</s>光劍Cos絕地武士決鬥<s>完全是在致敬歐比旺師徒VS達斯摩爾</s><br>{{censored|玩得興起時誤戳爆Windows開始菜單，連帶著再炸了電腦一次<s>Alan：（尖銳的爆鳴聲）</s>}} || [https://youtube.com/shorts/WthdgXPPhy8?si=TADcPJ8_1WHz7V_d youtube]<br>[https://www.bilibili.com/video/BV1WV411R7Rk bilibili]
+|-
+| 59 || Arm Wrestling<br>掰手腕 || 2024/1/27 || <s>嗑藥掛 VS 放大掛</s> || [https://www.youtube.com/shorts/Dz3za8cdwqM youtube]<br>[https://www.bilibili.com/video/BV1ZT4y1472A bilibili]
+|-
+| 60 || Do Not Disturb<br>請勿打擾 || 2024/2/10 || Alan正在急匆匆地規劃家庭旅遊支出時不停被火柴幫騷擾{{censored|甚至被破壞了一部分表格文檔，最後一怒之下用沙發來了個秦王掃六合}} || [https://www.youtube.com/shorts/4BQtlK4nMrE youtube]<br>[https://www.bilibili.com/video/BV1Fz421d7iG bilibili]
+|-
+| 61 || Hydraulic Press<br>液壓機 || 2024/2/24 || <s>沒有反應，就只是很普通的火柴幫用活塞壓爆各種東西的短片而已</s> || [https://www.youtube.com/shorts/YMLC8iudXWI youtube]<br>[https://www.bilibili.com/video/BV1N1421f7LK bilibili]
+|-
+| 62 || Smoke<br>冒煙（燒焦的雞） || 2024/3/9 || Blue讓剛睡醒的TSC幫忙看火候，結果對方直接在椅子上睡了個回籠覺導致等Blue回來時整個桌面已經煙熏火燎，還好TSC急中生智把桌面背景換成風景照片<ref>就那張WinXP經典的藍天白雲草地照</ref>輔助通風{{censored|然後燒焦的烤雞就隨風而去（物理）了}} || [https://youtube.com/shorts/j49k8p3Sd1s?si=iGhWMQJmszIwXSAi youtube]<br>[https://www.bilibili.com/video/BV1ft42157Ci bilibili]
+|-
+| 63 || [[俄羅斯方塊|Tetris<br>俄羅斯方塊]] || 2024/3/23 || 沒有反應，就只是兄弟們在看Yellow打俄羅斯方塊，<s>主要看點在於跳哥薩克舞的Green、肢體語言異常豐富的Red和Yellow最後一刻打出的消四清版</s> || [https://www.youtube.com/shorts/k9VS5QLULHc youtube]<br>[https://www.bilibili.com/video/BV13H4y1p7PQ bilibili]
+|-
+| 64 || Sea Shanty<br>海上船歌 || 2024/4/7 || 沒有反應，就只是火柴幫在狂風肆虐的海上<s>用蠟燭滑笛、鸚鵡螺殼、竹笛、山羊角和三叉戟的柄</s>合奏一曲《The Wellerman》<ref>一首19世紀的新西蘭船歌，經Nathan Evans翻唱於2021年在TikTok上走紅</ref> || [https://youtube.com/shorts/SeyBYD0B2BY?si=Hm-gl4fuxRKRgEd3 youtube]<br>[https://www.bilibili.com/video/BV1VJ4m1L7pD bilibili]
+|-
+| 65 || Rabbit Farm<br>兔子農場 || 2024/4/20 || <s>斐波那契數列魅力時刻、論澳大利亞為什麼會[[兔]]滿為患和不要隨便投餵野生動物的必要性</s><br>{{censored|<s>如無意外之後Red速通時的屠龍方式應該就是從這裡來的靈感</s>}} || [https://youtube.com/shorts/vSOgORxufW8?si=kaIBdxX1n0jrRyl2 youtube]<br>[https://www.bilibili.com/video/BV16m421x7o3 bilibili]
+|-
+| 66 || More Faces<br>更多面孔 || 2024/5/5 || 書接AS41，這次是幫來電腦裡做客的Purple和KO畫臉，{{censored|一開始由於TSC是按初遇時的刻板印象畫臉導致兩位都不甚滿意，在Green的提醒下才畫出更合適的造型}}<br>當然四色也獲得了以玩梗為主的新造型<s>雖然還是只有Blue的表情變得特別奇怪，還把Purple直接嚇飛出畫面外</s><ref>Green：[[天元突破/登場角色介紹#大紅蓮團（大グレン団）|卡米那大哥]]、Red：[[蜘蛛人]]、Yellow：甘道夫、Blue：gedagedigedagedago/Roblox Man</ref> || [https://youtube.com/shorts/8oqYkEr3rTg?si=xZLPLJTtLNCIxjNN youtube]<br>[https://www.bilibili.com/video/BV12Z42177ki bilibili]
+|-
+| 67 || Onion Skinning<br>洋蔥皮（動畫工具）<ref>Flash/An中的一項功能，允許同時顯示多個動畫幀以方便對比作畫</ref> || 2024/5/18 || Yellow在兄弟們和Alan打友情戰時意外發現洋蔥皮工具的妙用{{censored|可以通過看到自己未來的動畫幀來一定程度上預知未來，但還是回避不了被Alan的鏈球打飛的結局}} || [https://youtube.com/shorts/DaBu3XrMayI?si=OJ-j3BoL1ozFPVTT youtube]<br>[https://www.bilibili.com/video/BV1Nz421e7sc bilibili]
+|-
+| 68 || Upgrade<br>升級 || 2024/6/8 || Yellow將Blue用壞的鐵斧升級為[[鏈鋸|手持型紅石驅動自動伐木機]]，結果一啟動這玩意就徑直飛出去{{censored|撞進了畫面外的建築裡<br>之後Yellow仍想結合飛出來的半截斷劍做點什麼，但被Blue狠狠制止了}} || [https://youtube.com/shorts/7iO9sIrEcRw?si=PcOieren3PhUi4ER youtube]<br>[https://www.bilibili.com/video/BV1Nm421L7yy bilibili]
+|-
+| 69 || Too Close to the Sun<br>飛行比賽 || 2024/6/22 || 只是火柴幫和身穿鞘翅的Purple比拼長途飛行<s>但一個賽一個耍寶</s><br>{{censored|Red：拿著鮮花釣竿騎蜜蜂→被Yellow撞飛<br>Yellow：騎指令方塊權杖→被背後放冷槍打掉<br>Blue：開手動紅石飛行器→手速太快掰爛控制桿<br>Green：TNT大跳→光顧著耍帥死於落地過猛<br>TSC：掏出MC圖標開創造飛→失手把圖標丟出去後直接掉下去}}<br><s>飛行不規範，Alan兩行淚</s> || [https://youtube.com/shorts/WwKY_JPSSs4?si=ImQqWFRGN3Dvw4F_ youtube]<br>[https://www.bilibili.com/video/BV1my411q7wt bilibili]
+|-
+| 70 || Color Sorter<br>顏色篩選器 || 2024/7/13 || 由於<s>謎之</s>流水線遲遲沒有吐出紅色物品，白舉半天箱子的Red直接跑去把流水線爆改成只會出紅色<br>{{censored|然後輪到Blue和Green去爆改機器，強行把Red塞進箱子裡運走了}} || [https://youtube.com/shorts/cgI5n5v2-UA?si=u_rZiNqGniCWzf6Q youtube]<br>[https://www.bilibili.com/video/BV1UE421A7af bilibili]
+|-
+| 71 || Showdown from the Street<br>街頭對決 || 2024/8/3 || 從遠處的城市視角看AvA8決戰，但重點是'''鏡頭內熱狗攤攤主（ry）的反應'''<br>{{censored|對沒錯就是AS49的前傳，<s>仔細看會發現從AvA8到9的五年間這位的熱狗從3刀漲價到5刀了，真的很會做生意</s>}} || [https://youtube.com/shorts/MSUwAIZ7QgM?si=Iv2yeiHm-pwDyyn1 youtube]<br>[https://www.bilibili.com/video/BV1JW42197Gj bilibili]
+|-
+| 72 || Wishing Well<br>許願井 || 2024/8/17 || 丟金粒會下金子，丟雪球會下雪，{{censored|那推頭馬進去會從天上掉下來很多馬也確實沒毛病}} || [https://youtube.com/shorts/b22ZMmkGfEM?si=LVqi8Xc0pD8a6fVY youtube]<br>[https://www.bilibili.com/video/BV1KW42197RK bilibili]
+|-
+| 73 || Cartoon Physics<br>卡通物理學<ref>亦可稱之為動畫物理學，是對動畫中通過故意違背或忽略物理定律以產生詼諧效果的一類表現形式的戲稱，其起源可追溯到華納兄弟和米高梅等早期動畫公司無意發展出的一套相對固定的「定律」，在如今的動畫作品中已是普遍適用的手法。</ref> || 2024/8/31 || <s>1.起跑一定會揚起超大煙塵並且超快<br>2.無論多麼巨型的物件都能隨意從身上掏出<br>3.可以超長滯空<br>4.隨意畫出個弧形都可以作為門穿過去</s> || [https://youtube.com/shorts/xrpieJz6qiE?si=EpU7898qsEStOSrI youtube]<br>[https://www.bilibili.com/video/BV13r421T7um bilibili]
+|-
+| 74 || Red's Speedrun<br>Red的速通 || 2024/9/21 || 繼TSC後兄弟們也挨個來嘗試速通，用時6分25秒{{censored|主要因為他全程都是靠不殺生的方式獲得必須素材}}<br>{{censored|終界龍死因：被無限制繁殖的兔子淹沒}} || [https://youtube.com/shorts/1Y7NgROVFWk?si=TRB9aWnh4ANr570F youtube]<br>[https://www.bilibili.com/video/BV1rntremEh5 bilibili]
+|-
+| 75 || Bob from the Shadows<br>陰影中的鮑勃 || 2024/10/26 || 書接AS40，從任務列深處歸來的鮑勃<s>化身恐怖片風格魔怪</s>向<s>走夜路還玩手機的</s>Green展開復仇……<br>{{censored|似乎只是Green<s>自己吓自己</s>的噩夢，爬去封印地點確認無礙後就又爬回去了……真的無礙嗎？}} || [https://youtube.com/shorts/GTYIQ-MUk7E?si=53p9GzV38spaQ9gd youtube]<br>[https://www.bilibili.com/video/BV1dH1xYXEu4 bilibili]
+|-
+| 76 || Dog Show<br>狗狗秀 || 2024/11/9 || TSC和Red作為評委要評選出兄弟們的[[犬|狗狗]]哪隻最強，{{censored|但越到後面參賽選手便越是離譜<br>最後Green的狗狗以其'''波瀾壯闊的RPG式犬生'''，於'''壽終正寢後'''得火柴人們追授獎杯}} || [https://youtube.com/shorts/7p579TYx46c?si=z_mXMx3yri-H6vAv youtube]<br>[https://www.bilibili.com/video/BV1hnDrYMED2 bilibili]
+|-
+! colspan="5"|<center>'''Season 3'''</center>
+|-
+| 77 || Yellow's Speedrun<br>Yellow的速通 || 2024/12/7 || 用時5分57秒，{{censored|主要耗時在於他專程去找紅石做機關坑殺終界使者上}}<br>{{censored|終界龍死因：被甩了一臉礦車從而一頭撞暈在黑曜石柱上}} || [https://youtube.com/shorts/H7XxsTlxbFQ youtube]<br>[https://www.bilibili.com/video/BV13KqjYeEBg bilibili]
+|-
+| 78 || Angry Birds<br>憤怒的小鳥 || 2024/12/28 || TSC、Red和Yellow來到憤怒的小鳥遊戲內，愛惜動物的Red不想讓小鳥們送命，於是{{censored|和兄弟們掏出各種東西<ref>包括MC的TNT、蛋糕、鐵砧和活塞，水果忍者的西瓜，俄羅斯方塊x2，TSC的大錘和火柴幫的<s>祖傳</s>沙發，{{censored|還有一個未來得及發射出去的百噸砝碼（TSC繪製）<s>在TSC和Red歡呼勝利時把身後獨木難支的Yellow砸扁</s>}}</ref>對搗蛋豬實行飽和式打擊}}<br>關卡最終得分122000分，<s>然而發佈的一個多月前有實況主在同一關卡達成了[https://www.bilibili.com/video/BV1EzSJYQEMm '''只用一隻小鳥就打出125600分''']的成就</s> || [https://youtube.com/shorts/SyR8QBDgDsw youtube]<br>[https://www.bilibili.com/video/BV1QAChYWE1h bilibili]
+|-
+| 79 || Juggling<br>雜技 || 2025/1/11 || 紅黃藍玩拋接，{{censored|Alan拋接紅黃藍玩}}<br>{{censored|<s>動畫師重操舊業、裝逼讓柴飛起來、沒有危險的時候老爹就是最大的危險（大誤）</s>}} || [https://www.youtube.com/shorts/Y07hTk1Lg4A youtube]<br>[https://www.bilibili.com/video/BV1EFcAeeE1Q bilibili]
+|-
+| 80 || Green's Speedrun<br>Green的速通 || 2025/1/25 || 用時4分12秒，{{censored|只考慮兄弟們的話是}}速度最快的一位<br>{{censored|終界龍死……其實沒死，她只是被Green帶進終界的地獄幽靈嚇跑了，但回主世界的傳送門確實打開了所以算是速通成功}}<br>{{censored|有觀眾發現Green使用的似乎是實際MC速通者中也有使用的「Divine Travel」技巧<ref>通過特定區塊內的靈魂砂谷化石結構造型，可以在地獄就定位到要塞位置，進而可能在地獄搭建地獄門，從盡可能接近要塞的位置出來</ref>，<s>其他兄弟們可能只是玩玩，但Green是真的想贏</s>}} || [https://youtube.com/shorts/-QZlu9v62M8 youtube]<br>[https://www.bilibili.com/video/BV14mfZYAEze bilibili]
+|-
+| 81 || Circle<br>圓圈 || 2025/2/8 || Alan<s>老父親寵溺地</s>畫出個圓拋給TSC玩，<s>同樣是火柴人和圓形互動，怎麼你對長子和對老幺的態度截然不同（指）</s><br>籃球→足球→飛盤→呼啦圈，{{censored|最後落地變成哆○A夢通過環害TSC直接摔出畫布，<s>大家都猜可能是就此[[異世界穿越|穿越]]去數學次元，開始《VS數學》的故事了（大誤）</s>}} || [https://youtube.com/shorts/r79NpYw8vAU youtube]<br>[https://www.bilibili.com/video/BV116NVeDEvQ bilibili]
+|-
+| 82 || Zigzag<br>折線 || 2025/2/22 || 和前回類似的展開，這次Alan交給TSC的<s>玩具</s>是一條鋸齒狀折線，<s>同樣是火柴人和折線互動，怎麼你對長子和對老幺（ry）</s><br>彩虹圈→手風琴→彈簧→音頻折線圖，{{censored|最後TSC和游標一起被爆幹大聲的搖滾聲浪震飛</s>}} || [https://www.youtube.com/shorts/be3W87Jg6Xw youtube]<br>[https://www.bilibili.com/video/BV1CmPueiEJJ bilibili]
+|-
+| 83 || Blue's Speedrun<br>Blue的速通 || 2025/3/8 || 用時5分12秒，{{censored|和Red一樣走不殺生路線，但<s>大概是在人脈和賭運的加持下</s>耗時短了不少}}<br>{{censored|終界龍……沒死，她被砸變形藥水變成一顆紫珀方塊後傳送門就打開了，然後Blue跳傳送門時還不忘丟解藥給她變回原形}} || [https://www.youtube.com/shorts/IHTeDpHudRk youtube]<br>[https://www.bilibili.com/video/BV1hsRsYNEqN bilibili]
+|-
+| 84 || Handshake<br>握手 || 2025/3/22 || 六色演示如何逐步進階地和好厚米握手{{censored|<s>不過最後Lv100那款的……屏幕前的各位尋常人類真的學得會嗎</s>}} || [https://www.youtube.com/shorts/B5OU2T3BiFo youtube]<br>[https://www.bilibili.com/video/BV1wyXWY1E8x bilibili]
+|-
+| 85 || Groupchat<br>群聊 || 2025/4/12 || 只是紅綠兩隻<s>明明就坐在同一張沙發上</s>在手機群聊內瘋狂互甩Emoji和Meme，順便用信息提示音把只是想安靜看書的Blue煩到上樓去找Yellow{{censored|結果後來這位也在電腦上加入群聊甚至還更吵了}}<br><s>男高宿舍群聊實況，Blue和去睡覺了不在場的TSC慘遭兄弟取笑，還玩了MC大電影的梗和貓meme，要素實在複雜</s> || [https://www.youtube.com/shorts/RRdAuD66m9Y youtube]<br>[https://www.bilibili.com/video/BV1XydaYtE5E bilibili]
+|-
+| 86 || Purple's Speedrun<br>Purple的速通 || 2025/4/26 || 用時4分50秒，{{censored|雖然不能使用鞘翅，但他自己心靈手巧地組了台滑翔翼出來}}<br>{{censored|終界龍……沒死，她被裝上滑翔翼的竹製假龍從主島引開了。Purple在進傳送門前還猶豫了一下要不要帶走龍蛋，不過或許是回想起AvM10的經緯最終作罷}} || [https://www.youtube.com/shorts/NITd8ahLhn4 youtube]<br>[https://www.bilibili.com/video/BV15yLozCERY bilibili]
+|-
+| 87 || Arcade Cosplay<br>[[瑪利歐系列|街]][[薩爾達傳說|機]][[音速小子系列|角]][[Pac-Man|色]]Cosplay || 2025/5/17 || Red：[[Mario|瑪利歐]]<br>Green：[[薩爾達傳說/角色列表#薩爾達林克（リンク）|林克]]<s>高還原度的砸罐子好評</s><br>Blue：[[Sonic the Hedgehog|索尼克]]<br>Yellow：Pac-Man<s>[[成句/這是禁止事項|最好不要細想]]他到底是怎麼把腦殼像TCO那樣掰開的</s> || [https://www.youtube.com/shorts/bai1gNtK6KI youtube]<br>[https://www.bilibili.com/video/BV1YbJNzqEht bilibili]
+|-
+| 88|| King Orange's Speedrun<br>KO的速通 || 2025/5/31 || KO也被拉來玩速通<s>中年大叔來陪一群男高鬧騰</s>，{{censored|但和六色不同，這次Yellow將指令方塊權杖<s>和王冠</s>臨時歸還給他，在權杖的外掛級威能加持下}}最終用時'''5.25秒'''<ref>{{censored|有觀眾指出5月25日為國際失蹤兒童日，結合KO失子的過往……嘶}}</ref><br><s>毫無疑問地奪下金杯之上的鑽石杯，該集也以總共'''13秒'''的時長成為全系列最短的影片</s><br><s>寫作Speedrun讀作[[TAS]]</s>，{{censored|終界龍死因：被權杖直接一把甩飛出天際}} || [https://www.youtube.com/shorts/bai1gNtK6KI youtube]<br>[https://www.bilibili.com/video/BV1YbJNzqEht bilibili]
+|-
+| 89|| Block Beats<br>方塊節奏 || 2025/6/14 || 只是五色伴隨唱片「Otherside」<ref>Lena Raine作曲，1.18實裝的唱片</ref>的韻律一邊踩拍子一邊在村莊裡惹是生非{{censored|被忍無可忍的村民們<s>兩隻腳踩十隻手</s>丟下山崖後接續回影片開頭<s>禍害下個村莊去了}}<br>聽完這個就去睡覺（點擊單片循環）</s> || [https://www.youtube.com/shorts/-h2fo7c_dVM youtube]<br>[https://www.bilibili.com/video/BV1X8M2zoEQ9 bilibili]
+|-
+| 90|| Flip the Screen<br>翻轉屏幕 || 2025/7/12 || 偽互動影片，請用手機收看並開啟鎖定畫面以最優化體驗<s>像Alan一樣</s>惡整火柴人的快感<s>在電腦、電視和投影機上觀看的朋友們對不住了<br>壓死柴柴的最後一根羽毛、天吶（轉）觀眾（轉）怎麼能（轉）這麼壞（轉）</s> || [https://www.youtube.com/shorts/CIVtD7ftOEM youtube]<br>[https://www.bilibili.com/video/BV1wPM9zfEe7 bilibili]
+|-
+| 91|| Couples Discount<br>情侣折扣 || 2025/7/26 || 只是vic和Mitsi在逛公園…… 對嗎？<br>實質上可說是AS71前傳，重點還是'''那位熱狗哥（ry）的天才商業頭腦'''{{censored|，情侶特價七五折→但情侶熱狗兩根捆綁賣15刀（單根熱狗原價3刀，<s>蝴蝶結大概價值9刀吧</s>）<br><s>從秒拿出特價招牌和攤位上早就準備好情侶熱狗來看，說他沒在故意蹲守情侶路過都沒人信……</s>}}|| [https://www.youtube.com/shorts/EaHM8KTeDzo youtube]<br>[https://www.bilibili.com/video/BV1fC8bz6E3w bilibili]
+|-
+| 92|| Fingers<br>手指 || 2025/8/16 || TSC給自己和兄弟們畫出<s>只有四根<ref>出於節省作畫資源和迴避恐怖谷效應的考慮，美式卡通經常將角色手部畫成四指，亦有說法稱這是因為卡通常見的誇張比例會讓五指手顯得格外臃腫所致。無論如何，四指手已成為約定俗成的動畫設計定番並延續至今<s>，身為動畫角色的火柴人自然不能免俗</s></ref>的穿戴式乳膠手套</s>手指後的一系列體驗活動，剪刀石頭布、轉筆、撓癢癢、拇指摔角……{{censored|結果Red靠靈機一動<s>把自己變成Fido Dido/頭部被寄生獸寄生/賽富豪/派大星/沒翅膀的王靈官</s>讓所有柴都意興闌珊繼而扔掉「手指」離開}}<br><s>大家都在焦急等待AvA12更新時出現的陰間玩意兒，論為什麼畫火柴人一般不會加手指{{censored|因為小火柴會把手指戴在頭上玩}}</s>|| [https://www.youtube.com/watch?v=enw89_fCePA youtube]<br>[https://www.bilibili.com/video/BV1V2YezREZF bilibili]
+|}
+{{hidef}}
+
+===Minisode/迷你劇===
+* 最初在三千萬訂閱紀念直播中提及，為團隊正在嘗試的新體裁，顧名思義是時長比AS略長（和AvM早期集數相當）的橫屏短片
+* 標題不會帶上系列名，嚴格來說並非AS那樣的獨立衍生系列，更多作為已有系列的劇情/設定補充單篇而存在
+** <s>不過編者為方便整理還是將它們獨立列為一系列，並使用Mini作為系列簡寫</s>
+
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| App Staff<br>App權杖 || 2025/05/24 || 迷你劇首集，火柴幫<s>似乎並沒有吃到AvM33的教訓似地</s>繼續在ALANSPC和Alan的手機內<s>亂玩</s>試驗KO的權杖，這次是試著把各種各樣的應用軟體塞進權杖裡{{censored|<s>不小心拿手機上的基岩版MC圖標轟碎手機屏幕後悻悻然落跑，Alan不僅賠了手機還噴了錢（指Paypal圖標被拿來噴鈔票玩）}}<br>KO知道後會就權杖用法沉思Part 3</s><br><s>B站代理莫名加戲，在投稿名裡加上了原標題根本沒有的「火柴人VS」前綴，並且後面的Mini也一直這麼加戲下去了</s> || [https://www.youtube.com/watch?v=PCV5P6jzLcU youtube]<br>[https://www.bilibili.com/video/BV15mjhzzERW bilibili]
+|-
+| Speedrun Competition<br>速通競賽 || 2025/05/31 || ''誰能最速通關Minecraft?【Any%無漏洞隨機種子】''<br>乍一看就是將AS中分別投稿的六色+KO速通短片合起來<s>水了一期</s>，但畫面從原本的豎屏擴展為橫屏，並追加了若干新規鏡頭，例如Purple完成速通後舉行的頒獎儀式，並可知KO會來<s>陪孩子鬧騰</s>參加速通賽完全是因為Red在賽後慫恿他<br>{{censored|他似乎對權杖威能過猛的事有所自覺，所以在頒獎儀式的最後將王冠交給實質性冠軍的Green，<s>不過更有可能只是在哄生氣小柴開心</s>}}<br><s>從本集來看其實七篇速通短片都發生在同一天內，也就是說終界龍在同一天內被迫害了七次……</s> || [https://www.youtube.com/watch?v=ogcYo54WG9U youtube]<br>[https://www.bilibili.com/video/BV1bh73zkEef bilibili]
+|-
+| Mercenary Tryouts<br>僱傭兵試訓 || 2025/06/21 || Rocket Corp.的面試記錄，補完GUI以外三名僱傭兵的受僱經緯，千禧代知名火柴人<s>兼Alan的業內人脈<ref><s>雖說如此，本回內客串角色的原作者有好幾個已經在給Alan打工了（無誤）</s></ref></s>大回顧<s>，還有個來不及參加的[https://gildedguy.com/animation 倒霉鬼]</s><br><s>常常與Ballista混淆的[https://henrystickmin.fandom.com/wiki/Henry_Stickmin_Wiki 亨利火柴人]本尊一開始就拿錯道具，最終排行倒三之餘還被卡在面試區墻上看完整場面試</s><br><s>不單動畫角色，就連AIM圖標小人和[[任天堂明星大亂鬥參戰角色一覽#其他任天堂角色|Mr. Game & Watch]]也來參加面試，還好後者因為最後的槌子攻擊只Roll出1而同樣吃到不及格，否則[[任天堂]]名譽也會受損</s> || [https://www.youtube.com/watch?v=kvy93tvmarE youtube]<br>[https://www.bilibili.com/video/BV1rtN1zbEYT bilibili]
+|}
+{{hidef}}
+
+===其他===
+* 出現在Alan頻道或其他媒體上，難以歸類的系列相關（大概）動畫
+** 大多沒有被B站上的官方代理賬號搬運，不過有愛好者分享出來供大家觀看
+
+{{hideh|點擊展開}}
+{|width="100%" class="wikitable" 
+|-
+! 標題 !! 首發日期 !! 解說 !! 影片連結 
+|-
+| Pink Army || 2006/2/22 || 非系列作品，Alan真正的火柴人Flash動畫處女作，描述一隻橙色火柴人和粉色火柴人軍團及其<s>仙人</s>領袖間的死戰<br>{{censored|<s>有觀眾認為橙色火柴人有可能是KO前身</s>}} || [https://www.newgrounds.com/portal/view/297353 newgrounds]
+|-
+| StickFigureGreen || 2017/7/31 || ''這都被你發現了，恭喜。''<br>唯一不在Youtube系列列表內的相關影片，內容是{{censored|在《VS Youtube》中被上傳到Alan頻道上的Green}} || [https://www.youtube.com/watch?v=6Z9qOlZFn8Y youtube]
+|-
+| HAPPY BIRTHDAY ALAN BECKER<ref>非官方名稱，原影片沒有標題</ref> || 2022/5/18 || ''團隊裡的一名動畫師為我的生日驚喜做了這個！！！''<br>系列中唯一發佈於X而非Youtube的影片，內容是TSC和朋友們<s>雜耍式</s>做MC蛋糕為Alan慶生 || [https://twitter.com/alanthebecker/status/1527046897373962245 X]
+|-
+| The SACRED T-Shirt || 2023/8/18 || TSC在擺攤賣AVA的周邊T恤，四色為了搶一件樣衫大打出手，然後TSC就一邊看著朋友打成一團（字面）一邊向屏幕外宣傳Alan的周邊網店<s>並搬出更多T恤</s> || [https://www.youtube.com/shorts/66uT0SqfTmE youtube]
+|-
+| Black Friday Weekend Special || 2023/11/24 || 火柴幫鬥舞，影片最後Alan出聲為自己網店的黑五促銷打宣傳 || [https://www.youtube.com/shorts/P2z7NkwhVGk youtube]
+|-
+| Animation VERSUS! - Reveal Trailer - Kickstarter || 2025/03/26 || ''請在[https://www.kickstarter.com/projects/animationversus/animation-versus Kickstarter]上支持我們！''<br>開發中的官方遊戲《Animation VERSUS》的眾籌活動宣傳片，前半段是六色被吸入遊戲內試玩一波後由於'''沒錢續關'''憤而跑去開眾籌，後半段則是Alan、主力開發者Muno<Ref name="Muno">以作品品質出色著称的《Rivals of Aether》Mod開發者，其開發的AvA角色Mod備受Alan和DJ賞識而被邀請來主持AnV的開發工作</ref>和DJ介紹遊戲內容<br>本分類下極少數有被B站代理搬運的影片之一，<s>前半段有人吐槽被吸入遊戲內的演出大概會讓KO連續PTSD，到後半段則是冒出來一堆「什麼真的在做遊戲？！」的後知後覺</s> || [https://www.youtube.com/watch?v=K4lvfmbMkcw youtube]<br>[https://www.bilibili.com/video/BV1gcZMYtEdB bilibili]
+|-
+| ABTV - All Livestream Bumpers || 2025/04/05 || 極少數有被B站代理搬運的影片之二，24小時輪播直播「ABTV」的中插轉場動畫合集<br><s>珍貴的Yellow出浴鏡頭、TSC復刻迪〇尼頻道經典魔杖畫台標、各種單集角色限時返場、任何黑底畫面上都可以冒出來一個大大的ABTV字樣</s> || [https://www.youtube.com/watch?v=UCbl3TV_UCA youtube]<br>[https://www.bilibili.com/video/BV1q8RdYAE2E bilibili]
+|}
+{{hidef}}
+
+== 人物列表 ==
+=== ALANSPC ===
+* 顧名思義就是{{color|#8436E2||Alan}}的個人電腦，也是AvE外其他作品的主要發生舞台<s>兼受害對象</s>
+* 一共換過三台電腦，最初的電腦為一台裝載WinXP系統的筆記本電腦，其後換為同樣裝載WinXP的台式機{{censored|但這台電腦在AvA3的最後被TCO和TDL聯手報廢}}
+** AvA4時已換新電腦並更新為Win7系統，到《VS YouTube》更與時俱進地換成Win10至今
+** 關機後電腦空間內會像停電一樣變得漆黑冰冷，由於無法和任何東西交互，火柴人們只能選擇休眠。因此Alan很少關機，桌面上<s>可能是吸收了過往多次事件的經緯，防止火柴幫玩耍時誤傷無辜圖標</s>也只留下了回收站<s>方便他們扔些高危物品</s>和一個倉儲用文件夾
+* 在AvM1後和Minecraft世界產生了關聯，電腦內經常出現各種MC物品之餘，火柴幫也經常在桌面上搭建各種建築，如TSC的臥房、Blue的烹飪台/農田和Green的音樂台/影片工作室等等
+** 任務列以下便是MC的地層，更可以通過地獄門進入MC地獄，進而再前往各個不同的MC主世界<s>{{censored|包括別家電腦內的MC世界}}</s>
+* （可能只有）新電腦似乎可以從屏幕內看到外面的情況，{{censored|AS43中直接展示了從屏幕裡看出去的視角}}
+* 有時火柴幫會<s>從天知道哪裡</s>搬出一台灰色的條紋沙發，坐在任務列上觀看電腦上播放的影片或Alan打遊戲<s>又或者是圍觀屏幕外的遊戲機</s>
+* <s>經常被火柴人們亂搞，包括但不限於顯示設定被魔改成迪廳光效，界面窗口被爆破，任務列被挖開，{{censored|各種桌面圖標死於非命，網絡鏈接和防火墻被打穿通往外聯網的洞，甚至一直被用來回收危險物品的回收站也被肥大化的Glitch Green撐爆過}}，可謂系列最大受害者</s>
+{{hideh|點擊展開}}
+==== {{color|#8436E2||動畫師（Alan Becker/noogai3）}} ====
+* <s>作者本尊（無誤），無疑的</s>系列裡主角兼AvA S1的反派役，{{color|#505050||vic}}、{{color|#000000||TCO}}、{{color|#FF0000||TDL}}及{{color|#FF6600||TSC}}的創造者
+** 通常討論中會直接以Alan相稱，需要將作中動畫師和現實中的系列作者區分開的場合則會以舊網名「noogai3」稱呼之
+** 出自他手的火柴人都有著和外聯網常見火柴人畫風格格不入的空心<s>大</s>頭
+* 早期基本上只以屏幕中的游標形式和火柴人們互動，社媒頭像也是一隻著火的像素游標。AvA4開始會出現電腦前的本人背影或手部的實寫鏡頭，{{censored|到AS43中首次正面出演，為一戴黑框方鏡的亞裔長相男性<ref>本人的Kickstarter簡介中自稱為混血日裔</ref>，<s>不過早在AvA4的籌款宣傳影片中他就已經正面亮相了</s>}}
+* 千禧年初會在<s>小黃人</s>AIM即時通<ref>AOL instant messenger，American Online於1997年五月推出的即時通訊軟體，曾經是泛北美地區用戶數量最多的通訊平台，已於2017年12月15日結束運營。</ref>上與「programmer021」等網友交流火柴人相關事宜，隨著<s>本人學成歸來</s>時代變遷，如今同樣在各種當前的主流平台上活躍著
+* <s>不知為何</s>擁有賦予筆下火柴人生命的能力，於2006年6月3日<ref>AvA1首發日期</ref>創造出第一個火柴人<s>長子</s>「victim」{{censored|並變著花樣{{ruby|玩耍|虐待}}他取樂長達284天之久，<s>直到對方拆了他Flash軟體搭火箭逃脫才被迫停手</s>}}
+** 之後<ref>具體時間暫未確認，通常認為就是AvA11中vic逃跑兼AvA2在Newgrounds上發佈的日子（2007年3月15日）</ref>為追求挑戰創造出更強的火柴人<s>次子</s>「The Chosen One」，結果[[老馬|不小心]]賦予其太過強悍的能力而連著一眾桌面圖標被TCO按著吊打，最後被迫祭出Avast Antivirus的病毒隔離功能才成功制服對方
+** 隨後把TCO關入瀏覽器<s>並拴上鐵球腳鐐</s>，將他當做<s>ADblock</s>彈窗攔截插件{{ruby|使用|奴役}}，如此這般的數年後<ref>根據AvA7的回憶畫面是2011年10月2日，AvA3於Youtube上發佈的日子，<s>問題是AvA3的首發其實是2010年10月11日的atom.com，大概是吃書了</s></ref>卻不慎讓他抓到機會逃脫
+** 為阻止TCO繼續在電腦裡大肆破壞<s>和吃掉他的Essay</s>，緊急創作出<s>三子</s>「The Dark Lord」並賦予其「消滅TCO」的底層任務代碼，派遣他去對抗TCO，<s>然後自己就樂得輕鬆去後台玩空當接龍了</s>
+*** 誰知TDL不但不敵TCO，還反被TCO<s>抓住Alan偷懶的現行</s>拉攏，{{censored|最後二柴攜手爆破他的電腦使其藍屏<ref>從AvA4的描述中來看是燒毀了母板</ref>，留他面對著報廢的電腦自閉趴桌，}}故事到此告一段落
+* 再度登場已是3年後的2014年10月2日<ref>AvA4發佈日期</ref>，<s>買了台新電腦</s>。仍在繪製動畫，但從房間內四散的草稿來看似乎並不擅長繪製火柴人以外的物件<s>個鬼喔</s><ref>AvAS1合集的反應影片中有提及這些草稿是他讓非科班的太太畫出來後自己再照著臨摹的，<s>因為他自己畫不出來這麼難看</s></ref>
+** 一邊繪製火柴人跑步的逐幀動畫一邊在Facebook上和朋友聊及三年前的火柴人作亂事件，<s>順便插了個「三年來無事發生」的[[死亡Flag|旗]]</s>，然後被太太叫去洗衣房取衣物
+** 誰曾想繪製好的動畫幀<s>又</s>獲得了生命，也即是<s>末子</s>「The Second Coming」。等他<s>拿著一大筐衣物</s>回到房間，第一眼看到的就是TSC和剛認識的朋友們一起大鬧電腦……
+*** <s>大概是被觸發了之前三個火柴人一活過來就拿他的電腦開刀的PTSD，</s>立刻丟掉洗衣籃撲到電腦前爆發手速呼出Windows進程管理器，以迅雷不及掩耳之勢終止了四色和被他們從臉書裡帶出來的Emoji圖標的進程
+** 在進程管理器里看到了TSC的名稱和「The Chosen One's Return」的進程說明文，猶豫片刻後嘗試終止進程，但目睹朋友被接連「終止」的TSC「拒絕」被終止，AvA第四戰由此再開
+* 一度被TSC用他的臉書賬號胡亂發言差點社會性死亡，手機界面也被經由USB線闖入的TSC搞到一片狼藉，好不容易把戰場轉移到<s>主場</s>Flash界面內，結果游標被TSC用套索工具固定後，再被其用繪圖工具自行組裝的激光槍一槍射爆
+** 在手忙腳亂地通過<s>熟練得令人心痛的</s>純鍵盤操作從系統控制面板中調取新游標後，本想全選並刪除TSC繪製來破壞軟體界面的一眾動畫形象，卻發現TSC的繪畫技術比他不知道優秀多少<s>個鬼喔</s>，不由得停手專心欣賞起對方的作品
+** 下一秒游標就被TSC繪製的壯漢抓住拳拳到肉，逼得他按下刪除鍵，並趁機將仍想反抗的TSC關進加粗後的矩形線框內
+** 但TSC在絕境中用字幕喊停，Alan為火柴人會說話的事實大吃一驚{{censored|的同時也<s>終於</s>意識到他筆下的造物其實擁有独立意志和感情，並且是可以友好交流的}}
+** 通過刷新網頁帶回先前被「終止」<s>實則正在網頁後台打牌待機</s>的四色，由此和TSC建立亦師亦友的合作關係，在對方悉心指導了五個月後終於成為了能畫出合格的動物和人體結構的動畫師<s>個鬼喔！別再裝水熊蟲吃霸王龍啦！</s>
+* 從此逐漸從前三集中將筆下造物視為可隨意揉捏的玩物或工具、對他們缺乏同情心的<s>陰暗[[中二病|中二]]屁孩</s>施虐者，成長為相對更溫和且具耐心<s>相當寵孩子但玩心還是很重的老父親</s>的形象，<s>自稱花了十七年改過自新</s>
+** 過著平時和TSC合作完成作品，閒暇時和火柴幫一起{{ruby|玩樂|友情對打}}的生活，在ViraBot入侵等大事件中更一同並肩作戰。<s>當然偶爾也會仗著自己擁有電腦操控權，惡趣味發作地拿遊標玩弄他們</s>
+** <s>雖然性格比早年間柔和了很多，但火柴幫亂搞他的工作或重要文件弄得太過火的話還是會生氣的</s>
+* {{censored|從TDL後就未曾再主動賦予過火柴人名字和生命，但TSC還是在未經他命名的情況下<s>莫名其妙</s>活了過來，之後（AS12）中畫來當遊戲指示器的上吊火柴人也是突然就自己活了<s>還把火柴幫吓了個屁滾尿流</s>，似乎並不能完全控制筆下造物會不會活過來}}
+** {{censored|<s>其實可能不限於火柴人，大學時為作業折的紙鶴同樣莫名其妙就自己飛走了<ref>頻道內留存的大學課題影片《My paper crane flew away》內容</ref></s>}}
+* 雖然電腦經常被自己畫出來的火柴人破壞，給人以總是老馬的印象，其實戰力意外強悍，反應能力、操作鍵鼠的手速和點擊精確度都很高，在一眾火柴人的磨煉（和/或毆打）下也能和他們打幾個來回
+** {{censored|在AvA8中收拾先前被ViraBot和TCO破壞的軟體界面碎片時收到Yellow從TDL的終端發送的求援信息，經由對方臨時編寫的動畫師戰鬥程序以免疫數據刪除攻擊的巨大游標形式被投影至外聯網空間內}}
+** {{censored|加載完成不久後就理解了情況並立刻抓住TDL往崖壁上猛摔，其後和TCO配合默契，一度成功壓著TDL打，哪怕抓著TDL飛上高空時由於游標脫離界面導致投影一度消失，也只是一聲輕笑中臨機應變地用右鍵桌面菜單狠狠把TDL砸入水中<s>順便造出了一幕在遠處的城市內也能看到的巨型奇景</s>，直到TDL召喚出ViraBot的大群才寡不敵眾地敗陣}}
+*** {{censored|畢竟是存在於電腦外的人類，只能依賴鼠標和電腦空間內的物件互動，一旦失去游標就會對電腦內的攻勢束手無策，AvA4、5和8中都有此方面演出}}
+** {{censored|到了AvA9的時點在主場的An<ref>Adobe Animate，也就是原先的Adobe Flash</ref>界面內似乎已無懼於挑釁五色同時向自己發動攻擊，能嫻熟地通過快捷鍵切換多種繪圖工具以一敵多。不過到最後還是被來搬救兵的TCO把軟體界面燒了個大洞，<s>並且一年多了可能都沒有修好</s>}}
+** {{censored|在AS79中童心未泯（大誤）地單鼠標拋接Red+Yellow+Blue+三桶河豚+三把鑽石劍+三隻火把玩，再度展現強悍的手速和精確度<s>和惡趣味，結合一個月前才發佈的AvA11，觀眾紛紛感慨「Alan你十七年的改過自新究竟改了些什麼」</s>}}
+* <s>根據Green在自己頻道的答觀眾問，房間亂得離譜，但五柴都已經看慣了</s>
+* <s>{{censored|毋論不是由他起名的末子，}}從為前三只空心頭起的名字來看起名品味堪憂</s>
+** 不過亦有人指出四隻空心頭的名字似乎都暗含有[[基督宗教|宗教]]寓意，所以……？
+* 在AVG頻道的影片封面上常以'''戴眼鏡的'''{{color|#A000F8||紫色實心頭}}火柴人形象出鏡，也曾在一篇通告中使用'''戴眼鏡的'''{{color|#8436E2||紫色空心頭}}火柴人形象作為自設
+** 另外在Hyun's Dojo的訪談直播和官方遊戲眾籌宣傳影片中使用的形象是'''一隻戴眼鏡的巨大游標'''，<s>所以[[眼鏡]]才是[[本體]]是嗎</s>
+** 不過在二創中較受大眾認可的（游標以外的）形象倒是以那隻只出現過一次的紫色空心頭居多，<s>可能是因為色系和{{color|#980098||Purple}}相近用實心頭容易混淆</s>，也有人會使用<s>游標擬柴化</s>面戴游標型面具的白色火柴人形象
+** <s>形象真的很多。我是你爸，千變萬化</s>
+* <s>二創中的人物定位也相當多變，要不是AvA4及之後的寵孩子老父親，要不就是AvA1-3中純粹不將造物當人看的無情造物主，但大多會有著和前三個孩子（特別是vic）關係僵得不行的共通點</s>
+** <s>不知為何有不少將他和空心頭們配對的[[BL|腐向]]二創產出，並且以受け向{{censored|和虐他}}居多{{censored|，尤其是在AvA11播出之後。Alan你看看你}}</s>
+* '''不過noogai3和空心頭們之間的父子關係基本上都是觀眾和二創者腦補出來的公認二次設定，並沒有得到官方承認過'''
+** {{censored|'''Alan認為TSC和noogai3比起父子更接近於房客和房東<s>又或者寵物和飼主、凡人和會關心他的友善[[克蘇魯神話|邪神]]</s>的關係'''}}
+** {{censored|<s>不過本人確實會不時半開玩笑自稱火柴人們的爹就是了</s>}}
+* 現實中的本人是表情<s>顏藝</s>十分豐富的類型，所以雖然作中只在AvA9裡出現過實例，但二創中經常會讓他和火柴人們打字交流時語尾帶上各種各樣的顏文字
+** 在《VS編程》末尾他還真的搞了一分多鐘的顏文字小人動畫業配……<s>奇怪的形象代理又變多了</s>
+** <s>另外作中幾乎沒什麼表現機會，但AVG的影片內可見能發出各種個人特色強烈的怪叫和怪笑聲，並且笑點真的很低</s>
+
+==== {{color|#FF6600||Orange/The Second Coming（再臨者）}} ====
+* 簡稱「TSC/再臨」<s>要和兄弟們格式對齊叫Orange/小橙也沒問題</s>，四色平常都以Orange作為主要稱呼，<s>跟Green報他全名只會讓Green滿頭霧水地問TSC是誰</s>
+** <s>可能是因為全名太長</s>影片簡介和Alan平時稱呼時多半也是用Orange<ref>{{censored|疑似是並非通過Alan命名而獲得生命的關係，AvA8的程式代碼中可見他其實同時擁有兩個名字，<s>二創經常會設定為平時的TSC是「Orange」，覺醒狀態下才是「The Second Coming」</s>}}</ref>，
+** AvA4初登場，Alan第四個同時也是目前最後一個創造的火柴人<s>末子</s>，身體色號為{{color|#FF6600||'''#FF6600'''}}
+*** 身高和四色大致持平<ref>在早期作品中明顯身量比兄弟們大一圈，後面才縮水到差不多的地步</ref>，但<s>頭太大的關係</s>頭身比明顯比四色小，肩高也矮一些
+*** 頭部空心的部分可以看到後面，唯獨看不到被頭部遮擋的自己的身體部位，並且疑似不管他面朝哪個方向，看起來都是完整的正圓形
+*** 可以用填充工具將空心填成實心，但那樣的話就會支撐不住過大頭部的重量而以頭搶地（物理）<s>並發出水桶落地的聲音</s>
+* 和來自下述Stick Figures Fighting的四個火柴人是十分要好的兄弟和系列重啟後當之無愧的主角陣容，合稱「{{ruby|火柴幫|Stick Gang}}」或「Color Gang/五色」
+** Alan在AvMS3合集的反應影片中提及火柴幫的精神年齡大致在10~13歲左右，是一群「非常聰明的小孩」
+*** 不過時隔幾年後又在三千萬訂閱紀念直播中稱「從行為表現上看著像是十幾歲到二十歲前半的樣子，但火柴人未必能以人類的標準衡量年齡」
+* 誕生於2014年10月2日，起初只是Alan正在創作的火柴人逐幀動畫中的一幀，在Alan有事暫離時{{censored|在對方完全不知情且沒有出現命名畫面的情況下}}自行開始活動
+** 期間Alan一度返回房間，被吓得瞬間跳回原位擺pose，等Alan離開才鬆了一口氣，並興高采烈地探索起Flash界面外的電腦空間
+** 誤打誤撞點進了名為Stick Figures Fighting的瀏覽器標簽頁，被頁面內登場即開打的四個火柴人嚇了一跳，但很快便看到入神和興起，在想要參與其中的意願驅使下<s>一頭</s>撞斷動畫邊框，並受到聽到樓下動靜下來查看的四色歡迎
+*** <s>以身示範被撞斷的邊框可以安全出入</s>，帶著新結識的朋友們攀上頁面頂端翻入Alan的臉書頁面，一起放出臉書私聊窗口內的顏文字並把私聊窗口本身當做蹦床，在電腦空間中玩得好不痛快……然後就被拿衣服回來的Alan抓個正著
+** 第一個發現Alan歸來，慌忙想帶四色躲避但已來不及，眼睜睜看著他們一個個被Alan終止進程，最先向他表示歡迎的Green更是在他懷抱裡消失
+** 因為失去朋友而憤怒，而這時Alan已處理好被四色亂搞的界面，準備回過頭處理這個莫名獲得生命的造物時——
+{|class="wikitable" style="margin:auto;"
+!名稱!!用戶名!!CPU!!內存!!描述
+|-
+| {{ruby|TheSecondComing|再臨者}}.exe || Alan Becker || 00 || 3,012K || {{ruby|The Chosen One's Return|天選歸來}}
+|}
+* 在Alan打算終止其進程時拒絕響應，{{censored|身上閃現出手握火焰的TCO的虛影<ref>{{censored|Alan曾經提及現在還不能說，但TSC的誕生和TCO之間的關係日後會加以解答}}</ref>，}}並通過彈窗信息向Alan宣戰：{{color|#FF6600||'''「You ended my friends. Now I will end you.」'''}}
+** 隨即開始了其攻擊，不同於其{{color|#505050||前}}{{color|#000000||輩}}{{color|#FF0000||們}}靠軟件工具或超能力直接破壞軟體界面，TSC的做法是'''反手給Alan某臉書好友的厭世發言點了個讚，令她誤解Alan在嘲諷她並表示要和Alan絕交'''
+*** 靈巧地躲避抓捕同時不斷用Alan的名義大肆冒犯網友，<s>Alan只能追在後面[[精神分裂|判若兩人]]似地解釋，'''可能是第一個切實傷害到Alan的人生而非區區設備的柴'''</s>
+** 隨後跳入電腦上的iTune頁面，通過USB線鑽入Alan的iPhone，在手機備忘錄內留言{{color|#FF6600||'''「catch me if u can... u monster」'''}}，大鬧一通<s>還差點成功撥出假警電話</s>後，趁著Alan在手機文件內翻找的功夫把自己傳輸回電腦
+** 從桌面上的Dropbox圖標跳出突襲，回到Flash界面內一番交手後先是用套索工具束縛住游標，緊接著拿其他繪圖工具'''現場組裝'''成一把激光槍，將無處可逃的游標一槍擊殺
+*** <s>'''毫無疑問是第一個成功摧毀游標的柴'''，vic和TCO從遙遠的外聯網彼方道喜</s>
+** 在Alan焦急地調取新游標的同時用鉛筆工具在界面中畫出多個擁有生命的動畫形象，和自己的造物一起開始破壞軟體界面，其畫工之精湛雖打動到<s>扮水熊蟲吃霸王龍的</s>Alan，但最終所有造物還是被一併刪除，自己也被關入加粗的矩形線框無法逃脫
+*** 面對步步緊逼的游標，在走投無路的絕境中以橙色字幕的形式向Alan說話，央求對方住手和不要刪除自己，成為'''第一個和Alan有直接語言交流的柴'''
+*** 儘管明面上示弱，但仍然對Alan的誇讚和合作請求表達抗拒，甚至明言對方應該去死<s>該，Alan你看你這當爹的都幹了什麼</s>，直到看到先前被「終止」的朋友們其實還活蹦亂跳，馬上便<s>[[成句/真香|真香]]</s>詢問Alan什麼時候開工
+** 五個月後已和Alan成為亦師亦友的搭檔關係，在工作後的休息時間內拜訪Stick Figures Fighting，終於和兄弟們打上一場心心念念<s>雖然明顯兄弟們一起放了四個太平洋</s>的火柴人格鬥戰並大獲全勝
+* 相對他的{{color|#505050||前}}{{color|#000000||輩}}{{color|#FF0000||們}}性格要更古靈精怪而孩子氣，可以說是火柴幫的「笨拙的領導者」，不過並不專橫，會承認自己技不如柴的可能性
+** 處事風格較為謹慎，喜歡<s>宅家</s>平靜的生活，同時{{censored|可能是剛誕生沒多久就看到朋友們被幹掉的原因，}}十分重視朋友
+** 對朋友們充滿責任心，雖然平時會（盡量）避開任何可能會讓他和兄弟們遇到麻煩的情況，但兄弟有需要時總會勇敢地挺身而出{{censored|，如果當著他面傷害甚至幹掉他的朋友……只能說祝你好運<s>←以上來自Alan和TDL的良心提醒</s>}}
+*** {{censored|在AvM10末尾一心只想回家而和想要探索其他地獄門的四色分開，之後在電腦中獨自度假（迫真）時體會到了孤單的滋味，更在去四色居所找柴未果時<s>心靈感應到</s>生怕兄弟們陷入危機，便一頭衝入地獄去救柴}}
+*** {{censored|省略中途的波瀾起伏，最後和兄弟們殺出地獄（無誤）後，第一反應就是掏出鑽石鎬把這個惹事的地獄門給拆了}}
+** 心胸开阔，哪怕曾經傷害過他和他兄弟，一切了結之後也可以握手言和當朋友，VS LOL的最後就是他率先向Purple伸手表示友誼<s>和邀請他一起來開黑</s>
+*** 不過似乎是平時不太容易生氣，一生氣就容易上頭的類型{{censored|和Red發生衝突的那次，到後面Red顯然已有退意他還在一直揪著對方狂揍}}
+** 四色中和當初率先迎接他的Green關係最為要好，曾經一起迎戰過Youtube播放器，二柴還各自擁有一副和對方顏色相匹配的墨鏡，<s>毫不奇怪海內外都有[[腐女]]磕這個[[配對]]</s>
+* 由於有著和同時身為家中長子和兩個孩子的父親的Alan類似的<s>男子宿舍裡的大哥和爹</s>角色定位，性格也有相似之處，是與Alan自己共鳴最深的角色
+* 戰力是五柴中最強，除此之外的能力則算是平均型，在四個兄弟各自精通的範疇上都略懂一二<s>但在音樂方面可能和Green相差不大{{censored|，曾經嫌棄他們的樂隊對決吵到自己睡覺而拿方塊電吉他[[武力介入]]，一通狂暴SOLO後彈出雷暴和衝擊波炸了現場}}</s>
+** 掌握一手熟練的TNT跳技巧，曾經試圖教會兄弟們<s>結果被四個教不會的蠢蛋弄得哭笑不得，不過從後續影片來看最後大家還是學會了</s>
+** 本柴的興趣愛好是創作，放在電腦裡是繪畫（且技術精湛），<s>放在MC裡則變成物品合成狂</s><ref>無誤，VS MC裡是他首先發現合成台的功用，之後曾經從得到操作幸運方塊能力的Yellow那裡得到意念合成台，拿到喚醒藥水第一時間是砸給旁邊的合成台用，拿到權杖也有把合成台裝上去看看的反應</ref>
+** 有著豐富的綜合生存知識，團戰時常常秀一手高速合成為兄弟們提供戰鬥物資
+*** 當然手速方面自己家兄弟也沒有差太遠{{censored|AvM14中就跟Green合作表演了極速拼出超長軌道的離譜操作}}
+* 思路靈活，善於創意性思維和利用手邊的一切資源甚至於場地特性，大家遇險時他的靈光一現經常會成為事件的轉機
+* 戰斗風格同樣是什麼都會一點的均衡型<s>勇者</s>，不過和Red類似，平時主打近戰。專用武器是Alan在ViraBot入侵時畫給他的大錘和Flash/An的鉛筆工具
+** 沒有TCO和TDL那樣的攻擊性超能力，但擁有和Alan相似的動畫師異能，可以賦予筆下造物生命或相應的實物性質，簡單來說就是畫啥活啥<s>神筆小橙</s>，不需要的時候還可以把造物收回到筆中，並且他畫出的生命體（除少數例外）絕對服從於他<s>Alan你看看你畫的這群逆子</s>
+** 在AnV中理所當然被設定為均衡型的多面手角色，以鉛筆工具繪製出五花八門的物件使出各種招式<s>包括Alan在AvA3中使用過的POW字攻擊</s>
+* 在AvA5中和Alan合力繪製各種兵器對抗ViraBot未果，趁Alan<s>犧牲軟件視窗</s>拖住對方的時候去找兄弟們幫忙，結果一出來就撞見ViraBot完封游標的一幕
+** 差點和兄弟們被ViraBot包成粽子吃掉，幸得{{censored|終於燒穿防火墻}}闖入電腦的<s>二哥</s>TCO前輩出手相救，得救後領著兄弟們對TCO當場三叩九拜表達謝意，隨後追著TCO跳入對方打開的傳送門來到外聯網空間
+** {{censored|闖入<s>三哥</s>TDL的小屋，圍觀了兩位前輩的決戰，並在TCO明顯不敵於戴上手環的TDL時靈光一閃，提醒正在破解小屋內終端的Yellow可以把<s>老爹</s>Alan的游標拉來助陣}}
+** {{censored|在TDL召喚的ViraBot群徹底壓制TCO和消滅游標之後，情急之下跑出藏身所攔在TCO身前}}
+** {{censored|和兄弟們一起試圖擊退TDL但完全不敵，眼睜睜看著對方使用手環化作的黑色光刃一個個將四色消滅，自己也被TDL捅穿數刀但並沒有被消滅的同時仍在試圖反抗，最後被斬得遍體鱗傷后砸進山體裡}}
+* {{censored|在TDL即將將ViraBot釋放入互聯網的緊要關頭覺醒了真正的超能力，自行治愈身上的傷勢並以肉眼不可見的超高速一瞬間殲滅了所有的ViraBot}}
+** {{censored|此狀態下渾身縈繞綠色能量，可以近乎瞬移地超高速飛行和移動、操縱綠色能量隔空移物或強化拳腳攻擊，還能蓄力後從雙眼放出<s>亮得遠在城市街頭都能被晃到的</s>強力綠色鐳射<s>人稱36臨殺軟炮</s>，直接壓著TDL在地上犁出一條溝並將對方連著一座山頭一起爆破}}
+** {{censored|之後回到TDL的小屋，接觸終端後以綠色能量復活先前消滅的四色和游標，自己隨後力竭倒地被游標帶回眾柴身邊}}
+** {{censored|再醒來時貌似完全不記得覺醒狀態下的所為，對四色的歸來又驚又喜<s>並被唯一目擊全過程的TCO反過來跪拜致謝嚇到</s>，隨後和兄弟們一起搭乘游標返回ALANSPC}}
+*** {{censored|AvA11中可知被上傳的創作火柴人會以綠色粒子形式進入外聯網並獲得生命，這種「綠色生命粒子」疑似就是覺醒TSC操作的綠色能量的正體}}
+* AvM20中發現Blue不見後和兄弟們一同進入地獄搜尋，一直負責押後警戒{{censored|，在女巫偽裝的Blue將兄弟們一個個騙走變形時是唯一一個沒有中計的柴}}
+** {{censored|和女巫短暫交手後讓對方脫逃，借用Red留下的小豬的靈敏嗅覺<s>走了趟唐僧收徒路</s>將被變形的兄弟們一個個找回來}}
+* {{censored|擊敗女巫後蒙偶然遇到的Purple招待，雖然一開始想起上次地獄門大冒險的美好回憶（迫真）而攔下兄弟們，但在Purple的可憐攻勢加Green的說服下還是參加了<s>騙鬼的</s>跑酷友誼賽}}
+** {{censored|由此被和兄弟們分別困入迴圈跑酷賽道。被豬布林蠻兵追逐期间偶然發現將出口和入口的傳送烽火台相交可以讓賽道出錯，進而帶著一個烽火台成功切入Red所在的迴圈賽道}}
+*** {{censored|與Red合力用兩個烽火台將負責這條賽道的豬布林蠻兵<s>獵奇</s>處理掉，隨後讓三個烽火台相交，引發傳送故障切入到其他玩家世界的沙漠之中}}
+** {{censored|在沙漠中又累又餓但為了盡早回家仍堅持前行，並和已經無法忍受的Red發生口角<s>主要是斥責對方跟個Cry baby一樣和若不是對方貪玩輕信Purple的話也不會陷入此等境地</s>，進而升級為肢體衝突，在入夜後的沙漠中大打出手<s>順便累及周圍刷出來的所有怪物</s>，最後二柴一起墜入樹下的蒼鬱洞窟<s>[[Undertale|為墜落的火柴人起名]]，中途還一直在打架並把整個1.17更新內容快速過了一遍</s>}}
+** {{censored|爬到蒼鬱洞窟的礦井棧橋上後終於冷靜下來，與Red和解，一起欣賞蒼鬱洞窟的美景時遇見下來探洞的人類玩家alexcrafter28}}
+** {{censored|向Red指出對方背後的系統桌面，藉此成功脫出MC世界來到對方的電腦內<s>還揍了對方的游標一拳</s>，緊接著把自己和Red當做郵件附件發送回Alan的電腦，出來時剛好趕上前來偷取MC圖標的Purple抵達}}
+** {{censored|和Red一起對戰Purple，但還是遭對方將MC圖標落入電腦內的地獄門，Purple和Red一起消失在MC圖標形成的白色旋渦中，自己則被留在失去了MC要素的電腦里}}
+** {{censored|一籌莫展之餘開動腦筋<s>指給自己的空心頭來上兩巴掌</s>，通過郵件回到alexcrafter28處拿走那邊的MC圖標<s>順手又抽了對方的游標一巴掌</s>，利用它重返戰場}}
+* {{censored|一上去就給了KO一發重擊，解救下方被囚的兄弟們，給予他們武器自保後和KO來了場創造模式間的單挑，然而來自不同設備的兩個圖標碰撞發生劇烈互斥爆炸，被徑直炸入附近的地獄門中}}
+** {{censored|一飛出來就直接摔進旁邊的洞窟，狠狠落在<s>從存在著伏聆振測器來看提前更新了1.19版本的</s>深板岩洞窟內<s>為墜落的火柴人起(ry)</s>}}
+** {{censored|因為失去MC圖標而變成<s>冒險模式</s>可以破壞方塊但物品欄空無一物的狀態，到處尋找出路時驚擾了裡頭的伏守者，驚慌之下逃入旁邊的深暗古城}}
+** {{censored|四處躲藏但躲不開聽覺靈敏<s>還會破拆方塊</s>的伏守者，在<s>扔了一個附魔金蘋果引敵但收效甚微且</s>即將被其攻擊時，翻開在古城內撿到的筆記，把同樣撿到的木棒及蠟燭做成簡易的滑笛，吹響筆記中的樂譜}}
+*** {{censored|此舉令伏守者回憶起自己是古城曾經居民的守護者而放下對他的敵意，用<s>生動形象（字面）的</s>音樂說服對方協助他再戰KO，並與之一起爬出洞穴<s>協議一：連接鐵馭→協議三：保護鐵馭</s>}}
+** {{censored|回歸戰場後駕駛伏守者（無誤）與KO大戰，成功繳獲對方應急安裝上金磚用作武器的權杖，但也意外讓KO找回之前炸飛的圖標之一}}
+** {{censored|雖有兄弟們先後帶著援兵趕到，但還是讓對方成功把二合一圖標裝入權杖，不敵對方之餘更被權杖吸走所有來自MC世界的援兵，放出毀滅整個MC的光炮}}
+** {{censored|在Purple的捨身下得到喘息機會，想到把二合一圖標帶離當前維度來遏制毀滅光炮的主意，得豬布林族群和兄弟們的接力式協力下在最後關頭成功帶著權杖從最初的地獄門返回電腦}}
+*** {{censored|二合一圖標在Alan的電腦內脫離權杖並自動相斥分離，<s>一通把TSC吓得瑟瑟發抖的三維彈球式運動後</s>MC世界終於恢復原狀，而先前被圖標/毀滅光炮吸收的大家也全部安然無恙地回來}}
+** {{censored|事後安慰協助自己的伏守者，並目送祂作為怪物學院的新生和HIM等怪一起離開；最後將Alan的MC圖標放回任務列自從VSMC後就一直空著的原位，事件終於告一段落}}
+* AvA9中在和兄弟們+Alan打友情戰的時候被渾身是傷的TCO闖入，被對方跪求他使用<s>他自己都不記得有的超能力</s>幫忙<s>期間還被強行按頭學習如何用眼睛噴鐳射</s>，隨後直接被TCO搬救兵（物理）帶走
+** {{censored|到了外聯網直接被TCO拉著飛過僱傭兵小隊頭頂引起他們注意，稍後更被推出樹叢直面僱傭兵<s>怎麼都射不准</s>的槍口}}
+** {{censored|雖TCO及時反應過來想帶著他逃離，但很快就被電擊飛鏢射中而暫時失去戰力，為保護前輩拿出偶然間帶來外聯網的鉛筆工具攔在衝來的僱傭兵面前}}
+** {{censored|一邊<s>單手公主</s>抱起TCO逃跑一邊繪製出電鰻、鯊魚、犀牛和飛鳥等生物牽制三名僱傭兵，但低估了對方的實力而落於下風，之後更在和僱傭兵隊長Agent的單挑中完全落敗，遭對方使用暫停工具凍結後和TCO一起被帶回Rocket Corp.囚禁}}
+*** {{censored|鉛筆工具也一併落入Rocket Corp.手中成為研究對象，但員工們用這隻筆只能畫出普通的線條，於是將他暫時帶出牢籠，在研究區的盒子空間內展示繪畫創生的能力}}
+*** {{censored|按著指示繪製出電鰻，但這條電鰻在意識到自己即將被員工擦除時突然暴走<ref>{{censored|有明眼觀眾發現電鰻和TSC接觸時有一瞬間放出了綠色而非黃色的電流}}</ref>並大力衝撞盒子內壁，在被最終擦除前造成了部分設施的損壞}}
+** {{censored|被押回牢籠的時候剛好趕上<s>可能見過一面的<ref>在《VS Youtube》中曾有過AvA1開頭片段的串場</ref>大哥</s>vic在審問TCO，通過對方用記憶提取儀播放的TCO記憶畫面，看到覺醒後的自己使用超能力轟爆TDL的一幕}}
+*** {{censored|緊接著牢籠就被徹底封死，<s>然後TSC就在這片黑暗中被關押了一年多，可能還要繼續被關下去直到AvA12出來為止</s>}}
+* 擁有超強的學習能力，在AvE中多次快速從零基礎到掌握高等知識，{{censored|在《VS物理》中更是成長到可以在奇點中用一維開弦和閉弦手搓各種現象考驗其他時間線的自己、通過提普勒柱體穿梭不同弦論宇宙的地步，<s>如果你看不懂前面那句在說啥就對了，編者自己也沒完全看懂</s>}}
+* <s>疑似有嗜睡症</s>，作中多次表現過坐著甚至站著就睡著或睡眠被打擾後會很不爽的一面，據Green的答觀眾問，睡眠時間比火柴幫的其他柴要多兩小時左右，<s>人送稱號「{{ruby|覺|ㄐㄧㄠˋ}}父」或「{{ruby|覺|ㄐㄧㄠˋ}}皇」</s>
+** <s>但四色還是會在他睡覺時蹦迪或開音樂會，簡直是在故意惹他的起床氣，AvM35播出後觀眾都很驚訝他居然沒在睡覺而是積極參與演出{{censored|還在中間久違地秀了一手電吉他}}</s>
+** 會做很生動的<s>怪</s>夢，{{censored|比如說自己的頭被Green和Blue掰平了當籃球框、Blue只要把鈔票丟下去就能淨化環境、自己為了掏掉入沙發縫的硬幣一不小心卡進後室……等等}}
+* AS1之後有很多讓東西從他的空心頭裡穿過去的惡搞二創，現實中的官方實體周邊也把他的腦袋做成圓環狀，火柴幫在沙發上排排坐的官方擺件因此被開發出'''將TSC的頭掛在掛鉤上'''的擺設方式
+** 不過AS41和AvA9的部分鏡頭似乎可得證頭部中間雖然看似空無一物，其實存在不能物理性穿透的透明實體
+* 如上所述，可以通過在腦袋旁邊顯示橙色字幕的方式直接和Alan「對話」，<s>代價是無論如何都學不會像Green和Purple那樣歌唱，{{censored|用丹田發聲也只能用一串LAAAAAA把旁邊的Green撞飛}}</s>
+* 雖然在黑五促銷宣傳中曾經跳出過麥克傑克森式的舞步，但從IA2和Green頻道釋出的廢棄片段來看跳舞水平堪憂，<s>可能是因為頭太大影響到平衡吧</s>
+* <s>{{ruby|特色菜|TSC}}</s>
+* <s>二創中經常擔任吐槽役或苦勞人，對象從兄弟們到前輩們都有</s>
+
+==== [https://www.sticksfight.com/ Stick Figures Fighting] ====
+* 為一展示有四色火柴人格鬥動畫的網頁，設定上的作者/動畫師不明
+** 該網站內的四隻火柴人畫風和Alan手工繪製的四隻空心頭柴不同，不過場景的畫風和結構明顯是在致敬國人動畫師朱志強<ref>他於2000年左右創作的火柴人格鬥動畫開創了該門類的創作先河，不僅是中國Flash創作者第一人，也被國內外火柴人動畫師視為開山鼻祖</ref>的名作《小小No.3》
+** 相似的火柴人武打動畫風行於千禧初年，由此推算，可能是在AvA4發生的七八年以前建立{{censored|<s>也就是說單論出生時間四色其實可能和vic（06年）/TCO（07年）才是同輩</s>}}
+* 這個網站是實際存在可訪問的，點進去後可以看到AvA4中從TSC造訪到帶著四色離開頁面的段落，隨後上方的廣告條幅會變成通向AvA4的鏈接
+** 起初為Flash動畫，在2020年末隨著Flash停止支持無法再正常運作，直到24年6月才以html5動畫復原效果
+* 是下述四色火柴人的出身地和住家，{{censored|只要不是數據刪除級別的傷害，即使電腦內的四色因故{{ruby|終止進程|死亡}}，亦可在網頁內全須全尾的復活}}
+** 在AvA4中被旁觀四色格鬥看到興起的TSC破壞動畫左下角的黑色邊框，也成了原本只是在場景內打鬥生活的四色來到外面天地的契機，之後這部分邊框被改造為上翻的合頁門，方便火柴幫進出和友人們隨時串門
+* 由IA3得知網頁書籤名為「Home Sweet Home」，在Green發佈在自己頻道上的住房導覽影片中可見更多細節：
+** 在火柴人視角內上下左右的邊框為實心墻壁，靠近屏幕側有兩層高的挑高空間，可見前述後期加裝的上翻門，旁邊還有一扇不知通往何處的單門
+** 一樓的「特別的房間」由於「正在重新裝修」無法直接展示，但在匆忙的開門一瞥中可見裡面似乎有家具堆積
+** 二樓有一張遊戲桌和四色的臥房，臥房內可見兩張雙層床和應該是為TSC額外增加的地鋪床位<ref>不過之後Green答觀眾評論稱TSC是會和他們搶床位睡的，所以猜測床位分佈可能沒有意義</ref>、來自《VS電子遊戲》的街機、MC的箱子和AvM32中獲得的大師食譜、《VS寶可夢》的寶可夢球、Green的耳機和Yellow的筆電
+** 樓梯還可以繼續通往在網頁上看不到的三樓（頂層），但影片中沒有進一步展示
+
+===== {{color|#66CC00||Green}} =====
+* TSC的兄弟之一，身體色號為{{color|#66CC00||'''#66CC00'''}}
+* 為柴細心，洞察力過柴，很有藝術細胞，尤其在音樂方面有著驚人的熱情和天賦
+** 建築大師，AvM0中一拿到創造模式就自己建了一座'''會轉會冒煙的'''大風車塔<ref>順便一提這座風車在Alan持有的MC服務器裡曾經被一比一復刻出來過，'''包括會轉和會冒煙的部分'''</ref>，在建築類比賽中往往是壓軸展示<s>裝逼</s>並技壓群柴的一個{{censored|<s>但有次整棕熊雕像時不熟悉凋靈骷髏頭顱的特性而把凋靈怪召喚出來了</s>}}
+** 能把音階盒玩出花，樂器萬般精通外還手把手教會TSC以外的兄弟，{{censored|自從AvM29習得自體發聲技能後更是把這門技能用得格外嫻熟}}
+*** 經常性組樂隊或打碟，特別是在半夜凌晨，通常會吵到想睡覺的TSC<s>你現在無法休息，附近有柴在蹦迪</s>，因此那些「擾柴清夢」的樂曲也常被稱為「小橙/再臨處刑曲」
+*** <s>毫無疑問在樂隊中是主音吉他+主唱擔當</s>
+* 萬事通，不止音樂或建築，學什麼都能很快上手<s>並開始裝逼</s>，但也容易為此得意忘形或因為想在兄弟面前秀一把而反害自己倒霉
+** 好勝，有完美主義的傾向，且做事時一旦被擅加干涉就很容易發火，在平常隨地耍帥的[[イケメン]]形象下性格意外感性兼有些暴躁
+*** AvM7裡是在建築空間衝突時率先拔劍發難的那個，{{censored|於是也一馬當先地被兄弟們先後失手砍回<s>重生點</s>網頁兩次}}
+*** AvM32末尾{{censored|因為飢餓難忍外加受不了「真正的大師食譜就是你們一路走來的收穫本身（笑）」的事實衝擊，率先衝上去賞了屠夫一拳，之後和Blue以外的兄弟們很不體面地撲到餐桌上大吃特吃}}
+*** AvM35中活用自體發聲的能力舉辦了大型演奏會，{{censored|中途對一條想要參與演出的{{ruby|蠹|ㄉㄨˇ}}魚進行武力驅逐，在演出主導權被蠹魚報復性地搶掉後逐漸暴走，到最後甚至失控地用音階盒權杖伴隨著<s>知名黑樂譜</s>《Rush E》的高潮旋律噴出音符旋風把整個演出場地搞到一團亂，<s>操作之離譜連在包廂內觀演的Purple和KO都嚇呆了</s>}}
+*** {{censored|作為他個人回的整個IA三部曲基本上就是他的頻道走紅後，為成為「[[網路紅人|完美網紅]]」一步步被熱度和觀眾意見裹挾跑偏甚至傷害到兄弟們的記錄，還好懸崖勒馬成功，接納了自己不完美的一面後和兄弟們重歸於好}}
+** 但這不代表他不關心朋友，平時<s>不被惹到時</s>待朋友十分耐心，很會顧及對方感受{{censored|哪怕先後被Purple背刺三次，最後也能原諒並開導對方}}
+* 很重情義，經常主動護衛或援助兄弟們，<s>不過故意拿兄弟開涮的次數也不算少</s>
+** 這方面上有點像是火柴幫中類似副隊長的存在，TSC不在的場合經常會挑起帶隊的大梁
+* 戰力和Red一樣是兄弟中的前段班，不過打鬥風格相對力量型的Red而言更偏敏捷型，肉搏技巧以腿法和瞬間機動<s>和不太必要的花哨耍酷動作</s>為主
+** 身法十分靈活{{censored|AvM34裡完美閃躲過Red的所有蛋糕攻擊甚至還多次反制對方}}，<s>要跑路的時候速度也不賴</s>
+** 標志性武器是釣竿，能把釣竿當成[[進擊的巨人|立體機動裝置]]或抓鉤使用而滿屏幕亂飛和熟練藉此殺敵<s>實際遊戲中的釣竿根本沒法這樣做，請各位不要模仿</s>
+*** 釣竿外使用過各種各樣的武器，還經常[[雙持]]不同武器戰鬥，大體而言似乎比其他兄弟更常被分配到長兵器（主要是波濤附魔的三叉戟）的樣子
+*** <s>這麼說應該算是戰士或遊俠……[[Final Fantasy XIV|不過也有可能是龍騎士（長兵器+機動能力的含義）或者蝰蛇劍士（雙持的含義）]]</s>
+** 在官方遊戲中毫不意外地帶著<s>為迴避版權爭議重新繪製設計的</s>釣竿亮相，為敏捷型的中距離角色，除釣竿外還能隨時掏出一把電吉他發出音波攻擊
+* 在AvM8中陪Blue一同進入倉儲文件夾內的地獄門冒險，進而在AvM9裡結識到{{censored|佔山為王的}}Purple，三柴一起進入終界
+** {{censored|由於不知道終界龍的正確討伐方式，想出了爬到她背上強迫她飛離終界水晶作用範圍，再慢慢把她磨死的戰術，結果在未殺死龍的前提下讓龍蛋出現<s>連帶著讓吊在龍肚子下面的Blue和Purple撞上終界船</s>}}
+** {{censored|之後追著終界龍返回終界主島途中被一口龍息燒掉落腳點，幸得船上的界伏蚌給予十秒浮空效果並拉住Blue，但被龍蛋吸引的Purple選擇見死不救，只能抱緊兄弟等待效果消失後聽天由命}}
+** {{censored|還好之前有和Purple治下的村民打好關係，令他們帶著另外三個兄弟及時前來救援；事後見Red、Blue和Yellow打算探索其他地獄門時勸說TSC加入未果，便拋下一心只想回家的對方加入其他兄弟}}
+*** {{censored|和兄弟们一番冒險後最终走進死胡同洞窟，身心交瘁之下望著火柴幫合照抱頭痛哭<s>殊不知其實TSC就在一墻之隔的洞窟裡拿著同樣的照片睹物思柴，至於他們合流後又會遭遇怎樣的大場面就是後話了</s>}}
+* 在AvM21發現Red和Yellow一回不復返後便一頭熱地沖回地獄門查看情況，{{censored|然後被女巫變成一株甘蔗种到沼澤地裡，在被TSC找到之前為了把自己拔出土壤意外琢磨出了甘蔗形態下的各種招式，<s>雖然到變回原形都還是未能脫離扎根的土塊</s>}}
+** {{censored|通過彈奏AvM5中的<s>初代再臨處刑</s>曲目和兄弟們相認，在和女巫對決時'''維持著甘蔗的姿態'''用先前練出的甘蔗棍法一度和女巫打得有來有往<s>《你近戰不如甘蔗》，雖然最後還是被變成西瓜差點被當場劈開</s>}}
+* {{censored|後面說服TSC一起參與Purple的跑酷友誼賽，結果被和兄弟們分別困入迴圈跑酷賽道，聯想先前看到Purple帶著小豬飛過天頂並消失後率先察覺到賽道的迴圈問題，墊高自己挖穿場地天頂成功逃離}}
+** {{censored|之後潛入被KO用作大本營的豬布林蠻兵堡壘，目睹KO和Purple密謀囚困自己和兄弟們、盜走Alan的MC圖標並藉此統治整個MC世界}}
+*** {{censored|避開蠻兵的搜捕並截停準備出發的Purple，為制止其行為與其爭吵進而大打出手，然後被KO以指令方塊<s>勒著脖子</s>當場逮捕並塞進囚牢}}
+** {{censored|由於囚牢欄杆被指令加固無法從內部破壞，一頓無效掙扎後<s>途中擺爛睡了十幾分鐘</s>想出用活塞把終界珍珠推出欄杆的法子傳送脫身，並帶走先前被關押在隔壁囚牢內的小豬，藉其嗅覺找到KO{{ruby|招待|軟禁}}Yellow和Blue的廳堂}}
+** {{censored|雖然被KO以命令方塊權杖萬般阻止，但最後還是從廳堂外側炸開無法即時修補上的大洞闖入，向兄弟們揭露KO的真實目的，緊接著便一同應對KO撕破臉皮后的攻勢}}
+*** {{censored|一度佔得上風，但恰在此時遠在Alan電腦內的Purple把那邊的MC圖標撞入地獄門，從該圖標衍生的三柴的武器裝備+觀戰的小豬也因<s>MC卸載</s>消失，手足無措之下直接被KO反殺並再次淪為階下囚}}
+* {{censored|蒙TSC趕來營救並提供新的裝備，和兄弟們衝出去時對上率領蠻兵群的Purple，亂戰中和Yellow合力用魚竿勾住對方鞘翅，在Purple放棄鞘翅逃跑時雖被Yellow勸止，但還是堅持去追對方<s>順手把對方脫下的鞘翅揣物品欄裡了</s>}}
+** {{censored|追著Purple進入<s>迪○尼音樂劇維度</s>音符世界，向一路上遇到的各種生物<s>用山歌對唱的</s>詢問Purple的去向，到村莊中更<s>被迫</s>掌握自體發聲的技能}}
+*** {{censored|以<s>音形並茂（物理）的</s>歌聲和Purple成功交心，理清其心結，讓對方不再身陷渴求長輩認可的泥潭，將鞘翅交還對方後正式和好並一起重返戰場}}
+** {{censored|此舉成為最終圓滿解決事件的關鍵，}}事後亦得到了與Purple的友情，有Purple出場的場合不是出雙入對就是兩兩相關，在二創中結成「GrapeDuo/反詐組」<s>雖然也有被對方惡整的時候，參見AvM34</s>
+* AvA9中和兄弟們一起追著扛走TSC的TCO跳入傳送門，再次來到外聯網，{{censored|<s>辛苦爬上懸崖後</s>剛好看到兩隻空心頭被僱傭兵小隊帶走的場景}}
+** {{censored|暗中記下僱傭兵小隊載具上的標誌，並在下一集開場時一邊奔跑一邊畫到紙上，抵達附近的街道後便著兄弟們打聽情報，之後率兄弟們潛入Rocket Corp.的貨車車廂<s>途中不忘把好奇探頭的Red按回去防止被司機發覺</s>}}
+** {{censored|結果他們一潛入Rocket Corp.內就被監控拍到，在Red率先對包圍過來的員工重拳出擊後緊接著動手嘗試突圍}}
+*** {{censored|然後就被趕來的Agent一棍掃飛……<s>在地上無人問津地躺了一年多，興許還要繼續躺到AvA12出來(ry)</s>}}
+* 在IA三部曲中網紅出道，成為系列中唯一擁有自己獨立個柴頻道的柴<ref>雖然能找到其他兄弟們名義的頻道或其他社媒賬戶，'''要注意只有Youtube、TikTok和Instagram上的Green是官方運營的真貨'''，其他都是粉絲運營的非官方戲仿賬戶</ref>，粉絲名為「[[仮面ライダーゼロワン|Grass]][[仮面ライダーガッチャード|hopper]]（小蚱蜢）」
+** {{censored|不過在IA3中深刻反省了此前過度沉迷網絡而罔顧兄弟們感受的一系列行為、稱要暫停活動一段時間，在把構成Glitch Green的廢片一口氣全部投稿後頻道已許久沒有動靜，<s>而蚱蜢們還在等著他當初說好的和Blue一起的烹飪影片或Alan電腦的導覽影片</s>}}
+* <s>不知為何常是火柴幫中最[[不幸|倒霉]]的那個，尤其是在短片系列裡</s>
+** <s>經常莫名其妙地被TSC的造物（包括但不限於鮑勃、用附魔書頁疊出來的紙鶴、用喚醒藥水活化的箱子）或其他生物暴力針對不說，有時兄弟搞事也會被無緣無故中槍</s>
+** <s>出風頭的耍帥行為[[高達八成]]概率會讓他倒大霉</s>
+** 然而系列主要編劇之一的Skim相當喜愛他，<s>可能這就是越愛越想欺負他吧</s>
+*** {{censored|<s>按Skim的說法就是「Green因為太有天賦而驕傲自大，宇宙試圖讓他學會謙卑但有點做過了頭」</s>}}
+* {{censored|由於在AvM14中大家被洞穴蜘蛛群追逐時就數他逃得最快，}}二創經常給他安上[[恐懼症#動物恐懼症（Zoophobia）|害怕蜘蛛或昆蟲]]的屬性，AvG那邊有幾期蜘蛛相關遊戲的實況縮略圖也故意<s>迫害</s>往他頭上放過蜘蛛
+** AvM35的騷亂之後，從頻道上的答觀眾問和個人速通回的AS80中反應來看，是'''實打實的'''留下了對蠹魚的心理陰影
+* <s>擁有的個人物品可能是兄弟中最多的</s>
+** 除了用MC音階盒搭出的音樂台外，還曾經在AS13中搬出過全套打碟設備，平時也經常帶著耳機聽音樂
+*** 根據答觀眾問，最喜歡的音樂有Daft Punk的《Someting About Us》和The Weekend的《I Feel It Coming》
+** 經常掏出一台<s>Terkoiz牌<ref>這台手機背面的標誌為團隊首席動畫師Terkoiz的社媒頭像</ref></s>手機來玩{{censored|，並且早在《VS Youtube》裡、被上傳到Alan頻道上等待和TSC裡呼外應（物理）時，就有在百無聊賴地刷手機的鏡頭}}
+*** 不時用手機自拍或者給兄弟們拍照，{{censored|在IA三部曲裡開始錄製影片，後面更整來了一整套專業錄製設備並搭出了自己專用的影片工作室}}
+*** {{censored|IA三部曲結束後（應該算是）戒除了網癮，但還是在AS75中'''夢到'''自己邊走夜路邊玩地鐵跑酷<s>然後被陰影中的鮑勃襲擊</s>}}
+** 短片中不時扮裝，AS34中可見他有一整衣架的各種裝扮並且會對鏡<s>臭美</s>自我欣賞，AS54和IA三部曲中都有大方地出借給兄弟們扮裝
+* 面部塗鴉的造型為古早乙女漫風格的<s>惡心</s>帥臉，一被畫出來就自帶閃光特效地耍帥，<s>把執筆的TSC弄到汗顏</s>
+** 到第二彈塗鴉時則是被畫了一副很像[[天元突破/登場角色介紹#大紅蓮團（大グレン団）|卡米那大哥]]的帥氣墨鏡出來，{{censored|另外從放出的設定稿來看原計劃是給他畫上[[葬送的芙莉蓮#欣梅爾（ヒンメル）|某勇者]]的俊臉來著}}
+* 由答觀眾問可知最喜歡的食物是烏冬面
+* <s>[https://x.com/alanthebecker/status/1310978929918787585 竹節蟲]</s>
+* <s>史萊姆球</s>
+** 主要出處是{{censored|AvM7裡兄弟們誤殺他後蓋的靈堂，用'''裝在物品展示框裡的史萊姆球'''充當他的遺照}}
+** {{censored|後來AvM33裡火柴幫被突然下落的天花板砸趴時，'''不知為何只有他黏在機關上跟著升上去'''<s>怎麼還真的帶黏性的</s>}}
+* <s>只是顏色的關係，中文名字就不附了</s>
+
+===== {{color|#FFCC00||Yellow}} =====
+* TSC的兄弟之一，身體色號為{{color|#FFCC00||'''#FFCC00'''}}
+* 火柴幫的頭腦擔當，十分聰明，是個擅於編程和工程學的技術宅
+** AvM0拿到創造模式後無師自通地搭出烽火台光束變色機關並表演給兄弟們看，此後表現出對於各種紅石機關的深入了解，並在AvM15中當了一把兄弟們的紅石教師
+*** 後面（AvM6）意外打開創造模式物品欄中的管理員物品頁籤、接觸到指令方塊，通過內附的說明書自學會MC指令，自從拿到<s>專武</s>指令方塊權杖以後更是如魚得水
+** AvM系列以外經常端著一台筆電，編程實力強到可以輕鬆將一系列古早遊戲兼容化成電腦內的街機供兄弟們玩耍，{{censored|還在AvA8中強行駭入TDL的終端和互聯網傳送門，在上面'''臨場手搓'''出能讓Alan介入外聯網內戰鬥的動畫師戰斗程式}}
+*** 因此在Alan透露出《VS編程》正在製作的消息後，有不少觀眾猜測該回主角會不會由各種意義上都比TSC更適合該題材的Yellow擔任，後面果不其然地應驗
+** 另外雖然不是很顯眼，在《VS電子遊戲》和AS63中可見他的電玩實力相當了得
+* 性格理智沉穩，在兄弟們都手足無措的高壓情境下也能保持清晰冷靜的思考，Alan形容為「有時可能會顯得不近人情，只做應當之事而不會旁敲側擊或講究禮節，然而仍有其幽默感所在」
+** 不過其實是極其易受驚的體質，只要稍微有點風吹草動就會被嚇一跳
+*** 可能正是因為他太容易受驚，雖然單論身手並沒有明顯遜於兄弟們，被捲入突襲時他經常只是<s>驚慌失措地</s>四下閃躲或楞在一邊
+*** 即使如此仍會盡力關照兄弟們{{censored|如AvM14，雖然被TSC和Red前後腳失蹤嚇得瑟瑟發抖，但還是在被洞穴蜘蛛突襲的瞬間及時推開了Blue和Green}}
+*** ↑偶爾也有弄巧成拙的情況，參見AS53
+** 思維細緻，記得兄弟們的喜好和長處，善於注重並分析眼前細節<s>和靠小聰明鑽破綻達成一巧破百拙的操作</s>
+** 兄弟中好奇心最重的一個且求知慾旺盛，任何奇怪的現象都會引起他的注意，由此經常為兄弟們打開新世界的大門
+** 同時也是最頑皮愛搞事的一個，每次發掘出MC的有趣特性或是Alan軟件工具的特殊用法後，第一反應都是分享給兄弟們一起玩耍{{censored|或是用於整蠱兄弟}}
+*** AvM3中發現任務列能挖開並且下面就是MC的地層，便造出了一套過山車路線讓兄弟們遊玩{{censored|但路線最後的弧形飛躍<s>由於當時還沒有實裝礦車慣性<ref>一直到快照24w33a，Mojang才以'''實驗性內容'''的形式初步實裝了礦車的運轉慣性</ref></s>害兄弟們全部掉入熔岩池}}
+*** AvM6中掌握指令方塊用法後便開始逗Red等柴玩{{censored|結果玩得太得意忘形險些在電腦中釀成大禍}}
+*** AvM18中趁兄弟不注意，串通Red一起搞胡亂調換材質包文件的惡作劇{{censored|把其餘兄弟都卷入其中，最後害整個世界一度變得一團糟}}
+*** AvM19中主動把幸運方塊拆開看個究竟而發現了幸運方塊次元的存在，藉此一度獲得自由操控幸運方塊的能力並用於滿足兄弟們的願望{{censored|至於惹惱了幸運方塊之神而<s>喜提黑化形態/大號</s>遭對方附身的事則是後話}}
+*** AS31中搞出把Green上傳到Alan的手機上並設為壁紙，把對方嚇得差點摔機的整蠱操作
+* 基本的格鬥能力尚可，有一定劍術和使用釣竿的水平，但正如上述所言近戰表現不算出色，經常出現被打飛的鏡頭不說，AvMS3實時合集中能看出他的跑酷水平相當亂七八糟<ref>兄弟中就屬他從賽道上掉下去的次數最多</ref>
+** 比起直接開打，似乎更傾向於先觀察清楚情況再從長計議，必要時不會吝於暫時示弱
+** 戰斗風格偏向一邊閃躲一邊伺機支援兄弟們，或待在後排拋擲TNT等爆炸物做遠程轟炸<s>魔法師（物理）</s>，AvMS3中後期獲得（仿製）指令方塊權杖後<s>真的當上了團隊法師位，</s>不僅能踩在權杖上飛行，依靠熟練的指令知識還能使出遠程控制或傳送目標、生成各種方塊用作防禦或攻擊、給隊友上強力Buff等<s>法術</s>支援手段
+*** {{censored|<s>只要權杖在手就敢超勇地正面硬剛，但相應的一旦手無寸鐵便會帥不過三秒</s>}}
+** <s>由於早期角色定位尚未完善時和後期表現差別頗大，常被笑稱「當了程序員後體能下降了」或「脆皮法爺」</s>
+** 不過《VS編程》中展現出意外矯健的身手，雖然和可以跟數學符號們正面交手的TSC不同，全程都只是在迴避筆電的編程攻擊，但只要讓他抓到破綻碰到鍵盤，便能<s>發揮出火柴幫共通的超強手速</s>寫出能最有效遏制對方的代碼
+*** {{censored|甚至能夠在內存溢出核彈攻擊後安然無恙地從遍地數字裡爬出來，<s>可能AvMS3的表現並不是笨手笨腳而是沒被完全逼出潛力</s>}}
+** 在官方遊戲中攜筆電一同登場，由於'''太擅長編程'''而能夠直接讓筆電上的代碼具現化為各種飛行道具，為遠程特化型的角色；但相應的不善於應對近身戰，連段威力也遜於其他角色，<s>脆皮程序員的刻板印象增加了</s>
+*** <s>宣傳影片前半段的實機演示里他的鏡頭幾乎都是被兄弟們暴打，並且可見他的格擋動作是'''跪下舉起筆電去擋攻擊'''</s>
+* {{censored|在AvMS3中幫村民們製造投餵機器以供養劫毀獸家庭，但遭KO截斷並當場殺害劫毀獸的雙親，在看到對方有指令方塊時選擇應允對方的邀請}}
+** {{censored|然而不過都是鏡花水月<s>連指令方塊權杖都是假的</s>，經歷一連串事件後與Blue再次來到村莊，然而此時村莊已經被掠奪者帶兵收刮，兩人亦被包圍後<s>再</s>囚禁}}
+** {{censored|但也因此與一樣被囚禁的村民們組織起來進行地下反擊戰<s>《地道戰》</s>，自己也得到一柄附魔的方塊權杖，安上之前拿到的指令方塊帶兵前往洞穴尋找劫毀獸支援，並成功出奇制勝，後來回歸戰場直到大戰結束}}
+** {{censored|事後得到KO不再使用的指令方塊權杖<s>至於之後他們用那東西瞎搞一堆東西就是後話了</s>}}
+* 面部塗鴉的造型有戴眼鏡，從此在各路二創中多出了眼鏡屬性
+* <s>只是顏色的關係，中文名字就不(ry)</s>
+
+===== {{color|#33CCFF||Blue}} =====
+* TSC的兄弟之一，身體色號為{{color|#33CCFF||'''#33CCFF'''}}
+* 火柴幫中性格最溫和的一個<s>Alan稱他「有點嬉皮士」</s>，隨和且自由奔放，不喜戰鬥，比起加入爭鬥更傾向於在事態失控前化解問題，然而在兄弟們遇到麻煩時也不畏于參戰
+** <s>不知為何看著有點呆呆的很好騙的樣子</s>
+** 和Yellow的關係最為要好，經常在一起活動，二創中這兩隻的組合被稱為「工業革命組」
+* 很愛吃，相當熱衷和擅長廚藝，AvM和AS中經常給兄弟們做飯吃
+** 在AvM32中通過先前（AvM28）撿到的食譜書頁學會非原版的料理做法並教給吃膩了原版料理的兄弟們，之後帶著兄弟們去村莊向食譜作者屠夫拜師學藝時，也只有他在從頭到尾認真記錄下每一道料理的具體做法
+** {{censored|IA3中被Glitch Green困在Youtube頁面內時，一直在從料理影片的封面裡掏出食物解悶}}
+* 喜歡植物，AvM中善於農耕及製藥，通過以骨灰粉快速催熟的方式能作出'''用樹木強行破穿黑曜石墻'''等非常操作
+** {{censored|<s>可能是因為喜歡植物的關係，TSC每次做關於環保行為的夢，獲得環保超能力的都是他</s>}}
+** 煉藥大師，可以調製出各種不存在于實際MC中的神奇藥水，{{censored|比如說AvM16裡就靠給小雞灌音樂才能藥水造出能與Green唱對台戲的音樂雞，後面更成功復刻出AvM21的女巫使用過的變形、傳送和能使各種物件活化的喚醒藥水}}
+* 體術較弱於兄弟們，攻擊風格以使用弓弩或槍支遠程攻擊和藥水輔助為主，是唯一一個在兄弟們[[K (動畫)|全員拔劍]]的場合下也幾乎只會掏出弓箭的柴<s>弓兵兼牧師</s>
+** 射箭的準頭和速度十分了得，可以完全不受原本遊戲中的弓弩發射冷卻影響地射出加特林等級的高速箭流，或直接近身射擊
+** 或許是因為善於弓朮的原因臂力過柴，可以直接搬起裝滿水的鍋釜，或在力量藥水的加持下一拳打爆黑曜石方塊{{censored|，此狀態下掰手腕時甚至能和被Alan放大120%左右的TSC僵持不下，雖然藥效一過就立刻連著桌子被一併撂倒了}}
+*** 數次在跑酷類事件中利用其臂力優勢<s>像長臂猿一樣</s>「蕩」過難關，偶爾也會使用魚竿作為輔助移動手段
+** 在允許事先準備的比賽中會<s>嗑藥</s>給自己上Buff，{{censored|AvM31的後半段賽程裡就狂灌加速藥水硬生生把自己灌成[[膽大黨|高速火柴人]]，<s>[[成句/保安！可以讓人家這樣○了又○○了又○的嗎！|保安！可以讓柴這樣同款藥水效果疊了又疊疊了又疊的嗎？]]</s>}}
+* 非常喜愛'''吃'''地獄疙瘩到嚴重成癮的地步<s>熱知識：那鬼東西只能拿來鍊藥，不過兄弟們都已經放棄糾正他這個問題了</s>
+** 平時沒事就會拿出來吃兩口，製作料理時偶爾會試圖往裡面加料，AvM32裡做出過地獄疙瘩披薩，AvM34裡和Red合作做蛋糕時差點拿地獄疙瘩當輔料<s>還好被Red及時勸止</s>
+** <s>只要給他地獄疙瘩他什麼都會做，哪怕是被兄弟拿著地獄疙瘩釣竿當坐騎他都能一騎絕塵</s>
+** {{censored|AvM S3的故事正是由他吃完地獄疙瘩後主動偷溜去<s>1.16更新後的</s>地獄裡搜尋而起，各種意義上的「一個地獄疙瘩引發的血案」}}
+* {{censored|承上，為尋找地獄疙瘩而與一隻幼年豬布林相識，並在幫助豬布林群脫離殭屍豬布林的追擊、救出幼年豬布林後，與豬布林群建立深厚友誼<s>然後剛找到地方就被女巫拐走了，讓TSC上演了一齣《西遊記》</s>}}
+** {{censored|<s>《你紅石不如羊駝》《你劍法不如鮭魚》《你近戰不如甘蔗》《你鍊藥不如活塞》</s>}}
+* {{censored|AvM23中活用其天賦與Yellow一同解決泰坦劫毀獸與村民的衝突，但KO來臨該地並邀請兩人，然而卻是控制他們的手段}}
+** {{censored|在經歷逃離囚牢、創造大戰後帶著Yellow再度回到村莊，在進行反擊時負責資源分配及工具鍛造，帶領熟練使用兵器的村民<s>三劍客</s>反攻掠奪者眾，並回歸戰場直到大戰結束；事後如願以償得到心心念念的地獄疙瘩<s>還往大家的餐碗上各放一個</s>}}
+* 會跳霹靂舞，並在Green的教導下學會了彈貝斯
+* 面部塗鴉的造型是''':P''',<s>在兄弟們看著顏文字臉忍俊不禁的時候更變成'''>:P'''</s>
+* <s>只是顏色的關係，中文名字(ry)</s>
+
+===== {{color|#CC0000||Red}} =====
+* TSC的兄弟之一，身體色號為{{color|#CC0000||'''#CC0000'''}}
+* 好動好玩，但經常作出過火事，是團隊裡的惹事者
+* 熱愛動物，AvM中經常養飼各種動物，當中小豬跟雞的出場率相當高
+* 戰鬥天賦大概是五兄弟中的前列，僅次於TSC，甚至有追平趨勢
+* {{censored|AvM0中一看到Yellow手持MC圖標，便反常地給了對方一拳，奪取MC圖標後蹲在原地，而後襲擊其餘的兄弟們後揚長而去}}
+** {{censored|兄弟們現場收刮建築用的素材<s>包括大量鑽石磚</s>合成裝備後一番探索後找到藏於深處的他，並在一輪大戰擊敗<s>可以開掛附在先後由各種礦物組成的巨型火柴人軀體的</s>他及停止MC運作後，才發現是Him附身所為}}
+** {{censored|S3終戰也再次被Him附身，但被KO以裝有MC圖標的權杖回收而解除}}
+* {{censored|AvMS3中與TSC利用烽火台觸發錯誤傳送穿越到了沙漠，然而因為飢餓而互相抱怨甚至大打出手<s>讓靠近的怪物們順帶遭殃</s>}}
+** {{censored|但在打鬥中讓兩人來到了蒼鬱洞窟，並偶遇alexcrafter28，借由他的電腦發送郵件成功回到Alan的電腦}}
+* {{censored|在與TSC圍堵Purple失敗後追擊，但也被KO擒獲，得救後與兄弟們再次對陣於他，在創造模式互相衝擊下被吸引到怪物學院，並莫名地成了Him的學生}}
+** {{censored|最初是班中差生，並在Him安排下與一樣差而且經常霸凌他的終界使者、蜘蛛、骷髏為同一組，參加期末考試}}
+** {{censored|在他的幫助下三個怪物成功發揮所長，並最終感化他們一同邁向勝利的終點，在頒獎後也拉著他們回歸戰場，直到大戰結束；事後負責回到alex的電腦並歸還該處的MC圖標}}
+* 面部塗鴉的造型是小貓，從此在各路二創中多出了貓耳屬性
+* <s>只是顏色的關係，中文(ry)</s>
+
+{{hidef}}
+
+=== {{ruby|外聯網|Outernet}}<ref>{{censored|Outernet之名為觀眾所起，Alan表示認可這個名字但「這一界域的正式名稱目前還不能公佈」}}</ref> ===
+{{hideh|點擊展開}}
+===={{color|#000000||The Chosen One（天選者/天選之子）}}====
+* 簡稱「TCO」，Alan第二個創造的火柴人<s>次子</s>，身體色號為{{color|#000000||'''#000000'''}}<s>也就是純黑色，是說有必要在這裡列出來嗎</s>
+* 擁有超群的攻擊力，擅使噴火及眼部激光，亦會使出冰凍及電擊，關鍵時刻<s>指捱打</s>還可以爆發在此之上的力量
+** AVAS2還明確了可以打開傳送門的能力，在當時炸了Alan電腦時掰開連網圖標中初見端睨
+* 在創造了他後一度事態失控到要在AIM尋求幫助，但途中被他砸了聊天室而無果，最終靠Avast Antivirus把他抓起來才得以告終，並成為替他燒掉彈窗的工具
+** 但一次趁他抹消自己能力時抓取了鼠標，並使鼠標誤觸後解開了鐐銬及封禁，重獲新生並大肆破壞，Alan只得與Clippy{{ref|微軟Microsoft Word裡的迴紋針助手}}合力抗敵但完全不是他的對手，後來即使諸多程式的圖標一擁而上都無濟於事，逼得Alan只好現制一個火柴人TDL
+** 但就算如此也只是稍扳優勢，掉進「踩地雷」的地雷陣中的TDL更遭被扔過來的Fire Fox觸發地雷並炸至潰敗，得勝後緩緩靠近TDL但不下殺手，而是指向悠哉地玩著接龍的Alan鼠標，不願為奴的TDL與之強強聯手，把Alan的主機母板炸穿（無誤），時值2011年10月2日
+* 脫離Alan掌控後一度過上了與TDL一起到處作亂的愉快日子，{{censored|直到TDL打算製造Virabot並散播出去後，終究理念不合而分道揚鑣}}
+** {{censored|儘管如此Virabot還是被發射出去，而目的地正是「ALANSPC」，也就是Alan的<s>新</s>電腦，雖然想起Alan創造了他後不斷受折磨的日子，但仍然選擇趕往現場，並把Virabot艱難地收拾掉後，隻身前往尋找TDL<s>但後面來了五個跟班</s>}}
+** {{censored|找到TDL後上去就是一陣暴打，兩人互毆到在各個平台上遊走<s>沒有天昏地暗，但大道磨滅了</s>，然而在TDL返回基地後戴上黑色手環後一轉攻勢，即使得Alan支援亦難有見效，還陷入了Virabot的包圍之中}}
+** {{censored|一度看著五人被TDL先後擊殺，但TSC潛能覺醒後再轉攻勢把TDL葬送，其餘四人也都復活後跪地致謝（無誤），但TSC只是擺了擺手就與四個兄弟跟Alan離開，獨留他一人仰望藍天}}
+* {{censored|AVAS3中身為過往的作亂分子而被有仇在身的Victim派四位手下追殺，並接受各種毒打及拷問}}
+* <s>一度差點被先後命名為「killer（殺手）」跟「BEAST（野獸）」</s>
+
+==== {{color|#FF0000||The Dark Lord（黑魔王/黑暗領主）}}====
+* 簡稱「TDL」，Alan第三個創造的火柴人<s>三子</s>，身體色號為{{color|#FF0000||'''#FF0000'''}}<s>也就是純紅色，是說有必要(ry)</s>
+* 擁有與TCO不相上下的力量，也精通火焰攻擊，但更常凝聚火球並投擲出去轟炸
+* 原本只是Alan用來收拾TCO的工具，但被TCO點醒後不再服從底層代碼而聯手炸了Alan的電腦，{{censored|並降臨到Newgrounds的網上大地與TCO一起為禍一方}}
+** {{censored|直到想製造可以刪除數據的ViraBot並打算散播出去後，遭到TCO反對並大打出手，雖然遭到打飛，但Virabot也成功發射}}
+* {{censored|之後便另起爐灶，並生產大量的ViraBot，但被找上門來的TCO再次打斷，雙方再次大戰}}
+** {{censored|回到基地後戴上自己打造的黑色手環後，力量大幅增強，可以隨意生出具有刪除數據力量的黑色能量刀刃，先後上場的Alan、TSC及他的四個兄弟都紛紛被斬於腳下，然而TSC卻覺醒了力量，並被他的<s>36臨殺軟炮</s>翠綠光線一炮射飛，自此生死未卜}}
+
+==== {{color|#505050||victim（受害者）}}====
+* AvA1初登場，Alan最初創造的火柴人<s>長子</s>，身體色號為{{color|#505050||'''#505050'''}}
+** 誕生時是和TCO一致的純黑色，但到AvA9末尾再度登場時<s>可能是為了要和二弟區別開來</s>已經變成了灰色，{{censored|在AvA11中可知是穿越外聯網天幕時被剝蝕體表數據而褪色}}
+** <s>因為名字還是蠻方便寫，所以沒有簡稱，當然還是有懶蛋（比如編者）貪懶只打前三個字母的</s>
+** 另外他的名字並沒有首字母大寫，{{censored|也就是說嚴格意義上他其實沒有名字，僅僅是個「受害者」而已}}
+*** {{censored|<s>不過由於這樣聽起來實在太慘，大家通常都會加上首字母大寫，部分二創甚至會乾脆給他換個名字</s>}}
+* 誕生於2006年6月3日，<s>當時只是個高中屁孩的</s>Alan創造他只是為了'''畫個沙包供自己毆打取樂'''
+** 甫一誕生就被用游標捏著選取框轉來轉去，還差點被Alan繪製出的重物砸扁，不過及時閃躲並因為重物砸壞選取框得到逃脫機會，得以就地取材用各種工具反抗對方的暴行
+** 一輪打鬥下來Alan不但沒佔到便宜，反讓他從元件庫拉出數個分身，開始反客為主地群毆游標，最終Alan直接關掉整個Flash程式才得以脫身，而未被保存的vic也從此消失無蹤{{censored|……了嗎？}}
+* {{censored|整整17年後，在AvA9末尾再度現身，並且是在佈置滿Flash 8工具圖標的辦公室裡聽取抓捕TCO<s>和順帶一起抓回來的TSC</s>歸來的四名手下僱傭兵復命，該集一發佈便立刻引起觀眾大轟動}}
+** {{censored|後續劇情可知TCO的通緝令正是由他下發，目的是為了對他進行各種拷問，以從他口中問出{{ruby|游標|Alan}}的線索，<s>而TSC則是因為帶來了其他柴都無法用於創生的鉛筆工具，被員工拉去做了各種實驗</s>}}
+* {{censored|和三個擁有超能力的<s>弟弟</s>後輩相比戰力低落，AvA10中向TCO動手時力氣根本不成威脅，但隨著數值調整、複製、創建物品等<s>外掛</s>手段而可以不停虐打對方，奈何對方始終技高一籌，只得從外部另行鎮壓}}
+** {{censored|一番查問下不僅找到Alan的鼠標，更得知TSC與它的四個同伴皆有參與，遂開始通緝及捉拿<s>而且就在他們進入基地門口就被發現，還全都抓了起來</s>}}
+* {{censored|AvA11中得知，除了最初在2006年6月3日被創造時的玩弄外，還被日復一日地進行各種凌虐，一直持續到2007年3月15日在Alan吃晚飯時借助橡皮擦工具掙脫禁錮，並成功搭載了一艘火箭，以突破界面壁的方式成功出逃，終結了'''為期284日無間斷的折磨'''}}
+** {{censored|儘管因此成功迫降到火柴人的外網世界，但因為強行突破的關係，身上的黑色被除掉成了灰色，卻也因此遇上了由Grace繪制的Mitsi}}
+** {{censored|在該世界中與Mitsi以及火柴人住民們和諧共處了起來，並使用帶來的繪圖工具修好了迫降時撞毀的風車，但獨處時仍偶發對鼠標的PTSD}}
+** {{censored|在Mitsi無意發現並主動幫助下開始走出陰霾，並在看見風車上的火箭標誌時靈機一動，兩人以此為契機共同建立了維修小店，而且越做越大，成了如今的「Rocket Corp.」，兩人的感情也逐漸升溫，成為夫妻}}
+*** {{censored|除了當地居民外，四個部下之一的Agent也包括在內，似乎就在小店開始招人時便加入其中，並當起了安保人員}}
+** {{censored|然而公司舉辦週年慶時，適逢TCO跟TDL大規模作亂，用以記載火柴人資料的Newgrounds被大肆破壞，Mitsi更因此而死，在從僥倖生還的Agent處讀取到TCO的身影，因而再度踏入復仇之路}}
+*** {{censored|後來旗下員工觀測到TCO與鼠標一同在場時，更直接把兩者關係連接起來}}
+
+==== {{Color|white|#505050|Mitsi（米西）}} ====
+* 由女性動畫師Grace繪製的火柴人{{censored|，Rocket Corp.的老闆娘}}
+* {{censored|由Grace繪畫完畢後上傳至Newgrounds，但由於Victim迫降時與數據流相撞而降臨至同一處，並與Victim相遇}}
+** {{censored|與Victim再興當地並建立Rocket Corp.後感情漸漸深厚，遂結為夫妻並以組合打進市場}}
+** {{censored|但在TCO與TDL於Newgrounds大肆破壞時，被以數據流形式回到當地，目睹此等慘況後幫忙救出及疏散人群，但自己也遭巨石壓倒，奮力脫離之際遭從天而降的火球殺害}} 
+
+==== 僱傭兵小隊 ====
+* AvA9初登場，隸屬於vic指揮的精英戰力，配備有飛行載具、故障化子彈、電擊飛鏢等Rocket Corp.開發的各類高科技裝備{{censored|和將vic帶來的人類的軟體工具圖標逆向工程後獲得的<s>開掛</s>道具}}
+** 除了隊長Agent外其餘三柴都具有一定的特異能力，{{censored|並且從劇中表現來看每柴都有足以單獨制服TSC的戰斗經驗和實力}}
+* 一登場就在追捕被Rocket Corp.通緝的TCO，之後在AvA8決戰之地的海灣交戰，但被TCO先後召出雷暴雲和冰山拖住腳步，未能得見其飛往通向ALANSPC的天幕破洞
+** {{censored|在TCO帶著被當成救兵的TSC返回外聯網後繼續其追捕，一番惡戰下順利捕獲兩隻空心頭並帶回去給<s>他們的大哥</s>老闆vic交差}}
+** {{censored|AvA10中除負責在外面操控盒子的Agent以外，另外三柴也有在房間內旁觀vic的審訊}}
+* 似乎享有Rocket Corp.的員工待遇，ABTV的過場動畫中就有一段是他們在員工休息室裡<s>看電視還搶遙控器換台</s>放鬆
+* 二創中經常被設定為一夥和vic純純拿錢辦事合作的僱傭兵，{{censored|結果AvA11證實他們的隊長其實是Rocket Corp.的元老成員兼vic的助手和老友，讓所有觀眾都大跌眼鏡}}
+
+===== {{Glow Text|#1e1e1e|「Agent」|scale=0.2}} =====
+* 「Pivot Animator」風格的火柴人，僱傭兵小隊的隊長，{{censored|也是Rocket Corp.的元老級成員}}
+** 正式名稱不明，「Agent」是較公認的通稱，亦有「Shady」「Glasses/墨鏡」等稱呼， {{censored|在他位於Newgrounds的動畫檔案被摧毀時，可隱約見到其原動畫標題打頭兩個字母是MR}}
+* 會調出各種編輯工具協助自己作戰，包括畫線、加粗線條、選取、暫停等
+* {{censored|在Rocket Corp.還是小作坊時就已經從招聘加入，擔當安保人員，後來成為Vic和Mitsi的得力助手}}
+* {{censored|在週年慶事件中與Mitsi同樣被強制脫離外聯網，並與她一同協助Newgrounds的居民撤離，卻也因此目睹Mitsi被火球葬身異鄉的慘況}}
+** {{censored|僥倖生還後讓Vic讀取記憶並得知TCO在場後，協助他向TCO復仇}}
+* <s>特工史密斯</s>
+
+===== {{Glow Text|black|Ballista（弩炮）|scale=0.2}} =====
+* 僱傭兵之一，「EZToon」<ref>一種可以創作黑白風簡易像素動畫的程式，在千禧年初發跡，亦經常用於製作火柴人動畫</ref>風格的像素火柴人
+** 因此也有「Eztoon」「Pixellated/Pixel/像素」的通稱，<s>還曾經被人當成火柴人亨利過</s>
+* 擁有變形能力，可以將頭部變形成砲台或導彈發射裝置等重型火器，同時還能在手上憑空生成槍械或<s>勇者之</s>劍等武器協助作戰
+** <s>變形時會爆出十分誇張的露齒笑容，拿出寶劍時身後會長出配合畫風的勇者披風</s>
+** 更能使出<s>[[オラオラオラオラオラオラ|雖然沒有配音但所有觀眾都會幻聽到的]]</s>高速連續拳，直接把TSC畫出的大白鯊毆飛<s>雖然下一秒就被更多鯊魚泰山壓頂了</s>
+* 原型為日本畫師REN@Multilockon於2003年創作的EZToon動畫[https://posfie.com/@REN_multilockon/p/L1H9b1R 《改めまして壁砕き》]（對岸通稱為《破墻戰士》）主角，該系列動畫的基本劇情是他動用一切<s>甚至能轟爆[[地球]]的</s>力量去轟一面<s>怎麼轟都安然無恙的</s>墻，{{censored|最後會發現他其實只是想推開一扇要用拉的來開的門<s>這到底是門還是概念神</s>}}
+** 原作中除了上述變形和武器生成能力外，還擁有更多<s>作弊</s>的能力，比如召喚怪獸又或是借用各路ACG[[主角威能|主角光環]]及技能。可能由於過於濫強<s>和會讓Alan被各路版權方發函</s>的關係，在AvA中戰力被狠砍了一刀<s>啊不然火柴幫要用什麼和能炸開地球的柴對打哦</s>
+** [https://x.com/REN_multilockon/status/1653043974326857728?s=20 在AvA9發佈後由原作者確認名稱]，也因此成為僱傭兵小隊中最先確認正式名字的成員<s>雖然團隊內還是管他叫EZToon</s>
+* 體型是僱傭兵中最矮，因此二創擬人經常拿他身高開涮
+** 另外鑒於少數鏡頭中的急躁表現，二創裡通常會設定為個性囂張又或者暴躁的形象
+
+===== {{Color|#513430||Lasco（拉斯科）}} =====
+* 僱傭兵之一，石器時代洞穴壁畫風格的火柴人(?)
+** 官方人氣投票中使用「Cave Drawing」為名稱，<s>不過太長了所以</s>大家更樂意管他叫「Hunter/獵手」「Primal/原始」一點
+** {{censored|<s>因為粗材質的畫風和顏色太像某類不潔物體的關係慘遭[[風評被害]]，得到了「謝特」「Poop」等十分不友好的花名</s>}}
+** 後面在三千萬訂閱紀念直播中<s>因為Skim嘴滑</s>確認真名，取自以洞穴壁畫聞名的法國拉斯科（Lascaux）洞穴<s>不過Alan覺得同人稱呼更帥些</s>
+* 以原始風格作戰，武器為長矛及弓箭，也會強化肉體增加力量
+** 休息時會保養武器
+* 在ABTV過場動畫中和Ballista互相爭搶遙控器換台，所以二創有時會把他們寫成關係不太好
+** 另外雖說官方默認無特指的話登場角色都是男性，僱傭兵裡唯獨他經常在二創內被描述為女性
+
+===== {{Color|#262828|#BCBEC0|「Hazard」}} =====
+* 僱傭兵之一，警示標誌風格的火柴人(?)，亦有「Sign」「Symbol」「Pedestrian」等同人通稱
+** 最開始被認為就是那位在各種標誌上均有出沒的經典形象「皮特托先生」，不過目前看來應該只是<s>同族</s>畫風一致的原創角色
+* 動作遵從標誌風格而有點滑稽，可以操縱各種標誌並造成各種與標誌意思匹配的效果
+* 有時表達情緒也會使用標誌，比如驚歎號（表示驚訝）
+* <s>'''男廁小人（官方認證）'''</s>
+** 站立不動時的姿態確實就是標準的男廁標誌，並且不單只是DJ在反應影片裡這麼叫他，官方人氣投票給他的名稱也是'''Bathroom Sign'''
+
+==== {{Color|#994B41||Corn Dog Guy（熱狗哥）}} ====
+* AS45初登場，柴如其名，是一個在火柴人的城市中賣玉米熱狗<ref>一種將熱狗腸裹上一層厚厚玉米粉漿後油炸的速食小吃</ref>的路邊攤檔主
+* 雖然是正片中都沒有戲份的[[路人]]角色，被意外捲入AvA9開場的街頭追逐{{censored|攤檔被僱傭兵發射的流彈打成一坨故障馬賽克}}後卻表現出驚人樂天的商業頭腦：{{censored|'''將和攤檔一起被打成故障狀態的熱狗命名為「像素玉米熱狗」並翻倍售價，在一片混亂中繼續<s>不動如山地</s>出攤'''}}
+** 之後的AS71中再度登場，可見他早在AvA8當時就在幹類似的事：{{censored|遠在湖灣那邊的TDL、Alan和TSC先後搞出天地變色級的異變，甚至TSC那發光炮連城市內也能感到地動山搖、令大家紛紛逃難時，他還在那'''雷打不動地<s>強買強賣</s>推銷他的玉米熱狗，甚至趁亂加價'''}}
+* 由於這不顧自己死活也要一心一意賺錢的淡定表現太令人印象深刻，雖然兩個短片加起來'''出場總時長只有79秒'''卻意外受觀眾喜愛，在官方人氣投票中以7312票奪得第二位，僅次於主角的TSC（11540票）之後，甚至比第三位的TCO（4827票）超出近一倍
+** <s>雖然不排除又是[[閃電十一人#其他球隊(1代)|五條勝]]或[[最終幻想系列#本篇|瓦卡]]那樣的網友整活，</s>Alan似乎相當驚訝於這一結果<s>還吐槽Yellow的粉絲應該比這位多為什麼只拿到第十位</s>
+** 到AnV眾籌期間、作為stretch goals開示六色外的追加參戰角色<ref>{{censored|<s>前四位試圖用剪影隱藏身份但一看到空心頭和王冠就都猜到會是誰了</s>，後兩位則是預定在劇情模式中登場的新角色}}</ref>時，亦有一大群人半真半假地要求讓熱狗哥參戰
+* 在三千萬訂閱紀念直播中確認角色設計出自Skim之手，<s>Skim：「我很抱歉對這個世界造成如此大的傷害」</s>
+** 同一場直播中更透露對他來說「錢永遠不嫌賺夠，全心全意只想搞錢」
+* <s>由於Corn Dog Guy實在不像是個正經名字，</s>二創中有時會按照實心頭火柴人以體色命名的慣例稱之為{{Color|#994B41||「Brick Red/Maroon」}}
+** {{censored|不過AvA11中證實他其實也是某位人類動畫師投稿至Newgrounds上的動畫作品，並且其{{ruby|原始動畫標題|真名}}就叫《Corn Dog Guy》}}
+{{hidef}}
+
+=== Minecraft世界 ===
+{{hideh|點擊展開}}
+==== {{color|#980098||Purple}} ====
+* AvMS1初登場，{{censored|S3成為KO的手下}}，身體色號為{{color|#980098||'''#980098'''}}
+* 為人進取，甚至到達為求目的不擇手段的地步，後來{{censored|在S3結束後徹底}}改過並成為五兄弟的好友
+** {{censored|出生在一個即使是尚武的火柴人社會看來也頗為嚴格的家庭，父親（一般稱為Navy blue或Dark blue）對其嚴厲到畸形的程度，母親（一般稱為Pink）仁愛但身子虛弱}}
+*** {{censored|父親的遺棄及母親的早逝使他沉淪在渴望有朝一日得到父親認可的陰影下不得自拔，為了得到認同什麼背德之事都做得出來，但同時對自己的墮落也有所認知，直到Green的介入才得以好轉（見下）}}
+** {{censored|從S3後的Short可得知他住在森林中，搭建了高築的小木屋，Red也<s>為了作弄Green而</s>串過門}}
+** 在AvM33中{{censored|幫Red作弄Green時}}展現出腦筋很好而偶發靈感的一面
+* {{censored|初登場於一台Mac book的MC村莊中佔地為王，但在Green及Blue到來並奪走關注後將兩人關起來，但在村民即使從兩人身上得到資源卻仍表忠心後，選擇帶領他們去攻略終界龍並奪取龍蛋}}
+** {{censored|但此時的他選擇出賣他們來達成目的，然而得到龍蛋後卻引來終界龍穿過傳送門並襲擊村莊，最後只得歸還龍蛋中孵化出來的幼年終界龍才得以平息}}
+* {{censored|AvMS1結束後於Av [[League of Legends|LOL]]返場，通過修改LOL的內部文件與TSC他們纏鬥，但最終被打敗，並一時與他們交好，套上易大師的能力老實打了一場遊戲}}
+* {{censored|AvM21末尾再度登場，並引五兄弟去沉迷於跑酷迴圈中，自己則綁架小豬並回到KO處覆命}}
+** {{censored|但Green卻意外脫離迴圈，本來前往奪取MC圖標的時候被打鬥打斷，更處於劣勢，引來KO親自囚禁對方後成功到達Alan的電腦}}
+** {{censored|然而卻發現剛利用郵件成功回家的TSC與Red，雖然在兩人包圍下頻頻受挫，但還是得到了MC圖標，並交到了KO的手上，然而卻隨即遭到拋棄}}
+** {{censored|即便如此也死心塌地般指揮豬布林蠻兵們對抗TSC的兄弟們，並在遭到擒獲下向KO求救，但亦依舊得不到想要的支持，便一股腦衝進傳送門裡離開}}
+* {{censored|逃往音符世界後被追上的Green苦口婆心地勸說，終於說出一切背後的苦衷，並得到Green的諒解，兩人決定返航，制止KO摧毀MC世界的陰謀}}
+** {{censored|儘管得到了權杖，但因為不會拆卸跟使用，最終還是回到KO的手上，更被吸入到轟出來的虛空之中}}
+** {{censored|但在火柴幫的努力下MC世界恢復原樣，意識到自己將犯下大錯的KO也低下了頭，而仍然承認對方的自己則自願跟著KO一同生活}}
+* AvMS3結束後得到了以Green為首的其他柴的友誼，從此正式成為火柴幫的<s>[[戰隊系列|追加戰士]]</s>編外第六名成員<s>湊齊一套[[色彩|三原色+三間色]]了</s>，在官方遊戲《Animation Versus》眾籌宣傳圖中更是和橙綠黃藍紅五色共同出鏡
+** 雖然不在ALANSPC裡常駐，但是從後面的短片和AvM35來看，時常在MC世界內和火柴幫一起玩耍，又或者是直接登門造訪電腦
+* <s>只是顏色的關係(ry)</s>
+
+==== {{color|#CC6600||King Orange（橙王）}} ====
+* 通稱「King」或「KO」，頭戴王冠的橙色實心頭火柴人，AvMS3的幕後黑手，身體色號為{{color|#CC6600||'''#CC6600'''}}
+** 相比同色系的{{color|#FF6600||TSC}}來說顏色要暗一些。可能是為了凸顯其成年柴<s>大叔</s>的設定，身形比包括Purple在內的六隻小柴顯然高出一頭
+*** {{censored|儘管大家都KO來KO去地叫他，但那頂王冠其實是Purple為表[[成句/答案只有一個…#出處2|效忠]]獻上的。自從AvM30後就對各種跟王權有關的象徵物有些反感，包括TSC畫上去的王冠}}
+* {{censored|有一兒（一般稱為Gold），在帶著兒子到展區遊玩時，兒子看到MC的攤位並希望父親同意自己遊玩，也簽署了免責聲明}}
+** {{censored|原本一切順利，直到系統突然發生錯誤，遊戲崩潰把他的兒子葬送在像素的黑暗中，一時沉淪在喪子之痛、盛怒之下的他遷怒於整個MC世界，並決定策劃摧毀MC世界的行動，並'''打開Wiki（無誤）自學MC的一切，以及製造方塊權杖'''，以利用方塊的力量進行破壞}}
+** {{censored|後來在一本名為《Minecraft mysteries》的書籍中得知MC圖標的存在，從而展開獲得它的行動}}
+** {{censored|機緣巧合下在Rocket Corp.產的電視上得知TSC以及他的四個兄弟曾經接觸過那邊的世界而廣發尋人啟事，而Purple亦因此加入其中，輔助他一步步大願達成}}
+*** {{censored|<s>他甚至自己搭建了一整組指令方塊的程式（但效果未知），再給他一點時間可能可以在MC裡面搭起一整個MC</s>}}
+** {{censored|在大事件後改過，並與Purple組織新家庭，偶爾會到Alan的電腦裡串門，或者在MC世界欣賞五色們的表演}}
+* 似乎也是個知音之人（字面意思）{{censored|，S3裡軟禁跟對戰眾柴時都會放唱碟進去音樂盒播放BGM，AvM35去聽Green他們的音樂會時也帶著歌劇望遠鏡當貴賓<s>然後就驚呆到把鏡給掉了</s>}}
+* {{censored|策劃囚禁五兄弟並奪取Alan<s>擁有無上威能</s>的MC圖標，為此指使Purple去再度接觸他們}}
+** {{censored|隨後出現在Blue與Yellow所在的村莊中，殺害劫毀獸的雙親而得到了村民們的擁戴，並成功控制在場的兩個火柴人}}
+** {{censored|但因為Green的到來而遭到揭發，改變主意的他<s>神父換碟後</s>再度打算囚禁他們，儘管圍毆之下落入下風，但因為Purple成功搶到MC圖標而一轉攻勢}}
+** {{censored|在TSC拿著alex處得到的MC圖標後亦絲毫不落下風，但兩者打鬥造成的衝擊終究使得兩敗俱傷<s>CD也正好卡點跳出了</s>}}
+* {{censored|甦醒過後打算尋回丟失的MC圖標，但遭到TSC與監守者的攔截，情急之下摘了城堡的金磚並強化權杖與自己，依靠自身的體術反擊，可惜無果並遭到擊飛，卻因禍得福拿回了MC圖標，並召喚出怪物們的陰影}}
+** {{censored|後來Red帶領自己的怪物同學支援，卻反而給予他獲得第二個MC圖標的機會，於大混戰中結合兩個MC圖標，並擊出毀天滅地的一擊}}
+** {{censored|在Purple棄暗投明以及Him的到來下再度受挫，但也讓他察覺並掌控回收遊戲物品的力量，物品、怪物皆被他一個個吸走，火柴人們已無力回天}}
+* {{censored|但就在大業將成之際，Purple的身影卻讓他想起自己的兒子，意識到自己在再次毀掉「兒子」、大錯將鑄的他放下了權杖，自願攀進虛空洪流中消逝}}
+** {{censored|在火柴人們努力下，成功<s>利用原檔案相斥的底層代碼法則</s>把權杖的MC圖標拆分為二，世界恢復原狀，知錯的他亦向眾柴眾怪半跪致歉，並使用指令方塊修復包括劫毀獸父母的一切，目前於他沒用的權杖亦讓渡予Yellow，而後眼見Purple也願繼續追隨自己，便與他回到火柴人社會生活}}
+{{hidef}}
+
+=== 其他 ===
+{{hideh|點擊展開}}
+==== Bob（鮑勃） ====
+* AS2初登場，TSC的簡筆生物之一，也是當中活最久的
+* 除了暴打Green外沒有其他行為邏輯，在完成暴打Green的指令後甚至會暴打TSC，因此被不勝煩擾的Green使計封進Alan電腦桌面的工具列底層
+** <s>但是經此一事後，Green路過案發現場時偶爾會自己嚇自己</s>
+
+{{hidef}}
+
+== 相關 ==
+* [[Minecraft]]
+* [[網路紅人]]
+* <s>[[跨界作品]]：某種意義上火柴人跑進其他遊戲裡玩耍的部分也可以算跨界……大概。{{censored|然後AVA11裡真的讓很多Newgrounds知名作品的角色客串出場了}}</s>
+== 註釋 ==
+
+[[分類:動畫]]
