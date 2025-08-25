@@ -1108,7 +1108,7 @@
 * CV：今泉りおな（日）
 * '''班級：'''2年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|#6633CC|3=振動}}；'''裝甲類型：'''{{color|#2D96D2|3=特殊裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
 
-* 社團創辦人，繪畫專業，對老師的稱呼為「{{Ruby|師傅|マスター}}」。
+* 社團創辦人兼研究會會長，繪畫專業，對老師的稱呼為「{{Ruby|師傅|マスター}}」。
 * 身上有很多魔女的要素：
 ** 一身尖帽子魔女装扮不用多說，自號「現代最後的魔法使」。
 *** 把帽子當作自己身為魔法使的象徵，不管怎樣都不願意拿下，還向老師坦言卸下帽子等同讓自己赤裸裸。

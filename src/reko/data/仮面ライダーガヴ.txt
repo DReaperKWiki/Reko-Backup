@@ -118,7 +118,7 @@
 |-
 | 2 || Zaku Zaku Chips<br>（ザクザクチップ） || 洋芋片（輕鹽味） || 生成Zaku Zaku Chipslasher || <s>[[機動戰士鋼彈|薩克薩克]]切片</s>
 |-
-| 4 || Fuwa Mallow<br>（ふわマロ） || 棉花糖 || 生成高彈性裝甲 || <s>[[不破諫|不破]]棉花糖</s>
+| 4 || Fuwa Mallow<br>（ふわマロ） || 棉花糖（顆粒） || 生成高彈性裝甲 || <s>[[不破諫|不破]]棉花糖</s>
 |-
 | rowspan="2"|6 || Chocodan<br>（チョコダン） || 牛奶巧克力 || 生成Chocodan Gun ||
 |-
@@ -190,6 +190,8 @@
 | rowspan="2"|47 || Dummy Gochizo: {{ruby|PLE|Pleasure}}<br>（ダミーゴチゾウ: PLE） || ? || 會釋放經過改良只對人類有效的神經毒，強行把人類的幸福感拉到最高 ||
 |-
 | Dummy Gochizo: {{ruby|OPE|Operate}}<br>（ダミーゴチゾウ: OPE） || ? || 會傳達從Bake Magnum傳來的說話，洗腦聽到其說話的人類強行操縱其行動 ||
+|-
+| 49 || Mofu Pachi<br>（もふパチ） || （混入了中和劑的）棉花糖 || 生成棉花糖雲 ||
 |-
 | HBV || Choco Treasure<br>（チョコトレジャー） || 巧克力（星形） || ? ||
 |-
