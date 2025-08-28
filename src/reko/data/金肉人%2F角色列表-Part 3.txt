@@ -1,5 +1,11 @@
 {{H0|金肉人/角色列表-Part 3}}
 
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+|align="center"|本條目收錄金肉人新連載系列以降的登場角色。
+|-
+|align="center"|[[金肉人/角色列表-Part 1|Part 1]]、[[金肉人/角色列表-Part 2|Part 2]]、'''Part 3'''
+|}
+
 == 完美始祖相關 ==
 === 完美無量大軍第一陣 ===
 * 「完武」強壯武道（ストロング・ザ・武道）

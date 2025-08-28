@@ -765,7 +765,7 @@
 * 登場作：XX、Xrd（SIGN & REVELATOR）、STRIVE（DLC3追加）
 ** CV：
 *** <span style="border: 1px solid black">家弓家正</span>（XX～Xrd SIGN）
-*** 土師孝也（Xrd REVELATOR～STRIVE）
+*** <span style="border: 1px solid black">土師孝也</span>（Xrd REVELATOR～STRIVE）
 *** 岩澤俊樹（STRIVE，年輕化的姿態）
 ** 個人資料：
 *** 性別：男
