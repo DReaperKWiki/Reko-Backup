@@ -1370,7 +1370,7 @@
 | rowspan="3"|人
 | rowspan="2"|英靈傳承～傑奇&海德～《鳥羽色的研究》
 | rowspan="2"|本庄雷太
-| rowspan="2"|[[土師孝也]]
+| rowspan="2"| <span style="border: 1px solid black">[[土師孝也]]</span>
 | rowspan="2"|東出祐一郎
 | rowspan="2"|惡之帝王、福爾摩斯的宿敵，被對方稱為「犯罪界的拿破崙」。<br /><s>MISS ME?</s><br />原本的職階為Caster，{{Censored|與幻靈「魔彈射手」馬庫斯結合}}後成為Archer。
 |-

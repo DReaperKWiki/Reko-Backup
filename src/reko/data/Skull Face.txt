@@ -1,0 +1,135 @@
+{{h0|Skull Face}}
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+|本條目內容不足需要擴充，歡迎有興趣的'''<s>GoPro發燒友</s>'''朋友加以補完。
+|-
+|本條目含有嚴重劇透和捏他，還沒玩過原作又不想{{color|red||'''被消失'''}}的人請不要看下去。
+|-
+|}
+<div style="align:center;">[[檔案:Skullface 1.png|有框|置中|]]</div>
+<center>'''You hope hatred... Might someday replace the pain.<br/><big>But it never goes away.</big><br/><big><big>It makes a man hideous,<br/>inside and out.</big></big>'''</center>
+== 出處 ==
+*《[[潛龍諜影系列]]》
+** Ground Zero
+** The Phantom Pain
+* CV：<span style="border: 1px solid black">土師孝也</span>(日語) James Horan(英語)
+
+== 基本資料 ==
+* 真名：<s>Sever Snape</s>{{ref|聲優梗：土師孝是石內卜(Severus Snape)的CV而最接近的羅馬利亞人名是Sever}}不明
+* 出生地：外西凡尼亞
+* 年紀：不明-1984（享年約44-50歲）
+* 外觀：禿頭，因為全身燒傷而呈現慘白色，臉上有{{wp|格拉斯哥笑容}}。穿上黑色全身大衣，黑色的眼罩和帽也是招牌服飾。
+* 稱號：Bilagáana{{ref|美國原住民納瓦霍人的語言中，代表「白人」[https://navajowotd.com/word/bilagaana/]}}<s>，抗英奇俠</s>
+* [[角色陣營劃分|屬性]]：混沌・惡
+** <s>我最討厭英語啦！</s>
+* 性格：
+** {{wp|虛無主義}}，認為世界只能以戰爭統一和同歸於盡
+** 因為長久的壓抑而產生反抗心理
+** 信奉絕對自由
+* 人物關係：
+** [[The Boss]]：單方面信奉的偶像
+** [[Zero (潛龍諜影)|Major Zero]]：類似僱主的直屬上司{{censored|，Skull Face單方面認為的死敵}}
+** [[Big Boss]], [[Kazuhira Miller]]：工作受益人，後變成敵人和用以向Zero示威的媒介
+* 愛好：
+** 工作
+*** 他在少年時成為了暗殺專家，解放蘇聯時可見他對於自己的工作非常上心，也因此成功暗殺多個非常重要的目標。
+** <s>拷問和虐待</s>
+*** 如果認同他聲稱所有的暗殺和破壞行為的動機都是一致的話，他可是做出多少的殘暴的行為也沒法感受到快感，因為一切都只為了盤算如何推翻規律的更大目標而存在。
+** 盤算
+*** 承上，即使沒人支持他（最初出道時孤身一人{{censored|，死前也被形容獨自面對失控的Sahelanthropus}}），他也不懈地挖出黑材料更以此破壞政權。
+* 能力：
+** '''暗殺技術'''：雖然Zero不斷做出養虎為患的動作（Skull Face、愛國者們、再到託Sigint研發的[[J. D.|AI]]）可是直接反噬Zero的只有Skull Face做到，也算與更久以前暗殺史太林的功績相襯。
+*** <s>'''暗殺拳法'''：因為不合時宜而從來沒有披露。</s>{{ref|聲優梗：土師孝也是托奇和阿米巴的CV}}
+** '''拷問技術'''：熟悉所有拷問工具和心理技巧。
+*** <s>'''目力'''：自帶{{wp|GoPro}}效果，發動時會把對方的視線強行集中在臉上，專門用來唬人。</s>
+*** <s>'''破心術和鎖心術'''：因為不是魔幻小說，只是定位巧合而列在這裡。另外小島秀夫過於故弄玄虛搞到多年後眾多玩家都不明所以他的意圖。</s>
+** '''統率力及策略'''： Skull Face的軍團XOF雖然人數不多卻都是精銳部隊，長年暗中輔助Zero的功勞令他成為不二的副手。<s>雖然說大多數都是從口述和旁敲側擊得知</s>但是欺騙了Big Boss和Kaz是不爭的事實。
+
+== 故事中經歷 ==
+=== 食蛇者作戰之前 ===
+* 他在外西凡尼亞的近郊村落出世，第二次世界大戰時他與母親在自國的榨油廠工作，而外西凡尼亞當時被匈牙利接管。
+* 由於匈牙利被包括納粹德國和蘇聯的政權先後攻佔，他被多番易手，被迫學習不同的語言委曲求存。
+* 某日工廠被空襲，他被逃亡的工人踐踏，更浸在著火的油料導致全身包括臉部嚴重灼傷。{{censored|1975年受到運用寄生蟲的療法而奇蹟似的活下來，但也因此完全感受不到痛楚更不能再說匈牙利語。}}
+* 冷戰初期復歸後他成為了蘇聯間諜，大量殺害境內的佔領軍更主導了多次暗殺行動包括成功暗殺{{wp|約瑟夫·史太林|史太林}}，之後流亡到美國。
+** [[Zero (潛龍諜影)|Zero]]因為欣賞他的才幹而把他擢升成為執行指揮官。
+** Skull Face因為欣賞[[The Boss]]追求民主自由的心而接受Zero的邀請，但是之後的行動令他的槍頭最終指向Zero。
+
+=== 食蛇者作戰至Peace Walker事件 ===
+* 為了保証Force Operation X (FOX)的任務成功，Zero把Skull Face和所屬部隊列為秘密支援部隊XOF (Executive Officer of FOX)，負責FOX任務的善後工作確保湮滅線索。
+** 由於屬於高度機密，除了Skull Face外的人只能間接得知Zero的指示，甚至FOX和CIA也不知道XOF的存在。
+** 食蛇者作戰完結後XOF繼續支援FOX直至1970年FOX解散。
+* Zero之後建立非政府諜報機關「CIPHER」並邀請Skull Face連同XOF歸屬為CIPHER的行動部隊，表面為直屬CIA之反恐部隊。
+** Skull Face得到Zero的高度信任更得到部分自主權管理XOF，就開始構思終極的復仇大計。
+{{-}}
+* 他找到Code Talker，後者正在研究用「極限環境微生物」({{wp|古菌|古細菌}})清理核試遺址的核污染但是苦於缺乏資金。於是Skull Face就要脅用古細菌改為研究核武不然就殺光納瓦霍人，Code Talker不得不接受。Skull Face就隱瞞著Zero挪用XOF的資源大力推展研究。
+** 另外他向Zero公開了他發現Code Talker正在研究聲帶寄生蟲，Zero接收了研究資料但只用作逆向進化的測試用途。
+** 但是Skull Face沒有錯失良機，成功培植了數株致命的寄生蟲供日後重啟CIA中途放棄的「民族淨化蟲」計畫{{ref|以聲帶蟲消滅非英語少數民族}}。
+*** 順便一提Code Talker為了報復美國試圖滅絕納瓦霆人製造了聲帶寄生蟲，準備萬一真的被武力滅絕時作為絕地反擊的籌碼。所以Skull Face與Code Talker之間也有共同利益。
+
+=== Metal Gear/Zero ===
+* Zero自1974年的Peace Walker事件以來便銷聲匿跡，總是透過他人來傳達訊息，而Paz則是在這期間唯一見過Zero本人的人。
+* XOF使用偽造的CIA証件佔領古巴南端的美國海軍基地Camp Omega，於1975年將漂流海上的Paz救起抓進去拷問。
+** {{censored|Skull Face不單叫XOF隊員強暴她甚至強迫之後被抓的Chico強暴她。[[成句/高義，你他媽雜碎！|<s>Skull Face你他媽雜碎</s>]]}}最後Paz受矇騙，以為透露Zero的所在可以拯救她和Chico。
+** 可是他隨後對Paz自曝自己是個不知姓名、出身、雙親等的「沒有過去之人」，只能任由Zero擺布，因此他打算殺死Zero讓自己獲得自由，消滅Zero企圖延攬的「無國界軍隊」只是第一步。
+** XOF隨即在她體內塞入兩顆炸彈，發布消息引誘Big Boss營救。十天後他更以「核武調查」為幌子{{censored|外加威脅利誘已有叛意的Huey與其合作}}率領XOF前去攻打無國界軍隊{{censored|，在歸途的直升機上目睹Paz投海自盡和手下擊墜Big Boss搭乘的直升機的情景。}}
+* Skull Face同時向Zero寄去紀念別針的仿製品，以寄生蟲生化暗殺重創Zero的腦部。
+
+=== Metal Gear/Phantom Pain ===
+* {{censored|1984年，他得知Big Boss於德凱利亞主權基地英軍醫院甦醒的消息後，立刻派遣Quiet及XOF部隊攻打醫院，但在Tretij Rebenok及The Man on Fire的亂入外加Ishmael的保護而未能得逞。事後以英語株聲帶蟲拯救重傷的Quiet性命，並令其見機潛入Big Boss的新部隊Diamond Dogs傳染聲帶蟲。}}
+* {{censored|XOF聯合蘇聯及Huey Emmerich建造ST-84 Metal Gear "Sahelanthropus"但一直未能完成，但XOF監視Huey得知後者內通Big Boss，奪取了Metal Gear和囚禁Huey。}}
+* {{censored|他有一段時間得到了Tretij的協助而成功啟動本來需要AI使用的Sahelanthropus。}}
+* {{censored|在Big Boss多番拆解XOF的攻勢，Quiet永久離隊後，Skull Face認為時機成熟，<s>隔著屏幕向玩家介紹GoPro順便</s>邀請他見證Sahelanthropus的再啟動以及他想以戰爭重建秩序的決心：}}
+** {{censored|Skull Face表示他一直在尋找抹殺自己過去的人復仇，而一切的矛頭都指向Zero，因為他的理想和所為就是把整個世界「美國化」，這樣是曲解了The Boss「世界統一」的理念，他認為The Boss信奉的是「解開規律束縛，讓所有人自由選擇命運」。而Skull Face復仇的方法就是把自己的語言被抹殺的命運上綱展示給全世界。}}
+** {{censored|他企圖以其暗地研發的英語株聲帶蟲消滅已成全球共通語的英語，並展示Sahelanthropus的武力，迫使世界情勢轉為緊張後，再散佈可將一般鈾礦轉變為核武級濃度的極限環境微生物，最終目標是使全球達到核武飽和狀態而回歸原始。}}
+* {{censored|但是他發現ST-84 Metal Gear "Sahelanthropus"已被Tretij{{ref|劇情暗示Eli透過Tretij控制Sahelanthropus}}啟動，雖然沈浸在復仇的喜悅但隨即遭倒下的電線桿壓傷下半身。}}
+* {{censored|Sahelanthropus被癱瘓後，他將剩下的兩支英語株聲帶蟲交給Big Boss與Miller，並央求他們給他個痛快，但兩人卻以散彈槍打斷其一手一腳報復，還打算放任他自生自滅，最後才被後到現場的Huey一槍斃命{{ref|其實是Huey為了防止Skull Face九年前與其締結的密約露餡而將他滅口}}。}}
+
+== 擁有武裝和軍團 ==
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|- style="text-align: center"
+| 
+! scope  | 名稱
+| scope  | 類型
+|-
+| rowspan = "2" | [[檔案:Skull_face_2.png]] || style="color: #DDDDDD; background-color: black; text-align: center" | <b>Skull Custom</b>  || style="color: #DDDDDD; background-color: black; text-align: center" | 佩槍 
+|-
+| colspan="6" | 此槍基底為Mare's leg (Winchester Model 1892的短槍管、槍托型號)，是Skull Face的慣用槍。外表像是散彈槍卻可以收納在腰間。<s>被加上安全機制，只要被Big Boss盜走就會無法再上彈。</s>{{ref|強行把這武器加到玩家手上會發生的事}}
+|-|-
+| rowspan = "2" | [[檔案:Skullface_3.png]] || style="color: #DDDDDD; background-color: black; text-align: center" | <b>聲帶寄生蟲</b>  || style="color: #DDDDDD; background-color: black; text-align: center" | 生化武器
+|-
+| colspan="6" | Skull Face以自己的身體作實驗，放棄說除了英語''(和日語?)''{{ref|顧慮到存在日文配音的問題，日文版中Skull Face只提及想消滅國際語}}外所有語言的能力以取得驚人的身體能力和解決全身燒傷引致皮膚感染的問題。被感染的人以指定的語言說話後，寄生蟲就會被活化，侵蝕肺部並令患者死亡。患者死亡前進入腦退化的狀態更會產生像狂犬病的症狀，企圖令寄生蟲盡可能地傳染開去。有效的治理方法只有射殺和焚燒屍體。防備方法包括指定的燃香和生化防禦裝備，只要不暴露呼吸道和傷口就不會被傳染。<br/>日後聲帶寄生蟲的科技被CIPHER再利用研發基因指定生化武器FOXDIE。
+|-|-
+| rowspan = "2" | [[檔案:Parasite_unit.png]] || style="color: #DDDDDD; background-color: black; text-align: center" | <b>Skulls (Parasite Unit)</b> || style="color: #DDDDDD; background-color: black; text-align: center" | 精英部隊
+|-
+| colspan="6" | XOF進一步研究聲帶寄生蟲後研發了特種部隊Parasite Unit，以消滅絕大部分的自主能力為代價得到擁有強大的戰鬥能力。弱點包括寄生蟲親水，長期浸水會產生弱點以及容易被自帶的兵器傷害。<br/>Diamond Dogs捕捉Parasite Units後成功以此研發Parasite Suit，以裝甲方式得到部分能力。
+|-|-
+| rowspan = "2" | [[檔案:Skullsahelanthropus.png]] || style="color: #DDDDDD; background-color: black; text-align: center" | <b>Sahelanthropus</b>  || style="color: #DDDDDD; background-color: black; text-align: center" | Metal Gear
+|-
+| colspan="6" | Skull Face與Huey Emmerich研究然後奪走的二足步行核戰車。本來作為前線火力支援軍武，擁有大量的武器，但是由於未完成駕駛員系統(實裝AI失敗)而遲遲不能投入實戰。所以實際上四次啟動Sahelanthropus都是由Tretij的超能力引發。Sahelanthropus的最終武器是利用機中儲存的古細菌將貧鈾構成的裝甲溶解，提練成為高純度鈾後自爆並污染四周。<s>這理論比起[[雙重極限]]可以抵消反作用力更扯，即使提練了液態鈾-235也要把它從機體全身集中一處，而且還要包著雷管、反射層等易燃、易碎組件，恐怕裝上液化鈾中途已經誤爆。</s>
+|-
+|}
+
+== 反響 ==
+* 雖然Skull Face的故事非常正經，處處都是賣胃藥的材料，<s>吹毛求玭的</s>玩家還是從James Horan過於認真的演出加上Skull Face認錯人的事實上，硬地加上了「花費九年時間準備卻向錯誤的人演說的人」，「The man who said WHO to the world」的<s>不名譽</s>滑稽名銜。
+* 車上對Big Boss的七分鐘演說也被惡搞，成為「Skull Face說話太累所以要中途<s>深情</s>望著Big Boss直至他心中發毛」。
+* 根據遊戲的沒資料，原定Skull Face會與Big Boss進行決戰（牽涉槍但不肯定是否槍戰）或者可能存在互動場景{{ref|小島秀夫表示不希望Skull Face的對決像一般的戰鬥}}，而且Skull Face會以{{wp|哲古華拉}}的語錄挑釁Big Boss，嘲諷他收攬士兵的行為和自己的惡行其實一樣。
+
+=== 名台詞 ===
+* You hope hatred... Might someday replace the pain. But it never goes away. It makes a man hideous, inside and out.
+* Words can kill.
+* You became a demon for such little weapons as that?
+* I'll rid the world of infestation - Sans Lingua Franca. The world will be torn asunder and then, it shall be free.
+* The chain of retaliation is what will truly bind this world together as one.
+* <big>Such lust for revenge, '''who?'''</big>
+[[檔案:Skullface 4.png|center|frame|<big><big>'''Major... I'm burning up!'''</big></big>{{ref|我的復仇已經失去控制，我感覺如同當時全身起火一樣}}]]
+
+== 相關連結 ==
+
+{{Metal Gear}}
+
+== 回應 ==
+{{pcomment|section=2}}
+
+==備註==
+<references />
+
+[[分類:角色]][[分類:潛龍諜影系列]]

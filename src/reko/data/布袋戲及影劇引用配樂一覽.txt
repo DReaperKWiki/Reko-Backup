@@ -1774,6 +1774,8 @@
 |-
 ||'84 陳慧嫻 || 〈[https://youtu.be/dfjdoswqC4s 逝去的諾言]〉 || 〈隋唐演義〉❏[https://youtu.be/-Q0c4CI_N_c?t=642 秦瓊]<br>《天宇》❏早期哀愁場面 || 
 |-
+|| '90 円広志 ||鈴木キサブロー〈[https://youtu.be/XhMGnAsSX3I 雪の降る人]〉 || '90 朝日放送〈クイズ仕事人〉ED<br>《天宇》☻楊烈－[https://youtu.be/vsHs1GC-2qk 用心甲我愛]－([https://youtu.be/f2vtlKy1YEQ&t=155 獨眼狂人死亡]) || 另有黎明〈[https://youtu.be/4vUqRc-0iwk 但願不只是朋友]〉
+|-
 ||'91 金智娟 || 羅大佑〈[https://youtu.be/UVdxW4o6FWE 赤子]〉 || 《天宇》✂[https://youtu.be/t-claLbKTrk?t=203 楚小雨(龍鯉鑾)] || 
 |-
 ||'91 Ariel Rivera  || 〈[https://youtu.be/DuMsjf9FUEk Sana Kahit Minsan]〉 || '93〈[[真人化|超級學校霸王]]〉☻張學友－[https://youtu.be/Wq_7VPy-TnU?si=LlsJwUjjixCXY4MU&t=110 總有一天等到你] || 
@@ -1781,8 +1783,6 @@
 ||'94 黃乙玲  ||[https://youtu.be/q4b8OYiIVn4 往事]||《天宇》❏[https://youtu.be/rnH4qdBvApY&t=165 造雲麒麟1]、[https://youtu.be/R9RBE0Q13Hc 2]||神似'94台視《倚天屠龍記》[https://youtu.be/V_TCtDQL4uQ 愛恨情仇命裡去]
 |-
 ||'94 張克帆  || 楊明煌〈[https://youtu.be/cpYICQ1VTL0 用盡一生的愛]〉 || '94〈台灣水滸傳〉[https://youtu.be/cpYICQ1VTL0 OP] || 另有Paul Mauriat [https://youtu.be/rVWE9ah0t4Y 演奏版]
-|-
-||'94 楊烈  || (待查)〈[https://youtu.be/vsHs1GC-2qk 用心甲我愛]〉 || 《天宇》✂[https://youtu.be/f2vtlKy1YEQ&t=155 獨眼狂人死亡] || 
 |-
 ||'55 Irving Burgie&William Attaway || Harry Belafonte〈[https://youtu.be/lZABxj718uA Banana Boat Song/Day-O]〉 || 《金光》☻茶噢！(平山茶翁) || 另有The Tarriers[https://youtu.be/TZzCC_U-ip4 改編版]，李茂山翻唱〈[https://youtu.be/hL1EmUJtR_M 茶噢]〉
 |-
@@ -2062,7 +2062,7 @@
 |-
 ||[https://youtu.be/FZcyl9KvTcQ 牧野春回]|| (野台)[https://youtu.be/i6Qh7CyAd2U 雜用仙角情境曲] ||
 |-
-| rowspan="15" |Cusco||[https://youtu.be/cnhn-K6wTRM Nanga Parbat]|| ✉雜用武戲曲(加速)||〈西岐封神榜〉、〈英雄榜〉均用
+| rowspan="15" |<center>Cusco</center>||[https://youtu.be/cnhn-K6wTRM Nanga Parbat]|| ✉雜用武戲曲(加速)||〈西岐封神榜〉、〈英雄榜〉均用
 |-
 ||[https://youtu.be/ftQfyJh4RtA Galapagos]|| (野台)✉雜用武戲曲(加速)||
 |-
@@ -2126,13 +2126,12 @@
 |-
 ||〈[https://youtu.be/l-fCakB3sL0 冬雪花]〉||《霹靂》✉一頁書與骨董對談||
 |-
-| rowspan="23" |S.E.N.S./神思者|| [https://youtu.be/_JHdjYJ0mV0 Happy Arabia]||《霹靂》✉織夢師之夢仙谷<br>'97 智冠〈霹靂幽靈箭〉✉[https://youtu.be/enjxAHp5Tdw?si=8m77jR9VAXX1UYsm&t=633 南隱(室外)]<br>《天宇》✉[https://youtu.be/m-Xrz45w4Js?t=795 回音井]<br>'93 華視〈包青天〉✎黃安－[https://youtu.be/lDkKHtaBGaY 新鴛鴦蝴蝶夢]<br>'93 無線〈包青天〉✎何家勁－[https://youtu.be/UPCiuzODO8Q&t=1461s 新鴛鴦蝴蝶夢]<br>'94〈七俠五義〉✎黃安－〈[https://youtu.be/BkPRaXxbS-k 救姻緣]〉|| 另有草蜢〈[https://youtu.be/4dLE2uQMIJA 花雨飄]〉、劉文娟〈[https://youtu.be/kC97blgLUgo 浮光掠影]〉
+| rowspan="23" |<center>S.E.N.S./神思者</center>|| [https://youtu.be/_JHdjYJ0mV0 Happy Arabia]||《霹靂》✉織夢師之夢仙谷<br>'97 智冠〈霹靂幽靈箭〉✉[https://youtu.be/enjxAHp5Tdw?si=8m77jR9VAXX1UYsm&t=633 南隱(室外)]<br>《天宇》✉[https://youtu.be/m-Xrz45w4Js?t=795 回音井]<br>'93 華視〈包青天〉✎黃安－[https://youtu.be/lDkKHtaBGaY 新鴛鴦蝴蝶夢]<br>'93 無線〈包青天〉✎何家勁－[https://youtu.be/UPCiuzODO8Q&t=1461s 新鴛鴦蝴蝶夢]<br>'94〈七俠五義〉✎黃安－〈[https://youtu.be/BkPRaXxbS-k 救姻緣]〉|| 另有草蜢〈[https://youtu.be/4dLE2uQMIJA 花雨飄]〉、劉文娟〈[https://youtu.be/kC97blgLUgo 浮光掠影]〉
 |-
 || [https://youtu.be/g_TXkW-o86c&t Anton]||《霹靂》✉[https://youtu.be/bjskBCmKpwo?t=179 靈心異佛]、✉[https://youtu.be/y3ctBq79YIE?t=34 玉天璣]、✎[https://youtu.be/zb62tHQ4Bn8 未來之宰]<br>《天宇》✉[https://youtu.be/9u5kyGmB1XY&t=201 柳藏智]<BR>'94 TVB〈獨臂刀客〉✂王爺場景<BR>'94 TVB〈射鵰英雄傳〉✂完顏康、花剌子模戰爭場景||
 |-
 || [https://youtu.be/6CZ41KREDvc ポーヤイの夜]||《霹靂》✂血吻蝶<br>《天宇》✂[https://youtu.be/M0zm7RnwMTo?si=D_HF4pbHQ8I9jAWo&t=1619 搖命森羅扇]<br>'95 TVB〈神雕俠侶〉✂老頑童場景||
 |-
-
 || [https://youtu.be/zQ-2-QDUoB8 妙音鳥]|| '91 台視〈雪山飛狐〉✂[https://youtu.be/ATsLHmhfjgo&t=2102 常用柔情曲] ||
 |-
 ||[https://youtu.be/ia7k6QhTLd8 迦羅]||《霹靂》✉[https://youtu.be/jwTUsAgpnIY 花影人]<br>《天宇》✉[https://youtu.be/09sS4nRpY18?si=2L5kM8Ee2_etrcl1&t=90 千道寒]||
@@ -2173,7 +2172,7 @@
 |-
 ||[https://youtu.be/ZUC1jr5p-aY 刀馬旦/Magic Warriors] || 〈天宇〉✂讀劍鬼奴 || 
 |-
-| rowspan="35" |姬神|| [https://youtu.be/hY073cRIkCc 千年の祈り] || 〈夢幻西遊〉✉[https://youtu.be/7n2bEseoF_A 遊戲廣告片段] || 曲風符合『敦煌佛國』意象<br>經由某同人MV〈[https://youtu.be/xFDjX_NebRM&t=201s 淨]〉等二創在中文網域熱傳，<br>也讓聽懂原日文歌詞的日本網友錯愕
+| rowspan="35" |<center>姬神</center>|| [https://youtu.be/hY073cRIkCc 千年の祈り] || 〈夢幻西遊〉✉[https://youtu.be/7n2bEseoF_A 遊戲廣告片段] || 曲風符合『敦煌佛國』意象<br>經由某同人MV〈[https://youtu.be/xFDjX_NebRM&t=201s 淨]〉等二創在中文網域熱傳，<br>也讓聽懂原日文歌詞的日本網友錯愕
 |-
 ||[https://youtu.be/TSNgXWS-53k 十三の春]||《霹靂》✉一花香<br>'95 TVB〈神鵰俠侶〉✂終南山後結廬<br>'96 TVB〈笑傲江湖〉✂悠閒場景曲<br>'99〈唐朝禁宮秘史〉✂場景曲||
 |-
@@ -2311,7 +2310,7 @@
 |-
 ||[https://youtu.be/b8F7E-IEmV0 There Is An Island]||《神魔》✉酒徒狂醉||
 |-
-| rowspan="53" |奕睆(王俊雄)<ref>即[[電子遊戲公司|智冠科技]]董座王俊博之弟，法名奕睆居士/慧度法師，智冠科技以錄音帶等事業起家後跨足遊戲發行/製作，收購亞洲唱片後開發『諦聽文化』/『妙蓮華唱片』等國樂、佛樂品牌，其製作中華風音樂也散見於90年代的智冠出品古風仙俠題材遊戲配樂，而且[[成句/保安！可以讓人家這樣○了又○○了又○的嗎！|舊曲常換專輯]]或[[兼差|改名又重出]]，因此本表省略專輯名，若與下列『來自遊戲』列表智冠遊戲出品有重複則先列於此處，作曲演奏陣容龐大恕不詳記，請自行查驗</ref><br>《亞洲唱片》出品系列|| 〈[https://youtu.be/pzAQ1Iq0M_o 春山泉湧]〉 ||  '96〈[[金庸群俠傳]]〉❏[https://youtu.be/3Cd8-q2Hw3w 配樂20]<br>'98 智冠〈紅樓夢之十二金釵〉✉書房 ||
+| rowspan="53" |<center>奕睆(王俊雄)<ref>即[[電子遊戲公司|智冠科技]]董座王俊博之弟，法名奕睆居士/慧度法師，智冠科技以錄音帶等事業起家後跨足遊戲發行/製作，收購亞洲唱片後開發『諦聽文化』/『妙蓮華唱片』等國樂、佛樂品牌，其製作中華風音樂也散見於90年代的智冠出品古風仙俠題材遊戲配樂，而且[[成句/保安！可以讓人家這樣○了又○○了又○的嗎！|舊曲常換專輯]]或[[兼差|改名又重出]]，因此本表省略專輯名，若與下列『來自遊戲』列表智冠遊戲出品有重複則先列於此處，作曲演奏陣容龐大恕不詳記，請自行查驗</ref><br>《亞洲唱片》出品系列</center>|| 〈[https://youtu.be/pzAQ1Iq0M_o 春山泉湧]〉 ||  '96〈[[金庸群俠傳]]〉❏[https://youtu.be/3Cd8-q2Hw3w 配樂20]<br>'98 智冠〈紅樓夢之十二金釵〉✉書房 ||
 |-
 ||〈[https://youtu.be/x5AEe6qyegY&t=1298s 一點凝煙]/[https://youtu.be/s1phEbuEBn4 浮生半日閒]〉 || '98 智冠〈紅樓夢之十二金釵〉✉<s>[[成句/H是不行的|H]]</s>場面<br>《天宇》✉清白湖(傀渡論) || 
 |-
@@ -2439,7 +2438,7 @@
 |-
 |Jamie Harrington||[https://youtu.be/kH8Y0zPqdFk Shannon's Song 1]||《霹靂》✉魔界聖母<br>'99〈屍家保鏢〉情境曲||
 |-
-| rowspan="6" |亞倫派森合唱團<br>The Alan Parsons Project||〈Eve〉[https://youtu.be/fLZPj-dJfJQ Lucifer]、<br>[https://youtu.be/t6k1orJWPgw 合成電音版]、[https://youtu.be/IYtRmCC8sl0 黑膠版]||《霹靂》✂[https://youtu.be/oxFZu-q6ybI 黑鋼刀鐵無敵]、✂[https://youtu.be/nl-lMb59ROo&t=55s 誅魔神光火流星]||早期武戲、奔馳/飛行特效場面均有用
+| rowspan="6" |<center>亞倫派森合唱團<br>The Alan Parsons Project</center>||〈Eve〉[https://youtu.be/fLZPj-dJfJQ Lucifer]、<br>[https://youtu.be/t6k1orJWPgw 合成電音版]、[https://youtu.be/IYtRmCC8sl0 黑膠版]||《霹靂》✂[https://youtu.be/oxFZu-q6ybI 黑鋼刀鐵無敵]、✂[https://youtu.be/nl-lMb59ROo&t=55s 誅魔神光火流星]||早期武戲、奔馳/飛行特效場面均有用
 |-
 ||〈Eye in The Sky〉[https://youtu.be/5S-q_3NFFzs Mammagamma]||黃文擇《真假濟公》✂[https://youtu.be/-PFckCA2mMk&t=264 閃電眼霹靂口]<br>《天宇》✂[https://youtu.be/EpG9KVgNIGs&t=2m15s 移日酷]||另有[[籃球|NBA]][https://youtu.be/aKsG-4hg8d0 芝加哥公牛隊]代表曲[https://youtu.be/UywKZcH_Wk0 Sirius] <br><s>天宇不選這首真是可惜</s><br>另有與上者合成〈[https://youtu.be/D4RE-CO31js Luciferama]〉
 |-
@@ -2471,7 +2470,7 @@
 |-
 ||Paul Mauriat||[https://youtu.be/_7bFwc-7v5o Let There Be Freedom, Peace And Love]||《金光》❏紫玄冠(雲州四傑傳版)||
 |-
-| rowspan="5" |Tangerine Dream 橘夢樂團||〈[https://youtu.be/Q9ok4YtJTB8 Doctor Destructo]〉||《霹靂》✂奇妙大棺王||
+| rowspan="5" |<center>Tangerine Dream/橘夢樂團</center>||〈[https://youtu.be/Q9ok4YtJTB8 Doctor Destructo]〉||《霹靂》✂奇妙大棺王||
 |-
 ||〈[https://youtu.be/kBidrK06wmE Coldwater Canyon]〉|| ✂早期追蹤場景曲 ||
 |-
@@ -2539,7 +2538,7 @@
 |-
 ||[https://youtu.be/0YOGCoDfXDk Buffalo Trail] || 《天宇》✂夜矢鬼臨霄 || 
 |-
-| rowspan="7" |黃石||〈[https://youtu.be/b-QDI7YDfWU 喜迎春]〉||'89旺旺《旺旺仙貝》✉[https://youtu.be/WOoMKgjcHus?si=b7OVh0Z_dz4qqWsQ&t=672 中元普渡篇]||
+| rowspan="7" |<center>黃石</center>||〈[https://youtu.be/b-QDI7YDfWU 喜迎春]〉||'89旺旺《旺旺仙貝》✉[https://youtu.be/WOoMKgjcHus?si=b7OVh0Z_dz4qqWsQ&t=672 中元普渡篇]||
 |-
 ||〈[https://youtu.be/C5kbdiFFPHw 墟裡煙]〉||《霹靂》✉眾天慈航渡|| 同旋律〈[https://youtu.be/L_vmdvvn9vE 上海再見]〉
 |-
@@ -2563,7 +2562,7 @@
 |-
 ||Manuel Vasquez||[https://youtu.be/USHqI8PWiTc Well-Balanced]||《天宇》✂[https://youtu.be/WoPrs0QCoV4 論道無常口含珠]||
 |-
-| rowspan="6" |Oliver Shanti || [https://youtu.be/ugWZEWUDpWo Tang Xingqing Park/唐興慶公園] || 《天宇》✉[https://youtu.be/uYckRKeYXMs 伍紫髯(行道山幻形)]<br>'96〈新金瓶梅〉✂金蓮懷思場景 || 
+| rowspan="6" |<center>Oliver Shanti</center> || [https://youtu.be/ugWZEWUDpWo Tang Xingqing Park/唐興慶公園] || 《天宇》✉[https://youtu.be/uYckRKeYXMs 伍紫髯(行道山幻形)]<br>'96〈新金瓶梅〉✂金蓮懷思場景 || 
 |-
 ||〈[https://youtu.be/y4_DfadYzqw Liu Garden of Suzhou/蘇州留園]〉 || '96〈新金瓶梅〉✂ED || 另有巫娜《[https://youtu.be/cgCdd1l9WHE 月下流泉]》
 |-
@@ -2575,7 +2574,7 @@
 |-
 ||[https://youtu.be/FjcENbEvaew Sacral Nirvana] || 《天宇》✉[https://youtu.be/84onpp1eUMc&t=62 惜英王雷絹]|| 
 |-
-| rowspan="4"|喜多嶋修 ||〈曼荼羅〉[https://youtu.be/cyljVthzkgI 西方淨土] ||《天宇》✂[https://youtu.be/HdYKyZGZ7XM 三色天羅]<br>《霹靂》✂號世陰令首次調派<br>'96 TVB《笑傲江湖》✂[https://youtu.be/eMzLcFRh8io&t=186 岳不群文戲] || 
+| rowspan="4"|<center>喜多嶋 修</center> ||〈曼荼羅〉[https://youtu.be/cyljVthzkgI 西方淨土] ||《天宇》✂[https://youtu.be/HdYKyZGZ7XM 三色天羅]<br>《霹靂》✂號世陰令首次調派<br>'96 TVB《笑傲江湖》✂[https://youtu.be/eMzLcFRh8io&t=186 岳不群文戲] || 
 |-
 || [https://youtu.be/gx5s20YVYLU Circle of Fire] || 《天宇》✂影中仙 || 
 |-
@@ -2803,6 +2802,8 @@
 |-
 ||溫金龍|| [https://youtu.be/YUMxNurBhSo&t=360s 快樂胡琴]||《天宇》[https://youtu.be/JVEw4-RrY34?t=1052 四海乞顛]||
 |-
+||  Robert J. Walsh <br>〈Hollywood Film Music Library〉|| [https://youtu.be/QShnSDY9KVs Against All Odds] || 2001 TVB〈倚天屠龍記〉✂張翠山殷素素初遇 ||
+|-
 |}
 </center>
 
@@ -2900,7 +2901,7 @@
 |-
 ||ギシン星||(待查)||悲傷場面
 |-
-|'88 若草恵〈鉄拳チンミ/鐵拳小子〉||[https://youtu.be/ojP2ImM_bIo&t=339 出た！鉄拳チンミ]||’91《新七龍珠》✂[https://youtu.be/uqA4HLXOX1U&t=2471 樂平高速逃走]||
+|'88 若草恵〈鉄拳チンミ/鐵拳小子〉||[https://youtu.be/ojP2ImM_bIo&t=389 出た！鉄拳チンミ]||’91《新七龍珠》✂[https://youtu.be/uqA4HLXOX1U&t=2471 樂平高速逃走]||
 |-
 | rowspan="10" |'88 大井研二、羽野誠司、Navarra<br>〈戰國奇譚－妖刀伝〉||[https://youtu.be/y8QEc8NLk_U&t=01h08m18s 古昔の巨神]||《霹靂》✂[https://youtu.be/sndyHAHSfF8 八面狼姬]<br>'97 智冠〈霹靂幽靈箭〉✎[https://youtu.be/GzuMYS9vrV0?t=504 BOSS戰]||另有[https://youtu.be/uD2KHGsD42M&t=1m32s 常用斬殺特效shot]
 |-
