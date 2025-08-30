@@ -1,0 +1,583 @@
+{{h0|GRADIUS/グラディウス/神話戰劍/宇宙巡航艦系列}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+|-
+|本條目歡迎各位島民繼續補充。
+|-
+|以下可能透露部份劇情，沒玩過又不想被<s>地形初見殺</s>捏到請不要繼續看下去。
+|}
+
+<center>[[檔案:Gradius_Logo.webp|400px|center]]</center>
+
+==解說==
+* 由[[Konami]]推出的橫向卷軸STG系列，與Irem（現Granzella）的[[R-TYPE系列]]、Taito的[[Darius系列]]並稱「橫向2D STG御三家」
+** Gradius語意取自拉丁語「Gladius（劍）」，故事圍繞在庫拉迪斯（Gradius）星系，玩家須操作超時空戰鬥機「勝利毒蛇（Vic Viper）」抵抗敵軍巴克特里安（Bacterian）的攻擊
+* 賣點是採用類似跑馬燈的火力升級方式（通稱Gradius式）
+** 每拿到一個（紅色）能量膠囊，下面的強化選項就會開始亮起，再拿一個就會往前一格，依此類推，選項跑到最後會跳回來重新開始
+*** 藍色能量膠囊則是直接清場
+** 若確定要強化的話，只要按下強化鍵，即可強化自機速度、武裝、子機等
+** 主要強化選項有：速度提升（SPEED UP）、飛彈（MISSILE）、雙向射擊（DOUBLE）、雷射（LASER）、子機（OPTION／MULTIPLE）、護盾（SHIELD）
+* 另外主射擊鍵和飛彈鍵是分開的，後來為了方便玩家，也有一鍵整合的選項
+** 火力強化同樣，在後來的版本也會有半自動的強化選項
+* 另一個特徵就是愈後面的關卡地形會愈複雜，玩家若一個不小心就會因為撞地而直接MISS
+** 與之相反：最終BOSS設計的相當簡單
+
+==系列作一覽（主系列）==
+
+===GRADIUS／NEMESIS{{ref|海外版名稱|group2}}／グラディウス／宇宙巡航艦===
+* 發售日期：1985年5月29日
+* 發售平台：AC、FC、MSX、PC-8801mkIISR、X1、X68000、PCE、PS、SS、Win、手機・PHS、PSP、i-revo、Wii、DS、PS3、3DS、Wii U、PS4
+* 一切的開端，確立本系列的玩法
+** 最早使用的主機板是Konami最古早的主機板「磁泡系統（Bubble System）」，而後為提升玩家的遊玩體驗，發行了新主機板版本
+** 巨核戰艦、摩艾像等經典敵軍於此登場
+* FC家用版因機能受限，畫面略顯遜色之餘，關卡配置乃至自機配備的雷射與AC版有差別，同時子機只能配置2個
+** <s>但可能因為設計失誤，速度可以無限增加</s>
+** 此後還有逆移植至FC兼容的任天堂街機「VS.System」
+
+===SALAMANDER／沙羅曼蛇===
+* 發售日期：1986年7月4日
+* 發售平台：AC、FC、MSX、X68000、Commodore64、PCE、PS、SS、手機・PHS、i-revo、PSP、Wii、3DS、Wii U、PS4
+* 某方面可算是外傳，故事發生在庫拉迪斯星系的水星拉迪斯（Latis）
+* 武裝方面並非原本的升級選擇，而是變成類似一般2D STG的火力強化道具
+* 導入縱向關卡，少數可雙打的系列作，本作2P自機為洛德不列顛（Lord British） 
+** 洛德不列顛機體設定上為拉迪斯的同名王子駕駛的機體
+* FC版則是將升級方式改回，同時關卡也不一樣，另外子機只能配置3個
+** 另外日版與海外版的故事敘述完全不同
+** 此外也有與家用版同樣的升級方式的改版，有收錄在《Gradius Origins》（需輸入萬年密碼解禁）
+
+===Life Force／ライブフォース===
+* 發售日期：1987年
+* 發售平台：AC、PS、SS、PSP、PS4
+* 沙羅曼蛇的改版，原本在海外發行，而後也逆輸入回日本
+* 差別除了關卡風格以外，本作的強化系統改成原本的升級選擇
+
+===GRADIUS II／VULCAN VENTURE{{ref|海外版名稱|group2}}／グラディウスII -GOFERの野望-／宇宙巡航艦II -高弗的野心-===
+* 發售日期：1988年3月24日
+* 發售平台：AC、FC、PCE、X68000、PS、SS、Win、手機、W-ZERO3、i-revo、PSP、Wii、PS4
+* 導入開場的武裝選擇以及護盾選擇
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| TYPE A || rowspan = "4"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || rowspan = "4"|子機（OPTION） ||rowspan = "4"|?
+|-
+| TYPE B || 爆裂彈（SPREAD）|| 前後射擊（TAIL GUN） || 雷射（LASER）
+|-
+| TYPE C || 光子魚雷（PHOTON<ref>PHOTON TORPEDO，為向前方射擊的飛彈</ref>）||雙向射擊（DOUBLE） || 波紋雷射（RIPPLE）
+|-
+| TYPE D || 雙向飛彈（2-WAY）||前後射擊（TAIL GUN）|| 波紋雷射（RIPPLE）
+|-
+|}
+* 本次護盾有2種
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! ? 
+|-
+| 護盾（SHIELD）
+|-
+| 防護力場（FORCE FIELD） 
+|}
+
+** 巨核戰艦、摩艾像等經典敵軍已開始有衍生機種，關底BOSS不再侷限單一的BOSS，同時首次導入頭目連戰性質的關卡BOSS PARADE
+** 此外本作開始加入高速卷軸關卡
+* 需注意的是：部分家用版（如FC、PCE）收錄的關卡會與AC版有些微差別，FC版中OPTION集齊4個以後再強化會變成環繞型態一陣子
+
+===GRADIUS III／グラディウスIII -伝説から神話へ-／宇宙巡航艦III -從傳說到神話-===
+* 發售日期：1989年12月11日
+* 發售平台：AC、SFC、PS2、i-revo、PSP、Wii
+* 首次有難度選擇（簡單模式只能玩3關）
+* 武裝變的相當多樣，超級爆炸（MEGA CRASH）為本作標配，除此以外追加自訂武裝
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| TYPE A || rowspan = "4"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || rowspan = "4"|子機（OPTION） ||rowspan = "4"|?
+|-
+| TYPE B || 爆裂彈（SPREAD）|| 前後射擊（TAIL GUN） || 波紋雷射（RIPPLE）
+|-
+| TYPE C || 雙向飛彈（2-WAY）|| 直角射擊（VERTICAL） || 旋風雷射（C.LASER<ref>CYCLONE LASER，攻擊寬度比一般雷射寬些許</ref>）
+|-
+| TYPE D || 光子魚雷（PHOTON） ||自由射擊（FREEWAY）|| 雙雷射（TWIN LASER）
+|-
+|}
+
+* 本次護盾有3種
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! ? 
+|-
+| 護盾（SHIELD）
+|-
+| 防護力場（FORCE FIELD） 
+|-
+| 自由護盾（FREE SHIELD）
+|}
+
+* 以下為自訂武裝限定
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!  飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） || ? || ! 
+|-
+| 飛彈（MISSILE） || 直角射擊（VERTICAL） || 雙雷射（TWIN LASER） || 子機（OPTION） || 護盾（SHIELD）|| 回歸一般射擊（NORMAL）
+|-
+| 遙控飛彈（CONTROL MISSILE）|| 分散射擊（SPREAD GUN<ref>變成類似散彈的雙向45度射擊</ref>） || 波紋雷射（RIPPLE）||蛇行子機（S.OPTION）||防護力場（FORCE FIELD） || 速度下降（SPEED DOWN）
+|-
+| 上射擊飛彈（UPPER LASER）|| 前後射擊（TAIL GUN） || 能量雷射（E.LASER<ref>ENERGY LASER，為少數的充電型雷射</ref>） ||||自由護盾（FREE SHIELD）||殘機換子機（REMAIN OPTION）
+|-
+| 小型爆裂彈（SMALL SPREAD） ||自由射擊（FREEWAY）|| 旋風雷射（C.LASER） |||| 縮小（REDUCE）||
+|-
+|}
+* 本作為唯一有加入類3D關卡的遊戲（SFC版刪除該關）
+* 但本作難度之高，又加上本作水晶關的「CUBE RUSH」令不少玩家卻步<s>，間接令本作戲稱為「存錢筒」</s>
+* 因此SFC上的家用版難度下調之餘，加了不少新要素及原創關卡
+* 家用版的自訂武裝
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+!  飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） || ? || ! 
+|-
+| 飛彈（MISSILE） || 直角射擊（VERTICAL） || 雙雷射（TWIN LASER） || 子機（OPTION） || 護盾（SHIELD）|| 速度下降（SPEED DOWN）
+|-
+| 鷹翼飛彈（HAWK WIND）|| 雙向射擊（DOUBLE） || 波紋雷射（RIPPLE）||蛇行子機（S.OPTION）||防護力場（FORCE FIELD） || 殘機換子機（REMAIN OPTION）
+|-
+| 後方雙向飛彈（2-WAY BACK）|| 前後射擊（TAIL GUN） || 能量雷射（E.LASER） ||並排子機（F.OPTION<ref>FORMATION OPTION，會變成類似同社《Thunder Cross》的編排模式，若滿4個且指標再指到OPTION可切換間隔</ref>）||自由護盾（FREE SHIELD）||護盾回復（FULL BARRIER）
+|-
+| 小型爆裂彈（SMALL SPREAD） || 後方雙向射擊（BACK DOUBLE）|| 旋風雷射（C.LASER） ||環繞子機（R.OPTION）|| 縮小（REDUCE）||超級爆炸（MEGA CRASH）
+|-
+|}
+* 除了上述的兩個版本外，還有一個只有在AM SHOW電玩展展出的幻之版本
+** 可視為本作的早期版本，自機武裝配置、敵機配置等與現行版本完全大相逕庭
+** 之後該版本收錄至下述的《Gradius Origins》
+
+===SALAMANDER 2／沙羅曼蛇2===
+*發售日期：1996年1月
+*發售平台：AC、PS、SS、PSP
+*畫面升級成偽3D風格
+*本作音樂擔當為日後在BEMANI等地活躍的前田尚紀（NAOKI）<ref>而後退出KONAMI和CAPCOM後以自由人身分繼續音樂遊戲製作生涯</ref>
+*縱向關卡依然保留<s>但只有2關</s>
+*同樣也是少數可雙打的作品，本作的2P自機為超級眼鏡蛇（Super Cobra）
+*Option子機分為2種：一般版以及只會圍繞的Option Seed
+** 集齊2個Option Seed可換一個一般Option
+** 若在有Option的情況下，按住子機鍵即可集氣，放開子機鍵後Option會追打敵機，之後Option會<s>降級</s>成Option Seed
+*** 會根據按押時間決定發射數量
+** 若是持有Option Seed的情況下集氣，Option Seed會在機體周圍高速旋轉形成暫時性的護盾（可消彈、擊破敵機），之後會直接消失
+* 本次同一武裝取得2次會強化一段時間（Missile、Force Field以外）
+* 本作2週目難度提高、部分關卡BGM變更，同時不能接關
+
+===GRADIUS IV／グラディウスIV -復活-／宇宙巡航艦IV -復活-===
+* 發售日期：1999年2月
+* 發售平台：AC、PS2、PSP
+* 睽違10年的續作，同時採用新主機板，畫面除了偽3D構圖以外，也有出現真3D構成的敵機及地形
+* 本作可說是繼續2代的伏筆
+* 廢除自訂武裝、「!」武裝選項，本次武裝有6種
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| TYPE A || rowspan = "6"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || rowspan = "6"|子機（OPTION） ||rowspan = "6"|?
+|-
+| TYPE B || 爆裂彈（SPREAD）|| 前後射擊（TAIL GUN） || 雷射（LASER）
+|-
+| TYPE C || 光子魚雷（PHOTON）||雙向射擊（DOUBLE） || 波紋雷射（RIPPLE）
+|-
+| TYPE D || 雙向飛彈（2-WAY）||前後射擊（TAIL GUN）|| 波紋雷射（RIPPLE）
+|-
+| TYPE E || 縱向高爆機雷（VERTICAL MINE） ||雙向射擊（DOUBLE） || 穿甲彈（ARMOR PIERCING<ref>跟雷射一樣有貫通效果，但只有前端有判定</ref>）
+|-
+| TYPE F || 飛行魚雷（FLYING TORPEDO<ref>可說是昇級版的光子魚雷，按住飛彈鍵可決定射擊位置</ref>） ||前後射擊（TAIL GUN） || 雙雷射（TWIN LASER）
+|}
+
+* 護盾同樣有2種
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! ? 
+|-
+| 護盾（SHIELD）
+|-
+| 防護力場（FORCE FIELD） 
+|}
+
+
+* 除了A的武裝來自初代、BCD來自2代以外，EF為本作原創
+* <s>但由於本作機體強度平衡滅茶苦茶、運氣依存要素太多導致運ゲー化、BUG滿天飛等原因，令粉絲不評</s>
+* <s>復活（笑）</s>
+
+===GRADIUS V／グラディウスV ／宇宙巡航艦V ===
+* 發售日期：2004年7月22日
+* 發售平台：PS2
+* 與TREASURE、G.REV共同製作，製作總監為曾製作過《閃亮銀槍》、《斑鳩》等作的井内ひろし
+** <s>因此本作也會有上述幾作的影子</s><ref>主要是玩法及關卡構成方面</ref>
+** 同時本作首次轉型成彈幕向，因此自機的被彈判定也跟著改小
+* 再一個可雙打的遊戲，但本作的子機最多只能容納4個（兩機共用）
+** 跟沙羅曼蛇一樣在途中墜機後會直接繼續，但有選項可調整成定點復活
+* 新增「子機操作鍵」（預設為R1），按下此鍵即可操作子機的模式
+* 此外自訂武裝回歸，但需全破至少1週目後才可解禁
+** 接關數最初只有3次，會依遊玩時數增加，增加到20次之後可解禁無限接關
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| TYPE A || rowspan = "4"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || rowspan = "4"|雷射（LASER） || 子機（固定型） || rowspan = "4" |防護力場（FORCE FIELD）
+|-
+| TYPE B || 雙向飛彈（2-WAY）|| 前後射擊（TAIL GUN） || 子機（指向型）
+|-
+| TYPE C || 鷹翼飛彈（EAGLE WIND）|| 前後射擊（TAIL GUN） || 子機（並排型）
+|-
+| TYPE D || 後方雙向飛彈（2-WAY BACK） ||雙向射擊（DOUBLE）|| 子機（環繞型）
+|-
+|}
+
+* 自訂武裝
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || 子機（固定型） || 防護力場（FORCE FIELD）
+|-
+| ||雙向飛彈（2-WAY）|| 前後射擊（TAIL GUN）|| 波紋雷射（RIPPLE） || 子機（指向型）||護盾（SHIELD）
+|-
+| ||鷹翼飛彈（EAGLE WIND）|| 直角射擊（VERTICAL）  || 能量雷射（E.LASER） || 子機（並排型）||超級爆炸（MEGA CRASH）
+|-
+| ||後方雙向飛彈（2-WAY BACK） ||自由射擊（FREEWAY）|| 火焰發射器（FIRE BLASTER<ref>初出於MSX幾作，發射距離有限的火舌，火力比雷射強</ref>） || 子機（環繞型）||
+|-
+| ||爆裂彈（SPREAD） || 分散射擊（SPREAD GUN）|| || || 
+|-
+| ||光子魚雷（PHOTON）|| || || ||
+|-
+| ||飛行魚雷（FLYING TORPEDO）|| || || ||
+|}
+
+===Gradius Origin Collection／Gradius Origins===
+*發售日期：2025年8月7日
+*發售平台：Switch、PS5、XBOX Series X/S、PC（Steam）
+* 睽違數年發售的合集，收錄各種版本的1到3代以及沙羅曼蛇3作
+** 初代收錄兩種主機板版本（新規主機板和Bubble System主機板）美版完成版和未完成版和歐版、沙羅曼蛇日版及海外版、Life Force日版，二代收錄日版前中後期三種版本以及美版、三代收錄日版舊版新版及亞洲版之餘更收錄AM SHOW電玩展版本，以及沙羅曼蛇2
+* 此外更額外收錄再次由M2操刀的完全新作《沙羅曼蛇III／Salamander III》
+** 本次可操作機體為前作的改良型，分別為勝利毒蛇L型以及洛德不列顛Mk.III{{censored|全破一週目後可解禁Gray Layer}}
+** 操作上除了基本的射擊和飛彈以外，新增「爆裂」指令，可發射強化武器，能量耗盡後會進入冷卻狀態一陣子（只能發射一般射擊，子機變成灰色）
+
+==系列作一覽（旁支系列）==
+===GRADIUS 2／NEMESIS 2{{ref|海外版名稱|group2}}／グラディウス2／宇宙巡航艦2===
+* 發售日期：	1987年8月22日
+* 發售平台：	MSX、PS、SS、携帯電話、i-revo、PSP、PS3、Wii
+* 基於MSX版初代的續作，自機為Vic Viper後繼機Metalion
+** 本次額外武裝可藉由擊破BOSS進入其核心後獲得
+* 關卡分配方面與劇情掛勾，第7關要塞通關後會開始折返（原關卡的相反路線版本），以原關卡+折返關卡各6關，加上兩個要塞關卡，本作共14關，算是系列作中關卡數最多
+** 全破一次後，在標題畫面按住鍵盤上的F5鍵再開始即可進入高難度模式
+* 而後移植至X68000並改名為《Nemesis '90改》，遊戲畫面變得與街機靠攏
+** <s>不過BGM再現度太差而導致負評，雖然遊戲性還是不錯</s>
+** 同樣有折返關卡，但變成兩種路線
+*本次武裝
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 等級 !! 1 !! 2 !! 3 !! 4 !! 5 !! 6 !! 7 !! 8 !! ?
+|-
+| 1st || rowspan = "3"| 速度提升（SPEED UP） || 飛彈（MISSILE）Lv.1 || ※後方射擊（BACK BEAM） || 雙向射擊（DOUBLE） || ※上升雷射（UP LASER）Lv.1 || ※下降雷射（DOWN LASER）Lv.1|| 雷射（LASER）Lv.1 || rowspan = "3"|子機（OPTION） ||rowspan = "3"|防護力場（FORCE FIELD）
+|-
+| 2nd || 飛彈（MISSILE）Lv.2 |||| ※反射光環（REFLEX RING） || ※上升雷射（UP LASER）Lv.2  || ※下降雷射（DOWN LASER）Lv.2|| 雷射（LASER）Lv.2
+|-
+| 3rd || ※燒夷飛彈（NAPALM MISSILE）|||| ※火焰發射器（FIRE BLASTER） || || || ※增長雷射（EXTEND LASER） 
+|-
+|}
+* ※該武裝需要擊破頭目並潛入其核心，核心關通關後才可獲得
+* 除了以上武裝，特定關卡的途中還有限時武裝可使用，取得後直接使用且統一只有15秒的時間可使用
+** 敵機減速 (E.SLOW) - 取得後敵機減速
+** 子機護盾 (O.VARRIOR) - 子機高速環繞自機並形成護盾
+** 向量雷射 (V.LASER) - 射出如波紋雷射寬且比前者更有貫通效果的光波雷射
+** 迴旋鑽地 (R.DRILL) - 自機做出高速旋轉並可自己破壞粒子地形
+
+===ゴーファーの野望 エピソードII／NEMESIS 3 THE EVE OF DESTRUCTION{{ref|海外版名稱|group2}}===
+* 發售日期：1989年1月27日
+* 發售平台：MSX、PS、SS、i-revo、PSP、PS3、Wii、Wii U
+* 以AC版2代為基底的續作，自機為Vixen
+* 子機方面可選擇跟隨型、並排型以及環繞型3種，護盾方面則一樣是護盾或防護力場
+* 本作取消限時武裝，同時武裝配備分為4種
+** 一部分武裝需要到特定關卡的隱藏區域獲得（隱藏武裝一律以粗體字表示）
+* TYPE 1 
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lv.1 !! Lv.2 !! Lv.3
+|-
+| 速度提升（SPEED UP） ||||
+|-
+| 飛彈（MISSILE）||'''鷹翼飛彈（HAWK MISSILE）'''||'''導向飛彈（GUIDED MISSILE）'''
+|-
+| 後方射擊（TAIL BEAM） || 一般射擊（BEAM） ||
+|-
+| 上方雙向射擊（UP DOUBLE） || '''下方雙向射擊（DOWN DOUBLE）'''||
+|-
+| '''上升雷射（UP LASER）''' || '''下降雷射（DOWN LASER）'''||
+|-
+| 雷射（LASER） || '''流星雷射（METEOR LASER）''' ||'''螺旋雷射（SCREW LASER）'''
+|-
+| 子機（MULTIPLE） ||||
+|-
+| ? ||||
+|}
+
+* TYPE 2 
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lv.1 !! Lv.2 !! Lv.3
+|-
+| 速度提升（SPEED UP）||||
+|-
+| 光子飛彈（PHOTON MISSILE）||'''光子鷹翼飛彈（PHOTON HAWK）'''||'''導向飛彈（GUIDED MISSILE）'''
+|-
+| 後方射擊（TAIL BEAM） || 一般射擊（BEAM） ||
+|-
+| 上方雙向射擊（UP DOUBLE） || '''下方雙向射擊（DOWN DOUBLE）'''||
+|-
+| '''上升雷射（UP LASER）''' || '''下降雷射（DOWN LASER）'''||
+|-
+| 雷射（LASER） || '''火花雷射（TWINKLE LASER）''' ||'''螺旋雷射（SCREW LASER）'''
+|-
+| 子機（MULTIPLE）||||
+|-
+| ? ||||
+|}
+
+* TYPE 3 
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lv.1 !! Lv.2 !! Lv.3
+|-
+| 速度提升（SPEED UP）||||
+|-
+| 燒夷飛彈（NAPALM MISSILE）||'''燒夷鷹翼飛彈（NAPALM HAWK）'''||'''導向飛彈（GUIDED MISSILE）'''
+|-
+| 後方射擊（TAIL BEAM） || 一般射擊（BEAM） ||
+|-
+| 上方雙向射擊（UP DOUBLE） || '''下方雙向射擊（DOWN DOUBLE）'''||
+|-
+| '''上升雷射（UP LASER）''' || '''下降雷射（DOWN LASER）'''||
+|-
+| 波紋雷射（RIPPLE LASER） || '''火焰發射器（FIRE BLASTER）''' ||'''增長火焰發射器（EXTEND BLASTER）'''
+|-
+| 子機（MULTIPLE） ||||
+|-
+| ? ||||
+|}
+
+* TYPE 4
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Lv.1 !! Lv.2 !! Lv.3
+|-
+| 速度提升（SPEED UP） ||||
+|-
+| 雙向飛彈（2WAY MISSILE）||'''雙向鷹翼飛彈（2WAY HAWK）'''||'''導向飛彈（GUIDED MISSILE）'''
+|-
+| 後方射擊（TAIL BEAM） || 一般射擊（BEAM） ||
+|-
+| 上方雙向射擊（UP DOUBLE） || '''下方雙向射擊（DOWN DOUBLE）'''||
+|-
+| '''上升雷射（UP LASER）''' || '''下降雷射（DOWN LASER）'''||
+|-
+| 波紋雷射（RIPPLE LASER） || '''火焰發射器（FIRE BLASTER）''' || '''向量雷射（VECTOR LASER）'''
+|-
+| 子機（MULTIPLE） ||||
+|-
+| ? ||||
+|}
+
+===NEMESIS／ネメシス===
+* 發售日期：1990年2月23日
+* 發售平台：GB
+* 首款GB遊戲，但關卡構成與原作不同
+
+===NEMESIS II／ネメシスII===
+* 發售日期：1991年8月9日
+* 發售平台：GB
+
+===GRADIUS GAIDEN／グラディウス外伝／宇宙巡航艦外傳===
+* 發售日期：1997年8月28日
+* 發售平台：PS、PSP
+* 以發揮PS效能製作的外傳
+* 本次有別於武裝選擇，本次有4台自機可選，也是繼沙羅曼蛇後可雙打的遊戲
+** 本次部分武裝可再進一步升級，同時可編輯強化選項的順序
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 1 !! 2 !! 3!! 4 !! 5 !! 6
+|-
+| Vic Viper || rowspan = "4"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || rowspan = "4"|子機（OPTION） || rowspan = "4"|? 
+|-
+| Lord British ||雙向飛彈（2-WAY） || 波紋雷射（RIPPLE） || 破壞砲（DISRUPTOR）
+|-
+| Jade Knight || 爆裂彈（SPREAD）|| 圓環雷射（ROUND LASER） || 脈衝雷射（PULSE LASER）
+|-
+| Falchion β || 滾體飛彈（ROLLING MISSILE） ||自動照准（AUTO AIMING）|| 重力彈（GRAVITY BULLET）
+|-
+|}
+* 本次護盾除了護盾（SHIELD）、防護力場（FORCE FIELD），本作新增接觸地形即反彈（但耐力不高且只有頂部底部兩邊有防禦）的防撞盾（GUARD）及3秒內完全無敵且可無視地形的限時屏障（LIMIT）
+
+===GRADIUS GENERATION／GRADIUS ADVANCE<ref>歐版名稱</ref>／GRADIUS GALAXIES<ref>北美版名稱</ref>／グラディウスジェネレーション／宇宙巡航艦 世代===
+* 發售日期：2001年1月17日
+* 發售平台：GBA
+* 由モバイル21製作的GBA作品，可說是繼GB兩作後睽違12年推出的掌機作品
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| TYPE A || rowspan = "4"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || rowspan = "4"|子機（OPTION） ||rowspan = "4"|護盾（SHIELD）／防護力場（FORCE FIELD）
+|-
+| TYPE B || 雙向飛彈（2-WAY） || 前後射擊（TAIL GUN） || 波紋雷射（RIPPLE）
+|-
+| TYPE C || 光子魚雷（PHOTON）||前後射擊（TAIL GUN） || 推力雷射（THRUST LASER）
+|-
+| TYPE D || 爆裂彈（SPREAD） ||雙向射擊（DOUBLE）|| 雙雷射（TWIN LASER）
+|-
+|}
+
+===GRADIUS ReBirth／グラディウス リバース／宇宙巡航艦 重生===
+* 發售日期：2008年9月2日
+* 發售平台：Wii
+* Konami重生系列作品之一，M2操刀，本作基於MSX世界觀
+** {{censored|需破完3週目才可進入真結局}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
+|-
+| TYPE A 萬能型 || rowspan = "5"| 速度提升（SPEED UP） || 飛彈（MISSILE） || 雙向射擊（DOUBLE） || 雷射（LASER） || rowspan = "5"|子機（OPTION） ||護盾（SHIELD）
+|-
+| TYPE B 廣範圍攻擊|| 雙向飛彈（2-WAY） || 前後射擊（TAIL GUN） || 波紋雷射（RIPPLE）||防護力場（FORCE FIELD）
+|-
+| TYPE C 攻擊力重視|| 爆裂彈（SPREAD）|| 直角射擊（VERTICAL） || 雙雷射（TWIN LASER）||護盾（SHIELD）
+|-
+| TYPE D 試作型（Metalion）{{ref|達成一定條件解禁|group1}} || 燒夷飛彈（NAPALM MISSILE） ||雙向射擊（DOUBLE）|| 上升雷射（UP LASER）||護盾（SHIELD）
+|-
+| TYPE E 新手向{{ref|達成一定條件解禁|group1}} ||雙向飛彈（2-WAY）|| V射擊（V-SHOT）||向量雷射（VECTOR）||防護力場（FORCE FIELD）
+|}
+
+===SOLAR ASSAULT===
+* 發售日期：1997年7月
+* 發售平台：AC
+* 系列唯一一款體感式3D STG
+* 後來推出加強版REVISED
+* 至今未推出家用機版本
+
+==系列作一覽（惡搞系列）==
+*由於本系列登場機體較多，請見[[パロディウス系列登場機體列表]]
+
+
+=== PARODIUS／パロディウス ～タコは地球を救う～／瘋狂大射擊 ～章魚拯救地球～ ===
+* 發售日期：1988年4月28日
+* 發售平台：MSX、PS、SS、手機、PSP、Wii、Wii U
+* 惡搞系列第一作，繼承了Gradius、沙羅曼蛇的基礎系統以及兵蜂的鈴鐺系統。
+** 名字取自Parody的前半部以及Gradius的後半部，如同其名，遊戲風格完全走惡搞路線，BGM除了是Konami自家的樂曲以外，也會混入一些古典樂、古早年代的老歌之類的BGM
+** 本系列的能量膠囊有混入輪盤膠囊，取得時強化選項會開始如老虎機（拉霸）般亮燈，玩家需抓準時機按下升級鍵停下來並提升其中一個武裝
+** 同時實裝！？選項，選到時除了護盾以外'''速度及全武裝歸零'''，<s>然後加上上面的輪盤膠囊…可說是惡意滿滿</s>
+* 遊戲參戰陣容可說是Konami遊戲[[跨界作品|大雜燴]]：陣容有Vic Viper（Gradius）、企鵝（けっきょく南極大冒険）、五右衛門（がんばれゴエモン）、ポポロン（魔城傳說）。主角則是一頭章魚。
+* 有一些死胡同需要利用特定顏色的鈴鐺通過。
+
+=== PARODIUS DA!／パロディウスだ！ ～神話からお笑いへ～／瘋狂大射擊的啦！ ～從傳說到笑話～ ===
+*發售日期：1990年3月
+*發售平台：AC、FC、GB、X68000、PCE、SFC、PS、SS、手機、PSP
+
+* 惡搞系列首次登上街機的遊戲
+* 五右衛門和ポポロン消失(後者更加是從此不再登場)，取而代之是兵蜂正式參戰，同時本作章魚和企鵝是前作兩隻的兒子。
+* 不同角色開始有明顯的性能差別。
+* 從此代開始出現跳舞女郎"ちちびんたリカ"這個系列作名物：無法擊破但會不斷在畫面作出"頂天立地"式的移動，玩家要不被她撞倒需要由她的胯下通過。
+** 她其實是模仿宇宙巡航艦II第八關的蟹型機械人的行動（同樣不能直接擊破）
+* 移植方面FC版關卡有改變，SFC版則是除了忠於原作以外也有追加特別關卡
+
+=== 極上パロディウス ～過去の栄光を求めて～／極上瘋狂大射擊 ～追求過去的榮光～／Fantastic Journey<ref>歐版名稱</ref> ===
+* 發售日期：1994年4月26日
+* 發售平台：AC、SFC、PS、SS、PSP、手機
+* 人物數量再增加。SFC版更加讓五右衛門復出及追加新角色。
+* 第一個有亂入關的一作
+** 會隨機在最初關卡和最終關卡以外的其中一個關卡之後無條件出現
+
+=== 実況おしゃべりパロディウス／實況 會說話的瘋狂大射擊===
+*發售日期：1995年12月26日
+*發售平台：SFC、PS、SS、PSP
+** 最初登陸於SFC，而後PS和SS上推出加強版
+*** PS和SS版畫面有再強化和追加兩個隱藏角色，除此之外有部分關卡有做一些變動，同時副標題《Forever with me》明顯惡搞自家的戀愛AVG《純愛手札 ～forever with you～》
+**** 也很剛好有一關是在惡搞該遊戲
+* 以<s>[[多話|話嘮]]</s>仿實況演出為賣點<s>其實是伯亞基和多龍芝跑過來當實況解說</s><ref>聲優梗，SFC版的實況CV為八奈見乘兒，而PS版追加的2P實況為小原乃梨子</ref>
+
+=== セクシーパロディウス／性感瘋狂大射擊===
+*發售日期：1996年3月3日
+*發售平台：AC、PS、SS、PSP
+* 如同其名，本作很大膽得使用了一堆黃梗和殺必死（？）等性感的要素（但程度頂多只有擦邊球而已）
+* 採用分歧制，有否達成關卡的任務條件會影響下一關的去向（同時難度也會提升），最終關的任務條件達成與否則影響結局。
+** 如果所有關卡皆為任務成功，全破後會突入特別關卡
+* 第二個有亂入關的一作，但本作亂入關為對《パロディウスだ！》的BOSS眾的BOSS RUSH，若在該關MISS掉直接算失敗
+* 雖然故事和任務內容也是相當有趣，不過因為難度極高（難度等級容易提升且無法下降，1周後半的關卡已經有CAVE般的濃密彈幕）加上本作沒有兵蜂和章魚作為自機<ref>本作兵蜂被《兵蜂Yahho!》的某王子和本作原創機體取代、而章魚則是變成慣老闆{{censored|而且最後一關還企圖把主角群辛苦找到的金銀財寶佔為己有並捲款而逃，玩家得必須在時間限制內撐到關底追到牠<s>成功後可以親眼看到章魚被巨大裸女一屁股壓死</s>}}</ref>，評價大不如前，簡接導致系列沒有正統續作。
+
+===ParoWars／パロウォーズ／瘋狂大戰略===
+*發售日期：1997年9月25日
+*發售平台：PS
+* 第一款SLG遊戲，同時也是系列最後的遊戲作品
+
+=== Otomedius／オトメディウス ／少女巡航艦===
+*發售日期：2007年10月15日
+*發售平台：AC、Xbox 360
+
+* 可說是Gradius或是Parodius的萌娘版，本系列更請吉崎觀音擔當人設。<s>因此女角都穿得很清涼+部分角色很有《Keroro軍曹》登場角色（尤其夏美）的既視感</s>
+** 也是繼《IV》之後久違推出街機的遊戲，有支援e-amusement網路紀錄
+** 網路紀錄方面可觀看自己達成的任務、成就、獲得的卡片及武裝等
+* 角色取名還有機體名稱的原出處很多也是來自Konami各遊戲的角色或機體名
+** 武裝方面除了初期武裝以外，有卡玩家可如上述藉由遊玩次數的多寡來獲得不同的新武裝來裝備
+** 武裝可像《外傳》一樣升級
+* 後來於X360推出家用加強版《オトメディウスG（ゴージャス!）》，由M2擔當移植
+** 除了原本街機的要素以外，也有數種原創模式以及家用版限定新角色，更可以多人連線遊玩
+
+===Otomedius X／オトメディウス エクセレント!／少女巡航艦X===
+*發售日期：2011年4月21日<ref>原預定2011年3月24日發售，但因為發售前剛好發生311大地震而延期</ref>
+*發售平台：Xbox 360
+
+* 上者的家用機限定續作
+* 除了新增數個新角色以外，所有角色可選擇外觀，同時武裝編輯要素刪除，取而代之角色會依不同外觀決定其武裝
+** 一部分角色外觀須達成不同條件來解禁
+
+==聯名、客串相關==
+===モアイくん===
+* 以本傳作品的摩艾像為藍本的「摩艾君」為主角的解謎向動作遊戲
+
+===コナミワイワイワールド===
+* 本作中可駕駛Vic Viper和兵蜂
+
+===BEMANI系列部分樂曲===
+* 即Konami音樂遊戲中出現的相關樂曲，有一部分樂曲會以宇宙巡航艦為主題
+
+=== 遊戲王集換紙牌遊戲 ===
+* <s>因為是旗下作品，會跑來客串也是理所當然</s>
+* 但這裡的Vic Viper等機體也有其衍生型號
+* 除了Gradius以外，Parodius的自機也有客串
+
+===Sky Girls===
+* Konami的機甲少女動畫，Vic Viper（新機體）於本作登場<s>不過此版本的Vic Viper卻未逆流回本家</s>
+
+==其他相關==
+===沙羅曼蛇（OVA）===
+* 基於初代、沙羅曼蛇、2代三作為主的OVA，共三集
+
+===究極パロディウス===
+* PARODIUS廣播劇，實質上PARODIUS系列的最後作品
+
+===オトメディウスA.D.===
+* OTOMEDIUS的手機漫畫作品
+
+===極楽パロディウス===
+* PARODIUS的柏青史洛版本
+
+===グラディウス・ザ・スロット===
+* GRADIUS的柏青史洛版本
+
+
+==參考==
+*[https://wiki.zawarudo.org/wiki5/?%E6%A8%AASTG%E5%BE%A1%E4%B8%89%E5%AE%B6 横STG御三家]
+
+==相關連結==
+*[[射擊遊戲]]
+**[[2D捲軸射擊遊戲系列作品列表]]
+
+== 回應 ==
+<comments />
+==備註==
+<references/>
+[[分類:遊戲]]
+[[分類:射擊遊戲]]
+[[分類:Konami]]
+[[分類:GRADIUS]]
