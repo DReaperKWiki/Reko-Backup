@@ -742,6 +742,11 @@
 | {{censored|葉雲裳路線中取得}}
 | 修練需要2等「佛學」以及控制心相，非常的麻煩<br>{{censored|救活葉雲裳的關鍵}}
 |-
+| 無為丹法
+| 道家內功
+| 走留學青城路線取得
+| 更新青城路線後的內功秘笈，練滿後回氣速度極快，可以很快就集滿使用絕招指令的氣
+|-
 |}
 
 == 經典便當 ==
@@ -948,7 +953,7 @@
 == 參考資料 ==
 # [https://forum.gamer.com.tw/C.php?bsn=73317&snA=835 【討論】一起來當活學家。（劇情雷）](巴哈姆特)
 # [https://steamcommunity.com/sharedfiles/filedetails/?id=3267650620 活侠传 攻略指引与信息速查 由 Aumvor 發表](Steam 社群)
-# [https://forum.gamer.com.tw/C.php?bsn=73317&snA=1046&tnum=1 '''【攻略】新手教學'''](巴哈姆特)
+# [https://forum.gamer.com.tw/C.php?bsn=73317&snA=1046&tnum=1 '''【攻略】從未出現的真·新手教學，來！戰你娘親！(含本版總資料彙整連結)'''](巴哈姆特)
 # [https://forum.gamer.com.tw/Co.php?bsn=73317&sn=324 【心得】決鬥機制詳細分析(7/2新增境界等級增傷/減傷機制)](巴哈姆特)
 # [https://smilin.net/LoM-wiki/ 活俠傳wiki]
 
