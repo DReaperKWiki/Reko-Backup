@@ -1,0 +1,1647 @@
+{{H0|女神轉生系列登場惡魔Part 7}}
+
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center; " 
+! colspan="7" |登場惡魔列表：
+|-
+|[[女神轉生系列登場惡魔Part 1|Part 1（亞伯拉罕諸教）]]
+|[[女神轉生系列登場惡魔Part 2|Part 2（中東、南亞（印度、斯里蘭卡、尼泊爾）、東南亞（印尼、菲律賓）、佛教）]]
+|[[女神轉生系列登場惡魔Part 3|Part 3（東亞（中國、韓國、日本））]]
+|[[女神轉生系列登場惡魔Part 4|Part 4（埃及、美洲、澳洲、斯拉夫、亞歐交界）]]
+|[[女神轉生系列登場惡魔Part 5|Part 5（歐陸（希臘、羅馬、北歐、不列顛））]]
+|[[女神轉生系列登場惡魔Part 6|Part 6（現代及近現代、其他、特殊（魔人、屍鬼、機器、病毒、疫苗、人造惡魔、宗教信徒、似人））]]
+|'''Part 7（合作惡魔、原創惡魔）'''
+|}
+<br>
+
+== 種族表、解說及惡魔介紹 ==
+
+* 請見[[女神轉生系列登場惡魔Part 1]]
+<br>
+
+=== 合作惡魔 ===
+==== Devil May Cry系列 ====
+{{MTdata
+|Name=ダンテ
+（但丁）
+|Type=魔人
+|Ali=DARK-NEUTRAL
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT3Dante.png|真Ⅲ
+檔案:D2Dante.png|D2
+</gallery>
+</div>
+|Faction=物理
+|Skill=真Ⅲ：E & I、リベリオン、ネバーギブアップ、
+ホーリースター、ラウンドトリップ、ワールウィンド、<br>
+トゥーサムタイム、スティンガー、<br>
+父の名に誓って、ショウタイム<br>
+D2（✩）：ラピッドショット、ミリオンスタッブ
+|Edition=真・女神轉生Ⅲ
+}}
+
+* CV：森川智之
+* 沒錯，就是惡魔獵人系列的那個但丁。'''''Featuring Dante from the [[Devil May Cry]] Series.'''''
+** 在3代狂熱版以合作角色登場，為惡魔獵人2代的造型，接受輪椅老翁的委託後狩獵人修羅，在第三劫會告訴人修羅此事不對勁並要求其回頭，如果不依則進入再戰
+** 於第五劫再次相遇後想人修羅僱用自己以探索背後的陰謀，付錢後加入隊伍，一加入就是80等
+** 僱用的價格視乎玩家賭博的選擇，選對的話只會象徵性收費一魔貨<s>賭運跟原作一樣差</s>
+*** 之後因為版權問題改為葛葉雷道，但幾乎沒有分別
+* 與他交戰時，會有不同於原作的[https://youtu.be/egzutCUFaOw 專屬BGM]
+* 與其原作2代相比似乎更平易近人<s>所以大可把這裡的經歷納入在1代前充當潤滑劑</s>
+* <s>後來易名為「青神」並拯救來到魔界的人類少年，成為了合一神<-聲優梗</s>
+<br>
+
+{{MTdata
+|Name=ネロ
+（尼祿）
+|Type=魔人
+|Ali=DARK-NEUTRAL
+|Picture=[[檔案:D2Nero.png|200px]]
+|Faction=電擊
+|Skill=D2（✩）：オーバーチュア、ボルテージ
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 繼但丁叔叔後他的姪子也在合作活動裡參戰了
+* <s>所以你爸呢？</s><-只有人性版本的V參戰
+* <s>「FUxK YOU！」</s>
+<br>
+
+{{MTdata
+|Name=ブイ
+（V）
+|Type=??
+|Ali=-
+|Picture=[[檔案:D2V.png|200px]]
+|Faction=萬能、其他
+|Skill=D2（✩）：シャドウ・超撃、グリフォン・雷
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 就是樓上他爸的人性面
+* <s>不知道是不是專屬技能通常只有兩個的關係</s>只有Griffon跟Shadow被寫成技能，技能全是自動技能也吻合原作作風
+<br>
+
+==== 烙印勇士 ====
+
+{{MTdata
+|Name=ガッツ
+（格斯）
+|Type=英雄
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+|Faction=物理
+|Skill=踠くもの、ドラゴンころし
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+{{MTdata
+|Name=狂戦士
+（狂戰士）
+|Type=魔人
+|Ali=DARK-NEUTRAL
+|Picture
+|Faction=物理
+|Skill=狂戦士の甲冑、ベルセルク
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* D2中把常態跟狂戰士裝甲的版本分開推出
+* 狂戰士裝甲版原為「狂戰士格斯（狂戦士ガッツ）」，從第三彈合作開始被更名
+<br>
+
+{{MTdata
+|Name=グリフィス
+（古里菲斯）
+|Type=英雄
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+|Faction=萬能
+|Skill=光の鷹、絶対者の剣
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+{{MTdata
+|Name=フェムト
+（菲姆特）
+|Type=？？
+|Ali=-
+|Picture=
+|Faction=物理
+|Skill=D2：闇の翼、漆黒の光
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=シールケ
+（西爾凱）
+|Type=魔女
+|Ali=-
+|Picture
+|Faction=火炎、凍結、衝擊
+|Skill=元素魔法、精霊大召喚
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=ゾッド
+（索特）
+|Type=魔人
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+|Faction=物理
+|Skill=不死者、引きちぎり
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=モズグス
+（摩茲葛斯）
+|Type=魔人
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+|Faction=物理
+|Skill=血の経典、神千手砲
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 有人型版本的立繪
+<br>
+
+{{MTdata
+|Name=髑髏の騎士
+（髑髏騎士）
+|Type=魔人
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+|Faction=萬能
+|Skill=魔に仇成す者、喚び水の剣
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+==== Bayonetta系列 ====
+{{MTdata
+|Name=ベヨネッタ
+（貝優妮塔）
+|Type=魔女
+|Ali=-
+|Picture
+|Faction=萬能、物理
+|Skill=D2（✩）：マダムストンプ、魔獣ゴモラ召喚B
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 以初代的長髮造型登場。
+<br>
+
+{{MTdata
+|Name=ジャンヌ
+（貞德）
+|Type=魔女
+|Ali=-
+|Picture
+|Faction=萬能、物理
+|Skill=D2（✩）：マダムアッパー、魔獣ゴモラ召喚J
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 以初代的短髮造型（略。
+<br>
+
+{{MTdata
+|Name=ビラブド
+（畢拉維德）
+|Type=能天使
+|Ali=-
+|Picture
+|Faction=物理
+|Skill=ビラブド斬り
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+==== 攻殼機動隊 ====
+{{MTdata
+|Name=草薙素子
+|Type=義体
+|Ali=-
+|Picture
+|Faction=物理、狀態異常
+|Skill=光学迷彩、ゴーストハック
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=バトー
+（巴特）
+|Type=義体
+|Ali=-
+|Picture
+|Faction=物理
+|Skill=タチコマの援護、セブロ C-40A
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=タチコマ
+（塔奇克馬）
+|Type=マシン
+|Ali=-
+|Picture
+|Faction=物理、火炎
+|Skill=50mm擲弾
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+==== 音速小子 ====
+{{MTdata
+|Name=ソニック
+（索尼克）
+|Type=？？
+|Ali=-
+|Picture
+|Faction=衝擊
+|Skill=音速のハリネズミ、スピンダッシュ
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+*<s>雖然是SEGA吉祥物，可以理解，可是再怎樣畫風也太……</s>
+<br>
+
+==== 七大罪 ====
+{{MTdata
+|Name=メリオダス
+（梅里奧達斯）
+|Type=魔神
+|Ali=LIGHT-NEUTRAL 
+|Picture
+|Faction=物理、咒殺
+|Skill=十戒、トリリオン・ダーク
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=エリザベス
+（伊利沙白）
+|Type=女神
+|Ali=LIGHT-LAW
+|Picture
+|Faction=萬能
+|Skill=女神の加護、聖櫃
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=バン
+（班）
+|Type=魔人
+|Ali=NEUTRAL-CHAOS
+|Picture
+|Faction=物理
+|Skill=強欲の罪、身体狩り
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+==== 新世紀福音戰士 ====
+{{MTdata
+|Name=初号機D×2型
+（初號機Dx2型）
+|Type=魔神
+|Ali=LIGHT-NEUTRAL
+|Picture
+|Faction=咒殺
+|Skill=魔を得た姿、デモニックソード、黒穿裂破
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 從異界入口出現的替身，並非本體，而且手臂沾染了其他力量
+* <s>其他合作仲魔都沒有新形態的待遇，不愧是EVA</s>
+<br>
+
+{{MTdata
+|Name=第6の使徒
+（第六使徒）
+|Type=天使
+|Ali=LIGHT-LAW
+|Picture
+|Faction=破魔
+|Skill=不落、ラストネメシス、怪光波、魔による研鑽
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 從異界入口出現的替身，並（ry
+* 3D模型有全身反射跟變形動作
+* 原捏他即為大天使「雷米爾」<s>還是不用雷，可能因為是替身所以種族只是天使而不是大天使</s>
+<br>
+
+{{MTdata
+|Name=第10の使徒
+（第十使徒）
+|Type=天使
+|Ali=LIGHT-LAW
+|Picture
+|Faction=萬能
+|Skill=拒絶、ルイン・レイ、壊光線、魔による成長
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 從異界入口出現的替身，並（ry
+* 原捏他即為大天使「塞路爾」<s>，可能因為是替身所以種族只是天(RY</s>
+<br>
+
+==== Overlord ====
+{{MTdata
+|Name=アインズ
+（安茲）
+|Type=魔王
+|Ali=DARK-CHAOS
+|Picture
+|Faction=萬能
+|Skill=最強の魔法詠唱者、失墜する天空、完全耐性：神聖属性
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=アルベド
+（雅兒貝德）
+|Type=夜魔
+|Ali=NEUTRAL-CHAOS 
+|Picture
+|Faction=物理
+|Skill=純白の悪魔、慈悲深き殺戮
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=シャルティア
+（夏提雅）
+|Type=邪鬼
+|Ali=DARK-NEUTRAL 
+|Picture
+|Faction=火炎、破魔
+|Skill=鮮血の戦乙女、死せる勇者の魂
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+==== [[魔法少女小圓]] ====
+{{MTdata
+|Name=鹿目まどか 
+（[[鹿目圓]]）
+|Type=？？
+|Ali=
+|Picture
+|Faction=破魔
+|Skill=わたしの祈り、もう大丈夫だよ
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=暁美ほむら  
+（[[曉美焰]]）
+|Type=？？
+|Ali=
+|Picture
+|Faction=物理
+|Skill=時間遡行者、私一人で片付ける
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=ワルプルギスの夜 
+（魔女之夜）
+|Type=魔女
+|Ali=
+|Picture
+|Faction=衝擊
+|Skill=戯曲の編纂者、大災害
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+==== BASTARD!! －暗黑的破壞神－ ====
+{{MTdata
+|Name=ダーク・シュナイダー
+（達克·修奈達）
+|Type=魔人
+|Ali=
+|Picture=
+|Faction=火炎、電擊
+|Skill=超絶美形主人公、七鍵守護神、魔炎変撃
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=アーシェス・ネイ
+（安雪絲·奈伊）
+|Type=魔人
+|Ali=
+|Picture=
+|Faction=電擊
+|Skill=雷帝、覇皇剣雷撃鷲爪斬
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=アンスラサクス
+（安斯拉薩克斯）
+|Type=破壞神
+|Ali=
+|Picture=
+|Faction=萬能
+|Skill=暗黒の破壊神、破壊の光、アンスラ光線、威圧の構え・改
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+=== 潮與虎 ===
+{{MTdata
+|Name=蒼月潮
+|Type=？？
+|Ali=
+|Picture=
+|Faction=電擊
+|Skill=獣の槍の使い手、妖怪殺しの突き
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=とら
+（虎）
+|Type=？？
+|Ali=
+|Picture=
+|Faction=電擊
+|Skill=雷獣、飛雷
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+{{MTdata
+|Name=白面の者
+（白面者）
+|Type=妖魔
+|Ali=
+|Picture=
+|Faction=咒殺
+|Skill=暗黒の光、滅びの炎
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+<br>
+
+=== 原創惡魔 ===
+==== 數位惡魔物語 女神轉生Ⅱ ====
+{{MTdata
+|Name=フレイミーズ
+（火精靈）
+|Type=精靈
+|Ali=NEUTRAL
+|Picture
+|Faction=火炎
+|Skill=-
+|Edition=數位惡魔物語 女神轉生Ⅱ
+}}
+{{MTdata
+|Name=アクアンズ
+（水精靈）
+|Type=精靈
+|Ali=NEUTRAL
+|Picture
+|Faction=凍結
+|Skill=-
+|Edition=數位惡魔物語 女神轉生Ⅱ
+}}
+{{MTdata
+|Name=エアロス
+（風精靈）
+|Type=精靈
+|Ali=NEUTRAL
+|Picture
+|Faction=衝擊
+|Skill=-
+|Edition=數位惡魔物語 女神轉生Ⅱ
+}}
+{{MTdata
+|Name=アーシーズ
+（磐石精靈）
+|Type=精靈
+|Ali=NEUTRAL
+|Picture
+|Faction=電擊
+|Skill=-
+|Edition=數位惡魔物語 女神轉生Ⅱ
+}}
+
+* 就是四大元素
+* 最大的特點是不管和什麼惡魔合體都只會將該惡魔變成同一種族再高一階（或低一階）的惡魔，四大元素精靈亦同
+*3代中是阿瑪拉經絡的常駐敵人，體質普遍很硬而一度成為小難關<s>後來再回去就見一堆宰一群了</s>
+<br>
+
+==== 真・女神轉生 ====
+{{MTdata
+|Name=ザ・ヒーロー
+（真主角）
+|Type=4F：人間
+D2：？？
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1The-hero.png|真Ⅰ
+檔案:SMT1PSXThe-hero.png|真Ⅰ（PSX）
+</gallery>
+</div>
+|Faction=真ⅣF：物理
+D2：火焰、衝擊
+|Skill=4F：一刀一閃、士気高揚
+D2：希望の目覚め、サモン：（ケルベロス/クー・フーリン）
+|Edition=真・女神轉生
+}}
+{{MTdata
+|Name=ヒロイン
+（女主角）
+|Type=D2：？？
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Heroine.png|真Ⅰ
+檔案:SMT1PSXHeroine.png|真Ⅰ（PSX）
+</gallery>
+</div>
+|Faction=電擊（真Ⅰ、D2）
+真Ⅰ：輔助、恢復<br>
+D2：破魔
+|Skill=<s>マハジオ、ジオンガ、マハジオンガ</s>
+D2：傍らにある暖かき光、サモン：（ピクシー/デイビット）
+|Edition=真・女神轉生
+}}
+
+* 也就是本作男女主角
+** 男主角後來在4F的DLC參戰，陣營屬性是未定，可以使用各種物理劍技
+** D2中兩位皆在「D2{{ruby|緣祭|えにしまつり}}」時登場，有諸如☆顏色、獨立BGM、死亡及復活動畫、獨立原型、入魂數量等特殊待遇
+*** 以新機制「悪魔連携システム」為專用技，可以通過點擊相關按鈕進行切換仲魔並使用相關的「サモン」技能
+<br>
+
+{{MTdata
+|Name=ロウヒーロー
+（秩序英雄）
+|Type=真Ⅰ：超人
+真if：魔人<br>
+D2：？？
+|Ali=LAW
+|Picture
+|Faction=D2：電擊、破魔
+|Skill=D2：神に捧げられし魂、サモン：（トール、ペイルライダー）
+|Edition=真・女神轉生
+}}
+{{MTdata
+|Name=カオスヒーロー
+（混沌英雄）
+|Type=真Ⅰ：超人
+真if：魔人<br>
+D2：？？
+|Ali=CHAOS
+|Picture
+|Faction=D2：火焰、咒殺
+|Skill=D2：力を求めし渇いた魂、サモン：（ケツアルカトル、だいそうじょう）
+|Edition=真・女神轉生
+}}
+
+* 1代的兩大陣營英雄
+* 兩人都分別在打敗オサワ後及被奈比洛斯奪魂後永久脫離隊伍，並依照路線成為敵人
+* 在if也作為魔人登場<s>因為湊在那邊不好看就不挪了</s>，也是稀有守護靈之一
+* D2中兩位皆在「D2{{ruby|緣祭|えにしまつり}}」時登場（略）；以新機制「悪魔連携システム」為專用技（略）
+<br>
+
+{{MTdata
+|Name=パスカル
+（帕斯卡）
+|Type=合體前：イヌ
+合體後：魔獸
+|Ali=合體前：NEUTRAL、
+合體後：NEUTRAL-NEUTRAL 
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTPascalNormal.gif|普通狀態
+檔案:SMTPCEPascal.png|真Ⅰ（PC Engine）
+</gallery>
+</div>
+|Faction=火炎
+|Skill=
+|Edition=真・女神轉生
+}}
+{{MTdata
+|Name=ロストネーム
+（羅斯特涅）
+|Type=魔獸
+|Ali=NEUTRAL-NEUTRAL 
+|Picture=[[檔案:D2Lostname.png|250px]] 
+|Faction=火炎
+|Skill=蒼き魔犬、フェイタルパーン、豪健炎舞、魔獣の信念
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 1代主角的家犬，與惡魔融合後變成地獄犬，但是不合體也能維持
+**與任何一隻惡魔合體都一定會成為地獄犬，之後即使合體與否也會在與道滿一戰後被終端機吸去異界
+***如果沒有合體的話，被吸走脫隊後，原本原則上在東京命運樂園重逢並展示金蘋果會恢復理智並加入隊伍，則會因為沒有合體而永久脫離隊伍
+***PCE版則就算不融合也可以以仲魔方式回歸<s>這什麼原版受害者</s>
+**2代中成為主角同伴的地獄犬可在GBA版得知就是帕斯卡本尊
+* GBA版2代中是唯一能通用復活系統及萬聖系統召喚的仲魔
+* if中作為魔人的一份子登場，也是稀有守護靈之一
+* D2裡出現跟PCE的姿態同樣的惡魔，於靈氣之門中誕生，「羅斯特涅」之名是「解放者」取名的
+<br>
+
+{{MTdata
+|Name=スティーヴン
+（史提芬）
+|Type=超人
+|Ali=NEUTRAL-NEUTRAL
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:Stephen SMT.png|真Ⅰ
+檔案:Stephen NINE.png|真NINE
+檔案:Stephen SMT4.png|真Ⅳ
+</gallery>
+</div>
+|Faction=全屬性（除破魔、咒殺）
+|Skill=4F（第一階段）：エネルギー圧縮、特異点の烙印、<br>
+特異点の業火、特異点の雹撃、特異点の雷光、特異点の竜巻、<br>
+カラミティコード、黒体の輻射、<br>
+4F（第二階段）：ブラックホール、収束する境界、<br>
+無境界の波動関数、特異点の波弾、粒子の再生成、粒子の対消滅、<br>
+クラックコード、リブートコート
+|Edition=真・女神轉生
+}}
+
+* CV：チョー（長）
+* 雖然歸類為原創，不過從外觀及涉及技術看來，原形是史提芬．霍金博士
+* 在1代時因為開發端末轉移技術而不經意的打開了魔界的大門受了重傷，之後將自己開發的惡魔召喚程式在網路上四處散播希望有人能拯救世界<s>，白話來說就是抽救世主轉蛋</s>
+** 當玩家尚未分歧路線或者正式走入中立路線時會給予玩家協助
+*{{censored|if裡在玩家通關全部四條路線後，會在結尾<s>播完超長的回顧後</s>作為彩蛋出現並問候主人公}} 
+* 在4F中以DLC的追加BOSS登場，內容是各個世界知曉自己會被殺掉的YHVH開<s>GM</s>創造神權限將各作主角(救世主)們封入金剛神界打算殺掉
+** 而在找到亞雷夫和人修羅以及弗林後，前往他的所在場所會和玩家對戰以激發THE HERO靈魂的生存心使其復活
+** 而在戰勝後原本以為結束了…
+*** <s>'''「小芬他…他站起來啦啊啊啊啊！！！！」'''</s>
+** 緊接而來的就是拿出全力和救世主們對戰的史提芬…
+*** 雖然我方有包含玩家自己分兩隊共5個救世主並且有著包含兩個耐性降低效果的強勢技能，但史提芬是以各種暴力的貫通、削MP和萬能攻擊、以及各種能力超降低和超提升和破壞行動次數為主的極無理技能所構成
+*** 而且行動非常隨機，許多人外獵人和救世主們就這樣被面前的輪椅超人疊滿強化跟弱化然後一砲蒸發<s>，不過HP香和MP香吃滿到9999/999又是一回事</s>
+** <s>沒見過史提芬的人修羅表示：干我屁事啊！</s>
+** <s>經此一戰後玩家紛紛表示某四文字神要加強一下<-話雖如此，史提芬不論技能抑或是戰鬥機制都能在YHVH身上找到影子，連BGM也是用同一首</s>
+<br>
+
+{{MTdata
+|Name=ゴトウ
+（五島）
+|Type=真Ⅰ：超人
+真if：魔人
+|Ali=NEUTRAL-CHAOS
+|Picture
+|Faction=真if：物理
+|Skill=-
+|Edition=真・女神轉生
+}}
+
+*1代的那位軍官
+*if中作為魔人的一份子登場，也是稀有守護靈之一
+*<s>大概是因為被役小角從2代魔界拐走才變強</s>
+<br>
+
+{{MTdata
+|Name=ゾンビマウス
+|Type=-
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1ZombieMouse.png|真Ⅰ（未使用）
+檔案:SMT1PSXZombieMouse.png|真Ⅰ（PSX）
+</gallery>
+</div>
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生
+}}
+{{MTdata
+|Name=デモンダック
+|Type=-
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1DemonDuck.png|真Ⅰ（未使用）
+檔案:SMT1PSXDemonDuck.png|真Ⅰ（PSX）
+</gallery>
+</div>
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生
+}}
+
+* <s>本來是</s>出沒在「T. D. L. （{{ruby|東京命運樂園|<s>東京迪○尼樂園</s>}}）」的NPC
+** [http://wildplants.blog81.fc2.com/blog-entry-88.html 在SFC的1代裡是未使用NPC，但保留測試玩家運氣的<s>雞掰</s>功能，PCE版則改變了形象後再加入] 
+** <s>[http://blog.livedoor.jp/yang_li/archives/44694002.html 雖然原形象沒了，但還是能在公式書上出現]</s>
+** <s>順道一提在GBA的版本可以清晰看見'''整個迪○尼樂園的城堡'''</s>
+* <s>米○鼠、唐○鴨</s>
+<br>
+
+==== 真・女神轉生Ⅱ ====
+{{MTdata
+|Name=アレフ
+|Type=4F：人造人間
+|Ali=-
+|Picture=
+|Faction=4F：槍擊
+|Skill=4F：ギデオンバレット、ソニックショット、戦士の気魄
+|Edition=真・女神轉生Ⅱ
+}}
+{{MTdata
+|Name=ヒロコ
+|Type=-
+|Ali=-
+|Picture=
+|Faction=電擊、輔助、恢復
+|Skill=-
+|Edition=真・女神轉生Ⅱ
+}}
+{{MTdata
+|Name=ベス
+|Type=-
+|Ali=-
+|Picture=
+|Faction=電擊、輔助、恢復
+|Skill=-
+|Edition=真・女神轉生Ⅱ
+}}
+
+* 本作男女主角，ベス死後由ヒロコ正式代替
+* 男主角後來在4F的DLC參戰，陣營屬性是秩序，技能以槍技為主
+<br>
+
+{{MTdata
+|Name=レッドベアー
+|Type=戦士
+|Ali=-
+|Picture
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生Ⅱ
+}}
+
+* 主角在瓦爾哈拉鬥技場的對手，在戰勝後成為了冠軍
+** 戰敗身死的他可在ケセドの仏殿裡重遇
+<br>
+
+{{MTdata
+|Name=ダレス
+|Type=戦士
+|Ali=-
+|Picture
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生Ⅱ
+}}
+
+* 可見於[[女神轉生系列#其他角色|其他角色]]
+<br>
+
+{{MTdata
+|Name=ザイン
+|Type=戦士
+|Ali=-
+|Picture
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生Ⅱ
+}}
+* 即本作Law Hero
+<br>
+
+{{MTdata
+|Name=ギメル
+|Type=戦士
+|Ali=-
+|Picture
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生Ⅱ
+}}
+
+* 可見於[[女神轉生系列#其他角色|其他角色]]
+** 擊殺後可以選擇把自己取而代之、破壞主機、或者把整個社區直接放生
+*** 放生後社區的終端機仍可運作，裡面的歷代冠軍之一キングマッスル會妄圖取代其位，但脫離虛擬世界的本體卻也跟居民一樣戴著儀器坐在原地
+<br>
+
+==== 真・女神轉生if... ====
+{{MTdata
+|Name=ふくちゅうむし
+（腹中蟲）
+|Type=邪龍
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SMTifStomachBug .gif|200px]] 
+|Faction=物理
+|Skill=-
+|Edition=真・女神轉生if... 
+}}
+{{MTdata
+|Name=ふくちゅうか
+（腹中花）
+|Type=妖樹
+|Ali=DARK-NEUTRAL 
+|Picture=[[檔案:SMTifStomachFlower.gif|200px]]
+|Faction=物理、狀態異常
+|Skill=-
+|Edition=真・女神轉生if... 
+}}
+
+*原創惡魔，分別是在奧迦斯體內的蟲子及生長的花
+<br>
+
+{{MTdata
+|Name=パラサイト
+（寄生蟲）
+|Type=妖虫
+|Ali=DARK-NEUTRAL 
+|Picture=[[檔案:SMTifParasite.gif|200px]]
+|Faction=物理
+|Skill=-
+|Edition=真・女神轉生if... 
+}}
+
+*原創惡魔，躲在奧迦斯的體內
+*<s>尾巴很像[[陰莖|那東西]]，（阿巴頓心臟＋阿剌克涅）/2</s>
+<br>
+
+{{MTdata
+|Name=チェフェイ
+（妹喜）
+|Type=妖獣
+|Ali=DARK-NEUTRAL 
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTifChefei1.gif|第一形態
+檔案:SMTifChefei2.gif|第二形態
+檔案:SMTifChefei3.gif|第三形態
+檔案:SMTifChefei4.gif|第四形態
+檔案:SMTifChefei5.gif|第五形態
+檔案:SMTifChefei6.gif|第六形態
+檔案:SMTifChefei7.gif|第七形態
+檔案:SMTifChefei8.gif|第八形態
+檔案:D2Chefei.png|D2
+</gallery>
+</div>
+|Faction=真if：特殊
+D2：咒殺
+|Skill=真if（第六形態）：欲望の右手
+真if（第七形態）：邪気の左手<br>
+D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き夢、溢れ出る欲望
+|Edition=真・女神轉生if... 
+}}
+
+* 因缺乏資料而普遍認為屬於原創，而原型普遍推論為夏朝的紅顏禍水「妹喜」：後世與妲己、褒姒齊名，而從江戶時代開始都與（白面金毛）九尾狐扯上關係<s>儘管在華夏只有妲己得此「美」譽</s>
+** 實際上更像是亞洲狐類文化的結合體，從第一形態的小狐狸、第二形態的狐狸面具女孩、第三及第四形態分別疑似坐著唐傘及穿著京劇服飾的人型狐妖、第五形態的殺生石、乃至第六到第八形態的巨型狐妖，都揉合了各種屬於狐狸傳承的面貌
+** D2中背景介紹沒有加以描述，但中文被翻譯至此亦佐證此點
+*真if中的貪慾界的頭目，視乎玩家在路上打開的金箱子而決定出戰的形態，最強時身披能完封主角進攻手段的劍、槍反射<s>但是特技跟反射有效</s>
+*<s>雖然可能是九尾狐的傳承，但只有八條尾巴</s>
+<br>
+
+{{MTdata
+|Name=オオツキ
+（大月老師）
+|Type=教師、改造教師
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTifOtsuki1.gif|第一形態
+檔案:SMTifOtsuki2.gif|第二形態
+檔案:SMTifOtsuki3.gif|第三形態
+檔案:SMTifOtsuki4.gif|第四形態
+</gallery>
+</div>
+|Faction=槍擊
+|Skill=第一形態：プラズマ
+第二形態：プラズマボール<br>
+第三形態：プラズマッシャー
+|Edition=真・女神轉生if... 
+}}
+
+*化學老師兼風紀委員顧問，對超常形象一律以等離子體作解釋
+**生性偏執、古怪，平常流連在實驗室裡，在異變降臨後仍堅持想法，更動用權限禁止學生出走
+**後來接觸魔神王及「惡魔召喚程式」後<s>SAN值歸零</s>走火入魔
+*會以受等離子體改造過的身體出現在各個世界裡，與玩家作對，最後更近乎全身機械化
+** 原捏他是來自於現實中的物理學家「大槻義彦」
+*<s>'''\科学的根拠は、無いのだ！/'''</s>
+<br>
+
+{{MTdata
+|Name=ハザマ
+（哈薩瑪）
+|Type=魔神皇
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTifHazamaHuman.png|人類形態
+檔案:SMTifHazama1stForm.gif|魔神王（第一形態）
+檔案:SMTifHazama2ndForm.gif|魔神王（第二形態）
+</gallery>
+</div>
+|Faction=第一形態：萬能
+第二形態：咒殺
+|Skill=第一形態：ソルスマッシュ
+第二形態：ソルクラスター
+|Edition=真・女神轉生if... 
+}}
+
+*哈薩瑪成為魔神皇後的姿態
+*第一形態是所有路線通用的頭目，獨玲子路線會進入精神世界與第二形態交戰
+*實力與其說本身有之或許該說環境所致
+**相比前兩作能以等級壓之，在該作上因為敵人鋪排而幾乎看不到，配合本身諸如彈量限制、前後排系統等機制讓其搖身一變成了能論資排輩都算上得了號的最終頭目
+**但也因此成了比較講究技巧的頭目，帶著通常等級不過半百的仲魔強闖時要注意補給、復活等續戰手段，配合前線的單位放技能打輸出
+**由於兩個形態都會使用デカジャ的關係，帶上會弱化的仲魔可以大幅減輕前線的壓力<s>否則在他多達兩萬及三萬的生命值下通常會變成痛苦的持久戰</s>
+<br>
+
+==== 真・女神轉生Ⅲ-NOCTURNE ====
+; [[女神轉生系列登場惡魔Part 5#特殊魔人|{{ruby|人修羅|ひとしゅら}}]]
+* <s>不再單獨立項了，自移玉步吧</s>
+<br>
+
+{{MTdata
+|Name=ライドウ
+（葛葉雷道）
+|Type=？？？
+|Ali=NEUTRAL
+|Picture=[[檔案:SMT3KuzunohaRaidou.png|200px]]
+|Faction=物理、萬能
+|Skill=ブギウギ、ヨシツネ見参、ミシャクジ雷電、<br>
+ヒトコト大風、凶鳥ガーヂアン、執り成し、モコイブーメラン、<br>
+的殺、永世ライドウ、ジライヤ乱舞
+|Edition=真・女神轉生Ⅲ-NOCTURNE
+}}
+{{MTdata
+|Name=葛葉ライドウ&ゴウト
+（葛葉雷道&業斗）
+|Type=召喚師
+|Ali=-
+|Picture=
+|Faction=物理、衝擊
+|Skill=葛葉スピリット、召喚：（ヨシツネ、モー・ショボー）
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* CV：杉田智和
+** 順帶一提5代的配角八雲翔平CV也是杉田<s>，也因為造型、CV和劇中表現被吐槽是雷道和但丁的混合體</s>
+** 在小說板透露的１４代雷道本名錠平(ジョウヘイ)和翔平(ショウヘイ)只差一個字
+* 《惡魔召喚師-葛葉雷道對》系列的主人公，<s>女神轉生系列主角特有的</s>無口
+* 與但丁同樣都是進行「先測試人修羅，再想深入調查輪椅老翁」的劇情，連使用的BGM及行動模式都是同一個，甚至在深界第4劫中有關魔人的說明裡都沒有他的身影
+** 相比但丁更先調查到輪椅老翁的意圖，並與之相反期待人修羅脫離其計劃
+* 在「アマラ深界」的「第5カルパ」中觸發活動，會主動與人修羅訂立契約並視乎玩家選擇支付（給予）魔貨
+** <s>業斗「好，人修羅（統稱），不對，人修羅（暱稱）」</s>
+** <s>夭壽啦，惡魔奴役人類啦</s>
+* 由於版本不同的關係，雖然技能不同但每個技能的效果都和但丁的技能差不多
+* 由於是惡魔召喚師的關係，大多技能都是召喚仲魔作為中心
+* 在靈魂駭客3DS移植版中也作為隱藏BOSS登場
+<br>
+
+==== 真・女神轉生 STRANGE JOURNEY/DEEP STRANGE JOURNEY ====
+{{MTdata
+|Name=ゴア
+（戈爾）
+|Type=超人
+|Ali=NEUTRAL
+|Picture
+|Faction=物理、槍擊
+|Skill=天上撃、Ｅ.Ｎ.Ｄ.、当意即妙、克己、
+力があふれる、陰業、不負の法、五月雨撃ち
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+* CV：玄田哲章（廣播劇CD）/石塚運昇（DSJ）
+* 調查隊隊長，故事初期登陸唧筒座後因拯救主角而被歐里亞斯打死，身死後意外得到進化成為超進化形態「ユーバー・ゲシュタルト（Über Gestalt）」，在登陸海豚座時消失，並受「母親」們灌輸大量資訊而成為她們的信使及傀儡
+** 是擁有高度智慧但卻是另外且受操縱的意識，其穿著正是準備安葬時的喪服
+** <s>然後亞瑟就直接把隊長除名外加明令禁止接觸了，不是，人家先一步接觸自己而且怎麼看都有威脅，真的不再立個案嗎？</s>
+* 隨著「母親」們一個接一個被討伐，在陸續的擺脫控制中亦接二連三地尋找自己的歸屬
+** 在主角於摩耶的幻覺中看到他誘使自己自盡後，得亞瑟提醒而向幻影開槍，回歸現實後卻看到了穿著デモニカ的他本尊
+** 一聲吶喊後意識正式回歸，決意要利用掌握的知識成為艦員們改變人類命運的助力，並提供了摩耶的所在地座標
+** 在擊破摩耶並在時鐘座着陸後，一度帶著主角直面梅姆阿雷夫未果後，向船員們分享自己已知有關黑色邊疆的所有資訊<s>以及不停爆雷他們的未來以證明自己還有人心</s>
+** 在之後便對主角進行最後的陣營確認，中立線最終因肉體承受不了過大的資訊而選擇把所知情報分享予搜索隊，並把力量贈予主角後消逝，但其他路線則會與主角為敵
+*** 在詢問時，如果主角已經在LAW與CHAOS中任為其一，但並未即答屬於該陣營的答案，會跳過對立陣營的詢問並問及「把未來托附於誰」，此時即是最後一次回歸中立線的機會
+*** 作為敵人時其實力只能以鬼畜二字形容
+**** 雖然是物理攻擊為主，但傷害相當高，招牌技能「当意即妙」足以在沒強化的情況下秒殺沒防禦又沒穿物抗裝的主角，還會用「克己」補血的同時提升攻擊
+**** 物銃雙反，HP比兩個最終頭目都高，而且有「不負の法」墊底下，實戰最大總HP起碼有15,000
+*** <s>人體、物理多段連擊、會用槍、頌唱人類贊歌、CV是石塚伯，懂了，隊長是[[JOJO的奇妙冒險|喬家人]]（不是）</s>
+<br>
+
+{{MTdata
+|Name=ヒメネス
+（希門尼斯）
+|Type=覚醒人、大地人
+|Ali=CHAOS
+|Picture
+|Faction=槍擊、火焰、萬能
+|Skill=ケイオスタック、地獄の業火、レフトハンド、
+シャッフラー、ダークマター
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+* CV：櫻井孝宏
+* 被研究員抓起來後與仲魔バガブー一併成為實驗體，在バガブー即將奄奄一息之際讓主角進行人與魔的惡魔合體
+** 但從此也性情大變，原本豪邁胡鬧的性格被急劇放大，在LAW路線完全變化為大地人
+* 舊CHAOS結局遵從梅姆阿雷夫的意旨，創造了遍地鬥爭的新世界；而新CHAOS路線與主角創造了「清算污穢人類」的美好世界，並在此自由探求、人魔共存的世界中重逢
+<br>
+
+{{MTdata
+|Name=ゼレーニン
+（潔蕾妮）
+|Type=審判者、聖柱
+|Ali=LAW
+|Picture
+|Faction=審判者：物理、電擊、萬能
+聖柱：破魔、咒殺
+|Skill=審判者：ライトハンド、断末波、メギドの雷火、咎歌
+聖柱：レクイエム
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+* CV：坂本真綾
+* 被惡魔襲擊過後得主角營救，後遇上莫斯提馬並受其遊說
+** 終盤被賜與力量<s>變成餃子</s>，單憑歌唱即可鎮壓小隊；在CHAOS路線完全變化為聖柱
+* 舊LAW結局中成為帶領萬千人類的聖柱，締造了永遠讚頌神明的王國；而在新LAW路線則為了淨化人類的鬥爭心而背叛神與天使，創造新的美好世界
+<br>
+
+{{MTdata
+|Name=ジャック
+（傑克）
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=槍擊
+|Skill=五月雨撃ち、ピュアブルー、黄昏の戦慄
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+* 私人財團部隊「傑克部隊（ジャック部隊）」的領隊，<s>死到臨頭還想著撈錢的</s>私人財團看上黑色疆界的資源開發價值而派遣他們，利用官方情報搭乘レッドスプライト号的原型機ライトニング号進入其中
+**宣稱不與官方人員起衝突，並以「フォルマ」的掃瞄技術及從缺的「フォルマ」為條件向官方隊伍提供尋找消失點的技術支援，但對官方隊伍存有警戒，亦不應搭任何通訊
+**實際上背地裡則人為製造獨立時空作為基地，以惡魔進行實驗，並把成果視作買賣，在主角與希門尼斯登門調查時，隊員之一的ライアン甚至看上了會說人話的バガブー
+***<s>基地甚至置有在其他時空都放了有十萬年以上的終端機及治療站，技術之高強令人禁不住美利堅行為</s>
+**亞瑟基於他們製造時空的超常舉措而頒布緊急任務及進行調查，卻被宣稱負責監視的希門尼斯看不下去而潛入並放走大量惡魔後，乾脆將之一併作為實驗對象，順帶解除互不干涉的規定
+***從希門尼斯的先例看來整個搜索隊也有隨時成為獵物的風險，因此成為攻陷傑克部隊並救出希門尼斯的理由，最終傑克也被找上門的希門尼斯擊殺
+*擁有著彷彿象徵部隊技術水平的高度戰力，在人類敵人而言算是相當突出
+**除了4階降攻都幾乎攔不住的高輸出之外，「ヘッドショット」還能造成即死，相當建議針對火弱攻擊的同時，帶上有銃無/吸/反的仲魔以限制他的輸出<s>編者感想：二重身他還在carry</s>
+**此外亦要注意他的兩個會使用「[[吉良吉影|バイツァ・ダスト]]」造成爆彈狀態的毘舍沙，盡早解除避免團滅
+<br>
+
+{{MTdata
+|Name=ライアン
+（萊恩）
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=槍擊
+|Skill=五月雨撃ち、ピュアブルー、黄昏の戦慄
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+*上述「ジャック部隊」的副官，為人同樣勢利，但比起長官ジャック更能屈能伸
+**在ジャック死後為求存活主動投降服軟，部隊亦遭到解除武裝、物資充公等處理，然而卻讓他找到機會重啟惡魔實驗，並成功奪回ライトニング号，但隨即被求得「歌唱」之力的潔蕾妮直接施以精神控制，成為嘴裡全是敬神之言、與從前判若兩人的模樣
+*隨著劇情發展，在尋找摩耶的所在時需要決定把部隊殘黨殲滅，亦或利用「歌唱」之力降伏惡魔，還是強行打服惡魔棲息地的格倫戴爾
+**若選擇最前者，則會進入與ライアン的戰鬥，彼時已經成為神之下的信徒，不斷跪地喊著「哈利路亞」，主角準備處死他時亦視主角為異端
+**整場戰鬥只有他自己，即使有著跟ジャック毫無差別的技能組，強度亦非當時進度的同等可言
+**在處死他後，餘下的殘黨亦被機動班射殺
+<br>
+
+{{MTdata
+|Name=かたちなきもの
+（無形之物）
+|Type=悪霊
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SJFormless.png|200px]]
+|Faction=狀態異常
+|Skill=ダウノマ
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+{{MTdata
+|Name=なぞのあくま
+（神秘惡魔）
+|Type=悪霊
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SJStrangeDemon.png|200px]]
+|Faction=火炎
+|Skill=アスラローガ
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+*海豚座中出現的精神寄生體，無法以機器解析，以MK型治療器治療受MAD狀態影響的人時一度現身，能進入他人腦海並進行寄生，從而得知他人的過去
+**為阿修羅認為人類不符合「美的標準」而派遣的虛像，從<s>根本是亞巴頓心臟的</s>巨大巢狀物中生成，旨在進入他人精神並給予「磨練」
+**CHAOS線侵攻レッドスプライト的希門尼斯也從大靈母處帶來類似產物，並「{{ruby|解放|<s>弄瘋</s>}}」隊員們<s>諸多同伴裡就一向熱情的アーヴィン變起來看上去最舒適</s>
+*被擊破後的阿修羅在天爐座一度變成此狀態（なぞのあくま）活動，並在襲擊主角未果後，於深處還原成真身
+<br>
+
+{{MTdata
+|Name=メムアレフ
+（梅姆阿雷夫）
+|Type=大霊母、虚大霊
+|Ali=LIGHT-CHAOS
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SJMem Aleph.png|大靈母
+檔案:SJMemAlephEmpty.png|虛大靈
+</gallery>
+</div>
+|Faction=全屬性
+|Skill=火、氷、雷、風、キス・マー、始祖の理、大洪水
+大霊母：光、闇、災厄の輪廻、アスラローガ、秩序の光<br>
+虚大霊：メム＝アレフ、MA
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+* CV：大原沙耶香
+* 原創惡魔，地球意志的渾沌面相化身，和三賢人（神靈シェキナー）相對應的存在
+** 名稱的意義是來自希伯來語的水（Mem）+原初（Aleph），以及MA作為表達母性的詞語而考量
+** 取材至少有一半都來自芭芭拉的爭議作《The Woman's Dictionary of Symbols & Sacred Objects》第632頁[https://eirikrjs.tumblr.com/post/630998471810351104/walkers-book-has-entries-for-ma-and '''對Mem-Aleph的完整介紹'''] <s>欲言又止.jpg</s>
+*** 據當中對考古學家奧勃萊（William Foxwell Albright）的《Yahweh and the Gods of Canaan》第198頁的取材，需追溯到《Altorientalische Bilder zum Alten Testament》第165頁介紹第ccxxvi頁中圖582的示瑪雅公牛圖案印章展示（1909年版本則在104頁圖202），亦來自神學家本辛格（Immanuel Benzinger）的《Hebräische Archäologie》259-260頁圖94認為可能是Jahves的公牛圖像，卻在意指「亞撒利雅（Azariah，德語「Azarjahu」）」<s>而上面的那些閃族腓尼基字母文字明顯不是Mem跟Aleph</s>
+*** 又據當中對羅伯特的《New Larousse Encyclopedia of Mythology》<s>又是你蘿蔔特</s>317-318頁的取材，並沒有提及把波斯語混同的阿梅雷塔特（Mourdad（Mordād）-Ameretat）
+* 原本是作為創造的太母神而存在，因為人類對地球的破壞和汙染而化成破壞的古母
+** 宇宙卵的製造者，本打算交予其他惡魔重塑一切，但均未果
+** 在本作中只有走表CHAOS路線才不會與她為敵，否則必定和玩家為敵
+** 重製版中更進一步的強化了其{{ruby|古母|<s>老不死</s>}}性格，除了黑色疆界外更是創造出用來消化異論者古神惡魔的嘆息之胎
+** 在嘆息之胎中被封印的惡魔有女神迪蜜特、天女阿娜西塔、女神伊絲塔、<s>湊數用的</s>墮天使佛紐斯、魔王亞蒙、夜魔許普諾斯、魔神宙斯、女神瑪麗亞等
+* 一度被擊破後，捨棄理智及肉體，成為單純破壞一切的存在「虛大靈」
+** 擁有與歷代頭目相比也名列前茅的恐怖實力
+*** 保有前一個姿態的技能下依舊具有非常強大的攻擊力，而且此階段的屬性對應除了破魔與咒殺外皆會在每回合按規律切換
+*** 而在「虛大靈」時追加的「MA」，效果是「即死及完全吸收對象的HP」，每逢攻擊被反射時就會使用，而且'''可以對主角發動'''
+**** 因此需要注意主角的耐性，萬一命中主角而身上又有反射的話，就會直接GAME OVER
+* <s>有著一頭極為特色的大嬸髮型及極度苗條的身材</s>
+* 另外，築地根岸寺裡最深處有著她的塑像
+<br>
+
+{{MTdata
+|Name=アレックス
+（阿麗克絲）
+|Type=人間
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTDSJAlex.png|平常狀態
+檔案:SMTDSJAlexBattleForm.png|戰鬥狀態
+</gallery>
+</div>
+|Faction=全屬性
+|Skill=DSJ（全頭目戰）：バンプファイア、ドッジカウンター、
+螺旋の刃、螺旋双刃、物理/魔法見切り、スモークノイズ、<br>
+バーストショット、デッドエンド、クローズバレット<br>
+DSJ（頭目戰2）：Ａ12焼夷弾<br>
+DSJ（舊路線頭目戰）：火炎/氷結/電撃/疾風弾斉射、乱射乱撃<br>
+DSJ（新路線脫離後頭目戰）：クラウ・ソラス
+|Edition=真・女神轉生 DEEP STRANGE JOURNEY
+}}
+<br>
+
+==== 真・女神轉生Ⅳ/Ⅳ Final ====
+{{MTdata
+|Name=フリン
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=4F：萬能、恢復
+|Skill=4F（最終戰）：神殺しの剣
+|Edition=真・女神轉生Ⅳ
+}}
+
+* 4代主角
+* 在4F的終戰及DLC皆有參戰，屬性為未定，以各種屬性魔法為主
+<br>
+
+{{MTdata
+|Name=イザボー
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=全屬性（除破魔、咒殺）
+|Skill=-
+|Edition=真・女神轉生Ⅳ
+}}
+{{MTdata
+|Name=ヨナタン
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=衝擊、破魔
+|Skill=4F：チャリオット
+|Edition=真・女神轉生Ⅳ
+}}
+{{MTdata
+|Name=ワルター
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=物理、槍擊、火焰
+|Skill=4F：悪しき輝き
+|Edition=真・女神轉生Ⅳ
+}}
+
+* フリン<s>後來視乎立場分道揚鑣</s>的小夥伴們
+* 一般情況下只是作為進度條滿後行動一次的搭檔{{censored|，<s>原本不咋需要寫的，但</s>在4F羈絆線終戰會在撒旦分離成ヨナタン及ワルター後會跟フリン及伊沙白一起成為獨立戰力並作為第二小隊圍毆YHVH}}
+<br>
+
+{{MTdata
+|Name=ケンジ
+|Type=東京王
+|Ali=-
+|Picture
+|Faction=萬能
+|Skill=覇者の気風、欺瞞の鎖
+|Edition=真・女神轉生Ⅳ
+}}
+
+* CV：小西克幸
+* 「爆炎之東京」的支配者，以等離子態的人臉姿態現身
+** 創造了東京社會結構的人，包括惡魔人類{{ref|指爲了與得到惡魔般的力量而主動和仲魔融合後的人類}}和牲畜人類{{ref|指爲了在弱肉強食的世界中生存而放棄人權，實施手術將自己的腦髓抽出並改造成給惡魔主人的MAG供應物「赤玉」的人類}}之間的「共存」關係
+** 還是人類的時候就能夠躲避天使襲擊的強者，以「東京王」之名被居民們所畏懼
+** 以沙漠東京對應的人類角色聲優是神谷浩史來看，恐怕是前世的華爾達
+<br>
+
+{{MTdata
+|Name=アサヒ
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=輔助、恢復
+|Skill=チアリング
+|Edition=真・女神轉生Ⅳ Final
+}}
+{{MTdata
+|Name=ナバール
+|Type=
+|Ali=-
+|Picture=
+|Faction=輔助
+|Skill=-
+|Edition=真・女神轉生Ⅳ Final
+}}
+{{MTdata
+|Name=ノゾミ
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=槍擊
+|Skill=フォトフラッシュ、スリープショット、乱射、
+ブランクバレット、ラピッドバインド、セクシーショット、<br>
+いにしえの母の躾
+|Edition=真・女神轉生Ⅳ
+}}
+{{MTdata
+|Name=ハレルヤ
+|Type=
+|Ali=-
+|Picture=
+|Faction=火焰、冰凍
+|Skill=シン・アギダイン、シン・ブフダイン、魔力圧縮
+|Edition=真・女神轉生Ⅳ Final
+}}
+{{MTdata
+|Name=ガストン
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=物理
+|Skill=ミカエルの槍/グングニル（閃、煌、双、豪、絶）
+|Edition=真・女神轉生Ⅳ Final
+}}
+{{MTdata
+|Name=トキ
+|Type=人間
+|Ali=-
+|Picture=
+|Faction=物理
+|Skill=潜伏、刹那の刃、鎧通し、闇討ち、追討の鉈
+|Edition=真・女神轉生Ⅳ Final
+}}
+
+* ナナシ<s>後來視乎立場分道揚鑣</s>的（略
+* 一般情況下只是作為進度條滿後行動一次（略{{censored|，<s>原本也不咋需要寫的，但</s>在4F確立皆殺線後，除了已經死了的アサヒ外全部都會與ナナシ為敵}}
+<br>
+
+{{MTdata
+|Name=タマガミの残滓
+|Type=死人
+|Ali=-
+|Picture
+|Faction=狀態異常
+|Skill=太古の呪怨
+|Edition=真・女神轉生Ⅳ Final
+}}
+
+* 支線任務「死霊ヲ討伐セヨ」中登場，為控制名為「ノア」的女性屍體的前總理大臣大腦殘骸
+** 訴說著為了打造強盛而不被瓜分、玩弄的日本而打造對靈國防兵器的事，並惋惜多神聯合宛如當天的列強
+** 意圖再度東山再起，但被主角擊敗，大腦的培養缸被打破，女性屍體也在後來的支線任務中有更多後續（見イサナミ）
+<br>
+
+==== 真・女神轉生Ⅴ/Ⅴ Vengence ====
+{{MTdata
+|Name=八雲ショウヘイ
+（八雲翔平）
+|Type=超人
+|Ali=NEUTRAL
+|Picture=[[檔案:SMT5YakumoShohei.png|200px]] 
+|Faction=電擊、物理
+|Skill=稲妻一線（真Ⅴ/ⅤV）
+真ⅤV：百発百中［特殊］
+|Edition=真・女神轉生V
+}}
+
+* CV：杉田智和
+* <s>黑化的雷道</s>
+* 女媧的半身，自幼已經與其同行，自稱「狩獵全數惡魔之人」<s>所以其實是但丁</s>
+* 初登場時被女媧命令放過主角，再次登場時會正面與主角對決
+* 本作的中立陣營代表
+* <s>很多時候都等不到開專用技能就把他打跑了</s>
+<br>
+
+{{MTdata
+|Name=磯野上タオ
+（磯野上多緒）
+|Type=人間
+|Ali=UNKNOWN
+|Picture=[[檔案:SMT5Tao.png|200px]]
+|Faction=破魔、回復
+|Skill=聖女の祈り［特殊］
+|Edition=真・女神轉生V Vengeance 
+}}
+{{MTdata
+|Name=タオ
+（多緒）
+|Type=至聖女
+|Ali=LIGHT-LAW
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT5TaoPanagia.png|至聖女
+檔案:SMT5VTaoGoddess.png|創世女神
+</gallery>
+</div>
+|Faction=萬能、破魔、回復
+|Skill=秩序の光
+真ⅤV：聖女の祈り［特殊］
+|Edition=真・女神轉生V
+}}
+
+* CV：早見沙織
+* 磯野上多緒在對抗拉赫姆一戰中犧牲自己後，接受引導並「女神轉生」後的型態。在劇情終盤會加入玩家隊伍並協助玩家走上創世之路。
+** 有著相當強力的專用技「秩序の光」，效用和伊登的金蘋果相同（但多了解除能力降低的效果）。
+** 在進入至高天前會依照玩家的路線給予神意，但如果玩家走破壞王座路線會直接翻臉走人<s>，讓無數不知情玩家在她身上消費的道具就此放水流。</s>
+*** 而且就算是其餘兩個主路線，到了創世後的階段{{censored|打簡易版閣下}}也會因為達成使命而離隊，因此不論任何路線培養後都無法帶到下個週目<s>這樣誰會想用啊，好歹安個自動繼承吧</s>
+*** 在真VV中，官方暗示了其培育進度可以自動繼承到下一輪<s>，所以當初為什麼會做成這種設計啊…</s>
+** 更糟的是雖然能記錄在惡魔全書中但不能召喚，即使玩家培養到99級在二週目也用不了。<s>所以雖然是遊戲中和迪蜜特以及伊登並列甚至超越的最強支援角色，但卻沒人願意花資源在她身上。</s>
+*** 5V其判定更改為完成了創世女神篇/復仇女神篇多續篇的劇情後的劇情便會登入惡魔全書並可隨時召喚，唯一的限制只有在創世復仇中以仲魔加入時不能夠移出隊伍
+** 至聖女的種族名是來自日本函館正教會中聖母瑪利亞的別名「パナギア」<s>，實質算是馬利亞的亞種仲魔</s>
+* 5V中亦在繩印學園和品川的劇情進度期間作為可操縱同伴使用
+<br>
+
+{{MTdata
+|Name=敦田ユヅル
+（敦田結弦）
+|Type=人間
+|Ali=UNKNOWN
+|Picture
+|Faction=物理、冰結
+|Skill= 急所分析［特殊］
+|Edition=真・女神轉生V Vengeance 
+}}
+
+* 即本作的Chaos Hero，5V復仇線的可操作客座角色之一，使用惡魔召喚程式戰鬥
+* {{censored|在品川要對上他和早太郎，在早太郎被擊敗後還會將其復活}}
+<br>
+
+{{MTdata
+|Name=太宰イチロウ
+（太宰一郎）
+|Type=人間
+|Ali=UNKNOWN
+|Picture
+|Faction=破魔、火炎
+|Skill= ビギナーズラック［特殊］
+|Edition=真・女神轉生V Vengeance 
+}}
+
+* 即本作的Law Hero，5V復仇線的可操作客座角色之一(ry
+* {{censored|在萬古神殿要對上他和墮天後的亞必迭}}
+<br>
+
+{{MTdata
+|Name=尋峯ヨーコ
+（尋峰洋子）
+|Type=人間
+|Ali=UNKNOWN
+|Picture=[[檔案:SMT5VYoko.png|200px]]
+|Faction=咒殺
+|Skill= 動乱の施し［特殊］
+|Edition=真・女神轉生V Vengeance 
+}}
+{{MTdata
+|Name=ヨーコ
+（洋子）
+|Type=至聖女
+|Ali=LIGHT-CHAOS
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT5VYokoPanagia.png|至聖女
+檔案:SMT5VYokoGoddess.png|創世女神
+</gallery>
+</div>
+|Faction=咒殺、萬能
+|Skill= 原初の混沌、動乱の施し［特殊］
+|Edition=真・女神轉生V Vengeance 
+}}
+
+* 5V復仇線的可操作客座角色之一，由於本身就能使用魔法而不需依靠惡魔召喚程式便能戰鬥
+* 至聖女型態的專技「原初の混沌」是相當於自帶「女巫詛咒」和「迪卡加」的萬能全體攻擊（和多緒的「秩序の光」效果完全反過來），亦因此也被看作本代的強力仲魔之一
+* 而且與多緒完成使命後相比，洋子能一直陪伴主角到最後{{censored|因此在挑戰閣下時也能作為參戰單位使用}}
+<br>
+
+==== 其他 ====
+{{MTdata
+|Name=ヴェニタス
+（虛空）
+|Type=？？
+|Ali=-
+|Picture=[[檔案:D2Vanitas.png|300px]]
+|Faction=咒殺
+|Skill=6日目の奇跡、悪意の天秤、（攻擊、強化、抑制、防衛）機能
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+*即拉丁語的「Vanitas（虛無）」，《傳道書》12：1-8有云「你趁著年幼、衰敗的日子尚未來到，就是你所說，我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。——傳道者說：『'''虛空的虛空，凡事都是虛空'''。』」
+*D2中是{{ruby|上帝神跡|六日創世}}「劫波」之一，即「{{ruby|創作支配萬物的頂點『人類』|《創世記》}}」的神跡本身<s>，雖沒明講，但這該分類為神靈吧</s>
+**為恪守神跡，通過測量惡意並反饋的方式賦予試煉，促使人類進化，而曾經的兩次試煉（塞拉耶佛事件、納粹崛起）卻引發了兩次世界大戰
+**人類的惡意即將到達臨界點而開始了滅絕終局，但被「新生解放者」以聯繫及通過「{{ruby|超級善意輸入機|（原）龍脈污染裝置}}」輸入善意的方式，削弱並與之抗衡，藏於東京正下方的「本體」也被找到並擊退
+***虛空本身沒有本體的概念，但當干涉世界並進行回饋時會凝聚起來，因此能把該狀態的虛空擊退
+<br>
+
+{{MTdata
+|Name=イナルナ姫
+（伊那瑠奈姫）
+|Type=惡魔召喚師：古姬
+真TCG：古妃
+|Ali=DARK-CHAOS
+|Picture
+|Faction=萬能
+|Skill=第一型態：無情の舞、外法幻花陣
+第二型態：恨みの慟哭、嘆きの咆哮、絶滅覇拳
+|Edition=惡魔召喚師
+}}
+
+* 生前為支配古代日本的巫女，後在現世懷著悲憤及憎惡而復活
+* <s>對戰的時候那音樂輕快得以為在看城市獵人</s>
+<br>
+
+{{MTdata
+|Name=ジード<br>（Zeed）
+|Type=造魔
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+檔案:Zeed Human2 Soul Hacker.png|人型2
+|Faction=-
+|Skill=-
+|Edition=惡魔召喚師 靈魂駭客
+}}
+
+* 在酒店「業魔殿」裡，藉由「ドリー・カドモン」合體誕生的仲魔
+* 型號眾多且自由命名
+** 分為「普通」、「人型」、「獸型」、「龍型」、「天使」、「龍/獸」、「人/天使」共7種，並再往下分成兩種
+** 當中人型、獸型、龍型、天使裡其中各一個型號在前1代的PSP就作為魔王登場
+*** 分別是「大衛（人型）」、「斯庫爾（獸型）」、「利維坦（龍型）」、「以諾（天使）」
+<br>
+
+{{MTdata
+|Name=スナッピー
+（Snappy）
+|Type=妖獸
+|Ali=DARK-NEUTRAL 
+|Picture
+|Faction=凍結
+|Skill=-
+|Edition=惡魔召喚師 靈魂駭客
+}}
+
+* 原本是主人公妹妹的畫作，經由「パラダイムX」在電腦世界中誕生
+** 雖然會吸收魔法，但有限量，超過的話會自滅<s>儘管也可以用物理打法攻破</s>
+* 金子先生的萬魔殿插圖集第二冊提及「海豚把死者引導到冥界」的傳說，實際上類似典故在《荷馬史詩》海豚把海難受害者拉到岸邊拯救或埋葬的部分
+* 此外，海豚（Dolphin）一詞也被認為來自「Delphyne」，其意為「子宮（δελφύς）」
+* 名字捏他美國1964年播放的海洋冒險連續劇《[https://en.wikipedia.org/wiki/Flipper_(1964_TV_series) Flipper]》、與作品同名的海豚主角
+<br>
+
+{{MTdata
+|Name=ゼノン
+（芝諾/Zenon）
+|Type=造魔
+|Ali=
+|Picture=
+|Faction=物理
+|Skill=-
+|Edition=靈魂駭客2
+}}
+
+* CV:興津和幸
+* 釐屬於幻影結社的造魔，由本作主要反派鐵面人親手製作，靈魂駭客2中唯四新設計的惡魔(ry
+** 為負責承載能量體「虹約」的容器，腦袋不好但戰鬥能力非常強大
+<br>
+
+{{MTdata
+|Name=Aion
+|Type=電靈
+|Ali=
+|Picture=
+|Faction=萬能、電擊、槍擊
+|Skill=第一階段：悲痛の禊、ネオ・ドグマ、アークライト、<br>
+クロックアップ、ダメージ圧縮<br>
+第二階段：メタ・サクラメント、ピュシス・パラドクス、<br>
+歌う、来たるべき無窮光、アポストル生成、ロゴス崩壊、アビスの眼
+|Edition=靈魂駭客2
+}}
+
+* CV:森なな子（被菲格統合後）
+** 在21世紀中期，於網路中的無數情報中誕生的電子生命體，<s>一看就知道是</s>本作最終BOSS。靈魂駭客2中唯(ry
+** 為了阻止世界被幻影結社毀滅，創造了兩個<s>Vtuber</s>分靈：林檎和菲格，並指示她們前往調查並阻止造成世界毀滅的元凶
+** 其中負責代表Aion傳達指令的分靈為芙朗瑪（CV:鈴木柊真）<s>特技是嚴重棒讀，讓許多日本玩家適應不良</s>
+** <s>明明是電靈但其能力卻根本就是純粹的魔法，甚至{{censored|能改寫人的靈魂型態並}}A走惡魔召喚權限</s>
+** 準確說其實是菲格操縱Aion當最終頭目
+*** <s>Aion：因為我們覺得菲格的計畫有助於人類和我們共存（重點是她手上還有五條虹約），嚴格來說我是無辜的，謝謝</s>
+*** <s>芙朗瑪：幫復...</s>
+* 名稱出自希臘神話中的艾詠神，是掌管時間、年循環、星體與黃道帶的希臘原始神。象徵為環與銜尾蛇
+** 其象徵的「時間」代表著永恆及無限。
+* <s>Aion在指示的時候沒有給她們知道自己也是競爭跟發展中誕生嗎？</s>
+** <s>{{censored|Raven：菲格，妳的世界真小啊......}}</s>
+<br>
+
+{{MTdata
+|Name=ナナ
+（七奈）
+|Type=造魔
+|Ali=NEUTRAL
+|Picture=[[file:SH2 Nana.webp|200px]]
+|Faction=
+|Skill=-
+|Edition=靈魂駭客2
+}}
+<br>
+
+{{MTdata
+|Name=うちゅういしき
+（宇宙意志）
+|Type=-
+|Ali=-
+|Picture=
+[[檔案:Great Will Last Bible.png|200px]]
+|Faction=電擊、衝擊
+|Skill=スターダスト、フォース
+|Edition=外伝ラストバイブル（Game Gear）
+}}
+
+* Game Gear版的最終頭目，創造了能毀滅自己的主角，並作為自己的對手
+** 任何攻擊皆對其無效，需直到主角使用「コキトエルコス」並自我犧牲後才能造成傷害
+** 目前多為根據名字表述視作{{ruby|系列大黑幕|偉大的意志}}的分靈，但也有同好直接認為是大黑幕本身
+<br>
+
+== 相關條目 ==
+
+* [[RPG]]
+* [[世界樹的迷宮]]
+* [[神話]]
+* [[惡魔]]
+* [[天使]]
+* [[女神轉生系列]]
+
+
+== 回應 == 
+{{pcomment|section=1}}
+
+==備註==
+<references />
+
+[[分類:女神轉生系列]]
+
+{{ATLUS_MT_Series}}
