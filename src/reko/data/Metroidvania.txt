@@ -1,0 +1,216 @@
+{{h0| Metroidvania / 類銀河戰士惡魔城 }}
+
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+|-
+|本條目歡迎各位島民繼續補充。
+|}
+
+== 簡介 ==
+* Metroidvania是在歐美地區由《[[銀河戰士系列]]（'''Metroid'''）》與《[[惡魔城系列]]（Castle'''vania'''）》衍生而成的自創字彙。
+* 定義上是指與上述兩者遊戲的玩法類似的遊戲。
+* STEAM平台中文翻譯為「類銀河惡魔城遊戲」。<s>即使銀河戰士現正更名為密特羅德也沒有人改稱作「類密特惡魔城遊戲」，否則簡稱的粵語諧音會變成了「核突(醜陋)惡魔城」...</s>
+
+== 主要特徵{{ref|並非完全必備}} ==
+=== 探索 ===
+* 探索地圖通常會建立在一個非線性橫向卷軸的地圖。
+* 玩家可以在地圖上進行自由探索與收集等行為。
+=== 能力解鎖 ===
+* 縱使是自由度高的地圖探索，為了限制玩家在初期的行動，有時候會設計一些能力上的限制。
+* 通常必須將能力解鎖之後才能繼續前進，<s>[[TAS|不過還是會有一部分玩法會無視這部分]]</s>。
+=== 存檔點 ===
+* 因為並非線性的橫軸動作遊戲，通常會在地圖各地會設置存檔點提供儲存。
+* 角色死亡後一般也會在存檔點重生。
+=== 傳送點 ===
+* 由於遊戲舞台是一個巨大非線性的地圖，通常會在各地設置傳送點提供快速傳送以省去跑關的麻煩。
+* 傳送點一般為免費的自由傳送，少數傳送點則為付費制或限制區域的傳送。
+
+== 知名的Metroidvania遊戲列表{{ref|原則上依年分排序}} ==
+{| class="wikitable" style="margin:auto;"
+|-
+!初出年份
+!遊戲名稱
+!主要開發者
+!備註
+|-
+|1986
+|Metroid<br>（密特羅德）
+|[[任天堂|Nintendo]]
+|該類型的起源雙柱之一<br>隨著破關時的探索程度與花費時間會影響主角在結尾的造型<s>，[[男裝麗人|中身超きめぇ!]]</s>
+|-
+|1987
+|Castlevania II: Simon's Quest<br>（惡魔城II 詛咒的封印）
+|[[KONAMI]]
+|該類型的起源雙柱之一，也是惡魔城系列第一部使用地圖探索的作品<br><s>[[AVGN|This game sucks!]]，不想被AVGN臭幹的話，快向隔壁[[任天堂|老任]]拜師</s>。
+|-
+|1988
+|Blaster Master<br>（超惑星戰記）
+|rowspan = "2"|SUNSOFT
+|以操控[[戰車]]進行探索為主題的作品，地圖類型有橫捲軸與俯視角兩種。<br>美版的世界觀及角色設定都與日版不同，不少續作也是比照美版世界觀進行。<br>Inti Creates製作的重啟版《[[超惑星戰記ZERO]]》則是以美版為基礎但又加上了日版的一些設定。
+|-
+|1991
+|へべれけ<br>Ufouria: The Saga<ref>歐版／澳版名稱</ref>
+|SUNSOFT另一個Metroidvania作品，也是當時的當家作品，走可愛風格<br>本作的成功也發展出不少衍生系列，從競技遊戲、方塊遊戲、亂鬥遊戲、問答遊戲通通都有<br>2024年2月29日睽違已久的續作《へべれけ2》則是轉型成[[RogueLike]]向動作遊戲
+|-
+|1994
+|Super Metroid<br>（超級密特羅德）
+|[[任天堂|Nintendo]]
+|在歐美是有神作級地位、甚至經常列入百大遊戲的十強。<br><s>銀河戰士才是大師姐啊！</s>
+|-
+|1997
+|Castlevania: Symphony of the Night<br>（惡魔城X 月下夜想曲）
+|[[KONAMI]]
+|真正意義上讓該類型遊戲發揚光大的名作，同時也奠定了往後Metroidvania系列的框架基礎。<br><s>月下是啟蒙自超銀，所以惡魔城是二師兄才對</s>
+|-
+|2002
+|[[洛克人系列|洛克人ZERO]]
+|[[CAPCOM]]
+|同名動作遊戲系列的衍生作品，一代為系列中罕見使用Metroidvania的遊戲，二代以後改回使用系列常見的選關制。
+|-
+|2004
+|[[星之卡比|星之卡比 鏡之大迷宮]]
+|[[任天堂|Nintendo]]
+|算是最適合兒童分級遊玩的Metroidvania。
+|-
+|2005
+|[[LA-MULANA]]
+|NIGORO
+|以遺跡探索為主題，特徵是東西創世神話的大雜燴，以及充滿初見殺的[[鬼畜ゲー|鬼畜]]陷阱。<br>於2011年推出重製版，系統與畫面都有大幅度更新。
+|-
+|2006
+|[[洛克人系列|洛克人ZX]]
+|[[CAPCOM]]
+|《洛克人ZERO》系列的後日談，與ZERO一代同樣有相當大的地圖。
+|-
+| rowspan="2" |2009
+|Shadow Complex<br>（闇影帝國）
+|Chair Entertainment<br>Epic Games
+|少數使用2.5D風格搭配現代槍戰風格的作品<br>於2016年推出重製版，除了原版英語配音外還追加了中日韓語配音
+|-
+|[[朧村正]]
+|[[Vanillaware]]
+|目標為收集一百零八<s>煩惱</s>妖刀，雙主角各自有不同的劇情，破關後可以前往另一位主角的地圖探索。
+|-
+|2010
+|Shantae: Risky's Revenge
+|WayForward
+|<s>在大亂鬥SP燈火之星中附身於大師姐薩姆斯</s>
+|-
+| rowspan="2" |2013
+|Guacamelee!
+|DrinkBox Studios
+|充滿墨西哥風格的遊戲。
+|-
+|SteamWorld Dig
+|Image & Form Games
+|
+|-
+|2014
+|Strider (2014版本)
+|Double Helix
+|由系列作的平台動作遊戲改為Metroidvania，但保留了一貫的流暢度和爽快感。<s>然而到處都能看見低成本的痕跡</s>
+|-
+|2015
+|Ori and the Blind Forest（聖靈之光 1）
+|Moon Studios GmbH
+|
+|-
+| rowspan="2" |2016
+|[[Rabi-Ribi]]
+|CreSpirit<br>GemaYue
+|主打可愛美少女風格，<s>以及難度破表的彈幕</s>。
+|-
+|Salt and Sanctuary
+|Ska Studios
+|受魂系列啟發而誕生的遊戲，某種意義上可說是2D版的黑暗靈魂。
+|-
+| rowspan="2" |2017
+|Hollow Knight<br>（[[空洞騎士]]）
+|Team Cherry
+|以擬人化的昆蟲為主題，充滿虛無風格的[[鬱ゲー]]。
+|-
+|Metroid: Samus Returns
+|Nintendo
+|2代的重製版，加入了QTE近戰要素
+|-
+| rowspan="2" |2018
+|Iconoclasts<br>（叛逆機械師）
+|Joakim Sandberg
+|
+|-
+|The Messenger
+|Sabotage
+|表面上是致敬《忍者龍劍傳》系列的硬派遊戲，實際上是充滿各種吐槽的[[バカゲー]]。
+|-
+|rowspan="3" |2019
+|Bloodstained: Ritual of the Night<br>（[[血咒之城：暗夜儀式]]）
+|Inti Creates<br>Artplay
+|由惡魔城系列的代表製作人IGA五十嵐孝司製作的遊戲。
+|-
+|Blasphemous（瀆神）
+|The Game Kitchen<br>Team17
+|包含黑暗靈魂風格以及宗教元素的遊戲，各方面(包括難度)的[[鬱ゲー]]。
+|-
+|Shantae and the Seven Sirens<ref>iOS和Mac版分為兩部分推出，至次年於PC、Xbox One、PS4、Switch上發佈完整版</ref>
+|WayForward
+|從前作《Half-Genie Hero》變為平台類型遊戲後回歸的一作。
+|-
+|2020
+|Ori And The Will Of The Wisps<br>（聖靈之光 2）
+|Moon Studios GmbH
+|其中一個製作人花了近十年時間推出銀河戰士第二集的同人重製版《AM2R》，可是被任天堂打壓...<br>在老任推出官方重製版《薩姆斯歸來》後那人就'''大方地祝褔老任'''
+|-
+|2021
+|Metroid Dread
+|Nintendo
+|本作三大迷因：密特羅德麪包 Metroid Bread，烏鴉咀{{censored|冒充亞當}}炫耀自己的身材，索狗和戰神之父David Jaffe對此作的無理取鬧
+|-
+|2022
+|Infernax
+|Berzerk Studio
+|重口味獵奇向惡魔城+林克的冒險，會依玩家表現而有多種結局（包含惡搞向的隱藏結局）<br>除了致敬前兩者以外，本作也含有大量致敬數個經典遊戲的彩蛋<s>連Game Genie金手指也惡搞</s>
+|-
+| rowspan="3" |2023
+|Blasphemous 2（瀆神2）
+|The Game Kitchen<br>Team17
+|上面同名作品的續作，動作層面大幅強化<s>終於有二段跳和空中衝刺了</s>
+|-
+|The Last Faith（最後的信仰）
+|Kumi Souls Games
+|走歌德風格和怪物為主題，以及結合類魂元素的遊戲。
+|-
+|TEVI
+|CreSpirit<br>GemaYue
+|和Rabi-Ribi同一團隊開發的作品。
+|-
+|2024
+|Nine Sols（[[九日]]）
+|Red Candle
+|以道教、各種中國上古神話以及cyberpunk為題材結合的類魂型Metroidvania。
+|-
+| rowspan="2" |2025
+|Hollow Knight: Silksong<br>（空洞騎士：絲之歌）
+|Team Cherry
+|原為上面同名以大黃蜂為主角的DLC，及後改為獨立續作開發。<s>結果一等就是7年，期間還因為發售日期相關的各種流言在社群間誕生了小丑迷因</s>
+|-
+|Shadow Labyrinth（闇鬥迷宮）
+|Bandai Namco
+|Pac-Man首款Metroidvania向衍生作，玩家扮演第8適任者與黃色球體Puck闖蕩已經化為廢墟的星球<br><br>雖然如前述所說本作是打著《Pac-Man》的名號且有列入《UGSF》宇宙，但遊戲節奏過慢、打鬥系統看似很酷但欠缺爽快感、迷宮模式一定要一氣呵成過關（一旦失敗只能整個重來）等問題令本作評價大打折扣
+|-
+|預定2026
+|Bloodstained: The Scarlet Engagement（血咒之城：緋紅之誓）
+|Artplay
+|同名作品的續作，故事上為前作的前傳，今作支援雙主角切換
+|}
+
+== 關聯 ==
+* [[電子遊戲分類]]
+* [[動作遊戲]]
+
+== 回應 ==
+{{pcomment|section=2}}
+
+==備註==
+<references />
+[[分類:遊戲]]
+[[分類:動作遊戲]]
+[[分類:惡魔城系列]]

@@ -1712,7 +1712,7 @@
 |-
 ||'85 高中正義||[https://youtu.be/e-aviN1PllI China]||'85〈[[成句/完了完了，要變殭屍了|殭屍]]先生/霊幻道士〉[https://youtu.be/t65bBcgJ2cE?si=rc8caCqThTyzCQ-9 日版主題曲]<br>《霹靂》❏[https://youtu.be/mPe8-9lKNs4?t=1207 早期武戲曲]||另有[https://youtu.be/TxNavOgAAGI ClubMix版]
 |-
-||'66 Rolling Rock/滾石樂團||[https://youtu.be/O4irXQhgMqg Paint it black]<br>[https://youtu.be/98jAyvoEmIs Classic Rock版]|'87〈Tour of Duty/霹靂神兵/突擊越南〉❏[https://youtu.be/8eT2e1GSsX8 OP]<br>'83 台視〈武聖關公〉✂[https://youtu.be/mOge2nJF_80?t=1216 關公跑馬]<br>'85 黃文擇〈三國演義〉關公武戲<br>《天宇》✂三世暴龍武戲<br>《金光》❏常用混戰曲||使用[https://youtu.be/98jAyvoEmIs 倫敦交響樂團演奏曲源]
+||'66 Rolling Rock/滾石樂團||[https://youtu.be/O4irXQhgMqg Paint it black]<br>[https://youtu.be/98jAyvoEmIs Classic Rock版] || '87〈Tour of Duty/霹靂神兵/突擊越南〉❏[https://youtu.be/8eT2e1GSsX8 OP]<br>'83 台視〈武聖關公〉✂[https://youtu.be/mOge2nJF_80?t=1216 關公跑馬]<br>'85 黃文擇〈三國演義〉關公武戲<br>《天宇》✂三世暴龍武戲<br>《金光》❏常用混戰曲||使用[https://youtu.be/98jAyvoEmIs 倫敦交響樂團演奏曲源]
 |-
 ||'67 布施明||[https://youtu.be/sEzdmcOusBg 恋]||《金光》❏[https://youtu.be/ob0jgLiuLIU 六合原曲]|| 使用〈All About Alfred Hauser〉[https://youtu.be/2IHnVWyZZM0 曲源]
 |-
@@ -1978,7 +1978,7 @@
 |-
 ! 年份/作者/原所屬作品 !! (編曲者)/曲名!!(年份/頻道名)〈編入劇集名〉使用方式、人物/場景!!備註
 |-
-| rowspan="15"|<center>（傳統戲曲）</center>||北管－[https://youtu.be/-HJVKl3CJfU 陰調]||《金光》☻慧卿－[https://youtu.be/6ivMZEYkD4s 女暴君]<br>〈大唐五虎將〉☻西卿－[https://youtu.be/t-muny-E_mE?t=86 梅君子]<br>《霹靂》☻阿輪－[https://youtu.be/8XBY24xsuqU 路光明]/[https://youtu.be/NxJIwtHKAAo 插曲版]||據傳曲調容易招陰，傳統戲班不輕易傳授<br>的確也有用鬼做主角的唱辭〈[https://youtu.be/-1BVlJtDeJc 忠義傳]〉
+| rowspan="16"|<center>（傳統戲曲）</center>||北管－[https://youtu.be/-HJVKl3CJfU 陰調]||《金光》☻慧卿－[https://youtu.be/6ivMZEYkD4s 女暴君]<br>〈大唐五虎將〉☻西卿－[https://youtu.be/t-muny-E_mE?t=86 梅君子]<br>《霹靂》☻阿輪－[https://youtu.be/8XBY24xsuqU 路光明]/[https://youtu.be/NxJIwtHKAAo 插曲版]||據傳曲調容易招陰，傳統戲班不輕易傳授<br>的確也有用鬼做主角的唱辭〈[https://youtu.be/-1BVlJtDeJc 忠義傳]〉
 |-
 ||北管－[https://youtu.be/VlDHdkpPJzk 四空門]||《金光》☻黃俊雄－[https://youtu.be/Iae7lAoMm44 秘中秘]<br>〈大唐五虎將〉☻黃俊雄－[https://youtu.be/M4NWzc9Ol9g&t=174 李白斗酒詩百篇]<br>〈武聖關公〉☻黃俊雄－[https://youtu.be/xYe84f1rNvw?si=25P_UiZWUothlNWh&t=335 曹操橫槊賦詩]||
 |-
@@ -2007,6 +2007,8 @@
 || 賈鵬芳〈[https://youtu.be/kZvtppIM2wM 陽關三疊]〉||《天宇》✂冉七降臨前||
 |-
 || 彭修文《[https://youtu.be/3ISsg9TRELg 月兒高]〉 ||《金光》✂酆都月 ||
+|-
+|| (待查) ||《金光》☻黃俊雄－[https://youtu.be/KsJ78DYun4o 明志賦] || 
 |-
 | rowspan="2"|1827 Gioachino Antonio Rossini<br>〈[[William Tell (Fate)|威廉·泰爾]]序曲〉 ||[https://youtu.be/results?search_query=Ranz+des+vaches 趕牛曲] || '93〈射鵰英雄傳之東成西就〉張學友☻[https://youtu.be/cI2FSPkga7U 我Love你] ||
 |-

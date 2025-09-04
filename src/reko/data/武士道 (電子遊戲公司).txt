@@ -1,0 +1,301 @@
+{{h0|武士道（Bushiroad/ブシロード)<s>/不許摸</s>}}
+[[檔案:Bushiroad.png|250px|right]]
+== 解說 ==
+* 日本集換式卡牌公司，創立於2007年，創始人為木谷高明。
+** 當初是木谷創設的[[Broccoli]]因經營不善被迫退出該公司，其後木谷為完成吉田直遺留的《熱風海陸》企劃，在經過吉田直的父母同意後，以當初的企劃名稱，作為後來的公司名，並有專屬社歌。
+** 主要負責集換式卡牌遊戲<s>外加蛋白棒</s><ref>武士道時常推出同綑收藏卡的蛋白棒，為此被戲稱本業</ref>的企劃與販售，同時旗下也有音樂部門、出版與媒體部門以及'''職業摔角聯盟'''。
+*** 「新日本職業摔角」為武士道全額收購後，由「虧錢的賽事組織變成賺錢的運動公司」之經典案例。{{ref|1=[https://web.archive.org/web/20231218214509/https://www.tsr-net.co.jp/data/detail/1189110_1527.html 東京工商研究的報導（網頁存檔）]}}
+*** 另外也有委託[[KADOKAWA]]發行「月刊武士道」，目前暫定該月刊會在2024年4月發行最後一期的告別期。
+** 在海外也有三家海外會社，分別是海外國際總部（Bushiroad International）、美國公司（Bushiroad USA）與歐洲公司（Bushiroad Eurpore），分別負責亞洲、美洲與歐洲的事務。
+** 2017年10月木谷高明主動辭任代表取締役社長職務，親身前往最前線指揮公司發展，現Bushiroad代表取締役社長為橋本義賢。
+*** 至今木谷P仍時常在武士道主持的活動露面，'''還發售過本人的立牌等周邊'''。
+* 自2009年起推出旗下第一支跨媒體企劃《偵探歌劇 少女福爾摩斯》後，後續所有企劃都圍繞遊戲、動畫、真人活動（舞台劇、LIVE等）多方面展開。
+** 旗下作品之間聯動次數相當多，沿用同聲優、樂團、歌手更是家常便飯<s>，被稱為「[[漫威電影宇宙|武士道]][[DC擴展宇宙|作品宇宙]]」</s>
+* 旗下終於有專用的展演空間「Bushiroad Base」（武士道基地），已確定於2024年1月18日起在日本秋葉原正式營運。
+
+== 武士道旗下的跨媒體企劃以及集換式卡牌企劃一覽 ==
+* 以下帶有{{color|red||※}}的部分表示為停止營運或非本社營運
+=== TCG ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!集換式遊戲!!發行時間!! 介紹 
+|-
+| Weiß Schwarz || 2008年- || 通稱黑與白，元美官方譯名「黑白雙翼」<br>武士道最長壽的TCG企劃，時至今日依舊營運中<br>主要以跟各種IP的聯動爲主，也奠定了武士道TCG的聯動模式<br>後續另有推出名為blau(2022年起)和Rose(2025年起)的姊妹品牌，
+|-
+| ChaosTCG{{color|red||※}} || 2009年-2019年 || 已於2019年2月22日發行完最後一個補充包「偵探歌劇 少女福爾摩斯」後停止營運 
+|-
+| [[卡片戰鬥先導者]] || 2011年- || 武士道首個原創TCG企劃，也是旗下第二長壽的TCG遊戲，目前依舊營運中 
+|-
+| 未來卡搭檔對戰{{color|red||※}}(?) || 2013年-2020年 || 雖然已於2020年8月11日發行完最後一個補充包「Revival Buddies」後停止營運，但官方仍尋找機會令其重新復活<br>2023年以「ND」(New Drive)為名在泰國重啟發售<br>2025年推出週年紀念卡包，並<s>疑似是借殼復活</s>和[[卡片戰鬥先導者]]推出聯動卡
+|-
+| LoveLive! School Idol Collection{{color|red||※}} || 2016年-2021年 || 以[[LoveLive!]]系列人物為原型推出的TCG企劃<br>收錄角色只截止到Aqours，在2021年11月後已再沒有推出新牌組，續作推出後正式<s>拔管</s>停止營運
+|-
+| Luck & Logic{{color|red||※}} || 2015年-2018年 || 已在2018年2月結束營運
+|-
+| ReBIRTH for you || 2020年- || 卡圖主打Q版人物，不論是原創還是聯動
+|-
+| Dream Order || 2024年- || 以日本職棒(NPB)為主題的卡片遊戲，<s>能玩的球員卡</s>
+|-
+| hololive OFFICIAL CARD GAME{{color|red||※}} || 2024年- || 以[[hololive]]為主題的卡片遊戲
+|-
+| 五等分の花嫁 カードゲーム || 2024年- || 以五等分的新娘為主題的卡片遊戲
+|-
+| [[LoveLive! 官方卡片遊戲|LoveLive! Series Official Card Game]] || 2025年- || [https://llofficial-cardgame.com/ 2024年8月18日突然公開]的TCG<br><s>重啟版的SIC</s>
+|-
+| Godzilla Card Game || 2025年- || [https://godzilla-cardgame.com/ 2024年11月3日突然公開]的TCG<br>以[[哥吉拉系列]]為主題的卡片遊戲
+|}
+
+=== 跨媒體企劃 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+! 企劃 !!運營時間 !!介紹 
+|-
+| [[偵探歌劇 少女福爾摩斯]]{{color|red||※}} || 2010年-2019年 || 武士道首個跨媒體企劃<s>，同時也是捧紅[[三森鈴子]]的企劃（無誤）</s><br>以遊戲為基礎，在動畫、小說、漫畫、遊戲、聲優廣播劇、原創綜藝節目、媒體商業合作、聲優演唱會方面均有涉及<br>本作也開創了武士道跨媒體企劃的先河<br>已於2019年2月停止營運
+|-
+| [[BanG Dream!]] || 2015年- || 繼上者後第二個跨媒體聯企劃，也是目前主要長期營運的企劃之一 <br ><s>捧紅現任武士道地下社長[[愛美]]的企劃（無誤）</s>
+|-
+| [[少女☆歌劇 Revue Starlight]] || 2017年- || 第三個跨媒體聯企劃，也是目前主要長期營運的企劃之一<br>主要圍繞舞台劇相關的演出
+|-
+| [[From ARGONAVIS]] || 2018年- || 舊企劃名為《ARGONAVIS from BanG Dream!》，為男團版的BanG Dream! 
+|-
+| [[D4DJ]] || 2019年-2024年 || 第四個跨媒體聯企劃，也是目前主要長期營運的企劃之一<br>與《BanG Dream!》主打樂團不同，主打DJ團活動<br><s>木谷親女兒，手遊幾乎隨時都在連動、營運赤字還是出了二期動畫</s><br>2024年6月20日宣布營運轉移至Donuts
+|-
+| Assault Lily{{color|red||※}}|| 2020年-2023年 || 原本與AZONE INTERNATIONAL·acus合作的跨媒體企劃，有武士道負責營運<br>已於2023年1月退出該企劃 
+|-
+| ROAD59 -新時代任俠特區- || 2020年- || 
+|-
+| D_CIDE TRAUMEREI{{color|red||※}} || 2021年-2022年 || 與Sumzap、Drecom共同聯合的跨媒體企劃<br>已於2022年10月隨著遊戲的停服正式宣佈結束營運 
+|}
+
+==== 智慧型手機遊戲 ====
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!遊戲!!開始營運時間!!平台!!合作方!!備註
+|-
+| 蠟筆小新 團結一致 春日部城大開發 || 2017年4月27日 || rowspan="6" |iOS<br>Android ||
+|-
+| 城郭戰記：王牌 || 2016年2月6日 || ||
+|-
+| [[BanG Dream!|BanG Dream!少女樂團派對]] || 2017年3月16日 || <s>Craft Egg</s><ref>2024年4月1日被母公司CyberAgent吸收合併後解散</ref>→FROMTOKYO || 另有NS移植版於2021年9月16日發售
+|-
+| [[D4DJ|D4DJ Groovy Mix]] || 2020年10月25日 || Donuts || 
+|-
+| [[LoveLive! Superstar!!|ラブライブ！スーパースター!! メモリーコレクト]] || 2025年1月31日 || || 單機買斷制的拼圖遊戲
+|}
+
+===== 已停止營運/非本社營運 =====
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!遊戲!!運營時間!!平台!!合作方!!備註
+|-
+| [[LoveLive! 學園偶像祭]]{{color|red||※}} || 2013年4月15日-2023年3月31日 || rowspan="19" |iOS<br>Android || KLab || 通稱SIF的長青樹，不少LL的中之人都因為此作認識LL<br>因改朝換代而終止
+|-
+| [[動物朋友|動物朋友大觀園]]{{color|red||※}} || 2017年4月24日-2020年9月9日   || uniqueWave || 《[[動物朋友]]》第一季完結後推出的重啓企劃<br>2020年8月25日將遊戲交給開發方uniqueWave運營後退出運營<br>之後2021年6月30日遊戲正式停止營運<br>雖然掃到[[動物朋友2|颱風尾]]，可愛的角色設計與致敬各作的環節獲得好評
+|-
+| Tap Logic～TAP! Luck&Logic～{{color|red||※}} || 2017年8月2日-2020年3月6日 || 2DFantasista || 《Luck & Logic》的手機遊戲延伸企劃<br>跟隨著TCG的脚步，於2020年3月6日停止營運
+|-
+| 名偵探柯南 真實的先導者{{color|red||※}} || 2019年4月10日-2020年10月30日 || Ambition ||
+|-
+| 九州三国志{{color|red||※}} || 2018年11月29日-2019年8月14日 ||  ||
+|-
+| [[LoveLive! 學園偶像祭 ALL STARS]]{{color|red||※}} || 2019年9月26日-2023年6月30日 || KLab || 
+|-
+| [[庫洛魔法使|庫洛魔法使 幸福記憶]]{{color|red||※}} || 2019年10月3日-2020年6月30日 || Monstar Lab ||
+|-
+| 卡片戰鬥先導者 ZERO{{color|red||※}} ||  2019年12月5日-2023年6月30日 || Game Studio || 遊戲背景為初代[[卡片戰鬥先導者]]以及[[卡片戰鬥先導者G]]<br>為減低玩家互相等待的時間，使用了和[[卡片戰鬥先導者(TCG)|實卡]]不一樣的規則
+|-
+| グリザイア クロノスリベリオ{{color|red||※}} || 2020年11月26日-2021年8月31日 || Frontwing Lab || 停止營運後有移植到[[Steam]]版
+|-
+| [[From ARGONAVIS|ARGONAVIS from BanG Dream! AAside]]{{color|red||※}} || 2021年1月14日-2022年1月31日 || DeNA || <s>死於DeNA的迷惑操作(無誤)</s>
+|-
+| [[戰姬絕唱SYMPHOGEAR|戰姬絕唱Symphogear XD UNLIMITED]]{{color|red||※}} || 2017年6月26日-2024年1月31日 || Pokelabo→キングポーン || 已於2024/1/31停止營運
+|-
+| 新日本プロレスSTRONG SPIRITS{{color|red||※}} || 2022年2月28日-2024年3月31日 || Drecom || 已於2024/3/31停止營運
+|-
+| [[LoveLive! 學園偶像祭|LoveLive! 學園偶像祭2 MIRACLE LIVE!]]{{color|red||※}} || 2023年4月15日-2024年3月31日 || {{censored|Gree?}}<ref>相關推測見專條</ref> || 2023年終止《SIF》和《SIFAS》後推出的第四款LL系列手機遊戲<br>國際版只經營四個月<ref>2024年2月1日-2024年5月31日</ref>
+|-
+| [[蠟筆小新|蠟筆小新 呼風喚雨 炎之春日部跑酷]]{{color|red||※}}  || 2014年4月25日-2024年6月30日 || || 
+|-
+| 蠟筆小新 呼風喚雨 炎之春日部跑酷 Z{{color|red||※}}  || 2020年3月26日-2024年6月30日 || ||
+|-
+| Lost Decade{{color|red||※}} || 2021年7月15日-2024年8月5日 || 星輝遊戲 || 2024年6月3日宣布2024年8月5日結束營運
+|-
+| [[少女☆歌劇 Revue Starlight|少女☆歌劇 Revue Starlight -Re LIVE-]]{{color|red||※}} || 2018年10月21、28日<ref>分別爲Android和iOS的開服時間</ref>-2024年9月30日 || Ateam || 同時負責國際版<br>2024年7月31日宣布2024年9月30日結束營運
+|-
+| [[From ARGONAVIS|ARGONAVIS -キミが見たステージへ-]]{{color|red||※}} || 2024年2月7日-2024年11月30日 || Ambition || [[From ARGONAVIS|ARGONAVIS]]手機遊戲第二作，故事接續前作<br>2024年10月7日宣布2024年11月30日結束營運
+|-
+| 新網球王子 RisingBeat{{color|red||※}} || 2017年11月28日-2025年8月31日 || Akatsuki→Ambition→Appirits<ref>2024年4月1日接管後</ref> || 2025年6月30日宣布宣布2025年8月31日結束營運
+|-
+| Assault Lily Last Bullet{{color|red||※}} || 2021年1月20日-2022年6月23日<ref>僅爲武士道營運期間</ref> || iOS<br>Android<br>PC（DMM GAMES、網頁版） || Pokelabo、Shaft || 最初由武士道參與營運，後來於2022年6月23日退出營運<br>之後由Pokelabo和Shaft兩家公司繼續運營至今<ref>[https://assaultlily.jp/news/info/1192/ 新聞公告稿]</ref>
+|}
+
+=== 家機遊戲 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!遊戲!!發售時間!!平台!!合作方!!備註
+|-
+| バンドリ！ ガールズバンドパーティ！ for Nintendo Switch || 2021年9月16日 || Switch || Rocket Studio, Inc || 
+|-
+| 小林さんちのメイドラゴン 炸裂ちょろゴン☆ブレス || 2022年3月24日 || Switch<br>PS4<br>Steam || KAMINARI GAMES Inc. || 
+|-
+| 卡片戰鬥先導者 Dear Days || 2022年11月7日 || Switch<br>Steam || FURYU Corporation<br>LANCARSE Ltd.|| 遊戲以全新故事為主，卡片規則採用[[卡片戰鬥先導者(TCG)#D賽規_(D)|D賽規]]
+|-
+| グリザイア クロノスリベリオ || 2023年4月28日 || Steam || Frontwing || 
+|-
+| リアセカイ || 2023年10月12日 || Switch<br>Steam || HAKAMA Inc. || 
+|-
+| GINKA || 2023年10月26日 || Switch<br>Steam || Frontwing || 
+|-
+| ゴブリンスレイヤー -ANOTHER ADVENTURER- NIGHTMARE FEAST || 2024年2月29日 || Switch<br>Steam || APOLLOSOFT Inc.<br>mebius || 
+|-
+| マクロス -Shooting Insight- || 2024年3月14日 || Switch<br>PS4<br>PS5<br>Steam || KAMINARI GAMES Inc. || 
+|-
+| Gift || 2024年5月9日 || Switch<br>PS5<br>Steam<br>Xbox Series X<nowiki>|</nowiki>S || Toydium<br>Million Edge || 
+|-
+| 無職転生 ～異世界行ったら本気だす～ Quest of Memories || 2024年6月20日 || Switch<br>PS4<br>PS5<br>Steam || LANCARSE Ltd. || 
+|-
+| リルヤとナツカの純白な嘘 || 2024年7月25日 || Steam || Frontwing || 
+|-
+| 少女☆歌劇 レヴュースタァライト 舞台奏像劇 遙かなるエルドラド || 2024年8月8日 || Switch<br>Steam || Frontwing || 
+|-
+| 卡片戰鬥先導者 Dear Days 2 || 2025年1月30日 || Switch<br>Steam || FURYU Corporation<br>LANCARSE Ltd || 遊戲以全新故事為主，卡片規則同樣以採用[[卡片戰鬥先導者(TCG)#D賽規_(D)|D賽規]]，但會追加[[卡片戰鬥先導者Divine_Z|卡片戰鬥先導者DivineZ]]所引入的新規
+|-
+| ダンジョンに出会いを求めるのは間違っているだろうか 水と光のフルランド || 2025年3月13日 || Switch<br>Steam || Racjin Co., Ltd. || 
+|-
+| PROGRESS ORDERS || 2025年4月10日 || Switch<br>Steam || HAKAMA Inc. || 
+|-
+| [[LoveLive! 虹咲學園學園偶像同好會]] 心動閃耀的未來藍圖 || 2025年4月24日 || Switch<br>Steam || HUNEX || 
+|-
+| 花束を君に贈ろう-Kinsenka- || 2025年5月29日 || Steam || Frontwing || 
+|-
+| 夏目友人帳 ～葉月の記～ || 2025年6月5日 || Switch<br>Steam || Toydium || 
+|-
+| VIRTUAL GIRL @ WORLD'S END || 2025年6月12日 || Switch<br>Steam || HEADLOCK INC. || 
+|-
+| HUNTER×HUNTER NEN×IMPACT || 2025年7月17日 || Switch<br>PS5<br>Steam || [[Arc System Works]]<br>8ing || 格鬥遊戲
+|-
+| ROAD59 -新時代任侠特区- 摩天楼モノクロ抗争 || 2025年9月25日預定 || Switch<br>Steam || Rocket Studio, Inc || 
+|-
+| 魔法使いの嫁 盛夏の幻と夢見る旅路（まほなつ） || 2025年10月2日預定 || Switch<br>PS5<br>Steam || mebius || 
+|-
+| D.C. Re:tune ～ダ・カーポ～ リチューン || 2025年10月30日預定 || Switch<br>Steam || CIRCUS || D.C.初代重製版
+|-
+| Lilac -side Wizard-<br>Lilac -side Witch- || 2025年預定 || Steam ||  || 同名舞台劇改編
+|-
+| DUSK INDEX GION || 202X年預定 ||  || Cherrymochi<br>mebius || 
+|}
+
+=== 動畫 ===
+{| class="wikitable" style="font-size:small; margin:0px auto;"
+!動畫!!播放日期!!製作公司!!類型!!集數!!備註
+|-
+| 熱風海陸ブシロード || 2013年12月31日 || Kinema Citrus || 特別篇 || 1 || 原為Broccoli旗下的跨媒體計劃，早在2003年就准備推出，但因一大串衰事未開始就[[腰斬|被迫中止]]<br>企劃主導者木谷高明為了讓計劃繼續而離開了Broccoli並自組公司「武士道」重啟計劃
+|-
+| Weiß Survive || 2009年6月5日  || rowspan="2" | スタジオ雲雀 || rowspan="11" | TV動畫 || 16 || 改編自Weiß Schwarz的動畫作品
+|-
+| Weiß SurviveR || 2009年12月4日 || 12 ||
+|-
+| [[卡片戰鬥先導者 (無印)|卡片戰鬥先導者]] || 2011年1月8日 || TMS Entertainment || 196 || 改編自同名TCG的動畫系列，第一部共有四個篇章<br>製作公司除TMS Entertainment以外亦有Studio Saki Makura參與聯合製作（第34－65話）
+|-
+| [[卡片戰鬥先導者G]] || 2014年10月26日 || TMS Entertainment<br>OLM TEAM KOITABASHI<br>Bridge || 174 || 系列采用全新主角的第二作，共有五個篇章<br>製作公司采用分篇製作的模式，TMS Entertainment僅負責G1－G3，OLM TEAM KOITABASHI則負責G4－G5<br>其中聯合負責G5的Bridge更是在多年後製作《[[遊☆戯☆王 SEVENS]]》和《[[遊☆戯☆王 GORUSH!!]]》
+|-
+| [[卡片戰鬥先導者 (2018版)]] || 2018年5月5日 || rowspan="3" | OLM Team Go|| 66 || 系列重啓之作，為與與舊版作區分通稱為2018版或V篇<br>製作公司徹底更換為OLM，製作班底也有大幅變化
+|-
+| [[卡片戰鬥先導者 新右衛門編]] || 2019年8月24日 || 31 || 系列作的前傳，改以新田新右衛門為主角，講述他成為店長之前的故事
+|-
+| [[卡片戰鬥先導者 Extra Story -IF-]] || 2020年5月30日 || 25 || 系列作的外傳，改以先導惠美為主角，'''定位為[[魔法少女]]動畫(無誤)'''
+|-
+| [[百慕達三角～多彩田園曲～]] ||  	2019年1月12日 || Seven Arcs Pictures || 13 || [[卡片戰鬥先導者]]衍生作，講述五名人魚少女相遇的故事
+|-
+| [[卡片戰鬥先導者overDress]] || 2021年4月3日 || rowspan="3" | Kinema Citrus<br>Gift Animation<br>STUDIOJEMI || 25 || 製作公司再次替換，播放模式也更改成一季13話的分割放送
+|-
+| 卡片戰鬥先導者will+Dress || 2022年7月5日 || 38 || 上者的續篇，實質上算是同一部作品
+|-
+| [[卡片戰鬥先導者Divine Z]] || 2024年1月13日 || 39（未完結） || 上者的續篇(ry
+|-
+| 劇場版 卡片戰鬥先導者 霓虹救世主 || rowspan="2" | 2014年9月13日 || LIDENFILMS || rowspan="2" | 電影 ||   || rowspan="2" | 同步上映的電影，上者為動畫劇場版，下者為真人電影版 
+|-
+| 劇場版 卡片戰鬥先導者 三種遊戲 || OLM || 
+|-
+| 未來卡搭檔對戰 || 2014年1月4日|| rowspan="5" | OLM、XEBEC  || rowspan="8" |  TV動畫 || 64 || 改編自同名TCG的動畫系列，動畫制作由<s>武士道御用子供番製作公司</s>OLM全程負責
+|-
+| 未來卡搭檔對戰100 || 2015年4月11日 || 50 || 
+|-
+| 未來卡搭檔對戰DDD || 2016年4月2日 || 51 ||
+|-
+| 未來卡搭檔對戰X || 2017年4月1日<br>2018年4月7日 || 64+8 || 《未來卡搭檔對戰X 全明星之戰》為第4.5期
+|-
+| 未來卡神搭檔對戰 || 2018年6月2日 || 47 || 《未來卡搭檔對戰》系列最後一部動畫作品，之後移至漫畫繼續
+|-
+| Luck & Logic || 2016年1月9日|| rowspan="2" |動畫工房 || 12 || 改編自同名TCG的動畫系列，動畫製作由<s>百合萌番專業戶</s>動畫工房擔任<br>
+|-
+| Hina Logic~from Luck & Logic~ || 2017年6月24日 || 12 || 前作的續篇，但劇情風格日常化，更加圍繞在女性角色的百合日常上<br><s>結果比起卡牌本身更多的評價關注度都是在女性角色互動那邊</s>
+|-
+| ReBIRTH for you || 2020年1月5日 || LIDENFILMS大阪工作室 || 51 || 改編自同名TCG的動畫<br>{{censored|播放期間由於恰好發生「[[偶像大師_閃耀色彩#三峰結華|9800円4凸女事件]]」，主要角色猫ヶ洞青的聲優在第50話時替換成各務華梨，也成為日後配音D4DJ的根源}}
+|-
+| [[偵探歌劇 少女福爾摩斯]] || 2010年10月7日 || rowspan="7" | J.C.STAFF  || rowspan="4" | TV動畫 || 12+1 ||  
+|-
+| 偵探歌劇 少女福爾摩斯 ~第二幕~ || 2012年1月5日 || 12 || 製作公司除J.C.STAFF外還有ARTLAND聯合製作
+|-
+| 二人是少女福爾摩斯 || 2013年7月13日 || 12  || rowspan="2"  |製作公司除J.C.STAFF外更改為Nomad聯合製作<br>另外音樂製作也首次交由武士道自家的Bushiroad Music負責
+|-
+| 偵探歌劇 少女福爾摩斯 TD || 2015年1月3日 || 12
+|-
+| 偵探歌劇 少女福爾摩斯～逆襲的少女福爾摩斯～ || 2016年2月27日 || 電影 || || 
+|-
+| 偵探歌劇 少女福爾摩斯 愉快的珍珠之夜♪ ～肯與珍妮特的禮物～ || 2016年12月31日 || rowspan="2" | 特別篇 ||  1 || 
+|-
+| 偵探歌劇 少女福爾摩斯 心靈的問候 || 2018年12月31日 || 1 || 《偵探歌劇 少女福爾摩斯》系列動畫最後一部作品
+|-
+| [[BanG Dream!]] || 2017年1月21日 || ISSEN、XEBEC || rowspan="5" | TV動畫 || 13+1 || 以Poppin' Party為主角的三部曲<br><s>黑歷史，名物：第3話的小星星</s>
+|-
+| BanG Dream! 2nd Season || 2019年1月3日 || rowspan="11" | 三次元 || 13 || 本作起系列製作公司改為三次元，動畫制作變為3渲2製作
+|-
+| BanG Dream! 3rd Season || 2020年1月5日 || 13 ||  
+|-
+| [[BanG Dream!It's MyGO!!!!!|BanG Dream! It's MyGO!!!!!]] || 2023年6月29日 || 13 || <big>'''[[成句/為什麼要演奏春日影|なんで春日影やったの！？]]'''</big><br>系列最<s>扭曲</s>壓抑的一作，以沉重<s>[[GL|百合]]</s>的劇作風格獲得大量好評以及出圈的話題度
+|-
+| [[BanG Dream!Ave Mujica]] || 2025年1月2日 || 13 || 上者的續篇<br>憑著前作的人氣取得大量討論度，但最終品質並不儘如人意（詳見條目介紹）<br>已確認製作續篇
+|-
+| BanG Dream! 少女樂團派對！<br>5th Anniversary Animation -CiRCLE THANKS PARTY!- || 2022年3月10日 || rowspan="2" |特別篇 || 2 || 手遊五周年的紀念動畫
+|-
+| BanG Dream! Morfonication || 2022年7月28日 || 2 || 以樂團Morfonica為主角的特別篇動畫
+|-
+| BanG Dream! FILM LIVE || 2019年9月13日|| rowspan="5" |電影 ||  || 系列第一部劇場版，沒有劇情而是純粹的聯合演唱會
+|-
+| 劇場版 BanG Dream! Episode of Roselia I: 約定 || 2021年4月23日 || || rowspan="2" | 以樂團Roselia為主角的前傳動畫，分上下兩篇
+|-
+| 劇場版 BanG Dream! Episode of Roselia II: Song I am. || 2021年6月25日 || 
+|-
+| BanG Dream! FILM LIVE 2nd Stage || 2021年8月20日 ||  || 延續FILM LIVE，加入RAISE A SUILEN和Morfonica的聯合演唱會
+|-
+| 劇場版 BanG Dream! Poppin'Dream!|| 2022年1月1日 ||  || 延續正傳TV動畫第三季武道館LIVE後，Poppin'Party向新的舞台邁進的故事
+|-
+| BanG Dream! 少女樂團派對！☆PICO || 2018年7月5日 ||rowspan="2" | DMM.Futureworks<br>W-Toon Studio<br>三次元 || rowspan="3" | 短篇動畫 || 26 || <s>官方有病的</s>泡麵日常番，講述各個樂團的互動故事<br>由於是泡麵番，除三次元外還有DMM.Futureworks參與製作
+|-
+| BanG Dream! 少女樂團派對！☆PICO～大份～ || 2020年5月7日 || 26 || 在前作基礎上加入Mofonica和RAISE A SUILEN
+|-
+| BanG Dream! 少女樂團派對！☆PICO Fever! || 2021年10月7日 || SCOOTER FILMS || 26 || 
+|-
+| [[少女☆歌劇 Revue Starlight]] ||  2018年7月12日 || rowspan="2" | KINEMA CITRUS || TV動畫 || 12 || '''あたし、再生產'''<br>因為動畫電波的劇情深度以及高精度作畫演出獲得好評<br>之後剪輯成{{censored|以大場奈奈視角回顧的}}[[總集篇]]劇場版《ロンド・ロンド・ロンド》
+|-
+| 劇場版 少女☆歌劇 Revue Starlight || 2021年6月4日 || 電影 ||  || 上者的完全新作劇場版動畫，有著遠超TV版的神作畫<s>以及更加電波的劇情</s>而同樣獲得高評價
+|-
+| [[D4DJ#動畫作品|D4DJ First Mix]] || 2020年10月30日 || rowspan="3" | 三次元 || rowspan="2" |TV動畫 || 13 || 製作陣容基本延續《BanG Dream! 》系列
+|-
+| D4DJ All Mix || 2023年1月13日 || 12 || 續篇，在前者的基礎上6團全數登場
+|-
+| D4DJ Double Mix || 2022年8月19日 || 特別篇 || 1 || 以燐舞曲和Merm4id為主角的特別篇動畫
+|-
+| D4DJ Petit Mix♪ || 2021年2月5日 || DMM.Futureworks<br>W-Toon Studio || 短篇動畫 || 26 || 與《BanG Dream! 》系列不同，短片動畫並非TV陣容的三次元製作，僅有DMM.Futureworks參與製作與BanG Dream!一致
+|-
+| Assault Lily BOUQUET || 2020年10月1日 || SHAFT || rowspan="2" |TV動畫 || 12 || 武士道在營運期間推出、為手遊造勢的宣傳動畫，OP歌曲方面採用《BanG Dream!》系列的樂團RAISE A SUILEN<br>以謎一般的劇情走向獲得相當微妙的評價，結局篇的劇情則與手遊劇情接軌
+|-
+| D_CIDE TRAUMEREI THE ANIMATION || 2021年7月10日 || 三次元 || 13 || 武士道在營運期間推出，與同名手遊同期推出的動畫
+|}
+
+== 評價和軼聞 ==
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references />
+
+[[分類:遊戲公司]]
+[[分類:武士道|*]]
