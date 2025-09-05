@@ -4017,6 +4017,17 @@
 | シャカＰ(LASENGLE)
 | [[水橋香織]]
 | 田中天
+|-
+! 452
+| [[Noah (Fate)|諾亞/尼莫]]
+| Rider<br />{{color|gold||'''Grand Rider'''}}
+| 星
+| Fate/Grand Order Arcade
+| およ
+| [[花守由美里]]
+| 奈須きのこ
+| 諾亞方舟的建造者，以色列人的祖先閃的父親。
+|-
 |}
 
 === 實裝靈衣 ===
@@ -5094,12 +5105,6 @@
 | ギンカ
 | [[關智一]]
 | 巴比倫國王，以建造空中花園和摧毀所羅門神殿等事蹟廣為人知。<br>{{censored|附身在吉爾迦美什的複製屍體身上登場，作為Caster版吉爾迦美什的靈衣於街機板實裝。}}<br>{{censored|<s>古代中東的王者恥度都這麼大的嗎</s>}}
-|-
-! [[Noah (Fate)|諾亞]]
-| {{color|gold||'''Grand Rider'''}}
-| およ
-| 
-| 在聖經中收到神諭而建造了方舟。
 |-
 ! [[Sodom's Beast/Draco (Fate)|Beast Ⅵ/S]]
 | {{color|red||'''Beast Ⅵ'''}}
