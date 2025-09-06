@@ -10,7 +10,7 @@
 == 解說 == 
 * 一款由52個動作遊戲組合而成的電玩遊戲。
 ** 乍聽是個好東西，不過這52個遊戲實際上因有大量極為離譜的Bug而根本無法正常運作，而剩下的全部都是[[クソゲー|爛得令人吐血的遊戲]]。
-* 開發部門為Active Enterprises （NES，就是俗稱紅白機的FC）和FarSight Studios（Genesis，就是SEGA出的MD）{{censored|<s>總策劃者很有可能是孔明</s>}}
+* 開發部門為Active Enterprises （NES，就是俗稱紅白機的FC）和FarSight Studios（Genesis，就是SEGA出的MD）{{censored|<s>總策劃者很有可能是孔明</s>}}，而遊戲背後的開發秘辛更是令人哭笑不得：
 ** 主要靈感其實是來自Active Enterprises的老闆Vince Perri有一天看到他兒子用NES玩'''台灣製的盜版40合一遊戲卡匣'''，而決定開發一款52合一的遊戲
 ** 然而Perri對於請來的四人團隊沒有排定任何計畫，甚至僅讓他們在鹽湖城的[[任天堂]]分部參與為期'''一周'''的見習作為訓練，以至連debug的時間也沒排出。
 ** 倉促趕工的結果自然是後無來者的大失敗，公司也從此全無音訊，甚至也讓SNES版本以及其他合輯遊戲的開發計畫隨之腰斬；至於Perri直至2012年辭世前都避開和遊戲相關的訪問。
@@ -712,14 +712,6 @@ Aries是戰神，不過因為只是純粹好戰，被其他的神明瞧不起
 * [http://www.atarihq.com/tsr/odd/scans/action52.lst 可怕的Action52故事說明(英文)]
 * [http://www.gametrailers.com/video/angry-video-screwattack/65116 AVGN對此Game的評論]
 * [https://www.arcadeattack.co.uk/mario-gonzalez/ 與製作者之一的訪談]
-
-== 下載 == 
-
-* [http://cid-2dcf3bb20239d365.office.live.com/self.aspx/.Public/A52.rar 按此下載這{{color||blue|他媽的爛}}}遊戲]
-** 解壓後開啟Nestopia ,檔案-->開啟-->Action 52 (E).nes
-
-* [http://cid-2dcf3bb20239d365.office.live.com/self.aspx/.Public/A52MD.rar 按此下載這{{color||blue|他媽的爛}}}遊戲(MD版)]
-** 解壓後開啟Gens ,File-->Open ROM-->Action 52 (Unl) [!].bin
 
 == 重製 == 
 * 由Arthur Lee所領軍、多位設計師個別去開發的TIGSource非官方性質團隊合作計畫，將五十二款{{censored|他媽的爛}}遊戲重製

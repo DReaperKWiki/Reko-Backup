@@ -312,6 +312,7 @@
 <br>
 
 * 近導遊悠（近導ユウユ）【CV：[[蒼井翔太]]】
+** 使用卡組為「龍族帝國」，主軸仍為<s>主打超量召喚的</s>【涅槃】，前作主角<s>兼真正女主角</s>
 ** 黑視隊第四代隊長，現時在法國修讀服裝設計
 ** 第四季回到日本觀看賽事
 <br>
@@ -322,7 +323,7 @@
 <br>
 
 * 桃山團治（桃山ダンジ）【CV：[[小野友樹]]】
-** 黑視隊第二代隊長，於《DELUXE》篇登場，現時和廻間充一起在美國旅行
+** 黑視隊第二代隊長，於《DELUXE》篇登場，為廻間充在一起的同伴
 ** {{censored|禦藥袋家的長子，也是禦藥袋美玲的親哥哥，因為[[卡片戰鬥先導者overDress#The_DAYBREAK隊_/_Team_The_DAYBREAK|某些事]]而改名}}
 ** {{censored|由於廻間充沒有醒來而移到美國繼續治療，他為了照顧廻間充而一同前往}}
 ** {{censored|廻間充醒來後一起同行是為了避免廻間充做傻事}}
@@ -422,7 +423,7 @@
 
 * [[二葉筑紫]]【CV：-】
 ** <s>「Morfonica」成員之一，鼓手，月之森學園二年級生</s>
-**  於《DELUXE決賽篇》第2話以路人角色客串登場
+**  於《DELUXE決賽篇》第2、9話以路人角色客串登場
 <br>
 
 * [[桐谷透子]]【CV：-】
@@ -439,13 +440,135 @@
 * [[倉田真白]]【CV：-】
 ** <s>「Morfonica」主唱，月之森學園二年級生</s>
 ** <s>前作女主(笑)小惠副號</s>
-**  於《DELUXE決賽篇》第5話以路人角色客串登場
+**  於《DELUXE決賽篇》第5、9話以路人角色客串登場
 <br>
 
 * 米歇爾【CV：-】
 ** <s>「Hello,Happy World!」的DJ兼吉祥物</s>
 ** 於《DELUXE決賽篇》第6話ED中以路人角色客串登場
 ** 同場還出現兩位和[[卡片戰鬥先導者_(無印)|前]][[卡片戰鬥先導者G|作]]主角髮型相同的小孩
+
+== 主題曲 ==
+
+=== OP === 
+* 第一季OP「{{youtube|VgK05Au7jUo|切札}}」
+** 作詞：廉
+** 作曲：廉
+** 編曲：朝比奈健人
+** 主唱：V.W.P
+
+
+* 第二季OP「{{youtube|DdIMdSXGVIs|宿命}}」
+** 作詞：koshi
+** 作曲：Tom-H@ck
+** 編曲：RINZO
+** 主唱：草莓王子
+
+
+* 第三季OP「{{youtube|02wlgat4Jv8|Meramera}}」
+** 作詞：hunch
+** 作曲：hunch・ROVER(ROYALcomfort,Distorted Wave)
+** 編曲：ROVER(ROYALcomfort,Distorted Wave)
+** 主唱：Kis-My-Ft2
+
+
+* 第四季OP「{{youtube|os_dduLV6Ao|Feathered Dreams}}」
+** 作詞：織田あすか(Elements Garden)
+** 作曲：藤田淳平(Elements Garden)
+** 編曲：藤田淳平(Elements Garden)
+** 主唱：Mofornica
+
+
+=== ED === 
+
+* 第一季ED「{{youtube|iLyXZZCSUWc|両翼のBrilliance}}」
+** 作詞：織田あすか(Elements Garden)
+** 作曲：菊田大介(Elements Garden)
+** 編曲：菊田大介(Elements Garden)
+** 主唱：Mofornica
+
+
+* 第二季ED「{{youtube|1c2uSrAGF9Q|端程山}}」
+** 作詞：藤原優樹(SUPA LOVE)
+** 作曲：トミタカズキ(SUPA LOVE)
+** 編曲：トミタカズキ(SUPA LOVE)
+** 主唱：MyGO!!!!!
+
+
+* 第三季ED「{{youtube|Vmcwvy8AFcI|天色}}」
+** 作詞：mido (THE BINARY)
+** 作曲：青木陽菜
+** 編曲：YOUSAY
+** 主唱：青木陽菜
+
+
+* 第四季ED1「{{youtube|xj6tnuuMz-E|Drive Your Heart}}」(第2集)
+** 作詞：中村航
+** 作曲：藤永龍太郎(Elements Garden)
+** 編曲：藤永龍太郎(Elements Garden)
+** 主唱：Poppin'Party
+** 主題為流星，同時也作為八雲支線的總結
+
+
+* 第四季ED2「{{youtube|eX3vA-AjCgQ|紫炎}}」(第3集)
+** 作詞：織田あすか(Elements Garden)
+** 作曲：藤田淳平(Elements Garden)
+** 編曲：藤田淳平(Elements Garden)
+** 主唱：Roselia
+** 主題為火焰，同時也作為美玲支線的總結
+
+
+* 第四季ED3「{{youtube|RwS6Q2hnIA4|残痕字}}」(第4集)
+** 作詞：藤原優樹 (SUPA LOVE)
+** 作曲：長谷川大介 (SUPA LOVE)
+** 編曲：長谷川大介 (SUPA LOVE)
+** 主唱：MyGO!!!!!
+** 主題為悲痛的過去，同時也作為須王和埃璃卡支線的總結
+
+
+* 第四季ED4「{{youtube|1QCacwd8HQE|Color of Us}}」(第5集)
+** 作詞：織田あすか(Elements Garden)
+** 作曲：近藤世真(Elements Garden)
+** 編曲：近藤世真(Elements Garden)
+** 主唱：Morfonica
+** 主題為同伴，同時也作為小惠支線的總結
+*** <s>第5集全都是進藤天音的回合(無誤)</s>
+*** <s>OP是Morfonica，ED也是Morfonica，主角是CV進藤天音的小惠，路人也是CV進藤天音的倉田真白</s>
+
+
+* 第四季ED5「{{youtube|qYtFE_XRFXA|スタ〜リング ☆じぶん☆}}」(第6集)
+** 作詞：織田あすか(Elements Garden)
+** 作曲：藤間仁(Elements Garden)
+** 編曲：藤間仁(Elements Garden)
+** 主唱：ハロー、ハッピーワールド！
+** ED描寫日常小故事，而且充滿「Hello, Happy World!」的風格
+*** 整個ED劇本都是經典的「Hello, Happy World!」劇情的套路
+*** ED本身也是充滿彩蛋，除了奇怪玩偶和有奇怪髮型的路人外，ED尾段的章魚燒疑似是致敬Buddyfight
+
+
+* 第四季ED6「{{youtube|VADmXjRvxfo|スキ×すき×カラフリィ}}」(第7集)
+** 作詞：織田あすか(Elements Garden)
+** 作曲：岩橋星実(Elements Garden)
+** 編曲：岩橋星実(Elements Garden)
+** 主唱：Pastel＊Palettes
+** ED描寫小麗和水琴兩人和自己的先導者一同玩耍的畫面
+
+
+* 第四季ED7「{{youtube|MRnhtyIdOvY|真夜中遊園地}}」(第8集)
+** 作詞：烏屋茶房
+** 作曲：哥丸雄貴
+** 編曲：哥丸雄貴・堀江晶太
+** 主唱：夢限大みゅーたいぷ
+** ED總結流華和冬毬兩人共同創立黑視隊的支線故事
+
+
+* 第四季ED8「{{youtube|PV1PAuxCxdo|’FIGHT' ADDICT}}」(第9集)
+** 作詞：織田あすか(Elements Garden)
+** 作曲：上松範康(Elements Garden)
+** 編曲：菊田大介(Elements Garden)
+** 主唱：RAISE A SUILEN
+** ED描寫遊悠在法國的日常生活，以及他差一點就錯過回到日本航班的經過
+** <s>比OP更像OP的ED</s>
 
 == TCG相關 ==
 
