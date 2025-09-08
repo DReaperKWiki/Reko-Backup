@@ -763,7 +763,7 @@ ARGONAVIS from BanG Dream!如果成功沒退出BanG Dream!的世界線，女團�
 * 其餘請見角色條目
 
 === [https://bang-dream.com/yumemita 夢限大みゅーたいぷ] ===
-<s>“バンドリ！“だけど演奏できなくて大丈夫！</s><br>
+<s>“バンドリ！“だけど演奏できなくて大丈夫！</s><ref>[https://bang-dream.com/v_audition 2022年7月公開徵選的標語]</ref><br>
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold;  font-size:24px; ">
 
 {{Gradient Text|#FF7788|#2288DD|{{ruby|夢|バーチャル}}と{{ruby|現実|リアル}}を飛び越える{{ruby|運命共同体|バンド}}}}
@@ -785,7 +785,7 @@ ARGONAVIS from BanG Dream!如果成功沒退出BanG Dream!的世界線，女團�
 * 成員<s>理所當然</s>都是BanG Dream系列的鐵粉不説，時常會發表對新作動畫的觀後感
 
 * 由於未實裝也沒有動畫等原因曝光度不高，仍在十周年賀圖與九團主唱同框；回流主世界觀的可能性不低
-** 直到2025年才宣佈會有本家為主角的動畫，預定2026年播出
+** 直到2025年9月才宣佈會有本家為主角的動畫，預定2026年播出
 
 * 姓氏取自東京都文京區的地名
 

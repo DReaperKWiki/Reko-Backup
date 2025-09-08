@@ -1,0 +1,149 @@
+{{h0|Grand Class（冠位/グランドクラス）}}
+{{synchro|New Komica wiki (仮)|2023年08月20日 11:49}}
+
+{|class="wikitable" style="margin:auto;"
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|特殊額外職階：[[Extra Class (Fate)|Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner]]
+|}
+
+== 簡介 ==
+* 冠位Servant是守護人理，位列其職階頂點的七騎。各職階只有一名，其實力是一般Servant無法比擬的存在。由抑制力提拔，作為對抗包括人類惡在內對地球或人類造成巨大危害的保險裝置。
+** 無論是能力還是傳說都需要是有著高水準，立於職介頂點之人。候補從者不只是一個而是複數的，是根據對應時代所要處理的「超克對象」而最終決定當時的人選。
+** 要注意的是能成為冠位的Servant只有一位，但具有擔任冠位Servant資格的候補卻不只一名。一旦該冠位職階出現空缺，另一名冠位Servant候補可以遞補為正式的冠位Servant。
+*** 其中一個例外的就是Assassin的冠位，因為該職階的冠位已指定只有「山中老人」可以擔任，因此自「山中老人」歸還冠位後，Grand Assassin一職一直處於懸空狀態。
+*** 而另一例外是Foreigner的冠位，該職階的冠位已指定只有ORT可以擔任。
+** 神靈無法成為冠位從者<ref>出自法米通FGO八週年訪談</ref>，特斯卡特利波卡會是例外的原因是他的身體是自製的凡人肉身。
+* 冠位Servant作為「拯救人類全體」的存在，如果因為個人判斷擅自出手，必須「歸還冠位」。
+** 目前唯一例外的是以Grand Foreigner職階降臨的ORT Xibalba。因為牠是身為同時對地球和人理造成危害的Ultimate ONE--[[ORT]]以自己作為媒介召喚的冠位從者。<s>冠位外要應對的威脅就是[[Kukulcan (Fate)|牠自己]]。</s>
+* <s>目前出場的冠位Servant全部都不務正業</s>
+** <s>冠位殺不暗殺敵人、冠位術用物理攻擊、冠位弓用拳頭多過用弓、冠位劍用魔術多過用劍、冠位騎很少搞騎乘、冠位狂很愛談生意、冠位槍甚至沒有槍。</s>
+* 地球的冠位Servant只包含七職，不存在額外職。<s>雖然遊戲機制肯定會讓額外職擔任</s>
+* {{censored|2-7時異星神曾做過把冠位從者全數消滅的夢}}
+
+* 作為迎接第2部終章的一環，遊戲公布實裝能讓玩家指定從者成為冠位從者的「グランドグラフシステム」，並在5月開始按序每月開放一個職階的冠位戴冠戰。
+** 需要注意的是'''冠位戴冠戰中的冠位英靈與設定上的冠位不同，只代表應當超越的強敵'''。
+* 在2025年5月21日開放Grand Saber的冠位戴冠戰。
+* 在2025年6月20日開放Grand Berserker的冠位戴冠戰。
+* 在2025年7月16日開放Grand Lancer的冠位戴冠戰。
+* 在2025年8月6日開放EX職階的冠位戴冠戰。
+** 由於EX職階被分為兩部分，因此EX職階的戴冠戰也會有兩次開放不需入場劵的時段，EX職階從者PU池也會開放兩次且引繼抽蛋次數。
+** EX職階的冠位戴冠戰比較特殊，會將EX職階分為兩組，玩家可以在對應的組合中各自選擇一名從者成為冠位；也能在同一分區中選擇兩名從者成為冠位，但會無法挑戰另一分區的冠位戴冠戰。
+** {{censored|Beast職階本身不對應冠位化，但如果玩家成功完成四個大總統特異點的話可以解放指定獸職為冠位。}}
+*** {{censored|另外和其他職階不同，如果給Beast戴冠的話職階會變化為Unbeast}}
+
+== 列表 ==
+{|class="wikitable" style="margin:auto;"
+!職階
+!要求
+!名稱
+!備考
+|-
+|Grand Saber
+|不明
+|[[Artoria Caster (Fate)|阿爾托利亞·阿瓦隆]]
+|《Fae Round Table Domain Avalon le Fae Synopsys》中提及，於2-7某節中代理劍職的Grand Class。<s>但目前出的兩個版本都不是劍職</s>
+|-
+|Grand Archer
+|不明
+|[[Orion (Fate)|超人俄里翁]]
+|在異聞帶《神代巨神海洋 亞特蘭提斯》中，以歸還冠位與靈核粉碎為代價，以第三寶具「其為，貫穿女神的獵人」擊落異聞帶的阿耳忒彌斯。
+|-
+|Grand Lancer
+|<s>成為黄金聖鬥士</s>
+|[[Romulus (Fate)|羅慕路斯＝奎里努斯]]
+|劇情上並未返還冠位，設定上為了回應迦勒底的召喚式召喚而返還了冠位，但依然是破格存在。
+|-
+| rowspan="3" |Grand Rider
+|不明
+|[[Noah (Fate)|諾亞]]
+|
+|-
+|<s>取得平成所有假面騎士的力量</s>
+|<s>假面騎士Grand ZI-O</s>
+|<s>先不說形態名的巧合，連遊戲的名字都叫F/ZI-O，還敢講ZI-O不是Grand Rider?</s>
+|-
+|<s>遊戲系統</s>
+|[[太公望 (Fate)|太公望]]
+|<s>一直</s>自稱若以Caster召喚會是冠位，於2-7某節中代理冠位Rider。
+|-
+| rowspan="2" |Grand Caster
+| rowspan="2" |千里眼EX
+|[[Solomon (Fate)|所羅門王]]
+|在特異點《冠位時間神殿 所羅門》中，以放棄自己的一切為代價，以第一寶具「訣別之時已至，以此捨棄世界」重創並破解身為[[Goetia (Fate)|Beast I]]的蓋提亞的不死之身後永遠消失。
+|-
+|[[Merlin (Fate)|梅林]]
+|僅有資格，在故事中不是Grand 靈基。在FGOM7中的職階變成了Grand Caster，可能取代所羅門成為了新Grand Caster
+|-
+|Grand Assassin
+|「山中老人」
+|[[山中老人 (Fate)|「山中老人」]]
+|在特異點《絕對魔獸戰線 巴比倫尼亞》中，以歸還冠位為代價，斬斷身為Beast II的迪亞馬特左邊的角與翅膀，並強行把「死亡概念」賦予不死的對方。
+|-
+|Grand Berserker
+|
+|[[Tezcatlipoca (Fate)|特斯卡特利波卡]]
+|於山中老人返還冠位後替補他成為冠位Assassin。<br>本來神靈是絕不會成為冠位從者的，特斯卡特利波卡是因為現在憑依在人類肉體身上而滿足條件。
+|-
+|<s>Grand Foreigner</s>
+| <s>ORT</s>
+|[[ORT|ORT Xibalba]]
+| 在異聞帶《[[黄金樹海紀行 四巡環‧米克特蘭冥界]]》中，[[ORT]]在瀕死前將捕食過的從者們的靈基擬態化，在異聞帶內偽造人類史與境界紀錄帶，將自己登記為英靈，並召喚出'''冠位'''Foreigner的自己。最後被自己的[[Kukulcan (Fate)|核心]]消滅。<br>必須注意的是，Grand Foreigner並不屬於正規冠位Servant。
+|}
+
+=== 冠位戴冠戰負責試練從者 ===
+{|class="wikitable" style="margin:auto;"
+!職階
+!名稱
+!寶具
+!備考
+|-
+|Grand Saber
+|[[宮本武蔵 (Fate)|空位．宮本武藏]]
+|不動俱利伽羅・伊舍那法天象
+|勝利時隊伍有美少年從者（例：瑟坦特）的話會觸發小彩蛋
+|-
+|Grand Archer
+|
+|
+|
+|-
+|Grand Lancer
+|[[Indra (Fate)|因陀羅．Maghavan]]
+|神之雷
+|在活動《因陀羅的大試練》結尾中公開。</br>寶具與普通版本完全相同
+|-
+| Grand Rider
+|[[Noah (Fate)|諾亞]]
+|
+|第一位負責「冠位戴冠戰」的正式冠位從者。
+|-
+| Grand Caster
+| 
+|
+|
+|-
+|Grand Assassin
+|
+|
+|
+|-
+|Grand Berserker
+|[[Hēraklēs (Fate)|赫拉克勒斯．靈液]]
+|射殺百神
+|會先後更換裝備雙手大劍「馬米亞多瓦斯」、斧頭以及弓箭「真．射殺百頭」。<br>狂化等級由B變更為EX。
+|-
+|Grand Extra
+|[[奧爾嘉瑪麗‧亞寧姆史菲亞|U-星體．奧爾嘉瑪麗]]
+|既已過去的人理之終
+|EX1及EX2各自會出現兩種遺分體供挑戰(掉落物各自共通)，除了各遺分體固有的被動外還備有將職階相性變成等倍的技能。
+|}
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references />
+[[category:TYPE-MOON]]
+[[category: Fate系列]]
+[[category: Grand Class (Fate)]]

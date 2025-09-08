@@ -427,7 +427,7 @@
 ==== 美甘寧瑠(美甘ネル) ====
 * CV：[[小清水亞美]]（日）/二嬌（中）/김보민（韓）
 * '''班級：'''3年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（兔女郎）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）、{{color|1=#6633CC|3=彈力裝甲}}(制服)；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、坦克（兔女郎）
-* 領隊，代號00(Double O)，外號「[[Artoria Pendragon (Fate)#寶具|誓約勝利的象徵]]」。通稱尼祿。
+* 領隊，代號[[機動戰士鋼彈00|00(Double O)]]，外號「[[Artoria Pendragon (Fate)#寶具|誓約勝利的象徵]]」。通稱尼祿。
 * 千年最強戰力，擁有能跟弦生打成平手的強大實力，在狹窄空間近身作戰幾乎無人能敵，Vol.2-2裡有不少個人秀場。
 ** Vol.2-1並沒有出手攔截遊戲開發部，事後閱讀報告時對愛麗絲產生了興趣，親自出手試探她的實力。
 *** 以近身作戰的方式完全壓制愛麗絲，逼使其使用近乎同歸於盡的近距離炮擊才把她給擊退。那一戰中散發出的殺氣事後給愛麗絲留下了PTSD，看到女僕裝會害怕。
@@ -495,7 +495,7 @@
 ==== 角楯花凜（角楯カリン） ====
 * CV：[[沼倉愛美]]（日）/喵醬（中）/박하진（韓）
 * '''班級：'''2年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（兔女郎）、{{color|1=#ED2C3D|3=爆炸}}（制服）；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>(原版、制服)、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（兔女郎）；'''職業：'''打手
-* 代號02(Zero Two)。在C&C成員中相對接近常識人的存在，擔任寧瑠和朱音的暴走抑制器，然而她鬧起來也不比另外兩人好到哪裡去...
+* 代號02([[飛電或人#假面騎士Zero-Two（仮面ライダーゼロツー）|Zero Two]])。在C&C成員中相對接近常識人的存在，擔任寧瑠和朱音的暴走抑制器，然而她鬧起來也不比另外兩人好到哪裡去...
 * 擅長遠距離火力壓制，在Vol.2就以長距離射擊把桃井和綠給壓制的不敢前進。
 ** 遭到詠葉和響的聯合反制，雖然藉著將詠葉當作肉盾讓響投鼠忌器一度扳回優勢，但隨著響改用照明彈干擾射線而無瑕壓制桃綠兩人。
 * 前研討會保安部成員，因為對工作產生厭倦而退出研討會
@@ -516,7 +516,7 @@
 ==== 室笠朱音（室笠アカネ） ====
 * CV：原由実（日）/鍾可（中）/김이안（韓）
 * '''班級：'''2年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（兔女郎）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（兔女郎）；'''職業：'''輔助、打手（兔女郎）
-* 代號03(Zero Three)。部份翻譯為「茜」。
+* 代號03([[仮面ライダーアウトサイダーズ#假面騎士Zero-Three（仮面ライダーゼロスリー）|Zero Three]])。部份翻譯為「茜」。
 ** 成員中唯一明示具有女僕本職能力，也就是打掃和料理能力的成員。精確地說，她原本就是女僕所以進了女僕部。
 * [[成句/只要出問題，C4炸藥都能搞定|炸藥控]]，在作戰任務中喜歡用炸藥來個大範圍爆破(掃除)。
 ** 初次與老師見面就炸穿天花板從天而降。順便補上一句致敬名言「[[Artoria_Pendragon_(Fate)#名言|あなたが、私のご主人様ですか？]]」
