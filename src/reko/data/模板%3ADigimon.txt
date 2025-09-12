@@ -1,0 +1,25 @@
+<noinclude>{{documentation}}</noinclude>
+
+{{Navbox
+|listclass=hlist
+|titlestyle = background: #00a9e3;color: #FFF;
+|groupstyle = background: #00a9e3;color: #FFF;
+|name   = Digimon
+|title  = [[數碼獸系列|{{color|white||Digimon Series}}]]
+|group1 = TV版作品．平成年代
+|list1  = [[デジモンアドベンチャー|大冒險]]・[[デジモンアドベンチャー|大冒險02]]・[[デジモンテイマーズ|馴獸師之王]]・[[デジモンフロンティア|無限地帶]]・[[デジモンセイバーズ|拯救隊]]・[[デジモンクロスウォーズ|大匯戰]]（[[Digimon Xros War/第一輯&第二輯人物介紹|第一輯/第二輯人物介紹]]・[[Digimon Xros War/第三輯人物介紹|第三輯人物介紹]]）・[[デジモンユニバース アプリモンスターズ|APP獸]]
+|group2 = TV版作品．令和年代
+|list2  = [[デジモンアドベンチャー|大冒險：]]・[[デジモンゴーストゲーム|幽靈遊戲]]・[[デジモンビートブレイク|BEATBREAK]]
+|group3 = 遊戲作品
+|list3 = [[Digimon TCG|TCG]]・[[Digimon Alysion|Alysion]]
+|group4 = 獨立電影版作品
+|list4 = [[デジモンアドベンチャー|大冒險Tri.]]
+|group5 = 其他相關條目 	
+|list5 = [[數碼獸系列/數碼獸一覽|著名Digimon一覽]]・[[數碼獸系列/傳統、慣例一覽|傳統、慣例一覽]]
+|group6 =成句
+|list6 = [[成句/我現在的心情你怎麼可能了解|我現在的心情你怎麼可能了解]]
+}}
+
+<noinclude>[[分類:數碼獸系列]]</noinclude>
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

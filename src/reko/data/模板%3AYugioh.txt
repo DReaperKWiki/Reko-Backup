@@ -1,0 +1,92 @@
+<noinclude>{{documentation}}</noinclude>
+{{Navbox
+|name   = Yugioh
+|title  = <big>''[[遊☆戯☆王|<span style="color:gold">遊☆戯☆王</span>]]''</big>
+|titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+|state      = expanded
+|group1 = 系列主線作品
+|list1=
+{{Navbox|child|
+|titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+|group1 = 東映製作
+|list1= [[遊☆戯☆王|遊☆戯☆王 (朝日版)]]
+|group2 = ぎゃろっぷ製作
+|list2= [[遊☆戯☆王 DM]]・[[遊☆戯☆王 GX]]・[[遊☆戯☆王 5D's]]・[[遊☆戯☆王 ZEXAL]]・[[遊☆戯☆王 ARC-V]]・[[遊☆戯☆王 VRAINS]]
+|group3 = ブリッジ製作
+|list3= [[遊☆戯☆王 SEVENS]]・[[遊☆戯☆王 GORUSH!!]]
+|group4 = Konami animation製作
+|list4= [[Yu-Gi-Oh! CARD GAME THE CHRONICLES]]
+}}
+|group2 = 漫畫版作品
+|list2= [[遊☆戯☆王|無印（高橋和希原作）]]・[[遊☆戯☆王#遊☆戯☆王R|R]]・[[遊☆戯☆王 GX#漫畫版|GX]]・[[遊☆戯☆王 5D's#漫畫版|5D's]]・[[遊☆戯☆王 ZEXAL#漫畫版|ZEXAL]]・[[遊☆戯☆王 ARC-V#漫畫版|ARC-V]]・[[遊☆戯☆王 ARC-V#漫畫版|最強決鬥者遊矢!!]]・[[遊☆戯☆王 OCG構築|OCG構築]]・[[遊☆戯☆王 SEVENS#漫畫版|魯克!爆裂霸道傳!!]]・[[遊☆戯☆王 SEVENS#漫畫版|我的發明學園]]・[[遊☆戯☆王 RushDuel LP|RushDuel LP]]・[[遊☆戯☆王 GORUSH!!#漫畫版|GORUSH!!]]・[[遊☆戯☆王 OCG STORIES|OCG STORIES]]
+|group3 = 劇場版作品
+|list3= [[遊☆戯☆王#遊☆戯☆王|遊☆戯☆王]]・[[遊☆戯☆王#遊☆戯☆王デュエルモンスターズ 光のピラミッド|光之金字塔]]・[[遊☆戯☆王#海☆鮮☆王遊☆戯☆王～超融合！時空を超えた絆～|超融合！超越時空的羈絆]]・[[遊☆戯☆王 DM#遊☆戯☆王 Dark Side of Dimensions|次元的黑暗面]]
+|group4 = 登場人物
+|list4= 
+{{Navbox|child|
+|titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+|group1 = DM
+|list1= [[武藤遊戲]]・[[海馬瀨人]]・[[城之內克也]]・[[貘良了]]・[[貝卡斯‧J‧克羅佛多]]・[[馬利克‧伊修達爾]]・[[達茲]]
+|group2 =GX
+|list2= [[遊城十代]]・[[萬丈目準]]・[[丸藤亮]]・[[天上院明日香]]・[[艾德‧菲尼克斯]]・[[丸藤翔]]・[[天上院吹雪]]・[[約翰‧安德森]]・[[奧斯丁‧歐布萊恩]]・[[吉姆‧克勞戴爾‧庫克]]・[[早乙女禮]]・[[三澤大地]]・[[尤貝爾]]
+|group3 =5D's
+|list3= [[不動遊星]]・[[傑克‧亞特拉斯]]・[[烏鴉‧霍根]]・[[十六夜亞紀]]・[[龍亞]]・[[龍可]]・[[鬼柳京介]]・[[牛尾哲]]・[[卡莉渚]]・[[雪莉‧盧布朗]]・[[Z-ONE]]・[[布魯諾]]・[[阿波利亞]]・[[帕拉杜克斯]]・[[雷克斯‧哥德溫]]
+|group4 =ZEXAL
+|list4= [[九十九遊馬]]・[[觀月小鳥]]・[[天城快斗]]・[[神代凌牙]]・[[神代璃緒]]・[[米歇爾‧亞克雷德|Ⅲ]]・[[湯瑪士‧亞克雷德|Ⅳ]]・[[克里斯多福‧亞克雷德|Ⅴ]]・[[拜隆‧亞克雷德|玉座]]・[[真月零]]・[[巴利安七皇]]・[[上千主上|千尊]]
+|group5 =ARC-V
+|list5= 
+{{Navbox|child|
+|titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+|group1 =基準次元
+|list1= [[榊遊矢]]・[[柊柚子]]・[[赤馬零兒]]・[[權現坂昇]]・[[澤渡慎吾]]・[[志島北斗]]・[[光津真澄]]・[[刀堂刃]]・[[方中美惠留]]・[[赤馬零羅]]・[[月影 (遊戲王ARC-V)|月影]]
+|group2 =超量次元
+|list2= [[榊遊矢#遊斗|遊斗]]・[[柊柚子#黑咲琉璃|琉璃]]・[[黑咲隼]]・[[天城快斗|快斗]]
+|group3 =同步次元
+|list3= [[榊遊矢#遊吾|遊吾]]・[[柊柚子#凜|凜]]・[[烏鴉‧霍根]]・[[傑克‧亞特拉斯]]
+|group4 =融合次元
+|list4= [[榊遊矢#遊里|遊里]]・[[柊柚子#瑟蕾娜|瑟蕾娜]]・[[紫雲院素良]]・[[丹尼斯‧麥克菲德]]・[[赤馬零王]]・[[歐貝利斯克部隊]]・[[艾德‧菲尼克斯]]・[[天上院明日香]]
+|group5 =唯一世界
+|list5= [[榊遊矢#札克|札克]]・[[柊柚子#赤馬蕾|蕾]]
+}}
+|group6 =VRAINS
+|list6= {{ruby|[[藤木遊作]]|Playmaker}}・{{ruby|[[鴻上了見|左輪]]|Revolver}}・{{ruby|[[財前葵]]|Blue Angel}}・{{ruby|[[鬼塚豪]]|Go鬼塚}}・{{ruby|[[穗村尊]]|Soulburner}}・[[伊格尼斯 (遊戲王VRAINS)|伊格尼斯]]
+|group7 =SEVENS
+|list7 =
+{{Navbox|child|
+|titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+|group1 =葛瓦第7小學
+|list1=[[王道遊我]]・[[上城龍久|魯克]]・[[蒼月學人]]・[[霧島蘿敏]]
+|group2 =葛瓦第6小學
+|list2=[[六葉亞莎娜]]
+|group3 =葛瓦企業相關
+|list3=[[奧提斯]]・[[西園寺尼爾]]・[[安立美美]]・[[○○子 (遊戲王SEVENS)|○○子系列]]・[[葛瓦六社長]]
+}}
+|group8 =GORUSH!!
+|list8 =
+{{Navbox|child|
+|titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+|group1 = UTS
+|list1=[[遊帝亞斯・貝爾加]]・[[王道遊飛]]・[[王道遊歩]]
+|group2 = MIK
+|list2=[[蒼月學]]
+|group3 = 貝爾加星雲
+|list3=[[史維喬・吉爾・貝爾加]]・[[平森三子]]
+}}
+}}
+|group5 = 迷台詞&成句
+|list5= [[成句/HA☆NA☆SE!|HA☆NA☆SE!]]・[[成句/喂，來決鬥吧。|喂，來決鬥吧。]]・[[成句/遊星很受，變態歡迎|遊星很受，變態歡迎]]・[[Realist|リアリスト]]・ [[成句/快住手，這樣的根本不是○○！|快住手，這樣的根本不是○○！]]・[[成句/用你的○○…為大家帶來笑容…|用你的決鬥…為大家帶來笑容…]]・[[成句/但是你還要承受傷害|但是你還要承受傷害]]
+|group6 = 分支條目
+|list6= [[遊☆戯☆王/系列傳統、慣例一覽|傳統、慣例一覽]]<s>・[[顏藝]]・[[背後靈]]・[[另一個我]]・[[8700萬青眼白龍拍賣事件]]</s>
+|group7 = 實體紙牌遊戲
+|list7= [[遊戲王集換紙牌遊戲]]・[[遊戲王超速決鬥]]
+|group8 = [[遊☆戯☆王/系列遊戯作品一覽|<span style="color:black">系列遊戯作品</span>]]
+|list8= [[遊戯王 Duel Links]]・[[遊戯王 Master Duel]]・[[遊戯王 Cross Duel]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
+[[分類:遊☆戯☆王]]

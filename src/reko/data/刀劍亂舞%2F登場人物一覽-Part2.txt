@@ -1937,7 +1937,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/6/69/Omokage.png [[檔案:
 |22
 |}
 
-* 最早於2019年衍生遊戲《刀劍亂舞無雙》中登場，於2025年十周年大本丸博的十重發表中預告即將於2025年春季逆流回到本家遊戲實裝，並在2025/4/22更新後以限定鍛刀實裝；鍛刀時間為3:00:00，官方指定配方為'''All 700'''。
+* 最早於2019年衍生遊戲《刀劍亂舞無雙》中登場，於2025年十周年大本丸博的十重發表中預告即將於2025年春季[[逆流]]回到本家遊戲實裝，並在2025/4/22更新後以限定鍛刀實裝；鍛刀時間為3:00:00，官方指定配方為'''All 700'''。
 ** 原先在《刀劍亂舞無雙》中的面影為大太刀{{censored|，是所有名為面影的刀顯現而成的集合體且並非完全體；與本家的面影雖然在外貌上有不少相似要素，但仍然可視為不同的存在}}。
 * 名為面影的刀有數把存在，但此為來派之祖來國行所作的太刀，據稱因其刀刃能清楚映出人的面容而得名。因聽見了覺醒之歌而到來。（官方推特介紹）
 ** 來國行所打造的面影原本是三尺三寸長的大太刀，但後來被池田忠雄磨短成太刀，而本家遊戲的設定中刀若被磨短過都會以其最終型態顯現成刀劍男士，所以刀種跟無雙版本有所不同。
@@ -3052,12 +3052,12 @@ https://i.imgur.com/8AmCA5w.jpg
 
 ==  外部連結  ==
 * [https://wikiwiki.jp/toulove/ 日文wiki]
+** [http://wikiwiki.jp/toulove/?%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7 人物角色介紹wiki]
 * [https://touken-ranbu.fandom.com/wiki/Touken_Ranbu_Wiki 英文wiki]
-* [http://wikiwiki.jp/toulove/?%A5%AB%A1%BC%A5%C9%B0%EC%CD%F7 人物角色介紹wiki]
 * [http://toulove.lofter.com/post/1cff50c_56ec85b 刀劍亂舞Neta屋角色索引（簡體注意）]
 * [http://toulovefantranlatetw.weebly.com/ 刀劍男士台詞翻譯集中地]
 * [http://meiou.info/ 名刀幻想辞典]
-* [http://guild.gamer.com.tw/wikimenu.php?sn=9969 刀劍亂舞審神者神社公會WIKI（現為非公開）]
+* [http://guild.gamer.com.tw/wikimenu.php?sn=9969 刀劍亂舞審神者公會WIKI（需加入會員）]
 
 == 回應 == 
 {{pcomment|section=2}}
