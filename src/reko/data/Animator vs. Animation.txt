@@ -7,17 +7,17 @@
 |}
 [[檔案:AVA Season 2 Poster Logo.png|center|500px]]
 ==解說==
-* 美國獨立動畫師Alan Becker于2006年創作的火柴人Flash短篇動畫
+* 美國獨立動畫師Alan Becker于2006年起創作的火柴人Flash短篇動畫系列
 ** 其創作受[[Warner Bros. Animation|樂一通]]動畫短片《Duck Amuck》和Crockett Johnson繪本改編動畫《阿羅有支彩色筆》啟發，靈感來源中亦有《Stix》《ひまつぶし》等Flash遊戲的影子
 ** 除了不亞於其他優秀火柴人動畫的流暢動作場面外，最大的特征是創意十足地跳脫火柴人對打的題材主流，直接將動畫軟體本身作為戰場和武器，上演{{ruby|火柴人|Animation}}與其{{ruby|創造者|Animator}}對抗的全武行
 ** 由於年輕時的Alan非常討厭說話<s>甚至15歲以前幾乎不和家人以外的人說話</s>，因此花費大量時間在觀察周圍一切的非語言表現上，其動畫也是幾乎沒有語言表現<ref>必要時會出現字幕，但除了有真人出鏡的場合可能會有幾句外，全系列是一句台詞也沒有<s>倒是省下了找人配音的成本</s></ref>，全靠生動的動作展現的默劇
 *** 但這一決定無形中成為了系列能脫離語言藩籬走向世界、在非英語地區（包括東亞三國）吸引大批觀眾的主要原因之一
 * 雖然早在2001年就有製作過像素動畫GIF，真正開始創作動畫的契機為被遠程教育高中錄取並得到校方提供的一台筆電，這也是一直以來跟家人共用電腦的Alan第一次得到自己的個人設備
-** 這給予他可以自由發揮創意製作動畫的機會，同時接觸到Macromedia Flash 8這一強大的動畫製作軟體和可以上傳並發佈自製動畫的Flash門戶網站[[Flash Game|Newgrounds]]
-** 第一部較長規模的Flash動畫《Pink Army》發佈後收獲頗豐，在眾多好評的鼓舞下Alan著手開始製作下一部作品，也即是最初的《Animator vs. Animation》（下稱AvA1）
+** 這給予他可以自由發揮創意製作動畫的機會，同時接觸到（當時尚未被Adobe收購的）Macromedia Flash 8這一強大的動畫製作軟體和可以上傳並發佈自製動畫的Flash門戶網站[[Flash Game|Newgrounds]]
+** 第一部較長規模的Flash動畫《Pink Army》發佈後收獲頗豐，在眾多好評的鼓舞下Alan開始著手製作下一部作品，也即是最初的《Animator vs. Animation》（下稱AvA1）
 * 在經過三個月的製作後，AvA1於2006年6月3日首發于Newgrounds上，憑藉優秀的想象力和表現力，發佈第二日便直衝平台榜二
 ** Alan自此一炮走紅，並收到大量網站主希望轉載這部作品的請求，<s>當然包括對岸的4399在內，在版權意識並不明朗的千禧之初，不分地域的無端轉載者更是一抓一大把</s>
-** 更有甚者試圖用75美金從當時年僅'''17歲'''且家境不算富裕的Alan手中買斷作品版權，'''幸得貴人及時阻止'''，Alan才得以保住自己的作品<s>和未來的動畫師生涯</s>
+** 更有甚者試圖用75美金從當時年僅'''17歲'''且家境不算富裕的Alan手中買斷作品版權<s>，Alan甚至差點就簽下買斷合同</s>，'''幸得貴人及時阻止'''才得以保住自己的作品<s>和未來的動畫師生涯</s>
 *** 這位貴人就是Albino Blacksheep<ref>一家主營Flash動畫的網站</ref>的老闆Steven Lerner。後來Alan糊里糊塗地被臭名昭著的強盜網站EBaum's World耍猴時<ref>用一筆250美金的掩口費要他向那邊老闆Eric Bauman寫一份對要求對面撤下無端轉載自己作品的「道歉聲明」</ref>，即使Lerner初時覺得被出賣，仍然肯想辦法為Alan解困
 *** <s>[https://ericbaumanexplains.ytmnd.com/ 案件][https://ebaumalansrevenge.ytmnd.com/ 重演](笑)，此事也成為Alan在維基百科上為數不多的記載出場，還有人做了GMOD動畫短片解釋整起事件經緯</s>
 * 此後Alan得到網站Atomfiles<ref>一家主打短篇動畫發佈和分享的網站，其母公司2012年被Comedy Central併購後改稱CC Studios至今</ref>的<s>正規正經的</s>資助，於同年11月發佈續集《AvA2》，成為一代人的童年回憶
@@ -25,18 +25,16 @@
 * 在強烈要求續集的粉絲呼籲下，於2010年發佈<s>各種意義上手筆超大的</s>《AvA3》{{censored|並為了不給自己留下任何製作續集的機會在其中把自己電腦炸到藍屏}}，為系列畫上{{censored|暫時的}}句點
 * 此後Alan專心於學業，不再有意向製作續集
 ** 從学校畢業后起初打算進入皮克斯工作，但實習生申請接連被拒了兩年，於是改變主意想先在較小的當地動畫公司內任職
-** 這時聽從慧眼識金的導師Tom Richner建議，重新拾起年輕時的創作系列，在2014年通過眾籌製作並發佈《AvA4》，從此走向個人事業的真正巔峰
+** 這時聽從另一名貴人、慧眼識金的大學導師Tom Richner建議，重新拾起年輕時的創作系列，在2014年通過眾籌製作並發佈《AvA4》，從此走向個人事業的真正巔峰
 *** 在AvA4的劇情基礎上製作的衍生作《Animation vs. Minecraft》更是紅到發紫，令Alan堅定了靠創作謀生的信念
 * 其動畫作品中的人物動態全部是逐幀繪製而成，幾秒鐘的動畫背後可能是數小時的工作量，因此早期影片更新速度相當緩慢
-** 由於創意愈發複雜，需求的工作量越來越大，後來組建了自己的動畫團隊，招攬著名火柴人動畫師oxob3000、Shruiken255、Hatena360等成員參與製作。本人如今已極少親自作畫<ref>但有時工期趕不及還是會親身下場救火，如AvM33後半的群體戰鬥場面</ref>，基本上僅負責AvA和AvM等主要系列的編導工作
+** 由於創意愈發複雜，需求的工作量越來越大，後來組建了自己的動畫團隊，招攬著名火柴人動畫師oxob3000、Shuriken255、Hatena360等成員參與製作。本人如今已極少親自作畫<ref>但有時工期趕不及還是會親身下場救火，如AvM33後半的群體戰鬥場面</ref>，基本上僅負責AvA和AvM等主要系列的編導工作
 ** 一部分新近的人氣系列（《Animation vs. Education》等）更是由團隊主導製作
 * 除火柴人動畫外亦出品過動畫製作教程、在Minecraft中復刻[[吉卜力工作室|吉卜力]]作品地圖等內容
 ** 有一和好友DJ Welch一起<s>不務正業打電動</s>運營的分頻道「Animators VS Games」，除遊戲實況外還會發佈二人一同觀看主頻道新作的反應影片
 *** 遊戲實況的封面圖常有火柴人出來客串，其中不乏疑似設定補充的細節<ref>如TCO、TDL、vic和Mitsi的面部塗鴉造型等<s>不過更多還是四色招惹TDL或vic開飛碟轟炸TCO和TSC之類的謎場面</s></ref>
-* 已婚，育有一兒一女。偶爾家人會在作品中客串聲演，<s>主要負責把他從電腦前支開方便火柴人進去他擁有的各個終端搞事情</s>
-** 順帶一提太太Kaori在加州有和母親一同創辦的日料烹飪學校，在俄亥俄州當地與友人共同經營麻糬甜甜圈店鋪，還出過一本麻糬食譜集
-** Alan自身也算是藝術世家出身：父親是油畫家，還有兩個分別是插畫/漫畫家和攝影師的妹妹Harmony和Gracie，其中Harmony曾在AvA4中出借觸控板給哥哥拍攝，Gracie則是直接包攬了AvA11裡所有的實寫鏡頭拍攝工作
-* 07年曾與人合作{{ref|合作方為'''時年14歲'''的遊戲創作者Charles Yeh，<s>這群Flash創作者都是什麼少年怪物？！</s>}}推出一部基於前兩部動畫內容改編的Flash遊戲《Animator vs. Animation Game》，讓玩家扮演動畫師的游標用各種工具制服火柴人，{{censored|但火柴人打不死，反倒是游標會有生命限制<s>一定程度上還原了作中Alan容易老馬的部分</s>，除默認的vic外更有需要對抗TCO及他各色超能力的高難度關卡}}
+* 07年曾與人合作{{ref|合作方為'''時年14歲'''的遊戲創作者Charles Yeh，<s>這群Flash創作者都是什麼少年怪物？！</s>}}推出一部基於前兩部動畫內容改編的Flash遊戲《Animator vs. Animation Game》，讓玩家扮演動畫師的游標用各種工具制服火柴人
+** {{censored|但火柴人打不死，反倒是游標會有生命限制<s>一定程度上還原了作中Alan容易老馬的部分</s>，除默認的vic外更有需要對抗TCO及他各色超能力的高難度關卡}}
 * 於25年初公佈正規官方遊戲《Animation VERSUS》（下称AnV）正在開發中的情報，並於同年三月底開啟Kickstarter眾籌，五小時內便<s>在各路熱情觀眾的狂暴注資下</s>完成13萬美金的基本籌款目標<s>順便把團隊成員的下巴都驚掉</s>，到眾籌活動結束時總共籌得<s>1{{ruby|柴萬|stickillion}}<ref>由主力開發者Muno慶祝眾籌大獲成功時提出，1 stickillion = 998416</ref></s>將近一百萬美金。目前暫定於28年6月發售
 ** 為類《Rivals of Aether》的像素風格鬥遊戲，但將以[[任天堂明星大亂鬥]]為代表的平台格鬥和[[快打旋風]]、[[聖騎士之戰]]等知名傳統格鬥的要素結合一處
 ** 同時亦有可以聯機協作的[[RogueLike|肉鴿]]模式和擁有專門的動畫過場、與動畫主系列同一舞台的單機劇情模式<s>大家紛紛推測是不是要致敬任鬥的亞空使者</s>
@@ -57,7 +55,7 @@
 ** 與之相應，AvA1~4被整體定義為S1，原定分為七部曲的AvA6則變成了S3
 * 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS2才開始有意識地佈置長線伏筆，[[吃書]]早期設定自然難免
 * 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本被打回去重寫了一遍</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
-** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來{{censored|<s>但這群倒霉柴還是要繼續等個半年多</s>}}
+** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來<s>但還是一路拖到了九月中下旬，{{censored|這群倒霉柴也又多等了大半年}}</s>
 
 {{hideh|點擊展開}}
 {|width="100%" class="wikitable" 
@@ -70,7 +68,7 @@
 |-
 | 2 || Animator vs. Animation II<br>火柴人 VS 動畫師 2 || 2006/11/4 (Atom)<br>2007/3/15 (Newgrounds)<br>2007/5/14 (Youtube) || ''尋求挑戰的{{color|#8436e2||動畫師}}決定創造一個更難擊敗的火柴人，但他對自己到底給了這個小傢伙多少力量幾乎一無所知，{{color|#000000||天選之子}}萬歲！''<br><s>Alan老馬實錄</s>，<s>次子</s>{{color|#000000||The Chosen One (TCO)}}初登場，舞台從前作的Flash 8界面內擴展到桌面上，附帶各種桌面圖標為捍衛電腦安危車輪大戰TCO的創意場面<s>雖然最後還是要靠殺軟救場</s><br>題外話：由於Alan未經多想便直接在影片中暴露了自己的AIM賬號，直接導致他一打開AIM就會被滿滿當當的垃圾信息刷屏而從此放棄使用該平台<s>可見保護個資安全有多麼重要</s> || [https://www.youtube.com/watch?v=nxM1cnphLpw youtube]<br>[https://www.bilibili.com/video/BV1nk4y1m7uq bilibili]
 |-
-| 3 || Animator vs. Animation III<br>火柴人 VS 動畫師 3 || 2010/10/4 (Atom)<br>2011/10/2 (Youtube) || ''第二集裡的{{color|#000000||「天選之子」}}被{{color|#8436e2||動畫師}}當成彈窗廣告屏蔽插件困在IE瀏覽器里。這段動畫描述了他如何逃到Microsoft Word、空當接龍、掃雷乃至於電腦桌面上的經歷。''<br>AvA2的直接續集，為了遏制逃脫束縛的TCO，Alan在這集中造出了<s>三子</s>{{color|#FF0000||The Dark Lord (TDL)}}{{censored|殊不知他這一畫就搞出了個系列最大亂源，<s>甚至差點讓整個互聯網陷入危機</s>}}<br>{{censored|如上所述，由於Alan當時沒有繼續製作續集的打算，為不留餘地直接爆破了（劇中）自己的電腦，當然後來的事嘛……}} || [https://www.youtube.com/watch?v=PCtr04cnx5A youtube]<br>[https://www.bilibili.com/video/BV1o54y1S7tY bilibili]
+| 3 || Animator vs. Animation III<br>火柴人 VS 動畫師 3 || 2010/10/4 (Atom)<br>2011/10/2 (Youtube) || ''第二集裡的{{color|#000000||「天選之子」}}被{{color|#8436e2||動畫師}}當成彈窗廣告屏蔽插件困在IE瀏覽器里。這段動畫描述了他如何逃到Microsoft Word、空當接龍、掃雷乃至於電腦桌面上的經歷。''<br>AvA2的直接續集，為了遏制逃脫束縛的TCO，Alan在這集中造出了<s>三子</s>{{color|#FF0000||The Dark Lord (TDL)}}{{censored|殊不知他這一畫就搞出了個系列最大亂源，<s>甚至差點讓整個互聯網陷入危機</s>}}<br>{{censored|如前所述，由於Alan當時沒有繼續製作續集的打算，為不留餘地直接爆破了（劇中）自己的電腦，當然後來的事嘛……}} || [https://www.youtube.com/watch?v=PCtr04cnx5A youtube]<br>[https://www.bilibili.com/video/BV1o54y1S7tY bilibili]
 |-
 | 4 || Animator vs. Animation IV<br>火柴人 VS 動畫師 4 || 2014/10/2 || ''一個{{color|#FF6600||火柴人}}和創造他的{{color|#8436e2||動畫師}}之間的戰鬥。本集中，現實中的{{color|#8436e2||動畫師}}終於出鏡和他的電腦顯示器互動。這個{{color|#FF6600||火柴人}}激烈反抗著他的創造者，駭入他的臉書賬戶讓他社死、通過USB線進入他的iPhone、以及自行繪製動畫形象來破壞動畫軟體界面。''<br><s>末子</s>{{color|#FF6600||The Second Coming (TSC)}}和他的{{color|#66cc00||四}}{{color|#33ccff||色}}{{color|#ffcc00||夥}}{{color|#cc0000||伴}}們初登場，成為此後大多數影片中的主角陣<s>雖然本集中四色其實沒多少戲份和描寫</s><br>時隔四年後的正統續作，此時Alan已從學校畢業且有家室要供養，故以眾籌方式籌集資金製作，參與眾籌者多數以臉書好友身份在劇中出現，其中一人「Darren Schwartz」更是作為出資最多者得到了直接的客串戲份 || [https://www.youtube.com/watch?v=VufDd-QL1c0 youtube]<br>[https://www.bilibili.com/video/BV1if4y1X7iH bilibili]
 |-
@@ -80,7 +78,7 @@
 |-
 | 6 || The Chosen One's Return<br>天選之子回歸 || 2018/10/28 || ''一位{{color|#000000||老朋友}}現身拯救了世界。''<br>書接前回，TCO堂堂回歸，給後輩們好好秀了一手五花八門的超能力後事了拂衣去{{censored|<s>不過可能因為光打這隻紅蜘蛛就耗了太多力氣，才會在後續集數裡被強化TDL占到上風</s>}} || [https://youtu.be/dL8F0B8Hj0o youtube]<br>[https://www.bilibili.com/video/BV1Rk4y1m7eP bilibili]
 |-
-| 7 || The Flashback<br>閃回 || 2019/3/11 || ''揭露{{color|#000000||TCO}}和{{color|#FF0000||TDL}}的過去。''<br>如題所示的回憶集，主要解釋了這兩隻柴{{censored|如何從AvA3末尾的藍屏爆炸中逃脫}}到AvA5發生前的一系列經緯<br>此後的重要舞台「外聯網」在此集亮相，同時也是系列首次出現<s>拉長製作周期的罪魁禍首之一</s>非平面場景 || [https://youtu.be/_vfSvckpQWo youtube]<br>[https://www.bilibili.com/video/BV1R54y1S7ZL bilibili]
+| 7 || The Flashback<br>閃回 || 2019/3/11 || ''揭露{{color|#000000||TCO}}和{{color|#FF0000||TDL}}的過去。''<br>如題所示的回憶集，主要解釋了這兩隻柴{{censored|如何從AvA3末尾的藍屏爆炸中逃脫}}到AvA5發生前的一系列經緯<br>此後的重要舞台「外聯網」在此集初次亮相，同時也是系列首次出現<s>拉長製作周期的罪魁禍首之一</s>非橫版平面場景<br>{{censored|<s>事後看來這集的劇情留白確實不一般的多，在AvA11和AvM0的填補后尚有很多可寫的東西</s>}} || [https://youtu.be/_vfSvckpQWo youtube]<br>[https://www.bilibili.com/video/BV1R54y1S7ZL bilibili]
 |-
 | 8 || The Showdown<br>決戰 || 2020/10/24 || ''{{color|#000000||TCO}}和{{color|#FF0000||TDL}}間的史詩級決戰。''<br>確實是史詩級的<s>兄弟鬩墻</s>決戰，大多數時間裡先前一頭熱跟著TCO一起跳進白洞的五小隻都只能縮在一旁觀戰{{censored|不過也有Yellow手搓代碼把遊標拉來助陣，和TSC極限覺醒翻盤的高光時刻}}<br>題外話，雖然設定上是緊接著AvA5（18年8月）發生的事件，但製作使用的網頁素材是相對近期錄製的{{censored|所以會有中途掠過的推特趨勢裡出現'''COVID-19'''等18年不可能有的關鍵字的穿幫鏡頭，<s>在Youtube上的'''AvA8影片本身'''裡借力打力的部分更讓一眾考據者燒乾腦漿也解釋不清</s>}} || [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1VD4y1U7WQ bilibili]
 |-
@@ -88,9 +86,11 @@
 |-
 | 9 || Wanted<br>通緝 || 2023/4/29 || ''{{color|#000000||TCO}}有麻煩了。''<br>再度時隔三年<s>外加整整兩季AvM</s>的續作，開場就是全Blender製作場景、駕駛飛行載具的僱傭兵小隊街頭追逐被通緝的TCO的大場面<br>{{censored|結尾處僱傭兵小隊復命的對象是一隻灰色的空心頭，同時周圍展示著許多Flash 8的工具圖標，難不成……？}} || [https://www.youtube.com/watch?v=dzJvuswZ5ys youtube]<br>[https://www.bilibili.com/video/BV1dh4y1n7Sh bilibili]
 |-
-| 10 || The Box<br>盒子 || 2023/11/4 || ''在盒子中凡事皆可。''<br>{{censored|前回末尾現身的victim正式登場，然後一出來就是近乎一整集的<s>靠純科技吊打超能力者、看得同人女大呼刺激（無誤）的</s>對TCO暴力拷問<ref>{{censored|原定會比實際呈現的更加激烈和一邊倒，從事後流出的廢稿描述來看甚至會有TCO被吊頸的鏡頭，但等Alan關切時團隊已經做好了相對較為[[排毒]]版本的整段動畫，於是也就按著排毒版本做下去了（無誤）}}</ref>，要他吐出游標（Alan）的線索<br>最後也得知先前召喚游標的是Yellow，在四色剛潛入Rocket Corp.便慘遭逮捕的同時，慢條斯理地點燃印有游標形象的紙張……<s>讓觀眾們苦等之後發展等了一年多結果（見下）</s>}} || [https://www.youtube.com/watch?v=OPo5_EBO5JM youtube]<br>[https://www.bilibili.com/video/BV14e411X7HM bilibili]
+| 10 || The Box<br>盒子 || 2023/11/4 || ''在盒子中無所不能。''<br>{{censored|前回末尾現身的victim正式登場，然後一出來就是近乎一整集的<s>靠純科技吊打超能力者、看得同人女大呼刺激（無誤）的</s>對TCO暴力拷問<ref>{{censored|原定會比實際呈現的更加激烈和一邊倒，從事後流出的廢稿描述來看甚至會有TCO被吊頸的鏡頭，但等Alan關切時團隊已經做好了相對較為[[排毒]]版本的整段動畫，於是也就按著排毒版本做下去了（無誤）}}</ref>，要他吐出游標（Alan）的線索<br>最後也得知先前召喚游標的是Yellow，在四色剛潛入Rocket Corp.便慘遭逮捕的同時，慢條斯理地點燃印有游標形象的紙張……<s>讓觀眾們苦等之後發展等了一年多結果（見下）</s>}} || [https://www.youtube.com/watch?v=OPo5_EBO5JM youtube]<br>[https://www.bilibili.com/video/BV14e411X7HM bilibili]
 |-
 | 11 || Victim<br>受害者 || 2024/12/14 || ''作為一切開端的{{color|#505050||那個火柴人}}。''<br>{{censored|整集都是vic的回憶，看過之後只會想問Alan你吃錯什麼藥要這樣對待你家長子（劇情中和劇本外雙重含義），<s>雖然也有人在意的是「那TCO和TSC是不是還要再繼續被關一年」</s><br>場面極大的揭開了整個AvA/外聯網的世設一角<s>難怪製作週期長達兩年</s>，在背景中給出了Purple一家的起源和暗示覺醒TSC能力的真實面目<br><s>Alan發刀太狠，觀眾不是為vic的遭遇胃痛就是為自己的二創設定被狠狠背刺而哀嚎，完全無法料想按目前的情況，之後到底要怎麼給vic一個救贖或好結局</s>}} || [https://www.youtube.com/watch?v=2eHozBXlEpw youtube]<br>[https://www.bilibili.com/video/BV1XBBEYVEWx bilibili]
+|-
+| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到動畫師身邊的那個火柴人。''<br><s>這個標題配大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|TDO回歸，向復仇到空虛的HACKER自爆自己才是HACKER的殺妻仇人，並以可以復活Mitsi的前提拉攏他...}} || [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
 |}
 {{hidef}}
 
@@ -487,9 +487,9 @@
 |-
 | 91|| Couples Discount<br>情侣折扣 || 2025/7/26 || 只是vic和Mitsi在逛公園…… 對嗎？<br>實質上可說是AS71前傳，重點還是'''那位熱狗哥（ry）的天才商業頭腦'''{{censored|，情侶特價七五折→但情侶熱狗兩根捆綁賣15刀（單根熱狗原價3刀，<s>蝴蝶結大概價值9刀吧</s>）<br><s>從秒拿出特價招牌和攤位上早就準備好情侶熱狗來看，說他沒在故意蹲守情侶路過都沒人信……</s>}}|| [https://www.youtube.com/shorts/EaHM8KTeDzo youtube]<br>[https://www.bilibili.com/video/BV1fC8bz6E3w bilibili]
 |-
-| 92|| Fingers<br>手指 || 2025/8/16 || TSC給自己和兄弟們畫出<s>只有四根<ref>出於節省作畫資源和迴避恐怖谷效應的考慮，美式卡通經常將角色手部畫成四指，亦有說法稱這是因為卡通常見的誇張比例會讓五指手顯得格外臃腫所致。無論如何，四指手已成為約定俗成的動畫設計定番並延續至今<s>，身為動畫角色的火柴人自然不能免俗</s></ref>的穿戴式乳膠手套</s>手指後的一系列體驗活動，剪刀石頭布、轉筆、撓癢癢、拇指摔角……{{censored|結果Red靠靈機一動<s>把自己變成Fido Dido/頭部被寄生獸寄生/賽富豪/派大星/沒翅膀的王靈官</s>讓所有柴都意興闌珊繼而扔掉「手指」離開}}<br><s>大家都在焦急等待AvA12更新時出現的陰間玩意兒，論為什麼畫火柴人一般不會加手指{{censored|因為小火柴會把手指戴在頭上玩}}</s>|| [https://www.youtube.com/watch?v=enw89_fCePA youtube]<br>[https://www.bilibili.com/video/BV1V2YezREZF bilibili]
+| 92|| Fingers<br>手指 || 2025/8/16 || TSC給自己和兄弟們畫出<s>只有四根<ref>出於節省作畫資源和迴避恐怖谷效應的考慮，美式卡通經常將角色手部畫成四指，亦有說法稱這是因為卡通常見的誇張比例會讓五指手顯得格外臃腫所致。無論如何，四指手已成為約定俗成的動畫設計定番並延續至今<s>，身為動畫角色的火柴人自然不能免俗</s></ref>的穿戴式乳膠手套</s>手指後的一系列體驗活動，剪刀石頭布、轉筆、撓癢癢、拇指摔角……{{censored|結果Red靠靈機一動<s>把自己變成Fido Dido/頭部被寄生獸寄生/賽富豪/派大星/沒翅膀的王靈官</s>讓所有柴都意興闌珊繼而扔掉「手指」離開}}<br><s>大家都在焦急等待AvA12更新時出現的陰間玩意兒，論為什麼畫火柴人一般不會加手指{{censored|因為小火柴會把手指戴在頭上玩}}</s><br>順便一提，本集的主意是團隊製作經理Hatena360而非Skim提出的|| [https://www.youtube.com/watch?v=enw89_fCePA youtube]<br>[https://www.bilibili.com/video/BV1V2YezREZF bilibili]
 |-
-| 93|| Fork vs Spoon<br>叉子vs勺子 || 2025/8/16 || 餐<s>廚</s>具大戰。{{censored|結果最後的勝利者TSC是用鍋鏟}}</s>|| [https://www.youtube.com/shorts/wUsjDnjg2Xw youtube]<br>[https://www.bilibili.com/video/BV1sXhizrEtz bilibili]
+| 93|| Fork vs Spoon<br>叉子vs勺子 || 2025/8/30 || 餐具大戰，後面連餐刀和筷子都上陣參與亂鬥，{{censored|結果最後橫空殺出個用鍋鏟拍翻所有柴的TSC<s>廚具也算一種餐具</s>}}|| [https://www.youtube.com/shorts/wUsjDnjg2Xw youtube]<br>[https://www.bilibili.com/video/BV1sXhizrEtz bilibili]
 |}
 {{hidef}}
 
@@ -550,7 +550,7 @@
 {{hideh|點擊展開}}
 ==== {{color|#8436E2||動畫師（Alan Becker/noogai3）}} ====
 * <s>作者本尊（無誤），無疑的</s>系列裡主角兼AvA S1的反派役，{{color|#505050||vic}}、{{color|#000000||TCO}}、{{color|#FF0000||TDL}}及{{color|#FF6600||TSC}}的創造者
-** 通常討論中會直接以Alan相稱，需要將作中動畫師和現實中的系列作者區分開的場合則會以舊網名「noogai3」稱呼之
+** 通常討論中會直接以Alan相稱，需要將作中動畫師和現實中的系列作者區分開的場合則會以舊網名「noogai」稱呼之
 ** 出自他手的火柴人都有著和外聯網常見火柴人畫風格格不入的空心<s>大</s>頭
 * 早期基本上只以屏幕中的游標形式和火柴人們互動，社媒頭像也是一隻著火的像素游標。AvA4開始會出現電腦前的本人背影或手部的實寫鏡頭，{{censored|到AS43中首次正面出演，為一戴黑框方鏡的亞裔長相男性<ref>本人的Kickstarter簡介中自稱為混血日裔</ref>，<s>不過早在AvA4的籌款宣傳影片中他就已經正面亮相了</s>}}
 * 千禧年初會在<s>小黃人</s>AIM即時通<ref>AOL instant messenger，American Online於1997年五月推出的即時通訊軟體，曾經是泛北美地區用戶數量最多的通訊平台，已於2017年12月15日結束運營。</ref>上與「programmer021」等網友交流火柴人相關事宜，隨著<s>本人學成歸來</s>時代變遷，如今同樣在各種當前的主流平台上活躍著
@@ -589,12 +589,16 @@
 ** <s>形象真的很多。我是你爸，千變萬化</s>
 * <s>二創中的人物定位也相當多變，要不是AvA4及之後的寵孩子老父親，要不就是AvA1-3中純粹不將造物當人看的無情造物主，但大多會有著和前三個孩子（特別是vic）關係僵得不行的共通點</s>
 ** <s>不知為何有不少將他和空心頭們配對的[[BL|腐向]]二創產出，並且以受け向{{censored|和虐他}}居多{{censored|，尤其是在AvA11播出之後。Alan你看看你}}</s>
-* '''不過noogai3和空心頭們之間的父子關係基本上都是觀眾和二創者腦補出來的公認二次設定，並沒有得到官方承認過'''
-** {{censored|'''Alan認為TSC和noogai3比起父子更接近於房客和房東<s>又或者寵物和飼主、凡人和會關心他的友善[[克蘇魯神話|邪神]]</s>的關係'''}}
+* '''不過noogai和空心頭們之間的父子關係基本上都是觀眾和二創者腦補出來的公認二次設定，並沒有得到官方承認過'''
+** {{censored|'''Alan認為TSC和noogai比起父子更接近於房客和房東<s>又或者寵物和飼主、凡人和會關心他的友善[[克蘇魯神話|邪神]]</s>的關係'''}}
 ** {{censored|<s>不過本人確實會不時半開玩笑自稱火柴人們的爹就是了</s>}}
-* 現實中的本人是表情<s>顏藝</s>十分豐富的類型，所以雖然作中只在AvA9裡出現過實例，但二創中經常會讓他和火柴人們打字交流時語尾帶上各種各樣的顏文字
+* 現實中已婚，育有一兒一女。偶爾家人會在作品中客串聲演，<s>主要負責把他從電腦前支開方便火柴人進去他擁有的各個終端搞事情</s>
+** 順帶一提太太Kaori在加州有和母親一同創辦的日料烹飪學校，在俄亥俄州當地與友人共同經營麻糬甜甜圈店鋪，還出過一本麻糬食譜集
+* 自身算是藝術世家出身：父親是油畫家，還有兩個分別是插畫/漫畫家和攝影師的妹妹Harmony和Gracie，其中Harmony曾在AvA4中出借觸控板給哥哥拍攝，Gracie則是包攬了AvA11裡的實寫鏡頭拍攝工作
+* 其實是表情<s>顏藝</s>十分豐富的類型，雖然作中只在AvA9裡出現過實例，但二創中經常會讓他和火柴人們打字交流時語尾帶上各種各樣的顏文字
 ** 在《VS編程》末尾他還真的搞了一分多鐘的顏文字小人動畫業配……<s>奇怪的形象代理又變多了</s>
 ** <s>另外作中幾乎沒什麼表現機會，但AVG的影片內可見能發出各種個人特色強烈的怪叫和怪笑聲，並且笑點真的很低</s>
+* 會演奏包括電音蝌蚪、口琴和吉他在內的多種樂器，還是深藏不露的霹靂舞達人<s>然而空心頭們沒一個遺傳到他的舞蹈功力<ref>因為TSC和vic似乎都不擅跳舞而出現的公認二設，<s>似乎有逆流為正式設定的可能性</s></ref></s>
 
 ==== {{color|#FF6600||Orange/The Second Coming（再臨者）}} ====
 * 簡稱「TSC/再臨」<s>要和兄弟們格式對齊叫Orange/小橙也沒問題</s>，四色平常都以Orange作為主要稱呼，<s>跟Green報他全名只會讓Green滿頭霧水地問TSC是誰</s>

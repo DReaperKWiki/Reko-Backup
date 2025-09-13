@@ -3,13 +3,13 @@
 |name   = Yugioh
 |title  = <big>''[[遊☆戯☆王|<span style="color:gold">遊☆戯☆王</span>]]''</big>
 |titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
-| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;color:white;
 |state      = expanded
 |group1 = 系列主線作品
 |list1=
 {{Navbox|child|
 |titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
-| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;color:white;
 |group1 = 東映製作
 |list1= [[遊☆戯☆王|遊☆戯☆王 (朝日版)]]
 |group2 = ぎゃろっぷ製作
@@ -27,7 +27,7 @@
 |list4= 
 {{Navbox|child|
 |titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
-| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;color:white;
 |group1 = DM
 |list1= [[武藤遊戲]]・[[海馬瀨人]]・[[城之內克也]]・[[貘良了]]・[[貝卡斯‧J‧克羅佛多]]・[[馬利克‧伊修達爾]]・[[達茲]]
 |group2 =GX
@@ -40,7 +40,7 @@
 |list5= 
 {{Navbox|child|
 |titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
-| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;color:white;
 |group1 =基準次元
 |list1= [[榊遊矢]]・[[柊柚子]]・[[赤馬零兒]]・[[權現坂昇]]・[[澤渡慎吾]]・[[志島北斗]]・[[光津真澄]]・[[刀堂刃]]・[[方中美惠留]]・[[赤馬零羅]]・[[月影 (遊戲王ARC-V)|月影]]
 |group2 =超量次元
@@ -58,7 +58,7 @@
 |list7 =
 {{Navbox|child|
 |titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
-| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;color:white;
 |group1 =葛瓦第7小學
 |list1=[[王道遊我]]・[[上城龍久|魯克]]・[[蒼月學人]]・[[霧島蘿敏]]
 |group2 =葛瓦第6小學
@@ -70,7 +70,7 @@
 |list8 =
 {{Navbox|child|
 |titlestyle  = background: #9932CC; text-align: center; vertical-align: middle;
-| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;
+| groupstyle = background: #9932CC; text-align: center; vertical-align: middle;color:white;
 |group1 = UTS
 |list1=[[遊帝亞斯・貝爾加]]・[[王道遊飛]]・[[王道遊歩]]
 |group2 = MIK
@@ -85,7 +85,7 @@
 |list6= [[遊☆戯☆王/系列傳統、慣例一覽|傳統、慣例一覽]]<s>・[[顏藝]]・[[背後靈]]・[[另一個我]]・[[8700萬青眼白龍拍賣事件]]</s>
 |group7 = 實體紙牌遊戲
 |list7= [[遊戲王集換紙牌遊戲]]・[[遊戲王超速決鬥]]
-|group8 = [[遊☆戯☆王/系列遊戯作品一覽|<span style="color:black">系列遊戯作品</span>]]
+|group8 = [[遊☆戯☆王/系列遊戯作品一覽|<span style="color:white">系列遊戯作品</span>]]
 |list8= [[遊戯王 Duel Links]]・[[遊戯王 Master Duel]]・[[遊戯王 Cross Duel]]
 }}
 <noinclude>[[分類:特定主題使用模板]]</noinclude>

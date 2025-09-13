@@ -1,0 +1,183 @@
+{{h0|Dokibird/Doki "Maple" Bird}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub row|本條目的內容不足需要擴充，歡迎各位有興趣的Dragoon加以補完。}}
+|}
+
+{{Infobox
+| bodystyle = width:300px;
+| image = 
+<tabber> 
+|-| 
+新造型 = [[檔案:Dokibird Bounty Hunter.png|300px]]
+|-| 
+舊造型 = [[檔案:Dokibird.png|200px]]
+|-| 
+??? = [[檔案:DokiTomato.png|300px]]
+</tabber>
+}}
+
+== 基本資料 ==
+* 人設：{{twitter|_klaeia|name=klaeia}} (舊造型)/ {{twitter|kamamesigogo123|name=釜飯轟々丸}} (新造型)
+* 繪文字：🏆
+* 生日：7月4日
+* 星座：巨蟹座
+* 粉絲稱呼：Dragoons<ref>[https://zh.wikipedia.org/wiki/%E9%BE%8D%E9%A8%8E%E5%85%B5 龍騎兵]，與前世{{censored|Selen Tatsuki}}相同。據Dokibird所稱因龍騎兵一詞不能被版權掉而選用</ref>
+** 於2024年復出前為Bark Knights
+** 復出後曾利用粉絲投票考慮變更為"Suspecks"或"Nesticles"
+* 主題標籤：
+** 一般: [https://twitter.com/hashtag/Dokibird #Dokibird]
+** Live: [https://twitter.com/hashtag/Birdseaters #Birdseaters]
+** Fanart: [https://twitter.com/hashtag/DokiGallery #DokiGallery]
+** {{censored|NSFW Fanart: [https://twitter.com/hashtag/Lewdtomato #Lewdtomato]}}
+** Cosplay: [https://twitter.com/hashtag/Dokigram #Dokigram]
+** 商品: [https://twitter.com/hashtag/Dokishrine #Dokishrine]
+** 縮圖: [https://twitter.com/hashtag/Propbird #Propbird]
+** 迷因: [https://twitter.com/hashtag/jkterjter #jkterjter]
+* 模型擔當：{{twitter|_klaeia|name=klaeia}} (舊造型)/ {{twitter|cillia|name=cillia}} (新造型)
+
+== 介紹 ==
+* 是一位在Youtube和Twitch活躍的個人勢VTuber。
+** 舊造型設定是怪盜，新造型設定改為賞金獵人<ref>據Doki所稱，舊造型偏向於自己的原創角色(OC)，而新造型更偏向符合自己現實的性格</ref>
+*** 舊造型的頸比較長，<s>[https://www.youtube.com/watch?v=TzTX04th4bM 而新造型更能讓自己的頸伸得更長]</s>
+*** <s>nope.avi</s>
+** 怪盜造型靈感來自[[VOCALOID]]歌曲[https://www.youtube.com/watch?v=pubQp65YUxE 怪盗ピーター&ジェニイ ft. 鏡音リン・レン]
+* 有一條寵物狗，名為D.A.D (Doki Amber Doge)。
+** 之前還有名為Bao Bao和Mei Mei的黑白寵物兔，[https://x.com/dokibird/status/1805469976582598683 現已退居幕後]
+* 華裔加拿大人，會講普通話和廣東話。
+* 大大咧咧的假小子，情緒起伏激烈，富幽默感，經常大笑的開心果。
+* 於由VTuber [[Filian]]舉辦的The VTuber Award中獲得2024年度的「Best FPS Vtuber」獎項，而其粉絲群體「Dragoons」則獲得「Most Dedicated Fanbase」獎項。
+
+== 人物特點 ==
+* 十分擅長FPS遊戲（Apex、守望先鋒）和繪畫。
+* 直播主要使用英語，也會講粵語但不會讀。
+
+=== 愛好 ===
+* 
+
+=== 人際關係 ===
+* [[Mint Fantôme]]
+** 圈內好友之一
+** 過去曾因為某些原因使兩人不方便聯絡，近期才恢復聯繫
+** 兩人合稱“Fantôme Thief”
+
+* [[Dooby]]、[[Nimi Nightmare]]
+** <s>加上樓上那位合稱{{ruby|GAY|Green And Yellow}} WOMEN</s>
+
+* [[Limealicious]]、[[Snuffy]]
+** <s>加上樓上上那位合稱The Sloppy Sisters</s>
+
+* [[rpr]]
+** 圈內好友之一
+
+* [[Nanashi Mumei|{{color|black||shachi（Shachimu）}}]]
+** 圈內好友之一，陪伴Doki度過最黑暗的日子
+
+* [[Regis Altare]]、[[Axel Syrios]]
+** 圈內好友<s>，一起被蛇咬的好哥們</s>
+
+== 相關梗 ==
+
+== 擔任Vtuber的主要事跡 ==
+=== 2017年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 11月9日
+| 首次於Twitch直播
+|-
+|}
+=== 2020年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 5月4日
+| 首次以VTuber形象開始活動
+|-
+! width="80px" | 10月11日
+| Twitch頻道訂閱數突破5千人。
+|-
+|}
+
+=== 2021年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 5月14日
+| 宣告畢業。
+|-
+|}
+
+=== 2024年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 2月5日
+| 宣布復出。
+|-
+! width="80px" | 2月6日
+| Youtube頻道訂閱數突破30萬人。
+|-
+! width="80px" | 2月6日
+| 復出後首次直播。
+|-
+! width="80px" | 2月8日
+| Youtube頻道訂閱數突破40萬人。
+|-
+! width="80px" | 2月9日
+| Youtube頻道通過收益化。
+|-
+! width="80px" | 2月13日
+| Youtube頻道訂閱數突破50萬人。
+|-
+! width="80px" | 2月18日
+| Youtube頻道訂閱數突破60萬人。
+|-
+! width="80px" | 5月7日
+| Youtube頻道訂閱數突破70萬人。
+|-
+! width="80px" | 5月26日
+| 舉行WrestleTuber 2024企劃。
+|-
+! width="80px" | 6月24日
+| 發布新造型。
+|-
+! width="80px" | 10月31日
+| 萬聖節直播。<s>變成了[[加菲貓|Dokifield]]</s>
+|-
+! width="80px" | 11月30日
+| 舉行Dokibird x Oversight Apex Custom企劃。
+|-
+! width="80px" | 12月13日
+| Youtube頻道訂閱數突破80萬人。
+|-
+! width="80px" | 12月15日
+| 與Mint Fantôme舉行Fantome Thief's Revenge 3D演唱會。
+|-
+|}
+=== 2025年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 6月20日
+| 發表新服裝
+|-
+! width="80px" | 7月4日
+| 發表新服裝
+|-
+<!---
+
+
+|-
+! width="80px" | 月日
+|
+--->
+|}
+
+== 相關條目 ==
+* '''[[Reko Wiki]]條目'''
+** [[虛擬Youtuber]]
+
+== 外部連結 ==
+* 影片頻道：[https://www.youtube.com/@Dokibird YouTube][https://www.twitch.tv/dokibird Twitch]
+* 社交媒體：{{twitter|dokibird|name=Twitter帳戶（dokibird）}}
+* wiki類連結：[https://dic.pixiv.net/a/Dokibird pixiv百科]、[https://zh.moegirl.org.cn/zh-hk/Dokibird 萌娘百科]、[https://virtualyoutuber.fandom.com/wiki/Dokibird Virtual YouTuber Wiki (英語)]
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references />
+[[Category:角色]]
+[[Category:虛擬YouTuber]]
+{{虛擬YouTuber}}
