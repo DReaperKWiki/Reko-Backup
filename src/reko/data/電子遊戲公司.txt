@@ -817,7 +817,7 @@ Obsidian Entertainment（黑曜石娛樂）
 |RCG
 |《極速快感》
 |
-|<s>冠上了EA之名當然就...</s>保時捷在電子遊戲內的肖像版權為EA獨佔並使用在NFS系列上直至合約到期。
+|<s>冠上了EA之名當然就...</s>保時捷在電子遊戲內的肖像版權為EA獨佔並使用在NFS系列上，直至2016年合約到期。<br><br>解散後部分團隊轉至育碧、Slightly Mad Studios等遊戲公司
 |-
 |[[PARADOX大戰略遊戲|Paradox Interactive]]
 |核心向歷史SLG的代表。
