@@ -49,13 +49,13 @@
 ===Animator vs. Animation/火柴人 VS 動畫師===
 * 通稱AvA，最初創作和最主要的系列，圍繞{{color|#8436e2||動畫師（Alan本人）}}和他{{color|#505050||筆}}{{color|#000000||下}}{{color|#FF0000||造}}{{color|#FF6600||物}}在電腦界面裡<s>打破[[第四面牆]]的家庭喧嘩</s>的衝突展開的連續劇
 ** 需要注意的是和衍生系列不同，'''第一個A代表的是{{ruby|Animator|動畫師}}而非{{ruby|Animation|火柴人}}'''
-** {{censored|<s>一個火柴人引發的血案、滑鼠游標先後和三個兒子父子喧嘩、Alan電腦受害史</s>}}
-** 從AvA4開始，{{censored|由於Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和拆Alan電腦界面的定番還是會有的</s>
+** {{censored|<s>一個火柴人引發的血案、滑鼠游標和前三個兒子間的父子喧嘩、互聯網歷史上最強家庭糾紛、Alan電腦受害史</s>}}
+** 從AvA4開始，{{censored|由於Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和爆破Alan電腦的定番還是會有的</s>
 * AvA5最初被分拆為EP1~4發佈，不過後來Alan重整系列，將整個AvA5四部曲定義為AvAS2，原本的AvA5 EP1~4隨之升格為AvA5~8
 ** 與之相應，AvA1~4被整體定義為S1，原定分為七部曲的AvA6則變成了S3
 * 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS2才開始有意識地佈置長線伏筆，[[吃書]]早期設定自然難免
 * 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本被打回去重寫了一遍</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
-** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來<s>但還是一路拖到了九月中下旬，{{censored|這群倒霉柴也又多等了大半年}}</s>
+** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴要在水裡泡至少半年}}</s>
 
 {{hideh|點擊展開}}
 {|width="100%" class="wikitable" 
@@ -86,11 +86,11 @@
 |-
 | 9 || Wanted<br>通緝 || 2023/4/29 || ''{{color|#000000||TCO}}有麻煩了。''<br>再度時隔三年<s>外加整整兩季AvM</s>的續作，開場就是全Blender製作場景、駕駛飛行載具的僱傭兵小隊街頭追逐被通緝的TCO的大場面<br>{{censored|結尾處僱傭兵小隊復命的對象是一隻灰色的空心頭，同時周圍展示著許多Flash 8的工具圖標，難不成……？}} || [https://www.youtube.com/watch?v=dzJvuswZ5ys youtube]<br>[https://www.bilibili.com/video/BV1dh4y1n7Sh bilibili]
 |-
-| 10 || The Box<br>盒子 || 2023/11/4 || ''在盒子中無所不能。''<br>{{censored|前回末尾現身的victim正式登場，然後一出來就是近乎一整集的<s>靠純科技吊打超能力者、看得同人女大呼刺激（無誤）的</s>對TCO暴力拷問<ref>{{censored|原定會比實際呈現的更加激烈和一邊倒，從事後流出的廢稿描述來看甚至會有TCO被吊頸的鏡頭，但等Alan關切時團隊已經做好了相對較為[[排毒]]版本的整段動畫，於是也就按著排毒版本做下去了（無誤）}}</ref>，要他吐出游標（Alan）的線索<br>最後也得知先前召喚游標的是Yellow，在四色剛潛入Rocket Corp.便慘遭逮捕的同時，慢條斯理地點燃印有游標形象的紙張……<s>讓觀眾們苦等之後發展等了一年多結果（見下）</s>}} || [https://www.youtube.com/watch?v=OPo5_EBO5JM youtube]<br>[https://www.bilibili.com/video/BV14e411X7HM bilibili]
+| 10 || The Box<br>盒子 || 2023/11/4 || ''在盒子中無所不能。''<br>{{censored|前回末尾現身的victim正式登場，然後一出來就是近乎一整集的<s>靠純科技吊打超能力者、看得同人女大呼刺激（無誤）的</s>對TCO暴力拷問<ref>{{censored|原定會比實際呈現的更加激烈和一邊倒，從事後流出的廢稿描述來看甚至會有TCO被吊頸的鏡頭，但等Alan關切時團隊已經做好了相對較為[[排毒]]版本的整段動畫，於是也就按著排毒版本做下去了（無誤）}}</ref>，要他吐出{{ruby|游標|Alan}}的線索<br>最後也得知先前召喚游標的正是Yellow，在四色剛潛入Rocket Corp.便慘遭逮捕的同時，慢條斯理地點燃印有游標形象的紙張……<s>讓觀眾們苦等之後發展等了一年多結果（見下）</s>}} || [https://www.youtube.com/watch?v=OPo5_EBO5JM youtube]<br>[https://www.bilibili.com/video/BV14e411X7HM bilibili]
 |-
 | 11 || Victim<br>受害者 || 2024/12/14 || ''作為一切開端的{{color|#505050||那個火柴人}}。''<br>{{censored|整集都是vic的回憶，看過之後只會想問Alan你吃錯什麼藥要這樣對待你家長子（劇情中和劇本外雙重含義），<s>雖然也有人在意的是「那TCO和TSC是不是還要再繼續被關一年」</s><br>場面極大的揭開了整個AvA/外聯網的世設一角<s>難怪製作週期長達兩年</s>，在背景中給出了Purple一家的起源和暗示覺醒TSC能力的真實面目<br><s>Alan發刀太狠，觀眾不是為vic的遭遇胃痛就是為自己的二創設定被狠狠背刺而哀嚎，完全無法料想按目前的情況，之後到底要怎麼給vic一個救贖或好結局</s>}} || [https://www.youtube.com/watch?v=2eHozBXlEpw youtube]<br>[https://www.bilibili.com/video/BV1XBBEYVEWx bilibili]
 |-
-| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到動畫師身邊的那個火柴人。''<br><s>這個標題配大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|TDL回歸，向復仇到空虛的前victim - HACKER自爆自己才是HACKER的殺妻仇人，並以可以復活Mitsi的前提拉攏他...}} || [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
+| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到{{color|#8436e2||動畫師}}面前的{{color|#505050||那個火柴人}}。''<br><s>這個標題配縮略圖中央大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|vic通過Yellow的記憶得到召喚游標的方式，以欺詐和脅迫的手段逼迫Alan為自己改名為「{{ruby|H4CK3R|駭客}}」並因此獲得<s>大號</s>超能力，隨後徑直飛往ALANSPC展開其復仇戰<br>雖然成功駭入Alan電腦大肆破壞並將其文件資料悉數刪除<s>還逼得Alan祭出對數字生命最終殺手锏·拔電源</s>，H4CK3R依舊無法達成真正意義上的復仇，正空虛迷茫時銷聲匿跡五年的TDL突然<s>打贏復活賽</s>出現，以「復活Mitsi」的誘惑向他提出合作……<br><s>本集最慘：被H4CK3R按著游標強制改名為「{{ruby|NO ONE|無名氏}}」後失去全部超能力不說還徑直掉進水裡、大概要到下一集才能爬上岸的TCO</s>}} || [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
 |}
 {{hidef}}
 
