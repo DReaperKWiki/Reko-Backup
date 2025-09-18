@@ -1871,12 +1871,12 @@
 * 残痕字
 ** 讀作ページ<s>←不合群其七</s>
 ** 用作「卡片戰鬥先導者Divine Z」第四季的輪替ED3
-===8th Single===
-
-
-===EP以外專輯曲===
+===静降想===
+* 静降想
 * エガクミライ
 ** 由太志(Aqua Timez)・大介(Aqua Timez)製作的創作者合作曲，有製作{{youtube|55QclsX-8dg|MV}}。
+===EP以外專輯曲===
+
 ====迷跡波<ref>讀作めいせきは</ref>====
 * 碧天伴走
 ** 讀作へきてんばんそう
@@ -1981,7 +1981,7 @@ TEENAGE RIOT
 ** 遊戲《PROGRESS ORDERS》OP
 * 碧い瞳の中に
 ** 手遊《[[明日方舟]]》合作曲
-** 有聯動方製作的[https://www.bilibili.com/video/BV13Ma2zjEMA/?p=2 MV]。
+** 有聯動方製作的{{bili|bv=BV13Ma2zjEMA|2=MV}}。
 ====Mini Album「Alea jacta est」====
 * 黒のバースデイ
 ** 有製作{{youtube|WIhtJ7eJ-oI|MV}}。
@@ -2074,14 +2074,14 @@ TEENAGE RIOT
 * 夢現妄想世界
 ** 有製作{{youtube|GB2MEvY2sQk|MV}}。
 ====プログレス サイン====
-* ?
-* ?
-* ?
+* アイの夢限
+* どんがらがっしゃん
+* みゅーたんとミュータント
 * チューニング
 ** 有製作{{youtube|rkpYy32ik7E|MV}}。
-* Calling
 * Dream Voyage
 ** 由fhána製作的創作者合作曲
+* Calling
 ===翻唱曲===
 * 熱風海陸ブシロード～熱き咆哮～
 ** 動畫《熱風海陸ブシロード》ED
