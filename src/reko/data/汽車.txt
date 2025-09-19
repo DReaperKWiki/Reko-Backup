@@ -1328,7 +1328,7 @@
 |-
 |style="text-align:center;"  colspan="2" |頭文字D Arcade Stage
 |AC
-|SEGA知名的同名漫畫改編賽車遊戲系列。主要為[[台灣街機|街機]]，亦有推出過家用機移植作。<br>目前最新作為《頭文字D The Arcade》，也是系列以來首次採用4人對戰+聯名合作的遊戲<ref>已合作對象計有《灣岸競速》、《東方Project》、《MF GHOST》等</ref>、同時該代為首次採用海外車款
+|SEGA知名的同名漫畫改編賽車遊戲系列。主要為[[台灣街機|街機]]，亦有推出過家用機移植作。<br>目前最新作為《頭文字D The Arcade》，也是系列以來首次採用4人對戰+聯名合作的遊戲<ref>已合作對象計有《灣岸競速》、《東方Project》、《MF GHOST》等</ref>、同時該代首次加入海外車款
 |-
 |style="text-align:center;"  colspan="2" |湾岸ミッドナイト
 |AC、PS2（無印、R）<br>PS3
@@ -1358,11 +1358,12 @@
 |-
 |style="text-align:center;"  colspan="2"|Flatout
 |PC、PS系列主機、Xbox系列主機
-|Bugbear製作的撞擊系賽車遊戲，跟《Burnout》不同的是可把車輛進一步完全撞成廢鐵，因此生存技巧很重要。<br>改由<s>荷蘭糞作生產機</s>Team6 Game Studios製作的3代由於太多問題導致人氣大跌，4代雖然交由Kylotonn製作，但因為平庸的質素加上前作劣評而無法挽回當年評價
+|Bugbear製作的撞擊系賽車遊戲，跟《Burnout》不同的是可把車輛進一步完全撞成廢鐵，因此生存技巧很重要。<br>改由<s>糞作生產機</s>Team6 Game Studios製作的3代由於太多問題<ref>AI蠢、BUG太多、形同虛無的要素，甚至近乎所有模式都是從自家推出在Wii的幾個賽車遊戲移植過來濫芋充數，毫無誠意可言</ref>導致人氣及銷量跌到谷底，4代雖然交由Kylotonn製作，但因為平庸的質素加上前作劣評而無法挽回當年評價
 |-
-|style="text-align:center;"  colspan="2" |Wreckfest
+|撞車嘉年華
+|Wreckfest
 |PC、PS系列主機、Xbox系列主機
-|同樣由Bugbear製作的撞擊系賽車遊戲，上者《Flatout》的精神續作
+|同樣由Bugbear製作的撞擊系賽車遊戲，上者《Flatout》的精神續作<br>2代更為了強調遊戲刺激性以及畫面而將物理引擎和特效大幅強化
 |-
 |[[俠盜獵車手]]
 |Grand Theft Auto
