@@ -1,6 +1,4 @@
 {{h0|布袋戲及影劇引用配樂一覽}}
-{{synchro|New Komica wiki (仮)|2024年12月13日 23:35}}
-
 {| class="wikitable" style="margin: 1.5em auto;" 
 |-
 | style = "text-align: center; "  |『三分前場、'''七分後場，無後場行無腳步'''』－戲曲業諺語
@@ -218,7 +216,7 @@
 |-
 |〈[[魔神英雄傳系列|魔神英雄傳]]3CDシネマ３摩天楼激闘篇〉||[https://youtu.be/rdJZwOWoFlA 旅][https://youtu.be/Z9EGu0A1xls?t=847 立ち]|| rowspan="2" | 《霹靂》✾[https://youtu.be/xeV9vLQ-rNQ 海殤君]||前奏、A段
 |-
-||斯理〈一盞灯〉 || [https://youtu.be/sV4yijP7ZDQ 古老的輪迴]||B段、副歌<br> 使用〈東土禪旅演奏海棠樂集－古老的輪迴〉 [https://youtu.be/HuwXVVt9z0k 曲源]
+||斯理〈一盞灯〉 || [https://youtu.be/sV4yijP7ZDQ 古老的輪迴]||B段、副歌<br> 使用〈東土禪旅演奏海棠樂集〉曲源<br>另有[https://youtu.be/74QnSzEb3_U 名將版]
 |-
 ||王惠然||〈[https://youtu.be/QfKD6Fcgdic 彝族舞曲]〉|| rowspan="2" | '93 邰正宵✾〈[https://youtu.be/HhxlPwBfmho 九百九十九朵玫瑰]〉<br>《天宇》✉[https://youtu.be/k-NSuCiVGYA 千少一] || B段+主體
 |-
@@ -1051,7 +1049,7 @@
 |-
 || (待查) ||《霹靂》✂素續緣元靈飛出葬屍江 || 
 |-
-|| '75 吉田正〈子連れ狼/<s>斬虎屠龍劍</s>帶子狼〉系列||橋幸夫〈[https://youtu.be/ibWccE_sEoI 子連れ狼]〉|| '95亞視〈殭屍道長〉✂[https://youtu.be/a6F1KfG6irk OP] || 使用'75 鄭少秋&珍珍佩佩☻〈[https://youtu.be/eIO-JCpHa8o 天涯孤客]〉音源<br>另有吉馬唱片〈[https://youtu.be/sOAuRVz6pDM 子連郎]〉、尹光〈[https://youtu.be/wxEOvRi5_RE 日日輸光]/[https://youtu.be/2e3S6VtqisY 日日風光]〉
+|| '75 吉田正〈子連れ狼/<s>斬虎屠龍劍</s>帶子狼〉系列||橋幸夫〈[https://youtu.be/ibWccE_sEoI 子連れ狼]〉|| '95 亞視〈殭屍道長〉☻鄭少秋+觀塘兒童合唱團 [https://youtu.be/JraeKuoKCpk OP]、☻[https://youtu.be/xCqWtQBHnzQ 巫奇版]<br>'80 中視〈孿生姊妹〉✎于櫻櫻[https://youtu.be/iMre5lNICY0 孿生姊妹] || 另有'75 鄭少秋&珍珍佩佩☻〈[https://youtu.be/eIO-JCpHa8o 天涯孤客]〉、[https://youtu.be/sqo3Homp0PU 現場版]<br>徐小鳳〈[https://youtu.be/5x_aNjsmvE4 月亮光光]〉<br>、尹光〈[https://youtu.be/wxEOvRi5_RE 日日輸光]/[https://youtu.be/2e3S6VtqisY 日日風光]〉<br>鄭錦昌〈[https://youtu.be/i4C8RcNL9BQ 王老五之戀]〉<br>黃西田〈[https://youtu.be/mUfII6oEVA4 父子流浪三千里]〉<br>[https://youtu.be/bTEJkM4VZ2c 柯建仲&柯艾莉版]、[https://youtu.be/mbQihF_-WMs 陳思安版]<br>江蕙〈[https://youtu.be/UeOmRN6UM0k 出外的媽媽]〉、<br>俞隆華〈[https://youtu.be/-RGqsyGVl9 父與子]〉、吉馬唱片〈[https://youtu.be/sOAuRVz6pDM 子連郎]〉、<br>高向鵬+方怡萍〈[https://www.nicovideo.jp/watch/sm32650216 我用一生等待你的愛]〉、<br>張蓉蓉〈[https://youtu.be/QYwlu-7QhnM 母子情深]〉、龍千玉〈[https://youtu.be/s2UHXNgmX5o 母子情]〉、<br>郭桂彬〈[https://youtu.be/zGxWeipEeuc 帶子郎]〉、<br>李亞萍〈[https://www.nicovideo.jp/watch/sm25199609 母子異鄉流浪]〉
 |-
 || 2000 Burkhard Dallwitz & Philip Glass <br>〈The Truman Show/楚門的世界〉 || [https://youtu.be/yTiVw3rFNhU Underground - Storm] ||《神魔》✂三教一家釋府 || 
 |-
@@ -1602,7 +1600,7 @@
 |-
 || '70 Beatles/披頭四 || 〈[https://youtu.be/oI8Aw0IGM1I Get Back]〉||《金光》[https://youtu.be/Gjdl_Irwl4Q&t=94 早期雜用武戲]<br>黃俊雄〈隋唐演義〉[https://youtu.be/Lr7PG4zW4SM&t=82 雜用武戲]|| Get Back [[JOJO]]~<br>使用[https://youtu.be/1g3OVkWUn5A 倫敦交響樂團演奏曲源]
 |-
-||'70 千秋直美 || 鈴木淳〈[https://youtu.be/wMsdGFEJ5qA 四つのお願い]〉 || 台視〈新西遊記〉☻邱蘭芬－[https://youtu.be/4tZQXbVJ6kg 愛有四項願望]<br>《霹靂》✎[https://youtu.be/XSUXNc3dcbY 玉界尺]||由於歌詞內的四つ有歧視之嫌<ref>四指/四足/四等…詳見『四つ (日本語の表現)』</ref>，因此在日本遭到禁播<br>另有[https://youtu.be/gbf_cbi5LWI 尤雅版]、[https://youtu.be/t6rxGG9pRKU 包娜娜版]、鄧麗君版〈[https://youtu.be/bK2sGXh2Znk 四個希望]〉、
+||'70 千秋直美 || 鈴木淳〈[https://youtu.be/wMsdGFEJ5qA 四つのお願い]〉 || 台視〈新西遊記〉☻邱蘭芬－[https://youtu.be/4tZQXbVJ6kg 愛有四項願望]<br>《霹靂》✎[https://youtu.be/XSUXNc3dcbY 玉界尺]||由於歌詞內的四つ有[[政治正確|歧視之嫌]]，因此在日本遭到禁播<br>另有[https://youtu.be/gbf_cbi5LWI 尤雅版]、[https://youtu.be/t6rxGG9pRKU 包娜娜版]、鄧麗君版〈[https://youtu.be/bK2sGXh2Znk 四個希望]〉
 |-
 || '71 葉啟田||呂金守〈[https://youtu.be/wm-dEeBwevk 斷魂嶺鐘聲淚]〉||《天宇》✂天皇落魄||
 |-
