@@ -96,7 +96,7 @@
 |本名強納森·雅利安·傑佛利（Jonathan Aryan Jafari），2003年於Newgrounds製作小動畫起家，2006年以本名Jafari為名投入YouTube<br>2010於ScrewAttack評論N64遊戲《007黃金眼》後打響名號，之後更是創了JonTronShow這個頻道來評論遊戲<br>曾經與上面的Egoraptor共同創辦遊戲實況頻道Game Grumps，但後來在2013年因為一些因素而卸下職位，由Dan Avidan接手其位置<br><s>'''本身也是迷因生產機'''</s><br><br>'''<big><big><big><center>WHAT!?</center></big></big></big>'''
 |-
 |Tomska
-|rowspan = "3"|2006
+|rowspan = "4"|2006
 |本名Thomas James Ridgewell，網路短片導演兼動畫師，著名動畫為《asdfmovie》<br>與Edd Gould等人是好友
 |-
 |Dane Boe
@@ -104,6 +104,9 @@
 |-
 |Lucas Cruikshank
 |最初主要以經過變聲處理的vlog系列：Fred Figglehorn打響名號，在該系列主演的Fred的年齡設定為6歲（電影版為15歲）<br>'''HEY, IT'S FREEEEED!'''<br>同時也是首個達到100萬訂閱的YouTuber，有推出過音樂專輯並且與上者的Annoying Orange合作過，甚至也找John Cena客串同台演出電影，本身也有數次客串其他電影以及電視劇的經驗<br>除此以外，以本名Lucas開設的YouTube頻道也有在經營，前期主要是在講一些生活瑣事（包括拍攝Fred系列的過程），後期變得多樣化：除了生活瑣事以外，也會回去看當年拍攝的影片（包括上述的vlog、客串以及電影片段）或是做挑戰等，目前重心也已在該頻道
+|-
+|[[Animator vs. Animation|Alan Becker]]
+|詳見條目
 |-
 | Luigikid Gaming || rowspan = "2"|2007|| 本名「René Pascal Rafael Wurz」，來自奧地利的玩家，最早以YTP影片為主，而後接觸了《[[音速小子系列|Sonic]][[ACG的都市傳說|.exe]]》之後開啟了.exe系恐怖同人遊戲的實況之路<br>偶而會玩一些非恐怖類的遊戲，甚至會定期舉辦「Luigikid Creepypasta Challenge」及「Luigikid's EXE Challenge」讓玩家投稿自製的恐怖同人遊戲
 |-

@@ -2333,7 +2333,7 @@ BowserJr.Alt7SSBU.png|150px |
 |}
 {{hidef}}
 
-=== [[異度神劍|異度神劍系列]] ===
+=== [[異域系列|異度神劍系列]] ===
 [[File:SSB_XenobladeIcon.png]]
 
 {{hideh|角色}}
