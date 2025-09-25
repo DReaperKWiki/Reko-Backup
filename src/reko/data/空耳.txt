@@ -1,0 +1,773 @@
+{{h0| 空耳/そらみみSoramimi/Homophonic_translation/[http://tvtropes.org/pmwiki/pmwiki.php/Main/Mondegreen Mondegreen] }}
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
+|本條目歡迎有幻聽的朋友加以補完
+|-
+|以下含有原曲崩壞的要素，不希望理想幻滅的請不要繼續看下去
+|}
+
+== 解說 ==
+*「空耳」是[[日本語]]「幻聽」的意思；'''明明沒語句卻聽得到或假裝有聽到'''的意思。另有'''聽歌時把歌詞聽解為其他意思'''的狀況。
+*一種二次創作方式，通常是將歌詞改寫成發音相似、但意義卻不同的版本。
+**只有樂器或合聲的單音變化也依照語言聽寫出歌詞。
+**外國語→本國語。
+**<s>咬字不清的</s>本國語二次改寫。
+
+*雖然改寫之後意義改變，但若是改寫後的詞句印象深刻，或能夠串連出劇情與故事，就是成功的空耳歌了。
+**若二次改寫加上字幕、甚至將改寫劇情製成[[MAD]]，在宣傳上更是如虎添翼，足以讓原作者（唱者）哭笑不得。
+**早期在音樂傳播上因為較難即時收看字幕，難免有將歌詞聽錯或記憶出錯的情況
+**隨著各大分享式影音平台興起後，成為另一種網友集體創作方式，隨各人的聽解方式不同，寫出的結果也不盡相同，甚至還能夠成為討論梗，喧賓奪主而超越原版歌詞與歌場者的關注度。
+
+*但須注意最重要的一點：空耳歌詞是'''用特定[[語言]]解讀歌詞的情境並欣賞，不是嘲笑別國語言與文化'''，不小心就會演變成[[廣域兵器|族群間的罵戰]]。
+
+== 著名空耳歌原語/改編台詞 ==
+=== 日文歌 ===
+{| class="wikitable" style="font-size:small;"
+!空耳!!原曲!!字幕語言!!備註
+|-
+|[http://www.nicovideo.jp/watch/sm689 VIP先生]
+|森のキノコにご用心||日語
+|經典空耳曲之一
+|-
+|強姦だ！布団の中で！<br>５＋５！簡単だ!<br>如來 ⊂二二二（　^ω^）二⊃ﾌﾞｰﾝ<br>たぁん あぁ～ん<br>{{sm|9980844|其他版本}}
+|解読不能
+|日語
+|主唱經常性的咬字不清，因此連日本人都受不了<br><s>而且他們的歌詞也是充滿[[電波]]，即使翻譯了大概都看不懂</s>
+|-
+|[http://www.nicovideo.jp/watch/sm157 きしめん]
+|True My Heart||rowspan="4"|日語
+|nico動畫中現存最古老的內嵌空耳字幕動畫，整首歌的歌詞被空耳成超級糟糕的內容；這首歌通稱「きしめん」（出自副歌「で、抱'''きしめ'''」和「優しい '''キスで'''」的空耳），雖然現在比較不是那麼有名，但當年可是nico動畫初代御三家之一
+|-
+|[http://www.nicovideo.jp/watch/sm1707990 あんこ入り☆パスタライス]
+|STAR RISE
+|有人把第一句歌詞聽成了「あんこ入り☆パスタライス（紅豆泥加入義大利麵白飯）」，甚至有人把這三樣食物放進攪拌機拍了 [http://www.nicovideo.jp/watch/sm1411014 動畫]，最神的是竟然還抓準節奏按照空耳歌詞「置いて☆切って☆生レモンC（放入切片生檸檬C）」進去
+|-
+|[http://www.nicovideo.jp/watch/sm9 ぷよぷよするな!]
+|レッツゴー!陰陽師
+|
+|-
+|[http://www.nicovideo.jp/watch/sm3252198 \田代！！！/]
+|片翼の天使
+|<s>全世界共通的空耳曲，不過歐美玩家的空耳不太一致</s><br>另外在電影《Advent Children（降臨神子）》中重製的新曲也有另一種 [http://www.nicovideo.jp/watch/sm1191555 稍微不同的空耳]
+|-
+|{{youtube|Wj76YgiwdmM|もすかう}}
+|Moskau||rowspan="3"|日語
+|FLASH時代的經典作品之一
+|-
+|[http://www.nicovideo.jp/watch/1310634995 先輩☆全裸♂HEY！！]
+|マジLOVE1000%
+|此曲一出即引起各國愛好者模仿其中六人舞步<br>著名空耳：「土器土器デコ割れそう　先輩☆全裸♂HEY！！」「ちっちゃいな☆翔」「今宵はオランダにて先輩☆全裸」，在鈴村健一與阪本真綾結婚時還出現了另一版本的空耳歌詞
+|-
+|[http://www.nicovideo.jp/watch/1310635138 WA☆SA☆BI]
+|オルフェ
+|宮野真守絕佳歌唱力表現，只是在ED加持下依然難逃空耳歌詞的命運<br>著名空耳：「WA☆SA☆BI」「水☆餃☆子」「じゃあ酢みりん？じゃあ酢飯？」
+|-
+|[http://www.nicovideo.jp/watch/sm18151768 新世紀的蘿莉控呢]
+|MIRACLE RUSH||rowspan="2"|台/日語
+|歌詞中的「奇跡に乗り込め」
+|-
+|[http://www.nicovideo.jp/watch/sm19954830 「TSU・BA・SA」空耳英詞]
+|TSU・BA・SA
+|充滿大量角色名、別名和用語的歌詞
+|-
+|[http://www.nicovideo.jp/watch/sm22659921 魔王你 今天又迷路]
+|New SPARK!!||rowspan="2"|台語
+|與上者同樣帶有大量捏他<s>，百合控暈倒</s>
+|-
+|{{youtube|2ARznt5gplc|阿姨洗鐵路}}
+|[[AQUARION|創聖のアクエリオン]]
+|就是歌詞「愛してる」
+|-
+|[https://www.nicovideo.jp/watch/sm1969033?ref=androidapp_other イカ出会いストーリー]
+|[https://youtu.be/C2T3CQu5KTA?si=k4uOjHhnnG5D1cXp gravitation]
+|日文
+|整首歌幾乎可以把所有的歌詞全部空耳成食物，例如「豬排飯（カツ丼）」、「把栗子放回去（栗返して）」、「小籠包」等等。配上影片裡面的圖片笑果更強。
+|-
+|<s>屎蛋砲</s>
+|{{sm|24500984|STAND Proud}}
+| rowspan="3"|國語
+|《[[JOJO]]的奇妙冒險》第三部動畫（2014年版）的OP1，在對岸觀眾耳中竟能聽出文藝質感的「數星的馳動一線煞白」「火燙的感情宛如光弧」「多奇妙，是難忘狂野旅程裡「無懼恐怖魔王」「瞳孔裡的焚烈」「闊步星河難阻」「捶爛宇宙、是膽魄」等，無一句不是詞景相合還切合原作漫畫典故<s>，令人錯愕是否原本是以中文為發想寫詞</s>
+|-
+|誰家的雞
+|聖者たち
+|每逢ED出現時畫面必定被此句洗版（？）
+|-
+|[[精一杯|誰100？]]
+|Star!!
+|<s>咖嘎壓苦！</s>
+|-
+|番茄水餃蛋
+|《音速小子》OP||rowspan="3"|國語
+|
+|-
+|[https://www.bilibili.com/video/av4920601/ <s>快來搞比利！ 快來搞比利！</s>]
+|Raise your flag
+|
+|-
+|[https://www.bilibili.com/video/av4275096/ 玩胖次]
+|[[一拳超人]]OP ～怒れる拳に火をつけろ～
+|<s>I wanna be a 摔♂跤 HERO！</s>
+|-
+|{{sm|9714351|燒酒螺}}
+|{{youtube|2EBydtRUgiw|ローリンガール}}
+|台版NICO空耳
+|本來是很哀傷的歌曲，但卻驚訝的令人會心一笑
+|-
+|美國佬！
+|[[ドキドキ！プリキュア|<s>ﾄﾞｩｷﾄﾞｩｷ!ﾌﾟﾃﾞｨｷｭｱ</s>Doki!Doki! 光之美少女!主題曲]]
+|國語<s>，オンドゥル語</s>
+|
+|-
+|{{sm|20896452|ココア☆ソーダ☆クエン酸}}
+|Shangri-La
+|日文
+|原文是「ここはそう楽園さ」，因為原唱團體angela的主唱atsuko的獨特腔調導致此空耳的產生
+|-
+|{{youtube|vXMEJDrvHpA|You Are 瞎}}||rowspan="2"|愛をとりもどせ!!
+|閩南語
+|把熱血的《北斗神拳》OP以閩南語空耳化成'''打麻將'''劇情，歌詞超瞎超噴飯。不過讓不少略通日文的台灣觀眾因此把該OP牢牢記住，算是意外的收穫
+|-
+|一碗蝦||rowspan="2"|國語
+|對岸則是沒那麼搞笑的「一碗蝦」
+|-
+|{{sm|6547162|角勇五郎兄さん}}
+|炉心融解
+|<s>事實上只要有よっぺい就會有空耳</s>，也有許多人表示聽了よっぺい翻唱版後聽原曲會有幻聽現象
+|-
+|[http://dic.nicovideo.jp/a/醤油の発注 醤油の発注]
+|守ってあげたい
+| rowspan="11"|日語
+|因為鄕民{{sm|1508259|惡搞魔鬼終結者}}（亂加[[雙重極限|KYM]]空耳和BGM）而成名
+|-
+|<s>広がる穴に<br>長めのチ〇ポ<br>流れる野糞<br>私の今日の陰部♡</s>(節録)
+|勇気の神様 
+|出處同上但空耳邪惡很多倍
+|-
+|超越★人力車
+|{{sm|3871569|奥姆真理教佈教動畫（慎點）}}
+|由'''邪教徒'''（真的）所製作的佈教動畫，幾乎整個動畫由歌曲到台詞都被nico民配上字幕恥笑<br><s>本人削除済み</s><ref>教主與幹部們已於2018年7月<s>神格化</s>執行死刑</ref>
+|-
+|海老ではないが愛深めた<br>海老なる日々はパンで決まり★(ry)<br>弄ってみな<br>穴のフィーリング
+|[http://www.nicovideo.jp/watch/sm13256898 Daisuke] 
+|同時片中的舞蹈也非常意味不明
+|-
+|内藤☆ファイヤー 
+|NIGHT OF FIRE
+|{{sm|9288528|在nico大概是因為被用來惡搞某個非常有名的説等男女主角3分鐘的惡役而知名}}
+|-
+|鍋とショーターイム<br>最高のシチューエイション<br>遺骸なんて見えない<br>だから江戸前だけを見つめて<br>月進むだけさ
+| rowspan="2"|crest of"z's"  
+|JAM<s>おじさん</s>project所演唱的SRW Z主題曲
+|-
+|蕎麦に黄身のパワｱｱｱｱｱｱｱｱｱｱｱｱ!!
+|原文為Somebody give me the power!
+|-
+|何もかも麻生太郎
+|儚くも永久のカナシ  
+|[[機動戰士鋼彈00|鋼彈00]]第二期主題曲
+|-
+|乳(*´Д｀)ﾊｱﾊｱ
+|あしたに生きろ バルディオス  
+|<s>同時這首歌也因為内容和故事結尾完全相反而成為一個梗</s>
+|-
+|\独身万歳/
+|宇宙の王者! ゴッドマーズ  
+|此外歌中的ﾎﾟｩﾝ音效也很受郷民愛戴（？）
+|-
+|俺は戦死
+|ダンバイン とぶ
+|<s>監督:黑富野</s>
+|-
+|一卡牧師妹
+|《[[侵略！イカ娘]]》OP||國語
+|有乙肝的熊，嗚~上海！，新娘x6，等
+|-
+|襲擊媽媽，鎖孔看她
+|BLOODY STREAM
+|國語
+|JOJO第二部OP，原歌詞為「静寂の底から」<s>，剛好對應二喬在鎖孔偷看{{censored|自己的母親}}莉莎莉莎洗澡</s>
+|-
+|{{youtube|Eilrua8NAsU|辣妹米斯達}}
+|ラブ・ドラマティック
+|國語+少量台語
+|《輝夜姬想讓人告白》的OP，原歌詞為「Oh, love me mister」，除了歌曲本身的毒性之外，正好同期動畫有JOJO第五部，兩者合而為一便誕生了「辣妹米斯達」的空耳<s>剛好捏到銀色戰車鎮魂曲的劇情</s><br>實際上不只辣妹米斯達，差不多每句歌詞空耳都可以找到一個對應的畫面……而某網友製作了整首OP空耳的[https://youtu.be/Eilrua8NAsU?si=dx9YubR0BXdehgxA 二創MV]。
+|-
+|拜天公 || rowspan=2|Fighting Gold || 台語 || rowspan=2|JOJO第五部OP1
+|-
+|法丁狗 || rowspan=4|國語 
+|-
+|幹死她 ||rowspan=3|裏切り者のレクイエム ||JOJO第五部OP2的歌詞開頭「{{ruby|反旗|ぜはんき}}を{{ruby|翻|ひるがえ}}すGANGSTAR」中的「GANGSTAR」，因為ハセガワダイスケ直接用英文發音來唱，所以聽起來變得很像「幹死她」。
+|-
+|我是羅大佑，看著我 ||「{{ruby|畏|おそ}}れという{{ruby|感情|かんじょう}}」を的空耳，畫面也剛好是布加拉提在電梯中用眼角餘光看觀眾。<br>羅大祐本人在第十二屆金音創作獎頒獎典禮上以頒獎嘉賓身分出場時{{youtube|Mf2iARoSX8Y|親自玩了這個梗}}
+|-
+|先自摸再去摸內褲 || {{ruby|絶望|ぜつぼう}}が{{ruby|手|て}}{{ruby|招|まね}}く 這段歌詞的空耳
+|-
+|夢幻大魔神ネーション/無限大魔神ネーション<br>るっかっぽーん（すたー）
+|キラリ☆彡[[スター☆トゥインクルプリキュア]]
+|日語
+|原歌詞分別為「ムゲンダイマジネーション{{ref|「無限大イマジネーション」的變體}}」和「{{ruby|Look|るっく}} {{ruby|upon|あぽん}} {{ruby|a|あ}} {{ruby|star|すたー}}」。
+|-
+|[https://www.bilibili.com/video/av246276/ 世界已完蛋]
+|《[[這いよれ！ニャル子さん]]》OP
+|rowspan="9"|國語
+|另外有「一起來摸假奶」「GAY佬～GAY佬～台灣的GAY佬」等，數量太多不能盡錄
+|-
+|[https://www.bilibili.com/video/av514920/ 快來搞死那激萌的蘿莉][https://www.bilibili.com/video/av529306/ （完全版）]
+|《這いよれ！ニャル子さんW》OP
+|另有「你是一個狗東西」「看夠沒 看我妹的就是你」，數量極多
+|-
+|喪女
+|《我不受歡迎怎麼想都是你們的錯》OP
+|啊！！！不能再瘦更多！！！
+|-
+|伯父在哪裡
+|《[[革命機VALVRAVE]]》ED
+|我已經有八輩子沒吃飽飯
+|-
+|拔牙歌
+|第三年的見異思遷
+|拔牙拔牙拔拔牙拔牙拔拔拔牙拔
+|-
+|<s>搞搞搞！搞搞搞！搞搞GAY搞！</s>
+|《勇者王我王凱牙》OP
+|粤語會聽成「膠街架」
+|-
+|三條皮帶
+|《灌籃高手》OP
+|前面還有四斤大豆
+|-
+|Shout out
+|《灼眼的夏娜Final》OP
+|把Shout Out空耳成夏娜
+|-
+|阿姨沒穿內衣
+|《機動戰士鋼彈ZZ》OP
+|阿姨沒穿內衣！我也沒穿內衣！統統都脫了撒！
+|-
+|擼到黑青
+|イこうぜ☆パラダイス
+|台語
+|《[[異種族風俗娘評鑑指南]]》的OP，原歌詞「抜こうぜ」本身就有「擼一發」的性暗示，某種意義上也算是神翻譯⋯⋯
+|-
+|山楂啊梨、櫻桃喔梨～通通拿來洗
+|{{youtube|XWwsHVXJKW8|姬神《千年の祈り》}}
+|中文
+|可能的唱詞：<b>かんなり～ああ～いのり(祈り)～ことだまし(言霊)～ことだまし(言霊)～かなしみを(悲しみ)～とけて(解けて)～かたる(語る)～いのらる(祈らる</b><br>其實是日本民謠風格的曲調，但因其使用樂器及音色帶有中亞及<b>絲路、敦煌、佛國</b>的意象而常被用於該類背景的'''中華唐風'''MV{{youtube|xFDjX_NebRM|二次創作}}。
+|-
+| [https://www.nicovideo.jp/watch/sm12374084 マヨラーーー]
+|| 魔法禁書目錄Ⅱ OP1 
+| rowspan=2|日語 
+|原歌詞為「迷え」<別迷惘>，但在川田真美獨特的唱法下空耳成「[https://twitter.com/mamikawada/status/29565074072?s=20 マヨラー]」<美乃滋愛好者>。此外歌名兼最後一句「NO buts」<沒有藉口>也在空耳下變成「ノーパン」<NO胖次>
+|-
+|ヤムチャもういい(飲茶還是算了吧)
+|WE GOTTA POWER
+|原文為ヤンチャ・ボーイ(頑皮男孩)<br><s>另外いっぱいおっぱい不是空耳</s>
+|-
+|{{youtube|P_GR5cUGPNw|有夠臭，+%Z%}}
+|ようこそジャパリパークへ
+| rowspan=4|中文
+|《[[動物朋友]]》的OP，原歌詞「ようこそジャパリパークへ」
+|-
+|印尼蝦
+|イニシャル
+|《[[BanG Dream!]]》的第三季OP，原歌詞為Initial<br>其他空耳歌詞還有「秀抖（{{ruby|衝動|しょうどう}}）」、「來接你（{{ruby|何故|なぜ}}に）」
+|-
+|邱媽媽
+|す、好きなんかじゃない！
+|《BanG Dream!》裡有咲的角色歌，原歌詞為「ちょまま」，邱媽媽也變成有咲的代名詞。
+|-
+|{{bili|bv=1aW411b7bC|2=以覺悟前行 我仍會追尋}}
+|Chase
+|JOJO第四部的OP2，原歌詞為「いつも Chase You 俺は Chase You」
+|-
+|搞基搞到沒了基友
+|棺姬嘉依卡OP
+|rowspan="4"|國語
+|
+|-
+|大藍[[內褲|胖次]]！大藍胖次！大老闆撕大藍胖次！
+|《[[記錄的地平線]]》OP
+|
+|-
+|幹死那個班長，金正恩的王威
+|《龍娘七七七埋藏的寶藏》OP
+|
+|-
+|\美國他媽算JB？垃圾，呵！/||rowspan="2"|《[[魔法科高中的劣等生]]》OP1
+|<s>抗中奇俠龍傲天</s><br><s>非常強大的一首歌，本年度最強空耳之一</s>
+|-
+|みかんでメッセージ<br>んほぉ<br>綴った「ペ」は何ジュンさん？<br>静かに騒ぎ出したホモォ<br>ある意味ネギトロ<br>(以下略)
+| rowspan="3"|日語
+|日英混合的歌詞與rap毫不意外變成NICO廚的遊樂場，差不多每一句都有一段空耳
+|-
+|
+| rowspan="2"|《極黑的布倫希爾德》OP2
+|看完{{youtube|4y_p5HV1OCo|這裡}}後才發現叫聲原來充滿趣味<br><s>☆艦これ☆</s><br><s>這首歌是有歌詞的，只是因為硬核咆吼的關係聽不出來；順帶一提歌詞是日式英文</s>
+|-
+|
+|喝高了有膽去SOLO！QQ熱舞<nowiki>~~~~</nowiki>YEAH！
+|-
+|
+|紅蓮的弓矢
+|rowspan="4"|國語
+|誰上誰死的BILIBILI啊！哈哈哈哈，哈哈哈哈，哈哈哈哈，德瑪西亞！
+|-
+|
+|自由之翼
+|[[成句/你在大聲什麼啦！|我們是專業修理發動機！]][[身高/一米六|兵長永遠長不高！]][[鐵拳無敵孫中山|我們中華人民挺神奇！]]天天不洗澡！
+|-
+|渣渣渣
+|《無敵超人<s>慘</s>贊波特3》OP
+|渣渣渣！渣渣渣！渣渣渣！渣渣渣！渣渣渣！<br>蛋爆碎！蛋爆碎！蛋爆碎！蛋爆碎！\狗！/<br><s>日語絶對會空耳成慘慘慘</s>
+|-
+|蛋蛋碎
+|《無敵巨人泰坦3》OP
+|\胖次碎！/\蛋蛋碎！/
+|-
+|賣精狗
+|《魔神Z》OP
+|國語+少量粵語
+|傻啊你，SB也擼？苦了幹你，我死咯！速趴～蘿蔔頭，賣精的柒頭！<br>脫吧射！鐵根，裸GAY的胖次！你媽的！打死他！杜蕾斯飛呀！
+|-
+|三百萬GAY/你們是GAY
+|《[[未來日記]]》OP
+|rowspan="3"|國語
+|你爸說你的媽媽木有JJ~基裸死JJ's happy day！
+|-
+|[[好男人|亞拉那一卡]]
+|《偶像宣言》OP2
+|[[OGC|擼炮]]！擼炮！擼炮！擼炮！
+|-
+|阿姨說
+|地球防衛少年OP
+|
+|-
+|届けて [[優木雪菜|せつ菜]]さには
+|Snow halation
+|rowspan="2"|日文
+|<s>預言未來的[[:file:步夢10.JPG|名場面]]</s>
+|-
+|優木を抱いて
+|Awakening Promise
+|<s>歩夢你自己也抱了雪菜嗎?</s>
+|-
+|{{youtube|xYeHF67RFZc|爸爸比你好}}
+|Break the Chain||rowspan="2"|國語
+|人如歌名，不但[[爸爸比你好]]，而且歌詞很腐
+|-
+|[[賣雞的小攤]]
+|Life is SHOW TIME
+|小雞攤販因生活淒慘而絕望變成了Phantom（大誤）
+|-
+|[[有誰懂？切水果！]]
+|JUST LIVE MORE||rowspan="4"|日語
+|\女性の/ \JUST陰毛/
+|-
+|[http://www.nicovideo.jp/watch/sm1050729 恋スルＶＯＣ＠ＬＯＩＤ]
+|恋スルVOC@LOID
+|本身不是空耳歌曲，但後半的歌詞「I love you I love you forever. So give me your love to love me forever…x3」有不少人聽成「I love you 歌が聞こえた。そう、君のハートが聞こえた。I love you また聞こえた。そう、君のハートが聞こえた。I love you の掛け声は。そう、君のハートっ！　ラ・ララ♪」，被稱為 [http://dic.nicovideo.jp/a/奇跡の空耳 奇跡の空耳]
+|-
+|[http://www.nicovideo.jp/watch/sm276188 高らかにオナニー]
+|AfterDark (master club mix)
+|[[ニコニコ動画]]流星群收錄曲之一，'''歌詞真的在唱[[OGC]]所以其實不是空耳'''
+|-
+|[http://www.nicovideo.jp/watch/sm460 捕鯨柔和論]
+|ENDLESS RAIN
+|ニコニコ上的經典空耳曲之一，聽完的人[[高達八成]]會腹筋崩壞
+|-
+|[http://tw.nicovideo.jp/watch/sm12767708 おおきく掘りかぶってOP]
+|ドラマチック||rowspan="2"|國語
+|強大的空耳包括：「A boy meets a gay」「雞雞都沒啦都說我沒拿，大變態，都玩毛one nightt」
+|-
+|{{youtube|CaoLTpinWTQ|扁珍洗錢案}}
+|ウィーアー!
+|由一位高中生改編，「活該都推輪椅」一句最為GJ
+|-
+|[http://www.nicovideo.jp/watch/sm7755307 咲-saki-新OP [bloooomin'」空耳英詞ver.]
+|bloooomin'
+|日語
+|由於歌詞使用大量的漢字和生硬的詞語導致歌曲聽起來有一點微妙，即使你日文聽力再好也聽不懂在唱什麼<s>，被空耳其實不意外</s>。
+|-
+|[http://www.nicovideo.jp/watch/sm183036 便當歌]
+|つるぺったん||國語
+|台灣版nico最有名的空耳歌之一，由於歌詞是版友留言創作，所以沒有一定的翻譯，但幾乎都跟食物有關…
+|-
+|[http://www.nicovideo.jp/watch/sm13377388 我一直拉鼻涕]
+|{{youtube|tU1dTeeA_y8|オリジナリティ}}||rowspan="2"|國語
+|台版NICO空耳，也很呼應後面那句「鼻孔流牛奶(鼻からミルク)」
+|-
+|母雞又偷鮮奶
+|鋼彈ＯＯ OP1
+|末句歌詞，在Ｂ站常出現「到底要偷幾次」的彈幕
+|-
+|[http://www.nicovideo.jp/watch/sm282721 WILD DRIVE]
+|WILD DRIVE{{ref|空耳版本與原曲名稱一樣，但全首歌曲的歌詞已經面目全非}}
+|日語
+|全首歌曲都充滿空耳台詞以及小ネタ，而且空耳歌詞的版本有好幾種：<br>[http://www.nicovideo.jp/watch/sm282721 TV Size版]、[http://www.nicovideo.jp/watch/sm2332869 井上AGO版]，Full版 [http://www.nicovideo.jp/watch/nm6262250 （1）][http://www.nicovideo.jp/watch/sm978847 （2）]，<s>非常過分但</s>總會讓一眾日本觀眾腹筋崩壞<br>在ニコニコ動画上只要有這歌曲出現，畫面多半都會全是空耳歌詞
+|-
+|[http://www.nicovideo.jp/watch/nm8552680 わらび草]
+|wanna be strong||rowspan="3"|日語<s>，[[オンドゥル語]]</s>||rowspan="3"|[[オンドゥル語|オンドゥル星人們的滑舌表演]]
+|-
+|[http://www.nicovideo.jp/watch/sm5979602 辛味噌]
+|rebirth
+|-
+|[http://www.nicovideo.jp/watch/sm4385643 敵裸体]
+|take it a try
+|-
+|[[成句/真是的，小學生真是太棒了！！/まったく、小学生は最高だぜ!!|ロリ！ロリ！ロリ！小学生は最高だぜ!!]]
+|{{youtube|3DNdcGTOfmM|Rolling! Rolling!}}
+|日語
+|原文為「Rolling! Rolling!Growing!Show you guts cool say what 最高だぜっ」，但也有 [http://wiki.komica.org/pix/img12139.jpg 字幕組因此出錯]
+|-
+|[https://www.bilibili.com/video/av1116553/ bili~bili~]
+|Believe × Believe
+|國語？英語？
+|<s>被譽為B站站歌</s><br>還有無法正視的奇葩舞蹈<s>得罪編舞下場</s>
+|-
+|勇敢な戦士が
+|[[ウルトラマンデッカー|wake up decker!]]
+|日語
+|原文為You can now send! Sing out!
+|}
+
+=== 其他語言歌曲 ===
+
+{| class="wikitable" style="font-size:small;"
+!空耳!!原曲!!字幕語言!!備註
+|-
+| rowspan="2"|[http://www.nicovideo.jp/watch/sm2030 Ievan Polkka]
+|[http://www.nicovideo.jp/watch/sm18324 Ievan Polkka]
+|日語
+|參見[[蔥]]
+|-
+|{{youtube|kyoOMR0GrAw|摔書歌}}||rowspan="2"|國語
+|獻給所有花了99元購買[[台灣漫畫月刊]]的烈士先賢
+|-
+|[[成句/督嚕督嚕賭嚕督嚕督嚕賭嚕督嚕督嚕督大大大|督嚕督嚕賭嚕督嚕督嚕賭嚕督嚕督嚕督大大大]]||rowspan="2"|{{youtube|vTIIMJ9tUc8|Tunak Tunak Tun}}(旁遮普語：ਤੁਨਕ ਤੁਨਕ ਤੁਨ)
+|參見條目，原影片因為{{DoubleStrike||萬惡的}}著作權關係目前已被刪除，不過還是可以在網站上找到備份影片。
+|-
+|{{youtube|j8fd80cKGoM|阿霞擠個奶}}
+|閩南語、國語
+|MV唱到主旋律都會出現雙手抓捏的動作，而且方向朝向兩側，表示至少抓兩個人
+|-
+|{{youtube|6POMkyV4hvU|印度傳奇之歌舞昇平}}
+|{{youtube|U_0HSjUpciQ|Kalluri Vaanil}}]||rowspan="3"|國語
+|印度歌空耳的另一殿堂級作品，從低能髒話到主機廚戰況都能扯上
+|-
+|{{youtube|qMztUauzJFM&t|印度麥可幹你媽}}
+|Golimar(泰盧固語：గోలీమార్)
+|因為該影片學麥可歌曲Thriller的MV故在英文有「Indian Thriller」的別稱，而泰盧固語的發射子彈「గోలీమార్」聽起來很像「幹你媽的」，不只是有空耳，連引用的[[三國無雙]]與[[戰國無雙]]劇情都相當點題
+|-
+|{{youtube|XbugEUkaFnc|印度麥可油內褲}}
+|Yureka (Navvindi Malle Chendu)
+|
+|-
+|{{youtube|RJ0qpac9rac|泰文版流星雨}}
+|{{youtube|ocTdA8NytIc|台灣版F4流星雨}}||rowspan="6"|粵語
+|<s>不用空耳都已經覺得泰國人是故意找四個醜男來嘲笑偶像團體F4，加上空耳只是順便而已</s>
+|-
+|{{youtube|-1sGIo2K1Hk|泰國假面騎士/假面騎士眾}}
+|《假面騎士X》OP（泰語版）
+|\Shut up~Shut up~Shut up~~!!/<br>\漏奶～咩撚<ref>粵語髒話</ref>關係～我批要批你個波～/
+|-
+|{{youtube|UT3NU-mJjl|泰文科學戰隊}}
+|《科學戰隊炸藥人》OP（泰語版）
+|問:DIE喇咩?<br>答:DIE喇!
+|-
+|{{youtube|8iYXXjURoks|泰文黃金戰士}}
+|《黃金戰士》OP（泰語版）
+|Summer Kan 電～Summer Kan 電～咪佢CLICK CLICK仆低～
+|-
+|{{youtube|EF9pDVcsaqk|機動戰士0083（韓版）}}
+|[[韓國起源|韓國原創]]版《[[機動戰士鋼彈0083：星塵回憶]]》OP
+|\自動裝晒CONDOM~/
+|-
+|[https://www.google.com.tw/url?sa=t&source=web&rct=j&url=%23&ved=0ahUKEwiuyczZjrzTAhXDEbwKHTd8A4YQxa8BCB4wAw&usg=AFQjCNF1sHlk2z9QIx28jtvfnGP_UlkifA&sig2=53fY5U0kndliZy2Tmf5s6g 版本1]<br>[https://www.google.com.tw/url?sa=t&source=web&rct=j&url=%23&ved=0ahUKEwiuyczZjrzTAhXDEbwKHTd8A4YQxa8BCCowCQ&usg=AFQjCNF1sHlk2z9QIx28jtvfnGP_UlkifA&sig2=53fY5U0kndliZy2Tmf5s6g 版本2]
+|《假面騎士555》OP（泰語版）
+|\棍裡舊鐵~葉問搬嚟澎湃~斬釘米~/
+|-
+|[http://www.albinoblacksheep.com/flash/maiyahi Mayashi]<br>麥阿喜
+|[[WikiPedia:zh:Dragostea din tei|Dragostea Din Tei]]—菩提樹下之愛||rowspan="3"|國語
+|這首是最有名的空耳歌之一，{{youtube|-19ji9_e0aM|空耳台灣版居然還出了專輯}}，但相信島上很多人第一次聽到這首歌是來自 [http://blog.goo.ne.jp/alpha623/e/45cb02dec4826c92fadc823767b60d4b/ 這裡]，{{youtube|zYhmS6SJ-BA|經典戰國影音重現}}
+|-
+|{{youtube|v=Y-oalJxAdOs|騎李湘}}
+|{{youtube|y25Eb0qcbbc|七里香}}||rowspan="2"|其實不只這首，周董滿多歌都被[[糟糕]]化，只不過這首最有名<s>，只差在歌詞嘛w</s>
+|-
+|{{youtube|HYjJ5eXymZc|一發入穴}}
+|髮如雪
+|-
+|[[成句/哥哥你好英俊|哥哥你好英俊]]
+|[http://www.nicovideo.jp/watch/1207207700 布蘭詩歌]
+|日語、國語
+|
+|-
+|[[WikiPedia:zh:焦糖舞|ｳｯｰｳｯｰｳﾏｳﾏ(ﾟ∀ﾟ)]]
+|Caramelldansen||rowspan="3"|日語
+|中文翻譯為焦糖舞
+|-
+|[http://www.nicovideo.jp/watch/sm3913273 アッーウッウッイネイネ（0ﾟ・∀・）]
+|Under My Skin
+|
+|-
+|{{youtube|rP5mzqgUiaA|ぷんちきぱやっぱーヾ(ﾟ∀ﾟ)ﾉ♪}}
+|Carinho
+|
+|-
+|{{youtube|y6PHJQfOpTU|大刀進行曲}} || rowspan="6"|國語
+|Realize
+|[http://bbs.cz100.net/forum.php?mod=viewthread&tid=43296&extra=page%3D1 大刀連著割，爸瀟灑愛慕，我干啦那癮，刀刀割都心無忌憚]
+|-
+|{{youtube|sEKTCDoEs3Q|千年的女鬼}}
+|千年等一回
+|失身在河邊~說~愛我用虎鞭~只為這一菊~啊哈~灌腸業務員~
+|-
+|{{youtube|r9WRPx2lt-Q|手裡那根芭蕉}}
+|Sorry,Sorry||rowspan="3"|韓國某團體的MV，第一項更是由本島先傳出去的
+|-
+|{{youtube|FgnPif0g2xo|諾拉摳}}||rowspan="2"|It`s You
+|-
+|{{youtube|2GsIjCpld9U|狗拉狗}}
+|-
+|{{youtube|8H08ykJAVu4|NOBODY基情四射版--弄爆你的菊}}
+|Nobody
+|原句「NOBODY NOBODY BUT YOU」變成「弄爆你弄爆你的菊」
+|-
+|{{youtube|HHC7JPhBPBQ|台科兄弟}}、{{youtube|rQL7uGdkUDk|另版1}}<br>{{youtube|brl7Zf1FGpc|另版2}}
+|TACABRO－{{youtube|UwhzKuFzvwY|Tacatà}}
+|國、英、日語<s>+西班牙語</s>
+|Tacatà的發音太像頂尖學府「[[三神器|國立<b>台灣科技大學</b>]]」[https://disp.cc/b/Gossiping/3vSN 空耳後]彷彿留學生寫的校歌：<br>主旋律是「<b>他的媽媽希望Goto台科大、他的媽媽喜歡台科大</b>」，說唱句有「<b>越升越大台科大</b>」、<br>「任誰都會想的台科大」「莫多慮Download台科大（簡章）」「所有的入門台科大」<br>「I Say That 台科大可做五大的媽咪」等鼓吹語句，<br>即使沒有空耳<s>或罐頭文<b>天大地大台科大</b></s>，因為科技業熱潮與高學歷高薪期望，<br>台科大早已吸引高中職生報考使錄取分數長年位居頂標，大咖也沒有辦法得名（跪）
+|-
+|{{youtube|uDgtVEVkwVM|我/偶把肛內塞/我爸剛弄死他}}<br>[http://www.nicovideo.jp/watch/sm18629159 おっぱいガンダムスタイル]<br>★黒早苗★
+|강남스타일/江南style
+|國語、日語<s>、英語</s>
+|由“오빤 강남스타일(oppan Gangnam Style)”空耳而成
+|-
+|我們不穿拖鞋<br>我們還是心裡面~那個騙吃的少年
+|{{youtube|UHBqEn93NlI|少年/光良&曹格}}||rowspan="11"|國語
+|
+|-
+|{{youtube|AWg9tIKBpLI|金囧日偷雞}}
+|당신이 없으면 조국도 없다/沒有你就沒有祖國||rowspan="11"|惡搞北韓軍歌影片系列，音樂為北韓歌頌金正日的軍歌，但空耳歌詞極為惡毒
+|-
+|金囧日痛經
+|우리의 김정일동지/我們的金正日同志
+|-
+|金囧日長棍
+|金正日將軍之歌
+|-
+|金囧日看你哪裡跑
+|최고사령관기 날리며 승리를 떨치리/揚起最高司令官旗顯耀勝利
+|-
+|宇宙無敵金囧日
+|선거의 노래/選舉之歌
+|-
+|J8永動機
+|除了你我誰都不認
+|-
+|我們手銀也要在一起
+|將軍是勝利的旗幟
+|-
+|三個鴨蛋要X你們
+|선군혁명 총진군 앞으로/先軍革命總進軍向前行
+|-
+|{{youtube|0gmyXWWI30g|太淫蕩}}
+|더 좋은 래일로/奔向更美好的明天
+|-
+|{{youtube|5bKG0nziJvA|不洗澡}}
+|조선인민군가/朝鮮人民軍歌
+|-
+|金囧日偷姥姥
+|영접들어 총/舉槍致敬
+|國+日語
+|-
+|{{youtube|ldzh6QB2Z5w|海波乳}}
+|발걸음/腳步聲||國語
+|北韓歌頌新一代領導金正恩的軍歌。<br>代表性空耳歌詞：「衝衝衝 衝衝 海波乳」「你我練習爽含支鳥」「啊～今天的海波乳 啊~難得﻿ 爽 爽爽爽」「裸體不用我的啦」
+|-
+|馬勒戈壁~扁你個無照商人~
+|比利時一首有關撒尿小童的民歌
+|國語
+|人稱城管之歌
+|-
+|要弄歪、要酸奶、胃痛啊、嗚～～～啊啊啊啊
+|{{youtube|3rqI68Z6vJY|Merry christmas Mr Lawrence}}
+|rowspan="4"|國語
+|原本是[[批踢踢]]某位鄉民用聽到的空耳詢問曲名，沒想到立刻就有[[神人]][https://www.ptt.cc/bbs/joke/M.1381245531.A.49B.html 給出正解]
+|-
+|{{youtube|OfDkMyqvtjo|到南部弄假牙~~好擠阿~~}}
+|{{youtube|LyMjaZE0GE8|壞女人/FT Island}}
+|[https://disp.cc/b/115-6Lyd 同上]
+|-
+| rowspan="2"|手機之歌
+|Credens Justitiam
+|手機落哪裡~他哪裡電話費讓我打沒費啊~
+|-
+|sis puella magica
+|S~B啊手機啊，還~有那BT啊，手機讓你偷拿走啦
+|-
+|永、不後、退！
+|{{youtube|eVVXNDv8rY0|龍裔Dragonborn}}
+|rowspan="5"|國語
+|[https://www.bilibili.com/video/av176619/ 新國歌(誤)]<br>原曲起源自系列第三部{{youtube|I2qDap4hnmk|Morrowind主題曲}}，號稱中文界最燃最逆天空耳，並被對岸玩家譽為'''新版國歌'''<br>
+{{hideh|空耳歌詞註解}}
+'''永、不後、退！永、不後、退！永、不後、退！（連呼）'''<br>帕拉丁（大龍裔）、帕拉丁、讓他血魂灑地<br>何謂（不畏、無謂）難、何謂苦、拋向大海百川<br>拿起弓、拿起杖、我們雄心挑戰（高漲、河山）<br>帕拉丁、帕拉丁、我們感恩未來！<br>間奏<br>唯夙望盡東南西北一壺酒過(唯勝敗領功 爾已為敵付出何懼)<br>把宿命的厄運放下<br>天不怕、地不怕、信仰在<br>我們必須鼓眾（摩肩隨踵）、跨越阻礙、站起來'''<br>（間奏）<br>'''不認輸、變成龍、讓民主、照中國<br>何苦難，望蒼天，唱熱歌<br>站在蒼天中，心澎湃（星魂白），踏破宇宙！<br><br>帕拉丁（大龍裔）、帕拉丁、讓他血魂灑地<br>何謂（不畏、無謂）難、何謂苦、拋向大海百川<br>拿起弓、拿起杖、我們雄心挑戰（高漲、河山）<br>帕拉丁、帕拉丁、我們感恩未來！<br>殺（戰）、殺、殺、喝呀！殺（戰）、殺、殺、喝呀！
+{{hidef|}}
+<s>—字句間皆傳達出奔放縱橫的豪情，甚至還有革命性愛國歌詞，令聽者皆以龍裔－龍的傳人為傲</s>
+|-
+|
+|Never Say Never
+|貼題度400%的空耳，分別有兩個版本：[http://tieba.baidu.com/p/2585833291 影片直接抄下的（簡體字注意）] 和 [https://www.bilibili.com/video/av751993/ 變成了字幕的]
+|-
+|{{youtube|GTsydHPAiFM|GOGOGO國民黨}}
+|{{youtube|RpUzvZEGN6w|Go Go Govinda}}||rowspan="2"|<s>有機會成為KMT廣告歌</s>
+|-
+|馬英chew
+|{{youtube|KCVh7OcoutU|앤씨아 - 마이쮸}}
+|-
+|魚～好大的魚～虎紋鯊魚～
+|This game
+|
+|-
+|給你最愉快的燒鵝
+|年度之歌
+| rowspan="2"|粵語
+|原文為「給你最愉快的消磨」，結果不少人聽到的卻是這個<s>搞笑</s>版本（無誤）
+|-
+|昏睡百年，國人漸已'''死'''
+|葉振棠{{youtube|Uv6-eYc486E|萬里長城永不倒}}/大俠霍元甲
+|原文為「國人漸已'''醒'''」，因為[[成句/仆你個街，亞視嚟嘅喂！|香港垃圾電視台亞視]]拿去當台歌而被惡搞成「昏睡百年亞視漸已死」<s>，[http://evchk.wikia.com/wiki/亞洲電視#.E7.B5.82.E6.96.BC.E5.81.9C.E6.92.AD 結果真的死了]</s><br>2019年末中國多省爆發[[危險生化技術|武漢肺炎]]疫情，2020年竟然不顧事態嚴重仍然舉辦春節聯播晚會，更由<s>房事龍</s>[[成句/Jackey的鼻子有幾個？|成龍]]{{youtube|bgJ3oU8kC2c|獻唱此曲}}，其中的一句<b>問我國家哪像染病？</b>，<b>加上喪事喜辦的祈福朗誦{{youtube|1ZdIGzOXxwU|場面}}</b>，深刻反諷了[[支那|強國]]粉飾太平而罔顧人民性命，令此曲惹上更多罵名<br>香港網絡也出現過諷刺三聚氰胺奶粉事件<s>[https://evchk.wikia.org/zh/wiki/東亞病夫：萬里長城滿虧佬 萬里長城滿虧佬]</s>與這次肺炎事件的<s>幸災樂禍</s>改詞版本<ref>若撇除此次逢疫造成的反面聲浪，身為首部引進大陸市場的港劇主題曲，本曲其實是歷年央視春晚聯播的常客，前數年的演唱片段記錄也從未引起如此反彈</ref>
+|-
+|牙套妹，奈何美色
+|《{{youtube|KB-_UcfZZSc|Thêm Một Lần Đau/HKT}}》
+|國語
+|由越南樂隊HKT翻唱自中國歌手六哲及陳娟兒合唱的《{{youtube|_Ay8m24gf64|錯錯錯}}》，但因為HKT的MV裡的殺馬特造型實在太過衝擊，從此本曲在中國一度成為了殺馬特的主題BGM，甚至HKT翻唱的版本比原曲還要火
+|-
+|如果早知道會這樣痛股，<br>我絕對不會讓你杰進我
+|《[[杰哥|如果早知道，男生也會被性侵]]》主題曲
+|國語
+|
+|-
+|[https://x.com/LPN510/status/997923335185944576 this is tuna with bacon]
+|This is true Love Makin'
+|英語
+|CAPCOM VS SNK2 倫敦舞台的BGM<s>聽了感覺好餓</s><br>《Skullgirls》有玩過這個空耳梗
+|-
+|{{youtube|t-l9MUgsZV8|This is my kingdom cum}}
+|《{{youtube|mWRsgZuwf_8|Demons}}》
+|英文
+|明明是反思意味深的歌曲，聽到部分歌詞的空耳就回不去了
+|-
+|[https://www.youtube.com/watch?v=OJbhEFNvTEQ&ab 摳屄~摳屄~摳屄~找人摳屄~ ]
+|《[https://www.youtube.com/watch?v=2qtocIntAmc&ab สาวดอยคอยปี้ : กระแต/Rsiam]》
+|國語
+|泰國女歌手Rsiam的MV，歌名原文為「崩潰」，內容是原本很醜的女主角趁男友出遠門時將自己改頭換面變成美女，讓男友大吃一驚
+|-
+|{{bili|bv=1b34y1U7Yc|2=來個辣炒米粉}}
+|《MONSTER GIRLS》
+|國語
+|原台詞:「Like a Electronic flash」
+|-
+|潤餅~潤餅~蒜味潤餅~潤餅
+|rowspan="2"|《The Rumbling》（進擊的巨人 最終季下半部OP）
+|rowspan="2"|國語
+|rowspan="2"|原台詞:「If I lose it all,slip and fall」<br>開頭的Rumbling（地鳴）則被空耳成潤餅，成為本曲在部分島民間的的代稱。
+|-
+|一份滷雞肉，四人平分
+|-
+|我站在雲林
+|《Có chàng trai viết lên cây》（有個男孩在樹上刻字）
+|國語
+|越南歌手潘孟瓊的名曲，tramom製作的混音版更在抖音大紅，可能因此出現相關空耳
+|-
+|鬧太套
+|《One World One Dream》
+|國語
+|中國男星黃曉明替2008年北京奧運所演唱的歌曲，由於黃曉明的英文口音不標準，把歌詞“not at all”唱成「鬧太套」，加上各種詭異的假音和破音，被網民吐槽和嘲笑，亦被尊稱為「鬧太套教主」。
+|-
+|阿嬤的配方
+|《Payphone》（公共電話）
+|國語
+|美國搖滾樂團魔力紅（Maroon 5）的歌曲。
+|-
+|[[常見網絡用語列表-台灣|咩噗]]
+|[https://youtu.be/Y2ge3KrdeWs?si=B0A9DY3e8k5xw6G9 怎麼了]
+|國語
+|原歌詞為「每一步」
+|-
+|到底大潤發在哪裡
+|A.I.愛
+|國語
+|原歌詞為「到底道德放在哪裡」<br><s>某方面來說這首歌預言了很多未來，包括'''大潤發將改名大全聯'''</s>
+|-
+|挖掘機裡醃蘿蔔
+|《王老先生有塊地（Old McDonald Have A Farm》<br>斯洛維尼亞語版<br>《Na kmetiji je lepo》
+|國語
+|因為小品向獨立恐怖遊戲《Johan's Farm》採用該版本的歌曲而走紅<br>遊戲中如果被<s>擺著大字姿勢的猥瑣</s>農夫Johan抓到就會響起這首歌直到重新開始<br>而後因為有華人實況主遊玩該遊戲，而誕生了這個空耳迷因
+|}
+
+=== 空耳台詞 ===
+{| class="wikitable" style="font-size:small;"
+!空耳!!原台詞!!出處!!字幕語言!!備註
+|-
+|摸你摸你摸一摸就沒有
+|MoringMoring杜王町Radio
+|JOJO第四部中的廣播電台
+|中文
+|<s>暗示[[吉良吉影]]的替身能力</s>
+|-
+|寿司おいしいよ
+|是新遊戲喔？
+|《[[杰哥|如果早知道，男生也會被性侵]]》
+|rowspan=2| 日文
+|
+|-
+|俺様はホモ
+|為什麼要跑嘛
+|[[LoveLive! Superstar!!]]
+|
+|-
+|吃我一劍、華夏第一劍！白帝聖劍！御劍跟著我！
+|
+|{{youtube|PIusZzyPS7M|俄羅斯的雪地打群架影片}}
+|中文
+|原意是：'''''力量與榮耀！不是勝利就是死亡！我為人人！人人為我！'''''
+|-
+|絕命六龜葡萄
+|不要取笑我
+|{{youtube|72ap5hdI4fs|美鳳有事嗎}}
+|中文
+|台灣人的經典空耳，原出自墨西哥肥皂劇貧民窟的瑪莉亞（Maria la del barrio）。<br>該片不僅帶紅台灣一堆名產<s>雖然六龜沒葡萄但甲仙真的有橄欖</s>，還顯示國外肥皂劇的空耳比本土八點檔還瘋。<br>[https://www.ptt.cc/bbs/joke/M.1415241939.A.6FA.html 原作簡介]
+|-
+|鳥屎東西，刮不爛的掃把你都洗
+|
+|{{youtube|OhS-oFJGZ0A|真人快打肥皂劇版}}
+|中文<br>韓文
+|和樓上的美鳳一樣也是肥皂劇變中文空耳
+|-
+|把不起妹妹就巴頭
+|
+|[https://www.youtube.com/watch?v=iDNmDfKNuAo&ab 把不起妹妹就巴頭]
+|中文
+|原出處為非洲國家莫三比克的巫醫治療偏頭痛的影片
+|-
+|手機影相再不是夢，wifi領域又一領域
+|天空聖者，賜予我魔法之力
+|[https://www.youtube.com/watch?v=PevpuRr-7PU 《魔法戰隊vs特搜戰隊》泰文版中文字幕]
+|粵語
+|刑事粉：繫和星宿，為你激鬥<br>魔法金：恭喜發財<br>魔法連者：祝你大家好運，係一定要鬥咩？有詛咒咩？
+|}
+
+== 參見 ==
+* {{wp|空耳|維基}}
+* [https://ja.wikipedia.org/wiki/空耳アワー 空耳アワー]
+* [http://dic.nicovideo.jp/a/空耳 ニコニコ大百科條目]
+* [[キーボードクラッシャー]]：空耳台詞的素材
+* [[雙重極限|フタエノキワミ]]
+* [[電波]]
+
+== 回應 ==
+<comments />
+
+==備註==
+<references />
+
+[[分類:俗名]]
