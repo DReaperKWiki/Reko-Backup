@@ -271,7 +271,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 * [[刀劍亂舞/登場人物一覽-Part2|Part2（太刀、大太刀、薙刀、槍、劍、其他）]]
 
 ==  敵軍  ==
-* 移至子條目：[[刀劍亂舞登場敵刀劍一覽]]
+* 移至子條目：[[刀劍亂舞/登場敵刀劍一覽|敵刀劍一覽]]
 * 根據官方劇情，應該是抱著想改變歷史的意圖、回到過去的'''人'''。
 ** 但遊戲裡的敵方立繪全都是龍蛇骨骸纏身<s>甚至根本就沒有人形</s>的持刀亡靈。
 ** 同人創作通常默認這些是屬於敵方陣營的刀劍，真正的歷史修正主義者另有其人。
@@ -347,7 +347,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |'''強化'''
 |通過讓目標刀劍男士與其他刀劍男士合成<s>合體</s>增加「打撃」、「統率」、「機動」、「衝力」四種能力的一種或幾種。<br>讓目標刀劍男士跟同樣的刀劍男士習合<s>限界突破</s>，提升「亂舞」等級以獲得追加語音的地方（2018年9月追加），目前亂舞最高等級可達到10級，該刀劍男士的「亂舞」等級達到10級的話會有特殊演出跟三種收禮反應的台詞。
-|特化<ref>類似艦娘的改造，但只要到達等級後就會自動發生且無需額外消耗任何資材或道具，也無法在不特化的狀態下繼續培養下去。</ref>或極化之後刀劍男士強化過的數值都會重置，所以未特化的刀劍男士不用餵得太猛。<br>「亂舞」等級特化或極化後會被繼承，但極化前跟極化後的追加語音不一樣。<br>
+|特化<ref>類似艦娘的改造，但只要到達等級後就會自動發生且無需額外消耗任何資材或道具，也無法在不特化的狀態下繼續培養下去。</ref>或極化之後刀劍男士強化過的數值都會重置，所以在進入特化前的刀劍男士不用把數值餵得太滿。<br>「亂舞」等級特化或極化後會被繼承，但極化前跟極化後的追加語音不一樣。
 |-
 |'''内番(內勤)'''
 |為刀劍男士排定本丸值日工作的地方，最多可以兩人一組排定三種工作，每次週期是24小時，並在結束時隨機提升1點指定能力<s>但連日+0都是常態</s>。
@@ -752,7 +752,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |しきみ
 |今剣、後藤藤四郎、古今伝授の太刀
-|用色彩度偏低
+|用[[色彩]]度偏低
 |[https://twitter.com/keeggy Twitter]<br>[https://www.pixiv.net/users/81607 Pixiv]
 |-
 |キナコ
@@ -777,7 +777,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |シキユリ
 |一期一振
-|用[[顏色|色彩]]度高，但設定較粗略而且骨架有點崩，到畫極化時有進步一些。<br><s>一期一振的戰裝到底有幾排釦子似乎連繪師本人都搞不太清楚</s>
+|用色彩度高，但設定較粗略而且骨架有點崩，到畫極化時有進步一些。<br><s>一期一振的戰裝到底有幾排釦子似乎連繪師本人都搞不太清楚</s>
 |[https://twitter.com/kokuma28 Twitter]<br>[https://www.pixiv.net/users/983321 Pixiv]<br>[https://shikiyuri.tumblr.com/ Tumblr]
 |-
 |てく
@@ -802,12 +802,12 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |小津
 |乱藤四郎
-|女性，出身新北市（原台北縣）的台灣人繪師，用色彩度偏高。
+|女性，出身新北市的台灣人繪師，用色彩度偏高。
 |[https://twitter.com/Otu_sora Twitter]<br>[https://www.pixiv.net/users/280144 Pixiv]<br>[https://www.plurk.com/otusora Plurk]
 |-
 |ホノジロトヲジ
-|五虎退、数珠丸恒次、小烏丸
-|用色淡，人物身材瘦高<s>腿超級長</s>，設定精細而且動物畫得非常寫實仔細，唯一一個其他裝束的立繪不是拿一般立繪去改而是一律整張重新畫過的繪師。
+|五虎退、数珠丸恒次、小烏丸、抜丸
+|原名：思春期<br>用色淡，人物身材瘦高<s>腿超級長</s>，設定精細而且動物畫得非常寫實仔細，唯一一個其他裝束的立繪不是拿一般立繪去改而是一律整張重新畫過的繪師。
 |[https://twitter.com/siroimorino Twitter]<br>[https://www.pixiv.net/users/1806527 Pixiv]<br>[https://ozoco.tumblr.com/ Tumblr]
 |-
 |石商
@@ -815,10 +815,10 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |男性，用色彩度偏低，擅長將奇幻與科幻融合的美術風格。
 |[https://twitter.com/ishisyou_stone Twitter]<br>[https://www.pixiv.net/users/728664 Pixiv]
 |-
-|禍津属シラノ
+|シラノ
 |鶯丸、膝丸、髭切
-|<s>真劍必殺姿勢像在溜冰</s>
-|[https://twitter.com/s_submerge Twitter]<br>[https://twitter.com/shirano_info Twitter]（工作用帳戶）<br>[https://s-submerge.tumblr.com/ Tumblr]
+|原名：禍津属シラノ<br><s>真劍必殺姿勢像在溜冰</s>
+|[https://twitter.com/shirano_info Twitter]
 |-
 |双葉はづき
 |明石国行、泛塵
@@ -927,7 +927,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |猫缶まっしぐら
 |毛利藤四郎、白山吉光
-|女性，Nitro+社內繪師，以男性向作品為主，近年來開始兼當Vtuber
+|女性，Nitro+社內繪師，以男性向作品為主，同時負責周邊刀貓男士系列的作畫，近年來開始兼當Vtuber
 |[https://twitter.com/neko_gura Twitter]<br>[https://www.pixiv.net/users/12827690 Pixiv]<br>[https://www.youtube.com/channel/UCzjyy_v7mVKkrHDmOTTHoCg YouTube]
 |-
 |枢やな（樞梁）

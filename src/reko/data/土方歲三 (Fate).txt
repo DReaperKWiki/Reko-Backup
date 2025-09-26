@@ -107,7 +107,7 @@
 {| class="wikitable" style="margin: 1em auto 1em auto;"
 	{{Fate Noble Phantasm Head}}
 	{{Fate Noble Phantasm Row
-		|image= http://i.imgur.com/ICyEZIn.gif
+		|image= https://i.meee.com.tw/cTLBABi.gif
 		|color=     red
 		|bgcolor=   black
 		|name=      不滅之誠
@@ -143,6 +143,7 @@
 		|explain=   所有新選組的隊長都擁有都擁有的寶具。標示著「誠」一文字的新選組隊旗。<br><br>只要揭示這面旗，可在一定範圍內的空間裡召喚出新選組的隊員。<br>雖然每位隊員都是獨立的Servant，但因為沒攜帶寶具所以戰鬥能力各有落差。全員都擁有相當於E-級的「單獨行動」技能，短時間內即使沒有Master也可以活動。<br><br>所召喚來隊員的面貌和性格，會依據發動者的心像而多少產生變化。此外，也會有因為與召喚者交情惡劣而不回應的家伙。<br>由土方歲三來召喚的話，回應召喚的會是惡鬼般的新選組。
 }}
 |}
+
 === 其他裝備（注：非寶具） ===
 {{Fate Craft Essence
 |color=   red
