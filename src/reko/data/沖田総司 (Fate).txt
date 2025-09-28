@@ -319,7 +319,7 @@
 {{Fate Craft Essence
 |color=    #FF1493
 |bgcolor=  #pink
-|image=     [[檔案:覚悟の鉢金.jpg|300px|無框|置中]]
+|image=     
 |name=     八橋巧克力
 |explain=  沖田總司贈予的情人節巧克力。<br><br><br>這是我沖田一大早就去城裡那家口碑好的點心店<br>排隊買來的限定巧克力哦，御主！<br>和新選組聯動的包裝紙也讓人很開心吧。
 }}
