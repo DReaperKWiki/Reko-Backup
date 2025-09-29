@@ -80,18 +80,44 @@
 
 === 寶具 === 
 {| class="wikitable" style="margin: 1em auto 1em auto;"
-{{Fate Noble Phantasm Head}}
-{{Fate寶具列
-|image=     https://i.imgur.com/rVTK2RW.gif
-|color=     #00a3af
-|bgcolor=   white
-|name=      <s>龍槌翔閃</s><br>龍飛劍
-|pronounce=  <s>りゅうついしょうせん</s><br>りゅうひけん
-|rank=      -
-|type=      對人魔劍
-|range=     1
-|maxcaught= 1人
-|explain=   永倉新八的必殺之劍。<br>以如龍起尾般的挑斬掀飛敵人，在無法迴避的狀態下打出如山風般的落斬，多說無益的豪劍。<br>與沖田的猛士之劍、齋藤的無敵之劍並稱的，永倉新八的真本事。<br><br>與其說是用來互相切割的技術，不如說是永倉新八的覺悟的揭露。<br>是常人無法踏入的瘋狂領域。<br><br>自生死未決的邊緣一步踏入，以強絕的挑斬使敵人陷入無防備的狀態，再以積累到極限的氣勢揮下的山風之劍伴隨著魔力爆發，是正如字面意義的爆碎劍。<br><br>「為自己踩中了龍尾而後悔吧……！」}}
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+	{{Fate Noble Phantasm Head}}
+    {{Fate Noble Phantasm Row
+         |image=     https://i.imgur.com/rVTK2RW.gif
+         |color=     #00a3af
+         |bgcolor=   white
+         |name=      <s>龍槌翔閃</s><br>龍飛劍
+         |pronounce=  <s>りゅうついしょうせん</s><br>りゅうひけん
+         |rank=      -
+         |type=      對人魔劍
+         |range=     1
+         |maxcaught= 1人
+         |explain=   永倉新八的必殺之劍。<br>以如龍起尾般的挑斬掀飛敵人，在無法迴避的狀態下打出如山風般的落斬，多說無益的豪劍。<br>與沖田的猛士之劍、齋藤的無敵之劍並稱的，永倉新八的真本事。<br><br>與其說是用來互相切割的技術，不如說是永倉新八的覺悟的揭露。<br>是常人無法踏入的瘋狂領域。<br><br>自生死未決的邊緣一步踏入，以強絕的挑斬使敵人陷入無防備的狀態，再以積累到極限的氣勢揮下的山風之劍伴隨著魔力爆發，是正如字面意義的爆碎劍。<br><br>「為自己踩中了龍尾而後悔吧……！」
+    }}
+
+    {{Fate Noble Phantasm Row
+		|image=     [[file:誓いの羽織.jpg|300px|center]]
+        |color=     #00a3af
+        |bgcolor=   white
+		|name=      誓言的羽織
+		|pronounce= 誓いの羽織
+		|rank=      C
+		|type=      對人寶具
+		|range=     1
+		|maxcaught= 1人 
+		|explain=   淺蔥色的羽織。幕末時撼動首都的新選組的著名裝扮，昇華為寶具後的結果。<br>資料並沒有列出。
+	}}
+	{{Fate Noble Phantasm Row
+        |color=     #00a3af
+        |bgcolor=   white
+		|name=      誠之旗
+		|pronounce= 誠の旗
+		|rank=      B
+		|type=      對軍寶具
+		|range=     1~50
+		|maxcaught= 1~200人
+		|explain=   所有新選組的隊長都擁有都擁有的寶具。標示著「誠」一文字的新選組隊旗。<br><br>只要揭示這面旗，可在一定範圍內的空間裡召喚出新選組的隊員。<br>雖然每位隊員都是獨立的Servant，但因為沒攜帶寶具所以戰鬥能力各有落差。全員都擁有相當於E-級的「單獨行動」技能，短時間內即使沒有Master也可以活動。<br><br>所召喚來隊員的面貌和性格，會依據發動者的心像而多少產生變化。此外，也會有因為與召喚者交情惡劣而不回應的家伙。
+}}
 |}
 
 === 其他裝備（注：非寶具） ===
@@ -172,7 +198,7 @@
 [[檔案:永倉新八平野稜二.jpg|400px|右]]
 === 生前 ===
 * 芹澤鴨— 新選組的初代局長，關係很好。
-* 近藤勇 — 上司，新選組的第二任兼末代局長。
+* [[近藤勇 (Fate)|近藤勇]] — 上司，新選組的第二任兼末代局長。
 ** 對待同為局長的近藤勇，雖然是一樣當作局長尊敬，但也強調自己是對等的同志而非家臣一事。也是因為這個緣由，他後來才與新選組分道揚鑣。
 * [[山南敬助 (Fate)|山南敬助]] — 上司，新選組總長。
 * [[土方歲三 (Fate)|土方歲三]] — 上司，新選組的副局長。

@@ -80,8 +80,10 @@
 ** 「慣用手？不，我只是隨時隨地選擇當時順手的拔刀法而已。話說回來，有空想這種事的話，還不如趕快把敵人給砍了吧。」
 
 === 寶具 === 
-{{Fate Noble Phantasm
-		|image=     https://i.imgur.com/Q6ayZk6.gif
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+	{{Fate Noble Phantasm Head}}
+    {{Fate Noble Phantasm Row
+ 		|image=     https://i.imgur.com/Q6ayZk6.gif
 		|color=     #00A3AF
 		|bgcolor=   BLACK
 		|name=      <s>[[快打旋風系列登場人物列表#豪鬼（Gouki）－拳法的極意者－|{{color|red|black|關燈劍·一瞬千閃}}]]</s><br>無形
@@ -91,7 +93,32 @@
 		|range=     1~9
 		|maxcaught= 1人
 		|explain=   斎藤一被評為無敵之劍的必殺逆袈裟斬。不帶規律的自由之劍。<br>以有別於單純速度的步法靠近，在對方對時間和距離的認知被擾亂，誤判時機的瞬間斬下。<br>由於從對手認為不可能碰到的距離外命中，令人有意識到時已經中招的錯覺。<br><br>只要是使用近戰兵器的對手，槍也好甚麼也好，都能無視其攻擊範圍，從任何距離先制。<br><br>「——故吾之劍，是無敵的！」
+     }}
+
+     {{Fate Noble Phantasm Row
+		|image=     [[file:誓いの羽織.jpg|300px|center]]
+		|color=     #00A3AF
+		|bgcolor=   BLACK
+		|name=      誓言的羽織
+		|pronounce= 誓いの羽織
+		|rank=      C
+		|type=      對人寶具
+		|range=     1
+		|maxcaught= 1人 
+		|explain=   淺蔥色的羽織。幕末時撼動首都的新選組的著名裝扮，昇華為寶具後的結果。<br>資料並沒有列出。
+	}}
+	{{Fate Noble Phantasm Row
+		|color=     #00A3AF
+		|bgcolor=   black
+		|name=      誠之旗
+		|pronounce= 誠の旗
+		|rank=      B
+		|type=      對軍寶具
+		|range=     1~50
+		|maxcaught= 1~200人
+		|explain=   所有新選組的隊長都擁有都擁有的寶具。標示著「誠」一文字的新選組隊旗。<br><br>只要揭示這面旗，可在一定範圍內的空間裡召喚出新選組的隊員。<br>雖然每位隊員都是獨立的Servant，但因為沒攜帶寶具所以戰鬥能力各有落差。全員都擁有相當於E-級的「單獨行動」技能，短時間內即使沒有Master也可以活動。<br><br>所召喚來隊員的面貌和性格，會依據發動者的心像而多少產生變化。此外，也會有因為與召喚者交情惡劣而不回應的家伙。
 }}
+|}
 
 === Fate/Grand Order專屬概念禮裝 === 
 {{Fate概念禮裝
@@ -200,7 +227,7 @@
 * [[沖田総司 (Fate)|沖田總司]] — 同僚，新選組一番隊組長。同為新選組三強
 * [[永倉新八 (Fate)|永倉新八]] — 同僚，新選組二番隊組長。同為新選組三強<s>但是在某大猩猩的摧殘下，非歷史宅聽到這個名字只想到眼鏡</s>
 * [[土方歲三 (Fate)|土方歲三]] — 上司，新選組的副局長
-* 近藤勇 — 上司，新選組的局長
+* [[近藤勇 (Fate)|近藤勇]] — 上司，新選組的局長
 * [[山南敬助 (Fate)|山南敬助]] — 新選組總長，因脫逃而切腹
 * [[藤堂平助 (Fate)|藤堂平助]] — 同僚，新選組八番隊組長，後來脫隊追隨伊東加入御陵衛士。最終在「油小路事變」中卻被新選組隊士三浦常三郎所殺
 * [[原田左之助 (Fate)|原田左之助]] — 同僚，新選組十番隊組長
