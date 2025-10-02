@@ -147,7 +147,7 @@
 
 === 未正式加入成員 ===
 * {{censored|於侵吞捐款事件中有人透露過}}部分VTuber已跟VShojo簽約但未正式以VShojo成員身分出道
-** 以知將會有一個偶像三人組團體<ref>有一成員身分未知</ref>和一個魔物娘主題的團體
+** 以知將會有一個偶像三人組團體和一個魔物娘主題的團體
 
 {|class="wikitable" style="margin:auto;"
 !姓名
@@ -171,6 +171,11 @@
 |於2020/07/18出道的個人勢VTuber兼偶像<br>曾於2024年透露自己為另一已解散的箱PRISM Project的VTuber Amami Ami 的神仙教母{{censored|亦即是中之人}}<br>於2025年7月22日透露曾通過2024 EN海選並將會加入VShojo的偶像團體，但因欠薪問題而主動解約
 |[https://www.twitch.tv/Feebee 連結]
 |{{twitter|feebeechanchibi|name=連結}}
+|-
+|Victoria Roman
+|{{censored|目前尚未正式出道，前世疑似是ミラクルプロ 米プリンセス的Milky Queen}}
+|
+|{{twitter|vickyroman_idol|name=連結}}
 |-
 !colspan=5 align="center"|未知魔物娘團體<ref>第四人身分未知</ref>
 |-

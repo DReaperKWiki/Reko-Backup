@@ -1,0 +1,13 @@
+== 禁止未登入使用者檢視歷史紀錄的公告建議 ==
+
+稍微調整公告內容，整合了幾點，然後一些註冊相關的建議可以放到註冊頁面就好，不用每頁都顯示。
+因為我沒有權限編輯，所以發在討論頁。
+之後會在連結 [[Reko Wiki:公告 AI爬蟲對策]] 裡說明情形。
+
+{|class="wikitable" style="margin:1.5em auto;text-align:center;"
+|'''有關Reko Wiki的 <em title="例如幼幼廚之類的非法內容、網站遭破壞入侵等">緊急事件聯絡</em> 可以聯絡<br> crossbonegod@gmail.com 、 [https://www.facebook.com/reko.wiki.org/ Facebook專頁] 、 [https://discord.gg/3JyNBg32Hk Discord群組]'''
+|-
+|'''為保護條目，現時須註冊並確認電郵才能夠進行編輯；因大量 AI 爬蟲湧入<br>超出伺服器負荷，亦 [[Reko_Wiki:公告_AI爬蟲對策|禁止於未登入狀態下檢視歷史頁面與紀錄]]，若有連線不穩可至discord回報。'''
+|-
+|'''由於營運Reko Wiki的 [[User:Cross|Cross]] 將有一段時間失業，所以現時會開放[https://buymeacoffee.com/crossbonegod Buy Me A Coffee]贊助頁。<br>所得收入主要用作維持伺服器運作以及域名年費，希望各位能夠多多少少支持。<br>捐款額最高為400新台幣/100港幣/2000日圓，量力而為。'''
+|} [[使用者:Gholk|Gholk]]（[[使用者討論:Gholk|留言]]） 2025年10月2日 (四) 21:15 (HKT)
