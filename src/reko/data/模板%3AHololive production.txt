@@ -1,0 +1,97 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name       = hololive production
+|title      = [[hololive production]]
+|group1     = hololive
+|list1      = 
+{{Navbox subgroup
+|name       = hololive藝人
+|groupstyle = width:13%;
+|group1     = 零期生(無印) 
+|list1      = [[時乃空|🐻💿時乃空]]・[[蘿蔔子|🤖蘿蔔子]]・[[櫻巫女|🌸櫻巫女]]・[[星街彗星|☄️星街彗星]]・[[AZKi|⚒️AZKi]]
+|group2     = 一期生
+|list2      = <s>''[[夜空梅露|🌟夜空梅露]]''</s>・[[亞綺·羅森塔爾|🍎亞綺·羅森塔爾]]・[[赤井心|❤️‍🔥赤井心]]・[[白上吹雪|🌽白上吹雪]]・[[夏色祭|🏮夏色祭]]・<s>''[[人見クリス|🌰人見クリス]]''</s>
+|group3     = 二期生
+|list3      = <s>[[湊阿庫婭|⚓️湊阿庫婭]]</s>・<s>[[紫咲詩音|🌙紫咲詩音]]</s>・[[百鬼綾目|😈百鬼綾目]]・[[癒月巧可|💋癒月巧可]]・[[大空昴|🚑大空昴]]
+|group4     = Gamers
+|list4      = [[白上吹雪|🌽白上吹雪]]・[[大神澪|🌲大神澪]]・[[貓又小粥|🍙貓又小粥]]・[[戌神沁音|🥐戌神沁音]]
+|group5     = 三期生<br>Hololive Fantasy
+|list5      = [[兔田佩克拉|👯兔田佩克拉]]・<s>''[[潤羽露西婭|🦋潤羽露西婭]]''</s>・[[不知火芙蕾雅|🔥不知火芙蕾雅]]・[[白銀諾艾爾|⚔️白銀諾艾爾]]・[[寶鐘瑪琳|🏴‍☠️寶鐘瑪琳]]
+|group6     = 四期生<br>Holofourth
+|list6      = [[天音彼方|💫天音彼方]]・<s>[[桐生可可|🐉桐生可可]]</s>・[[角卷綿芽|🐏角卷綿芽]]・[[常暗永遠|👾常暗永遠]]・[[姬森璐娜|🍬姬森璐娜]]
+|group7     = 五期生<br>NePoLaBo<br><s>Holofive</s>
+|list7      = [[雪花菈米|☃️雪花菈米]]・[[桃鈴音音|🍑🥟桃鈴音音]]・[[獅白牡丹|♌獅白牡丹]]・[[尾丸波爾卡|🎪尾丸波爾卡]]・<s>[[魔乃阿蘿耶|👅魔乃阿蘿耶]]</s>
+|group8     = 六期生<br>HoloX
+|list8      = [[ラプラス・ダークネス|🛸💜ラプラス・ダークネス]]・[[鷹嶺ルイ|🥀鷹嶺ルイ]]・[[博衣こより|🧪博衣こより]]・''[[沙花叉クロヱ|🎣沙花叉クロヱ]]''・[[風真いろは|🍃風真いろは]]
+}}
+|group2     = hololive DEV_IS
+|list2      = 
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = 一期生<br>ReGLOSS
+|list1      = <s>[[火威青|🖋️火威青]]</s>・[[音乃瀬奏|🎹✨音乃瀬奏]]・[[一条莉々華|🌃一条莉々華]]・[[儒烏風亭らでん|🐚儒烏風亭らでん]]・[[轟はじめ|🐧⚡轟はじめ]]
+|group2     = 二期生<br>FLOW GLOW
+|list2      = [[響咲リオナ|🎤👑響咲リオナ]]・[[虎金妃笑虎|☺️🐅虎金妃笑虎]]・[[水宮枢|💬🔁💙水宮枢]]・[[輪堂千速|🎧🔧輪堂千速]]・[[綺々羅々ヴィヴィ|💅✨綺々羅々ヴィヴィ]]
+}}
+|group3     = hololive ID
+|list3      = 
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = 一期生<br>Area 15
+|list1      = [[Ayunda Risu|🐿️Ayunda Risu]]・[[Moona Hoshinova|🔮Moona Hoshinova]]・[[Airani Iofifteen|🎨Airani Iofifteen]]
+|group2     = 二期生<br>Holoro
+|list2      = [[Kureiji Ollie|🧟Kureiji Ollie]]・[[Anya Melfissa|🍂Anya Melfissa]]・[[Pavolia Reine|🦚Pavolia Reine]]
+|group3     = 三期生<br>Holoh3roes
+|list3      = [[Vestia Zeta|📜Vestia Zeta]]・[[Kaela Kovalskia|🔨Kaela Kovalskia]]・[[Kobo Kanaeru|☔Kobo Kanaeru]]
+}}
+|group4     = hololive EN
+|list4      =
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = 一期生<br>holoMyth
+|list1      = [[Mori Calliope|💀Mori Calliope]]・[[Takanashi Kiara|🐔Takanashi Kiara]]・[[Ninomae Ina'nis|🐙Ninomae Ina'nis]]・<s>[[Gawr Gura|🔱Gawr Gura]]</s>・''[[Watson Amelia|🔎Watson Amelia]]''
+|group2     = 二期生<br>Promise
+|list2      = 
+{{Navbox subgroup
+|group2     = 原Project:HOPE
+|list2      = [[IRyS|💎IRyS]]
+|group3     = holoCouncil
+|list3      = <s>[[Tsukumo Sana|🪐Tsukumo Sana]]</s>・<s>[[Ceres Fauna|🌿Ceres Fauna]]</s>・[[Ouro Kronii|⏳Ouro Kronii]]・<s>[[Nanashi Mumei|🦉Nanashi Mumei]]</s>・[[Hakos Baelz|🎲Hakos Baelz]]
+}}
+|group4     = 三期生<br>holoAdvent
+|list4      = [[Shiori Novella|👁‍🗨Shiori Novella]]・[[Koseki Bijou|🗿Koseki Bijou]]・[[Nerissa Ravencroft|🎼Nerissa Ravencroft]]・[[Fuwawa & Mococo Abyssgard|🐾Fuwawa & Mococo Abyssgard]]
+|group5     = 四期生<br>holoJustice
+|list5      = [[Elizabeth Rose Bloodflame|💄Elizabeth Rose Bloodflame]]・[[Gigi Murin|👧Gigi Murin]]・[[Cecilia Immergreen|🍵Cecilia Immergreen]]・[[Raora Panthera|🐱Raora Panthera]]
+}}
+|group5     = holostars
+|list5      =
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = 一期生
+|list1      = [[花咲雅|🌺 花咲雅]]・<s>[[鏡見吉良|💙鏡見吉良]]</s>・[[奏手一弦|🎸奏手一弦]]・<s>[[薬師寺朱雀|💊薬師寺朱雀]]</s>・[[阿爾蘭蒂斯|🍕阿爾蘭蒂斯]]・[[律可|⚙律可]]
+|group2     = 二期生<br>Suntempo
+|list2      = [[阿斯特爾・瑞達|🎭阿斯特爾・瑞達]]・[[岸堂天真|🦔💨岸堂天真]]・[[夕刻羅貝爾|🍷夕刻羅貝爾]]
+|group3     = 三期生<br>TriNero
+|list3      = [[影山紫炎|🟣影山紫炎]]・<s>[[月下薰|💅月下薰]]</s>・[[荒咬皇牙|🐃荒咬皇牙]]
+|group4     = 四期生<br>UPROAR
+|list4      = [[夜十神封魔|🦝夜十神封魔]]・[[羽継烏有|🃏羽継烏有]]・<s>[[緋崎ガンマ|🖌緋崎ガンマ]]</s>・[[水無世燐央|🕯水無世燐央]]
+}}
+|group6     = holostars EN
+|list6      =
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = holoTEMPUS<br>（一期生）
+|list1      = [[Regis Altare|🎇Regis Altare]]・<s>[[Magni Dezmond|🧤Magni Dezmond]]</s>・[[Axel Syrios|⛓️Axel Syrios]]・<s>[[Noir Vesper|📗Noir Vesper]]</s>・[[Gavis Bettel|🎩Gavis Bettel]]・[[Machina X Flayon|🪫Machina X Flayon]]・[[Banzoin Hakka|🔅Banzoin Hakka]]・[[Josuiji Shinri|🏹Josuiji Shinri]]
+|group2     = ARMIS<br>(二期生)
+|list2      = [[Jurard T Rexford|🦖Jurard T Rexford]]・[[Goldbullet|🦅Goldbullet]]・[[Octavio|♾Octavio]]・[[Crimzon Ruze|💢Crimzon Ruze]]
+}}
+|group7     = hololive CN(已撤銷）
+|list7      = 
+{{Navbox subgroup
+|group1     = <s>一期生</s>
+|list1      =<s>[[希薇婭|🦄🌙希薇婭]]・[[黑桃影|🍑黑桃影]]・[[夜霧|🍼🎸夜霧]]</s>
+|group2     = <s>二期生</s>
+|list2      =<s>[[阿媂婭|❄阿媂婭]]・[[朵莉絲|🐟朵莉絲]]・[[羅莎琳|📖羅莎琳]]</s>
+}}
+}}
+<noinclude>[[Category:Hololive_production]] [[分類:特定主題使用模板]]</noinclude>
