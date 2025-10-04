@@ -5,7 +5,7 @@
 |-
 | style = "text-align: center; "  |『''我們對音樂沒有偏見，只要是戲裡氣氛所需要的，不管是熱門的也好、古典的也好，[[成句/我全都要|都用上，]]<br>這樣才能表現出劇裡的感情。假如用得很恰當，還會產生一種意想不到的滑稽感，增加了歡樂、笑料''』<br>－[https://youtu.be/7YyzksH-UxI?t=870 黃俊雄]，1970
 |-
-| style = "text-align: center; "  | 本條目介紹範圍包含但不限於布袋戲<ref>依古本演義小說改編的『古冊戲』或尚未形成系列的單一劇齣各依<b>『年份_主演_〈劇名〉』</b>列舉，已形成系列的電視劇金光布袋戲品牌包括：黃俊雄~黃立綱系列全屬《金光》(包括〈雲州大儒俠〉+〈六合三俠傳〉兩大系譜)、黃文擇系列《霹靂》(〈忠勇小金剛〉起算，包括〈黑河戰記〉)、黃文耀系列《天宇》(〈龍現江湖〉起算)、鄭寶和系列《聖俠》(〈聖俠傳奇之凌霄星訣〉起算)、許清福系列《巨登》（〈戰朝天劫〉起算）、蕭建平系列〈神魔/王者〉、趙金統系列《聖章》、沈明正系列《鐵漢男俠》…等，角色無明確專屬劇團品牌系譜的野台金光戲標為<b>(野台)</b></ref>，亦歡迎補充其他影劇、廣告<ref>為防同一劇名/劇本可能有不同年份/地區/電視台拍攝、後製版本造成混淆，標示<b>『年份+台名/導演、編曲者/〈劇名〉/唱者－曲名』</b>格式</ref>內的案例或趣聞
+| style = "text-align: center; "  | 本條目介紹範圍包含但不限於布袋戲<ref>依既存古本演義小說改編的『古冊戲』或未形成系列的單一劇齣各依<b>『年份_主演_〈劇名〉』</b>列舉，已形成系列的電視劇金光布袋戲品牌如：黃俊雄~黃立綱系列全屬<b>《金光》</b>(包括〈雲州大儒俠〉+〈六合三俠傳〉兩大系譜)、黃文擇系列<b>《霹靂》</b>(〈忠勇小金剛〉起算，包括〈黑河戰記〉)、黃文耀系列<b>《天宇》</b>(〈龍現江湖〉起算)、鄭寶和系列<b>《聖俠》</b>(〈聖俠傳奇之凌霄星訣〉起算)、許清福系列<b>《巨登》</b>（〈戰朝天劫〉起算）、蕭建平系列<b>〈神魔/王者〉</b>、趙金統系列<b>《聖章》</b>、沈明正系列《鐵漢男俠》…等，無明確專屬劇團品牌系譜的野台金光戲角色標為<b>(野台)</b></ref>，亦歡迎補充其他影劇、廣告<ref>為防同一劇名/劇本可能有不同年份/地區/電視台/後製版本造成混淆，標示<b>『年份+台名/導演、編曲者/〈劇名〉/唱者－曲名』</b>格式</ref>內的案例或趣聞
 |-
 | style = "text-align: center; "  | 本條目的所屬作品以各原文+中文譯名為主，不確定曲名則留空白或片段
 |-
@@ -715,7 +715,7 @@
 |-
 || '79 Brian May〈Mad Max/衝鋒飛車隊〉 || [https://youtu.be/E0dj0f4-y8M Flight From The Evil Toecutter] || 早期險境用 || 
 |-
-| rowspan="2"| '89 Marc Hillman Patrick Roffé〈Baxter〉 || [https://youtu.be/X1q38tbjbIM Tema De Baxter] || 《霹靂》✂陰間大法師 || 
+| rowspan="2"| '89 Marc Hillman Patrick Roffé〈Baxter〉 || [https://youtu.be/X1q38tbjbIM Tema De Baxter] || 《霹靂》✂[https://youtu.be/q3BqzObE8Cc&t=0 陰間大法師]<br>《天宇》✂[https://youtu.be/m-Xrz45w4Js&t=1213 讀龍老人] || 
 |-
 || [https://youtu.be/uJ0XTePiXy0 Bathroom] || 《天宇》✂絕人煙茫霧谷洞口 || 
 |-
@@ -2540,7 +2540,7 @@
 |-
 || (待查) ||《霹靂》✉臥雲(早期)||
 |-
-||Jean Michel Jarre||〈Oxygene〉[https://youtu.be/dwZENJ-3DMY Pt 2-14893]||成龍電影〈蛇形刁手〉✂[https://youtu.be/JbFmE3rwcPA&t=50m50s 練功場面曲]||
+||Jean Michel Jarre||〈Oxygene〉[https://youtu.be/Pq9syWwgSEA Oxygene, Pt 2]||成龍電影〈蛇形刁手〉✂[https://youtu.be/I4X-NJIQsWE&t=1940 練功場面曲]||
 |-
 ||Space||〈the Best of Space〉[https://youtu.be/P_ukfGAd8T4 Magic Fly]||成龍電影〈蛇形刁手〉✂[https://youtu.be/JbFmE3rwcPA&t=13s 開場曲]||
 |-
@@ -3187,6 +3187,8 @@
 |-
 | rowspan="20" | 89' 川井憲次〈機動警察パトレイバー〉系列|| [https://youtu.be/HKHV-W1LtMM ライオット] ||《霹靂》✉[https://youtu.be/XrBC3mzHZMw 亂世狂刀]、[https://youtu.be/uoVZRSiPOjY 創世狂人OP]<br>'93 亞視〈勝者為王III王者之戰〉✂程逸風蔣權決戰||僅收錄於劇場版先行推出[https://www.nicovideo.jp/watch/sm4414209 原聲帶]的'''[https://dic.nicovideo.jp/a/%E6%9C%AA%E4%BD%BF%E7%94%A8%E6%9B%B2 沒曲]'''，<br>反而成為亂世狂刀角色曲的不二之選
 |-
+|[https://youtu.be/3hIhUfgoCVs Revolution]||《霹靂》✉[https://youtu.be/yzBzZUZGUUs?t=80 黑白郎君中期版]<br>《天宇》✂銀面劍帝武曲||另有[https://youtu.be/_3u61qU8CH8&t=5 早期電音版]!?
+|-
 | [https://youtu.be/JMaWAk8FW_A Ixtl]||《霹靂》❏[https://youtu.be/y3ctBq79YIE 三靈魅]<br>《天宇》✉[https://youtu.be/lBicDL8cz4g 山川之父]||高福順原聲帶標示〈血道天宮〉
 |-
 |[https://youtu.be/Un1hYnV8fl8 Indication]<br>[https://youtu.be/J-hw0nGiwCM Wyvern]||《霹靂》✉靈魅殿<br>《天宇》✉[https://youtu.be/1yTzeRpot4I 武尺軍]||
@@ -3196,8 +3198,6 @@
 |[https://youtu.be/N5Feh10oCwM Runaway incident]||《霹靂》✂[https://youtu.be/ff841_iae_Y 表象意魔襲擊正道]<br> 《天宇》✂常用收幕曲<br>三立〈21世紀新人歌唱排行榜〉✂[https://youtu.be/lIprDW9iGbY OP]<br>亞視〈勝者為王II天下無敵〉✂快速對戰場面||[https://youtu.be/pGdmepfgpck 三立廣告常用]
 |-
 |[https://youtu.be/NpeLlwQzFgc 頑張れ後藤隊長]||《霹靂》✉[https://youtu.be/XfnizEL1jtU 崎路人與金少爺]||
-|-
-|[https://youtu.be/3hIhUfgoCVs Revolution]||《霹靂》✉[https://youtu.be/yzBzZUZGUUs?t=80 黑白郎君中期版]<br>《天宇》✂銀面劍帝武曲||
 |-
 |[https://youtu.be/_pb5z6Kz5jU 鉄の矢]||《霹靂》✂[https://youtu.be/s5U-Ph64oas&t=5m45s 早期武戲]||
 |-
@@ -3500,17 +3500,19 @@
 |-
 ||千住明〈鋼彈V〉[https://youtu.be/lnnkgNzuyjM 錯覚する予兆 (または同性愛)] || 《霹靂》✂英雄榜雜用情境 || 
 |-
-| rowspan="6" |'89 難波弘之〈巴歐來訪者/[[荒木飛呂彥|バオー来訪者]]〉 ||[https://youtu.be/zm_-tKR5VcU  武装現象(アームド･フェノメノン)I]||《天宇》✉[https://youtu.be/L_BjJNrAK4E 毒咒頭顱]||
+| rowspan="7" |'89 難波弘之〈巴歐來訪者/[[荒木飛呂彥|バオー来訪者]]〉 ||[https://youtu.be/zm_-tKR5VcU  武装現象(アームド･フェノメノン)I]||《天宇》✉[https://youtu.be/L_BjJNrAK4E 毒咒頭顱]||
+|-
+||[https://youtu.be/cEhf5Sgrk-o 死闘]||《天宇》✉[https://youtu.be/Sr24WuLc1FI 劍諜ED]、✉[https://youtu.be/f1rbqpmqBoc 星令ED]||神似〈[https://youtu.be/r7pLY53bIn0 Sonic 2 Boss Theme]〉
 |-
 ||[https://youtu.be/RnV993bYjg4 BAOH覚醒]||《天宇》✉[https://youtu.be/H8hlwd4sp40&t=1473 刀無境劍通涯]||
+|-
+||[https://youtu.be/nl5SyHeOQCE 殺戮集団]||《天宇》✉[https://youtu.be/m-Xrz45w4Js&t=937 早期雜用走路曲](信俠順風鏢)||
 |-
 ||[https://youtu.be/EJ6dEyMOCLs ESCAPE]||'90 中視《浴火鳳凰》✂[[https://youtu.be/oRQljZFz554&t=608 陰謀場景]]||
 |-
 ||[https://youtu.be/KVY5WZMmTgo 武装現象(アームド･フェノメノン)III]||'90 中視《浴火鳳凰》✂[https://youtu.be/mqk3c6Xszcs&t=2321 蛇魔女登場]||
 |-
 ||[https://www.youtube.com/watch?v=9bzdZXFsBQ8 寄生虫]||'90 中視《浴火鳳凰》✂[https://youtu.be/mqk3c6Xszcs?si=JZktYzLg18k-KO_k&t=2612 天魔堡場景]||
-|-
-||[https://youtu.be/cEhf5Sgrk-o 死闘]||《天宇》✉[https://youtu.be/Sr24WuLc1FI 劍諜ED]、✉[https://youtu.be/f1rbqpmqBoc 星令ED]||神似〈[https://youtu.be/r7pLY53bIn0 Sonic 2 Boss Theme]〉
 |-
 | rowspan="5" |'93 Marco D'Ambrosio<br>〈[[JOJO|ジョジョ]]の奇妙な冒険OVA〉||[https://youtu.be/S1hz072OYzo The Face Of DIO] || 《天宇》✂[https://youtu.be/JBR31qOzSBk 伍紫髯(時空長城時期)] || 天宇早期陰森場景常用
 |-
