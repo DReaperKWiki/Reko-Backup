@@ -211,7 +211,7 @@
 |-
 |KR SCISSORS
 |召喚出假面騎士SCISSORS
-| rowspan="2" |24
+|24
 |壽司師傅vs海鮮
 |-
 |KR RAIA
@@ -262,7 +262,7 @@
 |-
 |KR KNIGHT
 |召喚出假面騎士Knight
-| rowspan="4" |ZI-O的29
+| rowspan="4" |ZI-O 29
 |
 |-
 |KR BARON
@@ -284,8 +284,14 @@
 |KR SPECTER
 |召喚出假面騎士Specter
 |}
+
 ===KAIZIN RIDE(KR)(千眼怪 DIEND變身體)===
 {| class="wikitable" style="margin:auto;"
+!卡片名稱
+!效果
+!使用集數
+!備註
+|-
 |KR MOOSE FANGIRE
 |召喚出KIVA世界的怪人MOOSE FANGIRE
 | rowspan="2" |25
@@ -295,6 +301,7 @@
 |KR EAGLE UNDEAD
 |召喚出劍世界的怪人EAGLE UNDEAD
 |}
+
 ===FORM RIDE(FR)===
 {| class="wikitable" style="margin:auto;"
 !卡片名稱
@@ -591,7 +598,7 @@ Neo Diendriver版更名為NEO BLAST，但性能不變
 |把GARREN變成菱餅（和果子的一種）
 | rowspan="3" |OOO・電王・All Riders Let's Go假面騎士網路版（雙子座O型）
 | rowspan="3" |為了不輸掉牌局<s>惱羞成怒</s>。KIVAT表示：
-「強行把他們變成奇怪的形狀，還沒有半點做了壞事的心虛，真不愧是DECADE]
+「強行把他們變成奇怪的形狀，還沒有半點做了壞事的心虛，真不愧是DECADE」
 |-
 |CHALICE
 |把CHALICE變成心型巧克力
@@ -599,6 +606,7 @@ Neo Diendriver版更名為NEO BLAST，但性能不變
 |GENERAL SHADOW
 |把幻影將軍變成<s>頭戴的</s>金魚缸
 |}
+
 ===FINAL ATTACK RIDE(FAR)===
 {| class="wikitable" style="margin:auto;"
 !卡片名稱
