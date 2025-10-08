@@ -1,0 +1,383 @@
+/* 此 JavaScript 會用於使用者載入的每一個頁面。 */
+
+jQuery( addPurgeLink );
+
+/** 在頁首插入清除快取的連結，以代替側邊列失效的功能*/
+function addPurgeLink(){
+	// 抓取頁面全名
+	var pageTitle = mw.config.get('wgPageName');
+	// 將半形問號取代為「%3F」，以使連結正常
+	pageTitle = pageTitle.replace(/\?/g,"%3F");
+	// 在頁首的功能列加入「清理快取」連結
+	// <li id="ca-view" class="selected"><span><a href="/%E6%A8%A1%E6%9D%BF:Vote">閱讀</a></span></li>
+	$("#p-views-label ~ ul, #p-views-label ~ * ul").prepend(
+		$("<li id=\"ca-purge\"></li>").append(
+			$("<span></span>").append("<a href=\"?action=purge\">清理快取</a>")
+		)
+	);
+	// 如果是purge（清除快取）頁面，則將「閱讀」取消強調，並強調「清理快取」
+	if(mw.config.get('wgAction') == "purge"){
+		$("#ca-purge").addClass("selected");
+		$("#ca-view").removeClass("selected");
+		console.log("wgAction == purge");
+	}
+}
+
+function ModifySidebar( action, section, name, link, number ) {
+	try {
+		switch ( section ) {
+			case 'languages':
+				var target = 'p-lang';
+				break;
+			case 'toolbox':
+				var target = 'p-tb';
+				break;
+			case 'navigation':
+				var target = 'p-navigation';
+				break;
+			default:
+				var target = 'p-' + section;
+				break;
+		}
+
+		if ( action == 'add' ) {
+			var node = document.getElementById( target )
+							   .getElementsByTagName( 'div' )[0]
+							   .getElementsByTagName( 'ul' )[0];
+
+			var aNode = document.createElement( 'a' );
+			var liNode = document.createElement( 'li' );
+
+			aNode.appendChild( document.createTextNode( name ) );
+			aNode.setAttribute( 'href', link );
+			liNode.appendChild( aNode );
+			liNode.className = 'plainlinks' + number;
+            liNode.id = 'plainlinks' + number
+			node.appendChild( liNode );
+		}
+
+		if ( action == 'remove' ) {
+			var list = document.getElementById( target )
+							   .getElementsByTagName( 'div' )[0]
+							   .getElementsByTagName( 'ul' )[0];
+
+			var listelements = list.getElementsByTagName( 'li' );
+
+			for ( var i = 0; i < listelements.length; i++ ) {
+				if (
+					listelements[i].getElementsByTagName( 'a' )[0].innerHTML == name ||
+					listelements[i].getElementsByTagName( 'a' )[0].href == link
+				)
+				{
+					list.removeChild( listelements[i] );
+				}
+			}
+		}
+
+
+	} catch( e ) {
+		// let's just ignore what's happened
+		return;
+	}
+}
+
+function CustomizeModificationsOfSidebar() {
+	// adds [[Special:CategoryTree|Special:CategoryTree]] to toolbox
+	//ModifySidebar( 'add', 'toolbox', 'CategoryTree', 'https://en.wikipedia.org/wiki/Special:CategoryTree' );
+	// removes [[Special:Upload|Special:Upload]] from toolbox
+	//ModifySidebar( 'remove', 'toolbox', 'Upload file', 'https://en.wikipedia.org/wiki/Special:Upload' );
+    //ModifySidebar('remove', '近期變更','近期變更','recentchanges-url|recentchanges');
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var xmlDoc = this.responseXML;
+        var x = xmlDoc.getElementsByTagName("rc");
+        var i;
+        var name = "";
+        var date1;
+        var day;
+        var month;
+        var year;
+        var checkday;
+        var date2;
+        var number;
+        var h3=document.createElement("LI");
+        h3.style.marginTop="10px";
+        h3.style.marginBottom="4px";
+        h3.style.fontSize="12px";
+        h3.style.color="#54595d";
+        h3.style.backgroundImage="linear-gradient(to right,rgba(200,204,209,0) 0,#c8ccd1 33%,#c8ccd1 66%,rgba(200,204,209,0) 100%)";
+        h3.style.backgroundRepeat="no-repeat";
+        h3.style.backgroundPosition="center bottom";
+        h3.style.backgroundSize="100% 1px";
+        var texth3=document.createTextNode("最近20則變更");
+        h3.appendChild(texth3);
+        h3.className = "rc20";
+        document.getElementById("n-所有變更").appendChild(h3);
+        date1 = new Date(x[0].getAttribute('timestamp'));
+        day = date1.getDate();
+        month = date1.getMonth() + 1;
+        year = date1.getFullYear();
+        date2 = year + "年" + month + "月" + day + "日";
+        var h31=document.createElement("LI");
+        h31.style.marginTop="3px";
+        h31.style.fontSize="12px";
+        h31.style.color="#54595d";
+        var texth31=document.createTextNode(date2);
+        h31.appendChild(texth31);
+        h31.className = "date" + i;
+        document.getElementById("n-所有變更").appendChild(h31);
+        checkday = day;
+        var listid = 0;
+        var listname = "";
+        var h32=document.createElement("LI");
+                    h32.style.marginTop="4px";
+                    h32.style.marginBottom="1px";
+                    h32.style.fontSize="12px";
+                    h32.style.color="#54595d";
+        for(i = 0; i < x.length; i++){
+               name = x[i].getAttribute('title');
+               date1 = new Date(x[i].getAttribute('timestamp'));
+               day = date1.getDate();
+               if(checkday != day){
+                    month = date1.getMonth() + 1;
+                    year = date1.getFullYear();
+                    date2 = year + "年" + month + "月" + day + "日";
+                    var texth32=document.createTextNode(date2);
+                    h32.appendChild(texth32);
+                    h32.className = "date" + i;
+                    listid = i - 1;
+                    listname = "plainlinks" + listid;
+                    document.getElementById(listname).appendChild(h32);
+                    checkday = day;
+               }
+               ModifySidebar('add','近期變更', name,'https://rekowiki.org/wiki/'+name, i);
+        }
+    }
+  };
+  xhttp.open("GET", "https://rekowiki.org/w/api.php?action=query&format=xml&list=recentchanges&rcdir=older&rcprop=title%7Ctimestamp&rclimit=20&rctype=edit%7Cnew&rctoponly=1", true);
+  xhttp.send();
+}
+
+
+function NumberOfArtlist() {
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+    if (this.readyState == 4 && this.status == 200) {
+        var xmlDoc = this.responseXML;
+        var x = xmlDoc.getElementsByTagName("statistics");
+        var h3=document.createElement("LABEL");
+        h3.style.marginTop="3px";
+        h3.style.marginLeft="7px";
+        h3.style.fontSize="12px";
+        h3.style.color="#54595d";
+        var texth3=document.createTextNode("現時條目數：");
+        h3.appendChild(texth3);
+        h3.id = "record";
+        document.getElementById("p-所有頁面").appendChild(h3);
+        var h31=document.createElement("LABEL");
+        h31.style.marginTop="3px";
+        h31.style.marginLeft="7px";
+        h31.style.fontSize="12px";
+        h31.style.color="#54595d";
+        var number = x[0].getAttribute('articles');
+        var texth31=document.createTextNode(number);
+        h31.appendChild(texth31);
+        h31.id = "recordnumber";
+        document.getElementById("record").appendChild(h31);
+      }
+    };
+  xhttp.open("GET", "https://rekowiki.org/w/api.php?action=query&format=xml&meta=siteinfo&siprop=statistics", true);
+  xhttp.send();
+}
+
+jQuery( CustomizeModificationsOfSidebar );
+jQuery( NumberOfArtlist );
+
+// Check if we're editing a page.
+if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
+	// Add a hook handler.
+	mw.hook( 'wikiEditor.toolbarReady' ).add( function ( $textarea ) {
+		// Configure a new toolbar entry on the given $textarea jQuery object.
+		$textarea.wikiEditor( 'addToToolbar', {
+			section: 'main',
+			groups: {
+				list: {
+					tools: {
+						templates: {
+							label: '常用語法',
+							type: 'select',
+							list: {
+								'Title-button': {
+									label: '頁面標題(h0模板)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{h0|}}'
+										}
+									}
+								},
+								'Ruby-button': {
+									label: 'Ruby模板(無參數)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{ruby|主內容|標記文字}}'
+										}
+									}
+								},
+								'Ruby2-button': {
+									label: 'Ruby模板(參數版)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{ruby| text= | pronounce= | style= }}'
+										}
+									}
+								},
+								'ref-button': {
+									label: '備註',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '<ref></ref>'
+										}
+									}
+								},
+								'ref2-button': {
+									label: '備註(模板)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{ref | 備註內容 | 備註組別 }}'
+										}
+									}
+								},
+								'anchor-button': {
+									label: '隱形錨點',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{anchor| 匿名參數1 }}'
+										}
+									}
+								},
+								'youtube-button': {
+									label: 'Youtube(影片)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{youtube|<影片編號>|<連結文字（選用）>|<time=開始時間（選用）>}}'
+										}
+									}
+								},
+								'youtube1-button': {
+									label: 'Youtube(用戶)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{youtube|<user=用戶編號>|<2=連結文字（選用）>}}'
+										}
+									}
+								},
+								'youtube2-button': {
+									label: 'Youtube(頻道)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{youtube|<channel=頻道編號>|<2=連結文字（選用）>}}'
+										}
+									}
+								},
+								'youtube3-button': {
+									label: 'Youtube(清單)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{youtube|<playlist=播放清單編號>|<2=連結文字（選用）>}}'
+										}
+									}
+								},
+								'nico-button': {
+									label: 'Niconico(影片)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{sm|<影片編號>|<連結文字（選用）>}}'
+										}
+									}
+								},
+								'nicoim-button': {
+									label: 'Niconico(靜畫)',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{im|<影片編號>|<連結文字（選用）>}}'
+										}
+									}
+								},
+								'wiki-button': {
+									label: '維基百科',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{wp|<維基百科標題>|<顯示標題>|<lang=語種>}}'
+										}
+									}
+								},
+								'twitter-button': {
+									label: 'Twitter',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{twitter|<用戶編號>|<貼文編號>}}'
+										}
+									}
+								},
+								'color-button': {
+									label: '文字顏色',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{color|文字色|背景色|文字內容}}'
+										}
+									}
+								},
+								'Done-button': {
+									label: '塗黑',
+									action: {
+										type: 'encapsulate',
+										options: {
+											pre: '{{censored|}}'
+										}
+									}
+								}
+							}
+						}
+					}
+				}
+			}
+		} );
+
+	} );
+}
+
+/**
+ * Extra buttons in toolbar
+ * @stats [[File:Krinkle_InsertWikiEditorButton.js]]
+ */
+$.ajax({ dataType: 'script', cache: true,
+	url: 'https://meta.wikimedia.org/w/index.php?title=User:Krinkle/Scripts/InsertWikiEditorButton.js&action=raw&ctype=text/javascript'
+}).then(function () {
+
+	krInsertWikiEditorButton({
+		id: "mw-customeditbutton-myspecialbutton",
+		icon: "//upload.wikimedia.org/wikipedia/commons/1/1a/Toolbaricon_strike.png",
+		label: '刪除線',
+		insertBefore: '<s>',
+		insertAfter: '</s>',
+		sampleText: ''
+	});
+
+
+});
