@@ -1751,7 +1751,7 @@
 | Windows Me
 | rowspan="3"|電腦OS
 | 系統不穩定
-| 全名Windows <s>Many Errors</s> <s>Mistake Edition</s> Millennium Edition<br>為微軟最後一個16/32位元混合式OS<ref>此後從Windows 2000及Windows XP開始，其核心架構皆為NT架構</ref><br>雖然是以Windows 98為基底上開發，但微軟為了讓本系統進一步32位元化以及提升效能而摒棄了真實模式的DOS環境，但此技術問題令本系統極度不穩：動不動就當機、藍屏、系統資料莫名消失等都是家常便飯<s>連裝個驅動也會藍屏是哪招？</s>，系統還原方面甚至出現建立在2001年9月8日之後的檢查點還原會觸發還原失敗的BUG，此外Windows Me的多媒體程式也可在Windows 98SE執行這方面也對Windows Me大打折扣<br>總合上述缺點，連微軟工程師也承認Windows Me是一個失敗的過渡性產品，同時又被同期的給商業用戶打造的Windows 2000以及後來誕生的Windows XP比下去，[https://www.pcworld.com/article/535838/worst_products_ever.html 亦同時於PC World網站「入選」25大最差科技產品的殿軍（第4名）]
+| 全名Windows <s>Many Errors</s> <s>Mistake Edition</s> Millennium Edition<br>為微軟最後一個16/32位元混合式OS<ref>此後從Windows 2000及Windows XP開始，其核心架構皆為NT架構</ref><br>雖然是以Windows 98為基底上開發，但微軟為了讓本系統進一步32位元化以及提升效能而摒棄了真實模式的DOS環境，但此技術問題令本系統極度不穩：動不動就當機、藍屏、系統資料莫名消失等都是家常便飯<s>連裝個驅動也會藍屏是哪招？</s>，系統還原方面甚至出現建立在2001年9月8日之後的檢查點還原會觸發還原失敗的BUG，此外Windows Me的多媒體程式也可在Windows 98SE執行這方面也對Windows Me大打折扣<br>總合上述缺點，連微軟工程師也承認Windows Me是一個失敗的過渡性產品，同時又被同期的給商業用戶打造的Windows 2000以及後來誕生的Windows XP比下去，[https://www.pcworld.com/article/535838/worst_products_ever.html 亦同時「入選」PC World網站25大最差科技產品的殿軍（第4名）]
 |-
 | Windows Vista
 | 生不逢時
