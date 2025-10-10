@@ -195,7 +195,7 @@
 <center>
 {| class="wikitable sortable mw-collapsible" style="margin: 1.5em auto;" 
 |-
-! 年份/作者/原所屬作品 !! (歌手)/曲名 !! (年份/頻道名)〈編入劇集名〉人物/場景 !!  備註 
+! 年份/作者/原所屬作品(專輯) !! (歌手)/曲名 !! (年份/頻道名)〈編入劇集名〉人物/場景 !!  備註 
 |-
 || 〈[[北斗の拳]]〉 || [https://youtu.be/b1BN4R-4SSE TV版OST]-[https://youtu.be/dj2VIDaYN3o 伝説の男] ||rowspan = "2"  | 《霹靂》✾[https://youtu.be/cqpSnSDmatM&t=46s 紫脈線OP]、<br>'97 智冠〈霹靂幽靈箭〉✾[https://youtu.be/Pm1Gu7PNUJ4?t=138 大地圖]|| 主體
 |-
@@ -297,6 +297,10 @@
 | '87 黃霑〈倩女幽魂II道道道〉 || 張學友《[https://youtu.be/kfcUnPP3xmg 人間道]》 || rowspan = "2"  |《霹靂》[https://youtu.be/q3_fIirjZbA 黑木蘭]|| 主體
 |-
 | 1876 Henry Clay Work||[https://www.youtube.com/results?search_query=My+Grandfather%27s+Clock My Grandfather's Clock/古老的大鐘] || B段
+|-
+|'92 KEY WEST CLUB||〈[https://youtu.be/UfUJHJdP0as 夢はマジョリカ・セニョリータ]〉|| rowspan = "2"  | '92 小諸鉄矢〈[[美少女戰士]]〉✾[https://youtu.be/LGQCPOMcYJQ OP]<br>DALI－[https://youtu.be/Kupe5CwGygU ムーンライト伝説]|| 另有[https://youtu.be/wgfAVuO9SP4 同詞換曲版演唱]<br>另一常見相似曲例為<br>'91 みけ〈[https://youtu.be/faf1rWVHBqA 想い出の九十九里浜]〉<br>與其致敬來源ー<br>'67 ザ・ピーナッツ〈[https://youtu.be/5vRXThOpAqY 恋のフーガ]〉
+|-
+|'65 倍賞千恵子||[https://youtu.be/ieT9F1Oza4M さよならはダンスの後に] || 著作糾紛經JASRAC調解
 |-
 |}
 </center>
@@ -1243,7 +1247,7 @@
 |-
 || [https://youtu.be/W0j5lki9hGU 仕掛けて仕損じ無し]||《霹靂》✉杜啞子||神似〈マシンロボ〉的[https://youtu.be/6BycLVzIcPo ロム變身登場BGM]
 |-
-|| [https://youtu.be/jYvJsiQdZ-w 問答無用] ||《霹靂》✉[https://youtu.be/xwlPbqdXs6s&t=106 舞劍魄]||
+|| 川田ともこ－[https://youtu.be/zY-KpLZZnzk あかね雲]<br>[https://youtu.be/jYvJsiQdZ-w 問答無用] ||《霹靂》❏[https://youtu.be/9KBFu38gcoo 無不愛秋水宴變裝]||
 |-
 | rowspan="3" |'97 矢野立美〈[[超人力霸王系列|ウルトラマン]]ダイナ〉||[https://youtu.be/ORdlLyb0HLY 光の巨人、ふたたび]||《霹靂》✂[https://youtu.be/H5IFKRSb194 風暴EP40收檔曲]|| 職棒[https://youtu.be/vjk7r63EDAM 詹子賢應援曲]
 |-
@@ -1602,6 +1606,8 @@
 ||'67 [[雙子|こまどり姉妹]]||和田香苗〈[https://youtu.be/0HdfwqEkz08 三味線渡り鳥]〉||〈金簫客〉☻劉燕燕－[https://youtu.be/79T5eda-6w0 俠女流浪記](玉琵琶)]||
 |-
 ||'67 Los Bravos || 〈[https://youtu.be/QkwmSzPdVnY Black is Black]〉 || (野台)❏ [https://youtu.be/Aq3itSXWZ5g?t=21 早期雜用武戲] || 
+|-
+|| '67 Four Tops || [https://youtu.be/yPYWtOj9_7I Standing In The Shadows Of Love] || 早期血戰場面曲<br>《霹靂》❏獨眼龍獨闖九層天 || 使用倫敦交響樂團[[https://youtu.be/sy7uvEwjVdM 演奏曲源]
 |-
 ||'69 許瓊芳||謝有?〈[https://youtu.be/XKYOaabD6_w 十一哥/十一姑]〉||《金光》十一姑、☻黃俊雄－[https://youtu.be/SrOML9It0Us?t=650 劉三自報家門]||自從[https://youtu.be/-18I2kbdz3A 鄧麗君版]問世後橫跨台港南洋的名曲，也有[https://youtu.be/Zhe8XwOaraI 黑膠唱片]留存，<br> 另有[https://youtu.be/v8wOl-c1FZY&pp=ygUT5Y2B5LiA5ZOlIOmDkemUpuaYjA%3D%3D 鄭錦昌版]、[https://youtu.be/J84f7zy4mbE 尹光+胡美儀版]、[https://youtu.be/rgHNNOkchMU 尹光+何國材版]
 |-
