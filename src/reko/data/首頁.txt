@@ -1,0 +1,64 @@
+[[檔案:Reiko_amemiya.webp|550px|置中]]
+<div style='text-align: center;'>'''Hello World. 歡迎你來到Reko Wiki，一個自由的繼承者的國度。'''</div>
+== 歡迎辭 ==
+
+* 本站由Cross氏建立。並由前[[Komica Wiki]]的[[Reko Wiki主要編輯者介紹|核心編輯者]]作為管理議會集體營運。
+** 本站看板角色為[[Reko Wiki板娘|禮子]]（圖中的女性）和[[RekoWiki吉祥物|莫尼特]]（右上的貓頭鷹））
+* 本站為Komica Wiki的精神續站，目前和於Fandom託管的[https://newkomica-kari.fandom.com/zh-tw/wiki/ New Komica Wiki（仮）]（簡稱Fandom版）並行。
+** 我們目前是以本站作為主wiki使用，[[Fandom版wiki]]為備份。
+<!--*** 但Fandom的政策與制度上較為嚴謹，本站部分內容因為違反相關規定無法備份；甚至有管理員直接遭停權而未被通知
+*** 另有部分[[廚]]於該站活躍，破壞內容若未經<s>還存在的</s>管理員及時處理可能會被同步至此
+*** 目前經內部討論雖然將走向閉站，但因遷移前置作業費時、仍需很長一段時間進行。-->
+** 另外[https://yuki.komica1.org/index.php/首頁 1883版新Komica Wiki]（簡稱Yuki版）未能連線，隨著1883放棄komica1網域形同報銷。
+
+== 重要事項簡易公告 ==
+
+{| class="wikitable" style="margin: 1.5em auto; text-align:center;" 
+|-
+| {{color|red||'''此公告為簡易版，放置的內容有可能常駐，也有可能是站內近況或最新制度說明。'''}}
+|-
+| {{color|green||'''此處仍提供[[Reko Wiki使用須知]]連結供詳閱。<br>若您是曾經接觸PukiWiki時代/Kwiki時代的編者，請務必閱讀此條目以了解現今Reko與舊時代的編輯規則的異同。'''}}
+|}
+
+{| class="wikitable" style="margin: 1.5em auto;"
+|-
+! 公告類型 !! 簡易說明
+|-
+! 常駐警告 || '''{{color|red||Reko Wiki使用的仍是MediaWiki系統，其反破壞能力極強，奉勸破壞者勿白費心機！}}'''
+|-
+| 常駐警告 || '''{{color|red||我們絕不容許任何三次元兒色的存在。任何上傳此類圖片者，我們會立刻刪除和永ban。舊Komica Wiki就是這樣被他們爆破的。}}'''
+|-
+| 常駐公告 || '''{{color|red||創建條目時請勿過度抄襲，或大量機械翻譯後不加整理。<br>建議先前往個人沙盒撰寫或改寫好一定份量再行創建，且勿事後將條目放置Play。}}'''
+|-
+| 近況公告 || '''{{color|blue||正式宣達：我們正在整頓「與ACGN無關之現實人物資料被過度補遺」的狀況。}}'''
+|-
+| 近況公告 || '''{{color|blue||因應近期正在整頓空洞/抄襲/過度參雜與ACGN無關之現實人物之條目或內容，我們列出了[[Reko Wiki使用須知#Reko_Wiki可建立條目內容列表|Reko Wiki可建立條目內容列表]]。<br>請務必點選連結以詳閱。}}'''
+|-
+| 普通公告 || 即便Reko Wiki應該不會歷史重演，但仍'''強烈建議各編者平日即做好定期備份條目的習慣'''。各種網路時光機網頁並非萬能。
+|-
+| 最後重申 || 請務必點選連結詳閱使用須知。
+|}
+
+若您想檢視關閉的置頂公告或註冊須知，請至 [[Reko Wiki使用須知#公告專區]] 找尋。
+
+== wiki簡介 ==
+
+* 本wiki的設立目的有三：
+*# 繼續當年Komica Wiki的編寫，記錄所有現實，網絡，二次元乃至現實知識等社會，流行文化相關的資訊，將我們鍾愛的文化傳承下去。
+*# 鑒於Fandom的風氣過於保守（無法收錄部分內容），因此我們已無打算以之為主wiki；而1883版wiki則因為各種無能和後知後覺，劣跡斑斑不獲眾人信任，因此眾編輯者特開設Reko Wiki以脫離以上兩勢力的影響。
+*# 因為Komica Wiki目前已成眾多破壞者的目標，因此有必要另起爐灶以規避之。
+
+=== 為什麼叫Reko Wiki? ===
+
+* Reko此詞由Woomy What氏所創作，綜合自WILLIAM0708氏的Reco-K（Reconquista in K）和Cross氏的Rekord兩詞。
+** Reko包含了以下三個意思：
+**# 「Reconquista」（收復失地），意指本Wiki乃是編輯者們發起的復興Komica Wiki的[[鋼彈 Reconguista in G|復國運動]]；
+**# 「Record」（記錄），乃是本wiki一直恪守的「記錄流行文化大小事」的宗旨；
+**# 「'''Re''':從零開始的'''Ko'''mica Wiki」，象徵著本Wiki為繼承了Komica Wiki人民意願，作為眾編輯者意志的代表的正統繼承wiki。
+* <s>當然，我們改名的原因還是有因為規避1883的版權炮，畢竟Komica是已經被註冊商標的詞語。</s>
+* <s>另外Pioneer自家的DJ軟件名為'''Rekord'''box。</s>
+
+== 討論 ==
+<comments />
+
+__NOEDITSECTION__

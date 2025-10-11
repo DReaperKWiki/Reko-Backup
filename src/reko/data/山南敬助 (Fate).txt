@@ -84,32 +84,6 @@
 	|range= 1~5
 	|maxcaught= 30人
 	|explain= 與友集結，與友同行，殺害友人，從友人身邊逃走的那日的山櫻。<br>削減行將消散的自己的靈基，給己方陣營帶來增益的強化寶具。<br>原本是完全犧牲靈基的自裁寶具，但由於接受並承認了過去而昇華為對軍寶具。<br>是與那日的自己的訣別。<br><br><br>「——我已經，不會再逃了」
-
-{{Fate Noble Phantasm Row
-		|image=     [[file:誓いの羽織.jpg|300px|center]]
-		|color=     white
-		|bgcolor=   #00a3af
-		|name=      誓言的羽織
-		|pronounce= 誓いの羽織
-		|rank=      C
-		|type=      對人寶具
-		|range=     1
-		|maxcaught= 1人 
-		|explain=   淺蔥色的羽織。幕末時撼動首都的新選組的著名裝扮，昇華為寶具後的結果。<br>資料並沒有列出。
-	}}
-
-{{Fate Noble Phantasm Row
-|color=     white
-|bgcolor=   #00a3af
-|name=      誠之旗
-|pronounce=  誠の旗
-|rank=      B
-|type=      對軍寶具
-|range=     1~50
-|maxcaught= 1~200人
-|explain=   所有新選組的組長都擁有都擁有的寶具。標示著「誠」一文字的新選組隊旗。<br><br>只要揭示這面旗，可在一定範圍內的空間裡召喚出新選組的隊員。<br>雖然每位隊員都是獨立的Servant，但因為沒攜帶寶具所以戰鬥能力各有落差。全員都擁有相當於E-級的「單獨行動」技能，短時間內即使沒有Master也可以活動。<br><br>所召喚來隊員的面貌和性格，會依據發動者的心像而多少產生變化。此外，也會有因為與召喚者交情惡劣而不回應的家伙。<br>擔任總長<ref>地位在局長之下，副長之上</ref>且作為新選組起源人物之一的山南理論上也應該持有此寶具}}
-|}
-
 }}
 
 === Fate/Grand Order專屬概念禮裝 ===

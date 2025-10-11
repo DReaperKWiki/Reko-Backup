@@ -379,5 +379,13 @@ $.ajax({ dataType: 'script', cache: true,
 		sampleText: ''
 	});
 
-
 });
+
+
+$( () => {
+    $('.reference > a').each((i, a) => {
+        const $a = $(a);
+        const $note = $(`${$a.attr('href')} > .reference-text`);
+        $a.attr('title', $note.html())
+    });
+} );

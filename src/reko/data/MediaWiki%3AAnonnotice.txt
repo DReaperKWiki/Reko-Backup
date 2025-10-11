@@ -1,0 +1,11 @@
+<!-- 更新本公告後，需要增加 [[MediaWiki:Sitenotice_id]] 的數字 (+1) ，曾點選過 '''關閉''' 公告按鈕的人才會重新看到公告 -->
+
+<div style="text-align: center; border: solid 2px #DDD; background: #F8F8F8; padding: 0 0.5em;">
+
+有關 Reko Wiki的 <abbr title="例如幼幼廚之類的非法內容、網站遭破壞入侵等">緊急事件</abbr> 可以聯絡 crossbonegod@gmail.com 、 [https://www.facebook.com/reko.wiki.org/ Facebook專頁] 、 [https://discord.gg/3JyNBg32Hk Discord群組]
+
+為保護條目，現時須註冊並確認電郵才能夠進行編輯；因大量 AI 爬蟲湧入超出伺服器負荷，亦 [[Reko_Wiki:公告_AI爬蟲對策|禁止於未登入狀態下檢視歷史頁面與紀錄]]，若有連線不穩可至 discord 回報。
+
+營運 Reko Wiki 的 [[User:Cross|Cross]] 將有一段時間失業，故開放 [https://buymeacoffee.com/crossbonegod Buy Me A Coffee] 贊助伺服器費用以及域名年費。
+
+</div>
