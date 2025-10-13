@@ -15,6 +15,18 @@
 !評價
 !備註
 |-
+|rowspan = "2"|丁丁歷險記<br>（Les Aventures de Tintin）
+|金毛號寶藏之迷<br>（Tintin et le mystère de la toison d'or）
+|1961
+|電影（法國&比利時）
+|良作
+|rowspan="2"|第一集在真人化罕見的年代保持一級水準，第二集因為缺乏艾爾吉監督所以劇本質素下滑<br>丁丁的主演Jean-Pierre Talbot在電影完成後重拾體育教職，在丁丁迷中小有名氣；而第一任哈達克船長的演員Georges Wilson就是藍柏·威爾森的爸爸(！)<br><br>[https://www.youtube.com/watch?v=P6Rfq5f5Gb0 小狗米路的BGM]怎麼像大山版哆啦A夢的主題曲？
+|-
+|丁丁與藍橙子<br>（Tintin et les Oranges bleues）
+|1964
+|電影
+|普
+|-
 |rowspan = "3"|[[大力水手]]<br>（Popeye the Sailor）
 |大力水手<br>（Popeye the Sailor）
 |1980
@@ -152,11 +164,25 @@
 |低下
 |採用真人混3D的製作手法，主角也找回十多歲的童星演出，但受到前作真人化的影響而不太受觀迎
 |-
+|斯皮魯 <br>（Spirou）
+|斯皮魯和方大炯歷險記 <br>（Les aventures de Spirou et Fantasio）
+|2018
+|電影（法國&比利時）
+|低下
+|André Franquin漫畫真人化三部曲之一<br>總之就是劇本和冷笑話弄壞了電影，白白浪費了精美的服裝和場景<br><s>明明是英雄主角方還要主力子供向，Spirou為何變成假扮酒店服務員的扒手啊？</s>
+|-
 |colspan="2"|加斯頓 <br>（Gaston Lagaffe）
 |2018
-|電影（法國）
+|電影（法國&比利時）
 |贊否兩論
-|如果不理會年代、公司類型、1981年版更糟<s>作者不准用角色名字</s>的慘遭真人化版本，這個「傻子救公司」的故事也能博君一笑的<br>由於選角問題，主角從呆瓜升格成殘念帥哥，不合身的毛衣也變成殺必死(笑)
+|André Franquin漫畫真人化三部曲之二<br>如果不理會年代、公司類型、1981年版更糟<s>作者不准用角色名字</s>的慘遭真人化版本，這個「傻子救公司」的故事也能博君一笑的<br>由於選角問題，主角從呆瓜升格成殘念帥哥，不合身的毛衣也變成殺必死(笑)
+|-
+|Marsupilami
+|追踪長尾豹馬修 <br>（Sur la piste du Marsupilami）
+|2018
+|電影（法國&比利時）
+|中上
+|André Franquin漫畫真人化三部曲之三<br>真人化質素最好的反而是牠...而且會出續集
 |-
 |colspan="2"|[[湯姆與傑利]]<br>(Tom and Jerry）
 |2021
