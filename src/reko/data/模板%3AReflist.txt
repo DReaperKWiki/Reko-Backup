@@ -1,0 +1,1 @@
+{{#tag:references|{{{refs|}}}|group={{{group|}}}|responsive={{#if:{{{1|}}}{{{colwidth|}}}|0|1}}}}

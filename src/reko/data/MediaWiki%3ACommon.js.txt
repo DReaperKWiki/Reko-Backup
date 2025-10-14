@@ -152,11 +152,11 @@ function CustomizeModificationsOfSidebar() {
                     document.getElementById(listname).appendChild(h32);
                     checkday = day;
                }
-               ModifySidebar('add','近期變更', name,'https://rekowiki.org/wiki/'+name, i);
+               ModifySidebar('add','近期變更', name,'/wiki/'+name, i);
         }
     }
   };
-  xhttp.open("GET", "https://rekowiki.org/w/api.php?action=query&format=xml&list=recentchanges&rcdir=older&rcprop=title%7Ctimestamp&rclimit=20&rctype=edit%7Cnew&rctoponly=1", true);
+  xhttp.open("GET", "/w/api.php?action=query&format=xml&list=recentchanges&rcdir=older&rcprop=title%7Ctimestamp&rclimit=20&rctype=edit%7Cnew&rctoponly=1", true);
   xhttp.send();
 }
 
@@ -188,7 +188,7 @@ function NumberOfArtlist() {
         document.getElementById("record").appendChild(h31);
       }
     };
-  xhttp.open("GET", "https://rekowiki.org/w/api.php?action=query&format=xml&meta=siteinfo&siprop=statistics", true);
+  xhttp.open("GET", "/w/api.php?action=query&format=xml&meta=siteinfo&siprop=statistics", true);
   xhttp.send();
 }
 

@@ -1,0 +1,801 @@
+{{h0|同人STG系列作品列表/Doujin Stg/Doujin Shmup }}
+
+==解說 ==
+*為了跟[[2D捲軸射擊遊戲系列作品列表]]作區分而另外開的條目
+**主要為同人STG製作團隊及遊戲的簡介
+
+==原創作品==
+===[http://www16.big.or.jp/~zun/ 上海アリス幻樂団] ===
+* [[東方Project]]
+* [[黄昏酒場～Uwabami Breakers～]]
+
+===[http://ss-do.sakura.ne.jp/ 瞬殺サレ道?(被瞬殺之道)]→[https://twitter.com/pbghogehoge Twitter] ===
+* [[西方Project]](秋霜玉、稀翁玉、幡紫竜)
+* SUPERまてまてレーザー
+* まてまて！？クエスチョン-外伝
+
+===[http://www.rebrank.org/ RebRank(戰績實驗室)][[RebRank|(條目)]]→[https://twitter.com/blankvision Yoko]===
+* [[五月雨～samidare～]]
+* [[RefRain～prism memories～]]
+
+=== [http://mugentrick.tubakurame.com/ トリック・ノスタルジー(Trick Nostalgie)]→[https://twitter.com/mugen_Jinx Twitter] ===
+* [[連緣Project]]
+* [[連緣Project登場人物一覽-part 1]]
+* [[連緣Project登場人物一覽-part 2]]
+
+===[http://sorafunekokake.web.fc2.com/ ソラフネ工房]→[https://twitter.com/miffy_krsw_srfn Twitter] ===
+* [[鳥竜-ToriTatsu-デスレーベル]]
+{{hideh|鳥竜Ⅱ-復讐者達の本懐-}}
+* 炸彈改為Burst、能短時強化射擊(相對敵彈也會強化)及手動Rank
+** 新增其他作品的自機(藍色願望<s>、機甲利茲、D-STARS</s>)
+*** 可惜的是作者只完成到五面
+{{hidef}}
+
+===[http://www.siterskain.com/ SITER SKAIN][[SITER SKAIN（シタースケイン）|(條目)]]→[https://x.com/jirumimi twitter]===
+* [[神威-kamui-]]
+* [[RefleX]] 
+* [[ALLTYNEX Second]]
+
+===[http://itbs.sakura.ne.jp/ sectionS] →[https://x.com/Oo_sorano_oO そらのちゃん]===
+* [[RAYGING BLUE's-conflict warred-|RAYGING BLUE's]](RGBs)
+
+===[http://web.archive.org/web/20221205221511/http://tennen-sozai.com/ 天然素材(FLAT)][[天然素材（てんねんそざい）|(條目)]]===
+* [[PHANTASM]]
+* [[eXceed-Gun Bullet Children-]]
+* [[eXceed2nd-VAMPIRE REX-]]
+* [[eXceed3rd-JADE PENETRATE- BLACK PACKAGE]]
+
+===[http://rmk2pwt.blog61.fc2.com/ 現の礎　-Foundation of reality-]→[https://twitter.com/Rolie_csc Rolie] ===
+* [[赤鯱-次世代-/Dolphin Red-2ND AGE-]]
+* 赤鯱 -Origin's Saga-[http://rmk2pwt.blog61.fc2.com/blog-entry-1141.html Ver1.00]
+
+===[http://www.blue-and-white.net 「BLUE&amp;WHITE」][[Blue＆White|(條目)]]→[https://twitter.com/morikem04 Twitter] ===
+* [[Blue Knights]]
+* [[BLUE SABERS|Blue Sabers]]
+* [[Blue Sabers-Operation Orbital Hammer-]]
+* [[Tails Gear]]
+* [[Blue Sabers Early Mission]](2018/12/29)
+
+===[http://es4th.blog.fc2.com/ ES4TH]→[https://twitter.com/praynex EternalSphere4(twitter)]/[https://www.pixiv.net/users/4407307 R∴YNEX™(Pixiv)]===
+* GRAND CROSS: ReNOVATION
+
+===[http://web.archive.org/web/20140508114709/http://www85.sakura.ne.jp/~loop/ 永久る～ぷ][[永久る～ぷ|(條目)]]→[https://twitter.com/heppoko へっぽこ]===
+* [[TWilight INSanity]]
+* [[TWilight refrAIN]]
+* [[Alternative Sphere]]
+
+===[http://sanagimaru.nobody.jp/ RUMINANT'S WHIMPER(芻嗚)]→[https://twitter.com/tonnyoriclayer  し鳳]===
+* [[らじおぞんで]]
+* [[HellSinker.]]
+
+===[http://daidai.moo.jp/ 橙汁][[橙汁|(條目)]] ===
+* [[きゅぴシュー]]
+** くりすまシュ～
+
+* [[スグリ]]
+** Acceleration of SUGURI
+
+* [[ソラ]]
+** Acceleration of SUGURI2
+
+* [[空飛ぶ赤いワイン樽]]
+
+* [[きゅぴシュ～DANGEROUS!!]]
+* [[くりすまシュ～SCRAMBLE!!]]
+
+==={{Anchor|RezetiA}}[http://web.archive.org/web/20100308100425/http://rezet.rdy.jp/rezetia/index.html RezetiA] ===
+* [[PlaDzmA]]
+{{hideh|[http://web.archive.org/web/20091126154118/http://rezet.rdy.jp/rezetia/index8.html Zillion Beatz]}}
+*超連擊STG
+*系統
+**高速→火神炮
+**低速→雷射
+**BEAT MACHINE MODE/奏械模式:觀賞Boss彈幕難易度的模式
+*自機
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! '''機體''' !! '''類型''' !! '''炸彈數''' 
+|-
+|爍神星/Asterope/アステローペ||攻擊範圍重視型||4
+|-
+|慧神星/Minerva/ミネルヴァ||移動速度重視型||3
+|-
+|豐神星/Nerthus/ネルトゥス||頂極平衡型||1
+|}
+
+{{hidef}}
+{{hideh|[http://web.archive.org/web/20090429113054/http://rezet.rdy.jp/rezetia/index9.html PriZhm]}}
+*奇幻橫向STG,全破解鎖Rhythm MACHINE MODE/旋律機械模式:觀賞Boss彈幕難易度的模式
+**高速→通常射擊、低速→雷射射擊
+***Ruby/露比:火屬性,平衡型
+***Lin/蓮:雷屬性,高速移動、集中攻擊型
+***Lazuli/拉絲莉:水屬性,低速移動、廣範圍攻擊型
+** [http://www.4gamer.net/games/040/G004096/20081119040/ 4Gamer]
+{{hidef}}
+
+===[http://web.archive.org/web/20040203051524/http://village.infoweb.ne.jp:80/~twin/start.html TwinkleSoft(閃亮計劃)] ===
+* [[Excess Fraction]]
+* [[Rally Raid]]
+* [[Barrage Tribe]]
+
+===[http://www.platinedispositif.net/ PlatineDispositif(白金裝置)]→[https://twitter.com/pdplatine PdPlatine]/[https://twitter.com/_murasame あんころむらさめ]===
+* [[Gundemonium]]
+** Gundemonium re:collection
+** Gundemoniums
+* [[GunDeadligne]]
+* [[Hitogata Happa]]
+* [[BloodVane]]
+
+===[http://ohbado.sakura.ne.jp/ OHBA堂]→[https://twitter.com/ohbado Twitter]===
+*[[Angeraze]]
+*[[Angeraze2 天使ノ軌跡]]
+
+===[https://piapro.jp/my_page/?view=profile&pid=h_ryuuki Twilight destiny]→[https://mobile.twitter.com/h_ryuuki Twitter(星崎竜輝)]/[https://www.pixiv.net/users/600413/artworks ほっしー(Pixiv)]===
+{{hideh|[http://web.archive.org/web/20070528083813/http://www.ne.jp/asahi/twilight/destiny/hien.html 飛燕伝説空の章]}}
+*全4面(其實第5面沒有完成),可選四種屬性的巫女為自機
+**射擊可自動連射、擅長該自機屬性的火力較大
+**相剋為地→水→<s>混著雷的</s>火→風→地
+***集魔法書道具能增加可使用到12種的切換技能及火力
+***相對有血量和能量制、一受傷則失去上述的部份用量
+**缺點是敵機子彈大小不一、和頭目的風格不搭
+{{hidef}}
+
+{{hideh|[http://web.archive.org/web/20070630172732/http://www.ne.jp/asahi/twilight/destiny/hien_kokuu.html 飛燕伝説虚空の章]}}
+*全6面,可選自機減少到兩位
+**技能採集氣制還多出一個時屬性(達15招)<s>更難操作了...</s>
+**道中皆有技能任務、不過即GameOver
+{{hidef}}
+
+===[http://photonsystem.com/ PhotonSystem(フォトンシステム)] ===
+* [[Nonet]]
+* [[Nonet Overture]]
+
+===[http://web.archive.org/web/20200202070119/http://dos810.sakura.ne.jp/ どすこい飯店]→[https://twitter.com/dos810 馬場ちょっぷ]/[https://www.pixiv.net/users/1021939/artworks Pixiv] ===
+* [[モンスターハーツ]]
+* 宇宙運送STG 『スペトラ』
+
+==={{Anchor|葦葉製作所}}[https://yoshibaworks.com/ 葦葉製作所] →[https://x.com/shindenken 神奈川電子技術研究所]===
+* [[御神楽]]
+{{hideh|女僕莉安/メイドリアン}}
+[[File:107.jpg|300px|right]]
+* 由葦葉製作所所開發的縱STG，最終為C66版
+**自機射擊依星際戰士風的強化(最大5W)，能自動連射、但手動連打的火力更強
+**發生在行星蒂安、五個名門家族的女僕互鬥的故事
+**隱藏要素：完成Hard模式後解鎖Expert模式
+*[https://yoshibaworks.com/maidlien/index.html 參考的官網]
+**[https://ayacy.inasoft.org/kamionovels/06_01.html 神緒之鈴笫六話的客串]
+{{hidef}}
+* [[巫女ブラスター]]
+** 巫女ブラスター2
+<!--* BOSS BOSS 2-->
+{{hideh|BOSS BOSS 2}}
+{{h0|BossBoss2/ボスボス2/王對王2}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+[[File:Package_sample.jpg|300px|right]]
+
+* 由葦葉製作所所開發的橫STG,最終為C74版
+**前作為猛擊病毒/VirusCrasher、彈幕剋星/DanmakuBuster(現BossBoss)
+* 限制時間內將病毒消滅,超過時間或生命値用完算作失敗
+** 自機只有前方直向射擊,四回生命値(得5萬分增加1回)
+*故事
+ 一個月前,克莉米亞阻止了一群有感知的電腦病毒的攻擊
+ 她也是一個有意志的病毒消滅軟體
+ 然後,當她正在訓練時，收到了新的攻擊訊息
+
+ 「還有更兇猛的攻擊來了！」
+
+ 這次要消滅的是電腦病毒的主力軍
+ 那麼這一次真正的病毒到底是什麼、又會有什麼樣的困難等著我們呢？
+
+*登場人物
+** 自機
+*克莉米亞/クリミア/Crimean→Crimia<br>[[File:BB2C.png]]
+**疫苗軟體/ワクチン→病毒消滅軟體/ウィルス駆除
+**聽到新敵人的襲擊後,她匆匆開始消滅病毒
+***{{censored|擊殺優里造成電腦世界的崩毀、只好成為新任的作業系統}}
+
+*穆泰特君/ミューテッくん
+**病毒偵測程式<s>不過是專門扯後腿的</s>
+**於神緒之鈴第三話客串<s>還對該主角做無理要求</s>
+
+*號誌/セマフォ
+**繼任穆泰特的服務程式
+
+*病毒們/ウイルス達
+[[File:BB2Boss.png|300px]]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage''' !! '''Boss'''!! '''簡介'''
+|-
+| 01<br>主記憶體/メインメモリ||艾克蕾亞/エクレア||前作以代號紅/Codered稱呼<br>先鋒隊員
+|-
+| 02<br>音效卡/サウンドカード||瑪希露達/マチルダ||大姐姐型頭目<br>關卡鬼門、在她攻擊的瞬間才能傷害到<br>下階則是須攻擊穆泰特去撞她
+|-
+| 03<br>硬碟/ハードディスク||依利亞/イリヤ||女孩型頭目<br>會狂丟分身
+|-
+| 04<br>光碟機/CDドライブ||塞雷那/セレナ||大小姐型頭目崇拜瑪希露達<br>
+|-
+| 05<br>軟碟機/フロッピードライブ||迪西/デイジー||擅長高速戰鬥
+|-
+| 06<br>視訊卡/ビデオカード||凱薩琳/キャサリン||冷笑話王<br>能發出大量彈幕
+|-
+| 07<br>監視器/モニタ||坦修拉/ダチュラ||用觸手尖端釋放的毒刺進行攻擊
+|-
+| 08<br>中央處理器/CPU||萊姆/ライム||領導者格<br>會放大量敵機
+|-
+| 09<br>主機板/マザーボード||{{censored|優里/ユウリ}}||{{censored|正確來講不是病毒}}
+|}
+
+*參考資料
+* [https://yoshibaworks.com/bossboss2/ 官網]
+** [http://web.archive.org/web/20060207174425/http://www.yoshibaworks.com/dmbuster/ DanmakuBuster]
+{{hidef}}
+
+===[https://web.archive.org/web/20210126125541/http://www004.upp.so-net.ne.jp/x_xgameroom/ x.x Game Room]→[https://x.com/xxgameroom Twitter]===
+*x.x製作的彈幕系列主為少女、戰鬥機兩大分支
+**<s>倒是沒有詳細的故事設定</s>
+**[https://xxgameroom.itch.io/ 現行官網]
+***[https://rekowiki.org/w/images/5/5c/BlueW00.png BW圖集]、[https://rekowiki.org/w/images/a/af/Eden000.png 伊甸圖集]
+
+{{hideh| Green Wind/綠風}}
+*射擊擊破得銀幣、相對自動儲能的斬擊擊破(還能消彈)則是金幣
+**其它則是關卡中找出隱藏的寶箱(之後的作品會沿用)
+**真Boss條件須不續關
+{{hidef}}
+
+{{hideh|Eden's Edge/伊甸之刃}}
+*兩種子機模式(TRACE和FORMATION)低速時會固定住,炸彈代價的Guard(之後的作品會沿用)
+**第五關的時間較長(是把第六關的量併進來)
+**真Boss條件須末日難度通關
+{{hidef}}
+
+{{hideh|Eden's Aegis/伊甸之盾}}
+*無火力制,以及自動儲能的攻擊為刃射擊/Edge Shot
+**須在遊戲目錄中建立空白文字檔「yutori.txt」才能使用伊瓦和莉徳米
+**自機:
+***Nanathy/娜娜許:尋引性能的刃射擊
+***Maple/梅芙:刃射擊為自定方向
+***Eve/伊瓦:上記的伊甸之刃主角、子機採兩種模式結合
+***Ridmie/莉徳米:上記的綠風主角、炸彈改為爆彈型
+**須無中彈通關出現的地獄難度真Bossスプーン有針對炸彈(Guard)的對策
+{{hidef}}
+<!--
+{{hideh|Eden's Eclipse/伊甸之蝕}}
+*以伊甸之盾登場的三面フォーク和真Bossスプーン為主角
+**自機:
+***スウィーティ・スプーン/Sweety Spoon
+***ソルティ・フォーク/Salty Fork
+**{{censored|相對上作的四位主角皆作為頭目登場、還補完全名?}}
+***{{censored|ナナシー・ダークスター/Nanathy DarkStar}}
+***{{censored|メイプル・イーウィルリーフ/Maple EvilLeaf}}
+***{{censored|リドミィ・フィアーウィンド/Ridmie FearWind}}
+***{{censored|イヴ・ブラクアップル/Eve BlackApple}}
+{{hidef}}
+-->
+
+{{hideh|Blue Wish/藍色願望系列}}
+*主打戰鬥機的彈幕遊戲,有低速炸彈
+**不過續集有伊甸的伊瓦參與
+**真Boss條件須地獄難度通關(或者加速難度)
+**自機:
+***Blue Wish/藍色願望:和CAVE的C戰機很像
+***Blue Hope/藍色希望:射擊較集中、後作為雷射型
+***Blue Peace/藍色和平:初代隱藏機,為尋引射擊
+***Eden's Edge/伊甸之刃:Resurrection隱藏機,套用伊瓦的子機模式(用炸彈選會變成伊瓦)
+*Resurrection/復活
+**續集,後續有出名為Plus的優化版,用炸彈選的變色改成紅色)
+*Desire/渴望
+**Steam専屬(須付費),新增強化射擊的Burst系統
+**自機陣容搬新:
+***Blue Desire/藍色渴望:散射
+***Blue Twinkle/藍色閃爍:雷射
+***Blue Viper/藍色毒蛇:對敵子機
+***Blue Despair/藍色絕望:低速散射高速集中
+***Eve/伊瓦:採用FORMATION的子機模式
+{{hidef}}
+
+===[http://www.entis.jp/ Entis Laboratory(Entis soft)]→[https://x.com/entis_soft twitter] ===
+{{hideh|魔女仙境/うぃっち♪ in わんだぁらんど/Witch in Wonderland}}
+*為魔女試練/うぃっち☆くえすと的後續,以卡蓮蒂亞/カレンティア作為主角
+**<s>因為艾米達/エミッタ的走音害她捲入到不同世界去...</s>
+**自機(子機)射擊有三種:直向(對敵)、直向(自定方向)、散射(導向彈)
+**魔法有四種,須擦彈才能回復能量
+***火(偏下)、暴風雪(全範圍)、閃電(範圍內直向)、危險釋放(十字)
+**[https://rekowiki.org/w/images/a/a3/Wiw00.png Boss圖集]<s>只有艾米達不用特別去打...</s>
+{{hidef}}
+
+{{hideh|隼 -HAYABUSA-}}
+*全5面,主打隼鳥號作為自機(卻是用R戰機x[[斑鳩]]的方式)
+**只有子機米尼瓦/ミネルバ或使用集氣才有屬性彈適性,不同色的子彈仍會給予自機傷害
+***子機可自由配置位,有散射功用
+***集氣為採樣角砲/サンプラーホーン砲,含屬性的雷射砲
+**[https://rekowiki.org/w/images/8/8e/HYB00.png Boss圖集]
+***{{censored|最終面像閃亮銀槍一樣只能躲不能射擊的耐久戰...}}
+{{hidef}}
+
+===[http://studio-siesta.mails.ne.jp/index2.htm スタジオシエスタ] ===
+*AIRRADE
+*AIRRADE-Summer-
+*AIRRADE-AIR-
+*ソルジャーフォース
+*トラブル☆ウィッチーズ
+*ヴァルシュトレイの狂飇
+
+===[http://stellavanity.seesaa.net Feathered Ether]/[https://www.youtube.com/@TrisGram/videos YT]→[https://twitter.com/TRIS_GRAM TrisGram]/[https://misskey.io/@TRIS_GRAM (Misskey)] ===
+*[[STELLAVANITY -Prelude to the Destined Calamity-]]
+
+===[http://endless-shirafu.com/ エンドレスシラフ]→[https://twitter.com/nicolai_twi ンコ] ===
+* [[∀kashicverse Malicious Wake]]
+* ∀stralbringer -Shaded Arkarium-
+
+===[http://n-linear.org/ NonLinear]→[https://x.com/n_linear?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3An_linear%7Ctwcon%5Es1 Twitter]===
+*[[The Chaste Full-metal Maiden - Leiria -]](2009)
+**Leiria -Stargazer-(2011)
+
+{{hideh|[https://n-linear.org/okasen/ 整理戰爭/おかたづけ戦争]}}(2010)
+*女僕尤里卡打掃小姐卡羅塞塔房間的故事
+**按下一次炸彈發動屏障、中彈時全範圍淸板,再一次為Hyper、能強化射擊火力
+**依續不續關來決定結局{{censored|<s>不過都是在放閃...</s>}}
+**[https://www.mediafire.com/file/6e8n9vx5w7tg4yv/okasen1.02.rar/file 備份]
+{{hidef}}
+
+{{hideh|[https://n-linear.org/atanatos/ 不死的魔法使/アタナトスの魔法使い]}}(2011)
+*東方風玩法,內容是真冬擊退魔法世界的居民
+**主要頭目為不死的魔法使-克蘭/クリン{{censored|純綷是來人界玩的}}
+{{hidef}}
+
+{{hideh|[https://n-linear.org/tournament/index.htm 心動的魔法兢賽/ドキドキ☆マジカルトーナメント！]}}(2012)
+*以操作艾瑞絲完成BossRush戰鬥避免魔法學院的留級
+**自機性能貧弱(不能強化、炸彈只能消彈),{{censored|結局只用Jojo的問題發言打發掉...}}
+{{hidef}}
+
+{{hideh|[https://n-linear.org/yumeshojo/ 孤獨惡夢的夢少女/夢少女 ～nightmare orphan～]}}(2013)
+*東方風玩法、全3面
+**一定量的擦過能發動屏障、中彈時全範圍淸板
+{{hidef}}
+
+*双世ノ弾丸(2013)
+*Arabian Nightmare(2014)
+*東京風媒花(2015)
+*Feel my pain(2017)
+*The Birth of a Hero(2023)
+
+===[http://web.archive.org/web/20220117162925/http://apocaly-san.com/ Mercenary]→[https://twitter.com/murockyou えぷと]/[https://www.pixiv.net/users/534072 えぷと] ===
+*[[Another Apocalypse]]
+*[[Another ApocalypseⅡ Dual Pagan]]
+
+===[http://atelier-jellyfish.com/main.html 水月～くらげ～] ===
+*Lovely Bubbly Memory～どこかの海の泡沫の愛～
+*A Clockwork Heartbeat ～どこかの砂漠の灰燼の律～
+*4 Dimensional Replica ～どこかの河川の複成の刻～
+*The Alternative Magician ～白の魔法少女と黒の魔法少女～
+
+===[http://sirokurost.com/products 白黒station] ===
+{{hideh|[http://sirokurost.com/products/matataki 瞬-MATATAKI-]}}
+*全6面加Ex(須全破一次),主打高速彈幕及強制躲彈的瞬移系統
+**自機有劍客艾莉加/エリカ(直向、集氣斬擊)及魔法使穆蒂/ミュート(散射、集氣設置光束)
+***性能上穆蒂比較好用
+**[https://rekowiki.org/w/images/7/74/Mttk00.png Boss圖集]
+***<s>有點白開水的劇情(有魔力就能發動穿越各世界的瞬移技),連頭目名字也沒交代完整...</s>
+***<s>可以自己打自己的可選4面</s>
+{{hidef}}
+
+{{hideh|[http://sirokurost.com/products/magimagi マギマギ]}}
+*全6面(第6面為Ex),主打個別對應式攻擊
+**為紅(直向)、藍(<s>不中用的</s>斬擊)、綠(導引散射)
+**收集妖精(最多五隻),能強化同色攻擊
+***也能消耗使用,全範圍炸彈或者搭配同色加強攻擊
+** [https://rekowiki.org/w/images/a/ad/Mgmgi.png Boss圖集]
+***故事為魔法使三姐妹調查村中妖精狩獵
+***{{censored|後來掲示妖精王因應科技發展,開放把妖精用於機械人形(即關卡頭目)啓動的技術}}
+{{hidef}}
+*Clock Quarter
+
+===[http://usimitu.com/ うしみつバナナ組]→[https://x.com/kouzirou?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Escreen-name%3Akouzirou%7Ctwcon%5Es1_c1 光路郎] ===
+*[[君が見た光]] 
+*[[君が見た光2]]
+*君が見た光3
+
+===[http://www.interq.or.jp/saturn/takuhama/dhc_.html ASTRO PORT]→[https://x.com/SAKncc1701 Twitter]===
+{{hideh|[http://www.interq.or.jp/saturn/takuhama/Shooting6.html 拆除槍手:尋找並摧毀/Demolition Gunner :In Seek And Destroy]}}
+* <s>同人版究極虎、</s>採用火力制,通常散射、投放燒夷彈時可加速移動(remix改為低速的直向射擊)
+** Boss戰限制20秒,不接關下能進入第七面
+{{hidef}}
+{{hideh|[http://www.interq.or.jp/saturn/takuhama/Shooting8.html 音鐵風暴:最後一擊/Sonic Ironstorm:FATAL ATTACK]}}
+* 自機有勇士(飛彈射擊/垂直魚雷)及矛鷹(散射/超燒夷彈)
+** [https://rekowiki.org/w/images/e/e7/SonicI.png 關卡共六關但可選三關來打、DE面須通過才能解鎖F面]
+{{hidef}}
+*超電気ロボ　バルカイザー
+*魔女ボーグメグリロ
+*SATAZIUS 
+*WOLFLAE
+
+===[http://d.hatena.ne.jp/sorcery/ OBLIQUEGLASS] ===
+*Asteraiser 
+
+===[http://kit.air-nifty.com/blog/kit-station.html KIT-Station (KIT)] ===
+*魔砲少女
+*大魔砲少女
+
+===[http://maoh.skr.jp/ 魔皇番長] ===
+*蜂群シリーズ 
+*SORCERIA ANGEL
+*Sonorous Sonnet
+** SUPER Sonorous Sonnet
+{{hideh|[http://maoh.skr.jp/projects/7sb/c76.html 7 Servant's Blade]}}
+* Fate/stay night的二次同人
+** 主要使用風王結界抑制敵方彈速的打法
+{{hidef}}
+
+===[http://www.ssp.x0.com/index.html SRXの愉快なホームページ！！] ===
+*The Trial
+*Storm Caliber
+*Storm Caliber外伝
+
+===[http://www.aqualotus.sakura.ne.jp/ Aqua Lotus] ===
+*魔導世紀～The Black Sun～
+
+===[http://deathmofumofu.sakura.ne.jp/ デスモフモフ]→[https://twitter.com/deathmofumofu Twitter]===
+*モクモクレン
+*ネコシューティング
+*モクフォース
+*ネコネイビー
+*ネコ人間ユージン
+
+===[https://alpha.secret.jp/ あるふぁ～秘密基地]→ [https://twitter.com/rollinggunner Project Rolling Gunner]===
+{{hideh|[https://alpha.secret.jp/games/gf/gf.html 銀河邊境/Galaxy Frontier]}}
+* 開拓木星途中遭到遺跡的機械兵器反擊
+** 自機連打(直向)、常壓(5W散射),擊一定數量敵機能使用消彈核武
+** 先啟動再射擊(強化直向)或常壓再啟動(消彈散射)
+{{hidef}}
+
+{{hideh|[https://rollinggunner.wixsite.com/rollinggunner 滾動砲手/Rolling Gunner + Overpower]}}
+* 勒曼公司以剋能量發展「全能剋制」(BAC)電腦、後來它反過來想統治人類
+** 為了收拾殘局只好開發送子鳥戰機對其反擊
+*** {{censored|實為上作的前傳、真結局丟去木星的BAC依然在幾百年後作亂...(本作劇情打心酸的)}}
+** 初期系統
+*** 前方射擊和能自行調整方向的子機(常壓能固定)及全屏炸彈
+*** 收集一千枚道具能發動強化、再者依剩於量再強化一次
+** Overpower
+*** 運用類比遙桿的改版(右遙桿能進行調整方向+射擊)
+*** 沒有炸彈相對加入消彈光束和護盾
+** 真Boss:BAC核心須無接關(低難度)或著Rank達15以上(高難度)才能出現
+{{hidef}}
+* 精霊機エレクファルター
+
+===[https://bikkurisoftware.com/ びっくりソフトウェア]/[http://web.archive.org/web/20160806195804/http://necobikkuri.blog.fc2.com/ Old]→[https://twitter.com/BikkuriSoftware 白銀ねこび]===
+*[[REVOLGEAR II -SECOND BRIGHTNESS-]]
+*[[KIRISAME BLADE 2]]
+*[[Graze Counter GM]]
+
+===[https://zakichi.ojaru.jp/index.html 喜撃屋本舗]/[https://twitter.com/zakichi_ ざきち]===
+* ARGINAROS
+* Banisher
+* Contlade
+* Blaynix
+* 壊漢　-KAIKAN-
+* TinyXEVIVOS
+* VASTYNEX
+* ZAKESTA
+* WEXEW MEXEM
+
+===[https://www.teraringames.com/ TERARIN GAMES]/[https://twitter.com/Terarin55 てらりん/Terarin]===
+* ImageStriker
+* ImageStriker2
+* MissileDancer
+* GeminiArms
+* RagingBlasters
+* Moon Dancer
+* Terra Flame
+* Star Gagnant
+
+===[http://aihisna.web.fc2.com/game.html Aihisna]===
+* 八重の妖泉華(I、Ⅱ、Ⅲ)
+
+===[https://web.archive.org/web/20150704044750/http://www.2ccp.com/ 2CCP]→[https://twitter.com/nknmttb_nitijo 猫乃またたび]/[https://www.pixiv.net/users/581626 Pixiv] ===
+{{hideh|[https://web.archive.org/web/20130131020528/http://www.2ccp.com/valst 機動妖精VALSTAR]}}
+* 首發於C65的橫式STG，全五面；全破解鎖EX難度、通關後可挑戰Boss Rush
+** 射擊:自動連發的直向射擊,火力強化5階段
+** 補助射擊:須取得該道具才能使用,3階段強化
+*** 集氣(能個別設定),發動強化後能消彈的階段制補射<br>紅:上下散射/全範圍慢速彈幕<br>藍:誘導雷射/大型雷射<br>黃:前方燒夷彈/大範圍爆風
+{{hidef}}
+
+===[https://web.archive.org/web/20230314010108/http://fefnir.jp/ SpriteArts]→[https://twitter.com/Tifa_Type_R ゆめねこ]/[https://www.pixiv.net/users/506221 Pixiv] ===
+* [[BlackArt]]
+
+===[https://yosshin4004.github.io/index.html 吉田研究所]→[https://twitter.com/yosshin4004 Yosshin] ===
+* [[超連射68k]]
+** 於2017年為兼容windows10以後的環境而大更新
+** 2023年6月再度大更新（1.10版）：追加更多背景之餘，音效及點圖全面翻新
+*** 目前該版本僅對應X68000
+
+===[http://yotsubane.blog99.fc2.com/ 四ツ羽根] ===
+* [[Crimzon Clover]](クリムゾンクローバー)
+
+===[http://web.archive.org/web/20160305203458/http://o-games.info/ O-games] ===
+* [[Impetuth]]
+
+===[http://purpleheart.jp/top.htm PurpleHeart]→[https://twitter.com/negitama_ ねぎたま]===
+{{hideh|[http://purpleheart.jp/game07/index.htm 攻空少女隊]}}
+* 縱向STG，故事背景為民主化運動發展出連合軍對帝國軍的戰爭
+** 系統：通常彈/通常弾
+*** 自動連射(以下可選)並集氣、集氣放開為發射誘導彈(最多十發),鎖定後轉為集束射擊
+*** 武器有衝鋒槍 (3W)、機槍 (直向)、機槍 (5W)可選
+*** 定錨能消彈,發射中敵機能鎖定
+*** 炸彈觸發誘導彈全部射擊
+*** 過關後取得的資金可強化武裝及解鎖CG
+{{hidef}}
+
+===[https://web.archive.org/web/20040609132003fw_/http://marrons.agz.jp/ まろんぐらっせ]===
+{{hideh|[https://web.archive.org/web/20040717134718fw_/http://marrons.agz.jp/karugamo/d.html 軽鴨]}}
+ 在不遠的未來
+ 複製人技術催生了兵器控制的發想
+ 天田軍事公司發展而建立強大軍隊
+ 相對的反對勢力開始與之發生衝突
+ 取得兩架原型機以前往戰線...
+
+* 正如上面的故事所言，玩家使用的自機為反對勢力的戰機「暴龍」／「槍竜」，而標題的「軽鴨」反而是最終Boss的戰機。
+
+* 而玩家在選擇自機後還要選擇戰機的駕駛員，分別是散射型的「友美」、直擊型的「[[美樹沙耶香|<s>阿爽</s>]]沙耶加」與近戰型的「娜娜」。
+{{hidef}}
+
+===[https://mna.net/equinox Equinox Development]→[https://twitter.com/equinox_info Twitter]===
+{{hideh|全一/Zen-Ichi}}
+*街機風全5面,集滿藍道具能發動Fever、期間能打出倍率還能收集紫道具補充炸彈
+**自機各為昴(散射)皇(雷射砲)朱雀(尋引)時雨(爆彈)
+***[https://youtu.be/6PrUxc2wezk 隱藏機時雨正常下無法用密技選出來](官方尙未對此修正)
+**[https://archive.org/details/ZenIchi archive備份]
+{{hidef}}
+
+===[http://web.archive.org/web/20150203194532/http://www.giza10.com/soft/utahime/ Giza10]→[https://x.com/giza10_staff Twitter]===
+{{hideh|歌姬計劃/Project U-Ta-Hi-Me}}
+* 以人造人主角擊毀(淨化)惡意的頻譜敵幕,以及被稱為殺音的Boss
+** <s>貧弱的</s>射擊:Staccato/斷音(直向)、Crescendo/漸強音(兩側)
+*** 為火力殘機挷一起的機制<s>遭敵幕擊倒是常有的事</s>
+** 能讀取歌曲檔案來生成敵幕的配置
+** 但Tips和Skin都沒有明確的取得條件
+{{hidef}}
+
+===[http://alouetteciel.web.fc2.com/index.html Alouette-Ciel]→[https://twitter.com/alouette_ciel Twitter]===
+*[[ARCANUM ECHO 空色のエレクシア]]
+
+===[https://twitter.com/hey1230 平凡]/[https://hey-stg.blogspot.com/ Blog]→[https://www.hanaji.com/ Hanaji]===
+{{hideh|機甲利茲/メカリッツ/Mecha Ritz}}
+* 敍述一位天才少女發明機甲消滅了人類,由學習到情感的機甲而去反殺他的滄桑故事<s>在Moonside中玩HellSinker.</s>
+** [http://mecharitz.blog.fc2.com/ 設定公式]、[https://shmuplations.com/mecharitz/ 訪談]、[https://www.youtube.com/@mecharitz/videos Ost][https://w.atwiki.jp/gamemusicbest100/pages/5849.html (曲名介紹)]
+** 自機設計獨特(紅/散射加波狀砲、藍/直向加貫通彈、綠/V字射擊加半集氣楔形彈)
+*** 講究高容錯率(盾牌炸彈取得容易,使用也不會影響到真Boss條件)
+** [https://rekowiki.org/w/images/e/e3/Mritz001.png Boss取自咖啡廳的名字(中Boss則是店裡餐點),各有三階段]
+*** 依完成關卡後的剩餘時間(打完Boss的計分來加減)來決定真Boss
+*** {{censored|0為巧克力香焦蛋糕(會把自機拖下水自爆)、有剩為薇洛西/Veloce本人(具有八階段)}}
+{{hidef}}
+{{hideh|機甲利茲:鋼鐵輪舞Mecha Ritz: Steel Rondo}}
+* 上者的加強版,自機增為7x2種(黃/爆風彈及緩彈區、紫/擦彈特化、水/強力消彈子彈、灰/子機特化)
+** 關卡增加路線(2B到5B及5C)難度更高{{censored|並新增一個好結局}}
+*** [https://rekowiki.org/w/images/7/7a/MRitz2022.png 自爆結局的泳裝改了]<s>[https://rekowiki.org/w/images/b/b5/MRitz2015.png 微小比基尼還是不能在Steam放行]</s>
+{{hidef}}
+* 桃子的地底王國/ももいろアンダーグラウンド/Dezatopia
+
+===[http://www2.spacelan.ne.jp/~neko/ 猫又刃]===
+{{hideh|魂集/スピリットコレクト}}
+* 自機比照怒首領蜂的方式,主要收集魂道具
+** 靈魂吶喊/魂の叫び:強化敵機彈幕的新增階段、擊毀獲得值得的死亡次數
+*** 真Boss法里斯/聖少女ファリス出現條件為「魂、值得的死亡/価値ある戦死、英雄等級/英雄レベル」三者達一定數量觸發
+** 故事為宗教國家克薩國/ケサエド想搶法爾薩納國/ファルサナ的礦產而開戰,攻不破把伊梅爾國空軍/イメル扯進來...
+*** <s>有病世界觀、人口大都是蘿莉正太、空軍還是站在錯的一方...</s>
+{{hidef}}
+
+===[https://web.archive.org/web/20230921080649/http://www.saturn.dti.ne.jp/taq/ 彩風屋]===
+* 紅ぼうきのマリア
+
+==二創作品==
+{{hideh|作品}}
+===[http://stg.pazru.com/ アルゴリズムブログ] ===
+* 横STG VS 縦STG
+** 跨界向二創STG之一，以橫向為主
+** 玩家可選擇最初哪方STG的系譜，之後可在遊戲途中靠擊破敵機獲取經驗值來進化到特定機體
+** 陣容相當豐富：從《雷電》、《怒首領蜂》、《宇宙巡航艦》、《R-TYPE》等等經典STG皆有收錄，甚至連《東方Project》也有<s>但機體之間的平衡又是另一回事了</s>
+
+===TEAM XF (Alluro → [http://www.youtube.com/user/JudgeSpear2 EddyMRA] / [https://www.youtube.com/user/BPzeBanshee/ BPZeBanshee] )===
+* Kamikaze
+* V.A.F. Squadron / Xeno Fighters
+* Xeno Fighters EX
+* [[Xeno Fighters系列|Xeno Fighters EX-R →Xeno Fighters R]]
+
+===[https://x.com/futonchoco 心太] ===
+* 弾幕姉妹 ～だんまくスール～
+
+===其他===
+* [http://web.archive.org/web/20050209052102/http://teamdevice.net/angel/jpn/ 破壞天使]
+[[File:ADCG01.png|250px|right]]
+** 由TeamDevice在2003年開發的橫向STG，為《[[最終兵器彼女]]》的二創作品。
+*** <s>結果變成主角[[開無雙|無雙]]掉美軍的遊戲</s>
+{{-}}
+
+* [https://web.archive.org/web/20101129160010/http://park14.wakwak.com/~ohba/tobitouka/twm.htm とびトウカ（空飛藤香）]
+[[File:Clip10.jpg|200px|right]]
+[[File:Jac00.jpg|200px|right]]
+** 由OHBA堂開發的橫向STG，為《[[受讚頌者]]》的二創作品，主角為藤香。
+*** 追加資料《トウカ無双剣》發售於C63，需要擁有遊戲本體才可以遊玩。
+*** OHBA堂後期也推出了《とびトウカ with トウカ無双剣》，將以上的內容集合到一張光碟。
+{{-}}
+
+* G-わんげ鳩大往生XII～絆ダウン～ → G-わんげDASH
+** 由2ch的愛好2DSTG的鄉民製作的基於CAVE射擊遊戲系列的同人二創作品。
+*** 遊戲名稱取自《G-Stream G2020（ΔZEAL）》《ぐわんげ》《斑鳩》《怒首領蜂大往生》《XII STAG（XII ZEAL）》《ケツイ～絆地獄たち～》《BORDER DOWN》。<s>這也太多了吧？</s>
+** 後來的加強版可視為完整版本，除了CAVE射擊遊戲的陣容外，也穿插了其他包括上面幾些射擊遊戲的陣容。
+*** 除了上述提到的遊戲登場的機體以外，《究極虎》、《[[GRADIUS系列|宇宙巡航艦]]》、《Gemini Wing》、《Bosconian》、《Dragon Spirit》、《Dragon Saber》等作的機體皆有參戰，參戰的機體皆由2ch的鄉民提出。
+*** 原作以生身登場的角色皆以戰機造型登場，另外部分機體會採用其他遊戲的玩法。
+*** <s>至於平衡方面又是另一回事了</s>
+** 後來可能遭到版權方控告，作者已將本作腰斬，雖然官網還是能下載到遊戲，但後來還是有玩家將其放至其他網站。
+{{hidef}}
+
+==Vector==
+{{hideh|作品}}
+* [https://www.vector.co.jp/soft/win95/game/se200413.html?srsltid=AfmBOoqqSDKoA29ZwS33LUcAGgUi25t99bKRkeANoPM8ZmVdMFsGR6Im#google_vignette Amanagi]
+** 由Rage氏開發的橫向STG。
+*** 屬於非傷害制STG，為比較稀有的類型。
+*** 此外通過射擊道具，可以改變道具的種類，能利用這一點調整戰術。
+
+*[[阿僧祇]]
+
+{{hideh|美麗的世界/Beautiful World}}
+[[File:表紙.jpg|100px|right]]
+*[https://www.vector.co.jp/vpack/browse/person/an044328.html?srsltid=AfmBOorWWh_OZ6lLj92hv3awOfwKKvf6sRd1Fqe4haAj44DeldTqOFtl 作者頁面]
+*[http://web.archive.org/web/20070120111448/http://www.crazarl.net/aof/ 作者頁面2]
+**高速縱Stg、全3面
+***操作歐萊法/Oliver驅魔{{censored|實際上是被騙去殺害親人的工具人...}}
+{{hidef}}
+
+{{hideh|摩耶塊/Mayakai}}
+[[File:MYKRek.png|100px|right]]
+*[http://web.archive.org/web/20130123074400/http://reveaulait.rash.jp/ral/ 官網]
+*[https://www.vector.co.jp/magazine/softnews/090925/n0909252.html?srsltid=AfmBOorbPlhqc6NMg2whWuL1ZL_6Yf1V5FFjTtjJTMIKMDWIfchAX0TZ 介紹頁]
+**演出重視横Stg、全4面
+**自機須收集道具摩耶塊並使用特殊能力助於通關
+***種類有西方的大魔法使-希爾德加德(特為回血)和博士的最後作品-RAL443-J2(特為斥力)
+**難度有擊返彈、安地能調整
+{{hidef}}
+
+===[http://ytrfactory.blog20.fc2.com/ ゆんふぁ] ===
+*EX -extra-
+*Marsh
+
+{{hidef}}
+
+==Freem!==
+{{hideh|作品}}
+
+*[[天災HeartBEAT!!]]
+===[http://web.archive.org/web/20010418075914/http://www.geocities.co.jp/SiliconValley-Bay/6404/g_az.html Ryo氏]===
+{{hideh|[http://web.archive.org/web/20010802082733/http://www.geocities.co.jp/SiliconValley-Bay/6404/ アナザーゼロ/Another Zero]}}
+* 初期可選的自機有三架，皆有共通的系統
+** 通常攻撃/連射;強力攻擊能消彈,在不用通常攻撃時會回復能量;盾牌取得大星能回復
+
+* 故事
+ 舞台是發展尋找居住行星中的星際聯邦,遠征艦隊回來時卻帶了奇怪的戰機,還無法聯繫
+ 最高議會決定若有敵意則對此反擊、結果軍隊打不過該艦隊,只能尋找能對抗的人...
+*自機
+**李拜(リハイド/Lihide)
+***為了戰鬥才能滿足的龍騎士
+***座機:藍龍(ブルードラゴン/Blue Dragon)
+***強:龍音波/ドラゴソニック
+***為了討伐宇宙海賊而開發的戰機
+**法拉(ファラ/Fhala)
+***財團的特務隊員
+***座機:黃蛇(イエロースネーク/Yellow Snake)
+***強:蛇吻/スネークキッス
+***由財團研發的機體
+**比滋(ヴィズ/Viz)
+***傭兵
+***座機:紅虎(レッドタイガー/Red Tiger)
+***強:虎火/タイガーヒート
+*Stage 
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage''' !! '''Boss'''
+|-
+| 01 || Deep Space/深空
+|-
+| 02 || Fly Across/飛過
+|-
+| 03 || Another.../另一個...
+|}
+*隱藏機體:黑暗不死鳥(ダークフェニックス/Dark Phoenix):須押著F1選李拜的自機
+*隱藏難度:另類/Another:選Hard下方,不能消彈的模式
+{{hidef}}
+
+===[https://x.com/ILDAGABAH1 フランスパンの魔王ILG]→[http://web.archive.org/web/20161224010540/http://www.pixiv.net/member.php?id=3001942 Pixiv]===
+{{hideh|擊彈瑪姬娜/撃弾マキナ}}
+* 撃弾Wings的續作,音樂方面Hey氏負責製作
+** 同時繼承了前作的故事<s>和火力不足的缺點</s>
+*** 能調整子機位置、射擊和儲能攻擊可以在設定中調整(只有Rapid和自動盾牌方便打Boss...)
+** 真Boss條件為難易度Advance時殘機為4
+*** 解鎖內容為Boss Rush、額外關卡挑戰及敵彈調整(EX options)
+{{hidef}}
+*彈幕幻想曲/Barrage Fantasia
+
+===[https://inatsuka.com/ 森の中の猫の小屋]→[https://x.com/inatsuka 稲塚 春]===
+{{hideh|不給糖就毀滅/お菓子くれなかったから街破壊しちゃうよっ！}}
+* 採升級欄機制、根據拿到的可樂餅數（或位置）來決定需要的強化
+** Rank夠高(到8)才能遇見真Bossブラッカー･クラン
+{{hidef}}
+
+{{hidef}}
+
+==フリーゲーム夢現==
+{{hideh|作品}}
+* 夢幻鬼神伝～Mysterious Reverse World～
+
+===[https://x.com/donpachislk S.WANG]===
+{{hideh|[http://tuiskeimode.web.fc2.com/game/toppage.html D-STARS]}}
+* 敵彈接觸自機的區圓(Dist)就能儲能力量射擊
+** 有著EZ(消彈、Rank增加會解除)、BL(擊返彈)這另類模式
+** 全六面,真Boss不須接關就能遇見
+*** 結果作者把詳細的故事情節寫在後面...
+* 自機
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Type''' !! '''射擊/Power'''!! '''說明'''
+|-
+|A<br>空越者/Dimention Diver||散射/光束||
+|-
+|B<br>速星/Speed Star||直向/強化直向||
+|-
+|Emer<br>紅線/Red Line||直向/消分雷擊||可以消耗積分來攻擊
+|-
+|C<br>科序樹/Tech Trier||可變/強化||能調整子機位置
+|-
+|Sf<br>星指/Star Finge||散射/設置射擊||設置最多三個
+|-
+|G<br>進後/Advance Azott||雷射/雷劍||基於編隊毒蛇的配置<br>但P參考自Trigon
+|-
+|Ax<br>斧射/Axeray||主武器/副武器||武裝基於同名原作的配置<br>4對4武器切換、沒有炸彈
+|-
+|R<br>革騎/Revolution Rider||直向雷射/二段波動砲||基於R戰機的配置
+|-
+|S<br>刺定/Stinger Decision||散射/消彈雷射||基於怒首領蜂的配置<br>炸彈改集束雷射
+|-
+|Axy<br>阿克耶/Axye||散射/無||擦彈特化<br>基於閃速神機的配置
+|}
+{{hidef}}
+
+===[https://kanzaki-cb.sakura.ne.jp/ 神崎中央管理局]→[https://twitter.com/kanzaki4697 Kanzaki_Shintarou]===
+* open arms maximum
+* エルフさんが魔物退治に行くようです
+* Ceaseless Discharge
+* Silent Gear
+* Danmaku Gladiator
+* Gigantic Blast
+* SPIN DRIVE -The Flying Battle Saw-
+* Blood Empire
+
+{{hidef}}
+
+==相關連結 ==
+*[[射擊遊戲]]
+**[[2D捲軸射擊遊戲系列作品列表]]
+***[[CAVE射擊遊戲]]
+***[[横STG御三家]]
+*[http://pcstg.s59.xrea.com/ PCで出来る2Dシューティング(STG)総合スレまとめページ]
+**[http://doujingravity.weebly.com/ Doujingravity]→[http://doujingravity-remaster.blogspot.tw/search/label/SHOOTING%20GAMES Remaster]
+**[http://doujinarea.blogspot.tw/search/label/shmup Doujinarea]
+
+*[http://u-studio.s101.xrea.com/report.html コミケ同人STG頁面(C66~C70)]
+*OLD
+**弾幕型
+***[http://web.archive.org/web/20041112055628/http://samidare35810101.jog.buttobi.net/index.html 2004]
+***[http://web.archive.org/web/20070823185122/http://www.danmakugata.com/ 2007]
+
+== 回應 ==
+[[{{TALKPAGENAME}}]]
+
+== 備註 ==
+<references />
+[[分類:遊戲列表]]
+[[分類:射擊遊戲|*]]
+[[分類:同人遊戲]]
+<!--[[分類:同人STG系列作品]]-->

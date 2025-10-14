@@ -616,12 +616,12 @@ PC
 |Final Fantasy VII G-Bike
 |Android/iOS
 |動作射擊
-|出不到一年就停止運營了。
+|由CyberConnect2開發<br>出不到一年就停止營運了。
 |-
 |Final Fantasy VII Ever Crisis
 |Android/iOS
 |RPG
-|為整合本傳+補完計畫ABCD四作劇情的手機重製作品。
+|為整合本傳+補完計畫ABCD四作劇情的手機重製作品。<br>由Applibot開發。
 |-
 |Final Fantasy VII The First Soldier
 |Android/iOS
@@ -664,6 +664,10 @@ Switch
 |Dissidia Final Fantasy Opera Omnia
 |Android/iOS
 |採用與Dissidia系列類似的世界觀跟BRV/HP系統，不過實際上是較傳統的CTB式戰鬥。<br>於2024年2月29日結束營運
+|-
+|DISSIDIA DUELLUM FINAL FANTASY
+|Android/iOS
+|預計於2026年開始營運
 |}
 
 ==== Theatrhythm系列作品 ====
