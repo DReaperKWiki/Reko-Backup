@@ -1,0 +1,34 @@
+因大量 AI 爬蟲導致伺服器超出負荷，
+2025-10-15 起未登入使用者瀏覽頁面的 '''編輯紀錄''' 與 '''歷史版本''' 時，
+可能需要通過自動的 <abbr title="阿努比斯，AI 爬蟲阻擋軟體">Anubis</abbr> 測試
+{{ref|算是另一層面的人機測試，底層使用工作量證明實作，
+詳見 AI 爬蟲阻擋軟體 [https://anubis.techaro.lol/docs/design/why-proof-of-work Anubis 的說明] }} 。
+因為爬蟲無法執行 Anubis 的測試，用 Anubis 過濾即可大幅減少 server 負擔。
+
+== AI 爬蟲 ==
+近年由於科技巨頭們的 AI 軍備競賽，需要大量的網頁文本作為訓練資料，
+各公司開始無視 [[wikipedia:zh:Robots.txt|robots.txt]] 的君子協定，無差別大量爬取各網站頁面，
+造成全世界的網站管理員都苦不堪言。
+有的是網站超過負荷訪問緩慢斷線，甚至有因為虛擬主機商按流量計費，而糟到帳單爆擊的例子。
+
+* [https://www.techbang.com/posts/122866-wikipedia-ai-crawler-data-challenges 被 AI 爬蟲「爬爆」伺服器之後，維基百科選擇了無奈投降 | T客邦]
+* [https://www.techbang.com/posts/117122-ifixit-complained-that-claudes-coming-to-scrape-data-was-a iFixit網站管理員抱怨Claude來抓資料根本是DDoS攻擊，1天超過數百萬次抓取資料訓練AI | T客邦]
+
+== 保護項目 ==
+您需要啟用 JavaScript 與 Cookie 來通過 Anubis 的測試，
+在 anubis 測試頁會跑一小段程式碼來檢測是否為正常瀏覽器，
+通過後在 Cookie 有效期間內不需要再次測試。
+
+目前 Anubis 保護頁面包含：
+
+* [[Special:History/首頁|編輯歷史]]
+* [[Special:PermanentLink/141586|歷史版本]]
+* [[Special:Diff/141586/153536|差異檢視]]
+* [[特殊:已連結的最近變更/首頁]]
+* [[特殊:連入頁面/首頁]]
+
+* [[特殊:搜尋]] : 搜尋功能
+* [[特殊:特殊頁面]] : 所有特殊頁面
+
+== 備註 ==
+{{reflist}}

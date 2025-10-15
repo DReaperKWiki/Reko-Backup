@@ -27,6 +27,16 @@
 {| class="wikitable sortable" style="margin:auto;"
 ! 作品 !! 動畫原文標題 !! 首次推出年份 !! 重製版名稱 !! 重製版原文標題 !! 重製版推出年份 !! 重製版評價 !! 備註
 |-
+|-
+|丁丁歷險記
+|Hergé's Adventures of Tintin 
+|1957-1964
+|丁丁歷險記
+|The Adventures of Tintin
+|1991
+|傑作
+|比起只是多用跑來跑去的畫面來充數的Belvision舊版，Ellipsanime Productions在Nelvana的聯合製作下高度還原所有原著（三集除外）的神韻，主題曲更是完勝史蒂芬·史匹柏及彼得·傑克遜的電影版<br>至今在歐洲還有重播，最近一次記錄就是[https://www.youtube.com/watch?v=hxngVQPc8Yw 被英女王駕崩而中斷]的蘇格蘭'''蓋爾語配音版'''
+|-
 | rowspan="3" |原子小金剛
 | rowspan="3" |鉄腕アトム
 | rowspan="3" |1963
