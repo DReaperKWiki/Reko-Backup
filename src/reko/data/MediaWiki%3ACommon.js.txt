@@ -387,7 +387,7 @@ $( () => {
     $('.reference > a').each((i, a) => {
         const $a = $(a);
         const $note = $(`${$a.attr('href')} > .reference-text`).clone();
-        $note.find('span.inline-text-censored').text((i, t) => t.replace(/./g, '■'));
+        $note.find('span.inline-text-censored').replaceWith(function () { return $(this).text().replace(/./g, '■') });
         $a.attr('title', $note.html())
     });
 } );
