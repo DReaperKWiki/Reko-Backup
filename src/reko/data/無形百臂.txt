@@ -8,6 +8,14 @@
 
 [[檔案:Hecahands Jawza -Wallpaper-.jpg|500px|right]]
 
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #9400D3; font-size:24px; ">
+
+狂える信徒、啓かれし賢人、蒙昧の愚者 ――
+
+神は等しく抱擁する
+
+</div>
+
 == 解説 ==
 * 無形百臂是由[[Konami]] 發行的[[遊☆戯☆王OCG]]的構築包(DBPR)「牌組構築包 幻影復仇者（{{ruby|'''D'''eck '''B'''uild Pack： '''P'''hantom '''R'''evengers|デッキビルドパック　ファントム・リベンジャーズ}}）」<ref>同卡包收錄的牌組除本系列還有【[[糾罪巧]]】【[[殺手調音]]】</ref>起登場的牌組系列。
 
@@ -37,6 +45,8 @@
 
 * 命名方面，主牌組怪獸的名字都是「見えざる手」，融合怪獸都是「見えざる神」，但注音統一為「ヘカトンケイル」，因此保留「無形」作為字段的一部分。
 ** 簡體中文基於上述典故翻譯為【百臂無形】，本條目則採用【無形百臂】。
+
+* 宣傳語為'''「{{color|purple||{{ruby|狂妄的信徒|狂える信徒}}、{{ruby|受啟發的賢人|啓かれし賢人}}、{{ruby|蒙昧的愚者|蒙昧の愚者}}――{{ruby|將被神平等地擁抱|神は等しく抱擁する}}}}」'''
 
 * <s>[[蕾忍宗#手宗|得到所有手]]</s>
 

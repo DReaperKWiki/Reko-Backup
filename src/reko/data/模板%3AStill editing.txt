@@ -1,0 +1,11 @@
+{|class="wikitable template-top-still-editing" style="margin: 1.5em auto; text-align:center;" 
+|{{#if: {{{1|}}}|{{{1}}}|本條目是編輯中的詞條，歡迎有興趣的朋友加以補完。}}
+|}<noinclude>
+== 使用方式 ==
+<code>&#x7b;{still_editing}}</code>
+
+{{still_editing}}
+
+<code>&#x7b;{編輯中的條目|本條目是編輯中的 &#x7b;{s|事實}} 詞條，歡迎 &#x7b;{censored|知道世界真像的}} 朋友加以補完。}}</code>
+
+{{編輯中的條目|本條目是編輯中的 {{s|事實}} 詞條，歡迎 {{censored|知道世界真像的}} 朋友加以補完。}}</noinclude>

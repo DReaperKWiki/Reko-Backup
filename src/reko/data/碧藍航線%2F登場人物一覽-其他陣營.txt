@@ -1,0 +1,155 @@
+{{h0|[[碧藍航線]]/アズールレーン 登場人物一覽-其他陣營}}
+{|class="wikitable" style="margin:1.5em auto;text-align:center;"
+{{stub row|本條目介紹[[碧藍航線]]收錄的艦船，歡迎有愛的指揮官們幫忙補完。}}
+|-
+|本條目或許帶有些二次設定
+|-
+|為節省篇幅，有關各艦的史實詳細資料，請自行搜尋及參見[[wikipedia:List_of_ships_of_World_War_II|相關之維基條目]]。
+|-
+|有關動畫的原創設定建議移至[[碧藍航線 THE ANIMATION|相關詞條]]查看、編輯和補充。
+|-
+{{Azurlane nav row}}
+|}
+
+本條目介紹其他陣營所屬的艦船（稱呼關連請參照主條目），中文名稱以陸服為準。
+
+== {{anchor|Faction_Bulin}}布里 ==
+* 用作限畀突破素材的角色，艦種為驅逐。
+** 戰力相比一般艦船可說是非常的低，同時亦是沒有實戰用技能的陣營。
+** <s>布里發動了技能但完全沒有事發生</s>
+* 日版中角色對話用的是'''プ'''リン。
+=== 泛用型布里（汎用型ブリ/UNIV Universal Bulin） ===
+[[檔案:Fanyongbuli.png|x200px]]
+* 圖鑑編號：001，SR。
+* 完全不能當戰力的素材，能用來代替SR或以下艦船進行改造或突破。<s>當然還是有練到滿等結婚的指揮官在</s>
+* 對於不當自己是素材消費掉而用心培養的指揮官會墮入愛河。<s>ただし現実は（だいたい）非情である</s>
+* 常時亢奮。
+* 手上拿著一個大扳手。
+* 平常不會在艦船面前出現，但在艦船之間有著「如果看到你追我逐的布里姐妹的話會有幸運的事發生」的都市傳說。
+* <s>大概是史上極少數拿到skin的強化素材。</s>
+
+=== 試作型布里MKII（試作型ブリMKII/UNIV Trail Bulin MKII） ===
+[[File:Trail Bulin MKII.png|x200px]]
+* 圖鑑編號：002，SSR。
+* 完全不能當戰力的素材，只能用來代替SSR艦船進行改造或突破。
+* 汎用型布里的姐姐。
+* [[天元突破|兩手拿著大型鑽頭]]。
+* 自稱比妹妹要來得聰明。<s>五十步笑百步</s>
+
+=== 特裝型布里MKII（特装型ブリMKIII/UNIV Specialized Bulin Custom MKIII） ===
+[[File:Specialized Bulin Custom MKIII.png|x200px]]
+* 圖鑑編號：003，UR。
+* 完全不能當戰力的素材，只能用來代替UR艦船進行改造或突破。
+** 在碧藍航線第一艘原生UR艦信濃實裝後，為了讓指揮官能突破港區的信濃及後續的UR艦船們而設立的新素材。
+* 布里家族的三妹，正在試圖搞懂姊妹之間手持物之間的聯繫關係。
+
+=={{anchor|Ashes}}{{anchor|META_Kansen}}META艦船==
+* 詳見[[碧藍航線/登場人物一覽-META|該條目連結]]
+
+== 颶風 ==
+=== 主力型 ===
+==== [[Wikipedia:São_Martinho_(1580)|聖馬丁（サン・マルチーニョ/MOT São Martinho）]] ====
+[[檔案:MOT São Martinho.png|x200px]]
+* 圖鑑編號：613，SSR。
+==== [[Wikipedia:Ganj-i-Sawai|岡依沙瓦（ガンズウェイ/MOT Ganj-i-Sawai）]] ====
+[[檔案:MOT Ganj-i-Sawai.png|x200px]]
+* 圖鑑編號：664，SSR。
+* <s>[[矢澤妮可|口癖是「にっこにっこにー」]]</s>
+<!--
+==== [[Wikipedia:HMS_Pearl_(1708)|珍珠（パール/MOT Pearl）]] ====
+[[檔案:MOT Pearl.png|x200px]]
+* 圖鑑編號：XXX，SSR。
+==== [[Wikipedia:Queen_Anne%27s_Revenge|安妮女王復仇（クイーン・アンズ・リベンジ/MOT Queen Anne's Revenge）]] ====
+[[檔案:MOT Queen Anne's Revenge.png|x200px]]
+* 圖鑑編號：XXX，SSR。
+-->
+=== 前衛型 ===
+==== [[Wikipedia:Golden_Hind|金鹿（ゴールデン・ハインド/MOT Golden Hind）]] ====
+[[檔案:MOT Golden Hind.png|x200px]]
+* 圖鑑編號：610，SSR。
+==== [[Wikipedia:Adventure_Galley|加里冒險（アドヴェンチャー・ギャレー/MOT Adventure Galley）]] ====
+[[檔案:MOT Adventure Galley.png|x200px]]
+* 圖鑑編號：612，SR。
+==== [[Wikipedia:Fancy_(ship)|幻想（ファンシー/MOT Fancy）]] ====
+[[檔案:MOT Fancy.png|x200px]]
+* 圖鑑編號：665，SSR。
+==== 朴茨茅斯冒險（ポーツマウス・アドベンチャー/MOT Portsmouth Adventure） ====
+[[檔案:MOT Portsmouth Adventure.png|x200px]]
+* 圖鑑編號：667，SR。
+<!--
+==== [[Wikipedia:HMS_Lyme_(1695)|萊姆（ライム/MOT Lyme）]] ====
+[[檔案:MOT Lyme.png|x200px]]
+* 圖鑑編號：XXX，SR。
+-->
+=== 潛水型 ===
+==== 皇家財富（ロイヤル・フォーチュン/MOT Royal Fortune） ====
+[[檔案:MOT Royal Fortune.png|x200px]]
+* 圖鑑編號：571，SSR。
+==== [[Wikipedia:Mary_Celeste|瑪麗·西萊斯特（メアリー・セレスト/MOT Mary Celeste）]] ====
+[[檔案:MOT Mary Celeste.png|x200px]]
+* 圖鑑編號：611，SSR。
+==== 維達（ウィダー/MOT Whydah） ====
+[[檔案:MOT Whydah.png|x200px]]
+* 圖鑑編號：614，SR。
+==== 和睦（アミティ/MOT Amity） ====
+[[檔案:MOT Amity.png|x200px]]
+* 圖鑑編號：666，SSR。
+==== 海豚（ドルフィン/MOT Dolphin） ====
+[[檔案:MOT Dolphin.png|x200px]]
+* 圖鑑編號：668，SSR。
+
+== {{anchor|Faction_Kingdom_of_Tulipa}}郁金王國 ==
+=== [[Wikipedia:Admiralen-class_destroyer|海軍上將級驅逐艦]] ===
+==== [[Wikipedia:HNLMS_Evertsen_(1926)|埃佛森（エヴァーツェン/HNLMS Evertsen）]] ====
+[[檔案:HNLMS Evertsen.png|x200px]]
+* 圖鑑編號：687，海軍上將級2號艦，SR。
+=== [[Wikipedia:De_Zeven_Provinciën-class_cruiser|七省級輕巡洋艦]] ===
+==== [[Wikipedia:HNLMS_De_Zeven_Provinciën_(C802)|七省（エヴァーツェン/HNLMS De Zeven Provinciën）]] ====
+[[檔案:HNLMS De Zeven Provinciën.png|x200px]]
+* 圖鑑編號：686，七省級1號艦，SSR。
+===[[Wikipedia:Design_1047_battlecruiser|1047型戰鬥巡洋艦方案]]===
+* 為二戰前荷蘭為了對抗日本海軍在荷屬東印度群島的侵略威脅下設計出來的一級戰鬥巡洋艦方案。
+** 在缺乏建造大型艦船的經驗、加上無法從法國獲取敦刻爾克級巡洋艦藍圖這兩點下，荷蘭希望能從德國獲取沙恩霍斯特級戰鬥巡洋艦的設計藍圖，並以在德國購入所有建造需求物資作為回報。及後在兩方談判下決定讓德國參與造船才正式確定方案。
+** 及後的設計方案亦相當靠近沙恩霍斯特級：在接近28000噸排水量的船體上裝設九座283mm主炮、12門高平雙用副炮和博福斯防空炮等，和沙恩霍斯特級不同的是在裝甲防護上較弱，但其他帳面性能方面更有優勢。
+* 該方案於1940年動工，預定建造3艘並預定1944年全數完工，但隨著德軍入侵荷蘭本土所有建造計劃被迫中止。
+==== {{anchor|Gouden_Leeuw}}[https://wiki.wargaming.net/en/Ship:Gouden_Leeuw 金獅（ハウデン・リーウ/HNLMS Gouden Leeuw）] ====
+[[檔案:HNLMS Gouden Leeuw.png|x200px]]
+* 圖鑑編號：P042，DR。
+* 只能通過科研系統開發，開發條件為鐵血和撒丁技術點數分別達至800和200。
+* 名稱來自荷蘭獨立戰爭時代使用的同名軍艦。
+* 戰艦世界為荷蘭十階巡洋艦，船體採用了1047型早期方案，但防空裝備則為1940年代未的款式。
+* 充滿成熟和母性<s>以及肉感身材</s>的重巡洋艦，總是以悠然、溫柔和充滿包含力的舉動治癒每一位（包括指揮官在內）的心靈。
+** 興趣是前往大自然散步並聆聽自然的聲音和其親密接觸，擁有某種程度上能操縱藤蔓的能力。<s>心情不好或有需要的時候可以利用這點來捆綁play</s>
+* <s>自帶淫紋的エロフ，郁金王國果然是色情妖精大本營</s>
+* <s>[[井上喜久子|17歲的母親]]，有個[[碧藍航線/登場人物一覽-鐵血#Emden|年紀比較大的女兒]]在鐵血</s>
+
+== 其他 ==
+=== 領航員「TB」（ナビゲーター「TB」/TB） ===
+[[檔案:Navigator TB.png|x200px]]
+* 由軍方上層派遣，於大型作戰中連接特定主機向指揮官進行戰鬥及探索等輔助的「特殊作戰輔助系統」。自身包含著各種迷團。
+** 因此說話和語氣非常冰冷，難以看到常人有的感情起伏。{{censored|但在某些情況下會顯露不應該有的感情}}
+* {{censored|外表和某塞壬人型終端幾乎一模一樣，被人認為兩者之間必定有關係在……}}
+* <s>本體是[[絆愛|人工智障]]</s>
+
+=== 安琪博士 （アンジュ博士）===
+* 活動「破曉冰華」當中登場的女性NPC，顏面被陰影部份覆蓋。<s>貧乳</s>
+* {{censored|創造出Kan-Sen這一存在的人。並同時對Kan-Sen是否也有「心」進行研究。並且察覺到有部份人已出現「心智覺醒」的跡象。並認為關鍵就在與心智魔方有高適性的那人身上。}}
+** {{censored|亦因為這點被META艦船和塞壬們稱為「{{ruby|創造主|{{censored|ソウゾウシュ}}}}」}}
+
+=== 奧斯塔博士 （オースタ博士）=== 
+* 活動「破曉冰華」隨同上者一起登場的男性NPC。從外型來看是身體壯健的中年大叔。
+*  {{censored|創造出關鍵點G與塞壬的人，被塞壬以「{{ruby|審判者|{{censored|シンパンシャ}}}}」稱呼，而她則以本名稱呼關鍵點G與「零」稱呼觀測者・零。曾為了某個目標而替安琪引開某些目標}}
+
+==  主條目  ==
+[[碧藍航線]]
+
+==  回應  ==
+{{pcomment|section=1}}
+
+{{AzurLane}}
+
+== 備註 ==
+<references/>
+
+[[Category:碧藍航線]]
+[[category:角色列表]]

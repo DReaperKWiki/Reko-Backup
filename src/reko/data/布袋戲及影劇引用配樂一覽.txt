@@ -5,7 +5,7 @@
 |-
 | style = "text-align: center; "  |『''我們對音樂沒有偏見，只要是戲裡氣氛所需要的，不管是熱門的也好、古典的也好，[[成句/我全都要|都用上，]]<br>這樣才能表現出劇裡的感情。假如用得很恰當，還會產生一種意想不到的滑稽感，增加了歡樂、笑料''』<br>－[https://youtu.be/7YyzksH-UxI?t=870 黃俊雄]，1970
 |-
-| style = "text-align: center; "  | 本條目介紹範圍包含但不限於布袋戲<ref>依既存古本演義小說改編的『古冊戲』或未形成系列的單一劇齣各依<b>『年份_主演_〈劇名〉』</b>列舉，已形成系列的電視劇金光布袋戲品牌如：黃俊雄~黃立綱系列全屬<b>《金光》</b>(包括〈雲州大儒俠〉+〈六合三俠傳〉兩大系譜)、黃文擇系列<b>《霹靂》</b>(〈忠勇小金剛〉起算，包括〈黑河戰記〉)、黃文耀系列<b>《天宇》</b>(〈龍現江湖〉起算)、鄭寶和系列<b>《聖俠》</b>(〈聖俠傳奇之凌霄星訣〉起算)、許清福系列<b>《巨登》</b>（〈戰朝天劫〉起算）、蕭建平系列<b>〈神魔/王者〉</b>、趙金統系列<b>《聖章》</b>、沈明正系列《鐵漢男俠》…等，無明確專屬劇團品牌系譜的野台金光戲角色標為<b>(野台)</b></ref>，亦歡迎補充其他影劇、廣告<ref>為防同一劇名/劇本可能有不同年份/地區/電視台/後製版本造成混淆，標示<b>『年份+台名/導演、編曲者/〈劇名〉/唱者－曲名』</b>格式</ref>內的案例或趣聞
+| style = "text-align: center; "  | 本條目介紹範圍包含但不限於布袋戲<ref>依既存古本演義小說改編的『古冊戲』或未形成系列的單一劇齣各依<b>『年份_主演_〈劇名〉』</b>列舉，已形成系列的電視劇金光布袋戲品牌如：黃俊雄~黃立綱系列全屬<b>《金光》</b>(包括〈雲州大儒俠〉+〈六合三俠傳〉兩大系譜)、黃文擇系列<b>《霹靂》</b>(〈忠勇小金剛〉起算，包括〈黑河戰記〉)、黃文耀系列<b>《天宇》</b>(〈龍現江湖〉起算)、鄭寶和系列<b>《聖俠》</b>(〈聖俠傳奇之凌霄星訣〉起算)、許清福系列<b>《巨登》</b>（〈戰朝天劫〉起算）、蕭建平系列<b>〈神魔/王者〉</b>、趙金統系列<b>《聖章》</b>、陳俊然~沈明正系列<b>《鐵漢南俠》</b>…等，無明確專屬劇團品牌系譜的野台金光戲角色標為<b>（野台）</b></ref>，亦歡迎補充其他影劇、廣告<ref>為防同一劇名/劇本可能有不同年份/地區/電視台/後製版本造成混淆，標示<b>『年份+台名/導演、編曲者/〈劇名〉/唱者－曲名』</b>格式</ref>內的案例或趣聞
 |-
 | style = "text-align: center; "  | 本條目的所屬作品以各原文+中文譯名為主，不確定曲名則留空白或片段
 |-
@@ -26,7 +26,7 @@
 {| class="sortable wikitable mw-collapsible mw-collapsed" "style="margin: 1.5em auto; align: center; "" 
 ! 〈編入劇集名〉人物、場景 !! 其他資訊
 |-
-||(野台)[https://youtu.be/D5c0kuTlNJ8 先角得道] || 邵氏電影配樂？
+||（野台）[https://youtu.be/D5c0kuTlNJ8 先角得道] || 邵氏電影配樂？
 |-
 ||黃俊雄〈新西遊記〉慧卿－[https://youtu.be/ZvRCH028NfM 江湖奇女] || 市川昭介演歌?
 |-
@@ -56,7 +56,7 @@
 |-
 ||《金光》西卿－[https://youtu.be/uto6PwTpOwk 婆娜娜的夢](女神龍)||原住民歌曲?
 |-
-||《金光》麗娜－[https://youtu.be/AJIUBRAWWXk 多刺的玫瑰](黑玫瑰)<br>《鐵漢男俠》[https://youtu.be/HQpO-vF7uUw 武林大罪女]||〈がまん坂〉改來?
+||《金光》麗娜－[https://youtu.be/AJIUBRAWWXk 多刺的玫瑰](黑玫瑰)<br>《鐵漢南俠》[https://youtu.be/HQpO-vF7uUw 武林大罪女]||〈がまん坂〉改來?
 |-
 ||《金光》方瑞娥－[https://youtu.be/AJIUBRAWWXk 天涯純情花]||演歌?
 |-
@@ -172,7 +172,7 @@
 |-
 ||《大富翁3》賭場BGM || 1981 葉啟田+方瑞娥《[https://youtu.be/HMgGo919dHY&t=1 青春歌聲]》 原曲應是歐美60年代舞曲?
 |-
-||《鐵漢男俠》[https://youtu.be/89SUM1J7Axw&t=356 無牙郎戰紅轎落敗] || 2001《惡魔城－月輪》[https://youtu.be/ENyanK_eJEg Shudder]?
+||《鐵漢南俠》[https://youtu.be/89SUM1J7Axw&t=356 無牙郎戰紅轎落敗] || 2001《惡魔城－月輪》[https://youtu.be/ENyanK_eJEg Shudder]?
 |-
 ||《天宇》[https://youtu.be/g7cCEdRAjbQ 魔蛇至尊/吊頭溝]|| 西洋電影? 同95TVB〈神鵰俠侶〉[https://youtu.be/u3E4vcsbpak&t=40 隱忍憤怒]相關場面
 |-
@@ -361,7 +361,7 @@
 |-
 ||'37 劉雪庵<br>〈三星伴月〉||周璇〈[https://youtu.be/v7RMZep7_N4 何日君再來]〉]||《霹靂》❏[https://youtu.be/B8fnbHFplFs&t=532 何日君]||另有李香蘭版、鄧麗君版
 |-
-||'39 服部良一<br>〈白蘭之歌〉||李香蘭〈[https://youtu.be/aSLn8R1BMEw いとしあの星]〉]||(野台)雜用情境曲||另有[https://youtu.be/0-HIHKoD7hE 渡邉はま子版]、張露〈[https://youtu.be/k-w80R-005g 白蘭之戀]〉、林英美〈[https://youtu.be/x5BC4PCNgbY 懷春曲]〉
+||'39 服部良一<br>〈白蘭之歌〉||李香蘭〈[https://youtu.be/aSLn8R1BMEw いとしあの星]〉]||（野台）雜用情境曲||另有[https://youtu.be/0-HIHKoD7hE 渡邉はま子版]、張露〈[https://youtu.be/k-w80R-005g 白蘭之戀]〉、林英美〈[https://youtu.be/x5BC4PCNgbY 懷春曲]〉
 |-
 ||'39 Gerard Carbonara<br>〈The Stagecoach/驛馬車〉||(待查)||《金光》✂[https://youtu.be/SrOML9It0Us?t=125 史艷文跑馬]||
 |-
@@ -1029,7 +1029,7 @@
 |-
 || '92 顧嘉煇〈[[星爺|武狀元蘇乞兒]]〉 || (待查) || 《神魔》❏[https://youtu.be/KPyLj0nwNWM?t=180 朝陽君破誓現身] ||
 |-
-|| '64 周藍萍〈黑森林〉 || [https://youtu.be/SiIO4cWw8JA 主題曲] || (野台)✂[https://youtu.be/MrNNvF6BZOw 五旗亂天下] || 反派角色常用
+|| '64 周藍萍〈黑森林〉 || [https://youtu.be/SiIO4cWw8JA 主題曲] || （野台）✂[https://youtu.be/MrNNvF6BZOw 五旗亂天下] || 反派角色常用
 |-
 | rowspan="2" | '94 Graeme Revell<br>〈[[真人化|StreetFighter the Movie]]〉 || [https://youtu.be/t67q0Bo1IDw Showdown In Shadaloo] || ✂戰鬥近尾聲場面用 || 高福順原聲帶〈最佳收幕武打曲〉
 |-
@@ -1371,7 +1371,7 @@
 |-
 ||'61 吉田正〈俺ら次郎長〉||橋幸夫〈[https://youtu.be/vRi41i2CZLU 俺ら次郎長]〉||'71〈金簫客〉郭大誠－[https://youtu.be/tN25gDm3C7A 武林兄弟]||另有林海&楊彬&謝榮〈[https://youtu.be/HIiytBJUK-k 風流三兄弟]〉、<br>葉啟田〈[https://youtu.be/0AsBCUT2FQg 江湖兄弟]〉、郭金發〈[https://youtu.be/hGT-WEUeXnI 寶島好男兒]〉
 |-
-|| '65 Hugo Montenegro<br>〈The FBI〉|| [https://youtu.be/0_Q0eDFXDx4 OP]|| (野台)[https://youtu.be/frwJkMr2o_w 雜用開幕樂] || 使用阿波羅唱片[https://youtu.be/QvLqm-dH3MA 曲源]
+|| '65 Hugo Montenegro<br>〈The FBI〉|| [https://youtu.be/0_Q0eDFXDx4 OP]|| （野台）[https://youtu.be/frwJkMr2o_w 雜用開幕樂] || 使用阿波羅唱片[https://youtu.be/QvLqm-dH3MA 曲源]
 |-
 || '66 Sydney Lee & Walter Greene<br>〈Tarzan/人猿泰山〉|| [https://youtu.be/aOp6Z5-iQUY&t=84 OP]/Tarzan's March|| 《天宇》✂[https://youtu.be/3Xn4XrnwMjs&t=19 百屍出吾體] || 
 |-
@@ -1465,7 +1465,7 @@
 |-
 | rowspan="2"| 2006 SENS〈里見八犬傳〉||[https://youtu.be/c03ifI1h5ZU Coming Home] || 〈金光〉✂劍無極悲傷曲 || 
 |-
-|| [https://youtu.be/i9XgGGnKMNI Brave Soul] || 〈鐵漢男俠〉✂魔音姑 || 
+|| [https://youtu.be/i9XgGGnKMNI Brave Soul] || 〈鐵漢南俠〉✂魔音姑 || 
 |-
 || '88 小室哲哉<br>〈我們的七日戰爭〉|| [https://youtu.be/HT01ASyVVjU Incommunicable]|| 中視《浴火鳳凰》[https://youtu.be/2n82Xjge6J8&t=338 阿鴻練習鳳凰之舞]||
 |-
@@ -1535,7 +1535,7 @@
 |-
 || '34 東海林太郎 || 阿部武雄〈[https://youtu.be/MPJQoo0e1yQ 国境の町]〉||《金光》☻黃俊雄－[https://youtu.be/laSlfIIm1bA 無韁馬]||另有林英美〈[https://youtu.be/lr8WeuySIIE 天涯孤鳥]〉、方瑞娥〈[https://youtu.be/Na2i5uuydQ8 難忘的故郷]〉
 |-
-|| '36 児玉好雄　|| 佐々木俊一〈[https://youtu.be/5sieBfGdwvU 無情の夢]〉||《金光》☻黃俊雄－[https://youtu.be/879I0LnoLm4 忍](六合)<br>(野台)✂小顏回|| 另有佐々木俊一[https://youtu.be/3HnNmX76uhY 自唱版]、文夏翻唱〈[https://youtu.be/n936x5BFGeA 無情之夢]〉、<br>潘秀瓊國語版〈[https://youtu.be/SCnTIcatgcY 無情之夢]〉、鳳飛飛換詞〈[https://youtu.be/L6pFc2BxUjs 情思夢迴]〉
+|| '36 児玉好雄　|| 佐々木俊一〈[https://youtu.be/5sieBfGdwvU 無情の夢]〉||《金光》☻黃俊雄－[https://youtu.be/879I0LnoLm4 忍](六合)<br>（野台）✂小顏回|| 另有佐々木俊一[https://youtu.be/3HnNmX76uhY 自唱版]、文夏翻唱〈[https://youtu.be/n936x5BFGeA 無情之夢]〉、<br>潘秀瓊國語版〈[https://youtu.be/SCnTIcatgcY 無情之夢]〉、鳳飛飛換詞〈[https://youtu.be/L6pFc2BxUjs 情思夢迴]〉
 |-
 |'36 Carl Orff〈Carmina Burana/布蘭詩歌〉||<s>[[成句/哥哥你好英俊|哥哥你好英俊]]</s>〈[https://www.youtube.com/results?search_query=o+fortuna O Fortuna]〉[https://youtu.be/AP_CSQgBPpQ MV版]||《天宇》✂[https://youtu.be/73t-LLIma2Q&t=2m58s 神蝶育繭島復出]、<br>《金光》✉[https://youtu.be/0NXrIhwXK0E 九天盤OP]<br>2018〈[[JOJO]]5黃金之風〉✎ED－Enigma－[https://youtu.be/F48mtaFOccg Modern Crusaders]||另有F.C.B.〈[https://youtu.be/YJyKW3NcDmw  Excalibur]〉
 |-
@@ -1555,7 +1555,7 @@
 |-
 || '39 田端義夫 || 多紀英二〈[https://youtu.be/TJmcfMSf440 男の命]〉||《金光》☻黃俊雄－[https://youtu.be/laSlfIIm1bA 憶無情](逃名客、醜君拾字郎)||翻唱自陳思安〈[https://youtu.be/FoEsXWFm6XE 憶無情]〉、<br>另有文夏〈[https://youtu.be/rLQgJdPaGnI 男性的生命]〉、方瑞娥〈[https://youtu.be/X7Vd2CiiutM 男兒的條件]〉、
 |-
-|| '40 Consuelo Velázquez || Consuelo Velázquez〈[https://youtu.be/0u0bX5gBCRw Bésame Mucho]〉||(野台)白骨骷髏恐怖場景用<br>《金光》☻西卿－[https://youtu.be/odNx0FGIcI8 玫莎美慕酒]([https://youtu.be/H9Nr8UMbg-Q&t=763 變色狐狸沙陀燕])||[https://youtu.be/yL6X9P-X55E?t=121 詭異幻境常用]<br>另有杉本真人改編〈[https://youtu.be/uma2paUOzdQ ベサメムーチョ]〉
+|| '40 Consuelo Velázquez || Consuelo Velázquez〈[https://youtu.be/0u0bX5gBCRw Bésame Mucho]〉||（野台）白骨骷髏恐怖場景用<br>《金光》☻西卿－[https://youtu.be/odNx0FGIcI8 玫莎美慕酒]([https://youtu.be/H9Nr8UMbg-Q&t=763 變色狐狸沙陀燕])||[https://youtu.be/yL6X9P-X55E?t=121 詭異幻境常用]<br>另有杉本真人改編〈[https://youtu.be/uma2paUOzdQ ベサメムーチョ]〉
 |-
 || '40 백년설/白年雪|| 이재호/李在鎬〈[https://youtu.be/vl9yDhtOtac 나그네 설움]/流浪者悲歌〉 || '70 台視〈劍王子〉☻林松義－[https://youtu.be/JiDKia517qA 孤獨的男性](孝子孤獨俠)<br>'83 台視〈武聖關公〉☻李芊慧－[https://youtu.be/ZbwQ94JAtss 女人的勇氣](貂蟬)<br>'84 台視〈倚天屠龍記〉✎王芷蕾[https://youtu.be/D0nth5gDzk4 OP1+2版]||另有'59邱武弘〈[https://youtu.be/u5r9MITIw9Y 風淒淒意綿綿]〉<br>'77이성애/李成愛〈[https://youtu.be/eyb2eZDXGrg 淋しき旅人]〉<br>주현미/周炫美〈[https://youtu.be/Y6jd9wFHxFA 淋しき旅人]〉<br>'78黃西田〈[https://youtu.be/jU5YgkgaYS0 氣魄]〉<br>'81郭金發〈[https://youtu.be/u8MDA_vR4g4 難忘的情人]〉<br>'99龍千玉〈[https://youtu.be/j7CebLmLCHM 風微微情綿綿]〉
 |-
@@ -1597,17 +1597,17 @@
 |-
 || '63 三沢あけみ・和田弘とマヒナスターズ ||渡久地政信〈[https://youtu.be/Lnvxev_gs4c 島のブルース]〉||'71黃俊雄〈新西遊記〉☻邱蘭芬－[https://youtu.be/pKLmFtKpQL4 荒城姑娘](金鯉蘭)||另有文夏&四姊妹〈[https://youtu.be/3xyAtyWMQCc 綠島之夜]〉
 |-
-| rowspan="3"|村田英雄 ||安藤実親〈[https://youtu.be/c5oXbwcoBPQ 柔道水滸伝]〉|| (野台)❏ [https://youtu.be/Jqa29g3a8Go 南俠] || 
+| rowspan="3"|村田英雄 ||安藤実親〈[https://youtu.be/c5oXbwcoBPQ 柔道水滸伝]〉|| （野台）❏ [https://youtu.be/Jqa29g3a8Go 南俠] || 
 |-
 ||市川昭介〈[https://youtu.be/t9nFoQnvum4 夫婦春秋]〉||〈金光〉✎豪天－[https://youtu.be/79T5eda-6w0 運命之神] || 另有葉啟田〈[https://youtu.be/4u0rMge7Kkg 人生]〉
 |-
-|| [https://youtu.be/cvvxIq5d_D4 人生峠]||《鐵漢男俠》☻[https://youtu.be/jGDt4FOARbI&t=2 勸世歌(十六春)]|| 使用郭金發〈人生路〉[https://youtu.be/_8J4mbiPo5w 曲源]
+|| [https://youtu.be/cvvxIq5d_D4 人生峠]||《鐵漢南俠》☻[https://youtu.be/jGDt4FOARbI&t=2 勸世歌(十六春)]|| 使用郭金發〈人生路〉[https://youtu.be/_8J4mbiPo5w 曲源]
 |-
 ||'66 美川憲一||宇佐英雄〈[https://youtu.be/o78mIeg4_LM 柳ヶ瀬ブルース]〉||〈金簫客〉☻郭大誠－[https://youtu.be/YEBzKD_b0Q0 雲山秀士]||另有余天〈[https://youtu.be/UiXtgc7mq1I 淡水河邊]〉
 |-
 ||'67 [[雙子|こまどり姉妹]]||和田香苗〈[https://youtu.be/0HdfwqEkz08 三味線渡り鳥]〉||〈金簫客〉☻劉燕燕－[https://youtu.be/79T5eda-6w0 俠女流浪記](玉琵琶)]||
 |-
-||'67 Los Bravos || 〈[https://youtu.be/QkwmSzPdVnY Black is Black]〉 || (野台)❏ [https://youtu.be/Aq3itSXWZ5g?t=21 早期雜用武戲] || 
+||'67 Los Bravos || 〈[https://youtu.be/QkwmSzPdVnY Black is Black]〉 || （野台）❏ [https://youtu.be/Aq3itSXWZ5g?t=21 早期雜用武戲] || 
 |-
 || '67 Four Tops || [https://youtu.be/yPYWtOj9_7I Standing In The Shadows Of Love] || 早期血戰場面曲<br>《霹靂》❏獨眼龍獨闖九層天 || 使用倫敦交響樂團[[https://youtu.be/sy7uvEwjVdM 演奏曲源]
 |-
@@ -1631,7 +1631,7 @@
 |-
 || '72 尤雅|| 劉家昌〈[https://youtu.be/s57NaetkDww 只要為你活一天]〉||《金光》☻邱蘭芬[https://youtu.be/MsVJELRgOgk 只有愛著你一個]<br>2004〈功夫〉☻黃聖依[https://youtu.be/VmiGfhjIG5I 只要為你活一天]||另有劉家昌[https://youtu.be/z6jf6hwbVqg 自唱版]
 |-
-|| '72 山本リンダ || 〈[https://youtu.be/Ftn-UY8J2bM じんじんさせて]〉||(野台)✂[https://youtu.be/rOp4woMd_-Y 雜用鬧台樂] ||
+|| '72 山本リンダ || 〈[https://youtu.be/Ftn-UY8J2bM じんじんさせて]〉||（野台）✂[https://youtu.be/rOp4woMd_-Y 雜用鬧台樂] ||
 |-
 | rowspan="4"| 森進一 || 猪俣公章〈[https://youtu.be/zNY7Tg6FWcQ 港町ブルース]〉 || 《金光》☻邱蘭芬－[https://youtu.be/9yOq7aYnC_0 為何命如此]、西卿－[https://youtu.be/1GGq3kIUflU 苦海女神龍]<br>2012〈女朋友。男朋友〉☻唐美雲－[https://youtu.be/qF157jFQpEE 苦海女神龍] || 〈港町ブルース〉[https://youtu.be/d0Zdar4SPhA 輪唱演出]<br>在華語圈中也有許多翻唱版本，最有名的即是〈苦海女神龍〉
 |-
@@ -1783,7 +1783,7 @@
 |-
 ||'75 Jigsaw || [https://youtu.be/QjtD8A-MWBc SkyHigh] || '75 王羽〈直搗黃龍〉✂[https://youtu.be/gEFy3eHkPoM OP]<br>NTV〈鳥人間コンテスト選手権大会〉✂主題曲||日本職業摔角手ミルマスカラス[https://youtu.be/Jwh45pyEK5Y 入場曲]<br>拳擊手清水智信入場曲
 |-
-||'78 ピンク・レディー||都倉俊一〈[https://youtu.be/WC5ufwAE--4 モンスター]〉||(野台)❏[https://youtu.be/5I-r7yNMxRM 雜用武戲曲(太空怪物)]||
+||'78 ピンク・レディー||都倉俊一〈[https://youtu.be/WC5ufwAE--4 モンスター]〉||（野台）❏[https://youtu.be/5I-r7yNMxRM 雜用武戲曲(太空怪物)]||
 |-
 ||'78 La Bionda||〈[https://youtu.be/o_91wsIFS8I SandStorm]〉||《金光》✂[https://youtu.be/XVxTMWyEhN0&t=877 蜈蚣王]||沙漠、神秘情境常用
 |-
@@ -1899,11 +1899,11 @@
 |-
 ||'65 伴真琴、伴典夫 || 古賀正男〈[https://youtu.be/6ark_dPbANA おい夕焼けさん]〉 || 《金光》☻葉啟田－[https://youtu.be/NOu_CUMp6U4 影!你在哪裡](南宮形) || 另有洪榮宏翻唱〈黃昏思鄉〉
 |-
-||'53 三浦洸一||豊田一雄〈[https://youtu.be/tzTdDkJjDdI 泣くな霧笛よ灯台よ]〉|| (野台)[https://youtu.be/TI2o1EmJzEY?t=798 五爪金鷹]、斯文怪客、玉筆鈴聲||另有鄭日清〈[https://youtu.be/ldrWSY-7djI 霧夜燈塔]〉
+||'53 三浦洸一||豊田一雄〈[https://youtu.be/tzTdDkJjDdI 泣くな霧笛よ灯台よ]〉|| （野台）[https://youtu.be/TI2o1EmJzEY?t=798 五爪金鷹]、斯文怪客、玉筆鈴聲||另有鄭日清〈[https://youtu.be/ldrWSY-7djI 霧夜燈塔]〉
 |-
 || 陳盈潔 ||陳百潭〈[https://youtu.be/7CwcAH9zQ7o 風飛沙]〉 || '96 TVB 〈笑傲江湖〉場景曲||使用溫金龍演奏[https://youtu.be/-doQmA_qFao?t=2530 曲源]
 |-
-|| [https://youtu.be/9gAblh4xk6A 今宵盡量醉]|| 《鐵漢男俠》☻[https://youtu.be/LfNxdCLjNiE&t=259 銀面羅剎毒心娘]||
+|| [https://youtu.be/9gAblh4xk6A 今宵盡量醉]|| 《鐵漢南俠》☻[https://youtu.be/LfNxdCLjNiE&t=259 銀面羅剎毒心娘]||
 |-
 ||'89 鳥羽一郎|| 杉本真人〈[https://youtu.be/z32EnbeD9Vk 北の鴎唄]〉||《金光》☻黃鳳儀－[https://youtu.be/3ANGzP0QcZ8 風雲女]||
 |-
@@ -2127,7 +2127,7 @@
 |-
 | rowspan="2" |'60 The Champ||[https://youtu.be/4hswHOEQfj8 Tequila]||〈恆春兮工商服務〉✂[https://youtu.be/WP3VcXrBYtw 蜈蜞借款公司]|| 丑角逛街場景常用
 |-
-||[https://youtu.be/NifJie2MwJE Too Much Tequila]||(野台)✂白骨殭屍特效曲 || 另名〈Off Beat Cha Cha/OB恰恰〉、[https://youtu.be/hT1v85joR8Y 費玉清演出]
+||[https://youtu.be/NifJie2MwJE Too Much Tequila]||（野台）✂白骨殭屍特效曲 || 另名〈Off Beat Cha Cha/OB恰恰〉、[https://youtu.be/hT1v85joR8Y 費玉清演出]
 |-
 ||'61 Edmundo Ros<br>〈The new rhythms of the South〉||[https://youtu.be/VBH12No-4Yg What a difference a day made]||《金光》✂[https://youtu.be/e-RW0wqEFFg?t=650 藏鏡人舊版]||
 |-
@@ -2147,19 +2147,19 @@
 |-
 | rowspan="3" | 鄭思森 || 〈歲寒三友曲集〉[https://youtu.be/1rt_hhmQGjk 梅] || 黃俊雄〈武聖關公〉✂過場曲 || 黃俊雄早期常用
 |-
-||[https://youtu.be/FZcyl9KvTcQ 牧野春回]|| (野台)[https://youtu.be/i6Qh7CyAd2U 雜用仙角情境曲] ||
+||[https://youtu.be/FZcyl9KvTcQ 牧野春回]|| （野台）[https://youtu.be/i6Qh7CyAd2U 雜用仙角情境曲] ||
 |-
 ||[https://www.youtube.com/watch?v=5rDsEftwKy0 椰殼舞]||早期雜用情境||
 |-
 | rowspan="15" |<center>Cusco</center>||[https://youtu.be/cnhn-K6wTRM Nanga Parbat]|| ✉雜用武戲曲(加速)||〈西岐封神榜〉、〈英雄榜〉均用
 |-
-||[https://youtu.be/ftQfyJh4RtA Galapagos]|| (野台)✉雜用武戲曲(加速)||
+||[https://youtu.be/ftQfyJh4RtA Galapagos]|| （野台）✉雜用武戲曲(加速)||
 |-
-||[https://youtu.be/k2U2q0NU75s Fujiyama]|| (野台)✉雜用武戲曲(加速)||
+||[https://youtu.be/k2U2q0NU75s Fujiyama]|| （野台）✉雜用武戲曲(加速)||
 |-
-||[https://youtu.be/c1psVhgE6nQ Alcatraz]|| (野台)✉[https://youtu.be/cdJEpvz2VWg 雜用武戲(加速)] ||
+||[https://youtu.be/c1psVhgE6nQ Alcatraz]|| （野台）✉[https://youtu.be/cdJEpvz2VWg 雜用武戲(加速)] ||
 |-
-|| [https://youtu.be/14-QMULnA-Q Bllizard] ||(野台)✉[https://youtu.be/o4WrQpx3ppQ 雜用武戲(加速)] ||
+|| [https://youtu.be/14-QMULnA-Q Bllizard] ||（野台）✉[https://youtu.be/o4WrQpx3ppQ 雜用武戲(加速)] ||
 |-
 ||[https://youtu.be/KfVKcpF67Ww Apurimac]||《霹靂》✉仇魂怨女<br>《天宇》✉孤獨鷹雄||另有金屬版[https://youtu.be/KfVKcpF67Ww?t=2283 ApurimacII]
 |-
@@ -2749,7 +2749,7 @@
 |-
 ||'65 Stanley Black|| [https://youtu.be/F-j4LslwnM4 Malaguena]|| ✂早期宮廷號令場面曲 ||
 |-
-||'67 Bar-Kays||[https://youtu.be/BpI1fcJdFrA Soul Finger]||(野台)[https://youtu.be/J0ctIF0G_ZE 妖道角出場]||
+||'67 Bar-Kays||[https://youtu.be/BpI1fcJdFrA Soul Finger]||（野台）[https://youtu.be/J0ctIF0G_ZE 妖道角出場]||
 |-
 | rowspan="2"|〈古早茶〉系列||(待查)||《天宇》✂杜鳳兒閒聊 ||
 |-
@@ -2992,7 +2992,7 @@
 |-
 ||'91 渡辺宙明〈[[蓋特機器人]][https://youtu.be/_IFGbHEfecE 號]/GO〉||[https://www.nicovideo.jp/watch/sm26315163 バトルヘリ発進]||《霹靂》✂[https://youtu.be/Hh0LPKWkiHs 衛星電視台台徽片段]||改自同作者〈[https://youtu.be2sy9wwYvqJo エスパー戦士]〉<br>[https://youtu.be/s6sBfBATu8k 電視台台徽未收錄曲]<br>連高福順系列原聲帶也沒有收錄
 |-
-| rowspan="9" |'89 川村栄二〈[https://www.nicovideo.jp/watch/sm66'32 冥王計畫ゼオライマー]〉|| rowspan="2" |[https://youtu.be/P8pFD8_-dRw 覚醒、ゼオライマー]||《霹靂》✂機械紫霹靂<br>(野台)✂[https://youtu.be/923_PIA4Lw0 暗殺指令]<br>中視〈大巡按番薯官〉✂[https://youtu.be/IxYaSPPqz2E&t=279 武戲場面]||下者的前半截
+| rowspan="9" |'89 川村栄二〈[https://www.nicovideo.jp/watch/sm66'32 冥王計畫ゼオライマー]〉|| rowspan="2" |[https://youtu.be/P8pFD8_-dRw 覚醒、ゼオライマー]||《霹靂》✂機械紫霹靂<br>（野台）✂[https://youtu.be/923_PIA4Lw0 暗殺指令]<br>中視〈大巡按番薯官〉✂[https://youtu.be/IxYaSPPqz2E&t=279 武戲場面]||下者的前半截
 |-
 | rowspan="2" |《霹靂》✂[https://youtu.be/oqHMx4rTxrQ 葉小釵123]、❏[https://youtu.be/X8tJcnvt0rk 4]、❏[https://youtu.be/7IukIzrdVn0 早期MV]、<br>✎[https://youtu.be/Tm_u6eNFW4Q 江湖血路版]、✎[https://youtu.be/RXIXkBj7uEw 臥病]、✎[https://youtu.be/dTHx38PshO0 情義兩難全]、<br>✎[https://youtu.be/aO7V4Sixtp4 鋒芒再現]✎[https://youtu.be/xLW3k_5mV0I 刀狂劍癡(聖魔戰印版)]、✎[https://youtu.be/qaklw60eNBM 再見痴狂]、<br>✎[https://youtu.be/p4RJBJ-WrVg 愛落紅塵]、✎[https://youtu.be/VqZzogpo_U0 千山一舟過]、<br>✎[https://youtu.be/d8xfeYQPl5I 江湖落拓不知年]、✎[https://youtu.be/r5b5bF7f_HM 力挽狂瀾]、<br>'97 智冠〈霹靂幽靈箭〉✂[https://youtu.be/enjxAHp5Tdw?t=896 南隱(室內)]、✂[https://youtu.be/MwKJV9v1BYw?t=155 乾中盒]<br>RPG〈聖石傳說〉✎[https://youtu.be/-0O20J7dnrM 鐘乳石洞]<br>《巨登》✂[https://youtu.be/nVTPS9CXf2I 驚世至尊OP]<br>[[台灣街機|台製拳擊機]]〈決戰名人榜〉✂[https://youtu.be/pdWxIk9oqPY 主階段BGM]<br>2017 玉尊〈機動戰隊IronSaga〉✎[https://youtu.be/MONLtoMTXQU&t=40 致敬改編BGM集]、<br>〈[[活俠傳]]〉✎[https://youtu.be/kNuIZAlxieU 金光裂重雲，指天喚霹靂]||<br><center><big><big><big><big><big>《{{Glow Text|yellow|天|scale=1.45|fontColor=red|flash=1}}》</big></big></big></big></big></p></center><br><br><br>配樂營造角色擄獲許多<s>[[腐女]]</s>觀眾，<br>令<b>冥王計畫葉小釵</b>成為最早的冥王計畫二創[[代名詞|衍生角色]]<br>遠超日本網域的[[高町奈葉|白い]][[冥王]]
 |-
@@ -3436,6 +3436,8 @@
 |rowspan="2"| '95 増田隆宣〈[[灌籃高手]]〉||[https://youtu.be/nQygOaCvIMQ 赤木的不安]||《霹靂》✉魔魁之女<br>《天宇》✉黑傘風帆||古風到反而令人錯愕會出現在現代情境的曲子
 |-
 || [https://youtu.be/iHCiD8IMFNc 呪われたフリースロー']||《金光》✉[https://youtu.be/smwKEZi_9Ao 了孑孓]||
+|-
+||'99 溝口肇<br>〈人狼 JIN-ROH〉 || [https://youtu.be/Rkk4LFVJW_I 主旋律] || 《鐵漢南俠》✂[https://youtu.be/CRcA8AvpPjk&t=0s 三思而行神] || 
 |-
 | rowspan="2"|'99 增田隆宣<br>〈十兵衛ちゃん -ラブリー眼帯の秘密〉 || 必死の想い || 《天宇》✂[https://youtu.be/AYRF6BXLiIE&t=6s 競月刀出鞘] || 
 |-
