@@ -891,7 +891,7 @@
 |-
 ||'87 David Byrne&坂本龍一〈末代皇帝〉||[https://youtu.be/MI5DyZXcHVI 主題曲]||《霹靂》✂萬教武尊、✎[https://youtu.be/4tvveM0eJIM 蘅佛子]||
 |-
-||'94 阿德、周志華、江建誼〈單打雙不打〉||[https://youtu.be/N6EeG1kxDw8 八二三砲戰]||《天宇》✉聖蓮<br>《霹靂》紫脈線TVED<br>《金光》✉青海巫上師<br>華義〈真命天子〉✉[https://youtu.be/D7mtKSwxB80 BGM003]||專輯名〈燈〉
+||'94 阿德、周志華、江建誼〈單打雙不打〉||[https://youtu.be/N6EeG1kxDw8 八二三砲戰]||《天宇》✉聖蓮<br>《霹靂》紫脈線TVED<br>《金光》✂[https://youtu.be/M7zpeH6glk8 青海巫上師]<br>華義〈真命天子〉✉[https://youtu.be/D7mtKSwxB80 BGM003]||專輯名〈燈〉
 |-
 ||'94 Richard Gibbs〈Blind Justice〉||[https://youtu.be/BHbRW62lOmk 主旋律]||《霹靂》✂[https://youtu.be/8PrI7f2Fa6I 雪鴉]||
 |-
@@ -4232,9 +4232,11 @@
 |-
 || '96 SEGA〈ダイナマイト刑事/火爆特警〉 || [https://youtu.be/-pRCEQ_kWyk Track2] || 《霹靂》✂[https://youtu.be/dKoFXvRyhcc 江湖血路時期常用武戲][https://youtu.be/rmnM5EhnIaY 2] || 
 |-
-|rowspan="2"| '95 〈[[仙劍奇俠傳系列|仙劍奇俠傳]]〉 || [https://youtu.be/YJYeXRf7L4o 雲谷鶴峰]|| 《天宇》✉風雅詩 || 
+|rowspan="3"| '95 〈[[仙劍奇俠傳系列|仙劍奇俠傳]]〉 || [https://youtu.be/YJYeXRf7L4o 雲谷鶴峰]|| 《天宇》✉風雅詩 || 
 |-
 || [https://youtu.be/5Nqz4RtViZI 情願/情怨]|| 《金光》✂[https://youtu.be/ZbJd2Hnekfc&t=1399 百里霧中] ||
+|-
+|| [https://youtu.be/KBR3W2KzzQk 片尾與預告]||《鐵漢男俠》✂[https://youtu.be/d6OmPK7MlDs&t=47 十六春大戰群魔]||
 |-
 |rowspan="3"| 2003 〈仙劍奇俠傳三〉 || [https://youtu.be/TT-SA2oIkhk 御劍江湖]|| 《天宇》✉秋八月閒步 || 
 |-

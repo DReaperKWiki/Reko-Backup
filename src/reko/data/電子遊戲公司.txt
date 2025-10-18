@@ -1080,11 +1080,19 @@ Irrational Games則是《BioShock（[[生化奇兵]]）》的開發團隊
 |
 |當時Konami也為此對Andamiro打了不少官司，但後來就沒有下文且不影響其續作的開發。
 |-
+|Softmax
+|1994年10月28日
+|
+|MMORPG
+|《[[SDGO]]》
+|
+|
+|-
 |NEXON
 |1995年5月
 |韓國地區的遊戲公司，收購不少小型的遊戲工作室，中文為「樂線公司」。
 |RCG、ACT
-|《CrazyRacing KartRider（跑跑卡丁車）》<br>《MapleStory（[[楓之谷]]）》<br>《Counter-Strike Online（絕對武力Online）》<br>《[[動物朋友]]（初代遊戲）》
+|《CrazyRacing KartRider（跑跑卡丁車）》<br>《MapleStory（[[楓之谷]]）》<br>《Counter-Strike Online（絕對武力Online）》<br>《[[動物朋友]]（初代遊戲）》 <br> 《[[蔚藍檔案]]》
 |
 |
 |-
@@ -1113,6 +1121,14 @@ Irrational Games則是《BioShock（[[生化奇兵]]）》的開發團隊
 |
 |後來被Neowiz吸收並改名Neowiz MUCA，也間接導致部分成員出走。
 |-
+|Devsisters
+|2007年
+|主要以智慧型手機遊戲為主
+|
+|《Cookie Run (跑跑薑餅人)》系列
+|
+|
+|-
 |Pearl Abyss
 |2010年9月
 |
@@ -1121,11 +1137,11 @@ Irrational Games則是《BioShock（[[生化奇兵]]）》的開發團隊
 |
 |
 |-
-|Softmax
-|1994年10月28日
+|Epid Games
+|2013年
+|<s>並不是Epic Games</s>
 |
-|MMORPG
-|《[[SDGO]]》
+|<s>《Roll the Chess》</s><br><s>《Trickcal》</s><br>《Trickcal Re:vive (嘟嘟臉惡作劇)》
 |
 |
 |-
@@ -1134,6 +1150,14 @@ Irrational Games則是《BioShock（[[生化奇兵]]）》的開發團隊
 |
 |
 |《勝利女神：妮姬》<br>《劍星》
+|
+|
+|-
+|[[Project Moon]]
+|2016年11月18日
+|中文圈大多稱之為「月亮計畫」(「月計」)<br>目前所有作品都共用同一世界觀<br>現實中也有「햄햄팡팡」<ref>HamHamPangPang</ref>這個主題餐廳的副業
+|
+|《Lobotomy Corporation (腦葉公司)》<br>《Library of Ruina (廢墟圖書館)》<br>《Limbus Company (邊獄公司)》
 |
 |
 |}
