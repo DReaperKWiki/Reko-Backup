@@ -174,9 +174,11 @@
 |-
 | 5 || Technolom Stream<br>（テクノロムストリーム） || Stream || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Stream! || 能自由操縱大氣與氣流<br>ゼッツゲイムライン在全力運作時會發出藍色的光輝 || ストリームバニッシュ<br>ストリームオーバーバニッシュ || 
 |-
-| 6 || Technolom Machinery<br>（テクノロムストリーム） || Machinery || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Machinery! || 右前臂機械化變成マシーナレムアーム，透過展開並變更結構能當作爪、吊機、絞盤等工具使用<br>機械臂本身能發揮巨大扭力，同時也擅於精密操作 || マシーナリーバニッシュ<br>マシーナリーオーバーバニッシュ || 
+| 6 || Technolom Machinery<br>（テクノロムストリーム） || Machinery || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Machinery! || 左前臂機械化變成マシーナレムアーム，透過展開並變更結構能當作爪、吊機、絞盤等工具使用<br>機械臂本身能發揮巨大扭力，同時也擅於精密操作 || マシーナリーバニッシュ<br>マシーナリーオーバーバニッシュ || 
 |-
-| ? || Esprim Recovery<br>（エスプリムリカバリー） || Recovery || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Recovery! || ? || ? || 
+| 7 || Technolom Projection<br>（テクノロムプロジェクション） || Projection || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Projection! || 左肩披上[[披風]]形光學迷彩器「レムプロジェクション」，能折射光線隱身或[[衛宮士郎|投影]]出[[機動戰士鋼彈F91|具實體的分身]] || プロジェクションバニッシュ<br>プロジェクションオーバーバニッシュ || 
+|-
+| 8 || Esprim Recovery<br>（エスプリムリカバリー） || Recovery || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Recovery! || ? || ? || 
 |-
 | ? || Paradigm Wonder<br>（パラダイムワンダー） || Wonder || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Wonder! || ? || ? || 
 |}
@@ -209,9 +211,9 @@
 |-
 | rowspan="2"|6 || Machinery<br>（マシーナリー） || 司「機械」之夢的Caspem<br>會讓使用者的身體機械化 ||
 |-
-| Projection<br>（プロジェクション） || 司「光學迷彩」之夢的Caspem<!-- <br>會投影出使用者的分身 --> || 
+| Projection<br>（プロジェクション） || 司「光學迷彩」之夢的Caspem<br>會投影出使用者的分身 || 
 |-
-| ? || Recovery<br>（リカバリー） || ? || 
+| 7 || Recovery<br>（リカバリー） || ? || 
 |-
 | ? || Wonder<br>（ワンダー） || ? || 
 |}
@@ -250,6 +252,12 @@
 ** 必殺技：
 *** 劍模式：ブレイカムスラッシュ
 *** 槍模式：ブレイカムシュート
+<br>
+
+* Zeztz Sensor（ゼッツセンサー）
+** CODE給予莫的自律行動型特殊感應器，背後能安裝Capsem使用對應的固有能力
+** 透過按下正面上部的ミッションスイッチャー能切換成感應（感應到動作時會發出警報）、搜索（搜索特定目標）、陷阱（控制及監視設置的陷阱）或掃瞄（掃瞄分析目標）共四種模式
+** 會以下部的腳快速移動、吸附在牆壁或天花板上拓展行動範圍，折合腳部後便成適合定點觀測的ジャイロスタビライザー形態
 <br>
 
 * Zeztz Camera（ゼッツカメラ）
