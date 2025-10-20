@@ -654,9 +654,10 @@
 *** <s>偃月加魯魯獸：哪有，我屹立不搖呢(･ω´･ )</s>
 *** <s>鋼鐵加魯魯獸：給我X抗體我也能站起來給你看(･ω´･ )</s>
 
-; 仙女獸（フェアリモン/Fairimon）、風神獸（シューツモン/Shutumon）<br>https://digimon.net/cimages/digimon/fairimon.jpg https://digimon.net/cimages/digimon/shutumon.jpg
+; 仙女獸（フェアリモン/Fairimon）、和風獸（シューツモン/Shutumon）<ref>舊譯風神獸，但後來出了捏他風雷水神之一的風神獸（フウジンモン/Fujinmon）所以被改名了</ref>
+<br>https://digimon.net/cimages/digimon/fairimon.jpg https://digimon.net/cimages/digimon/shutumon.jpg
 * 十鬥士的風屬性代表。
-* 進化路線：仙女獸or風神獸→噴射精靈獸（ジェットシルフィーモン）
+* 進化路線：仙女獸or和風獸→噴射精靈獸（ジェットシルフィーモン）
 * '''遠古彩虹獸（エンシェントイリスモン AntientIrismon）'''<br>https://digimon.net/cimages/digimon/ancientirismon.jpg
 ** 遠古的風之鬥士
 

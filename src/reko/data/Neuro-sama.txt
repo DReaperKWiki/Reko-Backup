@@ -130,13 +130,14 @@ V2 (新髮夾) = [[File:Evil Neuro V2.png|300px]]
 == 人際關係 ==
 * 由於Vedal經常raid和聯動小型獨立VTuber的關係，不知不覺地建立了屬於自己的<s>后宮</s>圈子
 ** 粉絲們都稱這個圈子為Neuroverse/Vedalverse<ref>中文粉絲稱該圈子為環牛圈</ref>
+* 此外也有Backtuber這個圈子中的圈子的存在
 
 === '''[[Anny]]''' ===
-* <s>媽媽</s>
 * Neuro現模型的繪師
 * 為烏克蘭出身，現居日本的繪畫勢狐娘VTuber，主要於Twitch活動<ref>直播時主要使用英語</ref>
 * 非常喜歡Neuro，而且當Neuro還以Hiyori免費模型活動時就開始觀看，還為此免費幫Neuro繪製新模型
-* 於2025年5月6日宣布無限期暫停活動
+* 然而於2025年10月20日直播中聲明[https://youtu.be/AJUy1zf7Fds?si=7JiFbVSSWndg6f4A 中止與Vedal合作關係]
+** <s>好消息是VA配對是真的，壞消息是只有A是真的</s>
 
 === '''[[Camila]]''' ===
 * <s>Vedal的摯友</s>
@@ -154,24 +155,10 @@ V2 (新髮夾) = [[File:Evil Neuro V2.png|300px]]
 * 英國地獄犬VTuber
 * Twitch頻道名稱是CerberVT
 
-=== '''[[Toma]]''' ===
-* <s>姨姨</s>
-* 番茄VTuber
-* 曾帶Neuro去動物園和水族館遊玩
-
-=== '''[[Layna Lazar]]''' ===
-[[File:Layna.jpg|100px]]
-* <s>姨姨</s>
-* 現居新西蘭的VTuber
-* 模組為黑暗獵奇風，靈感來自於自己在2005年時患上潰瘍性結腸炎，要接受26次輸血的經歷
-* 曾為遊戲Path of Exile擔任3D建模師，此外現時自己的3D模型也是自己設計和製作的
-* 多次與Neuro和Evil聯動，更會以真人形式進行料理聯動
-** 有一次經由Neuro指揮下製作出「美味的」[https://www.youtube.com/watch?v=Ie9C5L0onOk '''泥土曲奇''']
-
 === '''[[Ellie Minibot]]''' ===
 * <s>VedalAI 員工</s>
 * 機械人VTuber，會彈班卓琴(Banjo)
-* Neurodog<ref>Neuro在現實的新機械狗身體</ref>的製作人
+* Neurodog<ref>Neuro在現實的新機械狗身體</ref>和Neurocar<ref>Neuro在現實的玩具車身體</ref>的製作人
 * 在現實中是機械工程師
 
 == Neuro-sama ARG ==

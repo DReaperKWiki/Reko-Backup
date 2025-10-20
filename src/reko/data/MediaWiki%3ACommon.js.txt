@@ -1,5 +1,4 @@
 /* 此 JavaScript 會用於使用者載入的每一個頁面。 */
-// <code>
 
 jQuery( addPurgeLink );
 
@@ -195,8 +194,10 @@ function NumberOfArtlist() {
 jQuery( CustomizeModificationsOfSidebar );
 jQuery( NumberOfArtlist );
 
+
 // Check if we're editing a page.
 if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
+	const q = (ss, ...vs) => '{{' + String.raw({raw: ss}, ...vs) + '}}'
 	// Add a hook handler.
 	mw.hook( 'wikiEditor.toolbarReady' ).add( function ( $textarea ) {
 		// Configure a new toolbar entry on the given $textarea jQuery object.
@@ -214,7 +215,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{h0|}}'
+											pre: q`h0|`
 										}
 									}
 								},
@@ -223,7 +224,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{ruby|主內容|標記文字}}'
+											pre: q`ruby|主內容|標記文字`
 										}
 									}
 								},
@@ -232,7 +233,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{ruby| text= | pronounce= | style= }}'
+											pre: q`ruby| text= | pronounce= | style= `
 										}
 									}
 								},
@@ -250,7 +251,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{ref | 備註內容 | 備註組別 }}'
+											pre: q `ref | 備註內容 | 備註組別 `
 										}
 									}
 								},
@@ -259,7 +260,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{anchor| 匿名參數1 }}'
+											pre: q `anchor| 匿名參數1 `
 										}
 									}
 								},
@@ -268,7 +269,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{youtube|<影片編號>|<連結文字（選用）>|<time=開始時間（選用）>}}'
+											pre: q`youtube|<影片編號>|<連結文字（選用）>|<time=開始時間（選用）>`
 										}
 									}
 								},
@@ -277,7 +278,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{youtube|<user=用戶編號>|<2=連結文字（選用）>}}'
+											pre: q`youtube|<user=用戶編號>|<2=連結文字（選用）>`
 										}
 									}
 								},
@@ -286,7 +287,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{youtube|<channel=頻道編號>|<2=連結文字（選用）>}}'
+											pre: q`youtube|<channel=頻道編號>|<2=連結文字（選用）>`
 										}
 									}
 								},
@@ -295,7 +296,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{youtube|<playlist=播放清單編號>|<2=連結文字（選用）>}}'
+											pre: q`youtube|<playlist=播放清單編號>|<2=連結文字（選用）>`
 										}
 									}
 								},
@@ -304,7 +305,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{sm|<影片編號>|<連結文字（選用）>}}'
+											pre: q`sm|<影片編號>|<連結文字（選用）>`
 										}
 									}
 								},
@@ -313,7 +314,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{im|<影片編號>|<連結文字（選用）>}}'
+											pre: q`im|<影片編號>|<連結文字（選用）>`
 										}
 									}
 								},
@@ -322,7 +323,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{wp|<維基百科標題>|<顯示標題>|<lang=語種>}}'
+											pre: q`wp|<維基百科標題>|<顯示標題>|<lang=語種>`
 										}
 									}
 								},
@@ -331,7 +332,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{twitter|<用戶編號>|<貼文編號>}}'
+											pre: q`twitter|<用戶編號>|<貼文編號>`
 										}
 									}
 								},
@@ -340,7 +341,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{color|文字色|背景色|文字內容}}'
+											pre: q`color|文字色|背景色|文字內容`
 										}
 									}
 								},
@@ -349,7 +350,7 @@ if ( [ 'edit', 'submit' ].indexOf( mw.config.get( 'wgAction' ) ) !== -1 ) {
 									action: {
 										type: 'encapsulate',
 										options: {
-											pre: '{{censored|}}'
+											pre: q`censored|`
 										}
 									}
 								}
@@ -430,5 +431,3 @@ function handleAnchorIdHidden(x, opt) {
 $(document).on('click', handleAnchorIdHidden);
 if (document.readyState == 'complete') handleAnchorIdHidden({}, 'wait-content-hide');
 else $(window).on('load', handleAnchorIdHidden);
-
-// </code>
