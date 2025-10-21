@@ -120,7 +120,7 @@
 ==== Assassin ====
 
 {{Fate Noble Phantasm
-	|image=		http://i.imgur.com/7OU6vDN.gif
+	|image=		https://i.meee.com.tw/Ihhrbds.gif
 	|color=		#00DDDD
 	|bgcolor=	#AAAAAA
 	|name=		<s>[[烙印勇士|喚水之劍]]</s><br>告死天使{{ref|日文原文爲「死告天使」}}
@@ -131,7 +131,6 @@
 	|maxcaught=	1人
 	|explain=	以毫無稀奇之處的大劍[[成句/麻美 (動詞)|斬首]]。<br>被此人在生涯之中不斷揮舞，染上了他永不背棄的信仰。<br><br>喪命於此劍者，[[北斗神拳#托奇/道奇/托席（Toki，トキ）|<br>雖恐懼卻不痛，<br>雖畏懼卻不苦，<br>雖懺悔卻不後悔。]]<br><br>遊戲中效果是單體高傷害兼高確率即死目標，另外本寶具的演出跟其他從者的寶具不同，一旦確定目標被擊倒，寶具演出結束後不會再演出該目標的消滅動畫而是<s>[[直死之魔眼|直死]]得連渣都不剩</s>直接消滅<ref>如第四章[https://www.bilibili.com/video/av16838953 打魔術王]的時候</ref><ref>這個效果原本算是個 bug，但因不少玩家都覺得很帥而將錯就錯保留下來。</ref>。
 }}
-
 
 === Fate/Grand Order專屬概念禮裝 ===
 {{Fate概念禮裝

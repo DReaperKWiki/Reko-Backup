@@ -1205,7 +1205,7 @@
 |-
 |'76 黄霑 佳視〈神鵰俠侶〉|| 關正傑、韋秀嫻〈[https://youtu.be/UP7wkWB31mk 射鵰與神雕]〉<br>[https://youtu.be/wRKOOFBEp_I 徐小鳳版]||
 |-
-| rowspan="5" |'93 黃霑、鮑比達〈情定少林寺〉||[https://youtu.be/EZsMjqoJQX4 少林雄風]<br>[https://youtu.be/PMk52-57Zyo 對峙]<br>||《天宇》✉[https://youtu.be/voGZTewqQYU&t=52 銀河行現身]<br>《霹靂》✉[https://youtu.be/-dNyzQrkTNU 一葉扁舟(青陽子萬里征途版)]||YT武俠推介短片常見
+| rowspan="5" |'93 黃霑、鮑比達〈情定少林寺〉||[https://youtu.be/EZsMjqoJQX4 少林雄風]<br>[https://youtu.be/PMk52-57Zyo 對峙]<br>||《天宇》✉[https://youtu.be/voGZTewqQYU&t=52 銀河行現身]<br>《霹靂》✎[https://youtu.be/-dNyzQrkTNU 一葉扁舟(青陽子萬里征途版)]||YT武俠推介短片常用
 |-
 |[https://youtu.be/sFn7GSE4WWI 斷情殤]||《天宇》✉銀河行清白湖||
 |-
@@ -1215,13 +1215,13 @@
 |-
 |[https://youtu.be/ZSOe2-NEgkk&t=2017 菩提樹]||《霹靂》✉[https://youtu.be/ue5dl-pBN1I 普生(菩提學院)]||
 |-
-||'88 徐日勤〈八月桂花香〉||羅文〈[https://youtu.be/78SNRnHEPJA 塵緣]〉||《天宇》❏太陽的故鄉||
+||'88 徐日勤〈八月桂花香〉||羅文〈[https://youtu.be/78SNRnHEPJA 塵緣]〉||《天宇》❏太陽的故鄉?(待查)||
 |-
 | rowspan="2" |'92 徐日勤〈出位江湖〉 || 張學友、湯寶如 〈相思風雨中〉 || 《天宇》❏造天筆 || 使用古箏版伴奏音源(待查)
 |-
 ||張學友〈[https://youtu.be/t2dcuWn7DDI 紅葉舞秋山]〉 || 《神魔》❏解干戈 || 
 |-
-|'91徐嘉良〈蜀山奇俠之仙侶奇緣〉||温兆倫 /陳松齡〈[https://youtu.be/r1EwmU5v2BQ 正義柔情永在]〉<br>[https://youtu.be/e-8SghfrXnI 仙侶奇緣]||《霹靂》❏[https://youtu.be/zFF9T0s1NrA 傲笑紅塵]、<br>✎[https://youtu.be/G3nOXuE6cPg 晏定邦]、✎[https://youtu.be/PCAYZr0VGoQ 魂歸離恨天]、<br>✎[https://youtu.be/dgFQaZROyHI 新傲笑紅塵] ||
+|'91徐嘉良〈蜀山奇俠之仙侶奇緣〉||温兆倫 /陳松齡〈[https://youtu.be/r1EwmU5v2BQ 正義柔情永在]〉<br>[https://youtu.be/e-8SghfrXnI 仙侶奇緣]||《霹靂》❏[https://youtu.be/zFF9T0s1NrA 傲笑紅塵]、✎[https://youtu.be/dgFQaZROyHI 新傲笑紅塵]<br>✎[https://youtu.be/G3nOXuE6cPg 晏定邦]、✎[https://youtu.be/PCAYZr0VGoQ 魂歸離恨天]||
 |-
 || 2002 徐嘉良〈新蜀山劍俠〉 || 陳冠蒲〈[https://youtu.be/KXRWn1DDV8o 太多]〉 || 《神魔》❏劍扇雅儒懺悔曲、朝陽君 || 
 |-
@@ -1299,7 +1299,7 @@
 |-
 ||[https://youtu.be/KK2o2eODtSc 聖なる5人]||《天宇》✂魔航ED||
 |-
-| rowspan="7" |'94 川村栄二〈忍者戦隊カクレンジャー〉 || [https://youtu.be/G0ByoQJFDpE ツバサマル連続合體]/[https://youtu.be/5snTZ394XgU ツバサマル出現]|| 《霹靂》《霹靂》✂王朝29魔魁之女救非凡公子 || 高福順原聲帶〈最佳收幕武打曲〉
+| rowspan="7" |'94 川村栄二〈忍者戦隊カクレンジャー〉 || [https://youtu.be/G0ByoQJFDpE ツバサマル連続合體]/[https://youtu.be/5snTZ394XgU ツバサマル出現]|| 《霹靂》✂王朝29魔魁之女救非凡公子 || 高福順原聲帶〈最佳收幕武打曲〉
 |-
 ||[https://youtu.be/ApQY8SVEHP0 隠流超忍獣の術!] || 雜用武戲場面 || 
 |-
@@ -2135,7 +2135,7 @@
 |-
 || [https://youtu.be/JEVYFwNCP6c 三月桃花/陽明春曉]||'81 華視〈每日一字〉✂主題曲||
 |-
-| rowspan="4"| '66 The Ventures/投機者樂團 || [https://youtu.be/lB3AcmyYGZQ Diamond head]|| 雜用丑角武戲<br>'96 電影〈[[麻將]]〉鄭智化、吳念真－☻[https://youtu.be/s8HFmp_ctOo 拉客]<br>'96 女王様《[[烏龍派出所]]》ED－[https://youtu.be/yWUPTpBjZy8 渚の女王様] || <br>另有黃品源〈[https://youtu.be/uicbn1-ZKG0 麻糬]〉
+| rowspan="5"| '66 The Ventures/投機者樂團 || [https://youtu.be/lB3AcmyYGZQ Diamond head]|| 雜用丑角武戲<br>'96 電影〈[[麻將]]〉鄭智化、吳念真－☻[https://youtu.be/s8HFmp_ctOo 拉客]<br>'96 女王様《[[烏龍派出所]]》ED－[https://youtu.be/yWUPTpBjZy8 渚の女王様] || <br>另有黃品源〈[https://youtu.be/uicbn1-ZKG0 麻糬]〉
 |-
 || [https://youtu.be/OsgH6JqBQcU Escape] || 雜用丑角武戲<br>《霹靂》✎[https://youtu.be/hZku5h_XkKQ 老當益壯] 
 |-
