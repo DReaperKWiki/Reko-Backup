@@ -1,0 +1,3014 @@
+{{h0|3D射擊遊戲 / 戰術射擊遊戲（Tactical Shooter）<br>第一人稱射擊遊戲 / First Person Shooter（FPS）<br>第三人稱射擊遊戲 / Third Person Shooter（TPS）}}
+
+== 概要 ==
+* [[射擊遊戲]]的其中一項主要分支。
+* 與2D射擊遊戲最大的不同之處在於玩家可以操作角色在三維空間進行移動，並依照情況使用槍械戰鬥。
+** <s>當然實際上也存在著槍械只是輔助，主要輸出還是冷兵器的戰術'''射擊'''遊戲（望向某把物理學聖劍）</s>
+* 依照主視角的不同可以分為第一人稱（FPS）與第三人稱（TPS）兩種。
+* 其中FPS迄今仍然是電競類型遊戲的主流，在遊戲市場的營銷量更是將近全部種類的30%。
+
+== 代表作品 ==
+=== [[德軍總部]] ===
+* 由id Software（目前為ZeniMax Media旗下子公司）等工作室開發。
+* 主角為二戰時期擁有猶太人血統的美軍特務中士「威廉·喬瑟夫·"B.J."·布拉柯威茲（William Joseph "B.J." Blazkowicz）」，描寫他在身陷敵營之際突破包圍的傳奇故事。
+** <s>基本上每一代的序章不是被納粹關就是被納粹包圍，但最後的結果都是B.J.無雙掉納粹後成功脫離。</s>
+* 前兩作為主打潛行匿蹤的2D動作射擊遊戲，第三作起正式加入FPS要素。
+** 《3D》脫胎自同製作團隊的FPS《Catacomb 3-D》，被認為是使FPS普及化的元老級作品。
+* 原製作組id Software被ZeniMax Media併購後製作組改為MachineGames，同時劇情也重啟，變更成軸心國打贏二戰的架空戰記。
+** 同時劇情方面也更加著重男主角威廉的內心戲以及在戰場上面臨的糾葛。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''Muse Software開發'''
+|-
+|Castle Wolfenstein
+|德軍總部
+|1981
+|
+|
+|-
+|Beyond Castle Wolfenstein
+|超越德軍總部
+|1984
+|
+|
+|-
+!colspan="5"|'''id Software開發'''
+|-
+|Wolfenstein 3D
+|德軍總部3D
+|1992
+|正式FPS化。
+|
+|-
+|Wolfenstein 3D: Spear of Destiny
+|德軍總部3D：命運之矛
+|1992
+|上者的資料片，追加了新的戰役地圖。
+|
+|-
+|Return to Castle Wolfenstein
+|重返德軍總部
+|2001
+|
+|
+|-
+|Wolfenstein: Enemy Territory
+|德軍總部：深入敵後
+|2003
+|上者的資料片，純多人模式。
+|
+|-
+|Wolfenstein RPG
+|德軍總部RPG
+|2008
+|
+|
+|-
+|Wolfenstein
+|德軍總部：黑曜陰謀
+|2009
+|
+|
+|-
+!colspan="5"|'''MachineGames開發'''
+|-
+|Wolfenstein: The New Order
+|德軍總部：新秩序
+|2014
+|重啟系列第一作，舞台為納粹統一全世界後的1960年代。<br>男主角B.J.在討伐納粹將軍「死顱」時因戰傷昏迷14年才甦醒，為了奪回故鄉而與戀人安雅加入克萊稍集團。<br>與前作相比，本作除了在系統上增加[[雙持|雙手持槍]]的戰鬥系統外，還給主角安排了大量的內心戲與道德選擇，讓他的形象更加豐滿。<br><s>同時也刪減了以往系列比重過重的魔法元素改成機甲等科技元素。</s>
+|
+|-
+|Wolfenstein: The Old Blood
+|德軍總部：舊血脈
+|2015
+|上者的前傳作品，風格較接近《重返》等舊系列作品。
+|
+|-
+|Wolfenstein II: The New Colossus
+|德軍總部II：新巨像
+|2017
+|重啟系列第二作，描寫克萊稍集團的潛艇伊娃之錘遭到恩格爾夫人率領的戰艦滅絕者號攻擊導致死傷慘重，從重傷甦醒的B.J.便展開反攻。
+|
+|-
+|Wolfenstein: Youngblood
+|德軍總部：血氣方剛
+|2019
+|重啟系列的後日談，主角為B.J.的雙胞胎女兒小潔＆小蘇，描寫姊妹倆為了尋找前往法國對抗納粹的父親而展開旅程。
+|
+|-
+|Wolfenstein: Cyberpilot
+|德軍總部：機甲駕駛
+|2019
+|VR向作品，與樓上同一天發售。
+|
+|}
+
+=== [[毀滅戰士]] ===
+* 與《德軍總部》系列同為id Software開發。
+* 描寫一名代號「Doomguy」的超級士兵<ref>官方最早設定為《德軍總部》系列主角Blazkowicz的子孫，但隨著雙方系列各自重啟後二者血統的聯繫等設定也被去除了。</ref>在火星上獨自一人對抗大量異星怪物。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Doom
+|毀滅戰士
+|1993
+|
+|
+|-
+|Doom II: Hell on Earth
+|毀滅戰士II：人間地獄
+|1994
+|
+|
+|-
+|Final Doom
+|最終毀滅戰士
+|1996
+|
+|
+|-
+|Doom 64
+|毀滅戰士64
+|1997
+|最早僅在N64平台獨佔推出，睽違23年後才推出PC等其他平台的版本。
+|
+|-
+|Doom 3
+|毀滅戰士3
+|2004
+|首次披露id Tech 4引擎，劇情與前幾作較無關聯，反而更接近外傳性質的作品。
+|
+|-
+|Doom 3: Resurrection of Evil
+|毀滅戰士3：邪惡復甦
+|2005
+|上者的資料片。
+|
+|-
+|Doom 3: BFG Edition
+|毀滅戰士3：BFG版
+|2012
+|上者包含資料片的完全版。
+|
+|-
+|Doom
+|毀滅戰士（2016）
+|2016
+|重啟第一作。
+|
+|-
+|Doom Eternal
+|毀滅戰士永恆
+|2020
+|
+|<s>發售日正好與某[[集合啦!動物森友會|繳房貸遊戲]]同一天，也因此衍生出許多相關惡搞</s>
+|-
+|Doom Eternal: The Ancient Gods
+|毀滅戰士永恆：古代諸神
+|2020
+|永恆的資料片，分為Part 1與Part 2兩章節。
+|
+|-
+|Doom: The Dark Ages
+|毀滅戰士：黑暗紀元
+|2025
+|重啟系列的前傳，時間點在《毀滅戰士64》與《毀滅戰士(2016)》之間。
+|
+|}
+
+=== 網路奇兵 ===
+* 由LookingGlass Technologies開發，Origin System發行。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|System Shock
+|網路奇兵
+|1994
+|
+|
+|-
+|System Shock 2
+|網路奇兵2
+|1999
+|
+|
+|-
+|System Shock (remake)
+|網路奇兵（重製版）
+|2023
+|
+|
+|}
+
+=== 馬拉松 ===
+* 由Bungie開發。
+* 與毀滅戰士相比，系列皆以蘋果電腦為主平台，且在多人模式上獲得更高的評價。
+** 尚未發售（2024）的系列最新作品也將主打PVP模式。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Marathon
+|馬拉松
+|1994
+|
+|
+|-
+|Marathon 2: Durandal
+|馬拉松2：杜蘭達爾
+|1995
+|
+|
+|-
+|Marathon Infinity
+|馬拉松：無限
+|1996
+|
+|
+|}
+
+=== 龍霸三合會 ===
+* 由3D Realms開發，Apogee Software發行。
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Rise of the Triad
+|龍霸三合會
+|1995
+|
+|
+|-
+|Rise of the Triad
+|龍霸三合會
+|2013
+|
+|
+|}
+
+=== 毀滅公爵 ===
+* 由3D Realms開發，Apogee Software發行。
+* 與《德軍總部》的情況類似，在系列第三作才轉型成FPS。
+* 本系列最大的特色是有著相當多的場景互動以及大量的腥羶色彩蛋<s>以及沒有下限的搞同類型作品的捏他</s>。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''橫軸動作類'''
+|-
+|Duke Nukem
+|毀滅公爵
+|1991
+|
+|
+|-
+|Duke Nukem II
+|毀滅公爵II
+|1993
+|
+|
+|-
+|Duke Nukem: Manhattan Project
+|毀滅公爵：曼哈頓計劃
+|2002
+|
+|
+|-
+!colspan="5"|'''戰術射擊類'''
+|-
+|Duke Nukem 3D
+|毀滅公爵3D
+|1996
+|
+|
+|-
+|Duke Nukem: Time to Kill
+|毀滅公爵：殺戮時刻
+|1998
+|
+|
+|-
+|Duke Nukem: Zero Hour
+|毀滅公爵：零點
+|1999
+|
+|
+|-
+|Duke Nukem: Land of the Babes
+|毀滅公爵：寶貝之地
+|2000
+|
+|
+|-
+|Duke Nukem Forever
+|永遠的毀滅公爵
+|2011
+|前者時隔十餘年才推出的官方續作，腥羶色段子與前作相比有過之而無不及<ref>比方說一開始在廁所馬桶'''可以撿起一坨大便'''，在正式出擊前還能隨便亂扔之外大便，扔過已經留下痕跡的大便'''還能撿起來繼續再扔'''<s>如此操作足以讓提倡質量守恆的拉瓦節氣到把頭接回來</s>，甚至還能將戰略會議的白板用板擦擦光上面內容後丟大便上去，或著讓旁邊等待公爵的小兵也當一回老八吃粑粑（無誤）。</ref>。
+|<s>永遠的[[PS3大學長|大學長]]、永遠的[[黑歷史]]、[[クソゲー]][[クソゲーオブザイヤー|フォエバー]]</s>
+|}
+
+=== [[惡靈古堡系列|惡靈古堡]] ===
+* 由CAPCOM開發。
+** 其實最早是<s>參照《鬼屋魔影Alone in the Dark》</s>依場景固定視角的恐怖向動作冒險遊戲，玩家在中途能撿到的彈藥也有限，</s>但在四代以後因為原創者三上真司退出，從此就往TPS甚至FPS的路上一去不復返…。
+** 另外這款也是本條目中少數日廠製的遊戲IP。
+* 對於TPS的主要建樹特色是建立「主角斜右後方視點」：
+** 玩家可以觀測畫面中央、右方的視野進行射擊時的視角調整瞄準，左方保留部分左上視野，左下方顯示主角的上半身以兼顧主角對物件動作（例如取物、開門）或搏鬥的演出。
+** 此後的TPS多半參照這種畫面格局來安排各自的HUB（血量/數值/羅盤/任務說明…等）。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''惡靈古堡'''
+|-
+|バイオハザード<br>Resident Evil
+|惡靈古堡
+|1996
+|
+|
+|-
+|バイオハザード2<br>Resident Evil 2
+|惡靈古堡2
+|1998
+|
+|
+|-
+|バイオハザード3 LAST ESCAPE<br>Resident Evil 3: Nemesis
+|惡靈古堡3：最終逃亡
+|1999
+|
+|
+|-
+|バイオハザード CODE: Veronica<br>Resident Evil – Code: Veronica
+|惡靈古堡：聖女密碼
+|2000
+|
+|
+|-
+|バイオハザード0<br>Resident Evil Zero
+|惡靈古堡0
+|2002
+|
+|
+|-
+|バイオハザード4<br>Resident Evil 4
+|惡靈古堡4
+|2005
+|
+|
+|-
+|バイオハザード5<br>Resident Evil 5
+|惡靈古堡5
+|2009
+|
+|
+|-
+|バイオハザード6<br>Resident Evil 6
+|惡靈古堡6
+|2012
+|
+|
+|-
+|バイオハザード7 レジデント イービル<br>Resident Evil 7: biohazard
+|惡靈古堡7：生化危機
+|2017
+|
+|
+|-
+|バイオハザード ヴィレッジ<br>Resident Evil Village
+|惡靈古堡：村莊
+|2021
+|
+|
+|-
+!colspan="5"|'''惡靈古堡：啟示'''
+|-
+|バイオハザード リベレーションズ<br>Resident Evil: Revelations
+|惡靈古堡：啟示
+|2012
+|
+|
+|-
+|バイオハザード リベレーションズ 2<br>Resident Evil: Revelations 2
+|惡靈古堡：啟示2
+|2015
+|
+|
+|-
+!colspan="5"|'''重製版'''
+|-
+|バイオハザード<br>Resident Evil
+|惡靈古堡
+|2002
+|一代的重製版，追加了關於洋館設計師一家的相關劇情
+|
+|-
+|バイオハザード HDリマスター<br>Resident Evil HD Remaster
+|惡靈古堡 HD復刻版
+|2015
+|一代重製版在新世代主機的移植版
+|
+|-
+|バイオハザード0 HDリマスター<br>Resident Evil Zero HD Remaster
+|惡靈古堡0 HD復刻版
+|2016
+|
+|
+|-
+|バイオハザード RE:2<br>Resident Evil 2
+|惡靈古堡2 重製版
+|2019
+|使用RE引擎重新製作的二代，與原版相比可說是砍掉重練的程度
+|
+|-
+|バイオハザード RE:3<br>Resident Evil 3
+|惡靈古堡3 重製版
+|2020
+|<s>重製二代如果說是砍掉重練，這代是剪掉一大塊</s>
+|
+|-
+|バイオハザード RE:4<br>Resident Evil 4
+|惡靈古堡4 重製版
+|2023
+|
+|
+|}
+
+=== 雷神之鎚 ===
+* 與《德軍總部》＆《毀滅戰士》系列同為id Software開發。
+* 引入了全新遊戲引擎「雷神之鎚引擎（Quake engine）」，使得人物場景不再是2D貼圖而是真正的3D模組，也使FPS遊戲第一次真正進入三維空間。
+** 後續Valve的戰慄時空系列也是使用該引擎開發。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Quake
+|雷神之鎚
+|1996
+|首次披露雷神之鎚引擎，讓FPS成為真3D。
+|於2021年推出重製版。
+|-
+|Quake II
+|雷神之鎚II
+|1997
+|首次披露id Tech 2引擎。
+|於2023年推出重製版。
+|-
+|Quake III Arena
+|雷神之鎚III：競技場
+|1999
+|主打PvE或PvP的多人對戰模式，首次披露id Tech 3引擎。
+|
+|-
+|Quake III: Team Arena
+|雷神之鎚III：團隊競技場
+|2000
+|上者的資料片，追加新地圖與對戰規則。
+|
+|-
+|Quake 4
+|雷神之鎚4
+|2005
+|
+|
+|-
+|Enemy Territory: Quake Wars
+|雷神之戰：深入敵境
+|2007
+|
+|
+|-
+|Quake Live
+|雷神之鎚Live
+|2010
+|
+|
+|-
+|Quake Champions
+|雷神之鎚Champions
+|2022
+|
+|
+|}
+
+=== 影子武士 ===
+* 最早是3D Realms開發，GT Interactive Software發行的遊戲。
+** 相較於以往的槍械熱兵器，本作主打特色為武士刀與手裡劍等冷兵器的使用。
+** 男主角「王洛（Lo Wang）」的設定也是一名受雇於日本黑幫頭目「齊拉大蛇（Orochi Zilla）」的忍者大師。
+** <s>然而隨著遊戲的進度主角還是能拿到各種槍械當外鄉人或葦名劍聖。</s>
+* 後來經過版權轉移後，由Flying Wild Hog重啟作品並發展成系列作，發行方為Gathering of Developers，在人物與劇情設定上也有明顯改變。
+** 最大的區別在於舊版扮演大魔王的齊拉在重製版成為了主角好敵手般的存在，在三代甚至與主角聯手阻止巨龍復活。
+* <s>舊版王洛還是個看起來四五十歲的光頭大叔，新版直接變成年僅二三十歲的嘻哈潮男（雖然還是光頭），三代雖然有頭髮了但莫名其妙的被整成大餅國字臉orz<ref>實際上是二三代的演員更換所致，可能是為了讓王洛的形象更像亞洲人的關係，三代王洛的演員從Jason Liebrecht變更成了亞裔的Mike Moh<s>，可是找韓裔演華裔不怕中國人翻桌嗎</s>。</ref></s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Shadow Warrior
+|影子武士
+|1997
+|
+|
+|-
+|Shadow Warrior
+|影子武士
+|2013
+|重啟第一作，過去的設定砍掉重練之外，也追加了強化點數等角色扮演的要素。
+|
+|-
+|Shadow Warrior 2
+|影子武士2
+|2016
+|一改前作的章節關卡制，採用了主支線任務導向的沙盒地圖展開。
+|
+|-
+|Shadow Warrior 3
+|影子武士3
+|2021
+|取消沙盒地圖再度回歸章節關卡制，並加入了不少QTE跑酷環節。
+|
+|}
+
+=== 黃金眼007 ===
+* 由Rare開發，任天堂發行。
+* 首次家機獨佔的戰術射擊遊戲，並且也首次引入傷害部位的判定。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|GoldenEye 007
+|黃金眼007
+|1997
+|
+|
+|}
+
+=== 喋血街頭 ===
+* 由Running with Scissors開發。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Postal
+|喋血街頭
+|1997
+|
+|
+|-
+|Postal 2
+|喋血街頭2
+|2003
+|
+|
+|-
+|Postal III
+|喋血街頭3
+|2011
+|
+|
+|-
+|Postal Redux
+|喋血街頭重啟
+|2016
+|
+|
+|-
+|Postal 4: No Regerts
+|喋血街頭4：無悔
+|2022
+|
+|
+|-
+|Postal: Brain Damaged
+|喋血街頭：腦損傷
+|2022
+|
+|
+|}
+
+=== 湯姆克蘭西 ===
+* 由Ubisoft開發，改編自軍武小說家湯姆·克蘭西的同名小說劇情/格局的一系列作品。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''虹彩六號'''
+|-
+|Tom Clancy's Rainbow Six
+|虹彩六號：除暴戰警隊
+|1998
+|
+|
+|-
+|Tom Clancy's Rainbow Six: Rogue Spear
+|虹彩六號：精兵悍將
+|1999
+|
+|
+|-
+|Tom Clancy's Rainbow Six: Take-Down – Missions in Korea
+|虹彩六號：朝鮮任務
+|2001
+|
+|
+|-
+|Tom Clancy's Rainbow Six 3: Raven Shield
+|虹彩六號3：鷲之盾
+|2003
+|
+|
+|-
+|Tom Clancy's Rainbow Six 3: Athena Sword
+|虹彩六號3：雅典娜之劍
+|2003
+|
+|
+|-
+|Tom Clancy's Rainbow Six: Lockdown
+|虹彩六號：禁錮法則
+|2006
+|
+|
+|-
+|Tom Clancy's Rainbow Six: Critical Hour
+|虹彩六號：關鍵時刻
+|2006
+|
+|
+|-
+|Tom Clancy's Rainbow Six: Vegas
+|虹彩六號：拉斯維加斯
+|2006
+|
+|
+|-
+|Tom Clancy's Rainbow Six: Vegas 2
+|虹彩六號：拉斯維加斯2
+|2008
+|
+|
+|-
+|Tom Clancy's Rainbow Six Siege
+|[[彩虹六號：圍攻行動|虹彩六號：圍攻行動]]
+|2015
+|
+|
+|-
+|Tom Clancy's Rainbow Six Extraction
+|虹彩六號：撤離禁區
+|2022
+|
+|
+|-
+!colspan="5"|'''火線獵殺'''
+|-
+|Tom Clancy's Ghost Recon
+|火線獵殺
+|2001
+|
+|
+|-
+|Tom Clancy's Ghost Recon: Desert Siege
+|火線獵殺：荒漠危城
+|2002
+|
+|
+|-
+|Tom Clancy's Ghost Recon: Island Thunder
+|火線獵殺：古巴風雲
+|2003
+|
+|
+|-
+|Tom Clancy's Ghost Recon: Jungle Storm
+|火線獵殺：叢林風暴
+|2004
+|
+|
+|-
+|Tom Clancy's Ghost Recon 2
+|火線獵殺2
+|2004
+|
+|
+|-
+|Tom Clancy's Ghost Recon 2: Summit Strike
+|火線獵殺2：絕頂衝擊
+|2005
+|
+|
+|-
+|Tom Clancy's Ghost Recon Advanced Warfighter
+|火線獵殺：先進戰士
+|2006
+|
+|
+|-
+|Tom Clancy's Ghost Recon Advanced Warfighter 2
+|火線獵殺：先進戰士2
+|2007
+|
+|
+|-
+|Tom Clancy's Ghost Recon: Shadow Wars
+|火線獵殺：暗影戰爭
+|2011
+|
+|
+|-
+|Tom Clancy's Ghost Recon: Future Soldier
+|火線獵殺：未來戰士
+|2012
+|
+|
+|-
+|Tom Clancy's Ghost Recon Phantoms
+|火線獵殺：魅影
+|2012
+|
+|
+|-
+|Tom Clancy's Ghost Recon Wildlands
+|火線獵殺：野境
+|2017
+|
+|
+|-
+|Tom Clancy's Ghost Recon Breakpoint
+|火線獵殺：絕境
+|2019
+|
+|
+|-
+!colspan="5"|'''縱橫諜海'''
+|-
+|Tom Clancy's Splinter Cell
+|縱橫諜海
+|2002
+|
+|
+|-
+|Tom Clancy's Splinter Cell: Team Stealth Action	
+|縱橫諜海：隊伍秘密行動
+|2003
+|
+|
+|-
+|Tom Clancy's Splinter Cell: Pandora Tomorrow
+|縱橫諜海：潘朵拉計劃
+|2004
+|
+|
+|-
+|Tom Clancy's Splinter Cell: Chaos Theory
+|縱橫諜海：混沌理論
+|2005
+|
+|
+|-
+|Tom Clancy's Splinter Cell: Essentials
+|縱橫諜海：間諜本色
+|2006
+|
+|
+|-
+|Tom Clancy's Splinter Cell: Double Agent
+|縱橫諜海：雙重間諜
+|2006
+|
+|
+|-
+|Tom Clancy's Splinter Cell: Conviction
+|縱橫諜海：斷罪
+|2010
+|
+|
+|-
+|Tom Clancy's Splinter Cell: 3D
+|縱橫諜海：3D
+|2011
+|
+|
+|-
+|Tom Clancy's Splinter Cell: blacklist
+|縱橫諜海：黑名單
+|2013
+|
+|
+|-
+!colspan="5"|'''全境封鎖'''
+|-
+|Tom Clancy's The Division
+|全境封鎖
+|2016
+|
+|
+|-
+|Tom Clancy's The Division 2
+|全境封鎖2
+|2019
+|
+|
+|}
+
+=== 潛龍諜影 ===
+* 由Kojima Productions開發，<s>FY</s>Konami發行。
+* 主打潛行隱蔽，在獲得的武器有限的情況下突破敵軍包圍。
+** 因此嚴格來說屬於包含TPS要素的AAVG。
+* 最早兩作為2D俯視角，第三作以後正式成為3D視角。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''燃燒坦克'''
+|-
+|Metal Gear
+|燃燒坦克
+|1987
+|1995年，代號Solid Snake的士兵受上級指示潛入Outer Heaven基地摧毀超級武器Metal Gear。
+|
+|-
+|Metal Gear 2: Solid Snake
+|燃燒坦克2 固蛇
+|1990
+|1999年，Solid Snake前往Zanzibar Land拯救握有新能源技術的科學家。
+|
+|-
+!colspan="5"|'''潛龍諜影'''
+|-
+|Metal Gear Solid
+|潛龍諜影
+|1998
+|2005年，在傳說士兵Big Boss死後，自稱其子嗣的Foxhound部隊發動恐怖攻擊要脅政府交出Big Boss的遺體否則將會發射核彈，Solid Snake便臨危受命展開潛入作戰。
+|
+|-
+|Metal Gear Solid 2: Sons of Liberty
+|潛龍諜影2 自由之子
+|2001
+|2007年，隻身調查運輸Metal Gear油輪的Solid Snake失蹤，兩年後恐怖份子在油輪位置的Big Shell挾持了美國總統，新人特務雷電便奉命展開救援。
+|
+|-
+|Metal Gear Solid 3: Snake Eater
+|潛龍諜影3 食蛇者
+|2004
+|1964年，特務Naked Snake奉命前往蘇聯執行機密任務。
+|
+|-
+|Metal Gear Solid 4: Guns of the Patriots
+|潛龍諜影4 愛國者之槍
+|2008
+|2014年，世界已經演變成由企業主導的戰爭，為了終結此一惡性循環，傳說傭兵Solid Snake展開人生最後的任務
+|
+|-
+|Metal Gear Solid : Peace Walker
+|潛龍諜影 和平先驅
+|2010
+|1974年，退出FOX的Big Boss（Naked Snake）受委託破壞AI兵器「和平行者（Peace Walker）」。
+|
+|-
+|Metal Gear Solid V: Ground Zeroes
+|潛龍諜影V 原爆點
+|2014
+|1975年，Big Boss為了拯救同伴而潛入敵方基地。
+|
+|-
+|Metal Gear Solid V: The Phantom Pain
+|潛龍諜影V 幻痛
+|2015
+|1984年，化名為Venom Snake的Big Boss率領鑽石犬部隊對骷髏臉展開復仇。
+|
+|}
+
+=== 三角洲部隊 ===
+* 由NovaLogic開發，以美國陸軍第1特種部隊D作戰分遣隊（三角洲部隊）為主題。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Delta Force
+|三角洲部隊
+|1998
+|
+|
+|-
+|Delta Force 2
+|三角洲部隊2
+|1999
+|
+|
+|-
+|Delta Force: Land Warrior
+|三角洲部隊：大地勇士
+|2000
+|
+|
+|-
+|Delta Force: Task Force Dagger
+|三角洲部隊：刺刀特遣隊
+|2002
+|
+|
+|-
+|Delta Force: Urban Warfare
+|三角洲部隊：城市戰爭
+|2002
+|
+|
+|-
+|Delta Force: Black Hawk Down
+|三角洲部隊：黑鷹計劃
+|2003
+|
+|
+|-
+|Delta Force: Black Hawk Down – Team Sabre
+|三角洲部隊：黑鷹計劃 – 軍刀小隊
+|2004
+|
+|
+|-
+|Delta Force: Xtreme
+|究極三角洲部隊
+|2005
+|
+|
+|-
+|Delta Force: Xtreme 2
+|究極三角洲部隊2
+|2009
+|
+|
+|}
+
+=== [[戰慄時空]] ===
+* 由Valve開發，包含主系列以及一大堆旁枝系列<s>，然而不管是主支系列就是死活不出三代</s>。
+** 這可能是因為Valve有著戰慄時空系列只要出本家正統續作就必須包含至少一項最新技術展示的包袱，由於暫時想不出要在三代放入什麼突破性的更新內容，只好先擱著了。
+** Valve早期作品在台灣是由松崗代理引進，但松崗2010年後退出代理業務後在台灣就沒有代理商了。
+* 主系列的主角為物理學家「高登·弗里曼（Gordon Freeman）」，因為所屬實驗室「黑色高地（Black Mesa）」的傳送實驗導致外星怪物入侵地球，身為倖存者的高登只好展開逃亡劇。
+** 也因為高登的物理學家身分，其代表武器的鐵橇也被賦予了「物理學聖劍」的別名。
+** 後來有開發團隊Crowbar Collective在取得Valve授權後開發了標題《黑色高地（Black Mesa）》的初代重製版。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''戰慄時空'''
+|-
+|Half-Life
+|戰慄時空
+|1998
+| style="text-align:left;" | 
+* 傳說的開始，奠定了兩項FPS領域劃時代的里程碑：
+** 加入沈浸式劇情的FPS遊戲首作
+** 較當時業界先進許多的單人遊戲AI
+| style="text-align:left;" | 有玩家團隊自行以Source引擎製作的重製版《Black Mesa》。<ref>原標題為Black Mesa Source，但V社因某些原因{{censored|<s>八成是因為做出了HL:S這破玩意結果拉不下臉</s>}}不願承認或收購本作成為官方重製版，因此希望團隊不要在作品內加入任何與V社本家產品有關的字眼。不過V社也提出若遵守這個條件就允許開發團隊以此作品營利販售。</ref>
+|-
+|Half-Life: Opposing Force
+|戰慄時空：正面交鋒
+|1999
+| style="text-align:left;" | 資料片，劇情時間軸與本篇同步進行，由第三方團隊製作並交由V社發行。主角為事故發生後，奉命前往黑色高地執行封口任務的陸戰隊特種部隊HECU成員薛佛下士（Cpl. Shephard）。
+| style="text-align:left;" | 有玩家團隊自行以Source引擎製作重製版《Operation: Black Mesa》，仍在開發當中。
+|-
+|Half-Life: Blue Shift
+|戰慄時空：關鍵時刻
+|2001
+| style="text-align:left;" | 資料片，劇情時間軸與(ry。主角為高登的好友，<s>欠高登一杯啤酒卻再也沒機會還的</s>黑色高地保全人員巴尼·卡洪（Barney Calhoun）。
+| style="text-align:left;" | 有玩家團隊自行以Source引擎製作重製版《Guard Duty》，仍在開發當中。
+|-
+|Half-Life: Decay
+|戰慄時空：衰變
+|2001
+| style="text-align:left;" | 資料片，劇(ry。主角為研究助理Gina Cross與Colette Green。
+| style="text-align:left;" | 系列作首創雙主角合作通關模式。PS2 獨占作品，官方雖有移植PC的計畫但隨後取消，多年後才由社群團隊以模組的方式移植到PC上。
+|-
+|Half-Life: Source
+|戰慄時空：次世代
+|2004
+| style="text-align:left;" | 以Source引擎重製本篇單人模式的作品<s>，然而…</s>
+| style="text-align:left;" | 系列[[黑歷史]]，移植內容真的如字面上僅有「套用」Source引擎的物理效果，其餘如貼圖紋理或模型精細度幾乎都照搬無印一代，沒誠意到有如詐欺的一作。本節標題提及的《Black Mesa》才真正有重製版該有的樣子。
+|-
+|Half-Life Deathmatch: Source
+|戰慄時空死鬥：次世代
+|2004
+| style="text-align:left;" | 以Source引擎重製本篇多人模式的作品
+| style="text-align:left;" | 
+|-
+|Half-Life 2
+|戰慄時空2
+|2004
+| style="text-align:left;" | 正統續作，劇情敘述因一代實驗所開啟的時空裂縫，引起了龐大外星帝國—合成人帝國（The Combine） 的大舉入侵，高登被視為反抗象徵並將帶領人類殘部進行反攻。
+| style="text-align:left;" |
+* 套用了當時模擬物理效果（重力、慣性等）、光影粒子特效與人物面部表情處理技術頂峰的Source引擎處女作，隨後成為業界標竿。遊戲過程也充分利用這些特色，加入了許多物理謎題（如利用浮力或槓桿原理造橋）以及更進一步的沈浸式劇情表現。
+* 本作首創的武器「零點能量力場操縱裝置（簡稱重力槍）」允許玩家與散落在地圖上的小型物件互動，吸取物品並禁錮在力場內攜帶、或是用力推出利用慣性造成傷害，是為射擊遊戲史上標誌性的武器之一。
+|-
+|Half-Life 2: Deathmatch
+|戰慄時空2：死鬥模式
+|2004
+| style="text-align:left;" | PVP模式，精華在於重力槍大戰。<s>電暖器OP、馬桶砸人、重力槍+手榴彈=XM25</s>
+| 
+|-
+|Half-Life 2: Lost Coast
+|戰慄時空2：消失的海岸線
+|2005
+| style="text-align:left;" | 純技術展示作，可視為平行世界外傳。劇情敘述高登如何解放一個被合成人佔領控制的小漁村。
+| style="text-align:left;" | Valve於該年度在Source引擎中加入HDR技術，因此關卡流程中有許多明暗交替的場景，模擬呈現人眼在遭逢光線變化時對環境明暗度的感知情形。
+|-
+|Half-Life 2: Episode One
+|戰慄時空2：首部曲
+|2006
+| style="text-align:left;" | 二代資料片，劇情直接承接二代結尾，敘述高登與女主艾莉斯如何在合成人總部爆炸並摧毀城市前逃出生天。
+| style="text-align:left;" | 本作加強了艾莉斯的AI<s>還有她的體術</s>，讓她更有並肩作戰的戰友的感覺。此外也首度在系列作中加入完全沒有光線的純黑環境探索橋段，除給予玩家壓迫感外，亦變相增加玩家需要艾莉斯輔助作戰的場合。
+|-
+|Half-Life 2: Episode Two
+|戰慄時空2：二部曲
+|2007
+| style="text-align:left;" | 二代資料片，劇情直接承接首部曲結尾，敘述高登與艾莉斯逃出城市後前往一大型反抗軍基地，協助進行將地球上的合成人孤立並阻止它們求援的行動。
+| style="text-align:left;" |
+* 本作首次加入大型野外場景。Source引擎推出以來，在構築戶外場景的尺度與細節程度偶遭開發商詬病，因此本作便造出了許多視野遼闊且植被豐富的森林場景以革除這個印象。
+** 可以與無印二代的海岸線關卡比對，同樣都是野外場景，但細緻程度差了整整一大階。
+* 本作起戰慄時空系列取消華語普通話配音。
+|-
+|Half-Life: Alyx
+|戰慄時空：艾莉克絲
+|2020
+| style="text-align:left;" |
+* 二代資料片，性質應可歸類為前傳<s>，沒錯睽違13年推出的不是三代而依舊是二代資料片</s>。
+* 主角為艾莉斯，劇情時間軸拉回到合成人剛佔領地球沒多久，反抗軍網路剛有雛型的時期。艾莉斯攔截到情報指出合成人在城內嚴密保衛著一項大規模毀滅武器，決定出發前往搶奪該項武器來對付合成人。
+* 以下可能劇透：{{censored|本作結局可能暗示劇情直接承接了二部曲，但考慮到遊戲後期與「那個人」 的遭遇，也有可能只是平行世界劇情而已}}
+| style="text-align:left;" |
+* 系列作的VR首作，有著教科書等級的各類關卡設計與美術視覺風格，在VR遊戲領域獲得廣泛好評，甫推出便奠定了VR標竿作的地位。
+* 與Valve自家的VR設備Index捆綁贈送。由於本作的好口碑加上適逢 COVID 疫情造成的室內娛樂需求暴增，等同直接帶起了Index的銷量，堪稱[[救機神作]]。
+|-
+!colspan="5"|'''絕對武力'''
+|-
+|Half-Life: Counter-Strike
+|戰慄時空：絕對武力
+|1999
+| style="text-align:left;" | 最初作為戰慄時空的模組推出，以現實世界反恐作戰為主題的背景在當時科幻主題天下的FPS界一枝獨秀。目前最終更新版本為 1.6。
+|
+|-
+|Counter-Strike: Condition Zero
+|絕對武力：一觸即發
+|2004
+| style="text-align:left;" | 以CS 1.6為基礎的加強版，畫質提昇，單機部份導入類似虹彩六號的副本模式（徵召電腦隊員在不同的地圖對抗歹徒，每張地圖都有額外任務目標）。隨後以本作為基礎推出了純單機劇情模式《一觸即發：刪除片段（Condition Zero: Deleted Scenes）》，但整體表現沒有同期的榮譽勳章和決勝時刻亮眼。
+|
+|-
+|Counter-Strike: Source
+|絕對武力：次世代
+|2005
+| style="text-align:left;" | 套用Source引擎的CS，<s>與HL:S那個沒誠意的玩意不同，</s>所有的地圖和模型都以HL2的材質製作。
+|
+|-
+|Counter-Strike: Global Offensive
+|絕對武力：全球攻勢
+|2012
+| style="text-align:left;" | 原先作為Xbox無印版的獨占作品，但不久後官方便移植回PC。此作開始奠定CS專心往電競方向發展的路線<s>以及萬惡的抽skin系統</s>。推出時為買斷制作品，2018年起改為免費遊玩。
+|
+|-
+|Counter-Strike 2
+|絕對武力2
+|2023
+| style="text-align:left;" | CSGO的Source 2升級版，已於2023/9/27取代CSGO。<br/>主打更為逼真的場景以及能與環境互動的煙霧粒子特效等，整體畫質大幅提升。<br/>然而升級後bug頻發與移除既有CSGO成就等狀況讓玩家不滿聲量大增，並質疑是否急於趕上時程而將半成品強迫推出。
+|
+|-
+!colspan="5"|'''絕地要塞'''
+|-
+|Team Fortress Classic
+|絕地要塞
+|1999
+| PVP模組，玩家從九種專精不同領域的特工擇一扮演，分為兩隊進行對戰並達成各自的任務目標。
+| 
+|-
+|Team Fortress 2
+|絕地要塞2
+|2007
+|與前作不同，本作採用了歐美卡通風格；但核心玩法基本上差異不大。
+|目前為GMOD及SFM圈之間最人氣的FPS作品<s>，造就了許多膾炙人口的meme</s><br>原為付費，後來改為基本免費遊玩
+|-
+!colspan="5"|'''決勝之日'''
+|-
+|Day of Defeat
+|決勝之日
+|2003
+| PVP模組，二戰主題。
+|
+|-
+|Day of Defeat: Source
+|決勝之日：次世代
+|2005
+|
+|
+|-
+!colspan="5"|'''傳送門'''
+|-
+|Portal
+|傳送門
+|2007
+| style="text-align:left;" | 單機劇情遊戲。玩家扮演光圈科學公司（Aperture Science） 的實驗對象雀兒（Chell），利用手中的傳送門槍設置兩道互通的傳送門，解開一連串測試實驗室中的謎題。
+| style="text-align:left;" | 解謎過程多數會運用到許多物理常識：慣性、動量、重力加速度、拋物線、入射角反射角等。<s>VR遊戲不算的話，是全V社最容易3D暈的作品</s>
+|-
+|Portal 2
+|傳送門2
+|2011
+| style="text-align:left;" | 正統續作，劇情承接一代。除進行實驗外，Chell也要一邊留意如何離開實驗設施。
+| style="text-align:left;" | 較前作加入更多實驗機關，並大幅拓展了Portal的劇情世界觀。此外也加入了雙人合作模式，可以與另一名玩家一同利用最多兩組的成對傳送門連線解謎闖關。
+|-
+|The Lab
+|實驗室
+|2016
+| VR作品，內含許多小品遊戲，偏技術展示作，可以當作VR入門教學軟體。因遊戲背景套用光圈科學世界觀而歸類於此（下二作同）。
+|
+|-
+|Aperture Hand Lab
+|光圈人手實驗室
+|2019
+| VR作品，內容著重在VR手把的手指追蹤操作，偏 Valve Index 的硬體展示作。
+|
+|-
+|Aperture Desk Job
+|光圈科學檢驗員
+|2022
+| 著重在Steam Deck主機的操作，偏硬體展示作。
+|
+|-
+!colspan="5"|'''[[惡靈勢力]]'''
+|-
+|Left 4 Dead
+|惡靈勢力
+|2008
+| style="text-align:left;" | 殭屍末日主題，敘述在殭屍病毒感染異變末世下，四名具有免疫體質的倖存者逃離重重殭屍海尋找庇護或逃出生天。
+| style="text-align:left;" | 遊戲創意發想源自開發團隊打了幾場3人對十幾隻小刀限定BOT的CS PK場（無誤）。
+|-
+|Left 4 Dead 2
+|惡靈勢力2
+|2009
+| style="text-align:left;" | 正統續作，劇情承接一代的兩週後，主角更換為另一個四人組。
+| style="text-align:left;" | 由於僅新增戰役地圖、倖存者角色、幾項武器與幾種新感染者外，本作內容幾乎可說是只有資料片程度而已<s>而且剛出時中文字幕是機翻等級的爛翻譯<ref><s>舉兩個筆者覺得最廢到笑的例子：</s><br/>Fire in the hole! → 炸了這個洞! （正確應為「小心爆炸」之類的詞語）<br/>Adrenaline shot here! → 我要爆發了!（正確應為「這裡有腎上腺素針劑！」）</ref></s>，角色移動操作手感與部份武器模組精細度甚至劣於一代，加上與前作僅相隔一年就推出，一度遭遇到玩家猛烈的杯葛。但在開放突變模式（在常規模式的規則下做出一些細節更動的特殊模式）以及工作坊允許玩家自訂內容後不滿聲量便降低許多。
+|}
+
+=== 不可能的任務 ===
+* 由Omega Force開發，Koei發行。
+** <s>對你沒看錯就是搞[[真‧三國無雙|無雙]]的那群人在真‧[[開無雙]]前搞出來的。</s>
+* 在TPS的基礎上加上了『掩體射擊』(於掩體處按動作鍵即可躲入掩體後方的演出)的要素<s>實則有『被掩體綁架難以自由走位』之嫌</s>。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|WinBack: Covert Operations
+|不可能的任務：隱蔽行動
+|1999
+|
+|
+|-
+|WinBack 2: Project Poseidon
+|不可能的任務2：海神計畫 
+|2006
+|
+|
+|}
+
+=== [[榮譽勳章]] ===
+* 由Danger Close開發（初代為DreamWorks），Electronic Arts發行。
+* 系列概念起源是史蒂芬·史匹柏在執導其代表作《搶救雷恩大兵》時構思出來的，也因此系列多以二戰為背景主題。
+** 同時也是最早將戰爭題材射擊遊戲發揚光大的系列，後續的《[[戰地風雲]]》與《[[決勝時刻]]》等主打戰爭的遊戲都或多或少都受到其影響。
+** <s>然而也正是因為本系列已經把二戰能搞的題材出得差不多了導致也是二戰起家的兩個晚輩不得不另闢蹊徑搞其他花樣。</s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''主機平台'''
+|-
+|Medal of Honor
+|榮譽勳章
+|1999
+|
+|
+|-
+|Medal of Honor: Underground
+|榮譽勳章：地下戰場
+|2000
+|
+|
+|-
+|Medal of Honor: Frontline
+|榮譽勳章：反攻前線
+|2002
+|
+|
+|-
+|Medal of Honor: Rising Sun
+|榮譽勳章：突襲珍珠港
+|2003
+|
+|
+|-
+|Medal of Honor: European Assault
+|榮譽勳章：血戰歐洲
+|2005
+|
+|
+|-
+|Medal of Honor: Vanguard
+|榮譽勳章：先鋒部隊
+|2007
+|
+|
+|-
+!colspan="5"|'''電腦平台'''
+|-
+|Medal of Honor: Allied Assault
+|榮譽勳章：反攻諾曼第
+|2002
+|首次在PC端推出的系列作品，主要描寫了歐洲戰場的奧馬哈之戰。
+|
+|-
+|Medal of Honor: Allied Assault: Spearhead
+|榮譽勳章：諾曼第大空降
+|2002
+|《反攻諾曼第》的擴充包之一，描寫了登陸日時盟軍101空降師的活躍。
+|
+|-
+|Medal of Honor: Allied Assault: Breakthrough
+|榮譽勳章：突出重圍
+|2003
+|《反攻諾曼第》的擴充包之一，描寫了北非戰場的凱賽林隘口與西西里空降。
+|
+|-
+|Medal of Honor: Pacific Assault
+|榮譽勳章：太平洋之戰
+|2004
+|
+|
+|-
+|Medal of Honor: Airborne
+|榮譽勳章：空降神兵
+|2007
+|
+|
+|-
+|Medal of Honor
+|榮譽勳章
+|2010
+|系列重啟作，主題從二戰改為現代中東戰爭，並讓戰地風雲系列的製作組Digital Illusions CE參與製作。
+|
+|-
+|Medal of Honor: Warfighter
+|榮譽勳章：鐵血悍將
+|2012
+|現代戰爭系列第二部，劇情承接前作。
+|
+|-
+|Medal of Honor: Above and Beyond
+|榮譽勳章：超越巔峰
+|2020
+|VR向作品。
+|
+|-
+!colspan="5"|'''掌機平台'''
+|-
+|Medal of Honor: Infiltrator
+|榮譽勳章：滲入者
+|2003
+|GBA平台獨佔，唯一採用俯視角視點的作品
+|
+|-
+|Medal of Honor: Heroes
+|榮譽勳章：鐵膽英豪
+|2006
+|
+|
+|-
+|Medal of Honor: Heroes 2
+|榮譽勳章：鐵膽英豪2
+|2007
+|
+|
+|}
+
+=== 完美女煞星 ===
+* 由Rare開發，黃金眼007的精神續作。
+** 原本預定直接改編007的下一部電影《明日帝國》，但因為版權問題而改成原創世界觀的作品。
+* 歷代主角皆為女特工喬安娜·妲克（Joanna Dark）。
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Perfect Dark
+|完美女煞星
+|2000
+|
+|
+|-
+|Perfect Dark Zero
+|完美女煞星Zero
+|2005
+|
+|
+|-
+|Perfect Dark Reboot
+|完美女煞星重啟版
+|2025
+|
+|
+|}
+
+=== 駭客入侵 ===
+* 由Ion Storm開發，Eidos Montréal發行。
+** <s>順便一提當時Ion Storm首席製作人約翰·羅梅洛把主力全放在製作另一款遊戲《大刀（Daikatana）》，結果《大刀》[[クソゲー|大爆死]]，原本被當作陪襯的本作卻獲得成功。</s>
+*** 因此從Ion Storm倒閉之後製作方也改為Eidos Montréal
+* 主打賽博龐克＆反烏托邦的風格，並結合了角色扮演要素。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Deus Ex
+|駭客入侵
+|2000
+|
+|
+|-
+|Deus Ex: Invisible War
+|駭客入侵：隱形戰爭
+|2003
+|
+|
+|-
+|Deus Ex: Human Revolution
+|駭客入侵：人類革命
+|2011
+|
+|
+|-
+|Deus Ex: The Fall
+|駭客入侵：隕落
+|2013
+|
+|
+|-
+|Deus Ex: Mankind Divided
+|駭客入侵：人類分裂
+|2015
+|
+|
+|}
+
+=== 重裝武力 ===
+* 由Croteam開發，Devolver Digital發行。
+* 主角為超級士兵「山姆·史東（Sam Stone）」，描寫其從未來穿越時空與邪惡侵略者「瘋牛（Mental）」之間爆發一連串的血戰。
+* 系列皆以大量重火器與足以塞滿地圖的敵軍海為特色<s>，某種意義上是FPS界的無双ゲー</s>。
+* <s>自爆兵「{{ruby|Kamikaze|神風}}」：啊啊啊啊啊啊啊啊啊啊！</s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''主系列'''
+|-
+|Serious Sam: The First Encounter
+|重裝武力：首度出擊
+|2001
+|
+|
+|-
+|Serious Sam: The Second Encounter
+|重裝武力：二度出擊
+|2002
+|
+|
+|-
+|Serious Sam: Next Encounter
+|重裝武力：再度出擊
+|2004
+|
+|
+|-
+|Serious Sam 2
+|重裝武力2
+|2005
+|
+|
+|-
+|Serious Sam 3: Before First Encounter
+|重裝武力3：首度出擊之前
+|2011
+|時間線在一代之前，描寫山姆穿越時空之前的經歷
+|
+|-
+|Serious Sam: Legend of the Beast 
+|重裝武力：野獸傳奇
+|2012
+|
+|
+|-
+|Serious Sam 3: Jewel of the Nile
+|重裝武力3：尼羅河寶藏
+|2012
+|
+|
+|-
+|Serious Sam 4: Planet Badass
+|重裝武力4：天煞孤星
+|2020
+|時間線在三代之前
+|
+|-
+|Serious Sam: Siberian Mayhem
+|重裝武力：西伯利亞大騷亂
+|2022
+|
+|
+|-
+!colspan="5"|'''衍生系列'''
+|-
+|Serious Sam Advance
+|重裝武力GBA
+|2004
+|
+|
+|-
+|Serious Sam Double D
+|重裝武力：雙重D
+|2011
+|橫軸動作射擊類型，主打武器組合。
+|
+|-
+|Serious Sam: Kamikaze Attack!
+|重裝武力：神風特攻
+|2011
+|主角為本篇登場的敵方自爆兵Kamikaze，需操控他躲避障礙將山姆轟炸。
+|
+|-
+|Serious Sam: The Random Encounter
+|重裝武力：隨機遭遇
+|2011
+|
+|
+|-
+|Serious Sam: The Greek Encounter
+|重裝武力：出擊希臘
+|2012
+|
+|
+|-
+|Serious Sam's Bogus Detour
+|重裝武力：偽裝繞行
+|2017
+|
+|
+|-
+|I Hate Running Backwards
+|我討厭往後跑
+|2018
+|
+|
+|-
+|Serious Sam: Tormental
+|重裝武力：心神折磨
+|2022
+|
+|
+|}
+
+=== 赤色戰線 ===
+* 由Volition開發，THQ發行。
+* 原本為FPS，第三作起轉型為<s>拆遷辦</s>TPS，以各式各樣的場景破壞為特色。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Red Faction
+|赤色戰線
+|2001
+|
+|
+|-
+|Red Faction II
+|赤色戰線II
+|2002
+|
+|
+|-
+|Red Faction: Guerrilla
+|赤色戰線：游擊戰隊
+|2009
+|
+|
+|-
+|Red Faction: Armageddon
+|赤色戰線：最終決戰
+|2011
+|
+|
+|}
+
+=== 武裝突襲 ===
+* 由Bohemia Interactive Studio開發。
+* 系列最大的特色是對於模擬戰場地貌環境的真實性，因此與其說是槍戰遊戲，更加接近「戰爭模擬遊戲」。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|ARMA: Cold War Assault
+|冷戰突襲
+|2001
+|
+|
+|-
+|ARMA: Armed Assault
+|武裝突襲
+|2006
+|
+|
+|-
+|ARMA 2
+|武裝突襲2
+|2009
+|
+|
+|-
+|ARMA 3
+|武裝突襲3
+|2013
+|
+|
+|}
+
+=== [[最後一戰]] ===
+* 由Bungie開發，Microsoft發行。
+* 主打科幻宇宙題材，描寫斯巴達戰士「士官長約翰-117（"Master Chief" John-117）」對抗企圖征服宇宙的星盟軍團。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''主系列'''
+|-
+|Halo: Combat Evolved
+|最後一戰：戰鬥進化
+|2001
+|
+|
+|-
+|Halo 2
+|最後一戰2
+|2004
+|
+|
+|-
+|Halo 3
+|最後一戰3
+|2007
+|
+|
+|-
+|Halo 3: ODST
+|最後一戰3：ODST
+|2009
+|
+|
+|-
+|Halo: Reach
+|最後一戰：瑞曲之戰
+|2010
+|
+|
+|-
+|Halo 4
+|最後一戰4
+|2012
+|
+|
+|-
+|Halo: The Master Chief Collection
+|最後一戰：士官長合輯
+|2014
+|包含四代以前主系列的合輯。
+|
+|-
+|Halo 5: Guardians
+|最後一戰5：守護者
+|2015
+|
+|
+|-
+|Halo Infinite
+|最後一戰：無限
+|2021
+|
+|
+|-
+!colspan="5"|'''衍生系列'''
+|-
+|Halo Wars
+|最後一戰：星環戰役
+|2009
+|
+|
+|-
+|Halo: Spartan Assault
+|最後一戰：斯巴達突擊
+|2013
+|
+|
+|-
+|Halo: Spartan Strike
+|最後一戰：斯巴達強襲
+|2015
+|
+|
+|-
+|Halo Wars 2
+|最後一戰：星環戰役2
+|2017
+|
+|
+|}
+
+=== [[戰地風雲]] ===
+* 由Digital Illusions CE開發，Electronic Arts發行。
+* 主打多人戰與載具的使用，除二戰外一戰跟越戰，甚至架空戰役都有拿來當作題材。
+** 與類似題材的《榮譽勳章》和《決勝時刻》相比單人模式的比重較低，在《惡名昭彰》以後才有單人戰役模式。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''歷史戰爭'''
+|-
+|Battlefield 1942
+|戰地風雲1942
+|2002
+|
+|
+|-
+|Battlefield: Vietnam
+|戰地風雲：越南
+|2004
+|
+|
+|-
+|Battlefield 1943
+|戰地風雲1943
+|2009
+|
+|
+|-
+|Battlefield 1
+|戰地風雲1
+|2016
+|主題為第一次世界大戰，標題的1也是代表「一戰」而非「一代」。
+|
+|-
+|Battlefield V
+|戰地風雲5
+|2018
+|繼1943後睽違九年再度回歸二戰主題。<br><s>然而在剛開始的優化問題與戰役演出等因素導致評價不如前作，直到更爛的2042橫空出世</s>
+|
+|-
+!colspan="6"|'''現代戰爭'''
+|-
+|Battlefield 2
+|戰地風雲2
+|2005
+|
+|
+|-
+|Battlefield 2: Modern Combat
+|戰地風雲2：現代戰爭
+|2005
+|
+|
+|-
+|Battlefield 3
+|戰地風雲3
+|2011
+|首次採用寒霜2引擎。<br>主舞台為伊朗<s>[[政治正確|所以不意外的被伊朗封殺]]</s>
+|
+|-
+|Battlefield 4
+|戰地風雲4
+|2013
+|首次採用寒霜3引擎。<br>主舞台為中國<s>[[中國大陸的審查制度|所以不意外的被中國封殺]]</s>
+|
+|-
+|Battlefield 6
+|戰地風雲6
+|2025
+|
+|
+|-
+!colspan="5"|'''未來戰爭'''
+|-
+|Battlefield 2142
+|戰地風雲2142
+|2006
+|
+|
+|-
+|Battlefield 2042
+|戰地風雲2042
+|2021
+|
+|
+|-
+!colspan="5"|'''惡名昭彰'''
+|-
+|Battlefield: Bad Company
+|戰地風雲：惡名昭彰
+|2008
+|首次採用DICE自製的寒霜引擎，並首次有單人戰役模式。
+|
+|-
+|Battlefield：Bad Company 2
+|戰地風雲：惡名昭彰2
+|2010
+|
+|
+|-
+!colspan="5"|'''其他'''
+|-
+|Battlefield: Heroes
+|戰地風雲：英雄
+|2009
+|採用Play 4 Free計畫的免費遊戲，已於2015年關服。
+|
+|-
+|Battlefield Play4Free
+|戰地風雲Play4free
+|2011
+|採用Play 4 Free計畫的免費遊戲，已於2015年關服。
+|
+|-
+|Battlefield Hardline
+|戰地風雲：強硬路線
+|2015
+|系列首次以武裝匪徒與特警組的駁火而非國際戰爭為主題的作品。
+|
+|}
+
+=== 地球防衛軍 ===
+* 由SANDLOT開發，D3PUBLISHER發行。
+** 最早為D3PUBLISHER出品SIMPLE系列（又名為THE系列）的兩部作品，三代起獨立成為一個系列。
+** SIMPLE系列遊戲的特徵幾乎都是以售價與成本皆低的小品遊戲為中心，藉此達成薄利多銷的作用。
+* 主打巨大怪獸與機械的特攝片風格，迄今為止也是極為稀少的純日廠TPS。
+* 玩家可以扮演<s>最沒特色的</s>遊騎兵（陸戦兵／レンジャー）＆<s>系列看板娘兼玻璃大砲的</s>飛行兵（ペイルウイング／ウイングダイバー）＆<s>武裝全是誘導屬性的</s>空襲管制兵（エアレイド／エアレイダー）＆重裝兵（フェンサー）等四種兵種和襲擊城市的巨大怪物戰鬥。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|THE 地球防衛軍<br>Monster Attack
+|2003
+|SIMPLE系列第31作
+|
+|-
+|THE 地球防衛軍2<br>Global Defense Force
+|2005
+|SIMPLE系列第81作
+|
+|-
+|地球防衛軍3<br>Earth Defense Force 2017
+|2006
+|
+|
+|-
+|地球防衛軍4<br>Earth Defense Force 2025
+|2013
+|
+|
+|-
+|地球防衛軍5<br>Earth Defense Force 5
+|2017
+|
+|
+|-
+|地球防衛軍：鋼鐵暴雨<br>Earth Defense Force: Iron Rain
+|2019
+|
+|
+|-
+|デジボク地球防衛軍<br>數位方塊地球防衛軍<br>Earth Defense Force: World Brothers
+|2019
+|
+|
+|-
+|地球防衛軍6<br>Earth Defense Force 6
+|2022
+|
+|
+|-
+|デジボク地球防衛軍2<br>數位方塊地球防衛軍2<br>Earth Defense Force: World Brothers
+|2024
+|
+|
+|}
+
+=== [[決勝時刻]] ===
+* 由Infinity Ward與Treyarch等工作室開發，Activision Publishing發行。
+* 與《戰地風雲》分庭抗禮般的同樣主打各種歷史或架空戰爭，依照時代背景可以分成數個主要系列。
+** 二戰系列：Infinity Ward → Sledgehammer Games主導，以第二次世界大戰為主題，玩家分別扮演同盟國陣營<s>雅爾達鐵三角</s>美國＆英國＆蘇聯的士兵在各地的戰場對抗軸心國。
+** 現代戰爭系列：Infinity Ward主導，以二十一世紀為舞台，描寫特殊部隊「141特遣隊」與恐怖份子之間爆發的一連串戰鬥。
+** 黑色行動系列：Treyarch主導，時間跨度冷戰以至近未來，描寫美國中央情報局的暗中活躍。
+* 與《戰地風雲》主打多人對戰相比，《決勝時刻》除了也有多人對戰之外還有著劇情豐富的單人戰役模式以及偏塔防風格的喪屍模式。
+* 由於有好幾個開發團隊製作的緣故，從初代到最新作現代戰爭III為止基本上維持一年出一部作品的高產量。
+** <s>至於製作品質就…大概也就早期幾部靠戰役演出加成的評價好一點，最近幾年電競化後基本上一去不復返。</s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''二戰系列'''
+|-
+|Call of Duty
+|決勝時刻
+|2003
+| style="text-align:left;" | 
+| style="text-align:left;" | 
+|-
+|Call of Duty: United Offensive
+|決勝時刻：聯合行動
+|2004
+| style="text-align:left;" | 一代資料片，主要描寫突出部＆西西里島＆庫斯克戰役。
+| style="text-align:left;" | 
+|-
+|Call of Duty 2
+|決勝時刻2
+|2005
+| style="text-align:left;" | 首次使用工作室自製IW引擎製作。戰役主要描寫史達林格勒之役（蘇軍視角）、北非戰場（英軍視角）以及諾曼地登陸（美軍視角）。
+| style="text-align:left;" | 
+|-
+|Call of Duty 3
+|決勝時刻3
+|2006
+| style="text-align:left;" | 僅在主機推出，並無推出PC版本。劇情著重於諾曼地登陸後續的行動。
+| style="text-align:left;" | 
+|-
+|Call of Duty: World at War
+|決勝時刻：戰爭世界
+|2008
+| style="text-align:left;" | 主打太平洋戰爭與史達林格勒，劇情後續銜接了《黑色行動》系列。<br>首次出現喪屍模式，往後凡是Treyarch主導的系列作品必定會有喪屍模式。
+| style="text-align:left;" | 
+|-
+|Call of Duty: WWII
+|決勝時刻：二戰
+|2017
+| style="text-align:left;" | 繼《戰爭世界》後睽違九年再度回歸二戰主題。戰役聚焦於陸軍第一步兵師的一個小隊，以固定一名主角視點經歷美軍自諾曼地登陸以來直至強渡萊茵河的各大歐陸戰役，也細膩描寫了戰場上的同袍情誼。
+| style="text-align:left;" | <s>但也是從這作開始武器考據變得隨便起來，到底為什麼諾曼地灘頭上到處都撿得到百式衝鋒槍啊！？</s>
+|-
+|Call of Duty: Vanguard
+|決勝時刻：先鋒
+|2021
+| style="text-align:left;" | 再度回歸早期系列的多主角視點，戰場一口氣囊括了D日＆史達林格勒＆太平洋＆北非等等<s>，然而…</s>
+| style="text-align:left;" | <s>[[黑歷史]]作品，除了做壞的多人模式之外，在武器的歷史考究以及戰役模式的劇情都很微妙…</s>
+|-
+!colspan="5"|'''現代戰爭系列'''
+|-
+|Call of Duty 4: Modern Warfare
+|決勝時刻4：現代戰爭
+|2007
+| style="text-align:left;" | 系列首次將時代轉移到現代，戰役舞台主要為中東與東歐。<br>劇情描述SAS與美國海軍陸戰隊共同追查在中東引爆的核武器來源，並解決其幕後黑手的俄羅斯極端民族主義份子引起的核戰危機<s>，中間還能以第一人稱體驗一名被恐怖份子處刑的小國元首</s>。
+| style="text-align:left;" | 其重製版（2016）與無盡戰爭合併發售。
+|-
+|Call of Duty: Modern Warfare 2
+|決勝時刻：現代戰爭2
+|2009
+| style="text-align:left;" | 劇情承接上作五年後，描述俄國極端份子自導自演了一場恐攻並栽贓給美國，使美國受到國際撻伐之餘更被俄國極端份子煽動俄軍入侵美國。玩家分別扮演集結英美等國精銳組成的TF141特遣隊隊員到世界各地追查恐攻幕後黑手，以及美國陸軍第75遊騎兵團進行美國本土保衛戰<s>，還有一個衰小國際太空站組員</s>。<br>系列首次加入類似迷你副本或小型戰役關卡的特種作戰模式，可單人或雙人合作遊玩。
+| style="text-align:left;" | 其重製版（2020）僅收錄單人戰役。<br>本作邀請到漢斯·季默為遊戲音樂譜曲。<br>'''機場恐攻章節成為射擊遊戲史上最具爭議的橋段。'''<br><s>從本作起戰役模式的劇情便逐漸往好萊塢爽片路線靠攏</s>
+|-
+|Call of Duty: Modern Warfare 3
+|決勝時刻：現代戰爭3
+|2011
+| style="text-align:left;" | 劇情直接承接上作數小時後，主要敘述TF141殘部跑遍世界各地追殺俄國極端份子頭目、美俄衝突的後續發展，以及極端份子擴散到西歐諸國的恐攻與戰事。玩家主要扮演TF141的成員與美國三角洲部隊，以及少數幾關的俄國聯邦警衛局（FSO）幹員與英國SAS<s>，以及第一人稱體驗某位放假帶家人出遊卻不幸遭恐攻喪命的可憐仁兄</s>。<br>特種作戰模式新增生存模式。
+| style="text-align:left;" | <s>COD環遊世界</s><ref>戰役模式中先後到過以下地點：印度喜馬偕爾邦、美國紐約、獅子山、索馬利亞、英國倫敦、德國漢堡與柏林、法國巴黎、捷克布拉格、西伯利亞、杜拜。</ref>
+|-
+|Call of Duty: Modern Warfare
+|決勝時刻：現代戰爭
+|2019
+| style="text-align:left;" | 系列重啟版，沿用角色與世界觀但劇情走向與舊版不同。主要舞台為架空國家烏茲克斯坦，玩家分別扮演英國SAS與接應烏茲克斯坦革命軍的CIA幹員對抗恐怖組織。
+| style="text-align:left;" | <s>從本作起雖然標題是現代戰爭但戰役構成幾乎都是偏向特殊作戰的小規模戰場，幾乎沒有舊系列既有的大型戰役</s>
+|-
+|Call of Duty: Modern Warfare II
+|決勝時刻：現代戰爭II
+|2022
+| style="text-align:left;" | 接續前作，描寫TF141追蹤美軍失竊的飛彈並揭穿背後的陰謀
+| style="text-align:left;" | 
+|-
+|Call of Duty: Modern Warfare III
+|決勝時刻：現代戰爭III
+|2023
+| style="text-align:left;" | 接續前作，描寫恐怖組織領袖馬卡洛夫逃獄，再度藉由烏茲克斯坦掀起動亂
+| style="text-align:left;" | <s>只是DLC規格的劇情戰役卻直接當成新作販售，加上近乎鬼打牆的劇情使得評價一口氣跌到系列最低點…</s>
+|-
+!colspan="5"|'''黑色行動系列'''
+|-
+|Call of Duty: Black Ops
+|決勝時刻：黑色行動
+|2010
+| style="text-align:left;" | 系列首作以冷戰時代為背景，越戰的比例較高。劇情敘述1960年代末期，蘇聯即將釋放在美國境內隱藏的大量化學武器，中情局須及時找出瓦解該計畫的關鍵。
+| style="text-align:left;" | 主選單有可互動的小彩蛋。
+|-
+|Call of Duty: Black Ops II
+|決勝時刻：黑色行動II
+|2012
+| style="text-align:left;" | 時代在後冷戰時代（1980年代末）與近未來（2025年）兩個時間點交互呈現，劇情主軸為美國特種作戰司令部獵殺引發美中冷戰的主導跨國群眾運動的南美毒梟。
+| style="text-align:left;" | 系列作單人戰役首次引入劇情分歧機制，以及首次加入類似戰地風雲系列的武器解鎖系統，可於關卡開始前自訂裝備。<br>戰役中新增類似RTS的Strike Force模式，可以用上帝視角指揮部隊作戰，也可以選擇化身為士兵的一員直接參與戰鬥。<br><s>妹妹爹蘇</s>
+|-
+|Call of Duty: Black Ops III
+|決勝時刻：黑色行動III
+|2015
+| style="text-align:left;" | 時代在2065年的近未來，劇情接續BO2美國毀滅後導致世界格局重新劃分為三大勢力。
+| style="text-align:left;" | <s>系列最燒腦戰役劇情沒有之一，即使玩通戰役後仍有不少玩家對劇情表示看攏無。</s>
+|-
+|Call of Duty: Black Ops 4
+|決勝時刻：黑色行動4
+|2018
+| style="text-align:left;" | 少數無劇情戰役的系列作，取而代之的是生存模式「黑色戰域（BLACKOUT）」。
+| style="text-align:left;" | 
+|-
+|Call of Duty: Black Ops Cold War
+|決勝時刻：黑色行動冷戰
+|2020
+| style="text-align:left;" | 劇情時間點位於BO1與BO2之間的1980年代初期，描寫由中情局與軍情六處組成的小隊調查蘇聯特務企圖顛覆美國的陰謀。
+| style="text-align:left;" | 有充滿解謎（？）要素的支線任務，且跟《黑色行動II》同樣有選擇導向的劇情分歧。<br><s>在後續作品接連擺爛的狀況下，本作幾乎成為了系列玩家最後的救贖。</s>
+|-
+|Call of Duty: Black Ops 6
+|決勝時刻：黑色行動6
+|2024
+| style="text-align:left;" | 劇情時間點位於1990年代的波斯灣戰爭
+| style="text-align:left;" | 
+|-
+|Call of Duty: Black Ops 7
+|決勝時刻：黑色行動7
+|2025
+| style="text-align:left;" | 劇情時間點疑似接續《黑色行動II》
+| style="text-align:left;" | 
+|-
+!colspan="5"|'''獨立作品'''
+|-
+|Call of Duty: Ghosts
+|決勝時刻：魅影
+|2013
+| style="text-align:left;" | 主題為南美洲諸國取代中東成為石油大國並組成南美聯邦向美國宣戰的平行世界。
+| style="text-align:left;" | 本作邀請了知名導演史蒂芬·加漢參與編劇<s>，結果本作其中一個勸退點就是近乎[[爛尾]]的劇情…</s>
+|-
+|Call of Duty: Advanced Warfare
+|決勝時刻：先進戰爭
+|2014
+| style="text-align:left;" | 主題為2054年的近未來，描寫美國海軍陸戰隊周旋於民間軍事公司ATLAS與恐怖組織KVA的戰事。
+| style="text-align:left;" | 系列代表迷因「Press F to Pay Respects」的起源<ref>源自該作劇情戰役中某段葬禮場景中觸發的QTE，因為該QTE的發生時機與葬禮莊嚴肅穆的氛圍不相容而成為歐美的代表迷因。</ref>。
+|-
+|Call of Duty: Infinite Warfare
+|決勝時刻：無盡戰爭
+|2016
+| style="text-align:left;" | 主題為科幻風格的宇宙戰爭，描寫聯合國所屬的一支艦隊與意圖侵略地球的火星殖民地之間爆發的戰事。
+| style="text-align:left;" | 因為變革過大加上動視的謎之銷售策略<ref>將本作與四代重製版綑綁發售，導致不少老玩家不滿並在本作預告片洗負評</ref>還有隔壁《戰地風雲1》的崛起導致發售前不被看好，直到發售後才逐漸被平反。
+|}
+
+=== [[極地戰嚎]] ===
+* 由Crytek開發，Ubisoft發行。
+* 系列皆主打開放世界般的大地圖與自由度。
+* 而從三代起更著重於反派的描寫，甚至產生反派比主角還有人氣的情形，或著說反派才是推進劇情的第一要角甚至真主角一點也不為過。
+** <s>同樣也從三代起數字作的封面幾乎都是反派壓著主角強佔C位的構圖，給沒玩過的看構圖鐵定會搞錯主角。</s>
+** <s>到了六代甚至推出反派組合包讓玩家扮演三到五代的反派。</s>
+* <s>除此之外主角治療傷口的方式也千奇百怪，從整骨到拔子彈樣樣都有。</s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Far Cry
+|極地戰嚎
+|2004
+|舞台為南太平洋的島嶼，描寫受雇於記者瓦萊麗·康斯坦丁（Valerie Constantine）的退役士兵傑克·卡弗（Jack Carver）為了拯救雇主而與傭兵部隊周旋。
+|
+|-
+|Far Cry 2
+|極地戰嚎2
+|2008
+|舞台為陷入內戰的中非，描寫身為傭兵的主角（可以從九人中自選一人）潛入戰地討伐操控內戰的神秘軍火商「豺狼（The Jackal）」
+|
+|-
+|Far Cry 3
+|極地戰嚎3
+|2012
+|舞台為印度洋周邊的島嶼，描寫傑森·布羅迪（Jason Brody）為從殘忍的海盜頭目范斯·蒙特奈葛（Vaas Montenegro）的魔掌中救出親友而被迫踏上修羅之道。
+|
+|-
+|Far Cry 3: Blood Dragon
+|極地戰嚎3：血龍
+|2013
+|舞台為核戰爆發後的架空世界，描寫半生化戰士雷克斯·寇特（Rex Colt）的冒險。
+|2023年於Netflix推出以本作改編的網路動畫《雷射戰鷹隊長：血龍Remix》
+|-
+|Far Cry 4
+|極地戰嚎4
+|2014
+|舞台為喜馬拉雅山的虛構王國「凱拉特（Kyrat）」，描寫王國出身的青年阿傑·蓋勒（Ajay Ghale）陷入時任國王貝根·明（Pagan Min）率領的王國軍與反抗軍黃金之路（Golden Path）的內戰。
+|
+|-
+|Far Cry Primal
+|極地戰嚎：野蠻紀源
+|2016
+|舞台為史前時代，描寫溫迦族人的倖存者塔卡（Takkar）在來自野生動物與食人族的多重威脅下復興已經近乎滅絕的部落。
+|
+|-
+|Far Cry 5
+|極地戰嚎5
+|2018
+|舞台為美國蒙大拿州，描寫聯邦警察對抗由「聖父」約瑟夫·席德（Joseph Seed）一家領導的邪教組織。
+|
+|-
+|Far Cry New Dawn
+|極地戰嚎：破曉
+|2019
+|舞台為五代的十七年後，描寫倖存者在核戰毀滅的世界在雙子強盜團「米齊＆盧（Mickey & Lou）」的威脅下求生。
+|
+|-
+|Far Cry 6
+|極地戰嚎6
+|2021
+|舞台為加勒比海的虛構島國「亞拉（Yara）」，描寫丹尼·羅哈斯（Dani Rojas）加入革命組織試圖推翻鐵血總統安東·卡斯蒂略（Antón Castillo）。
+|
+|}
+
+=== 殺戮地帶 ===
+* 由Guerrilla Games開發，Sony Computer Entertainment發行。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|KILLZONE
+|殺戮地帶
+|2004
+|
+|
+|-
+|KILLZONE: Liberation
+|殺戮地帶：解放
+|2006
+|
+|
+|-
+|KILLZONE 2
+|殺戮地帶2
+|2009
+|
+|
+|-
+|KILLZONE 3
+|殺戮地帶3
+|2011
+|
+|
+|-
+|KILLZONE: Mercenary
+|殺戮地帶：傭兵
+|2013
+|
+|
+|-
+|KILLZONE SHADOW FALL
+|殺戮地帶：暗影墜落
+|2013
+|
+|
+|}
+
+=== 榮耀戰場 ===
+* 由Gearbox開發，Ubisoft發行。
+* 根據影劇《諾曼第大空降》改編而成。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Brothers in Arms: Road to Hill 30
+|榮耀戰場：前進30高地
+|2005
+|
+|
+|-
+|Brothers in Arms: Earned in Blood
+|榮耀戰場：浴血奮戰
+|2005
+|
+|
+|-
+|Brothers in Arms: Hell's Highway
+|榮耀戰場：地獄棧道
+|2008
+|
+|
+|}
+
+=== 戰慄突擊 ===
+* 由Monolith Productions開發，Warner Bros. Interactive Entertainment發行。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|F.E.A.R. First Encounter Assault Recon
+|戰慄突擊
+|2005
+|
+|
+|-
+|F.E.A.R. Extraction Point
+|戰慄突擊：復仇之路
+|2006
+|
+|
+|-
+|F.E.A.R. Perseus Mandate
+|戰慄突擊：帕修斯的命令
+|2007
+|
+|
+|-
+|F.E.A.R. 2: Project Origin
+|戰慄突擊2：起源計畫
+|2009
+|
+|
+|-
+|F.E.A.R. 3
+|戰慄突擊3
+|2011
+|
+|
+|}
+
+=== [[狙擊之神]] ===
+* 由Rebellion開發。
+* 以二戰為舞台，描寫同盟國狙擊手「卡爾·費爾伯恩（Karl Fairburne）」在各大戰場對抗納粹的經歷。
+** 也因為主打狙擊的緣故，系列都相當強調狙擊槍的彈道，以及狙殺成功時的X光特寫。
+** <s>在較新的作品還會在DLC推出專門暗殺希特勒的地圖，玩家可以像某光頭殺手一樣用各種奇妙的方式幹掉宅希。</s>
+* 二代另有資料片《殭屍部隊》系列，描寫希特勒投入了不分敵我的納粹殭屍部隊。
+** 其規模之大幾乎要把同盟國瓦解，殘存的同盟國＆蘇聯＆反對希特勒的德軍便組成對殭屍部隊，並以卡爾為首的四名戰士對納粹殭屍展開反攻。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''狙擊之神'''
+|-
+|Sniper Elite
+|狙擊之神
+|2005
+|
+|
+|-
+|Sniper Elite V2
+|狙擊之神V2
+|2012
+|首出X光擊殺特寫。
+|
+|-
+|Sniper Elite III
+|狙擊之神III
+|2014
+|舞台為北非，首出爆裂物擊殺特寫。
+|
+|-
+|Sniper Elite 4
+|狙擊之神4
+|2017
+|舞台為義大利，首出近戰擊殺特寫。<s>碎顱掌！</s>
+|
+|-
+|Sniper Elite 5
+|狙擊之神5
+|2022
+|舞台為法國，首出亂入機制：玩家可以敵軍狙擊手身份加入任意玩家的戰役干擾。
+|
+|-
+|Sniper Elite: Resistance
+|狙擊之神：抵抗
+|2025
+|舞台同為法國，主角變更為哈里·霍克（Harry Hawker）。
+|
+|-
+!colspan="5"|'''殭屍部隊'''
+|-
+|Nazi Zombie Army
+|納粹殭屍部隊
+|2013
+|
+|
+|-
+|Nazi Zombie Army 2
+|納粹殭屍部隊2
+|2013
+|
+|
+|-
+|Zombie Army Trilogy
+|殭屍部隊三部曲
+|2015
+|前兩作的重製版，並追加新關卡與《惡靈勢力》的角色。
+|首度加入連擊系統。
+|-
+|Zombie Army 4: Dead War
+|殭屍部隊4：死亡戰爭
+|2020
+|改採本傳四代的引擎開發，加入技能解鎖要素並強化合作遊玩體驗。
+|
+|}
+
+=== 紅色管絃樂隊 ===
+* 由Tripwire Interactive開發。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+!colspan="5"|'''紅色管絃樂隊'''
+|-
+|Red Orchestra: Ostfront 41-45
+|紅色管絃樂隊：浴血東線戰場
+|2006
+|
+|
+|-
+|Red Orchestra 2: Heroes of Stalingrad
+|紅色管絃樂隊2：史達林格勒英雄
+|2011
+|
+|
+|-
+!colspan="5"|'''風起雲湧'''
+|-
+|Rising Storm
+|風起雲湧
+|2013
+|《紅色管絃樂隊2》的MOD，主題從史達林格勒變更為太平洋戰爭
+|
+|-
+|Rising Storm 2: Vietnam
+|風起雲湧2：越戰
+|2017
+|
+|
+|}
+
+=== 狂野西部 ===
+* 由Techland開發。
+* 主打西部開拓時代的大小戰爭，主角的標準武器也不是現代的自動手槍而是左輪手槍。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Call of Juarez
+|狂野西部
+|2006
+|主角為被誣陷殺死繼父而逃亡的青年比利·坎德爾（Billy Candle）與追捕他的槍手雷伊·麥考爾（Ray McCall）
+|
+|-
+|Call of Juarez: Bound in Blood
+|狂野西部：血之羈絆
+|2009
+|主題為美國南北戰爭，主角為青年時期的雷伊與他的弟弟湯瑪士·麥考爾（Thomas McCall）。
+|
+|-
+|Call of Juarez: The Cartel
+|狂野西部：毒梟
+|2011
+|唯一一代採用現代黑手黨主題的作品，但也因此在系列中得到了很微妙的評價
+|
+|-
+|Call of Juarez: Gunslinger
+|狂野西部：槍神
+|2013
+|主題再度回歸美國大西部，描寫年邁的賞金獵人塞拉斯·格里夫斯（Silas Greaves）講述自己過去的經歷。
+|
+|}
+
+=== [[生化奇兵]] ===
+* 由2K工作室開發。
+* 以二十世紀的虛構城市為舞台，描寫誤入城市的主角和發狂市民之間的戰鬥與逃亡劇。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|BioShock
+|生化奇兵
+|2007
+|年代背景為1960年。
+|
+|-
+|BioShock 2
+|生化奇兵2
+|2010
+|年代背景為1968年。
+|
+|-
+|BioShock Infinite
+|生化奇兵：無限之城
+|2013
+|年代背景為1912年。
+|
+|}
+
+=== 末日之戰 ===
+* 由Crytek開發，Electronic Arts發行。
+* 描寫裝備生化奈米服裝的美軍士兵和外星種族Ceph展開戰鬥。
+* 每一代的主角都不是同一人，但都與代號「先知（Prophet）」的超級士兵脫離不了關係。
+** 一代主角：先知率領暴龍小隊的隊員；二代主角：被先知選上披上他的戰衣上陣的士兵；三代主角：先知自己
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Crysis
+|末日之戰
+|2007
+|
+|
+|-
+|Crysis Warhead
+|末日之戰：獵殺悍將
+|2008
+|
+|
+|-
+|Crysis 2
+|末日之戰2
+|2011
+|
+|
+|-
+|Crysis 3
+|末日之戰3
+|2013
+|
+|
+|}
+
+=== 狙擊之王 ===
+* 由CI Games開發。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Sniper: Art of Victor
+|狙擊之王：勝利的藝術
+|2008
+|
+|
+|-
+|Sniper: Ghost Warrior
+|狙擊之王：幽靈戰士
+|2010
+|
+|
+|-
+|Sniper: Ghost Warrior 2
+|狙擊之王：幽靈戰士2
+|2013
+|
+|
+|-
+|Sniper Ghost Warrior 3
+|狙擊之王：幽靈戰士3
+|2017
+|
+|
+|-
+|Sniper Ghost Warrior Contracts
+|狙擊之王：幽靈戰士契約
+|2019
+|
+|
+|-
+|Sniper Ghost Warrior Contracts 2
+|狙擊之王：幽靈戰士契約2
+|2021
+|
+|
+|}
+
+=== 絕命異次元 ===
+* 由Visceral Games開發，Electronic Arts發行。
+* 主打科幻與恐怖驚悚風格。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Dead Space
+|絕命異次元
+|2008
+|
+|
+|-
+|Dead Space: Extraction
+|絕命異次元：逃亡
+|2009
+|
+|
+|-
+|Dead Space Ignition
+|絕命異次元：點火
+|2010
+|
+|
+|-
+|Dead Space 2
+|絕命異次元2
+|2011
+|
+|
+|-
+|Dead Space 3
+|絕命異次元3
+|2013
+|
+|
+|-
+|Dead Space (remake)
+|絕命異次元（重製版）
+|2023
+|
+|
+|}
+
+=== 殺戮空間 ===
+* 由Tripwire Interactive開發。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Killing Floor
+|殺戮空間
+|2009
+|
+|
+|-
+|Killing Floor 2
+|殺戮空間2
+|2015
+|
+|
+|}
+
+=== 邊緣禁地 ===
+* 由Gearbox開發，2K發行。
+* 以近乎瘋狂麥斯般的異星拓荒為世界觀，除了槍戰外還有包含等級成長等RPG要素。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Borderlands
+|邊緣禁地
+|2009
+|
+|
+|-
+|Borderlands 2
+|邊緣禁地2
+|2012
+|
+|
+|-
+|Borderlands: The Pre-Sequel
+|邊緣禁地：前傳
+|2014
+|
+|
+|-
+|Tales from the Borderlands
+|邊緣禁地傳說
+|2014
+|
+|
+|-
+|Borderlands 3
+|邊緣禁地3
+|2019
+|
+|
+|-
+|Tiny Tina's Wonderlands
+|小蒂娜的奇幻樂園
+|2022
+|
+|
+|-
+|New Tales from the Borderlands
+|新邊緣禁地傳說
+|2022
+|
+|
+|}
+
+=== 戰慄深隧 ===
+* 由4A Games開發，Deep Silver發行。
+* 改編自迪米崔·格魯克夫斯基的同名小說，描寫核戰爆發後，青年「阿爾喬姆（Артём）」與同伴離開地鐵被捲入各方勢力糾紛的冒險。
+* 系列皆有道德指數，特定的行動會影響主角的道德點數甚至左右結局。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Metro 2033
+|戰慄深隧
+|2010
+|
+|
+|-
+|Metro: Last Light
+|戰慄深隧：最後曙光
+|2013
+|
+|
+|-
+|Metro Exodus
+|戰慄深隧：流亡
+|2019
+|
+|
+|}
+
+=== 狂彈風暴 ===
+* 由Epic Games旗下子公司People Can Fly開發，Electronic Arts發行。
+* 主打各種擊殺手段已獲得較高的改造分數。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Bulletstorm
+|狂彈風暴
+|2011
+|
+|
+|-
+|Bulletstorm: Full Clip Edition
+|狂彈風暴：完整重製版
+|2017
+|重製版，追加毀滅公爵的DLC。
+|
+|}
+
+=== 死亡之島 ===
+* 由Techland開發，Deep Silver發行。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Dead Island
+|死亡之島
+|2011
+|
+|
+|-
+|Dead Island: Riptide
+|死亡之島：激流
+|2013
+|
+|
+|-
+|Dead Island 2
+|死亡之島2
+|2023
+|
+|
+|}
+
+=== 狂怒煉獄 ===
+* 由id Software開發，id Tech引擎的技術演示遊戲。
+* 主打廢土末日與開放世界風格。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Rage
+|狂怒煉獄
+|2011
+|首次披露id Tech 5引擎。
+|
+|-
+|Rage 2
+|狂怒煉獄2
+|2019
+|與《<s>防衛過當</s>正當防衛》製作組Avalanche Studios合作推出。
+|
+|}
+
+=== 劫薪日 ===
+* 由Overkill Software開發，505 Games發行。
+* 主打<s>唯一死罪</s>多人合作的<s>劫火</s>結夥搶劫，在起事前須先進行地形探勘，規畫好路線後戴上面具展開行動。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|PAYDAY: The Heist
+|劫薪日
+|2011
+|
+|
+|-
+|PAYDAY 2
+|劫薪日2
+|2013
+|
+|
+|-
+|PAYDAY 3
+|劫薪日3
+|2023
+|
+|
+|}
+
+=== [[TITANFALL|泰坦降臨]] ===
+* 由Respawn Entertainment開發，Electronic Arts發行。
+* 玩家可以控制機兵駕駛員「鐵馭（Pilots）」以及巨大機兵「泰坦（Titan）」並肩作戰。
+** 鐵馭重視跑酷動作要素，可以飛簷走壁以機動性致勝但防禦力低下；泰坦則擁有高火力輸出但機動性低下，鐵馭與泰坦之間的互補正是本系列的精髓。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Titanfall
+|泰坦降臨
+|2014
+| style="text-align:left;" | 系列第一代，僅有多人模式。
+| style="text-align:left;" | 
+|-
+|Titanfall 2
+|泰坦降臨2
+|2016
+| style="text-align:left;" | 系列第二代，追加單人戰役模式。<br>戰役模式主角為邊境反抗軍的新人鐵馭傑克·庫珀，在指導教官拉斯提摩沙戰死之際繼承了他的泰坦「BT-7274」。<br>戰役途中會不時穿插庫珀與BT間的即時問答，不同的回答雖然無妨劇情但各有其趣味。
+| style="text-align:left;" | 其戰役第五章「因果報應」藉由時間干擾使玩家穿梭在過去與現在以營造出驚悚感的設計獲得了壓倒性的好評。
+|-
+|Apex Legends
+|APEX英雄
+|2019
+|系列的多人專用版，沿用了部分世界觀但取消操作泰坦的部分。
+|
+|}
+
+=== 天命 ===
+* 由Bungie開發，Activision發行。
+* 基本上屬於免費營運的MMO，部分副本有PVE與PVP要素。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Destiny
+|天命
+|2014
+|
+|
+|-
+|Destiny 2
+|天命2
+|2017
+|
+|
+|}
+
+=== 垂死之光 ===
+* 由Techland開發，Warner Bros.發行。
+* 與同公司作品《死亡之島》同樣注重武器製作，同時又追加了跑酷等動作要素。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Dying Light
+|垂死之光
+|2015
+|
+|
+|-
+|Dying Light: The Following
+|垂死之光：信徒
+|2016
+|
+|
+|-
+|Dying Light 2 Stay Human
+|消逝的光芒 2 人與仁之戰<ref>舊譯:垂死之光2 堅守人性</ref>
+|2022
+|
+|
+|}
+
+=== [[Splatoon|斯普拉遁]] ===
+* 由[[任天堂]]開發。
+* 主打在時間內利用各種武器在地圖顏色塗上顏色爭奪地盤，時間結束時占最多面積的隊伍獲勝。
+** 也因此在遊玩本作比起槍技更加著重快速奪下地盤並妨礙來襲的對手，也為本來風格血腥的槍戰作品帶來了截然不同的派對風格。
+* 單人戰役則著重在描寫在世界上章魚與魷魚兩種族的爭鬥，玩家受魚乾將軍的揀選成為其直屬探員，四處收集電池鯰魚阻止章魚軍團的攻勢。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|スプラトゥーン
+|斯普拉遁1
+|2015
+|
+|
+|-
+|スプラトゥーン2
+|斯普拉遁2
+|2017
+|
+|首次有DLC章節
+|-
+|スプラトゥーン3
+|斯普拉遁3
+|2022
+|
+|
+|}
+
+=== [[Overwatch|鬥陣特攻]] ===
+* 由Blizzard Entertainment開發。
+* 主打科幻背景與超級英雄，每個英雄各自有獨特的能力左右戰局。
+* <s>又稱屁屁特攻，不少玩家入坑的原因正是本作看板娘閃光的性感身材，然而卻因此導致遊戲慘遭女拳伺候orz</s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Overwatch
+|鬥陣特攻
+|2016
+|
+|
+|-
+|Overwatch 2
+|鬥陣特攻2
+|2022
+|新增跨平台進度共享，比賽規則除了將6V6變更成5V5之外還新增了搶地與推車共進行的「推進（Push）」模式，付費DLC則追加了四人PVE戰役「智械入侵」<s>然而說穿了就是閹割過的賽博版L4D</s>。
+|
+|}
+
+=== 世界大戰Z ===
+* 由Saber Interactive開發。
+* 以世界各地為舞台，主打類似《惡靈勢力》般四人合作的打殭屍遊戲。
+* 最大的特色是如同《死亡復甦》般超大量出現的殭屍，以及影響能力與攜帶裝備的職業分工。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|World War Z
+|世界大戰Z
+|2019
+|
+|
+|-
+|World War Z: Aftermath
+|世界大戰Z：劫後餘生
+|2021
+|上者的資料片，追加新角色＆地圖＆規則之外，還追加切換TPS與FPS的功能。
+|<s>然而NS版卻慘遭放生，直至今日都還沒提供販售劫後餘生的更新包…</s>
+|}
+
+=== 特戰英豪 ===
+* 由Riot Games開發。
+* 核心規則採用CS系統的爆破模式，進攻方要在時間內安置並引爆炸彈，防守方則須阻止炸彈爆炸。
+* 同時也像OW一般有眾多獨特風格的英雄單位「特務（Agent）」，不同特務可以活用各自的能力影響戰局。
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Valorant
+|特戰英豪
+|2020
+|
+|
+|}
+
+=== 喋血復仇 ===
+* 由開發《惡靈勢力》的Turtle Rock Studios開發。
+* 除了類似惡靈勢力的四人組團之外，還追加了Roguelite的卡牌系統，每次進入遊戲都會出現不同卡牌的效果。
+* <s>雖然一度被認為是《惡靈勢力》的精神續作，然而因為遊戲平衡度等問題引起玩家和營運方的矛盾，最終慘遭營運方放生。</s>
+* 作品列表
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Back 4 Blood
+|喋血復仇
+|2021
+|
+|
+|}
+
+=== 其他 ===
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!'''原標題'''
+!'''通用翻譯標題'''
+!'''上市年份'''
+!'''說明'''
+!'''備註'''
+|-
+|Metal Slug／Metal Slug 3D 
+|合金彈頭3D／越南大戰3D
+|2006
+|系列10週年紀念作，也是唯一一款TPS遊戲
+|
+|}
+
+== 相關 ==
+* [[射擊遊戲]]
+
+== 回應 ==
+{{pcomment|talkpage}} 
+
+== 備註 ==
+<references/>
+
+[[分類:電子遊戲分類]]

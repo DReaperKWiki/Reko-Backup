@@ -640,6 +640,23 @@
 |}
 * 2025年活動《落淚[[成句/之翼，你要怎麼負責呢？|之翼]]》主題曲。
 
+=== Iron Rose ===
+{| class="wikitable" style="margin-right: 1em auto 1em auto;"
+|-
+! 主唱
+| [[Báthory Erzsébet (Fate)|エリザベート・バートリー]]（CV：大久保瑠美）
+|-
+! 作詞
+| 西田圭稀
+|-
+! 作曲
+| oubleSlitter
+|-
+! 編曲
+| DoubleSlitter、来兎
+|}
+* 2025年活動《最終萬聖節2025 ～於南瓜行星閃耀的歌姬～》主題曲。
+
 == Fate/Grand Order Arcade ==
 === 空白 ===
 {| class="wikitable" style="margin-right: 1em auto 1em auto;"
