@@ -298,12 +298,6 @@
 * [[綠壩]]
 * [[萌え擬人化]]
 
-==外部連結 ==
-* [http://nijiura-os.hp.infoseek.co.jp/l ＯＳたん保管庫]
-* [http://ostan.matrix.jp/os/route/src.php OS娘世系圖]
-** 上面兩條已被証實全滅......
-* [http://en.wikipedia.org/wiki/OS-tan 英文維基的介紹]
-
 ==<s>例行工事</s>投票 ==
 * 你最喜歡的OS娘是：
 {{vote|section=1}}

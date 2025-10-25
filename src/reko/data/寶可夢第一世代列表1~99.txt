@@ -1382,8 +1382,8 @@
 |number= 036
 |name= 皮可西
 |category= 妖精
-|image= 
-|form= -
+|image= [[檔案:超級皮可西.webp|150px]]
+|form= 超級皮可西
 |height= 1.7
 |weight= 42.3
 |type= {{color|white|#FFB0AF|'''妖精'''}} {{color|white|#A2A1EF|'''飛行'''}}
@@ -2592,7 +2592,7 @@
 |number= 071
 |name= 大食花
 |category= 捕蠅
-|image=  
+|image= [[檔案:超級大食花.webp|150px]]
 |form= 超級大食花
 |height= 4.5
 |weight= 125.5 

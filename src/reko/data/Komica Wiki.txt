@@ -98,7 +98,7 @@
 * 這次事件之後，Komica Wiki正式分裂為三個獨立網站：
 ** [https://yuki.komica.org Yuki]：由1883所成立，作為重建之用（已死）
 ** [https://rekowiki.org/wiki/%E9%A6%96%E9%A0%81 Reko]：由Cross氏所成立，並由前Komica Wiki的核心編輯者作為管理議會集體營運
-** [https://newkomica-kari.fandom.com/zh-tw/wiki/%E9%A6%96%E9%A0%81 Fandom]：為了搶救條目而創建的備份wiki
+** [https://newkomica-kari.fandom.com/zh-tw/wiki/%E9%A6%96%E9%A0%81 Fandom]：為了搶救條目而創建的備份wiki，但因Fandom的特殊性質和網站要求，'''目前已不再雙向同步'''
 
 ==== 與舊Komica Wiki的異同點 ====
 * 本站Reko Wiki由於已經脫離Komica作為一個獨立運行的網站，本站的宗旨更改為「記錄現實，ACG，次文化和網絡的大小知識」，雖然Komica的文化和梗也是本wiki的收錄內容的部分，但是不會再以Komica為馬首是瞻，我們的記錄範圍將會放眼到整個華文區，包括而不限於巴哈姆特，PTT，高登，連登，Reddit，4chan甚至大陸的萌娘，百度，NGA和知乎。

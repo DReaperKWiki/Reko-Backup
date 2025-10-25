@@ -2738,8 +2738,8 @@
 |number= 478
 |name= 雪妖女
 |category= 雪國
-|image= 
-|form= -
+|image= [[檔案:超級雪妖女.webp|150px]]
+|form= 超級雪妖女
 |height= 2.9
 |weight= 29.6
 |type= {{color|white|#39DDDF|'''冰'''}} {{color|white|#7E54A6|'''幽靈'''}}

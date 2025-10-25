@@ -1,0 +1,737 @@
+{{h0|アイドルマスター シャイニーカラーズ樂曲一覽/THE IDOLM@STER SHINY COLORS樂曲一覽/偶像大師 閃耀色彩樂曲一覽}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| 以下含有部分的劇情捏他及些微二次設定，沒過接觸原著又不想被餵鴿子的話請不要繼續看下去。 
+|}
+
+== 解說 ==
+* 本條目收錄[[アイドルマスター シャイニーカラーズ|偶像大師 閃耀色彩]]企劃推出的樂曲
+* 參考條目：
+** [http://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E3%82%B2%E3%83%BC%E3%83%A0%E7%99%BB%E5%A0%B4%E6%9B%B2%E3%81%AE%E4%B8%80%E8%A6%A7 アイドルマスターのゲーム登場曲の一覧（ニコニコ大百科）]
+** [http://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%81%AE%E6%A5%BD%E6%9B%B2%E3%81%AE%E4%B8%80%E8%A6%A7 アイドルマスターの楽曲の一覧（ニコニコ大百科）]
+** [https://dic.nicovideo.jp/a/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%20%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%BC%E3%82%AB%E3%83%A9%E3%83%BC%E3%82%BA%20song%20for%20prism%E3%81%AE%E5%AE%9F%E8%A3%85%E6%A5%BD%E6%9B%B2%E3%81%AE%E4%B8%80%E8%A6%A7 アイドルマスター シャイニーカラーズ Song for Prismの実装楽曲の一覧（ニコニコ大百科）]
+* 有☆者為已在シャニソン(SCSP)實裝的曲目
+=== BRILLI@NT WING ===
+* 4個團體在介紹PV中所用的背景樂曲(01例外)。
+** 01以外收錄主題曲，CW曲，專輯擔當組合所唱的Spread the Wings!!及廣播劇。
+<!--{{Hideh|一覽}}-->
+==== 01: Spread the Wings!! ====
+* 2018年6月6日發行
+* ☆Spread the Wings!!
+** 歌：シャイニーカラーズ
+* ☆Multicolored Sky
+** 歌：シャイニーカラーズ
+==== 02: ヒカリのdestination ====
+* 2018年7月4日發行
+* ☆ヒカリのdestination
+** 歌：illumination STARS
+* 虹になれ
+** 歌：illumination STARS
+==== 03: バベルシティ・グレイス ====
+* 2018年8月1日發行
+* ☆バベルシティ・グレイス
+** 歌：L'Antica
+* 幻惑SILHOUETTE
+** 歌：L'Antica
+==== 04: 夢咲きAfter school ====
+* 2018年9月5日發行
+* ☆夢咲きAfter school
+** 歌：放課後クライマックスガールズ
+** <s>異常容易打錯CALL的一首</s>
+*** 果穗的中之人有提過希望第一段副歌的「No.1!」請留給果穗自己喊，第二段才是全體P一起CALL，但P一嗨起來就常常忘掉，1st三次演出都發生同樣有P忘記的糗事。
+* 太陽キッス
+** 歌：放課後クライマックスガールズ
+** <s>拿出你們的毛巾用力的甩！</s>
+==== 05: アルストロメリア ====
+* 2018年10月3日發行
+* ☆アルストロメリア
+** 歌：ALSTROEMERIA
+** 即使是偶像大師系列也很少見的「主打歌=團名」的歌曲。
+* ハピリリ
+** 歌：ALSTROEMERIA
+{{HideF}}
+
+=== SE@SONAL WINTER ===
+* 2018年12月19日發行
+* SNOW FLAKES MEMORIES
+** 歌：シャイニーカラーズ
+* Let's get a chance
+** 歌：シャイニーカラーズ
+
+=== FR@GMENT WING ===
+* 加入StrayLight後推出的新系列團體曲
+** 01以外收錄主題曲，CW曲，專輯擔當組合所唱的Ambitious Eve及廣播劇。
+<!--{{Hideh|一覽}}-->
+==== 01 ====
+* 2019年4月10日發行
+* ☆Ambitious Eve
+** 歌：シャイニーカラーズ
+* ☆いつか Shiny Days
+** 歌：シャイニーカラーズ
+==== 02 ====
+* 2019年5月8日發行
+* ☆We can go now!
+** 歌：illumination STARS
+* トライアングル
+** 歌：illumination STARS
+** <s>[https://dic.nicovideo.jp/a/%E5%A4%A9%E6%B0%97%E4%BA%88%E5%A0%B1%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA 天気予報シリーズ]</s>
+==== 03 ====
+* 2019年6月12日發行
+* ☆NEO THEORY FANTASY
+** 歌：L'Antica
+* ラビリンス・レジスタンス
+** 歌：L'Antica
+==== 04 ====
+* 2019年7月10日發行
+* ☆ビーチブレイバー
+** 歌：放課後クライマックスガールズ
+* よりみちサンセット
+** 歌：放課後クライマックスガールズ
+==== 05 ====
+* 2019年8月21日發行
+* ☆Bloomy!
+** 歌：ALSTROEMERIA
+* Love Addiction
+** 歌：ALSTROEMERIA
+==== 06 ====
+* 2019年9月11日發行
+* ☆Wandering Dream Chaser
+** 歌：StrayLight
+* Transcending The World
+** 歌：StrayLight
+{{HideF}}
+
+=== GR@DATE WING ===
+* 加入noctchill後推出的新系列團體曲
+** 01以外收錄主題曲，CW曲，專輯擔當組合所唱的シャイノグラフィ及廣播劇。
+<!--{{Hideh|一覽}}-->
+==== 01 ====
+* 2020年4月8日發行
+* ☆シャイノグラフィ
+** 歌：シャイニーカラーズ
+* ☆Dye the sky.
+** 歌：シャイニーカラーズ
+==== 02 ====
+* 2020年10月14日發行
+* ☆Twinkle way
+** 歌：illumination STARS
+* Happy Funny Lucky
+** 歌：illumination STARS
+** <s>'''[https://dic.nicovideo.jp/a/%E3%82%A8%E3%83%93%E6%8F%89%E3%82%81 エビ揉め]'''</s>(Every moment![[空耳]])
+==== 03 ====
+* 2020年11月4日發行
+* ☆Black Reverie
+** 歌：L'Antica
+* 純白トロイメライ
+** 歌：L'Antica
+==== 04 ====
+* 2020年11月18日發行
+* ☆五ツ座流星群
+** 歌：放課後クライマックスガールズ
+* 学祭革命夜明け前
+** 歌：放課後クライマックスガールズ
+==== 05 ====
+* 2020年12月9日發行
+* ☆ダブル・イフェクト
+** 歌：ALSTROEMERIA
+* Anniversary
+** 歌：ALSTROEMERIA
+==== 06 ====
+* 2020年8月19日發行
+* ☆Hide & Attack
+** 歌：StrayLight
+** <s>[[假面騎士系列|仮面ライダー]]ストレイライト</s>
+* Destined Rival
+** 歌：StrayLight
+==== 07 ====
+* 2020年9月16日發行
+* ☆いつだって僕らは
+** 歌：noctchill
+* あの花のように
+** 歌：noctchill
+{{HideF}}
+
+=== COLORFUL FE@THERS ===
+* 這裡收入遊戲裡登場的個人曲及團體曲
+<!--{{Hideh|一覽}}-->
+==== -Stella- ====
+* 2021年1月20日發行
+* プラニスフィア ～planisphere～
+** 歌：Team.Stella<ref>櫻木真乃（関根瞳）、月岡恋鐘（礒部花凜）、小宮果穂（河野ひより）、園田智代子（白石晴香）、大崎甘奈（黒木ほの香）、芹沢あさひ（田中有紀）、樋口円香（土屋李央</ref>
+* ☆ありったけの輝きで
+** 歌：櫻木真乃
+* ☆星をめざして
+** 歌：芹沢あさひ
+* ☆夢見鳥
+** 歌：樋口円香
+* ☆アポイント・シグナル
+** 歌：月岡恋鐘
+* ☆チョコデート・サンデー
+** 歌：園田智代子
+* ☆Sweet Memories
+** 歌：大崎甘奈
+* ☆ハナマルバッジ
+** 歌：小宮果穂
+
+==== -Luna- ====
+* 2021年2月17日發行
+* リフレクトサイン
+** 歌：Team.Luna<ref>風野灯織（近藤玲奈）、田中摩美々（菅沼千紗）、三峰結華（成海瑠奈）、幽谷霧子（結名美月）、杜野凛世（丸岡和佳奈）、大崎甜花（前川涼子）、和泉愛依（北原沙弥香）、福丸小糸（田嶌紗蘭）</ref>
+* ☆誰ソ彼アイデンティティー
+** 歌：田中摩美々
+* ☆わたしの主人公はわたしだから！
+** 歌：福丸小糸
+* ☆また明日
+** 歌：大崎甜花
+* ☆常咲の庭
+** 歌：杜野凛世
+* ☆プラスチック・アンブレラ
+** 歌：三峰結華
+* ☆Going my way
+** 歌：和泉愛依
+* ☆雪・月・風・花
+** 歌：幽谷霧子
+* ☆スローモーション
+** 歌：風野灯織
+
+==== -Sol- ====
+* 2021年3月10日發行
+* ☆千夜アリア
+** 歌：白瀬咲耶
+* ☆Damascus Cocktail
+** 歌：有栖川夏葉
+* ☆Darling you!
+** 歌：桑山千雪
+* ☆あおぞらサイダー
+** 歌：市川雛菜
+* ☆SOS
+** 歌：黛冬優子
+* ☆過純性ブリーチ
+** 歌：西城樹里
+* ☆HAREBARE!!
+** 歌：八宮めぐる
+* ☆statice
+** 歌：浅倉透
+* SOLAR WAY
+** 歌：Team.Sol<ref>八宮めぐる（峯田茉優）、白瀬咲耶（八巻アンナ）、西城樹里（永井真里子）、有栖川夏葉（涼本あきほ）、桑山千雪（芝崎典子）、黛冬優子（幸村恵理）、浅倉透（和久井優）、市川雛菜（岡咲美保）</ref>
+
+==== -SHHis- ====
+* 2023年7月26日發行
+* ☆フェアリー・ガール
+** 歌：七草にちか
+* ☆Look up to the sky
+** 歌：緋田美琴
+
+==== -CoMETIK- ====
+* 2024年12月4日發行
+* 神様は死んだ、って (2024 Remastering Ver.)
+** 歌：斑鳩ルカ
+* ☆無垢
+** 歌：鈴木羽那
+* ☆夢模様キャンバス
+** 歌：郁田はるき
+* {{censored|1/3}}
+** {{censored|歌：斑鳩ルカ}}
+{{HideF}}
+
+=== L@YERED WING ===
+* 加入SHHis後推出的新系列團體曲
+** 01以外收錄主題曲，CW曲，專輯擔當組合所唱的Resonance⁺及廣播劇。
+<!--{{Hideh|一覽}}-->
+==== 01 ====
+* 2021年4月14日發行
+* Resonance⁺
+** 歌：シャイニーカラーズ
+* Color Days
+** 歌：シャイニーカラーズ
+==== 02 ====
+* 2021年5月19日發行
+* PRISISM
+** 歌：illumination STARS
+* スマイルシンフォニア
+** 歌：illumination STARS
+==== 03 ====
+* 2021年6月9日發行
+* abyss of conflict
+** 歌：L'Antica
+* 革命進化論
+** 歌：L'Antica
+==== 04 ====
+* 2021年7月14日發行
+* クライマックスアイランド
+** 歌：放課後クライマックスガールズ
+* 拝啓タイムカプセル
+** 歌：放課後クライマックスガールズ
+==== 05 ====
+* 2021年8月18日發行
+* パステルカラー パスカラカラー
+** 歌：ALSTROEMERIA
+* ラブ・ボナペティート
+** 歌：ALSTROEMERIA
+==== 06 ====
+* 2021年9月8日發行
+* ☆Another Rampage
+** 歌：StrayLight
+* ☆Timeless Shooting Star
+** 歌：StrayLight
+==== 07 ====
+* 2021年10月13日發行
+* ☆僕らだけの未来の空
+** 歌：noctchill
+* 今しかない瞬間を
+** 歌：noctchill
+==== 08 ====
+* 2021年11月10日發行
+* ☆OH MY GOD
+** 歌：SHHis
+* Fly and Fly
+** 歌：SHHis
+{{HideF}}
+
+=== Synthe-Side ===
+* 於4th LIVE演唱會先行發售的特別團體合唱曲CD
+<!--{{Hideh|一覽}}-->
+==== 01 ====
+* 2022年6月15日發行
+* Killer×Mission
+** 歌：L'Antica×StrayLight
+==== 02 ====
+* 2022年7月13日發行
+* 相合学舎
+** 歌：放課後クライマックスガールズ×noctchill
+==== 03 ====
+* 2022年8月10日發行
+* Secret utopIA
+** 歌：illumination STARS×ALSTROEMERIA×SHHis
+{{HideF}}
+
+=== PANOR@MA WING ===
+* 01以外收錄主題曲，CW曲，專輯擔當組合所唱的虹の行方及廣播劇。
+<!--{{Hideh|一覽}}-->
+==== 01 ====
+* 2022年4月13日發行
+* 虹の行方
+** 歌：シャイニーカラーズ
+* Daybreak Age
+** 歌：シャイニーカラーズ
+==== 02 ====
+* 2022年5月11日發行
+* FELICE
+** 歌：illumination STARS
+* イルミネイトコンサート
+** 歌：illumination STARS
+==== 03 ====
+* 2022年6月15日發行
+* 浮動性イノセンス
+** 歌：L'Antica
+* 愚者の独白
+** 歌：L'Antica
+==== 04 ====
+* 2022年7月13日發行
+* 一閃は君が導く
+** 歌：放課後クライマックスガールズ
+* キャットスクワッド
+** 歌：放課後クライマックスガールズ
+==== 05 ====
+* 2022年8月10日發行
+* VERY BERRY LOVE
+** 歌：ALSTROEMERIA
+* ☆Give me some more...
+** 歌：ALSTROEMERIA
+==== 06 ====
+* 2022年9月14日發行
+* Tracing Defender
+** 歌：StrayLight
+* Overdrive Emotion
+** 歌：StrayLight
+==== 07 ====
+* 2022年10月12日發行
+* ☆Catch the Breeze
+** 歌：noctchill
+* ☆アスファルトを鳴らして
+** 歌：noctchill
+==== 08 ====
+* 2022年11月6日發行
+* ☆Fashionable
+** 歌：SHHis
+** <s>WOWWOWWOW…WOWWOWWOW…WOWWOWWOW…WOWWOWWOW…</s>
+* Bouncy Girl
+** 歌：SHHis
+{{HideF}}
+
+=== WING COLLECTION ===
+* A side/B side:2023年1月18日發行、2023年2月8日發行
+* <s>毫無反應就是</s>精選輯
+** 收入BRILLI@NT WING到L@YERED WING四個CD系列加上「SE@SONAL WINTER」「FUTURITY SMILE」「SWEET♡STEP」4曲共56首
+** 變更點:全體曲變成25人ver，三峰結華段落全數更換成希水しお的歌唱版本
+
+===“CANVAS”===
+* 加入CoMETIK後推出的新系列<s>，團體曲消失中</s>
+** 收錄主題曲，兩首CW曲，及廣播劇。
+<!--{{Hideh|一覽}}-->
+==== 01 ====
+* 2023年4月12日發行
+* Forward March！！！
+** 歌：illumination STARS
+* 星が流れて
+** 歌：illumination STARS
+* BRIGHTEST WHITE
+** 歌：illumination STARS
+
+==== 02 ====
+* 2023年5月10日發行
+* とある英雄たちの物語
+** 歌：L'Antica
+* Unsung Heroes
+** 歌：L'Antica
+* 有彩色ユリイカ
+** 歌：L'Antica
+
+==== 03 ====
+* 2023年6月14日發行
+* ハナサカサイサイ
+** 歌：放課後クライマックスガールズ
+* 全力アンサー
+** 歌：放課後クライマックスガールズ
+* ひめくりモザイク
+** 歌：放課後クライマックスガールズ
+
+==== 04 ====
+* 2023年7月12日發行
+* メッセージ
+** 歌：ALSTROEMERIA
+* Love Letter
+** 歌：ALSTROEMERIA
+* グラデーション
+** 歌：ALSTROEMERIA
+
+==== 05 ====
+* 2023年8月9日發行
+* Imitation Ghost
+** 歌：StrayLight
+* BURN BURN
+** 歌：StrayLight
+* Start up Stand up
+** 歌：StrayLight
+
+==== 06 ====
+* 2023年9月13日發行
+* Reflection
+** 歌：noctchill
+* 夢が夢じゃなくなるその日まで
+** 歌：noctchill
+* 青とオレンジ
+** 歌：noctchill
+
+==== 07 ====
+* 2023年10月11日發行
+* ☆Forbidden Paradise
+** 歌：SHHis
+* SWEETEST BITE
+** 歌：SHHis
+* White Story
+** 歌：SHHis
+
+==== 08 ====
+* 2023年11月8日發行
+* ☆無自覚アプリオリ
+** 歌：CoMETIK
+* ☆くだらないや
+** 歌：CoMETIK
+* ☆平行線の美学
+** 歌：CoMETIK
+{{HideF}}
+
+=== Song for Prism ===
+* 手機遊戲Song for Prism實裝的新歌曲
+==== 星の声 ====
+* 2023年10月18日發行
+* ☆星の声
+** 歌：シャイニーカラーズ
+==== 裸足じゃイラレナイ / 明日もBeautiful Day ====
+* 2024年1月24日發行
+* ☆裸足じゃイラレナイ
+** 歌：放課後クライマックスガールズ
+* ☆明日もBeautiful Day
+** 歌：ALSTROEMERIA
+==== ハナムケのハナタバ / 青空 ====
+* 2024年4月3日發行
+* ☆ハナムケのハナタバ
+** 歌：CoMETIK
+* ☆青空
+** 歌：noctchill
+==== Happier / 枕木の歌 ====
+* 2024年5月22日發行
+* ☆Happier
+** 歌：SHHis
+* ☆枕木の歌
+** 歌：illumination STARS
+==== 時限式狂騒ワンダーランド / LINKs ====
+* 2024年7月24日發行
+* ☆時限式狂騒ワンダーランド
+** 歌：L'Antica
+* ☆LINKs
+** 歌：StrayLight
+==== After Run / mellow mellow ====
+* 2024年9月25日發行
+* ☆After Run
+** 歌：SHHis
+* ☆mellow mellow
+** 歌：ALSTROEMERIA
+==== C'mon Join Us! / 愛なView / サマーサマーオーシャンパーリィバケーション ====
+* 2024年11月20日發行
+* ☆C'mon! Join Us
+** 歌：シャイニーカラーズ
+** Song for Prism一周年紀念曲
+* ☆愛なView
+** 歌：シャイニーカラーズ
+* ☆サマーサマーオーシャンパーリィバケーション
+** 歌：八宮めぐる、三峰結華、小宮果穂、大崎甜花、黛冬優子、福丸小糸、緋田美琴、郁田はるき
+==== Heads or Tails？ / グッバイ ====
+* 2024年11月27日發行
+* ☆Heads or Tails？
+** 歌：CoMETIK
+* ☆グッバイ
+** 歌：noctchill
+==== Shower of light / 快盗Vを見逃すな ====
+* 2025年1月29日發行
+* ☆Shower of light
+** 歌：illumination STARS
+* ☆快盗Vを見逃すな
+** 歌：放課後クライマックスガールズ
+==== Real Mind Shakes / THE LAST PRIDE ====
+* 2025年3月26日發行
+* ☆Real Mind Shakes
+** 歌：StrayLight
+* ☆THE LAST PRIDE
+** 歌：L'Antica
+==== 愛しき日々 / Fading Stars / Future Transit / KoiKyun！ ====
+* 2025年9月3日發行
+* ☆愛しき日々
+** 歌：noctchill
+* ☆Fading Stars
+** 歌：SHHis
+* ☆Future Transit
+** 歌：StrayLight
+* ☆KoiKyun！
+** 歌：illumination STARS
+
+=== 動畫版 ===
+* 2024年4月/10月播出的SHINY COLORS動畫版第一季/第二季登場的曲目
+** <s>第一季貧窮到只有一首OP新曲</s>
+==== ツバサグラビティ ====
+* 2024年4月10日發行
+* ☆ツバサグラビティ
+** 歌：シャイニーカラーズ
+** 第一季OP
+==== プリズムフレア ====
+* 2024年10月9日發行
+* ☆プリズムフレア
+** 歌：シャイニーカラーズ
+** 第二季OP
+==== Happy Surprise Trick! ====
+* 第二季第4話插入歌
+* 2024年10月30日發行
+* ☆ねぇ、ねぇ、ねぇ
+** 歌：櫻木真乃、幽谷霧子、園田智代子、桑山千雪、黛 冬優子
+* ☆OPEN the New world
+** 歌：風野灯織、月岡恋鐘、有栖川夏葉、芹沢あさひ
+* ☆Midnight parade!
+** 歌：田中摩美々、白瀬咲耶、杜野凛世、大崎甜花、和泉愛依
+* ☆CANDY UNIVERSE
+** 歌：八宮めぐる、三峰結華、小宮果穂、西城樹里、大崎甘奈
+* ☆Poison Berry Daughters
+** 歌：シャイニーカラーズ
+
+==== Over the prism ====
+* 2024年12月25日發行
+* ☆星の数だけ
+** 歌：illumination STARS
+* ☆橙より未来
+** 歌：L'Antica
+* ☆さあ舞い上がれ
+** 歌：放課後クライマックスガールズ
+* ☆With you
+** 歌：ALSTROEMERIA
+* ☆Future Designer
+** 歌：StrayLight
+* ☆未来へのSign
+** 歌：noctchill
+
+=== シャイニーPRオファー ===
+==== vol.1 ====
+* 2024年4月17日發行
+* ☆輝きにかわる
+** 歌：大崎甘奈、市川雛菜、田中摩美々
+==== vol.2 ====
+* ☆ONE STAR
+** 歌：小宮果穂、黛冬優子、和泉愛依
+==== vol.3 ====
+* ☆GOTCHA
+** 歌：芹沢あさひ、八宮めぐる、西城樹里
+
+=== ECHOES ===
+* 收錄主題曲，CW曲，專輯擔當組合所唱的Migratory Echoes及廣播劇。
+* <s>團體曲突然復活了</s>
+==== 01 ====
+* 2025年1月22日發行
+* STARRY PLACE
+** 歌：illumination STARS
+* 晴れのちバルーン
+** 歌：illumination STARS
+
+==== 02 ====
+* 2024年6月12日發行
+* 文明開化輪舞 -シティ・ハレルヤ-
+** 歌：L'Antica
+* 秋の終わり、僕の記憶
+** 歌：L'Antica
+
+==== 03 ====
+* 2024年7月10日發行
+* 放課後マギア
+** 歌：放課後クライマックスガールズ
+* パーティーマジックデザイナー
+** 歌：放課後クライマックスガールズ
+
+==== 04 ====
+* 2024年8月7日發行
+* アスタラブビスタ
+** 歌：ALSTROEMERIA
+* DAYDREAM LOVE
+** 歌：ALSTROEMERIA
+
+==== 05 ====
+* 2024年9月11日發行
+* Cyber Parkour
+** 歌：StrayLight
+* LIVE LIVE LIVE!
+** 歌：StrayLight
+
+==== 06 ====
+* 2024年10月9日發行
+* いつかのキミへ
+** 歌：noctchill
+* 365日のストーリー
+** 歌：noctchill
+
+==== 07 ====
+* 2024年11月13日發行
+* Monochromatic
+** 歌：SHHis
+* Snowflake
+** 歌：SHHis
+
+==== 08 ====
+* 2024年12月11日發行
+* ☆泥濘鳴鳴
+** 歌：CoMETIK
+* Clean.Clean up
+** 歌：CoMETIK
+
+==== 09 ====
+* 2025年1月22日發行
+* Migratory Echoes
+** 歌：シャイニーカラーズ
+
+==="円環-Halo around-"===
+* 於7th UNITLIVE TOUR演唱會先行發售的特別團體合唱曲CD
+==== 01 ====
+* 2025年6月4日發行
+* Pioneer Impact
+** 歌：L'Antica×SHHis
+* ブレイク・アウト・セレンディピティ
+** 歌：L'Antica
+* Break Chain
+** 歌：SHHis
+==== 02 ====
+* 2025年7月2日發行
+* 迅雷鉄火
+** 歌：放課後クライマックスガールズ×StrayLight
+* 進路は超銀河
+** 歌：放課後クライマックスガールズ
+* GET OVER
+** 歌：StrayLight
+==== 03 ====
+* 2025年8月6日發行
+* リフレインブレイン
+** 歌：ALSTROEMERIA×CoMETIK
+* ルピラ
+** 歌：ALSTROEMERIA
+* 似セ者
+** 歌：CoMETIK
+==== 04 ====
+* 2025年9月10日發行
+* Sparkle
+** 歌：illumination STARS×noctchill
+* REWRITING
+** 歌：illumination STARS
+* Swing it!
+** 歌：noctchill
+
+=== OTHER ===
+==== FUTURITY SMILE ====
+* 2019年12月18日發行
+* FUTURITY SMILE
+** 歌：シャイニーカラーズ
+* Spread the Wings!! -19 colors-
+** 歌：シャイニーカラーズ
+==== SWEET♡STEP ====
+* 2020年2月12日發行
+* ☆SWEET♡STEP
+** 歌：シャイニーカラーズ
+* Multicolored Sky -19 colors-
+** 歌：シャイニーカラーズ
+==== デビ太郎 VS ジャスティスV ====
+* 2020年7月29日發行
+* デビ太郎のうた
+** 歌：大崎甜花
+* 絶対正義 EVERY DAY
+** 歌：小宮果穂
+==== なんどでも笑おう ====
+* 2020年9月30日發行
+** 這裡收錄的是illumination STARS的版本
+* なんどでも笑おう
+** 歌：THE IDOLM@STER FIVE STARS!!!!!
+==== VOY@GER ====
+* 2021年8月4日發行
+** 這裡收錄的是有栖川夏葉、黛冬優子、浅倉透的版本
+* ☆VOY@GER
+** 歌：THE IDOLM@STER FIVE STARS!!!!!
+==== 神様は死んだ、って ====
+* 2021年12月20日數位發行
+** 於Xmas Party -Silent night-演唱會最後突襲登場演唱，同時宣布個人曲翌日發售
+* ☆神様は死んだ、って
+** 歌：斑鳩ルカ (CV.川口莉奈)
+==== B☆Health ====
+* 2022年8月13日發行
+** 於283PRODUCTION UNIT LIVE SETSUNA BEAT演唱會上限地販售的CD
+* 283体操
+** 歌：八宮めぐる、月岡恋鐘、西城樹里、桑山千雪、芹沢あさひ、福丸小糸、七草にちか
+* シャイニーエクササイズ
+** 歌：八宮めぐる、月岡恋鐘、西城樹里、桑山千雪、芹沢あさひ、福丸小糸、七草にちか
+==== Shiny Stories ====
+* 2023年7月26日發行
+* Shiny Stories
+** 歌：櫻木真乃、七草にちか、斑鳩ルカ
+** SC 5周年紀念歌曲
+==== 日清炎メシ ====
+* 2023年11月8日發行
+* ホムラインビテーション
+** 歌：HOMURA-GIRLS(StrayLight・SHHis)
+==== アイ NEED YOU（FOR WONDERFUL STORY） ====
+* 2024年12月11日發行
+** 這裡收錄的是櫻木真乃、風野灯織、八宮めぐる的版本
+* ☆アイ NEED YOU (FOR WONDERFUL STORY)
+** 歌：THE IDOLM@STER BRILLIANT STARS
+
+== 回應 == 
+{{Pcomment|section=1}}
+
+== 備註 ==
+<references />
+{{偶像大師系列}}
+[[分類:THE IDOLM@STER]]
+[[分類:偶像大師 閃耀色彩]]
+[[分類:音樂列表]]
+[[分類:音樂]]
