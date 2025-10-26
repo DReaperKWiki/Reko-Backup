@@ -55,14 +55,13 @@
 [[檔案:MOT Ganj-i-Sawai.png|x200px]]
 * 圖鑑編號：664，SSR。
 * <s>[[矢澤妮可|口癖是「にっこにっこにー」]]</s>
-<!--
-==== [[Wikipedia:HMS_Pearl_(1708)|珍珠（パール/MOT Pearl）]] ====
-[[檔案:MOT Pearl.png|x200px]]
-* 圖鑑編號：XXX，SSR。
 ==== [[Wikipedia:Queen_Anne%27s_Revenge|安妮女王復仇（クイーン・アンズ・リベンジ/MOT Queen Anne's Revenge）]] ====
 [[檔案:MOT Queen Anne's Revenge.png|x200px]]
-* 圖鑑編號：XXX，SSR。
--->
+* 圖鑑編號：709，SSR。
+==== [[Wikipedia:HMS_Pearl_(1708)|珍珠（パール/MOT Pearl）]] ====
+[[檔案:MOT Pearl.png|x200px]]
+* 圖鑑編號：711，SSR。
+
 === 前衛型 ===
 ==== [[Wikipedia:Golden_Hind|金鹿（ゴールデン・ハインド/MOT Golden Hind）]] ====
 [[檔案:MOT Golden Hind.png|x200px]]
@@ -76,11 +75,13 @@
 ==== 朴茨茅斯冒險（ポーツマウス・アドベンチャー/MOT Portsmouth Adventure） ====
 [[檔案:MOT Portsmouth Adventure.png|x200px]]
 * 圖鑑編號：667，SR。
-<!--
 ==== [[Wikipedia:HMS_Lyme_(1695)|萊姆（ライム/MOT Lyme）]] ====
 [[檔案:MOT Lyme.png|x200px]]
-* 圖鑑編號：XXX，SR。
--->
+* 圖鑑編號：710，SSR。
+==== 皇家詹姆斯（ロイヤル・ジェームズ/MOT Royal James） ====
+[[檔案:MOT Royal James.png|x200px]]
+* 圖鑑編號：712，SR。
+
 === 潛水型 ===
 ==== 皇家財富（ロイヤル・フォーチュン/MOT Royal Fortune） ====
 [[檔案:MOT Royal Fortune.png|x200px]]
@@ -97,6 +98,9 @@
 ==== 海豚（ドルフィン/MOT Dolphin） ====
 [[檔案:MOT Dolphin.png|x200px]]
 * 圖鑑編號：668，SSR。
+==== 冒險（アドベンチャー/MOT Adventure） ====
+[[檔案:MOT Adventure.png|x200px]]
+* 圖鑑編號：713，SR。
 
 == {{anchor|Faction_Kingdom_of_Tulipa}}郁金王國 ==
 === [[Wikipedia:Admiralen-class_destroyer|海軍上將級驅逐艦]] ===

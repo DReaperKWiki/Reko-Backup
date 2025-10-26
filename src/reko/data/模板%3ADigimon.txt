@@ -11,11 +11,18 @@
 |group2 = TV版作品．令和年代
 |list2  = [[デジモンアドベンチャー|大冒險：]]・[[デジモンゴーストゲーム|幽靈遊戲]]・[[デジモンビートブレイク|BEATBREAK]]
 |group3 = 遊戲作品
-|list3 = [[Digimon TCG|TCG]]・[[Digimon Alysion|Alysion]]
+|list3 = {{Navbox|child|
+|titlestyle = background: #00a9e3;color: #FFF;
+|groupstyle = background: #00a9e3;color: #FFF;
+|group1 = 電子遊戲作品
+|list1  = [[數碼寶貝世界系列|世界系列]]・[[數碼寶貝大冒險 (電子遊戲版)|大冒險系列]]・[[數碼寶貝物語系列|物語系列]]（[[數碼寶貝物語 網路偵探|網路偵探]]・[[數碼寶貝物語 時空異客|時空異客]]）
+|group2 = TCG相關作品
+|list2  = [[Digimon Card Game]]・[[Digimon Alysion]]
+}}
 |group4 = 獨立電影版作品
 |list4 = [[デジモンアドベンチャー|大冒險Tri.]]
 |group5 = 其他相關條目 	
-|list5 = [[數碼獸系列/數碼獸一覽|著名Digimon一覽]]・[[數碼獸系列/傳統、慣例一覽|傳統、慣例一覽]]
+|list5 = [[數碼獸系列/數碼獸一覽|Digimon一覽]]・[[數碼獸系列/傳統、慣例一覽|傳統、慣例一覽]]
 |group6 =成句
 |list6 = [[成句/我現在的心情你怎麼可能了解|我現在的心情你怎麼可能了解]]
 }}

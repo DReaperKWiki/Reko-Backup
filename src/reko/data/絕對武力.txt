@@ -1,0 +1,57 @@
+{{h0|Counter-Strike / 絕對武力 / 反恐精英}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+{{stub row}}
+|-
+|以下內容含有部分劇情洩漏<s>這遊戲有劇情嗎？</s>，沒玩過遊戲又不想'''在最後一秒也沒能拆包炸彈導致被炸死'''的話就請不要繼續看下去。
+|}
+
+== 解說 ==
+* 原本是民間自製《戰慄時空》的模組之一，後來被Valve收購後成為單獨系列，後續作品均為Valve推出的第一人稱射擊遊戲。
+* 主打反恐戰爭的PVP，玩家可以分成反恐人員（Counter Terrorists、CT）與恐怖分子（Terrorists、TR）兩個陣營在不同的規則下競技。
+* 其中TR陣營角色部分雖然有現實藍本但大多是虛構組織，相反的CT陣營的角色全部都是現實世界存在的反恐部隊。
+
+== 系列作品 ==
+=== 絕對武力 / Counter-Strike ===
+=== 絕對武力：一觸即發 / Counter-Strike: Condition Zero ===
+*上面的續作，追加單人模式。
+=== 絕對武力：次世代 / Counter-Strike: Source ===
+* 上面以Source引擎製作的續作。
+=== 絕對武力：全球攻勢 / Counter-Strike: Global Offensive ===
+*
+=== 絕對武力2 / Counter-Strike 2 ===
+*《全球攻勢》的Source 2引擎更新版本。
+
+== 可操縱角色 ==
+=== 反恐部隊陣營 ===
+* 美國海豹部隊第六小隊（SEAL Team 6）、德國第九國境守備隊（GSG-9）、英國空降特勤團（SAS）、法國國家憲兵干預組（GIGN）
+** 初代遊戲可選用的CT。
+* 俄羅斯特種部隊（SPETSNAZ）、美國警察特種武器和戰術部隊（SWAT）
+** 《一觸即發》追加的CT。
+* 美國聯邦調查局（FBI）、以色列國防軍（IDF）
+** 《全球攻勢》追加的CT。
+
+=== 恐怖分子陣營 ===
+* 東歐鳳凰武裝組織（Phoenix Connexion）、中東武裝菁英（Elite Crew）、瑞典北極復仇者（Arctic Avengers）、<s>藍波</s>中東恐怖游擊部隊（Guerilla Warfare）
+** 初代遊戲可選用的TR。
+* 美國中西部城市傭兵（Midwest Militia）
+** 《一觸即發》追加的TR。
+* 巴爾幹武裝份子（Balkan）、海盜（Pirate）、專業人士（Professional）、無政府主義者（Anarchist）、分離主義者（Separatist）
+** 《全球攻勢》追加的TR。
+
+== 武器 ==
+*
+
+== 相關條目 ==
+* [[3D射擊遊戲]]
+* [[戰慄時空]]（同為Valve推出的的射擊遊戲系列）
+* [[惡靈勢力]]（同為Valve推出的射擊遊戲(ry
+* [[絕地要塞]]（同為Valve退出的射擊(ry
+* [[傳送門]]（同為Valve推出的(ry
+== 回應 ==
+{{pcomment|talkpage}} 
+
+== 備註 ==
+<references/>
+
+[[分類:射擊遊戲]]
