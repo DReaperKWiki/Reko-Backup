@@ -624,22 +624,30 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 *** 但反過來說樂器兵也就只有經驗值加成這個好處，對於戰鬥上幫助不大、刷玉或刷樂器沒有影響；而且裝了樂器兵就無法享受遠攻刀裝的好處也是機會成本，若是樂器或者刀裝位不多其實完全可以忽略。<s>實質上是給樂器多到用不完的倉鼠玩的</s>
 
 ===  馬  ===
-* 有屬於自己的裝備欄位，裝備後可以大幅提高刀劍男士的機動，並額外提升幾項個別能力值。
-** 不過在市街戰跟室內戰的條件下由於場地不利於騎馬作戰的關係，馬的裝備影響都會失效。
+* 有獨立的裝備欄位，裝備後可以大幅提高刀劍男士的機動，並額外提升幾項個別能力值。
+** 不過在場地狹窄的戰場條件中不利於騎馬作戰，所以馬的裝備影響會減弱乃至失效。
 * 名字大多來自歷史上有名武將的愛馬。
-* 絕大多數都是透過完成主線任務獲得。有些活動的獎勵也可以拿到馬匹，但能力值都會低很多。
+* 絕大多數都是透過完成主線任務獲得。有些活動的獎勵也可以拿到馬匹，但能力值都只加一點點而已。
 ** <s>只加打擊不加機動的馬是什麼鬼</s>
 * 永遠不會損失。就算裝備馬的刀劍男士斷刀也會自動回到後補裝備欄裡面。
 * 簡中版經常會推出限定馬放在課金禮包裡販售，馬名多以赤兔、的盧、汗血等中華文化圈中知名的馬。
-** 個別限定馬如新春赤兔甚至擁有比主線任務馬更優秀的數值；不過差異不重大難有關鍵影響加上中後期戰場條件各種針對馬的情況下，這種操作<s>除了讓玩家群嘲官方想方設法撈錢以外</s>倒是沒翻起什麼波浪。
+** 個別限定馬如新春赤兔甚至擁有比主線任務馬更優秀的數值；不過差異不重大難有關鍵影響加上中後期戰場條件各種針對馬的情況下，這種操作<s>除了讓玩家群嘲官方想方設法圈錢以外</s>倒是沒翻起什麼波浪。
 
 ===  御守  ===
-* 有屬於自己的裝備欄位，有裝備御守的刀劍男士如果斷刀的話會自動消耗並令其復活。
+* 有獨立的裝備欄位，有裝備御守的刀劍男士如果斷刀的話會自動消耗並令其復活。
 * 主要來源是課金，有時候活動獎勵也會拿到一些。
 * 分成復活後剩1滴血的御守跟可以滿血復活的御守·極。<s>想成要員跟女神就好了</s>
 * 2024年2月還推出了復活後回半血的粉紅色的御守·桃<s>主要是夢審給推刀當定情信物用的</s>。
 
 ===  寶物  ===
+* 2024年1月16日更新後實裝的新裝備系列，以現實中「刀劍以外的歷史文物」為藍本而設計。
+** 跟刀裝一樣分為三種稀有度，其類別除了戰場裝備如刀裝具（刀的配件如三所物、鍔）、馬具（如馬鞍）、武具（如盔甲）以外，亦有茶道具或是繪畫、雕刻等美術品。<s>茶碗跟屏風要怎麼帶上戰場這個問題理所當然地已成為無數二創的吐槽對象</s>
+* 有獨立的裝備欄位，裝備後能夠提升能力值且不會受到戰場條件影響，也不會被破壞。
+* 獲得方式為出陣同日開放的高難度地圖「異去」並收集低機率掉落的寶物碎片達到足夠數量後，消耗可透過活動獎勵入手或是花費8,000小判購買的斷片結合劑合成為完整的寶物。
+* 重複的寶物可以用來習合提升寶物等級進一步提升加成的能力值，高等級稀有寶物的加成相當可觀。
+** 但由於異去不僅難度高又有真實傷害，重複刷圖還需要消耗小判購買額外的燈籠才能入場、黏合寶物的膠水也要用小判買，可謂是一項相當高成本的投資。
+* 每樣寶物都有自己的備註欄可以任意填寫說明，並且刀劍男士裝備寶物出戰即會累積「愛用度」；一旦愛用度超過1,000點則該寶物就會冠上該名刀劍男士的名字，且不再累積其他刀劍男士的愛用度。
+** 不過冠名之後不會因此變成專用裝備，還是可以拿給其他刀男用。繼續累積該名刀劍男士的愛用度還會出現「兩千」、「三千」等字樣，目前最高可達「一萬」。
 
 ==  刀種  ==
 * 短刀
@@ -742,7 +750,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |沙汰
 |三日月宗近、小狐丸、童子切安綱 剝落
-|女性，三条派4hr和童子切的歐皇擔當，設定極為精細<s>，真劍立繪會很巧妙的用角度遮住乳首</s>。<br>{{censored|1=過去曾因三週年時沒為角色繪畫跪座立繪及Twitter發言引來誤解等因素而被一些玩家批評而不得不寫信致歉並解釋[https://forum.gamer.com.tw/C.php?bsn=27058&snA=1759 自己因照顧家人及行程繁忙無法接下太多工作]，而官方也發文表示請玩家沒事不要去騷擾繪師}}
+|女性，三条派4hr<s>歐皇</s>擔當，設定極為精細。<br>{{censored|1=過去曾因三週年時沒為角色繪畫跪座立繪及Twitter發言引來誤解等因素而被一些玩家批評而不得不寫信致歉並解釋[https://forum.gamer.com.tw/C.php?bsn=27058&snA=1759 自己因照顧家人及行程繁忙無法接下太多工作]，而官方也發文表示請玩家沒事不要去騷擾繪師}}<br><s>原本真劍必殺立繪會巧妙地遮住乳首，但極三日月改成直接畫出來了</s>
 |[https://twitter.com/sata3 Twitter]<br>[http://fulgor.mond.jp/ 個人網站]
 |-
 |細越裕治
@@ -762,7 +770,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |三輪士郎
 |大典太光世、ソハヤノツルキ
-|男性，漫畫家及插畫家，三池派擔當，特徵是偏強烈的光影感跟粉彩上色<s>跟之前其他繪師相比畫風整個突變且讓人有官方真下了重本之感</s>。
+|男性，漫畫家及插畫家，三池派擔當，特徵是偏強烈的光影感跟粉彩上色<s>跟之前其他繪師相比整個風格突變且讓人有官方真下了重本之感</s>。<br>平常發表的非公式繪多到可以獨立出角色畫集的繪師之一<s>還不只一本</s>。<br><s>極大典太的真劍必殺立繪有點用力過猛而且他自己也承認了</s>
 |[https://twitter.com/zi38 Twitter]<br>[https://www.pixiv.net/users/38022 Pixiv]<br>[http://mmm-gee.net/ 個人網站]
 |-
 |べっこ
@@ -777,7 +785,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |シキユリ
 |一期一振
-|用色彩度高，但設定較粗略而且骨架有點崩，到畫極化時有進步一些。<br><s>一期一振的戰裝到底有幾排釦子似乎連繪師本人都搞不太清楚</s>
+|用色彩度高，但設定較粗略而且骨架有點崩，到畫極化時有進步一些。<br><s>一期一振的戰裝鈕釦到底是幾排似乎連繪師本人都搞不太清楚</s>
 |[https://twitter.com/kokuma28 Twitter]<br>[https://www.pixiv.net/users/983321 Pixiv]<br>[https://shikiyuri.tumblr.com/ Tumblr]
 |-
 |てく
@@ -837,12 +845,12 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |なまにくATK
 |千子村正、千代金丸、北谷菜切、治金丸
-|Nitro+社內繪師，琉球刀擔當，特徵是用偏青藍的色調來打陰影，負責《[[Thunderbolt Fantasy 東離劍遊紀|東離劍遊紀]]》的部分人設
+|Nitro+社內繪師，琉球刀擔當，特徵是用偏青藍的色調來打陰影，負責《[[Thunderbolt Fantasy 東離劍遊紀|東離劍遊紀]]》的部分人設。
 |[https://twitter.com/namaniku_atk Twitter]
 |-
 |源覚
 |蜻蛉切、祢々切丸、時間遡行軍、検非違使
-|男性，原Nitro+社內繪師<br>2020年2月宣布[[結婚]]並離職轉為自由繪師<br>與擔當蜻蛉切CV的聲優櫻井トオル跟音樂劇版本中扮演蜻蛉切的演員spi三人不時會舉辦名為「蜻蛉切会」的私人聚會
+|男性，原Nitro+社內繪師<br>2020年2月宣布[[結婚]]並離職轉為自由繪師。<br>與擔當蜻蛉切CV的聲優櫻井トオル跟音樂劇版本中扮演蜻蛉切的演員spi三人不時會舉辦名為「蜻蛉切会」的私人聚會。
 |[https://twitter.com/satoru_minamoto Twitter]<br>[https://www.pixiv.net/users/11248331 Pixiv]
 |-
 |藤未都也
@@ -867,12 +875,12 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |白峰
 |和泉守兼定、堀川国広
-|土方組擔當
+|土方組擔當。
 |[https://twitter.com/shiramine_  Twitter]<br>[https://www.pixiv.net/users/1287993 Pixiv]<br>[http://glare09.web.fc2.com/ 個人網站]
 |-
 |煮たか
 |陸奧守吉行、篭手切江、肥前忠広
-|女性，負責手遊《アイ★チュウ Étoile Stage》（中文：ICHU偶像進行曲～Étoile Stage～，2019年版本）的美術人設，近年來開始兼當[[虛擬YouTuber|Vtuber]]<br>刀亂非公式繪的數量多到可以單獨出一本圖集
+|女性，負責手遊《アイ★チュウ Étoile Stage》（中文：ICHU偶像進行曲～Étoile Stage～，2019年版本）的美術人設，近年來開始兼當[[虛擬YouTuber|Vtuber]]。<br>平常發表的非公式繪多到可以獨立出圖集的繪師之一。
 |[https://twitter.com/2tkinfo Twitter]<br>[https://www.pixiv.net/users/289725 Pixiv]<br>[http://fjktttttttttttttttt.blog133.fc2.com/blog-category-1.html 個人網站]<br>[https://www.youtube.com/channel/UCFzNUyd9B4crMbkHXeYaZOQ YouTube]
 |-
 |⑪
@@ -892,7 +900,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |小宮国春
 |大倶利伽羅、へし切長谷部、大包平
-|設定稿有表情圖。會很仔細的重畫極化後的戰鬥立繪<br>{{censored|唯一一個直到四週年時仍然沒有跪座特殊立繪的繪師，最後五週年時Nitro+找社內繪師代為補完；不過有參與五週年大祝畫}}<br>{{censored|曾一度因健康狀況欠佳調養身體，連大包平的極化立繪也沒能親自完成，官方不得不由請Niitro+繪師來代刀補完；至2025年初已恢復活動，三位角色的祝裝都是親自完成}}
+|設定稿有表情圖。會很仔細的重畫極化後的戰鬥立繪<br>{{censored|唯一一個直到四週年時仍然沒有跪座特殊立繪的繪師，最後五週年時Nitro+找社內繪師代為補完；不過有參與五週年大祝畫}}<br>{{censored|曾一度因健康狀況欠佳調養身體，連大包平的極化立繪也沒能親自完成，官方不得不由請Niitro+繪師來代刀補完；至2025年初已逐步恢復活動，三位角色的祝裝都是親自完成}}
 |[https://twitter.com/shidokenai Twitter]<br>[https://www.instagram.com/shidokenai/ Instagram]<br>[https://www.pixiv.net/users/853971 Pixiv]<br>[https://hasitanai.tumblr.com/ Tumblr]<br>[https://yomosugara.jimdofree.com/ 個人網站]
 |-
 |しばの番茶
@@ -907,7 +915,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |Izumi
 |鶴丸国永、物吉貞宗
-|女性，台灣人，負責過台灣[[UTAU]]的[[UTAU#夏語遙|夏語遙]]的人設<br>特徵是人物偏纖細<s>而且兩眼間距略大</s><br>經歷限時賭刀跟兩次活動卻都與數珠丸錯身而過直到實裝在7-4才終於入手，但太鼓鐘實裝當天直接一發入魂<br>{{censored|鶴丸戰裝的腰帶曾被某國有心人士炒作導致繪師本人遭[http://tourabuenjou.blog.fc2.com/blog-entry-16.html 炎上]}}
+|女性，台灣人，負責過台灣[[UTAU]]的[[UTAU#夏語遙|夏語遙]]的人設。<br>特徵是人物偏纖細<s>而且兩眼間距略大</s>。<br>經歷限時賭刀跟兩次活動卻都與數珠丸錯身而過直到實裝在7-4才終於入手，但太鼓鐘實裝當天直接一發入魂。<br>{{censored|鶴丸戰裝的腰帶曾被某國有心人士炒作導致繪師本人遭[http://tourabuenjou.blog.fc2.com/blog-entry-16.html 炎上]。}}
 |[https://twitter.com/izumi516/ Twitter]<br>[https://www.pixiv.net/users/379968 Pixiv]<br>[http://izumito.blog124.fc2.com/ 個人網站]
 |-
 |ウエハラ蜂
@@ -927,46 +935,46 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |猫缶まっしぐら
 |毛利藤四郎、白山吉光
-|女性，Nitro+社內繪師，以男性向作品為主，同時負責周邊刀貓男士系列的作畫，近年來開始兼當Vtuber
+|女性，Nitro+社內繪師，以男性向作品為主，同時負責周邊刀貓男士系列的作畫。<br>近年來開始兼當Vtuber。
 |[https://twitter.com/neko_gura Twitter]<br>[https://www.pixiv.net/users/12827690 Pixiv]<br>[https://www.youtube.com/channel/UCzjyy_v7mVKkrHDmOTTHoCg YouTube]
 |-
 |枢やな（樞梁）
 |日向正宗
-|女性，漫畫家，代表作為《黑執事》，自出道以來第一次設計遊戲的角色。加入前就有在個人網站發表過刀亂同人圖，設定極為精細<br>後來並擔任[[智慧型手機遊戲|手遊]]《[[迪士尼扭曲仙境]]》的美術人設<br><s>2019年1月新年限鍛期間把出貨率只有0.3%的日向升到亂舞Lv.4的真月球嬸</s>
+|女性，漫畫家，代表作為《黑執事》，出道以來首次設計遊戲角色。加入前就有在個人網站發表過刀亂同人圖，設定極為精細。<br>後來並擔任[[智慧型手機遊戲|手遊]]《[[迪士尼扭曲仙境]]》的美術人設。<br><s>2019年1月新年限鍛期間把出貨率只有0.3%的日向升到亂舞Lv.4的真月球嬸</s>
 |[https://twitter.com/toboso_official/ Twitter]<br>[https://www.yanatoboso.com/ 個人網站]
 |-
 |三杜シノヴ
 |南泉一文字
-|女性，Nitro+社內繪師
+|女性，Nitro+社內繪師。
 |[https://twitter.com/sinov_mimori Twitter]<br>[https://www.pixiv.net/users/10978985 Pixiv]
 |-
 |津田穂波
 |豊前江、桑名江、松井江、村雲江、富田江
-|女性，漫畫家，《活擊 刀劍亂舞》漫畫版的作者
+|女性，漫畫家，《活擊 刀劍亂舞》漫畫版的作者。
 |[https://twitter.com/tsuda_honami Twitter]
 |-
 |クロサワテツ
 |水心子正秀
-|男性，以男性向作品為主的繪師，用色彩度偏高
+|男性，以男性向作品為主的繪師，用色彩度偏高。
 |[https://twitter.com/fatqueen_info Twitter]<br>[https://www.pixiv.net/users/6351 Pixiv]
 |-
 |須田彩加
 |山鳥毛、日光一文字、姫鶴一文字
-|女性，特徵是細膩的畫風與厚塗的上色方式，加入前就有在個人網站發表過刀亂同人圖<br>2021年8月的姫鶴一文字限鍛[https://twitter.com/ayaka_s/status/1425364561171910660 不幸墜機]，[https://twitter.com/ayaka_s/status/1477064402449088512 直到隔年新年限鍛才終於成功接回公主]
+|女性，特徵是細膩的畫風與厚塗的上色方式，加入前就有在個人網站發表過刀亂同人圖。<br>2021年8月的姫鶴一文字限鍛[https://twitter.com/ayaka_s/status/1425364561171910660 不幸墜機]，[https://twitter.com/ayaka_s/status/1477064402449088512 直到隔年新年限鍛才終於成功接回公主]。
 |[https://twitter.com/ayaka_s Twitter]<br>[https://www.pixiv.net/users/205294 Pixiv]<br>[https://www.patreon.com/ayakasuda Patreon]<br>[http://ayakasuda.com/ 個人網站]
 |-
 |Niθ
 |鬼丸国綱
-|男性，原Nitro+社內繪師，現為自由繪師，以男性向作品為主
+|男性，原Nitro+社內繪師，現為自由繪師，以男性向作品為主。
 |[https://twitter.com/damnedrive Twitter]<br>[https://www.pixiv.net/users/61654440 Pixiv]
 |-
 |すし
-|五月雨江、八丁念仏
-|Nitro+社內繪師
+|五月雨江、八丁念仏、狐ヶ崎（未實裝）
+|Nitro+社內繪師。<br>平常偏低調，不過偶爾會在Pixiv發表非公式繪。
 |[https://www.pixiv.net/users/26164214 Pixiv]
 |-
 |lack
-|一文字則宗、孫六兼元
+|一文字則宗、孫六兼元。
 |男性，《[[Fate/Grand Order]]》的主力繪師之一<br><s>[https://twitter.com/lalalalack/status/1142616776208834560 時隔兩年終於如願以償]</s>
 |[https://twitter.com/lalalalack Twitter]<br>[https://www.pixiv.net/users/83739 Pixiv]<br>[https://lalalalack.tumblr.com/ Tumblr]<br>[https://www.threads.net/@lack_illustrator Threads]
 |-
@@ -982,19 +990,19 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |LAM
 |石田正宗
-|出身福岡的繪師，曾擔任懸疑冒險遊戲「東京CHRONOS」的美術人設
+|出身福岡的繪師，曾擔任懸疑冒險遊戲「東京CHRONOS」的美術人設。
 |[https://twitter.com/ramdayo1122 Twitter]<br>[https://www.pixiv.net/users/17429 Pixiv]<br>[https://ramdayo.tumblr.com/ Tumblr]<br>
 [https://lam-illust.com/ 個人網站]
 |-
 |望月けい
 |京極正宗
-|出身大阪現居東京的繪師，擔任過遊戲角色設計、小說、CD封面等插圖工作
+|出身大阪現居東京的繪師，擔任過遊戲角色設計、小說、CD封面等插圖工作。
 |[https://twitter.com/key_999 Twitter]<br>[https://www.pixiv.net/users/1193008 Pixiv]<br>[https://www.instagram.com/m_key_999/?__coig_restricted=1 Instagram]<br>
 [https://keymmm.tumblr.com/ Tumblr]
 |-
 |およ<br>（小羊不由己）
 |後家兼光
-|擔任[[にじさんじ|彩虹社]]部分VTuber的美設人設，也參與過FGO和《[[明日方舟]]》部分角色的人設
+|擔任[[にじさんじ|彩虹社]]部分VTuber的美術人設，也參與過FGO和《[[明日方舟]]》部分角色的人設。
 |[https://twitter.com/ohyg3 Twitter]<br>[https://www.pixiv.net/users/2151477 Pixiv]<br>[https://ohyg3.tumblr.com/ Tumblr]<br>[https://weibo.com/p/1005057377574692 微博]
 |-
 |saino
@@ -1015,7 +1023,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |二色こぺ
 |雲生、雲次
-|曾經是玩家但弄丟過一次帳號，2025年10周年活動期間重新回坑還開直播與粉絲同樂<s>而且一下來就重課金把稿費都貢獻回去了</s>
+|曾經是玩家但弄丟過一次帳號，2025年10周年活動期間重新回坑還開直播與粉絲同樂<s>而且一下來就重課金把稿費都貢獻回去了</s>。<br>在不同角色身上會嘗試不同技法，所以看上去畫風會有些差異<s>但共通點是指甲蓋都畫得很長</s>。
 |[https://x.com/nishikikope Twitter]<br>[https://www.pixiv.net/users/20583724/artworks Pixiv]
 |-
 |KiKi
@@ -1030,7 +1038,7 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 |-
 |先崎真琴
 |古備前信房
-|擔任FGO的概念禮裝和《心跳餐廳》角色人設
+|擔任FGO的概念禮裝和《心跳餐廳》角色人設。
 |[https://x.com/senzakimakoto Twitter]<br>[https://www.pixiv.net/users/82773549 Pixiv]<br>[http://senzakimakoto.com/ 個人網站]
 |-
 |岩本ゼロゴ
