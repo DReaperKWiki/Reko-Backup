@@ -1,0 +1,435 @@
+{{h0|桃子的地底王國<br>デザトピア/Dezatopia<br><s>ももいろアンダーグラウンド/Momoiro Underground</s>}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+[[File:Dezatopia00.jpg|600px|right]]
+
+==概要 ==
+* 由平凡(Hey氏)所開發的橫向地底探索STG
+** 主要內容、機設音樂由Hey包辦、[https://x.com/num706 NA][https://x.com/ykhm872 NA]和[https://x.com/syuwatto タマイタ]負責角色人設
+*** {{censored|起因由古川氏發起募資並找上Hey製作遊戲，然而古川只有為關卡舞台作曲...}}
+{{hideh|改名為Dezatopia的原因}}
+* 古川元亮參與<s>兵蜂精神續作</s>スチームパイロッツ的製作
+** 捲入與開發商Pixel的財務糾紛
+** 之後Hanaji Games重出Steam版時把古川作曲全砍並改名作優化
+*** [https://ftbplus.livedoor.blog/archives/55922390.html 相關資料]
+*** <s>這個角色人設內容多半詭異的作品、古川還會想要喔?</s>
+{{hidef}}
+* 本條目兩版一併介紹(遊戲內容不同，但有補完劇情設定)
+
+=== 系統 ===
+[[File:Paurora.png|500px]]
+* 射撃
+** 可帶集氣的自動連射、四方向各有不同的攻擊方式、全開移動會變慢:
+*** 紅(前):可彎曲的波狀砲、帶有消彈爆風
+*** 藍(下):水珠彈、帶有大水球
+*** 橘(上):高射砲、帶有爆風的燃燒彈
+*** 綠(後):可調式散射、帶有追尾鑽頭
+
+* 炸彈:橫線範圍的攻擊
+
+* 盾牌:自機耐久值非殘機(不計入無中彈條件)
+
+* 商店
+** 收集動物魂(アニマルソウル)後開啟的強化選單、須擊毀敵機或用藍射撃種植植物獲得
+*** 有射撃的強化、炸彈或盾牌的最大值增加或補充
+
+* 寶物
+** 透過射撃撃出的道具
+** Steam版改為撃破關卡中的方框顯示
+*** 作為資料室的解鎖內容(出現道具不固定)
+
+* 速度:關卡的行進速度、越快反而沒有寶物
+
+* Rank:強化敵機行動(最大999)
+
+=== 關卡流程 ===
+* 路線從A到U、前半探索後半三關固定(有條件進入塔樓頭目戰)、塔樓關→地底王→桃子
+** 標示X是直接頭目戰
+** Steam版加一個練習關、塔樓關也分拆成三種
+** 與CAVE判定背離的高容錯性(失誤、使用炸彈、不擊破頭目部件都OK)
+
+== 故事 ==
+
+ 地底下有著洞穴世界、並有各種奇怪的生物存在
+ 知道此事的桃子便僱用赤根青葉兩人，駕駛戰鬥機粉色極光/Pink Aurora進行開發
+ 通往地上的塔完成時發現了桃子的侵略計畫、因而決定反抗...
+
+== 登場人物 ==
+[[File:Akao.jpeg|500px]]
+* 赤根/アカネ/Akane
+** 身高160的高中生，粉色極光的武器控制
+
+* 青葉/アオバ/Aoba
+** 赤根的青梅竹馬、高大帥氣，粉色極光的移動操作
+*** {{censored|與上者是朋友以上、戀人未滿的關係}}
+
+* 桃子/モモコ/Momoko<br>[[File:MUWmmk.png|500px]]
+** 有利可圖的<s>貧胸</s>女子高中生、開發計畫的老闆暨本作最後三階段頭目
+*** {{censored|藉由基拉懷亞牽線接手地底界的一切、誰知道兩位打工仔突然反水了...}}
+*** {{censored|<s>塔樓貴族想方便收集人類作什麼事、她應該知情去出賣吧</s>}}
+** 專用曲:桃色のユメ/Pink Dream
+
+=== 頭目 ===
+* 會搭乘座機登場、大多一階段(射撃若控制得當足以秒殺...)
+** Steam版加入命點方框、能轟出本體<s>以證明他們命夠硬</s>
+** {{censored|有只有作者們在推特提到的裏設定}}
+
+=== 街城/City ===
+[[File:Dtc00.jpg|500px]]
+* 目標物眾多、以<s>日本</s>江戶為主題
+** 為伊野美的隨從
+*** 專用曲:{{youtube|iX0hVQUitDU|悪魔のりんご/Forbidden Fruit}}
+
+* 無家可歸的中士 豪渡/<br>ホームレス鬼軍曹 ゴードン/Gordon
+** 有著家破人亡的過去、目前傾向用暴力去解決問題
+** 座機:アーバンディスク/城圓盤、專用曲:エビシュウマイ/Shrimp Dumplings
+*** 在遊戲中想阻止根葉在城市作亂、但最終卻造成了破壞...
+** {{censored|是個有交男友的女裝基佬}}
+
+* <s>歌舞伎鼠小僧 管子→</s>熱血少爺 侏婦羅/<br>熱血御曹司 チューブラー/Chubura
+** 偏可愛風的隨從，唯一Steam版改掉立繪和稱號的角色
+** 座機:グレートロードライナー/大路車、專用曲:ええじゃないか/As You Like It
+*** 車很大但命點偏左下方
+** {{censored|有個一群慘遭(母親)人擇的兄弟姐妹}}
+** {{censored|曾去打劫喀庫利家卻失敗的事情}}
+
+* 貧血的鏢客 無名異/<br>貧血用心棒 ムミョウイ/Mumyoi
+** 經常住院的病弱，過去醫院被毀、伊野美把他送進了一家設備齊全的醫院
+*** 為了報恩才加入為伊野美的隨從{{censored|還偷她的衣服}}
+** 座機:ゴコウ・ジャックポット/豪光轉輪、專用曲:やたら長引く風邪/Sudden Prolonged Cold
+*** 會設置擋自彈的光輪<s>、剛出院卻開這會暈、與角色完全不搭的座機...</s>
+
+=== 海洋/Ocean ===
+[[File:Dto00.jpg|500px]]
+* 有阻礙自機行動的海流、以義大利為主題
+** 專用曲:{{youtube|xUXFgQ4NDE0|もっと自堕落に/More Self-Indulgently}}
+
+* 嗜血者 皮耶魯卡洛/<br>吸血魔導師 ピエルカッロ/Piercarro
+** 裝成人形的嗜血章魚
+** 座機:ザ・ランドリー/洗衣機、專用曲:水掛け論/Pointless Argument
+
+* 帶殼女將 卡魯提拉拉/<br>甲殼ホステス カルデラーラ/Kaldelala
+** 一個執著於美學的自戀狂
+*** <s>應該像是男大姐那樣的角色、英翻直接當成是女的...</s>
+** 座機:ハートフルリーゼント/傷心君主、專用曲:いじわるくん/Mean Kid
+*** 關卡朝左、一階卻有無敵時間
+
+* 甲獸 貝爾那度/<br>裝甲海坊主 ベルナルド/Bernardo
+** 擁有巨大的身軀，覆蓋著堅硬如石的外骨骼
+*** 雖然不善言辭，但他能熟練地運用多條觸手表達自己、一根豎起的觸手象徵著信任
+*** 蒂婭瑪媞的玩伴
+** 座機:ピクノゴニダ/海蜘蛛、專用曲:{{youtube|8GuF0wlgxyA|出張先のウニ丼/Sea Urchin Bowl on a Business Trip}}
+*** 關卡朝下、一階卻是外骨骼包覆的狀態
+
+=== 森林/Forest ===
+[[File:Dtf00.jpg|500px]]
+* 有阻礙自機視線的機關、以法國為主題
+** 專用曲:{{youtube|UBTLbltAc8I|楠の花/Camphor Flower}}
+
+* 速修女 吉巴絲/<br>音速シスター ジバンシー/Givenchy
+** 前強盜集團首領，打劫特雷弗時失風、後來加入其麾下
+*** 原型是天牛<s>郤沒有雙手</s>{{censored|、還能喝果汁隆乳}}
+** 座機:バイプガードナー/氛圍衛兵、專用曲:初恋インセクト/An Insect's First Love
+*** 關卡樹林會藏些東西、行動比ちちびんたリカ還快的座機
+
+* 幸福之根 夏爾尼爾/<br>幸福の根シャルネル/Charnel
+** 本體小用根代替手腳，對特雷弗不滿的急性子
+** 座機:ゴルザム/哥魯薩姆、專用曲:蛇口ひねれば水が出る/Turn the Faucet and Water Comes Out
+*** 關卡有分支迷宮、座機擅於揮動錬球
+
+* 菇蘑人咖利亞諾/<br>エリンギ魔人 ガリアノ/Galiano
+** 活佛、有著以祂為主的宗教
+** 座機:ガレコ・アムザス/加雷科・阿姆薩斯、專用曲:{{youtube|lk5zdziG5eI|きのこだし/Mushroom Soup}}
+*** 關卡有壓力機關、座機發射出廻導光線
+
+=== 山丘/Mountain ===
+[[File:Dtm00.jpg|500px]]
+* 有阻礙自機穿越的地形、以英國為主題
+** 專用曲:{{youtube|yovI-f7QwrE|アスファルトの香り/The Smell of Asphalt}}
+
+* 雙子水晶 哈拉&迪/<br>双生クリスタル ハラ＆ディ/Hala&Die
+** 原本是一個人、為了與根葉兩人對等戰鬥而分割<s>血條是共用的</s>
+*** 擁有聆聽山之聲音的能力
+** 座機:ミナガナミダ/皆子田、專用曲:国王ダンス/King's Dance
+*** 很擠的山地、雙刃突出的座機
+
+* 狂獵人 喀庫利・沙拉曼達/<br>クレイジーハンター ククリ・サラマンドラ/Khukuri
+** 嗜好是狩獵的富豪，發現稀有生物便會不惜一切代價將其捕獲
+*** [https://x.com/syuwatto/status/1299634683123101696 原型是紫水晶洞]
+** 座機:オオクビレツダ/大頸雪松、專用曲:キャラメルポップコーン/Caramel Popcorn
+*** 黃金山坡、座機配置擋彈的葡萄
+
+* 精神尼特 雷披亞/<br>サイコニート レイピア/Rapier
+** [https://x.com/syuwatto/status/1311598549679837184 戴著鉍礦面具的煤焦油狀生物]、很聰明
+** 座機:アーマスヴィン/奏捷武器、專用曲:エターナリズム/Eternalism
+*** 高速山道、會手持[[冷兵器]]的座機
+
+=== 四天王=== 
+[[File:Dt400.jpg|500px]]
+* 桃子麾下的頭目
+** 外觀設定與[https://x.com/oplant たなか麦]畫的兩作合輯插圖有出入
+*** 像伊野美的外型、蒂婭瑪媞的大小及特雷弗的手指
+
+* 憤怒犬 伊野美/<br>獅子奮迅 イノメちゃん/Inome
+** 街城的領導者、性格優雅，戰鬥時有兇暴的一面
+*** 被特雷弗撿到並撫養長大的棄嬰<s>，雖然長得與薇洛西很像</s>
+** 座機:イノノノメ/岩野雲、專用曲:{{youtube|1dRaECWNWeU|風の船/Wind Ship}}、アクロバティック花見/Acrobatic Flower Viewing
+*** 犬耳→飛彈→手裡劍、有時會撞上自機
+** {{censored|有複乳，原本就是狂犬、被特雷弗拷打養成弱氣性格}}
+
+* 海的勝利者 蒂婭瑪媞/<br>海內無双 ディアマンテ/Diamante
+** 體長超過10米幼鯨、地底界瀕危物種
+*** 被桃子撿到並梳妝打扮
+** 座機:ボエーラ・ディガンタス/鍋爐醒酒器、專用曲:{{youtube|7JjleliZGtg|バンジージャンプ/Bungee Jump}}、太平洋ど真ん中/Middle of the Pacific
+*** 一階段、但體積龐大有源源不絕的炮擊
+
+* 環境的指揮官 特雷弗/<br>機略縱橫 トレフル/Trefle
+** 咖利亞諾教的神父、在森林中培育生物種子孤兒的組織首領
+*** 同時也是伊野美的養父<s>，雖然長得與利茲很像</s>{{censored|、卻是有暴力傾向的老頭(約60歲)}}
+** 專用曲:{{youtube|AMHNTAZ-DQs|電光掲示板/Electric Scoreboard}}、月面探査/Moon Exploration
+*** 有外皮包著、命點在上半身<s>常困在畫面外</s>
+
+* 頑執的獨行俠 薩貝魯/<br>狷介孤高 サーベル/Sabel
+** 原為地上界製藥公司的試藥實驗動物、有結紮過
+*** 後來離家出走被桃子撿到，在地底界長大成少年的模樣
+*** 奉桃子的命令，擔任山地守衛隊的隊長
+** 專用曲:{{youtube|e_fR8EJhF-g|言い間違い/Verbal Slip}}、騒擾の街/Riotous City
+*** 階段最多最難打、具有多段光束的宇宙艦
+
+=== 塔樓/Tower ===
+[[File:Dtt00.jpg|500px]]
+* 居住在塔樓的貴族、以水果為主題{{censored|，並揭示會殘忍虐待人類}}
+** 專用曲:{{youtube|5nCUJEXsvAI|ドラッグデザイナー/Drug Designer}}
+
+* 酸性公主 蕾妮歐茉莉・比安卡・弗勒/<br>酸性プリンセス レネオモーレ・ビアンカ・フーラー/Leneomore Bianca Fuller
+** 專用曲:私だけの地獄/My Inferno
+** 原型是檸檬，戴著義肢、座機像是掛衣架郤會瞬移
+** {{censored|生殖器官是長在頭部，過去被人類背叛而有斷手過}}
+*** {{censored|不時會綁架小孩並挖他們的眼珠子}}
+
+* 豪腕執事 山陽三度/<br>鐵腕バトラー ミタビ・サンヨウ/Mitabi Sanyo
+** 從準備飯菜到招待客人，他全心全意地支持著主人
+*** 另一方面，他對其他人表現出的禮貌完全是表面功夫
+*** 原型是奇異果、座機原為薩貝魯的設定廢案
+** 專用曲:注文したのに届かない/The Order Hasn't Arrived
+** {{censored|身上的飾品是基拉懷亞拿人骨作給他的}}
+
+* 絕食的聖騎士 基拉懷亞・葛拉比雅德/<br>絕食パラディン キラウエア・グレイブヤード/Kilauea Graveyard
+** 塔內精英、擁有各自獨立行動的六個大腦，崇尚純粹無私的友誼
+*** 原型是葡萄、座機快速遊動(可以用攻擊打斷)
+** 專用曲:空へ/To the Sky
+** {{censored|會用人皮製作服裝}}
+*** {{censored|本作黑幕、為了收集人皮材料去渉谷找上桃子合作、進行侵略地上界的計劃}}
+
+* 地底王<br>理歐那魯德・葛雷迪/<br>ロード・オブ・アンダーグラウンド レオナルド・グレネイド/Leonard Grenade
+** 地下世界的偉大帝王
+*** 他充滿力量、威嚴和慈悲，深受臣民的敬重
+*** 在領土戰爭時期，他將整個國家劃分為四個區域，並建立了秩序
+*** 如今，他的目標是在地表上拓展自己的統治
+** <s>名字大概取自能源之嵐的、架空的王、掉格的王，</s>[https://t.co/GHQUr8uhWw 面具下的樣子是吃完的蘋果]
+** 專用曲:
+*** もう限界です/Can't Take Any More
+*** 本能には逆らえない/Instinct is Irresistible
+*** 超絶絶体絶命命令/Supreme Desperate Final Command
+
+==參考資料 ==
+* [https://store.steampowered.com/app/1178290/Dezatopia/ Steam官網]
+** [https://hey-stg.blogspot.com/2020/06/dezatopia.html DEZATOPIA_まとめ記事](角色資料)
+** <s>[http://momoiroug.blog.fc2.com/ ももいろアンダーグラウンド公式]</s>(頭目戰資料)
+** [[同人STG系列作品列表]]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+<!--
+-------------------------------
+Akane
+A high school student living in the city,
+sunner of the Pink Aurora, and Aoba's childood friend.
+Whenever the whole class lined up by height, he was almost always at the front.
+His main interest is video games, and he usually ends up playing what's popular.
+Hewould rather be by hinself than around girls but doesn't nind Aoba's company.
+Even so, he does get frustated at Aoba's knack for causing trouble.
+Favorite food: Tri-color mochi
+
+Aoba
+A high school student living in the city,
+navigator of the Pink Aurora, and Akane's childood friend.
+Gentle, slender, and handsome, he catches the attention of all the girls.
+However, ha keeps them at arm's length in favor of flirting with Aoba.
+Favorite food: Fried convenience stone fare
+
+Momoko
+A high school student living in the city
+wwho is also a company president regardless of her young age.
+She tries to establish uniqueness in every aspect of herself,
+from her style to her attitude to her speech.
+Favorite thing:Money
+-----
+city
+
+Gordon homeless sergeant
+The dense one of Inome's retinue.
+He tends to solve all his problems through violence but can be thoughtful if weepy.
+His stone armor was tied directly to his coat by Mumyoi.
+Favorite food: Salmon
+
+Chubura theatric rodent
+The tiny one of Inome's retinue.
+His voice and attitude can't be contained by his notepab-sized body.
+His long braid was tied by Mumyoi.
+Favorite food:  Chese on fried tofu while watching kabuki theater
+
+Mumyoi anemic bodyguard
+The skinny one of Inome's retinue.
+He's underweight with poor constitution and low blood presure.
+Hoever, his nimble fingers can tie a bowline knot in 3 seconds.
+Favorite food: Boiled eggplants
+
+Inome Furious One
+Leader of the underground village with the help of three loyal servants.
+Her grace and serenity makes her greatly adored by the residents.
+However, enemies only see her as a eaging berserker who fights to exhaustion.
+She returns to mormal after waking up form her battle high.
+Despite this troublesome transformation, her sense of justice remains consistent.
+Favorite food: Raw bloody meat
+
+-----
+Ocean
+Piercarro blood sucker
+Assumes human form with Clever use of a pancake devilfish's membrane and seaweed to hide the dact he is actually flat.
+His strange behavior frightens even others of his kind.
+He was once obsessed ith sucking blood until ha realized it as making it hard for him to advance socially.
+He himself is said to have a very sweet and rich taste like gourmet candy.
+Favorite food: Fresh blood in type AB.
+
+Kaldelala shelled hostess
+A narcissist fixated on aesthetics.
+She boasts of being the most beautiful sight in the ocean.
+Forthis reason, she is jealously scornful of anything that steals attention away from her,
+particularly if they are shiny.
+She spreads her attached body parts like a peacock to create a truly gaudy display.
+She supposedly tastes like shrimp.
+Favorite food: Sand and microbes.
+
+Bernardo armored moster
+Has a huge body covered with a rock-hard exoskeleton.
+Although poor at speaking, he deftly uses his multple tentacles to express himself.
+One raised appendage is a sign of trust.
+He and the simlarly wordless Diamante are able to understand each other by instinct.
+Diamante often pets him like a stuffed animal.
+Favorite things:  Seaweed and coral (he doesn't seem to eat) 
+
+Diamante sea champion
+A young whale.
+Measuring over 10 meters in length, she's larger than anything elase in the subtereanean world.
+She's both an endangered species and orphaned but instinctively knows the other sea creatures are like family to her.
+Her white swimsuit and hairstyle were specially prepared by Momoko, so she's very fond of them.
+Because of her young age, she can't yet speak well and lacks tact.
+In extreme cold, she rarely leaves the water.
+Favorite food: The fish that Momoko feeds her
+
+-----
+Forest
+Givenchy sift sister
+The former lader of a bandit gang.
+She ambushed hae targets from behind to steal thir possessions for the sake of empowering herself.
+This was until she attacked Trefle's squad, who soundly best her back.
+She had a change of heart after he gave her a fierce upbraiding and even fell in love with him.
+In the hopes of catching his attention,
+ she follows him loyally and is alays looking for ways increase her feminine appeal,
+ such as gathering water in her chest to mimic mammary glands.
+Favorite food: Fruit juice
+
+Charnel root of fortune
+Has secluded himself inside a dome of moss and dead leaves and is usually found in damp, dark places.
+He can produce root-like protrusions from his body to sense his environment and absorb nutrients.
+Because of his dark, rebellious personality, he has on patience for Trefle's militaristic attitude.
+Favorite food: Soil with weak alkaliniky
+
+Galiano mushroom moster
+A giant mushroom once grew from a pile of dead creatures.
+In order to purify the grudge of those spirits, the mustroom was deified.
+It appreciated this so much that it took on a life of its own.
+Able to move and see like the others, it became known as Galiano.
+Favorite food:Unflavored agar-agar
+
+Trefle abaptable commander
+The head of an organization that raises orphaned creatures seed in the forest.
+The latest in a long line of defenders, he's extremely quick to lash out with both his tongue and his whip called "Command."
+He found Momoko's bravery in coming underground alone deeply impressive and adores her like a goddess.
+Despite appearances, he's not athletically inclined and prefers the indoors.
+He's also good at string figures.
+Favorite food:Spring grass
+
+-----
+Mountain
+
+Hala&Die twin crystals
+Originally a crystal with a single mind.
+The news about Akane and Aoba fighting together inspired hin to split into two separate entities.
+One side is the older brother and the other is the younger, but telling them apart is difficult since their colors and shapes change over time.
+They have the ability to hear the voice of the mountain.
+Favorite food:Brine
+
+Khukuri crazy hunter
+An animal hunter and wealthiest being on the mountain.
+Once he spots a rare creature, he'll stop at nothing to bag it.
+For that reason, the rest of the underground sees him as highly dangerous.
+When not hunting, he'll parade about the town clad in his newest trophies.
+It's obvious they belonged to those who recently went missing while mountain-bound, but everyone tries to ignore it.
+He dotes on his wife and eight children.
+Favorite food:Hardtack
+
+Rapier psycho neet
+Appears to be covered in a prismatic stone but is actually made of coal tar so lacks a fixed shape.
+A long time ago, he ventured above ground and learned a human tongue.
+Despite his relatively quick thinking and expressiveness, he feels he can't utilize effectively.
+Favorite food:A syrupy drink of equal parts coffee and sugar
+
+Sabel stubborn loner
+Was once kept as a test subject in a pharmaceutical company on the surface.
+That resulted in his deep fear of himans, but he holds a special trust in Momoko.
+His pierced ear shows he was castrated but his outfit was made by her.
+The countless experimental drugs he was given while in capivity has left him nearly emotionless.
+He serves as leader of the mountain defenders at Momoko's behest.
+Favorite food: Whatever
+-----
+Tower
+
+Leneomore Bianca Fuller acidic princess
+Has four prosthetic arms which she is proficient in using.
+Her strong attachment to children drives her to sneak up to the surface and abduct them.
+She treats them like humans treat pets, deriving great joy from dressing them in gaudg outfits and iron masks.
+Favorite food: Tuna eyes
+
+Mitabi sanyo refined strongarm
+From preparing meals to welcoming guests, he provides full support for his master.
+On the other hand, the courtesy he shos to anyone else is entirely superficial.
+His hobby is coating the bones of small animal ith gold to make accessories.
+Favorite food:Almonds and dried sardines
+
+Kilauea Graveyard fasting paladin
+A proud, elite resident of the tower with an insatiable curiosity.
+Each of his six heads has their own independent brain.
+When used in tandem, they can quicky analyze any situation to make the proper decisions.
+The upholstery of the tower's furnishings and his animal hide outfits are of his own design.
+He asmires purely altruistic friendships.
+Favorite food:Blueberry scones
+-----
+Leonard Grenade
+The grand emperor of hhe underground world.
+Overflowing with strenth, majesty,and compassion,
+he commands a deep, genuine respect from his subjects.
+He established order by dividing the realm into four areas when it was locked in a territorial war.
+Now, he his sights set on expanding his reign above the surface.
+He also has a preference for light-skinned women.
+Favorite food: Monkfish liver
+-->
+
+[[分類:射擊遊戲]]

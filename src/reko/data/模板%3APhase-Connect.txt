@@ -1,0 +1,44 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name       = Phase-Connect
+|title      = [[Phase-Connect]]
+
+|group1     = Phase-Connect
+|list1      = 
+{{Navbox subgroup
+|name       = Phase-Connect藝人
+|groupstyle = width:13%;
+|group5     = Phase-01<br>Phase OriginS
+|list5      = [[Lia|⚡️🪼Rinkou Ashelia]]・[[転寝ナサ|🛌🌟転寝ナサ]]・[[Pipkin Pippa|🔌🐰Pipkin Pippa]]・[[Tenma Maemi|🍶🦊Tenma Maemi]]・[[白鹿いおり|🍴🦌白鹿いおり]]・[[Fujikura Uruka|🐻🎻Fujikura Uruka]]・[[紫翠みちる|🗝✡️紫翠みちる]]
+|group6     = Phase-02<br>Phase ALiAS
+|list6      = [[Komachi Panko|🎋🍭Komachi Panko]]・[[Makina Erina|🐯⚙️Makina Erina]]・[[Amanogawa Shiina|✂️✨Amanogawa Shiina]]・[[Himemiya Rie|👑💌Himemiya Rie]]・[[Remilia Nephys|🖤❤️Remilia Nephys]]・[[Chisaka Airi|🐺🎖Chisaka Airi]]
+|group7     = Phase Invaders
+|list7      = 
+
+{{Navbox subgroup
+|groupstyle = width:5%;
+|group1     = Phase Invaders Wish
+|list1      = [[Kaneko Lumi|💫💥Kaneko Lumi]]・[[Dizzy Dokuro|🐛🪢Dizzy Dokuro]]・[[Jelly Hoshiumi|🌠🎀Jelly Hoshiumi]]・[[Ember Amane|❤️‍🔥🐈‍⬛Ember Amane]]
+|group2     = Phase Invaders QUEST
+|list2      = [[Clio Aite|📚⚔️Clio Aite]]・[[Mari Mari|🐟👑Mari Mari]]・[[Eepy Sleepy|🐸💤Eepy Sleepy]]
+|list3     = <s>[[Fuura Yuri|🌃❄️Fuura Yuri]]</s>
+}}
+
+
+|group8     = Phase-03<br>Phase Euphoria
+|list8      = ''[[Saya Sairroxs|🐲🔥Saya Sairroxs]]''・[[Runie Ruse|📜🖋Runie Ruse]]・[[Muu Muyu|🐮⚗Muu Muyu]]・[[Hikanari Hina|🌙🐣Hikanari Hina]]・[[Eimi Isami|🐹❤️‍🩹Eimi Isami]]
+
+|group9     = Phase-04<br>Phase Saga
+|list9      = [[Nitya Nil|🐊🎀Nitya Nil]]・[[Anya Nyabyss|🐈‍⬛Anya Nyabyss]]・[[Wilhelmina Frost|🗡❄️Wilhelmina Frost]]・[[Sinon Sincornia|🐚🫧Sinon Sincornia]]・[[Malice Evermore|⌛👁Malice Evermore]]・[[Bibi Biscuit|🥄🍪Bibi Biscuit]]
+}}
+
+|group2     = Phase JP
+|list2      = 
+{{Navbox subgroup
+|groupstyle = width:13%;
+|group1     = Phase KALEiDO
+|list1      = [[巫ロキ|🌓巫ロキ]]・[[絢世ユウ|🕵️💎絢世ユウ]]・[[歌美鳴クララ|🍾⚡歌美鳴クララ]]・[[恋衣めもり|🍬🩷恋衣めもり]]・[[倉夢ぴこ|🤍🐕倉夢ぴこ]]
+}}
+
+}}
+<noinclude>[[Category:Phase-Connect]] [[分類:特定主題使用模板]]</noinclude>
