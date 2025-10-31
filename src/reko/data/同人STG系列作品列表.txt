@@ -476,7 +476,11 @@
 * Banisher
 * Contlade
 * Blaynix
-* 壊漢　-KAIKAN-
+{{hideh|壊漢-KAIKAN-}}
+* 射擊與炸彈固定、只能儲存一個炸彈，副武器各不同(A到F:汽油彈、散射、導引、火柱、爆風、消彈)
+** 未常壓射擊能吸收道具、配合炸彈能增加得分，Boss戰的移動連畫面也會跟著轉，真Boss條件須不續關
+*** Steam版為Ver-S，音樂、畫面設計等要素修改
+{{hidef}}
 * TinyXEVIVOS
 * VASTYNEX
 * ZAKESTA
@@ -491,6 +495,11 @@
 * Moon Dancer
 * Terra Flame
 * Star Gagnant
+
+===[https://www.futureruler.net/ 未來定規]===
+* WonderfulWorld
+* Chaos World
+* 香峰村流星奇譚
 
 ===[http://aihisna.web.fc2.com/game.html Aihisna]===
 * 八重の妖泉華(I、Ⅱ、Ⅲ)
@@ -577,7 +586,7 @@
 ** 關卡增加路線(2B到5B及5C)難度更高{{censored|並新增一個好結局}}
 *** [https://rekowiki.org/w/images/7/7a/MRitz2022.png 自爆結局的泳裝改了]<s>[https://rekowiki.org/w/images/b/b5/MRitz2015.png 微小比基尼還是不能在Steam放行]</s>
 {{hidef}}
-* 桃子的地底王國/ももいろアンダーグラウンド/Dezatopia
+* [[Dezatopia]]
 
 ===[http://www2.spacelan.ne.jp/~neko/ 猫又刃]===
 {{hideh|魂集/スピリットコレクト}}
@@ -589,7 +598,32 @@
 {{hidef}}
 
 ===[https://web.archive.org/web/20230921080649/http://www.saturn.dti.ne.jp/taq/ 彩風屋]===
-* 紅ぼうきのマリア
+{{hideh|紅色掃帚的瑪利亞/紅ぼうきのマリア}}
+* 射擊直向及三種屬性的耗能補助射擊(風/V字、火/慢爆彈、雷/貫通雷射<s>竟然沒水屬性</s>)
+** 以特定條件通關能取得稱號(僅記錄重播檔案有效)
+** 想成為魔法師的瑪利亞去參魔法學校的獎學金競速比賽
+*** {{censored|中途驅逐散播瘴氣的魔法病毒、使得比賽告吹...}}
+{{hidef}}
+
+===[http://nishinotoro.web.fc2.com/ とろあ～と]→[https://x.com/toronishino 西野とろ]/[https://www.pixiv.net/users/1250433 Pixiv]===
+{{hideh|蒔和蒂爾的冒險/テンとティルの冒険/ The Adventures of Ten and Till}}
+* 兩位角色擔任一架自機可透過切換使用
+** 劍士蒔(直向)和舞孃蒂爾(散射，Steam版加件外衣)，S射程短偏強、可惜對真Boss不適用(拉近會開屏障)
+{{hidef}}
+
+===[http://web.archive.org/web/20170908000338/http://www.h7.dion.ne.jp/~icewind/yuki-usa/ ふろーずんおーぶ]===
+*Diadra Empty
+
+===[http://web.archive.org/web/20200117161450/http://temperancelance.under.jp/category/product TemperanceLance]===
+*Patriot Dark
+*Ring^-27
+
+===[https://matyla.info/index.htm MATYLA]→[https://twitter.com/Moneto Moneto]===
+* Starlight Illusion
+* Luna Tempest
+* Phantom Sol
+* Terra Arcadia
+* Astraea Mirage
 
 ==二創作品==
 {{hideh|作品}}
