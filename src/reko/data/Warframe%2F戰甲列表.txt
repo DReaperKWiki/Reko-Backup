@@ -887,6 +887,9 @@
 ** 第二套以電為主題的戰甲。
 ** 專屬武器是電球步槍Alternox，Gyre裝備時增加20%多重射擊。
 
+* Gyre Prime
+** 同時推出的是電球步槍Alternox Prime和回力鏢紅隼Prime。
+
 * Styanax
 ** 以長矛和盾牌為主題的戰甲。
 
