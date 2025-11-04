@@ -1,0 +1,15 @@
+{{color|red||'''Reko Wiki 目前沒有此條目'''}}
+
+----
+
+您可以：
+
+* 在 reko wiki [[Special:Search/{{PAGENAME}}|搜尋此頁面標題]]
+* <span class="plainlinks">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAME}}}} 搜尋相關日誌]</span> ，檢查本頁面是否曾被刪除。
+* 在舊 Komica wiki 的備份中搜尋：
+** 在 Komica Wiki google 頁庫存檔搶救計畫的檔名中搜尋： https://mwzhx.github.io/komicawiki-backup/index-browser.html?q={{urlencode:{{PAGENAME}}}}
+** 在舊 PukiWiki 鏡像站 [https://wiki.zawarudo.org/wiki5/?{{urlencode:{{PAGENAME}}}} 檢查本頁面是否存在] 、 [https://wiki.zawarudo.org/wiki5/?cmd=search2&q={{urlencode:{{PAGENAME}}}} 搜尋本頁面標題]
+** 在 Web Archive 中檢查本頁面是否存在： https://web.archive.org/web/*/https://wiki.komica.org/{{urlencode:{{PAGENAME}}}}
+
+如果您想 <span class="plainlinks">[{{fullurl:{{FULLPAGENAME}}|action=edit}} 建立此頁面]</span> ，需要先 [[Special:CreateAccount|建立帳號]] 且認證 e-mail 。
+如要建立曾被刪除的頁面，建議先行溝通與提供充分理由。

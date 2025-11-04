@@ -1,0 +1,17 @@
+您正連結至一頁不存在頁面。要建立該頁面，請在下方的編輯方塊中輸入內容（詳情請參考[$1 說明頁面]）。如果您是不小心來到此頁面，請點選瀏覽器的<strong>返回</strong>按鈕。
+
+----
+
+在建立之前您可以：
+
+* 在 reko wiki [[Special:Search/{{PAGENAME}}|搜尋此頁面標題]]
+* <span class="plainlinks">[{{fullurl:{{#Special:Log}}|page={{FULLPAGENAME}}}} 搜尋相關日誌]</span> ，檢查本頁面是否曾被刪除。如要建立曾被刪除的頁面，建議先行溝通與提供充分理由。
+* 在舊 Komica wiki 的備份中搜尋：
+** 在 Komica Wiki google 頁庫存檔搶救計畫的檔名中搜尋： https://mwzhx.github.io/komicawiki-backup/index-browser.html?q={{urlencode:{{PAGENAME}}}}
+** 在舊 PukiWiki 鏡像站 [https://wiki.zawarudo.org/wiki5/?{{urlencode:{{PAGENAME}}}} 檢查本頁面是否存在] 、 [https://wiki.zawarudo.org/wiki5/?cmd=search2&q={{urlencode:{{PAGENAME}}}} 搜尋本頁面標題]
+** 在 Web Archive 中檢查本頁面是否存在： https://web.archive.org/web/*/https://wiki.komica.org/{{urlencode:{{PAGENAME}}}}
+
+如果您要建立此頁面：
+
+* 若是從備份中重建，您可以使用 Komica Wiki google 頁庫存檔搶救計畫開發的 [https://mwzhx.github.io/komicawiki-backup/index-browser.html html 至 wiki 語法轉換器]
+* 重建前您可以檢查 [[Special:WhatLinksHere/{{FULLPAGENAME}}|本 wiki 中有多少頁面連結到本條目]]
