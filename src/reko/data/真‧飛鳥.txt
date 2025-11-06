@@ -1,4 +1,4 @@
-{{h0|{{Color||Darkblue|{{Color|Maroon||真‧飛鳥/シン・アスカ<s>/路人（妹控）真 /小鳥</s>}}}}}}
+{{h0|{{Color||Darkblue|{{Color|Red||真‧飛鳥/シン・アスカ<s>/路人（妹控）真 /小鳥</s>}}}}}}
 
 {| class="wikitable" style="margin:1.5em auto;"
 |-
