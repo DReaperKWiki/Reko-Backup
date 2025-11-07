@@ -2918,8 +2918,9 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%8D%97%E6%B5%B7%E5%A4%AA%E9%83%8E%E6%9C%
 
 === 桑名江 ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E6%A1%91%E5%90%8D%E6%B1%9F/::ref/%E6%A1%91%E5%90%8D%E6%B1%9F.png
+https://static.wikia.nocookie.net/touken-ranbu/images/a/a4/Kuwana-Kiwame.png
 * 繪：津田穂波。CV：[[伊東健人]]。演：福井巴也 (音樂劇)。
-* 刀帳編號：172番。刀派：江。身高：180&nbsp;cm。
+* 刀帳編號：172番→173番。刀派：江。身高：180&nbsp;cm。
 * 初期數值：
 {|class="wikitable"
 |生存
@@ -2957,8 +2958,8 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E6%A1%91%E5%90%8D%E6%B1%9F/::ref/%E6%A1%91
 ** <s>不開口是原宿系高冷陰キャ美男，實則是開朗又樸實的電波農業宅的陽キャ[[殘念帥哥]]</s>
 * 對於同在本多家的蜻蛉切非常尊敬<s>迷弟</s>，甚至於使用「蜻蛉切様」這樣的敬稱。
 * 腰上掛的護目鏡在戰鬥時會戴上，開真劍時可以從碎掉的鏡片中間看到眼瞳{{censored|是金黃色}}。
-* 2025/11/4更新後開放極化。
 ** <s>穿衣顯瘦再+1</s>
+* 2025/11/4更新後開放極化。
 * <s>江尼斯戰隊黃戰士</s>
 * <s>米津剣士</s><ref>捏他自髮型相似的歌手米津玄師，而且日語中「玄師」與「剣士」同音。</ref>
 * <s>GAL GAME系男主角</s>
@@ -3049,8 +3050,9 @@ https://static.wikia.nocookie.net/touken-ranbu/images/9/9b/Minamoto.png
 
 === 松井江 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/b/b3/Matsui.png
+https://static.wikia.nocookie.net/touken-ranbu/images/b/bb/Matsui-Kiwame.png
 * 繪：津田穂波。CV：土岐隼一。演：笹森裕貴 (音樂劇)。
-* 刀帳編號：178番。刀派：江。身高：176&nbsp;cm。
+* 刀帳編號：178番→179番。刀派：江。身高：176&nbsp;cm。
 * 初期數值：
 {|class="wikitable"
 |生存
@@ -3082,8 +3084,8 @@ https://static.wikia.nocookie.net/touken-ranbu/images/b/b3/Matsui.png
 *** <s>[[吸血鬼]]</s>
 ** <s>似乎相當精通Excel</s><ref>戰績台詞，會幫審神者把戰績整理製作成更清楚明瞭的表格。</ref>
 ** 帶他去萬屋時會提醒審神者切勿做出不必要的錢財花費，捏他自原主松井興長曾為了勸說主君細川綱利不要奢侈無度，而特意上書勸諫。
-* 自稱最能理解他的只有兩個人，其中之一是豐前江，另外一位則保密不願提。
 * 2025/11/4更新後開放極化。
+* 自稱最能理解他的只有兩個人，其中之一是豐前江，另外一位則保密不願提。
 * <s>江尼斯戰隊藍戰士</s>
 
 === 地藏行平（地蔵行平） ===
