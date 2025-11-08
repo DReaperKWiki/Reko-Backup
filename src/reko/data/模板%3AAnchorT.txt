@@ -1,0 +1,22 @@
+<span class="rekowiki-anchort">{{{1}}}{{anchor|{{{1}}}}}</span><noinclude>
+
+== 使用說明 ==
+<nowiki>同時標記錨點與生成文字，如 {{AnchorT|錨點}} 生成 `錨點{{anchor|錨點}}` </nowiki>{{AnchorT|錨點}} ， <nowiki>{{AnchorT|錨點2|錨點文字}}</nowiki> 生成 `錨點文字<nowiki>{{anchor|錨點2}}</nowiki>` {{AnchorT|錨點2|錨點文字}} 。
+{| class="wikitable"
+|+錨點模版對照表
+!語法
+!單參數
+|-
+|wiki 語法
+|<nowiki>{{AnchorT|錨點3}}</nowiki>
+|-
+|wiki語法展開
+|<nowiki><span class="rekowiki-anchort">錨點3{{anchor|錨點3}}</span></nowiki>
+|-
+|html原始碼
+|<nowiki><span class="rekowiki-anchort">錨點3<span id="錨點3"></span></nowiki><nowiki></span></nowiki>
+|-
+|html
+|<span class="rekowiki-anchort">錨點3</span>
+|}
+</noinclude>
