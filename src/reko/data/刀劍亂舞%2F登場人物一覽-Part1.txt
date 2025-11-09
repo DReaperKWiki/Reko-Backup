@@ -2919,7 +2919,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%8D%97%E6%B5%B7%E5%A4%AA%E9%83%8E%E6%9C%
 === 桑名江 ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E6%A1%91%E5%90%8D%E6%B1%9F/::ref/%E6%A1%91%E5%90%8D%E6%B1%9F.png
 https://static.wikia.nocookie.net/touken-ranbu/images/a/a4/Kuwana-Kiwame.png
-* 繪：津田穂波。CV：[[伊東健人]]。演：福井巴也 (音樂劇)。
+* 繪：津田穂波{{ref|極化後的刀帳改為「ニトロプラス・津田穂波」並列表記。|Nitro+津田}}。CV：[[伊東健人]]。演：福井巴也 (音樂劇)。
 * 刀帳編號：172番→173番。刀派：江。身高：180&nbsp;cm。
 * 初期數值：
 {|class="wikitable"
@@ -3051,7 +3051,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/9/9b/Minamoto.png
 === 松井江 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/b/b3/Matsui.png
 https://static.wikia.nocookie.net/touken-ranbu/images/b/bb/Matsui-Kiwame.png
-* 繪：津田穂波。CV：土岐隼一。演：笹森裕貴 (音樂劇)。
+* 繪：津田穂波{{ref||Nitro+津田}}。CV：土岐隼一。演：笹森裕貴 (音樂劇)。
 * 刀帳編號：178番→179番。刀派：江。身高：176&nbsp;cm。
 * 初期數值：
 {|class="wikitable"

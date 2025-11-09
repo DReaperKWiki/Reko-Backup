@@ -1,0 +1,19 @@
+<abbr title="{{{1}}}">{{{2|[?]}}}</abbr><noinclude>
+== 說明 ==
+* 產生縮寫文字與原名的模版，滑鼠停留在本模板上時會顯示原名。
+* 請不要將 Abbr 用在非縮寫的場合，如果只是需要附加說明，可以使用 [[Template:Ref]] 。
+* 於中文翻譯名詞上附加外文原文算是一種合理使用。
+
+== Usage ==
+The template takes two unnamed parameters.
+
+; <code>1</code>
+: <kbd><var>meaning</var></kbd> – the expansion or definition of the abbreviated term; shows as the popup when you hover over the <kbd><var>abbreviation</var></kbd>. '''No wikimarkup''' an be used in this parameter.
+; <code>2</code>
+: <kbd><var>abbreviation</kbd></var> – the abbreviation, acronym, or initialism to be explained; shows as text, and may use wikimarkup, such as a link to an article about what it refers to.
+
+== Example ==
+<code><nowiki>{{abbr|Wikimedia Foundation|WMF}}</nowiki></code> → {{abbr|Wikimedia Foundation|WMF}}
+
+<code><nowiki>{{abbr|喬瑟夫‧喬斯達|二喬}}</nowiki></code> → {{abbr|喬瑟夫‧喬斯達|二喬}}
+</noinclude>
