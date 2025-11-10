@@ -11,10 +11,10 @@
 | evenstyle  = background: #f9f9f9;
 | state      = expanded
 | group1     = 宇宙世紀
-| list1      = [[機動戰士鋼彈]]・[[機動戰士鋼彈第08MS小隊|{{Color|black||08MS小隊}}]]・[[機動戰士鋼彈0080：口袋裡的戰爭|{{color|deepblue||口袋裡的戰爭}}]]・[[機動戰士鋼彈0083：星塵回憶|{{color|black||星塵回憶}}]]・[[機動戰士鋼彈 GQuuuuuuX|{{color|black||GQuuuuuuX}}]]
-・[[機動戰士Z鋼彈|{{color|deepblue||Z}}]]・[[鋼彈前哨戰|前哨戰]]・[[機動戰士鋼彈ZZ|{{color|deepblue||ZZ}}]]・[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]・[[機動戰士鋼彈UC|{{color|red||UC}}]]・[[機動戰士鋼彈NT|{{color|red||NT}}]]・[[機動戰士鋼彈 閃光的哈薩威|{{color|black||閃光的哈薩威}}]]・[[機動戰士鋼彈F91|{{color|red||F91}}]]・[[機動戰士V鋼彈|{{color|yellow||V}}]]
+| list1      = [[機動戰士鋼彈]]・[[機動戰士鋼彈第08MS小隊|{{Color|black||08MS小隊}}]]・[[機動戰士鋼彈0080：口袋裡的戰爭|{{color|darkblue||口袋裡的戰爭}}]]・[[機動戰士鋼彈0083：星塵回憶|{{color|black||星塵回憶}}]]・[[機動戰士鋼彈 GQuuuuuuX|{{color|black||''GQuuuuuuX''}}]]
+・[[機動戰士Z鋼彈|{{color|darkblue||Z}}]]・[[鋼彈前哨戰|前哨戰]]・[[機動戰士鋼彈ZZ|{{color|darkblue||ZZ}}]]・[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]・[[機動戰士鋼彈UC|{{color|red||UC}}]]・[[機動戰士鋼彈NT|{{color|red||NT}}]]・[[機動戰士鋼彈 閃光的哈薩威|{{color|black||閃光的哈薩威}}]]・[[機動戰士鋼彈F91|{{color|red||F91}}]]・[[機動戰士V鋼彈|{{color|yellow||V}}]]
 | group2     = 非宇宙世紀
-| list2      = [[機動武鬥傳G鋼彈|{{color|deepblue||G}}]]・[[新機動戰記鋼彈W|{{color|yellow||W}}]]・[[機動新世紀鋼彈X|{{color|red||X}}]]・[[∀鋼彈|{{color|deepblue||∀}}]]・[[機動戰士鋼彈SEED系列|SEED・SEED Destiny]]・[[機動戰士鋼彈00|{{color|green||00}}]]・[[機動戰士鋼彈AGE|{{color|red||AGE}}]]・[[鋼彈 Reconguista in G|{{color|gold||G復國}}]]・[[機動戰士鋼彈 鐵血孤兒|{{color|black||鐵}}{{color|red||血}}{{color|black||孤兒}}]]・[[機動戰士鋼彈 水星的魔女|{{color|black||水星的魔女}}]]
+| list2      = [[機動武鬥傳G鋼彈|{{color|darkblue||G}}]]・[[新機動戰記鋼彈W|{{color|yellow||W}}]]・[[機動新世紀鋼彈X|{{color|red||X}}]]・[[∀鋼彈|{{color|darkblue||''∀''}}]]・[[機動戰士鋼彈SEED系列|SEED・SEED Destiny]]・[[機動戰士鋼彈00|{{color|green||00}}]]・[[機動戰士鋼彈AGE|{{color|red||AGE}}]]・[[鋼彈 Reconguista in G|{{color|gold||G復國}}]]・[[機動戰士鋼彈 鐵血孤兒|{{color|black||鐵}}{{color|red||血}}{{color|black||孤兒}}]]・[[機動戰士鋼彈 水星的魔女|{{color|black||水星的魔女}}]]
 | group3     = Build系列
 | list3      = [[鋼彈Build Fighters|Build Fighters]]・[[鋼彈Build Fighters TRY|Build Fighters TRY]]・[[鋼彈Build Divers|Build Divers]]・[[鋼彈Build Divers Re:RISE|Build Divers Re:RISE]]・[[鋼彈Build Metaverse|Build Metaverse]]
 | group4     = [[SD鋼彈系列|SD系列]]

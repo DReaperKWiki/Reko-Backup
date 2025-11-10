@@ -1,4 +1,4 @@
-{{h0|{{color|red||機動武鬥傳}}{{color|blue||G}}{{color|yellow||鋼彈}}/{{color|red||機動武闘伝}}{{color|blue||G}}{{color|yellow||ガンダム}}/Mobile Fighter G Gundam}}
+{{h0|{{color|red||機動武鬥傳}}{{color|darkblue||G}}{{color|yellow||鋼彈}}/{{color|red||機動武闘伝}}{{color|darkblue||G}}{{color|yellow||ガンダム}}/Mobile Fighter G Gundam}}
 {| class="wikitable" style="margin: 1.5em auto;text-align:center;"
 |-
 |colspan="2" align="center"|'''<big>新一派！東方不敗！王者之風！全新招式！石破天驚！</big>'''
