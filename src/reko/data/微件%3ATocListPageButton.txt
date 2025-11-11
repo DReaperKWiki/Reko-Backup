@@ -1,5 +1,75 @@
-<noinclude>用於顯示展示頁面標題清單的按鈕</noinclude><includeonly><!--{if !isset($wgTocListPageButton) || !$wgTocListPageButton}--><!--{assign var="wgTocListPageButton" value=true scope="global"}--><div class="rekowiki-toc-list-page"><script>function rekoWikiGholkTocListPageButtonOnClick(evt){const btn=evt.target;let pagel=btn.dataset.pageList;pagel=decodeURIComponent(pagel);pagel=pagel.split("&").map(s=>s.trim());alert(`you click ${pagel}`)}</script><button data-page-list="<!--{$t|escape:'url'}-->"
- onclick="rekoWikiGholkTocListPageButtonOnClick(event)">expand</button></div><style>
-/* </includeonly>CSS样式表：<pre lang="css"> */
+<noinclude>用於顯示展示頁面標題清單的摺疊清單，用在條目龐大而分成多個條目時，可以一口氣列出所有條目的子標題。
+例如角色條目分成 part 1~5 的話，列出所有子標題，就可以展開來用瀏覽器內建的搜尋功能，找到某個角色寫在哪個條目裡。
+
+== 用法 ==
+<code><nowiki>{{#widget:TocListPageButton|t = 條目1 & 條目2 & ...}}</nowiki></code>
+
+如果條目名稱中有 <code>%&|}</code> 特殊字元，請使用 <code>%25 %26 %7C %7D</code> 取代。
+
+例如： <code><nowiki>{{#widget:TocListPageButton|t = 中華一番登場料理一覽-part 1 & 中華一番登場料理一覽-part 2 & 中華一番登場料理一覽-part 3 & 中華一番登場料理一覽-part 4 & 中華一番登場料理一覽-part 5}}</nowiki></code>
+
+效果如下：
+
+{{#widget:TocListPageButton|t = 中華一番登場料理一覽-part 1 & 中華一番登場料理一覽-part 2 & 中華一番登場料理一覽-part 3 & 中華一番登場料理一覽-part 4 & 中華一番登場料理一覽-part 5}}
+
+</noinclude><includeonly><div class="rekowiki-toc-list-page"><details data-page-init="false" data-page-list="<!--{$t|escape:'url'}-->"
+  data-page-state="unrender" ontoggle="rekoWikiGholkTocListPageButtonOnToggle(event)"><summary>展開 <strong class="first"><!--{$t|escape:'html'}--></strong> 等 <span class="count">n</span> 個條目的大綱</summary><div class="section-list">載入中……</div></detail><!--{if !isset($wgTocListPageButton) || !$wgTocListPageButton}--><!--{assign var="wgTocListPageButton" value=true scope="global"}--><script> /* </includeonly>
+== JavaScript ==
+<pre lang="javascript"> /* */
+{
+  const id = setInterval(() => {
+    if (!window.jQuery) return
+    clearInterval(id)
+$(".rekowiki-toc-list-page details[data-page-state=unrender]").each((i, e) => {
+    const $d = $(e);
+    let pagel = e.dataset.pageList;
+    pagel = decodeURIComponent(pagel);
+    pagel = pagel.split("&").map(s => s.trim());
+    $d.find(".first").text(decodeURIComponent(pagel[0]));
+    $d.find(".count").text(pagel.length);
+    $d.find("summary").attr("title", decodeURIComponent(pagel.join(" & ")));
+    e.dataset.pageState = "render";
+});
+}, 500);
+}
+
+async function rekoWikiGholkTocListPageButtonOnToggle(evt) {
+    const detail = evt.target;
+    if (!detail.open) return;
+    if (detail.dataset.pageState == "load") return;
+    let error = false;
+    let pagel = detail.dataset.pageList;
+    pagel = decodeURIComponent(pagel);
+    pagel = pagel.split("&").map(s => s.trim());
+    const $d = $("<ul>");
+    const $r = $(detail);
+    const prop = "sections";
+    const api = `/w/api.php?action=parse&prop=${prop}&format=json&page=`;
+    for (const t of pagel) {
+        const r = await fetch(api + encodeURIComponent(t));
+        const j = await r.json();
+        if (!j.parse?.sections) {
+            console.log(`[TocListPageButton] error fetch ${t}`);
+            error = true;
+            $d.append($("<li>").text(`${t} 載入失敗`));
+            continue;
+        }
+        const a = j.parse.sections;
+        $d.append(a.map(o => {
+            const $a = $("<a>").attr({
+                href: `/wiki/${o.fromtitle}#${o.anchor}`,
+                target: "toc-list-page-window"
+            }).text(`${t} # ${o.anchor}`);
+            return $("<li>").append($a);
+        }));
+    }
+    $r.find(".section-list").text("").append($d);
+    if (!error) detail.dataset.pageState = "load";
+}
 /* </pre><includeonly> */
-</style><!--{/if}--></includeonly>
+</script><style>
+/* </includeonly>
+== CSS ==
+<pre lang="css"> */
+/* </pre><includeonly> */
+</style></div><!--{/if}--></includeonly>

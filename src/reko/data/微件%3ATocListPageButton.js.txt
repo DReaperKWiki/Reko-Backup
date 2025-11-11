@@ -1,1 +1,44 @@
-console.log('[TocListPageButton] run')
+$(".rekowiki-toc-list-page details[data-page-state=unrender]").each((i, e) => {
+    const $d = $(e);
+    let pagel = e.dataset.pageList;
+    pagel = decodeURIComponent(pagel);
+    pagel = pagel.split("&").map(s => s.trim());
+    $d.find(".first").text(decodeURIComponent(pagel[0]));
+    $d.find(".count").text(pagel.length);
+    $d.find("summary").attr("title", decodeURIComponent(pagel.join("\n")));
+    e.dataset.pageState = "render";
+});
+
+async function rekoWikiGholkTocListPageButtonOnToggle(evt) {
+    const detail = evt.target;
+    if (!detail.open) return;
+    if (detail.dataset.pageState == "load") return;
+    let error = false;
+    let pagel = detail.dataset.pageList;
+    pagel = decodeURIComponent(pagel);
+    pagel = pagel.split("&").map(s => s.trim());
+    const $d = $("<ul>");
+    const $r = $(detail);
+    const prop = "sections";
+    const api = `/w/api.php?action=parse&prop=${prop}&format=json&page=`;
+    for (const t of pagel) {
+        const r = await fetch(api + encodeURIComponent(t));
+        const j = await r.json();
+        if (!j.parse?.sections) {
+            console.log(`[TocListPageButton] error fetch ${t}`);
+            error = true;
+            $d.append($("<li>").text(`${t} 載入失敗`));
+            continue;
+        }
+        const a = j.parse.sections;
+        $d.append(a.map(o => {
+            const $a = $("<a>").attr({
+                href: `/wiki/${o.fromtitle}#${o.anchor}`,
+                target: "toc-list-page-window"
+            }).text(`${t} # ${o.anchor}`);
+            return $("<li>").append($a);
+        }));
+    }
+    $r.find(".section-list").text("").append($d);
+    if (!error) detail.dataset.pageState = "load";
+}
