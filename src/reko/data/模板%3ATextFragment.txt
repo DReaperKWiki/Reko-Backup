@@ -1,0 +1,38 @@
+<noinclude>連結且定位上色某段文字的模板，使用 [https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments Text Fragments] 的 <code>#:~:text=</code> 語法。
+
+== 功能 ==
+例如連結 {{TextFragment|奇諾|唯一害怕}} ，
+點擊後會開啟奇諾條目並定位到網頁中的 <u>唯一害怕</u> 這段文字。
+適合用在想要連結到條目中的某段文字，但該段文字沒有標題或隱形錨點可供連結的場合。
+
+== 參數 ==
+<code><nowiki>{{TextFragment|參數1|參數2|參數3}}</nowiki></code>
+
+; 參數 1
+: 連結條目名，如果要產生外部連結，請使用external參數。
+; 參數 2
+: 必需，要定位的文字。因 wiki 語法限制，無法定位到含有空格的文字。
+: 完整語法為 <code>[prefix-,]textStart[,textEnd][,-suffix]</code> ，各部份功能可參見 [https://developer.mozilla.org/en-US/docs/Web/URI/Reference/Fragment/Text_fragments MDN Text Fragments 說明] 。
+; 參數 3
+: 可選，取代連結的文字，預設是 <code>條目#~文字</code> 。
+; external
+: 可選，外部連結的完整網址。使用本參數時本模板將產生外部連結，然後參數 1 將被作為參數 2 的文字取用，參數 3 則作為參數 2；使用外部連結時建議填寫參數 3。
+
+== 範例 ==
+{| class="wikitable"
+|-
+! wiki 語法 !! 顯示效果
+|-
+| <code><nowiki>{{TextFragment|奇諾|唯一害怕}}</nowiki></code>
+| {{TextFragment|奇諾|唯一害怕}}
+|-
+| <code><nowiki>{{TextFragment|奇諾|唯一害怕|奇諾害怕的東西}}</nowiki></code>
+| {{TextFragment|奇諾|唯一害怕|奇諾害怕的東西}}
+|-
+| <code><nowiki>{{TextFragment | external = https://zh.wikipedia.org/wiki/美味棒 |うまい棒}}</nowiki></code>
+| {{TextFragment | external = https://zh.wikipedia.org/wiki/美味棒 |うまい棒}}
+|-
+| <code><nowiki>{{TextFragment | external = https://zh.wikipedia.org/wiki/美味棒 | うまい棒 | 美味棒 ~ うまい棒 }}</nowiki></code>
+| {{TextFragment | external = https://zh.wikipedia.org/wiki/美味棒 | うまい棒 | 美味棒 ~ うまい棒 }}
+|}
+</noinclude><includeonly>{{#if: {{{external|}}}|[{{{external}}}#:~:text={{urlencode:{{{1}}}}} {{{2|{{{external}}}#:~:text={{{1}}}}}}]|[[{{{1}}}#:~:text={{{2}}}|{{{3|{{{1}}}#~{{{2}}}}}}]]}}</includeonly>

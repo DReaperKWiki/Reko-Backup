@@ -11,10 +11,10 @@
 | evenstyle  = background: #f9f9f9;
 | state      = expanded
 | group1     = 宇宙世紀
-| list1      = [[機動戰士鋼彈]]・[[機動戰士鋼彈第08MS小隊|{{Color|black||08MS小隊}}]]・[[機動戰士鋼彈0080：口袋裡的戰爭|{{color|darkblue||口袋裡的戰爭}}]]・[[機動戰士鋼彈0083：星塵回憶|{{color|black||星塵回憶}}]]・[[機動戰士鋼彈 GQuuuuuuX|{{color|black||''GQuuuuuuX''}}]]
-・[[機動戰士Z鋼彈|{{color|darkblue||Z}}]]・[[鋼彈前哨戰|前哨戰]]・[[機動戰士鋼彈ZZ|{{color|darkblue||ZZ}}]]・[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]・[[機動戰士鋼彈UC|{{color|red||UC}}]]・[[機動戰士鋼彈NT|{{color|red||NT}}]]・[[機動戰士鋼彈 閃光的哈薩威|{{color|black||閃光的哈薩威}}]]・[[機動戰士鋼彈F91|{{color|red||F91}}]]・[[機動戰士V鋼彈|{{color|yellow||V}}]]
+| list1      = [[機動戰士鋼彈]]・[[機動戰士鋼彈第08MS小隊|{{Color|black||08MS小隊}}]]・[[機動戰士鋼彈0080：口袋裡的戰爭|{{color|darkblue||口袋裡的戰爭}}]]・[[機動戰士鋼彈0083：星塵回憶|{{color|black||星塵回憶}}]]・[[機動戰士鋼彈 GQuuuuuuX|{{color|black||'''GQuuuuuuX'''}}]]
+・[[機動戰士Z鋼彈|{{color|darkblue||Z}}]]・[[鋼彈前哨戰|前哨戰]]・[[機動戰士鋼彈ZZ|{{color|darkblue||ZZ}}]]・[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]・[[機動戰士鋼彈UC|{{color|red||UC}}]]・[[機動戰士鋼彈NT|{{color|red||NT}}]]・[[機動戰士鋼彈 閃光的哈薩威|閃光的哈薩威]]・[[機動戰士鋼彈F91|{{color|red||F91}}]]・[[機動戰士V鋼彈|V]]
 | group2     = 非宇宙世紀
-| list2      = [[機動武鬥傳G鋼彈|{{color|darkblue||G}}]]・[[新機動戰記鋼彈W|{{color|yellow||W}}]]・[[機動新世紀鋼彈X|{{color|red||X}}]]・[[∀鋼彈|{{color|darkblue||''∀''}}]]・[[機動戰士鋼彈SEED系列|SEED・SEED Destiny]]・[[機動戰士鋼彈00|{{color|green||00}}]]・[[機動戰士鋼彈AGE|{{color|red||AGE}}]]・[[鋼彈 Reconguista in G|{{color|gold||G復國}}]]・[[機動戰士鋼彈 鐵血孤兒|{{color|black||鐵}}{{color|red||血}}{{color|black||孤兒}}]]・[[機動戰士鋼彈 水星的魔女|{{color|black||水星的魔女}}]]
+| list2      = [[機動武鬥傳G鋼彈|{{color|darkblue||G}}]]・[[新機動戰記鋼彈W|W]]・[[機動新世紀鋼彈X|{{color|red||X}}]]・[[∀鋼彈|{{color|darkblue||''<b>∀</b>''}}]]・[[機動戰士鋼彈SEED系列|SEED・SEED Destiny]]・[[機動戰士鋼彈00|{{color|green||00}}]]・[[機動戰士鋼彈AGE|{{color|red||AGE}}]]・[[鋼彈 Reconguista in G|{{color|gold||G復國}}]]・[[機動戰士鋼彈 鐵血孤兒|{{color|black||鐵}}{{color|red||血}}{{color|black||孤兒}}]]・[[機動戰士鋼彈 水星的魔女|{{color|black||水星的魔女}}]]
 | group3     = Build系列
 | list3      = [[鋼彈Build Fighters|Build Fighters]]・[[鋼彈Build Fighters TRY|Build Fighters TRY]]・[[鋼彈Build Divers|Build Divers]]・[[鋼彈Build Divers Re:RISE|Build Divers Re:RISE]]・[[鋼彈Build Metaverse|Build Metaverse]]
 | group4     = [[SD鋼彈系列|SD系列]]
@@ -28,7 +28,7 @@
 | oddstyle   = background: #ececec;
 | evenstyle  = background: #f9f9f9;
 | group1     = 宇宙世紀
-| list1 = [[阿姆羅‧雷|{{Color||Blue|{{Color|White||阿姆羅}}}}]]・[[夏亞‧阿茲納布爾|{{Color|Red||夏亞}}]]・[[布萊特‧諾亞|'''布萊特''']]・[[卡爾馬‧薩比|卡爾馬]]・[[阿納貝爾‧卡多|卡多]]・[[西瑪‧卡拉豪|{{Color|Black||西瑪}}]]・[[哈曼‧坎恩|哈曼]]・[[卡密兒．維丹|卡密兒]]・[[佐爾坦‧艾肯涅|佐爾坦]]・[[夏利安・布爾|夏利安]]
+| list1 = [[阿姆羅‧雷|阿姆羅]]・[[夏亞‧阿茲納布爾|{{Color|Red||夏亞}}]]・[[布萊特‧諾亞|'''布萊特''']]・[[卡爾馬‧薩比|卡爾馬]]・[[阿納貝爾‧卡多|卡多]]・[[西瑪‧卡拉豪|{{Color|Black||西瑪}}]]・[[哈曼‧坎恩|哈曼]]・[[卡密兒．維丹|卡密兒]]・[[佐爾坦‧艾肯涅|佐爾坦]]・[[夏利安・布爾|夏利安]]
 | group2     = 未來世紀
 | list2      = [[多門・火州|多門]]・[[東方不敗・亞洲天王|東方不敗]]
 | group3     = [[新機動戰記鋼彈W/角色列表|後殖民紀元]]
@@ -79,5 +79,5 @@
 | group9     = [[機動戰士鋼彈系列/遊戲列表|遊戲]]
 | list9      = [[超級機器人大戰]]・[[SD鋼彈G世紀系列|G世紀]]・[[機動戰士鋼彈系列/遊戲列表/VS系列|VS系列]]・[[SDGO]]・[[Gundam Evolution]]・[[機動戰士鋼彈 激戰任務|GBO(GBO2)]]・[[GUNDAM WAR]]
 | group10    = 其他
-| list10     = [[鋼普拉]]・[[鋼彈EXA]]・[[鋼彈廚]]・[[宇宙世紀三大惡女]]・[[白色惡魔|{{Color|White||白色惡魔}}]]・[[紅色彗星|{{Color||Red|紅色彗星}}]]・[[所羅門之惡夢]]・[[黑歷史|{{Color|Black||黑歷史}}]]・[[PS裝甲]]・[[破滅魔劍|{{Color||Orange|{{Color|Red||破滅魔劍}}}}]]・[[鋼彈中文譯名列表]]・<s>[[異世界オルガ]]・[[繼國緣一的超級機器人大戰]]</s>
+| list10     = [[鋼普拉]]・[[鋼彈EXA]]・[[鋼彈廚]]・[[宇宙世紀三大惡女]]・[[白色惡魔]]・[[紅色彗星|{{Color||Red|紅色彗星}}]]・[[所羅門之惡夢]]・[[黑歷史|{{Color|Black||黑歷史}}]]・[[PS裝甲]]・[[破滅魔劍|{{Color||Orange|{{Color|Red||破滅魔劍}}}}]]・[[鋼彈中文譯名列表]]・<s>[[異世界オルガ]]・[[繼國緣一的超級機器人大戰]]</s>
 }}<noinclude>[[分類:特定主題使用模板]]</noinclude>
