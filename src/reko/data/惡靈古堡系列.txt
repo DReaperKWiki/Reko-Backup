@@ -258,6 +258,7 @@
 * 惡靈古堡：生存遊戲/生化危機：槍下游魂（Biohazard: Gun Survivor/Resident Evil: Survivor）
 ** 故事以《0》為基底，主角為里昂的友人阿克·湯普森
 ** 家用版方面僅日版歐版可用光線槍控制器Guncon遊玩；北美版因為發售時剛好碰上震驚全美的「科倫拜校園槍擊案」而直接拔掉光線槍控制器，所以北美版只能用手把遊玩，但因為手把操作不親民而有一定負評
+*** 但有玩家發現北美版有殘留可用Guncon遊玩的代碼，需要使用金手指來調
 * 惡靈古堡：生存遊戲2：聖女密碼（Gun Survivor 2: Biohazard: Code: Veronica/Resident Evil: Survivor 2: Code: Veronica）
 ** 可視作為光槍版的聖女密碼
 ** 目標只是逃離羅克福特島
