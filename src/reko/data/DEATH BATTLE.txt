@@ -1,5 +1,5 @@
 {{h0|[http://tvtropes.org/pmwiki/pmwiki.php/WebAnimation/DeathBattle DEATH BATTLE]/死亡對決/死戰}}
-
+{{orga}}
 {| class="wikitable" style="font-size:normal; margin:1.5em auto; text-align:center;''
 |-
 | {{color|red||'''警告：此影片系列包含不少[[グロテスク|獵奇]]鏡頭！'''}} 
