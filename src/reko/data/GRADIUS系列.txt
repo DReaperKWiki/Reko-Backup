@@ -85,7 +85,7 @@
 ===GRADIUS III／グラディウスIII -伝説から神話へ-／宇宙巡航艦III -從傳說到神話-===
 * 發售日期：1989年12月11日
 * 發售平台：AC、SFC、PS2、i-revo、PSP、Wii
-* 首次有難度選擇（簡單模式只能玩3關）
+* 首次有難度選擇（簡單模式只能玩前3關）
 * 武裝變的相當多樣，超級爆炸（MEGA CRASH）為本作標配，除此以外追加自訂武裝
 
 {| class="wikitable" style="margin: 1.5em auto;" 
@@ -156,9 +156,9 @@
 *本作音樂擔當為日後在BEMANI等地活躍的前田尚紀（NAOKI）<ref>而後退出KONAMI和CAPCOM後以自由人身分繼續音樂遊戲製作生涯</ref>
 *縱向關卡依然保留<s>但只有2關</s>
 *同樣也是少數可雙打的作品，本作的2P自機為超級眼鏡蛇（Super Cobra）
-*Option子機分為2種：一般版以及只會圍繞的Option Seed
+*Option子機分為2種：一般版以及邊圍繞邊自動發射小型子彈的Option Seed
 ** 集齊2個Option Seed可換一個一般Option
-** 若在有Option的情況下，按住子機鍵即可集氣，放開子機鍵後Option會追打敵機，之後Option會<s>降級</s>成Option Seed
+** 若在有Option的情況下，按住子機鍵即可集氣，放開子機鍵後Option會追打敵機，之後Option會<s>降級</s>變成Option Seed
 *** 會根據按押時間決定發射數量
 ** 若是持有Option Seed的情況下集氣，Option Seed會在機體周圍高速旋轉形成暫時性的護盾（可消彈、擊破敵機），之後會直接消失
 * 本次同一武裝取得2次會強化一段時間（Missile、Force Field以外）
@@ -169,7 +169,7 @@
 * 發售平台：AC、PS2、PSP
 * 睽違10年的續作，同時採用新主機板，畫面除了偽3D構圖以外，也有出現真3D構成的敵機及地形
 * 本作可說是繼續2代的伏筆
-* 廢除自訂武裝、「!」武裝選項，本次武裝有6種
+* 廢除自訂武裝、「!」武裝選項，本次武裝配置有6種
 {| class="wikitable" style="margin: 1.5em auto;" 
 |-
 ! 自機類型 !! 速度提升（SPEED UP） !! 飛彈（MISSILE） !! 雙向射擊（DOUBLE）!! 雷射（LASER） !! 子機（OPTION） !! ?
