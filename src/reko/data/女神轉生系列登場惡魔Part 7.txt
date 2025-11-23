@@ -469,7 +469,7 @@ D2（✩）：ラピッドショット、ミリオンスタッブ
 }}
 <br>
 
-=== 潮與虎 ===
+==== 潮與虎 ====
 {{MTdata
 |Name=蒼月潮
 |Type=？？
@@ -505,8 +505,9 @@ D2（✩）：ラピッドショット、ミリオンスタッブ
 }}
 <br>
 
-=== 原創惡魔 ===
-==== 數位惡魔物語 女神轉生Ⅱ ====
+=== 原創 ===
+==== 惡魔 ====
+===== 數位惡魔物語 女神轉生Ⅱ =====
 {{MTdata
 |Name=フレイミーズ
 （火精靈）
@@ -553,7 +554,400 @@ D2（✩）：ラピッドショット、ミリオンスタッブ
 *3代中是阿瑪拉經絡的常駐敵人，體質普遍很硬而一度成為小難關<s>後來再回去就見一堆宰一群了</s>
 <br>
 
-==== 真・女神轉生 ====
+===== 真．女神轉生 =====
+{{MTdata
+|Name=パスカル
+（帕斯卡）
+|Type=合體前：イヌ
+合體後：魔獸
+|Ali=合體前：NEUTRAL、
+合體後：NEUTRAL-NEUTRAL 
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTPascalNormal.gif|普通狀態
+檔案:SMTPCEPascal.png|真Ⅰ（PC Engine）
+</gallery>
+</div>
+|Faction=火炎
+|Skill=
+|Edition=真・女神轉生
+}}
+{{MTdata
+|Name=ロストネーム
+（羅斯特涅）
+|Type=魔獸
+|Ali=NEUTRAL-NEUTRAL 
+|Picture=[[檔案:D2Lostname.png|250px]] 
+|Faction=火炎
+|Skill=蒼き魔犬、フェイタルパーン、豪健炎舞、魔獣の信念
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+* 1代主角的家犬，與惡魔融合後變成地獄犬，但是不合體也能維持
+**與任何一隻惡魔合體都一定會成為地獄犬，之後即使合體與否也會在與道滿一戰後被終端機吸去異界
+***如果沒有合體的話，被吸走脫隊後，原本原則上在東京命運樂園重逢並展示金蘋果會恢復理智並加入隊伍，則會因為沒有合體而永久脫離隊伍
+***PCE版則就算不融合也可以以仲魔方式回歸<s>這什麼原版受害者</s>
+**2代中成為主角同伴的地獄犬可在GBA版得知就是帕斯卡本尊
+* GBA版2代中是唯一能通用復活系統及萬聖系統召喚的仲魔
+* if中作為魔人的一份子登場，也是稀有守護靈之一
+* D2裡出現跟PCE的姿態同樣的惡魔，於靈氣之門中誕生，「羅斯特涅」之名是「解放者」取名的
+<br>
+
+{{MTdata
+|Name=ゾンビマウス
+|Type=-
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1ZombieMouse.png|真Ⅰ（未使用）
+檔案:SMT1PSXZombieMouse.png|真Ⅰ（PSX）
+</gallery>
+</div>
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生
+}}
+{{MTdata
+|Name=デモンダック
+|Type=-
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1DemonDuck.png|真Ⅰ（未使用）
+檔案:SMT1PSXDemonDuck.png|真Ⅰ（PSX）
+</gallery>
+</div>
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生
+}}
+
+* <s>本來是</s>出沒在「T. D. L. （{{ruby|東京命運樂園|<s>東京迪○尼樂園</s>}}）」的NPC
+** [http://wildplants.blog81.fc2.com/blog-entry-88.html 在SFC的1代裡是未使用NPC，但保留測試玩家運氣的<s>雞掰</s>功能，PCE版則改變了形象後再加入] 
+** <s>[http://blog.livedoor.jp/yang_li/archives/44694002.html 雖然原形象沒了，但還是能在公式書上出現]</s>
+** <s>順道一提在GBA的版本可以清晰看見'''整個迪○尼樂園的城堡'''</s>
+* <s>米○鼠、唐○鴨</s>
+<br>
+
+===== 真・女神轉生if… =====
+{{MTdata
+|Name=ふくちゅうむし
+（腹中蟲）
+|Type=邪龍
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SMTifStomachBug .gif|200px]] 
+|Faction=物理
+|Skill=-
+|Edition=真・女神轉生if... 
+}}
+{{MTdata
+|Name=ふくちゅうか
+（腹中花）
+|Type=妖樹
+|Ali=DARK-NEUTRAL 
+|Picture=[[檔案:SMTifStomachFlower.gif|200px]]
+|Faction=物理、狀態異常
+|Skill=-
+|Edition=真・女神轉生if... 
+}}
+
+*原創惡魔，分別是在奧迦斯體內的蟲子及生長的花
+<br>
+
+{{MTdata
+|Name=パラサイト
+（寄生蟲）
+|Type=妖虫
+|Ali=DARK-NEUTRAL 
+|Picture=[[檔案:SMTifParasite.gif|200px]]
+|Faction=物理
+|Skill=-
+|Edition=真・女神轉生if... 
+}}
+
+*原創惡魔，躲在奧迦斯的體內
+*<s>尾巴很像[[陰莖|那東西]]，（阿巴頓心臟＋阿剌克涅）/2</s>
+<br>
+
+{{MTdata
+|Name=チェフェイ
+（妹喜）
+|Type=妖獣
+|Ali=DARK-NEUTRAL 
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTifChefei1.gif|第一形態
+檔案:SMTifChefei2.gif|第二形態
+檔案:SMTifChefei3.gif|第三形態
+檔案:SMTifChefei4.gif|第四形態
+檔案:SMTifChefei5.gif|第五形態
+檔案:SMTifChefei6.gif|第六形態
+檔案:SMTifChefei7.gif|第七形態
+檔案:SMTifChefei8.gif|第八形態
+檔案:D2Chefei.png|D2
+</gallery>
+</div>
+|Faction=真if：特殊
+D2：咒殺
+|Skill=真if（第六形態）：欲望の右手
+真if（第七形態）：邪気の左手<br>
+D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き夢、溢れ出る欲望
+|Edition=真・女神轉生if... 
+}}
+
+* 因缺乏資料而普遍認為屬於原創，而原型普遍推論為夏朝的紅顏禍水「妹喜」：後世與妲己、褒姒齊名，而從江戶時代開始都與（白面金毛）九尾狐扯上關係<s>儘管在華夏只有妲己得此「美」譽</s>
+** 實際上更像是亞洲狐類文化的結合體，從第一形態的小狐狸、第二形態的狐狸面具女孩、第三及第四形態分別疑似坐著唐傘及穿著京劇服飾的人型狐妖、第五形態的殺生石、乃至第六到第八形態的巨型狐妖，都揉合了各種屬於狐狸傳承的面貌
+** D2中背景介紹沒有加以描述，但中文被翻譯至此亦佐證此點
+*真if中的貪慾界的頭目，視乎玩家在路上打開的金箱子而決定出戰的形態，最強時身披能完封主角進攻手段的劍、槍反射<s>但是特技跟反射有效</s>
+*<s>雖然可能是九尾狐的傳承，但只有八條尾巴</s>
+<br>
+
+{{MTdata
+|Name=ハザマ
+（哈薩瑪）
+|Type=魔神皇
+|Ali=-
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTifHazamaHuman.png|人類形態
+檔案:SMTifHazama1stForm.gif|魔神王（第一形態）
+檔案:SMTifHazama2ndForm.gif|魔神王（第二形態）
+</gallery>
+</div>
+|Faction=第一形態：萬能
+第二形態：咒殺
+|Skill=第一形態：ソルスマッシュ
+第二形態：ソルクラスター
+|Edition=真・女神轉生if... 
+}}
+
+*哈薩瑪成為魔神皇後的姿態
+*第一形態是所有路線通用的頭目，獨玲子路線會進入精神世界與第二形態交戰
+*實力與其說本身有之或許該說環境所致
+**相比前兩作能以等級壓之，在該作上因為敵人鋪排而幾乎看不到，配合本身諸如彈量限制、前後排系統等機制讓其搖身一變成了能論資排輩都算上得了號的最終頭目
+**但也因此成了比較講究技巧的頭目，帶著通常等級不過半百的仲魔強闖時要注意補給、復活等續戰手段，配合前線的單位放技能打輸出
+**由於兩個形態都會使用デカジャ的關係，帶上會弱化的仲魔可以大幅減輕前線的壓力<s>否則在他多達兩萬及三萬的生命值下通常會變成痛苦的持久戰</s>
+<br>
+
+===== 真・女神轉生 STRANGE JOURNEY/DEEP STRANGE JOURNEY =====
+{{MTdata
+|Name=かたちなきもの
+（無形之物）
+|Type=悪霊
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SJFormless.png|200px]]
+|Faction=狀態異常
+|Skill=ダウノマ
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+{{MTdata
+|Name=なぞのあくま
+（神秘惡魔）
+|Type=悪霊
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SJStrangeDemon.png|200px]]
+|Faction=火炎
+|Skill=アスラローガ
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+*海豚座中出現的精神寄生體，無法以機器解析，以MK型治療器治療受MAD狀態影響的人時一度現身，能進入他人腦海並進行寄生，從而得知他人的過去
+**為阿修羅認為人類不符合「美的標準」而派遣的虛像，從<s>根本是亞巴頓心臟的</s>巨大巢狀物中生成，旨在進入他人精神並給予「磨練」
+**CHAOS線侵攻レッドスプライト的希門尼斯也從大靈母處帶來類似產物，並「{{ruby|解放|<s>弄瘋</s>}}」隊員們<s>諸多同伴裡就一向熱情的アーヴィン變起來看上去最舒適</s>
+*被擊破後的阿修羅在天爐座一度變成此狀態（なぞのあくま）活動，並在襲擊主角未果後，於深處還原成真身
+<br>
+
+{{MTdata
+|Name=メムアレフ
+（梅姆阿雷夫）
+|Type=大霊母、虚大霊
+|Ali=LIGHT-CHAOS
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SJMem Aleph.png|大靈母
+檔案:SJMemAlephEmpty.png|虛大靈
+</gallery>
+</div>
+|Faction=全屬性
+|Skill=火、氷、雷、風、キス・マー、始祖の理、大洪水
+大霊母：光、闇、災厄の輪廻、アスラローガ、秩序の光<br>
+虚大霊：メム＝アレフ、MA
+|Edition=真・女神轉生 STRANGE JOURNEY
+}}
+
+* CV：大原沙耶香
+* 原創惡魔，地球意志的渾沌面相化身，和三賢人（神靈シェキナー）相對應的存在
+** 名稱的意義是來自希伯來語的水（Mem）+原初（Aleph），以及MA作為表達母性的詞語而考量
+** 取材至少有一半都來自芭芭拉的爭議作《The Woman's Dictionary of Symbols & Sacred Objects》第632頁[https://eirikrjs.tumblr.com/post/630998471810351104/walkers-book-has-entries-for-ma-and '''對Mem-Aleph的完整介紹'''] <s>欲言又止.jpg</s>
+*** 據當中對考古學家奧勃萊（William Foxwell Albright）的《Yahweh and the Gods of Canaan》第198頁的取材，需追溯到《Altorientalische Bilder zum Alten Testament》第165頁介紹第ccxxvi頁中圖582的示瑪雅公牛圖案印章展示（1909年版本則在104頁圖202），亦來自神學家本辛格（Immanuel Benzinger）的《Hebräische Archäologie》259-260頁圖94認為可能是Jahves的公牛圖像，卻在意指「亞撒利雅（Azariah，德語「Azarjahu」）」<s>而上面的那些閃族腓尼基字母文字明顯不是Mem跟Aleph</s>
+*** 又據當中對羅伯特的《New Larousse Encyclopedia of Mythology》<s>又是你蘿蔔特</s>317-318頁的取材，並沒有提及把波斯語混同的阿梅雷塔特（Mourdad（Mordād）-Ameretat）
+* 原本是作為創造的太母神而存在，因為人類對地球的破壞和汙染而化成破壞的古母
+** 宇宙卵的製造者，本打算交予其他惡魔重塑一切，但均未果
+** 在本作中只有走表CHAOS路線才不會與她為敵，否則必定和玩家為敵
+** 重製版中更進一步的強化了其{{ruby|古母|<s>老不死</s>}}性格，除了黑色疆界外更是創造出用來消化異論者古神惡魔的嘆息之胎
+** 在嘆息之胎中被封印的惡魔有女神迪蜜特、天女阿娜西塔、女神伊絲塔、<s>湊數用的</s>墮天使佛紐斯、魔王亞蒙、夜魔許普諾斯、魔神宙斯、女神瑪麗亞等
+* 一度被擊破後，捨棄理智及肉體，成為單純破壞一切的存在「虛大靈」
+** 擁有與歷代頭目相比也名列前茅的恐怖實力
+*** 保有前一個姿態的技能下依舊具有非常強大的攻擊力，而且此階段的屬性對應除了破魔與咒殺外皆會在每回合按規律切換
+*** 而在「虛大靈」時追加的「MA」，效果是「即死及完全吸收對象的HP」，每逢攻擊被反射時就會使用，而且'''可以對主角發動'''
+**** 因此需要注意主角的耐性，萬一命中主角而身上又有反射的話，就會直接GAME OVER
+* <s>有著一頭極為特色的大嬸髮型及極度苗條的身材</s>
+* 另外，築地根岸寺裡最深處有著她的塑像
+<br>
+
+===== 其他 =====
+{{MTdata
+|Name=ヴェニタス
+（虛空）
+|Type=？？
+|Ali=-
+|Picture=[[檔案:D2Vanitas.png|300px]]
+|Faction=咒殺
+|Skill=6日目の奇跡、悪意の天秤、（攻擊、強化、抑制、防衛）機能
+|Edition=Dx2 真･女神転生 リベレーション
+}}
+
+*即拉丁語的「Vanitas（虛無）」，《傳道書》12：1-8有云「你趁著年幼、衰敗的日子尚未來到，就是你所說，我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。——傳道者說：『'''虛空的虛空，凡事都是虛空'''。』」
+*D2中是{{ruby|上帝神跡|六日創世}}「劫波」之一，即「{{ruby|創作支配萬物的頂點『人類』|《創世記》}}」的神跡本身<s>，雖沒明講，但這該分類為神靈吧</s>
+**為恪守神跡，通過測量惡意並反饋的方式賦予試煉，促使人類進化，而曾經的兩次試煉（塞拉耶佛事件、納粹崛起）卻引發了兩次世界大戰
+**人類的惡意即將到達臨界點而開始了滅絕終局，但被「新生解放者」以聯繫及通過「{{ruby|超級善意輸入機|（原）龍脈污染裝置}}」輸入善意的方式，削弱並與之抗衡，藏於東京正下方的「本體」也被找到並擊退
+***虛空本身沒有本體的概念，但當干涉世界並進行回饋時會凝聚起來，因此能把該狀態的虛空擊退
+<br>
+
+{{MTdata
+|Name=イナルナ姫
+（伊那瑠奈姫）
+|Type=惡魔召喚師：古姬
+真TCG：古妃
+|Ali=DARK-CHAOS
+|Picture
+|Faction=萬能
+|Skill=第一型態：無情の舞、外法幻花陣
+第二型態：恨みの慟哭、嘆きの咆哮、絶滅覇拳
+|Edition=惡魔召喚師
+}}
+
+* 生前為支配古代日本的巫女，後在現世懷著悲憤及憎惡而復活
+* <s>對戰的時候那音樂輕快得以為在看城市獵人</s>
+<br>
+
+{{MTdata
+|Name=ジード
+（Zeed）
+|Type=造魔
+|Ali=NEUTRAL-NEUTRAL
+|Picture
+檔案:Zeed Human2 Soul Hacker.png|人型2
+|Faction=-
+|Skill=-
+|Edition=惡魔召喚師 靈魂駭客
+}}
+
+* 在酒店「業魔殿」裡，藉由「ドリー・カドモン」合體誕生的仲魔
+* 型號眾多且自由命名
+** 分為「普通」、「人型」、「獸型」、「龍型」、「天使」、「龍/獸」、「人/天使」共7種，並再往下分成兩種
+** 當中人型、獸型、龍型、天使裡其中各一個型號在前1代的PSP就作為魔王登場
+*** 分別是「大衛（人型）」、「斯庫爾（獸型）」、「利維坦（龍型）」、「以諾（天使）」
+<br>
+
+{{MTdata
+|Name=スナッピー
+（Snappy）
+|Type=妖獸
+|Ali=DARK-NEUTRAL 
+|Picture
+|Faction=凍結
+|Skill=-
+|Edition=惡魔召喚師 靈魂駭客
+}}
+
+* 原本是主人公妹妹的畫作，經由「パラダイムX」在電腦世界中誕生
+** 雖然會吸收魔法，但有限量，超過的話會自滅<s>儘管也可以用物理打法攻破</s>
+* 金子先生的萬魔殿插圖集第二冊提及「海豚把死者引導到冥界」的傳說，實際上類似典故在《荷馬史詩》海豚把海難受害者拉到岸邊拯救或埋葬的部分
+* 此外，海豚（Dolphin）一詞也被認為來自「Delphyne」，其意為「子宮（δελφύς）」
+* 名字捏他美國1964年播放的海洋冒險連續劇《[https://en.wikipedia.org/wiki/Flipper_(1964_TV_series) Flipper]》、與作品同名的海豚主角
+<br>
+
+{{MTdata
+|Name=ゼノン
+（芝諾/Zenon）
+|Type=造魔
+|Ali=
+|Picture=
+|Faction=物理
+|Skill=-
+|Edition=靈魂駭客2
+}}
+
+* CV:興津和幸
+* 釐屬於幻影結社的造魔，由本作主要反派鐵面人親手製作，靈魂駭客2中唯四新設計的惡魔(ry
+** 為負責承載能量體「虹約」的容器，腦袋不好但戰鬥能力非常強大
+<br>
+
+{{MTdata
+|Name=Aion
+|Type=電靈
+|Ali=
+|Picture=
+|Faction=萬能、電擊、槍擊
+|Skill=第一階段：悲痛の禊、ネオ・ドグマ、アークライト、<br>
+クロックアップ、ダメージ圧縮<br>
+第二階段：メタ・サクラメント、ピュシス・パラドクス、<br>
+歌う、来たるべき無窮光、アポストル生成、ロゴス崩壊、アビスの眼
+|Edition=靈魂駭客2
+}}
+
+* CV:森なな子（被菲格統合後）
+** 在21世紀中期，於網路中的無數情報中誕生的電子生命體，<s>一看就知道是</s>本作最終BOSS。靈魂駭客2中唯(ry
+** 為了阻止世界被幻影結社毀滅，創造了兩個<s>Vtuber</s>分靈：林檎和菲格，並指示她們前往調查並阻止造成世界毀滅的元凶
+** 其中負責代表Aion傳達指令的分靈為芙朗瑪（CV:鈴木柊真）<s>特技是嚴重棒讀，讓許多日本玩家適應不良</s>
+** <s>明明是電靈但其能力卻根本就是純粹的魔法，甚至{{censored|能改寫人的靈魂型態並}}A走惡魔召喚權限</s>
+** 準確說其實是菲格操縱Aion當最終頭目
+*** <s>Aion：因為我們覺得菲格的計畫有助於人類和我們共存（重點是她手上還有五條虹約），嚴格來說我是無辜的，謝謝</s>
+*** <s>芙朗瑪：幫復...</s>
+* 名稱出自希臘神話中的艾詠神，是掌管時間、年循環、星體與黃道帶的希臘原始神。象徵為環與銜尾蛇
+** 其象徵的「時間」代表著永恆及無限。
+* <s>Aion在指示的時候沒有給她們知道自己也是競爭跟發展中誕生嗎？</s>
+** <s>{{censored|Raven：菲格，妳的世界真小啊......}}</s>
+<br>
+
+{{MTdata
+|Name=ナナ
+（七奈）
+|Type=造魔
+|Ali=NEUTRAL
+|Picture=[[file:SH2 Nana.webp|200px]]
+|Faction=
+|Skill=-
+|Edition=靈魂駭客2
+}}
+<br>
+
+{{MTdata
+|Name=うちゅういしき
+（宇宙意志）
+|Type=-
+|Ali=-
+|Picture=
+[[檔案:Great Will Last Bible.png|200px]]
+|Faction=電擊、衝擊
+|Skill=スターダスト、フォース
+|Edition=外伝ラストバイブル（Game Gear）
+}}
+
+* Game Gear版的最終頭目，創造了能毀滅自己的主角，並作為自己的對手
+** 任何攻擊皆對其無效，需直到主角使用「コキトエルコス」並自我犧牲後才能造成傷害
+** 目前多為根據名字表述視作{{ruby|系列大黑幕|偉大的意志}}的分靈，但也有同好直接認為是大黑幕本身
+<br>
+
+==== 人類 ====
+===== 真・女神轉生 =====
 {{MTdata
 |Name=ザ・ヒーロー
 （真主角）
@@ -631,45 +1025,6 @@ D2：？？
 <br>
 
 {{MTdata
-|Name=パスカル
-（帕斯卡）
-|Type=合體前：イヌ
-合體後：魔獸
-|Ali=合體前：NEUTRAL、
-合體後：NEUTRAL-NEUTRAL 
-|Picture=
-<div style="min-width:300px; max-width:300px;">
-<gallery mode=slideshow>
-檔案:SMTPascalNormal.gif|普通狀態
-檔案:SMTPCEPascal.png|真Ⅰ（PC Engine）
-</gallery>
-</div>
-|Faction=火炎
-|Skill=
-|Edition=真・女神轉生
-}}
-{{MTdata
-|Name=ロストネーム
-（羅斯特涅）
-|Type=魔獸
-|Ali=NEUTRAL-NEUTRAL 
-|Picture=[[檔案:D2Lostname.png|250px]] 
-|Faction=火炎
-|Skill=蒼き魔犬、フェイタルパーン、豪健炎舞、魔獣の信念
-|Edition=Dx2 真･女神転生 リベレーション
-}}
-
-* 1代主角的家犬，與惡魔融合後變成地獄犬，但是不合體也能維持
-**與任何一隻惡魔合體都一定會成為地獄犬，之後即使合體與否也會在與道滿一戰後被終端機吸去異界
-***如果沒有合體的話，被吸走脫隊後，原本原則上在東京命運樂園重逢並展示金蘋果會恢復理智並加入隊伍，則會因為沒有合體而永久脫離隊伍
-***PCE版則就算不融合也可以以仲魔方式回歸<s>這什麼原版受害者</s>
-**2代中成為主角同伴的地獄犬可在GBA版得知就是帕斯卡本尊
-* GBA版2代中是唯一能通用復活系統及萬聖系統召喚的仲魔
-* if中作為魔人的一份子登場，也是稀有守護靈之一
-* D2裡出現跟PCE的姿態同樣的惡魔，於靈氣之門中誕生，「羅斯特涅」之名是「解放者」取名的
-<br>
-
-{{MTdata
 |Name=スティーヴン
 （史提芬）
 |Type=超人
@@ -725,45 +1080,7 @@ D2：？？
 *<s>大概是因為被役小角從2代魔界拐走才變強</s>
 <br>
 
-{{MTdata
-|Name=ゾンビマウス
-|Type=-
-|Ali=-
-|Picture=
-<div style="min-width:300px; max-width:300px;">
-<gallery mode=slideshow>
-檔案:SMT1ZombieMouse.png|真Ⅰ（未使用）
-檔案:SMT1PSXZombieMouse.png|真Ⅰ（PSX）
-</gallery>
-</div>
-|Faction=-
-|Skill=-
-|Edition=真・女神轉生
-}}
-{{MTdata
-|Name=デモンダック
-|Type=-
-|Ali=-
-|Picture=
-<div style="min-width:300px; max-width:300px;">
-<gallery mode=slideshow>
-檔案:SMT1DemonDuck.png|真Ⅰ（未使用）
-檔案:SMT1PSXDemonDuck.png|真Ⅰ（PSX）
-</gallery>
-</div>
-|Faction=-
-|Skill=-
-|Edition=真・女神轉生
-}}
-
-* <s>本來是</s>出沒在「T. D. L. （{{ruby|東京命運樂園|<s>東京迪○尼樂園</s>}}）」的NPC
-** [http://wildplants.blog81.fc2.com/blog-entry-88.html 在SFC的1代裡是未使用NPC，但保留測試玩家運氣的<s>雞掰</s>功能，PCE版則改變了形象後再加入] 
-** <s>[http://blog.livedoor.jp/yang_li/archives/44694002.html 雖然原形象沒了，但還是能在公式書上出現]</s>
-** <s>順道一提在GBA的版本可以清晰看見'''整個迪○尼樂園的城堡'''</s>
-* <s>米○鼠、唐○鴨</s>
-<br>
-
-==== 真・女神轉生Ⅱ ====
+===== 真・女神轉生Ⅱ =====
 {{MTdata
 |Name=アレフ
 |Type=4F：人造人間
@@ -850,80 +1167,7 @@ D2：？？
 *** 放生後社區的終端機仍可運作，裡面的歷代冠軍之一キングマッスル會妄圖取代其位，但脫離虛擬世界的本體卻也跟居民一樣戴著儀器坐在原地
 <br>
 
-==== 真・女神轉生if... ====
-{{MTdata
-|Name=ふくちゅうむし
-（腹中蟲）
-|Type=邪龍
-|Ali=DARK-CHAOS
-|Picture=[[檔案:SMTifStomachBug .gif|200px]] 
-|Faction=物理
-|Skill=-
-|Edition=真・女神轉生if... 
-}}
-{{MTdata
-|Name=ふくちゅうか
-（腹中花）
-|Type=妖樹
-|Ali=DARK-NEUTRAL 
-|Picture=[[檔案:SMTifStomachFlower.gif|200px]]
-|Faction=物理、狀態異常
-|Skill=-
-|Edition=真・女神轉生if... 
-}}
-
-*原創惡魔，分別是在奧迦斯體內的蟲子及生長的花
-<br>
-
-{{MTdata
-|Name=パラサイト
-（寄生蟲）
-|Type=妖虫
-|Ali=DARK-NEUTRAL 
-|Picture=[[檔案:SMTifParasite.gif|200px]]
-|Faction=物理
-|Skill=-
-|Edition=真・女神轉生if... 
-}}
-
-*原創惡魔，躲在奧迦斯的體內
-*<s>尾巴很像[[陰莖|那東西]]，（阿巴頓心臟＋阿剌克涅）/2</s>
-<br>
-
-{{MTdata
-|Name=チェフェイ
-（妹喜）
-|Type=妖獣
-|Ali=DARK-NEUTRAL 
-|Picture=
-<div style="min-width:300px; max-width:300px;">
-<gallery mode=slideshow>
-檔案:SMTifChefei1.gif|第一形態
-檔案:SMTifChefei2.gif|第二形態
-檔案:SMTifChefei3.gif|第三形態
-檔案:SMTifChefei4.gif|第四形態
-檔案:SMTifChefei5.gif|第五形態
-檔案:SMTifChefei6.gif|第六形態
-檔案:SMTifChefei7.gif|第七形態
-檔案:SMTifChefei8.gif|第八形態
-檔案:D2Chefei.png|D2
-</gallery>
-</div>
-|Faction=真if：特殊
-D2：咒殺
-|Skill=真if（第六形態）：欲望の右手
-真if（第七形態）：邪気の左手<br>
-D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き夢、溢れ出る欲望
-|Edition=真・女神轉生if... 
-}}
-
-* 因缺乏資料而普遍認為屬於原創，而原型普遍推論為夏朝的紅顏禍水「妹喜」：後世與妲己、褒姒齊名，而從江戶時代開始都與（白面金毛）九尾狐扯上關係<s>儘管在華夏只有妲己得此「美」譽</s>
-** 實際上更像是亞洲狐類文化的結合體，從第一形態的小狐狸、第二形態的狐狸面具女孩、第三及第四形態分別疑似坐著唐傘及穿著京劇服飾的人型狐妖、第五形態的殺生石、乃至第六到第八形態的巨型狐妖，都揉合了各種屬於狐狸傳承的面貌
-** D2中背景介紹沒有加以描述，但中文被翻譯至此亦佐證此點
-*真if中的貪慾界的頭目，視乎玩家在路上打開的金箱子而決定出戰的形態，最強時身披能完封主角進攻手段的劍、槍反射<s>但是特技跟反射有效</s>
-*<s>雖然可能是九尾狐的傳承，但只有八條尾巴</s>
-<br>
-
+===== 真．女神轉生if… =====
 {{MTdata
 |Name=オオツキ
 （大月老師）
@@ -953,35 +1197,7 @@ D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き
 *<s>'''\科学的根拠は、無いのだ！/'''</s>
 <br>
 
-{{MTdata
-|Name=ハザマ
-（哈薩瑪）
-|Type=魔神皇
-|Ali=-
-|Picture=
-<div style="min-width:300px; max-width:300px;">
-<gallery mode=slideshow>
-檔案:SMTifHazamaHuman.png|人類形態
-檔案:SMTifHazama1stForm.gif|魔神王（第一形態）
-檔案:SMTifHazama2ndForm.gif|魔神王（第二形態）
-</gallery>
-</div>
-|Faction=第一形態：萬能
-第二形態：咒殺
-|Skill=第一形態：ソルスマッシュ
-第二形態：ソルクラスター
-|Edition=真・女神轉生if... 
-}}
-
-*哈薩瑪成為魔神皇後的姿態
-*第一形態是所有路線通用的頭目，獨玲子路線會進入精神世界與第二形態交戰
-*實力與其說本身有之或許該說環境所致
-**相比前兩作能以等級壓之，在該作上因為敵人鋪排而幾乎看不到，配合本身諸如彈量限制、前後排系統等機制讓其搖身一變成了能論資排輩都算上得了號的最終頭目
-**但也因此成了比較講究技巧的頭目，帶著通常等級不過半百的仲魔強闖時要注意補給、復活等續戰手段，配合前線的單位放技能打輸出
-**由於兩個形態都會使用デカジャ的關係，帶上會弱化的仲魔可以大幅減輕前線的壓力<s>否則在他多達兩萬及三萬的生命值下通常會變成痛苦的持久戰</s>
-<br>
-
-==== 真・女神轉生Ⅲ-NOCTURNE ====
+===== 真・女神轉生Ⅲ-NOCTURNE =====
 ; [[女神轉生系列登場惡魔Part 5#特殊魔人|{{ruby|人修羅|ひとしゅら}}]]
 * <s>不再單獨立項了，自移玉步吧</s>
 <br>
@@ -1023,7 +1239,7 @@ D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き
 * 在靈魂駭客3DS移植版中也作為隱藏BOSS登場
 <br>
 
-==== 真・女神轉生 STRANGE JOURNEY/DEEP STRANGE JOURNEY ====
+===== 真・女神轉生 STRANGE JOURNEY/DEEP STRANGE JOURNEY =====
 {{MTdata
 |Name=ゴア
 （戈爾）
@@ -1131,72 +1347,6 @@ D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き
 <br>
 
 {{MTdata
-|Name=かたちなきもの
-（無形之物）
-|Type=悪霊
-|Ali=DARK-CHAOS
-|Picture=[[檔案:SJFormless.png|200px]]
-|Faction=狀態異常
-|Skill=ダウノマ
-|Edition=真・女神轉生 STRANGE JOURNEY
-}}
-{{MTdata
-|Name=なぞのあくま
-（神秘惡魔）
-|Type=悪霊
-|Ali=DARK-CHAOS
-|Picture=[[檔案:SJStrangeDemon.png|200px]]
-|Faction=火炎
-|Skill=アスラローガ
-|Edition=真・女神轉生 STRANGE JOURNEY
-}}
-
-*海豚座中出現的精神寄生體，無法以機器解析，以MK型治療器治療受MAD狀態影響的人時一度現身，能進入他人腦海並進行寄生，從而得知他人的過去
-**為阿修羅認為人類不符合「美的標準」而派遣的虛像，從<s>根本是亞巴頓心臟的</s>巨大巢狀物中生成，旨在進入他人精神並給予「磨練」
-**CHAOS線侵攻レッドスプライト的希門尼斯也從大靈母處帶來類似產物，並「{{ruby|解放|<s>弄瘋</s>}}」隊員們<s>諸多同伴裡就一向熱情的アーヴィン變起來看上去最舒適</s>
-*被擊破後的阿修羅在天爐座一度變成此狀態（なぞのあくま）活動，並在襲擊主角未果後，於深處還原成真身
-<br>
-
-{{MTdata
-|Name=メムアレフ
-（梅姆阿雷夫）
-|Type=大霊母、虚大霊
-|Ali=LIGHT-CHAOS
-|Picture=
-<div style="min-width:300px; max-width:300px;">
-<gallery mode=slideshow>
-檔案:SJMem Aleph.png|大靈母
-檔案:SJMemAlephEmpty.png|虛大靈
-</gallery>
-</div>
-|Faction=全屬性
-|Skill=火、氷、雷、風、キス・マー、始祖の理、大洪水
-大霊母：光、闇、災厄の輪廻、アスラローガ、秩序の光<br>
-虚大霊：メム＝アレフ、MA
-|Edition=真・女神轉生 STRANGE JOURNEY
-}}
-
-* CV：大原沙耶香
-* 原創惡魔，地球意志的渾沌面相化身，和三賢人（神靈シェキナー）相對應的存在
-** 名稱的意義是來自希伯來語的水（Mem）+原初（Aleph），以及MA作為表達母性的詞語而考量
-** 取材至少有一半都來自芭芭拉的爭議作《The Woman's Dictionary of Symbols & Sacred Objects》第632頁[https://eirikrjs.tumblr.com/post/630998471810351104/walkers-book-has-entries-for-ma-and '''對Mem-Aleph的完整介紹'''] <s>欲言又止.jpg</s>
-*** 據當中對考古學家奧勃萊（William Foxwell Albright）的《Yahweh and the Gods of Canaan》第198頁的取材，需追溯到《Altorientalische Bilder zum Alten Testament》第165頁介紹第ccxxvi頁中圖582的示瑪雅公牛圖案印章展示（1909年版本則在104頁圖202），亦來自神學家本辛格（Immanuel Benzinger）的《Hebräische Archäologie》259-260頁圖94認為可能是Jahves的公牛圖像，卻在意指「亞撒利雅（Azariah，德語「Azarjahu」）」<s>而上面的那些閃族腓尼基字母文字明顯不是Mem跟Aleph</s>
-*** 又據當中對羅伯特的《New Larousse Encyclopedia of Mythology》<s>又是你蘿蔔特</s>317-318頁的取材，並沒有提及把波斯語混同的阿梅雷塔特（Mourdad（Mordād）-Ameretat）
-* 原本是作為創造的太母神而存在，因為人類對地球的破壞和汙染而化成破壞的古母
-** 宇宙卵的製造者，本打算交予其他惡魔重塑一切，但均未果
-** 在本作中只有走表CHAOS路線才不會與她為敵，否則必定和玩家為敵
-** 重製版中更進一步的強化了其{{ruby|古母|<s>老不死</s>}}性格，除了黑色疆界外更是創造出用來消化異論者古神惡魔的嘆息之胎
-** 在嘆息之胎中被封印的惡魔有女神迪蜜特、天女阿娜西塔、女神伊絲塔、<s>湊數用的</s>墮天使佛紐斯、魔王亞蒙、夜魔許普諾斯、魔神宙斯、女神瑪麗亞等
-* 一度被擊破後，捨棄理智及肉體，成為單純破壞一切的存在「虛大靈」
-** 擁有與歷代頭目相比也名列前茅的恐怖實力
-*** 保有前一個姿態的技能下依舊具有非常強大的攻擊力，而且此階段的屬性對應除了破魔與咒殺外皆會在每回合按規律切換
-*** 而在「虛大靈」時追加的「MA」，效果是「即死及完全吸收對象的HP」，每逢攻擊被反射時就會使用，而且'''可以對主角發動'''
-**** 因此需要注意主角的耐性，萬一命中主角而身上又有反射的話，就會直接GAME OVER
-* <s>有著一頭極為特色的大嬸髮型及極度苗條的身材</s>
-* 另外，築地根岸寺裡最深處有著她的塑像
-<br>
-
-{{MTdata
 |Name=アレックス
 （阿麗克絲）
 |Type=人間
@@ -1219,7 +1369,7 @@ DSJ（新路線脫離後頭目戰）：クラウ・ソラス
 }}
 <br>
 
-==== 真・女神轉生Ⅳ/Ⅳ Final ====
+===== 真・女神轉生Ⅳ/Ⅳ Final =====
 {{MTdata
 |Name=フリン
 |Type=人間
@@ -1359,7 +1509,7 @@ DSJ（新路線脫離後頭目戰）：クラウ・ソラス
 ** 意圖再度東山再起，但被主角擊敗，大腦的培養缸被打破，女性屍體也在後來的支線任務中有更多後續（見イサナミ）
 <br>
 
-==== 真・女神轉生Ⅴ/Ⅴ Vengence ====
+===== 真・女神轉生Ⅴ/Ⅴ Vengence =====
 {{MTdata
 |Name=八雲ショウヘイ
 （八雲翔平）
@@ -1480,150 +1630,6 @@ DSJ（新路線脫離後頭目戰）：クラウ・ソラス
 * 5V復仇線的可操作客座角色之一，由於本身就能使用魔法而不需依靠惡魔召喚程式便能戰鬥
 * 至聖女型態的專技「原初の混沌」是相當於自帶「女巫詛咒」和「迪卡加」的萬能全體攻擊（和多緒的「秩序の光」效果完全反過來），亦因此也被看作本代的強力仲魔之一
 * 而且與多緒完成使命後相比，洋子能一直陪伴主角到最後{{censored|因此在挑戰閣下時也能作為參戰單位使用}}
-<br>
-
-==== 其他 ====
-{{MTdata
-|Name=ヴェニタス
-（虛空）
-|Type=？？
-|Ali=-
-|Picture=[[檔案:D2Vanitas.png|300px]]
-|Faction=咒殺
-|Skill=6日目の奇跡、悪意の天秤、（攻擊、強化、抑制、防衛）機能
-|Edition=Dx2 真･女神転生 リベレーション
-}}
-
-*即拉丁語的「Vanitas（虛無）」，《傳道書》12：1-8有云「你趁著年幼、衰敗的日子尚未來到，就是你所說，我毫無喜樂的那些年日未曾臨近之先，當記念造你的主。——傳道者說：『'''虛空的虛空，凡事都是虛空'''。』」
-*D2中是{{ruby|上帝神跡|六日創世}}「劫波」之一，即「{{ruby|創作支配萬物的頂點『人類』|《創世記》}}」的神跡本身<s>，雖沒明講，但這該分類為神靈吧</s>
-**為恪守神跡，通過測量惡意並反饋的方式賦予試煉，促使人類進化，而曾經的兩次試煉（塞拉耶佛事件、納粹崛起）卻引發了兩次世界大戰
-**人類的惡意即將到達臨界點而開始了滅絕終局，但被「新生解放者」以聯繫及通過「{{ruby|超級善意輸入機|（原）龍脈污染裝置}}」輸入善意的方式，削弱並與之抗衡，藏於東京正下方的「本體」也被找到並擊退
-***虛空本身沒有本體的概念，但當干涉世界並進行回饋時會凝聚起來，因此能把該狀態的虛空擊退
-<br>
-
-{{MTdata
-|Name=イナルナ姫
-（伊那瑠奈姫）
-|Type=惡魔召喚師：古姬
-真TCG：古妃
-|Ali=DARK-CHAOS
-|Picture
-|Faction=萬能
-|Skill=第一型態：無情の舞、外法幻花陣
-第二型態：恨みの慟哭、嘆きの咆哮、絶滅覇拳
-|Edition=惡魔召喚師
-}}
-
-* 生前為支配古代日本的巫女，後在現世懷著悲憤及憎惡而復活
-* <s>對戰的時候那音樂輕快得以為在看城市獵人</s>
-<br>
-
-{{MTdata
-|Name=ジード<br>（Zeed）
-|Type=造魔
-|Ali=NEUTRAL-NEUTRAL
-|Picture
-檔案:Zeed Human2 Soul Hacker.png|人型2
-|Faction=-
-|Skill=-
-|Edition=惡魔召喚師 靈魂駭客
-}}
-
-* 在酒店「業魔殿」裡，藉由「ドリー・カドモン」合體誕生的仲魔
-* 型號眾多且自由命名
-** 分為「普通」、「人型」、「獸型」、「龍型」、「天使」、「龍/獸」、「人/天使」共7種，並再往下分成兩種
-** 當中人型、獸型、龍型、天使裡其中各一個型號在前1代的PSP就作為魔王登場
-*** 分別是「大衛（人型）」、「斯庫爾（獸型）」、「利維坦（龍型）」、「以諾（天使）」
-<br>
-
-{{MTdata
-|Name=スナッピー
-（Snappy）
-|Type=妖獸
-|Ali=DARK-NEUTRAL 
-|Picture
-|Faction=凍結
-|Skill=-
-|Edition=惡魔召喚師 靈魂駭客
-}}
-
-* 原本是主人公妹妹的畫作，經由「パラダイムX」在電腦世界中誕生
-** 雖然會吸收魔法，但有限量，超過的話會自滅<s>儘管也可以用物理打法攻破</s>
-* 金子先生的萬魔殿插圖集第二冊提及「海豚把死者引導到冥界」的傳說，實際上類似典故在《荷馬史詩》海豚把海難受害者拉到岸邊拯救或埋葬的部分
-* 此外，海豚（Dolphin）一詞也被認為來自「Delphyne」，其意為「子宮（δελφύς）」
-* 名字捏他美國1964年播放的海洋冒險連續劇《[https://en.wikipedia.org/wiki/Flipper_(1964_TV_series) Flipper]》、與作品同名的海豚主角
-<br>
-
-{{MTdata
-|Name=ゼノン
-（芝諾/Zenon）
-|Type=造魔
-|Ali=
-|Picture=
-|Faction=物理
-|Skill=-
-|Edition=靈魂駭客2
-}}
-
-* CV:興津和幸
-* 釐屬於幻影結社的造魔，由本作主要反派鐵面人親手製作，靈魂駭客2中唯四新設計的惡魔(ry
-** 為負責承載能量體「虹約」的容器，腦袋不好但戰鬥能力非常強大
-<br>
-
-{{MTdata
-|Name=Aion
-|Type=電靈
-|Ali=
-|Picture=
-|Faction=萬能、電擊、槍擊
-|Skill=第一階段：悲痛の禊、ネオ・ドグマ、アークライト、<br>
-クロックアップ、ダメージ圧縮<br>
-第二階段：メタ・サクラメント、ピュシス・パラドクス、<br>
-歌う、来たるべき無窮光、アポストル生成、ロゴス崩壊、アビスの眼
-|Edition=靈魂駭客2
-}}
-
-* CV:森なな子（被菲格統合後）
-** 在21世紀中期，於網路中的無數情報中誕生的電子生命體，<s>一看就知道是</s>本作最終BOSS。靈魂駭客2中唯(ry
-** 為了阻止世界被幻影結社毀滅，創造了兩個<s>Vtuber</s>分靈：林檎和菲格，並指示她們前往調查並阻止造成世界毀滅的元凶
-** 其中負責代表Aion傳達指令的分靈為芙朗瑪（CV:鈴木柊真）<s>特技是嚴重棒讀，讓許多日本玩家適應不良</s>
-** <s>明明是電靈但其能力卻根本就是純粹的魔法，甚至{{censored|能改寫人的靈魂型態並}}A走惡魔召喚權限</s>
-** 準確說其實是菲格操縱Aion當最終頭目
-*** <s>Aion：因為我們覺得菲格的計畫有助於人類和我們共存（重點是她手上還有五條虹約），嚴格來說我是無辜的，謝謝</s>
-*** <s>芙朗瑪：幫復...</s>
-* 名稱出自希臘神話中的艾詠神，是掌管時間、年循環、星體與黃道帶的希臘原始神。象徵為環與銜尾蛇
-** 其象徵的「時間」代表著永恆及無限。
-* <s>Aion在指示的時候沒有給她們知道自己也是競爭跟發展中誕生嗎？</s>
-** <s>{{censored|Raven：菲格，妳的世界真小啊......}}</s>
-<br>
-
-{{MTdata
-|Name=ナナ
-（七奈）
-|Type=造魔
-|Ali=NEUTRAL
-|Picture=[[file:SH2 Nana.webp|200px]]
-|Faction=
-|Skill=-
-|Edition=靈魂駭客2
-}}
-<br>
-
-{{MTdata
-|Name=うちゅういしき
-（宇宙意志）
-|Type=-
-|Ali=-
-|Picture=
-[[檔案:Great Will Last Bible.png|200px]]
-|Faction=電擊、衝擊
-|Skill=スターダスト、フォース
-|Edition=外伝ラストバイブル（Game Gear）
-}}
-
-* Game Gear版的最終頭目，創造了能毀滅自己的主角，並作為自己的對手
-** 任何攻擊皆對其無效，需直到主角使用「コキトエルコス」並自我犧牲後才能造成傷害
-** 目前多為根據名字表述視作{{ruby|系列大黑幕|偉大的意志}}的分靈，但也有同好直接認為是大黑幕本身
 <br>
 
 == 相關條目 ==

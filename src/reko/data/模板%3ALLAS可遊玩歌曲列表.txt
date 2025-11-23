@@ -1,0 +1,306 @@
+<noinclude>{{documentation}}
+本模板為把歌曲列表從主條目分割以便於管理
+</noinclude>
+
+* 關於各樂曲的詳細說明請見各團的音樂作品條目
+* 底線為日替曲（每日輪流開放，只限5次且無PV），刪除線為期間限定曲；【A】為帶動畫演出（期間限定）、【N】為無3D演出MV
+* 日替曲會有特定屬性素材的掉落加成，金色與銀色的馬卡龍平時也只能從日替曲取得
+* 活動期間推出的新歌曲難度會調低，並以無屬性歌曲推出；一段時間後換回正常難度與屬性，打歌紀錄及通關獎勵不繼承
+* 期間限定而已帶有屬性的歌曲，正式推出時的屬性及難度或會有變，此表以正式推出時為準
+
+{|border="1" width="75%" class="wikitable" style="text-align: center; font-size:90%; margin-left: auto; margin-right: auto;"
+!屬性＼團體
+! style="background:magenta;" | μ's
+! style="background:aqua;" | Aqours
+! style="background:yellow;" | 虹咲
+! style="background:violet;" | Liella!
+|-
+!{{Color|pink||Smile}}
+|<!--- μ's --->
+* それは僕たちの奇跡
+* LOVELESS WORLD
+* HEART to HEART!
+* もぎゅっと“love”で接近中!
+* 僕たちはひとつの光
+* SUNNY DAY SONG
+* <u>まほうつかいはじめました!</u>【N】
+* <u>Someday of my life</u>【N】
+* これから【N】
+
+|<!--- Aqours --->
+* 未来の僕らは知ってるよ
+* Brightest Melody
+* 待ってて愛のうた
+* smile smile ship Start!【N】
+* なんどだって約束！【N】
+* DREAMY COLOR
+* New Romantic Sailors【N】
+* タテホコツバサ【N】
+* <u>One More Sunshine Story</u>【N】
+* <u>おやすみなさん！</u>【N】
+
+|<!--- 虹咲 --->
+* TOKIMEKI Runners
+* Love U my friends
+* 夢がここからはじまるよ
+* 繚乱！ビクトリーロード(type B)【N】
+* わちゅごなどぅー【N】
+* 夢への一歩
+* 友 & 愛【N】
+* Margaret
+* VIVID WORLD【N】
+* テレテレパシー【N】
+* First Love Again【N】
+* Eutopia【N】
+* SUPER NOVA
+* <u>Maze Town</u>【N】
+* Make-up session ABC【N】
+* KAGAYAKI Don't forget!
+
+|<!--- Liella! --->
+* <s>START!! True dreams</s>【N】
+|-
+!{{color|green||Pure}}
+|<!--- μ's --->
+* Snow halation
+* ユメノトビラ
+* KiRa-KiRa Sensation!
+* タカラモノズ
+* Oh, Love & Peace!
+* <u>ぶる〜べりぃ♡とれいん</u>【N】
+* <u>純愛レンズ</u>【N】
+* さようならへさよなら！
+
+|<!--- Aqours --->
+* 青空Jumping Heart
+* HAPPY PARTY TRAIN
+* GALAXY HidE and SeeK
+* 未体験HORIZON
+* ハミングフレンド
+* ユメ語るよりユメ歌おう
+* BANZAI! digital trippers【N】
+* <u>RED GEM WINK</u>【N】
+* <u>さかなかなんだか？</u>【N】
+* PURE PHRASE 
+
+|<!--- 虹咲 --->
+* NEO SKY, NEO MAP!【A】
+* ミラクル STAY TUNE！(Ver.1)【N】
+* トワイライト【N】
+* 眠れる森に行きたいな
+* 開花宣言【N】
+* Poppin’ Up!【N】
+* エイエ戦サー【N】
+* MELODY【N】
+* ヤダ!【N】
+* 哀温ノ詩
+* La Bella Patria【N】
+* コンセントレイト!【N】
+* I'm Still...
+* 夜明珠
+* Eternal Light【N】
+* Blue!【N】
+* Twinkle Town【N】
+* Not Sad【N】
+
+|<!--- Liella! --->
+* <s>未来予報ハレルヤ！</s>【N】
+
+|-
+!{{color|blue||Cool}}
+|<!--- μ's --->
+* NO EXIT ORION
+* Music S.T.A.R.T!!
+* COLORFUL VOICE
+* Cutie Panther
+* 微熱からMystery
+* ユメノトビラ（挑戰級）
+* A song for You! You? You!!
+* Love marginal【N】
+* <u>勇気のReason</u>【N】
+* <u>ありふれた悲しみの果て</u>【N】
+
+|<!--- Aqours --->
+* KOKORO Magic "A to Z"
+* Landing action Yeah!!
+* Wake up, Challenger!!
+* 恋になりたいAQUARIUM
+* コワレヤスキ
+* もっとね！【N】
+* あこがれランララン【N】
+* コットンキャンディえいえいおー！【N】
+* <u>in this unstable world</u>【N】
+* <u>WHITE FIRST LOVE</u>【N】
+* ユメ+ミライ=無限大【N】
+
+|<!--- 虹咲 --->
+* 未来ハーモニー【A】
+* Sweet Eyes【N】
+* Colorful Dreams! Colorful Smiles!【A】
+* Awakening Promise【N】
+* TO BE YOURSELF【N】
+* Starlight
+* Wish【N】
+* 楽しいの天才
+* サイコーハート【N】
+* My Own Fairy-Tale
+* LIKE IT! LOVE IT!
+* DIVE!【N】
+* Love Triangle【N】
+* 祭花 -saika-【N】
+* Infinity！Our Wings!!【N】
+* Sing & Smile!!
+* Swinging【N】
+* TOKIMEKI Runners(12人ver.)
+
+|<!--- liella! --->
+
+|-
+!{{color|red||Active}}
+|<!--- μ's --->
+* Wonderful Rush
+* 僕らは今のなかで
+* Happy maker!
+* MOMENT RING
+* LONELIEST BABY
+* PSYCHIC FIRE
+* 知らないLove*教えてLove【N】
+* <u>恋のシグナルRin rin rin!</u>【N】
+
+|<!--- Aqours --->
+* Step! ZERO to ONE
+* Strawberry Trapper
+* MIRACLE WAVE
+* Hop? Stop? Nonstop!
+* future flight【N】
+* ダイスキだったらダイジョウブ!
+* MY舞☆TONIGHT
+* Jump up HIGH!!
+* Braveheart Coaster【N】
+* Perfect SEKAI【N】
+* <u>Beginner's Sailing</u>【N】
+
+|<!--- 虹咲 --->
+* 虹色Passions! 【A】
+* Just Believe!!!
+* 夢が僕らの太陽さ【A】
+* 全速ドリーマー【N】
+* Say Good-Bye 涙
+* ☆ワンダーランド☆【N】
+* Turn it Up!【N】
+* めっちゃGoing!!
+* Butterfly【N】
+* CHASE!
+* いつだってfor you!【N】
+* ツナガルコネクト【N】
+* Shadow Effect【N】
+* Dream Land! Dream World!
+* Kakushiaji!【N】
+* Happy Nyan! Days【N】
+* ENJOY IT!【N】
+* OUR P13CES!!!【N】
+
+|<!--- Liella! --->
+* <s>未来は風のように</s>【N】
+
+|-
+!{{color|purple||Elegant}}
+|<!--- μ's --->
+* 夏色えがおで1,2,Jump!
+* 嵐のなかの恋だから
+* No brand girls
+* Angelic Angel
+* 春情ロマンティック
+* Dancing stars on me!
+* 愛してるばんざーい！
+* ダイヤモンドプリンセスの憂鬱【N】
+* <u>Daring!!</u>【N】
+* Snow Halation（上級+）
+
+|<!--- Aqours --->
+* スリリング・ワンウェイ
+* Fantastic Departure!【N】
+* JIMO-AI Dash!【N】
+* 未熟DREAMER
+* WATER BLUE NEW WORLD
+* 君の瞳を巡る冒険
+* トリコリコPLEASE!!
+* Amazing Travel DNA【N】
+* 突然GIRL【N】
+* <u>New winding road</u>【N】
+* 想いよひとつになれ（9人Ver.）
+
+|<!--- 虹咲 --->
+* L! L! L! (Love the Life We Live) 
+* Just Believe!!! (12人Ver.)
+* ミラクル STAY TUNE！(Ver.2)
+* 繚乱！ビクトリーロード(type A)【N】
+* Dream with You【N】
+* ダイアモンド
+* あなたの理想のヒロイン
+* オードリー【N】
+* Fire Bird
+* Diabolic mulier【N】
+* アナログハート
+* 決意の光
+* Queendom
+* POWER SPOT!!【N】
+* <u>THE SECRET NiGHT</u>【N】
+* フォルクロア ～歓喜の歌～【N】
+* Beautiful Moonlight【N】
+* MONSTER GIRLS
+
+|<!--- Liella! --->
+* <s>Wish Song</s>【N】
+
+|-
+!{{color|orange||Natural}}
+|<!--- μ's --->
+* 僕らのLIVE 君とのLIFE
+* START:DASH!!
+* Wonder zone
+* どんなときもずっと
+* sweet&sweet holiday
+* きっと青春が聞こえる
+* SENTIMENTAL StepS【N】
+* <u>孤独なHeaven</u>【N】
+
+|<!--- Aqours --->
+* 君のこころは輝いてるかい?
+* SKY JOURNEY
+* ジングルベルがとまらない
+* MIRAI TICKET
+* Aqours☆HEROES
+* 元気全開DAY!DAY!DAY!
+* 近未来ハッピーエンド
+* Shiny Racers【N】
+* <u>Pianoforte Monologue</u>【N】
+* 勇気はどこに？君の胸に！【N】
+* Never giving up!
+
+|<!--- 虹咲 --->
+* TOKIMEKI Runners 17章Ver. 
+* Hurray Hurray【N】
+* Future Parade【N】
+* 永遠の一瞬
+* Break The System【N】
+* 無敵級*ビリーバー【N】
+* やがてひとつの物語
+* Solitude Rain【N】
+* Märchen Star
+* Silent Blaze【N】
+* Evergreen
+* 声繋ごうよ【N】
+* ドキピポ☆エモーション
+* 翠いカナリア
+* Toy Doll
+* Fly into the sky【N】
+* Cheer for you!!【N】
+* PASTEL【N】
+* Vroom Vroom【N】
+
+|<!--- Liella! --->
+* <s>始まりは君の空</s>【N】
+|}
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

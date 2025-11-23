@@ -49,6 +49,7 @@
 
 * 2025年11月6日，東映於官網[https://www.toei.co.jp/company/press-release/detail/1247111_3623.html 公告]皮套演員[[假面騎士製作人員列表#鍜治洸太朗|鍜治洸太朗]]{{ref|於前作《Gavv》擔任假面騎士Valen的皮套，本作擔任的皮套未明}}於外景綵排時意外從約2公尺的高處墮下，經驗查後受了包括頭蓋骨骨折在內的重傷，預計須入院2週
 ** 根據[https://mainichi.jp/articles/20251106/k00/00m/040/261000c 相關新聞報道]，事故發生於前橋市關根町的體育設施<s>[https://jl-db.nfaj.go.jp/location/100500152/ 辣個特攝迷熟悉的樓梯]</s>，意外原因正調查中
+** 同月16日，本人於X上{{twitter|k_ktaro|1989951630851412117|公布}}已經出院
 {{hidef|}}
 
 === 與前作的關聯 ===
@@ -139,7 +140,7 @@
 |-
 | 8 || Poison Nightmare<br>（ポイズンナイトメア） || 毒 || 山王廉太郎<br>【演：中村育二】 || [[猛毒|身體能化成毒液]]<br>[[鬼滅之刃/登場人物一覽#「蟲柱」胡蝶 忍（胡蝶しのぶ）|瞬間能生成出逾萬種毒物]]，經由配置於全身的針或爪等注入目標體內將之溶化 ||
 |-
-| 10 || Mold Nightmare<br>（モウルドナイトメア） || 黴菌 || 渥美太郎<br>【演：林泰文】 || 全身滿是能讓各種物體變質及腐蝕的菌絲，能放出黴菌胞子附著在物件上快速增殖並腐蝕 ||
+| 10 || Mold Nightmare<br>（モウルドナイトメア） || 黴菌 || 渥美太郎 || 全身滿是能讓各種物體變質及腐蝕的菌絲，能放出黴菌胞子附著在物件上快速增殖並腐蝕<br>[[本體]]只有分子大小（推測身高2微米），透過[[漫威電影宇宙#第二階段（Phase 2）|<s>操縱皮姆粒子</s>]]{{wp|群體_(生物學)|菌落}}成長成可目測的常人等身大小 ||
 |}
 {{hidef|}}
 
@@ -149,9 +150,14 @@
 *** 自稱為「生於黑夜，遊走在夢中的特務」，擁有與莫相同的操縱明晰夢能力
 ** 不時在莫/Zeztz身邊留下一些大言壯語後消失無蹤，直到第6話才正式於Zeztz面前出現
 *** 與寧夢同樣以「SEVEN」稱之，不但告誡Zeztz別自以為能拯救到所有人，還說他終有一天會[[成句/我想起來了|回想起]]自己的惡夢
-** 隨著莫得到並使用Recovery Caspem，確認其復原之力後為了「復原」讓自己回到現實世界開始行動
-*** 先是在第9話奪走Recovery Caspem，之後又在第10話協助Mold Nightmare在夢中奪取畫作意國竊取藏在畫中的國家機密、同時不但妨礙執行奪回機密任務的莫還叫他抽手
+** 隨著莫得到並使用Recovery Capsem，確認其復原之力後為了「復原」讓自己回到現實世界開始行動
+*** 先是在第9話奪走Recovery Capsem，之後又在第10話協助Mold Nightmare在夢中奪取畫作意國竊取藏在畫中的國家機密、同時不但妨礙執行奪回機密任務的莫還叫他抽手
+**** 及後經由莫、鉄也與奈紗香的調查發現他早在仍是賢政的時期便已跟夢的主人「渥美太郎【演：林泰文】」接觸，委託對方製作那三幅贗畫
+*** 利用莫醒來回歸現實的空檔帶走被腐蝕三幅畫，並趁著Zeztz跟Mold Nightmare戰鬥時利用某種藥品把三幅畫合成出一幢通往某個房間的門、從房間裡取走了裝著<!-- Knight Invoker -->某種物件及Capsem的手提箱後用Recovery Capsem的力量將之復元
 
+<!-- <br>
+* Nox Knight（ノクスナイト）
+** 諾克斯以Capsem搭配Knight Invoker變身而成 -->
 === 其他 ===
 * 寧夢（ねむ）【演：堀口真帆】
 ** 藝人好感度No.1的國民[[偶像]]級廣告女王，街上到處都能看見她的身影，堪稱只要見過一遍便必定會在夢裡再見面
@@ -209,7 +215,7 @@
 |-
 | 10 || Esprim Barrier<br>（エスプリムバリア） || Barrier || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Barrier! || 雙臂裝有各一半的レムディフェイス，非常堅固可反彈各種攻擊<br>能展開防禦力場保護自身以外的任何目標 || バリアバニッシュ<br>バリアオーバーバニッシュ || 
 |-
-| 11 || Paradigm Wonder<br>（パラダイムワンダー） || Wonder || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Wonder! || ? || ? || 
+| 11 || Paradigm Wonder<br>（パラダイムワンダー） || Wonder || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Wonder! || 能自由改變身體的大小{{ref|大概因此所有數據都是計測不能<s>（推測）</s>}}<br>ゼッツゲイムライン在全力運作時會發出紫色的光輝 || ワンダーバニッシュ<br>ワンダーオーバーバニッシュ || 
 |}
 {{hidef|}}
 
@@ -230,23 +236,23 @@
 |-
 ! 初登場話數 !! 名稱 !! 解說 !! 備註
 |-
-| 1 || {{color|white|red|Impact<br>（インパクト）}} || 司「衝擊」之夢的Caspem<br>會大幅提升使用者全身的肌肉力量及運動能力 || 
+| 1 || {{color|white|red|Impact<br>（インパクト）}} || 司「衝擊」之夢的Capsem<br>會大幅提升使用者全身的肌肉力量及運動能力 || 
 |-
-| 2 || {{color|white|red|Transform<br>（トランスフォーム）}} || 司「身體變形」之夢的Caspem<br>會讓使用者的身體能自由變化 || 
+| 2 || {{color|white|red|Transform<br>（トランスフォーム）}} || 司「身體變形」之夢的Capsem<br>會讓使用者的身體能自由變化 || 
 |-
-| rowspan="2"|4 || {{color|white|red|Wing<br>（ウイング）}} || 司「飛行」之夢的Caspem<br>會讓使用者能在空中飛翔 || 
+| rowspan="2"|4 || {{color|white|red|Wing<br>（ウイング）}} || 司「飛行」之夢的Capsem<br>會讓使用者能在空中飛翔 || 
 |-
-| {{color|white|blue|Stream<br>（ストリーム）}} || 司「大氣操作」之夢的Caspem<br>會讓使用者能自由操縱大氣和氣流 || 
+| {{color|white|blue|Stream<br>（ストリーム）}} || 司「大氣操作」之夢的Capsem<br>會讓使用者能自由操縱大氣和氣流 || 
 |-
-| rowspan="2"|6 || {{color|white|blue|Machinery<br>（マシーナリー）}} || 司「機械」之夢的Caspem<br>會讓使用者的身體機械化 ||
+| rowspan="2"|6 || {{color|white|blue|Machinery<br>（マシーナリー）}} || 司「機械」之夢的Capsem<br>會讓使用者的身體機械化 ||
 |-
-| {{color|white|blue|Projection<br>（プロジェクション）}} || 司「光學迷彩」之夢的Caspem<br>會投影出使用者的分身 || 
+| {{color|white|blue|Projection<br>（プロジェクション）}} || 司「光學迷彩」之夢的Capsem<br>會投影出使用者的分身 || 
 |-
-| 8 || {{color|white|green|Recovery<br>（リカバリー）}} || 司「復原」之夢的Caspem<br>會修復一切使之復元 || 
+| 8 || {{color|white|green|Recovery<br>（リカバリー）}} || 司「復原」之夢的Capsem<br>會修復一切使之復元 || 
 |-
-| rowspan="2"|10 || {{color|white|green|Barrier<br>（バリア）}} || 司「防禦」之夢的Caspem<br>會製作出防護罩 || 
+| rowspan="2"|10 || {{color|white|green|Barrier<br>（バリア）}} || 司「防禦」之夢的Capsem<br>會製作出防護罩 || 
 |-
-| {{color|white|purple|Wonder<br>（ワンダー）}} || 司「不可思議」之夢的Caspem || 
+| {{color|white|purple|Wonder<br>（ワンダー）}} || 司「不可思議」之夢的Capsem<br>會發揮出超常的力量並能自由操縱 || 
 <!-- |-
 | ? || {{color|black|yellow|Plazma<br>（プラズマ）}} || ? ||
 |-
@@ -283,11 +289,12 @@
 <br>
 
 * Breakam Zeztzer（ブレイカムゼッツァー）
-** 專用武裝，透過把前後段零件以不同方式組裝及零件部分伸縮變形、可從<!-- 劍、槍、斧、鐮 -->四種模式之間切換
+** 專用武裝，透過把前後段零件以不同方式組裝及零件部分伸縮變形、可從劍、槍、斧、鐮四種模式之間切換
 ** 必殺技：
 *** 劍模式：ブレイカムスラッシュ
 *** 槍模式：ブレイカムシュート
 *** 斧模式：ブレイカムクラッシュ
+*** 鐮模式：ブレイカムエッジ
 <br>
 
 * Zeztz Sensor（ゼッツセンサー）
@@ -311,7 +318,7 @@
 
 <!-- <br>
 * Inazuma Blaster（イナズマブラスター）
-====  ====
+==== Nox Knight ====
 * Knight Invoker（ナイトインヴォーカー）
 * Breakam Buster（ブレイカムバスター） -->
 == 其他媒體 ==

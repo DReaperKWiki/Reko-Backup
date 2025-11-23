@@ -1,0 +1,252 @@
+{{h0|GunDeadligne<br>ガンデッドライン/槍亡戰場/槍屍戰線/銃死戦線}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 上一部：[[Gundemonium]] 
+|-
+| 下一部：[[Hitogata Happa]] 
+|}
+[[File:GundeadliGne.jpg|200px|right]]
+
+==概要==
+*由PlatineDispositif所開發的非凡橫向STG
+**最初為C67版,到及steam版
+***<s>畫像素材還兼用到再收集中</s>
+**本條目與重制版本一併介紹(劇情設定無多大差異,但遊戲內容不同)
+
+==系統==
+*可選的自機有三位,皆有下列共通的系統:
+
+*翻轉/flip turn
+**改變射擊前後方向
+
+*變化突破/アルターブレイク/Alterbreak
+**收集指定數量的寶石,區域時限延長、階級上升、回復1生命
+***突破成功打倒群魔後,登錄在群魔挑戰中
+
+*雙打
+**本作能兩人遊玩
+
+===登場人物===
+*艾克希蓮・克瑪普
+**主角,與艾莉席參與滅魔作戰
+***<s>[https://rekowiki.org/w/images/c/ce/DU6k6i-U8AA897Y.jpg 艾克子與艾莉美]</s>
+**該武裝有逆流回再收集中{{censored|為解鎖了任意24個星星的隱藏機<s>可以自己打自己</s>}}
+***由她使用散射槍而不須補充彈藥
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="1"|'''武裝'''!!'''解說'''
+|-
+|類型||初學、低速重火力
+|-
+|射擊||散射槍5W,長壓為光束(翻轉為前2W+後3W)
+|-
+|魔力||知識之風/ダートウィンド(減緩敵方行動)
+|-
+|炸彈||槍魔打帶跑攻擊/GDひきにげあたっく
+|-
+|}
+{{hideh|招式}}
+*王冠/ケテル/Kaether
+*知識/ダアト/Daath(Da'at)
+*伊甸/エデン/Eden
+{{hidef}}
+
+*艾莉席・米爾碧
+**[https://rekowiki.org/w/images/0/0d/MasterMaids.PNG 這回能與鑄體之王定下契約,並召喚過來戰鬥]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="1"|'''武裝'''!!'''解說'''
+|-
+|類型||中等、高速集中
+|-
+|射擊||雙槍
+|-
+|魔力||命運輪
+|-
+|炸彈||鑄體援護攻擊
+|-
+|R:熾烈光束/ブレイジングビッイーム/Blazing Beeeeeam
+||依自機方向發射光束
+|-
+|D:水晶噴泉/クリスタルゲイザー/Crystal Geyser
+||子機發射鎖定雷射
+|-
+|S:超靈物質/マインドオーバーマター/Mind Over Matter
+||<s>The World</s>時間暫停
+|-
+|E:翠綠噴射エメラルドファウンテン/Emerald Fountain
+||全方向散射
+|-
+|J:死奏出擊/デスビートランページ/Death Beat Rush
+||召喚<s>假面騎士</s>深淵王於自機前方猛擊
+|-
+|P:命運之環/サークルオブディスティニー/Circle of Destiny<br>沉默判決/サイレントジャッジメント/Silent Judgment
+||由卡片形成盾牌<br>被彈瞬間才能發動的鎌刀斬擊
+|-
+|}
+
+*高天 薙<br>ナギ・タカマ/Nagi Takama<br>[[File:GL04.PNG|250px]]
+**遠東騎士團(ファーイースト騎士団/Far East Temple Knights)的[[黃金神威|神威]][[巫女]]
+***持有的聖物擁有與鑄體同等的力量
+**<s>受到待遇最差的角色</s>
+***{{censored|性能上不好用、故事方面,同僚們死亡、被捲入時空中、在四面充當頭目,最後就MIA...}}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="1"|'''武裝'''!!'''解說'''
+|-
+|類型||高等、近戰型
+|-
+|射擊||燃燒拳
+|-
+|子機||聖物/レリック/Relics
+|-
+|叢雲劍<br>ムラクモ/Murakumo
+||自機轉動時揮劍斬擊
+|-
+|將門玉<br>将門/マサカド/Masakado
+||依自機方向增幅的光束(僅前後方)
+|-
+|斑鳩鏡<br>イカルガ/Ikaruga
+||反射敵機子彈
+|-
+|}
+
+*佛姆羅絲<br>プリムローズ/Primrose{{ref|名字來自報春花}}<br>[[File:GL05.PNG|250px]]
+**小丑,大地之泉(ヨルドの泉/Spring of Yord)的管理兼王座引導者
+***{{censored|已經被羅塔斯附身了}}
+**<s>[[愛爾奎特‧布倫史塔德|真祖]]</s>
+{{hideh|招式}}
+*菩提樹/リンデン/Linden
+*無量光/アミターバ/Amitabha
+*涅槃/ニルヴァーナ/Nirvana
+{{hidef}}
+
+*{{censored|鑄體天王・羅塔斯<br><s>蓮鑄王</s>/マトリクス・ロータス/MatrixLord Lotus}}
+**{{censored|設定同樣來自於[[TCG|魔法風雲會]]的[https://ja.wikipedia.org/wiki/パワー・ナイン 第九力量]}}
+***{{censored|預定上是在珍珠後製作的鑄體,但製作艾克希蓮用人類靈魂佔走的關係...}}
+**{{censored|<s>閉眼戰鬥的[[風評被害|裸王]](全裸様)</s>}}
+**{{censored|<s>逆流回再收集中登場</s>}}
+{{hideh|招式}}
+*蓮花瓣/ロータス・ペトル/Lotus Petal
+*開蓮花/ロータス・ブロッサム/Lotus Blossom
+*蓮花谷/ロータス・ヴァーレ/Lotus Vale
+*黑噴射/ノワール・ド・ギリター/Noir De Gicleur
+*黑蓮/ロータス・ブラッカー/XXX Lotus Blacker
+{{hidef}}
+
+*[https://rekowiki.org/w/images/7/7d/GLEY045.PNG 變化兵器<br>アルターウェポン/Alter Weapon]
+**蓋波德的防衛系統,能力與鑄體之王相當
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''名字''' !! '''對應'''!!'''解說'''
+|-
+|凱薩琳<br>キャサリン/Katharine||紅寶石||象徵「颱風」
+|-
+|瑪琪<br>マキナ/Machina 13th||鑽石||會使用火箭飛拳(腿)
+|-
+|溫蒂<br>ウェンディ/Wendy||藍寶石||象徵「風」
+|-
+|米絲迪<br>ミスティ/Mysty(Misty)||綠寶石||象徵「迷霧」
+|-
+|茵佛<br>イクリプス/Eclipse||黑玉||象徵「日蝕」
+|-
+|妮裘<br>ネージュ/Neige||珍珠||象徵「雪」,四隻一組
+|-
+|}
+
+{{hideh|Named Enemy}}
+*夏莉
+
+*拉斐爾/ラファエル/Raphael
+**巨大砲擊艦
+
+*安德蒂/アトデリエ/Atodelie
+
+*倒吊瑪莉/マリーノア/MarieNore
+
+*帕梅拉
+**這回拿把刀劍
+
+*明星
+
+*瑪莉大砲/マリーカノス/Maricanoso
+**頭上載大砲的版本
+
+*芳香/バルミア/Balmya
+**<s>兵蜂</s>
+
+*加百列/ガブリエル/Gabriel
+
+*鴨南瓜/カボチャ・モスカタ/Cucurbita Moschata
+
+*白諾艾/ノエル・ブラン/Noel Blanc
+**這回拿手杖
+
+*駱駝式/キャメルクラッチ/Camel Clutch
+
+*階段/エスカーダ/Escada
+
+*曼陀核/マンドラコア/Mandra Core
+
+*墮落烏列/フォールンウリエル/Fallen Uriel
+**活動/アッシャー/Assiah
+**形成/イエツィラー/Yetzirah
+**創造/ブリアー/Briah
+**流出/アツィルト/Atziluth
+{{hidef}}
+
+===Stage ===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Aera''' !! '''關卡標題'''!!'''開頭'''!!'''Boss'''
+|-
+|1
+||[https://rekowiki.org/w/images/2/22/GLEY01.PNG 薛丁格的黑貓<br>シュレディンガーの黒猫/Schrodinger's Black Cat]
+||煉金革命無意中使人類最黑暗的恐懼和預言成真<br>為了對抗從地獄之門湧出的敵人<br>這一年是1975年,計劃發動滅魔作戰(デモニックドーン/Demoinic Dawn)
+||ChatNoir/シャノワール/黑貓<br>Le Paille Au Nez/ラ・パイユ・オー・ネ/嗅上稻草<br>波拿巴/ボナパルト/Bonaparte
+|-
+|2
+||[https://rekowiki.org/w/images/2/2f/GLEY02.PNG.PNG 地獄大拍賣<br>只今地獄絕贊大安売り中/Hell is On Sale]
+||主要內容是建造時空間隧道<br>進入被稱為地獄的蓋波德(ケポリト/Que Pholith{{ref|與邪惡之樹(クリフォト/Qliphoth)相近}})<br>據說在大地之泉裡發現了賢者之石,因此摧毀那裡就能阻止魔軍
+||神金魚/エールドラダ/El Dorada<br>埃律西昂/エリシウム/Elysium
+|-
+|3
+||[https://rekowiki.org/w/images/a/a8/GLEY03.PNG 事象境界航路 1358/Phenomenal Border Route 1358]
+||對人類曾經是一扇充滿希望和科學奇蹟的大門<br>現今只不過是一條直接通往地獄的道路<br>目的地是大地之泉,但這是最快、最危險的方式
+||巴比倫鍛造/バベルフォージ/Babel Forge<br>艾夏/エイシャ/Ayesha<br>米迦勒/ミカエル/Michael
+|-
+|4
+||時之寶座<br>星霜の玉座/The Throne of Ages
+||
+||???
+|-
+|5
+||最終之鑄體<br>ラスト マトリクス/The Last Matrix
+||
+||佛姆羅絲{{censored|→羅塔斯}}
+|}
+
+==隱藏要素 ==
+*{{censored|羅塔斯使出黑蓮的條件}}
+**變化突破和階級上升次數合計超過21次
+
+*永恆巴比倫/Eternal Babel
+**把巴比倫鍛造當成方塊遊戲的模式
+**必須在群魔挑戰全敵機各打贏一次
+
+==參考資料 ==
+*[https://www.platinedispositif.net/games/gundead.htm 官網]
+** [https://store.steampowered.com/app/92220/GundeadliGne/ steam版]
+* [http://web.archive.org/web/20161010025440/http://murasame-wiki.info/ 紫雨飯店Wiki]
+** [[同人STG系列作品列表]]
+** [https://www.youtube.com/watch?v=UBVwuMDMP00&list=PL4ABB77ABDF270E06 Ost]
+** [https://www.youtube.com/watch?v=SycENSw3BAY&list=PLB7DC5BF772F71995 Ast]
+
+==回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+[[Category:射擊遊戲]]

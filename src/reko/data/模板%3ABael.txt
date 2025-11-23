@@ -1,0 +1,9 @@
+{{Iumb
+| id = Bael
+| bg = blue
+| image = [[檔案:Bael.jpg|200px]]
+| caption = [[機動戰士鋼彈 鐵血孤兒|''' {{color|white||「300年だ……もう休暇は充分に楽しんだだろう」}}''']]
+| message = {{color|white||本條目的內容亟需補完與更新、或是修正格式。}}
+| comment = {{color|white||由於編者人力、心力有限，許多部分或無法對標現況，煩請見諒，同時歡迎進行補全。}}
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

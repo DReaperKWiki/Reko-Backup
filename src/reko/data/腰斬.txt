@@ -1114,7 +1114,7 @@
 |奇奇怪界2
 |奇々怪界2
 |rowspan = "2"|TAITO
-|版權問題<br><s>東方廚說法是因為[[東方Project]]</s><ref>ZUN（太田順也）是從Taito出身，而東方Project有可能是以奇奇怪界為藍本製作，因此推測只要奇奇怪界2推出，東方Project會納入Taito旗下而造成不必要的結果...'''但ZUN與Taito當時已否認此說法，且該說法直到Taito自家獲得東方Project授權推出《東方咒術泡泡》以及NatsumeAtari的旗下小組「TENGO PROJECT」推出基於SFC遊戲的正統續作《奇奇怪界：黑斗篷之謎（奇々怪界 黒マントの謎）》後才正式<s>被打臉</s>推翻'''<s>其實說穿了這說法皆為東方廚（甚至[[エアプ|雲玩家]]）的臆測</s></ref><br>事實上是因為Taito剛好被納入Square Enix旗下，加上Square Enix對於Taito對於遊戲出品的決策影響到遊戲開發<ref>該說法目前可信度高，主要是因為Taito宣布取消遊戲的相關開發及發售的時間點剛好與被納入Square Enix旗下公司的時間點有重疊，而Square Enix是希望收購Taito後能夠更注重在街機遊戲上，因此Taito的家用遊戲部門被縮編收掉</ref>
+|版權問題<br><s>東方廚說法是因為[[東方Project]]</s><ref>ZUN（太田順也）是從Taito出身，而東方Project有可能是以奇奇怪界為藍本製作，因此推測只要奇奇怪界2推出，東方Project會納入Taito旗下而造成不必要的結果...'''但ZUN與Taito當時已否認此說法，且該說法直到Taito自家獲得東方Project授權推出《東方咒術泡泡》以及NatsumeAtari的旗下小組「TENGO PROJECT」推出基於SFC遊戲的正統續作《奇奇怪界：黑斗篷之謎（奇々怪界 黒マントの謎）》後才正式<s>被打臉</s>推翻'''<s>其實說穿了這說法皆為東方廚（甚至[[エアプ|雲玩家]]）的臆測</s></ref><br>事實上是因為Taito剛好被納入Square Enix旗下，加上Square Enix給Taito日後政策的改變影響到遊戲開發<ref>該說法目前可信度高，主要是因為Taito宣布取消遊戲的相關開發及發售的時間點剛好與被納入Square Enix旗下公司的時間點有重疊，而Square Enix是希望收購Taito後能夠更注重在街機遊戲上，因此Taito的家用遊戲部門被縮編收掉</ref>
 |rowspan="9"|中止開發
 |開發小組STARFISH放棄製作本作，並將餘下資源回爐重造做成《雪之娘大旋風》，因此該作也可約略看到奇奇怪界的影子
 |-

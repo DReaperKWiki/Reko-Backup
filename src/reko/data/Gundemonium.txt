@@ -1,0 +1,332 @@
+{{h0|GunDemonium/ガンデモニウム/槍魔殿<br>Gundemonium re:collection/再收集<br>Gundemoniums/<s>驅魔槍手</s>}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 下一部：[[GunDeadligne]] 
+|}
+[[File:5677bf60d6d3727095d8da84676eda90.jpg|right]]
+[[File:Gundemonium_Recollection.jpg|200px|right]]
+
+==概要==
+*由PlatineDispositif所開發的超爆速橫向STG
+**最初為2003年版,到C72及steam則重制為re:collection
+***Gundemoniums則到PS4平台上
+**本條目與重制版本一併介紹(劇情設定無多大差異,但遊戲內容不同)
+
+==系統==
+*Shot/射擊
+**長壓連發時火力較低,若手動連發時火力較強
+***但手動過久時艾莉席雙手會過熱而暫停射擊一段時間
+
+*Mana/魔力
+**副武器的能量
+
+*Life/生命
+**最大為5
+
+*Bomb/炸彈
+
+*Phase level/フェイズレベル/階級
+**彈幕、分數會上升、但使用炸彈後會下降
+
+*Demonic Challenge/群魔挑戰
+**以無Bomb、1Life、最高階級,單挑頭目的任務模式
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''難度'''!!'''解說'''
+|-
+|Novice||初學||較為簡單
+|-
+|Standard||標準||從這開始沒有自動炸彈
+|-
+|Advanced||高級||街機規格
+|-
+|Demonic||惡魔||有擊返彈
+|-
+|}
+
+===再收集時開始的要素===
+*DemonicShift/デモニックシフト/魔境變化
+**消費一次生命值,強制將階級調到最高
+
+*PlayOrders/玩成指令
+**收集特定條件才能取得的星星
+{{hideh|星星}}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+|1||難度初學通關
+|-
+|2||難度標準通關
+|-
+|3||難度高級通關
+|-
+|4||難度惡魔通關
+|-
+|5||任務模式解鎖
+|-
+|6||群魔挑戰模式全部通關
+|-
+|7||指令鑄體模式全部通關
+|-
+|8||無限光全模式全部通關
+|-
+|9||使用艾莉席通關
+|-
+|10||使用全部種類的伯爵式
+|-
+|11||使用魔境變化時將安迪翁擊倒
+|-
+|12||阿妮亞上的七個十字架擊落後再擊倒
+|-
+|13||將飛行大砲上的砲台擊落後再擊倒
+|-
+|14||將道中出現的屏障南瓜擊落16個
+|-
+|15||將道中出現的葉星人擊落64個
+|-
+|16||直接擊落殺劍本體
+|-
+|17||與光耀戰鬥時被彈Bomb6次
+|-
+|18||被光子戰士使用必殺擊中2次以上
+|-
+|19||取得4個生命道具
+|-
+|20||伊連奇卡和伊卡勒,在不使用Bomb時擊倒
+|-
+|21||NoMiss時擊倒艾克希蓮(全招式)
+|-
+|22||招式-王冠的時限已過
+|-
+|23||招式-知識擊倒
+|-
+|24||一關內收集一千個寶石
+|-
+|25||一關內達成千次連擊
+|-
+|26||達成1500萬分
+|-
+|27||突擊一百次
+|-
+|28||FrictionBreak4次
+|-
+|29||被彈Bomb10次
+|-
+|30||魔境變化使用10次
+|-
+|31||無生命時復活一沒
+|-
+|32||全條件達成
+|-
+|}
+{{hidef}}
+
+*伯爵式的武裝一覽
+{{hideh|武裝}}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''武裝''' !! '''1''' !! '''2'''!!'''3'''!!'''4'''
+|-
+|射擊
+||星火<br>スターファイア/Star Fire
+||雙鑽<br>ツインドリル/Twin Drill
+||幸運星<br>ラッキー☆レイ/Lucky Star
+||量子<br>フォトン/Photon
+|-
+|魔力
+||知慧之聲/<br>ダートウィスパー/Daath Whisper
+||突擊者<br>デリンジャー/Derringer
+||升光劍<br>ライジングソード/Rising Sword
+||地獄穿刺<br>ヘルスパイク/Hell Spike
+|-
+|炸彈
+||血雨<br>ブラッドレイン/Blood Rain
+||超越<br>オーバードライブ/Over Drive
+||流星<br>シューティングスター/Shooting Star
+||玫瑰<br>十字ローゼンクロイツ/Rozenkreuz
+|-
+|}
+{{hidef}}
+
+===登場人物===
+
+*艾莉席・米爾碧<br>エリス・ミルフォール/Eryth Millfall<br>[[File:DhKwkwMVQAAdQLz.png|250px]]
+**玫瑰十字財團(ローゼンクロイツ財団/[[Rosenkreuzstilette|Rosenkreuz Foundation]])的AAA級王牌特務
+***手持雙槍在天空中執行任務、被稱為『黑色死神』
+***[https://rekowiki.org/w/images/1/17/GDEd01.PNG 最近由於人手不足,一直很忙]
+***<s>傑克斯‧馬吉斯</s>
+
+*金色黎明(ゴールデンドーン/Golden Dawn)<br>隱名者(無銘/ザ・ネームレス/The nameless)
+**艾莉席的兩把愛槍,都具有無限彈藥的效能
+
+*命運輪<br>フォーチューンウィール/Fortune Wheel
+**擊中時能減緩敵方行動的副武器
+
+*散射槍<br>バベルレンジ/BabelRange
+**從鑄體上研發的強力武裝
+**艾莉席使用時為7way的Bomb
+***<s>後來因為太重了而拿給別人用</s>
+
+*艾克希蓮・克瑪普{{ref|直譯是靈藥天使・鑄體代行者}}<br>エリクシレル・クロムマトリクスプロキシー/Elixirel chrome matrix proxy<br>[[File:Elixirel.PNG|200px]]
+**自稱槍魔,帶領群魔的反叛者
+***持有一把紅槍,招式則以生命之樹命名
+**<s>原本是御姐體型</s>後來被艾莉席打爆之後、[https://rekowiki.org/w/images/0/01/GDEd03.PNG 重制成<s>看起來傻傻的</s>女孩]
+***後來在財團的保護下生活,作為艾莉席的助手
+**<s>希洛‧唯</s>
+{{hideh|招式}}
+*王國/マルクト/Malchut
+*基礎/イェソド/Yesod
+*宏偉/ホド/Hod
+*勝利/ネツァク/Netrech
+*美麗/ティファレト/Tiphereth
+*嚴厲/ゲブラー/Geburah
+*慈悲/ケセド/Chsed
+**<s>抄禁忌「フォーオブアカインド」的</s>
+*理解/ビナー/Binah
+*智慧/コクマー/Cochma
+*王冠/ケテル/Kaether
+*知識/ダアト/Daath(Da'at)
+**再收集時出現的核心型態
+{{hidef}}
+
+*[https://rekowiki.org/w/images/f/fc/GDEY05.PNG 指令鑄體<br>マトリクスオーダース/Matrix Orders]
+**專門對抗群魔用的兵器,以「鑄體之王」稱之
+**七位{{ref|珍珠佔兩位}}皆以[[女僕]]造型制作<s>卻有現代風的日式名</s>
+***設定來自於[[TCG|魔法風雲會]]的MoX系列卡牌
+**後來制作出艾克希蓮時,加入了人類靈魂,造成本作事件的開端...
+
+*安娜絲坦・克洛<br>アナスタシア・クローベル/Anastasia Clover
+**財團的科學家
+***再收集計劃的發起人,負責開發伯爵式
+
+*伯爵式<br>アール/Earl<br>[[File:DL8rvGsV4AAmho3.jpg |200px]]
+**艾克希蓮的量產機、能自由配置武裝
+**<s>一副死魚眼</s>個性上很死板,[https://rekowiki.org/w/images/c/c1/GDEd02.PNG 克洛博士被感到很頭痛...]
+
+{{hideh|Named Enemy}}
+*有名字的<s>淫</s>群魔{{ref|有些擦邊得沒穿褲子}}
+**再登場時以Deux(法語的2)或其它命名的型態出現
+
+*明星<br>エトワール/L'etoile
+**兩隻一組<s>上海、蓬萊</s>
+**十字架為夏莉(シャルリ/Sharley)、劍則是瑪莉兒(マリエル/Mariel)
+***<s>戰線時瑪莉兒的招式較搞笑</s>
+
+*諾艾/ノエル/Noel
+*犢牛式/ブルパップ/Bullpup
+**有穿絲襪的兔娘
+
+*陳梅/Mei Chen
+
+*飛行大砲/ボルカノン/Volcanon
+**<s>下空</s>
+
+*西唯娜/シルビアナ/Silviana
+
+*帕梅拉/パメラ/Pamelah
+**會使用火炎
+
+*媞米/テリミ/Tremmy
+**<s>西木野真姬</s>
+
+*殺劍/スレイヤー/Slayer
+
+*莫妮卡/モニカ/Monica
+**會<s>使用555Gear</s>變身成光子戰士(フェイザー/Phaser)
+***被擊倒後變為加速型態(フェイザーアクセル/Phaser Axel)
+
+*殺戮兵器X/X37564
+**み是3、な是7、ご是5、ろ是6、し是4
+
+*女王/レギナ/Regina
+**<s>很爽的黃企鵝</s>
+
+*蘿露/ロール/Roll
+
+{{hidef}}
+===Stage ===
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Chapter''' !! '''關卡標題'''!!'''開頭'''!!'''Boss'''
+|-
+|1
+||[https://rekowiki.org/w/images/d/d0/GDEY01.PNG 月影舞踏会/月影舞導會]
+||十八世紀<br>人類取得煉金革命使社會快速進展<br>但作為其繁榮的代價帶給世界帶來了很多黑暗...
+||安迪翁/エンデュミオーン/Endymion<br>阿妮亞/アイネイア/Aenea
+|-
+|2
+||[https://rekowiki.org/w/images/7/71/GDEY02.PNG 地獄列車で逝こう/奔走的地獄火車/超列車強盗]
+||在東部鐵路發生了火車突襲<br>必須趕往現場消滅敵人
+||沙摩斯/サモス/Samoth<br>香坦爾/シャンタル/Chantal
+|-
+|3
+||[https://rekowiki.org/w/images/5/52/GDEY03.PNG 蒼穹航路/天空之路]
+||去西方回歸路線調查魔法書的部隊已經失蹤了<br>突破天空衝向此地
+||流星/エトワール・フィラント/Etoile Filante<br>光耀/ルミエール/Lumiere
+|-
+||4
+||[https://rekowiki.org/w/images/4/41/GDEY04.PNG 第七結界・銃魔殿/第七結界・槍魔殿]
+||當人類從大地之泉帶回六賢石時,被打開了第七個魔殿時空<br>魔法的方尖碑鐘聲響起了世界的盡頭<br>最高優先指令：摧毀魔殿
+||伊連奇卡/エレシュキガル/Ereshkigal<br>納姆達/ナムター/Namtar<br>伊卡勒/イルカラ/Irkalla
+|-
+||5
+||汝、永遠の世界否定存在也/被世界拒絕的你
+||第七罪是由賢石加上人類的靈魂所完成的<br>現在響起末日的鐘聲,它是永遠不會被原諒的存在
+||艾克希蓮
+|}
+
+=== Demonic Challenge ===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''鑄體之王''' !! '''名字'''!!'''解說'''
+|-
+||紅寶石<br>ルビー/Ruby
+||神田 芹<br>神田せろり/セロリ/Serori
+||擅長以「火力」為主的攻擊
+|-
+||鑽石<br>ダイヤモンド/Diamond
+||代代木 雪<br>代々木ゆき/ユキ/Yuki
+||基於「技術」的力量,擅長聚焦光線<br>但美中不足是她很迷糊
+|-
+||藍寶石<br>サファイア/Sapphire
+||六本木 有茜川<br>六本木ありす/アリス/Alice
+||擅長「心靈」方面,以及時間控制(暫停)的能力
+|-
+||綠寶石<br>エメラルド/Emerald
+||草薙 薰<br>草薙かほり/カヲリ/Kawori 
+||能製造大量軍隊<br><s>製造物是貓所以是貓控</s>
+|-
+||黑玉<br>ジェット/Jet
+||赤坂 友惠<br>赤坂ともえ/トモエ/Tomoe
+||主題是「生與死」,擁有惡夢般的再生能力{{ref|如果不先擊落砲台部份,否則打倒後會補血回去}}
+|-
+||珍珠<br>パール/pearl
+||七瀬 澪/七瀬みお/ミオ/Mio<br>七瀬 可憐/七瀬かれん/カレン/Karen<br>銀之星/アルゲンティヌム‧アストルム/Argenteum Astrum
+||兩人一組,澪擅長卡片、可憐則是鎌刀<br>合體成銀之星是最強的形態{{ref|只能使用副武器}}
+|}
+
+==[http://www.platinedispositif.net/games/gd_secret(old).htm 隱藏要素] ==
+*解鎖任務模式(???→Mission Mode)
+**在任意難度的擊破最終BOSS、自爆出衝擊波時使用Bomb
+***{{censored|未使用→釋放大量魔力污染許多國家的通常結局}}
+***{{censored|有使用→[https://rekowiki.org/w/images/9/98/GDEd04.PNG 以主角魔力封印核心的真結局]<br>再收集:一定機率下出現核心型態-知識}}
+
+==參考資料 ==
+*[http://www.platinedispositif.net/games/gundemonium.htm 官網]
+** [http://www.platinedispositif.net/games/regundemonium.htm 再收集]
+** [https://store.steampowered.com/app/92200/Gundemonium_Recollection/ steam版]
+** [http://www.platinedispositif.net/pd/gundemoniums/ 驅魔槍手]
+* [http://web.archive.org/web/20161010025440/http://murasame-wiki.info/ 紫雨飯店Wiki]
+** [[同人STG系列作品列表]]
+** [https://www.youtube.com/watch?v=3JSbORVBBkw&list=PLDxCEhxO90DF98Xlh_QTbpmPuPm0p5JCb Ost]
+** [https://www.youtube.com/watch?v=SycENSw3BAY&list=PLB7DC5BF772F71995 Ast]
+
+==回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+[[Category:射擊遊戲]]
