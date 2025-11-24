@@ -160,7 +160,7 @@
 |[https://www.twitch.tv/momo 連結]
 |{{twitter|MomoMischief|name=連結}}
 |-
-!colspan=5 align="center"|未知偶像團體
+!colspan=5 align="center"|Densetsu.EXE
 |-
 |[[Mint Fantôme]]
 |幽靈女僕，於2020/07/24出道的個人勢VTuber，與[[Dokibird]]為好友關係<br>{{censored|某森林妖精的原先身分}}<br>於2025年7月22日透露曾與VShojo合作並通過2024 EN海選，將會與另外兩人合作組成偶像團體並以VShojo成員的身分再次出道<br>，但因VShojo倒閉而最終未成事
@@ -169,12 +169,12 @@
 |-
 |Phoebe Chan
 |於2020/07/18出道的個人勢VTuber兼偶像<br>曾於2024年透露自己為另一已解散的箱PRISM Project的VTuber Amami Ami 的神仙教母{{censored|亦即是中之人}}<br>於2025年7月22日透露曾通過2024 EN海選並將會加入VShojo的偶像團體，但因欠薪問題而主動解約
-|[https://www.twitch.tv/Feebee 連結]
+|[https://www.youtube.com/@feebeechanchibi 連結]
 |{{twitter|feebeechanchibi|name=連結}}
 |-
 |Victoria Roman
-|{{censored|目前尚未正式出道，前世疑似是ミラクルプロ 米プリンセス的Milky Queen}}
-|
+|2025年11月22日出道，{{censored|前世為ミラクルプロ 米プリンセス的Milky Queen}}
+|[https://www.youtube.com/@vickyroman_idol 連結]
 |{{twitter|vickyroman_idol|name=連結}}
 |-
 !colspan=5 align="center"|未知魔物娘團體<ref>第四人身分未知</ref>

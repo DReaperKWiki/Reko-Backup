@@ -706,10 +706,12 @@ Switch
 !名稱
 !主機
 !備註
+!LOGO圖案
 |-
 |[[Final Fantasy 零式]]
 |PSP
 |詳見條目。
+| rowspan="2" |迪娃
 |-
 |Final Fasntasy Agito
 |iOS/Android

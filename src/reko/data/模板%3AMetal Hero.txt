@@ -1,0 +1,22 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|name   = Super Sentai
+|title  = <big>''[[金属英雄系列|<span style="color:red">金属英雄系列</span>]]''</big>
+|titlestyle = background:silver;
+|groupstyle = background:#C0C0C0;text-align:center;line-height:1.4em;
+|group1 =TV作品
+|list1  =
+{{Navbox|child|
+|groupstyle = background:#C0C0C0;text-align:center;line-height:1.4em;
+|name = 
+|group1 =昭和
+|list1  = [[宇宙刑事ギャバン|宇宙刑事Gavan]]・[[宇宙刑事シャリバン|宇宙刑事Sharivan]]・[[宇宙刑事シャイダー|宇宙刑事Shaider]]・[[巨獣特捜ジャスピオン|巨獸特搜JASPION]]・[[时空戦士スピルバン|時空戰士Spielban]]・[[超人機メタルダー|超人機Metalder]]・[[世界忍者戦ジライヤ|世界忍者戰磁雷矢]]
+|group2 =平成
+|list2  = [[特警ウインスペクター|特警Winspector]]・[[特救指令ソルブレイン|特救指令Solbrain]]・[[特捜エクシードラフト|特搜Exceedraft]]・[[特捜ロボ ジャンパーソン|特搜機器人Janperson]]・[[ブルースワット|Blue SWAT]]・[[重甲ビーファイター|重甲B-Fighter]]・[[ビーファイターカブト|B-Fighter Kabuto]]・[[ビーロボカブタック|B-Robo Kabutack]]・[[テツワン探侦ロボタック|鐵腕偵探Robotack]]
+|group3 =令和
+|list3  =[[超宇宙刑事ギャバン インフィニティ|超宇宙刑事Gavan Infinity]]
+}}
+|group2 =重啓・外傳系列
+|list2  = 宇宙刑事Gavan(2012)・[[宇宙刑事NEXT GENERATION]]・[[SPACE SQUAD]]
+}}
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
