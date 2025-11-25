@@ -1,10 +1,13 @@
 {{Iumb
 | id = Spoiler
-| bg = lime
+| bg = black
+| border size = 12.5px
+| border type = ridge
+| border = lime
 | image = [[檔案:Woz.jpg|100px]]
-| caption = '''・・・[[Woz|おっと失礼。ここから先はまだみなさんにとっては未来の出来事・・・でしたね]]'''
-| message = {{#if:{{{1|}}}|{{{1}}}|警告！以下內容含有重大劇透！}}
-| comment = [[劇透廚|劇透]]一時爽，全家火葬場。RekoWiki提醒你。
+| caption = {{color|#00DFFF||'''・・・[[Woz|{{color|#00DFFF||おっと失礼。ここから先はまだみなさんにとっては未来の出来事・・・でしたね}}]]'''}}
+| message = {{color|#00DFFF||{{#if:{{{1|}}}|{{{1}}}|警告！以下內容含有重大劇透！}}}}
+| comment = {{color|#00DFFF||[[劇透廚|{{color|#00DFFF||劇透}}]]一時爽，全家火葬場。RekoWiki提醒你。}}
 }}
 
 <noinclude>[[分類:條目提示模板]]</noinclude>

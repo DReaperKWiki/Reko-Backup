@@ -1,0 +1,13 @@
+{{Iumb
+| id = Orga
+| bg = brown
+| border size = 10px
+| border type = ridge
+| border = #eeed88
+| image = [[File:KibouNoHana.jpg|150px]]
+| caption = '''[[成句/不要停下來啊|{{color|White||だからよ…止まるんじゃねぇぞ…}}]]'''
+| message = {{color|White||這個條目需要持續更新。}}
+| comment = {{color|White||由於條目相關內容更新快速，或者尚未完成，很多描述可能並非現況，歡迎路過的島民補完。}}
+}}
+
+<includeonly>[[Category:需要擴充的條目‏‎]]</includeonly><noinclude>[[分類:條目提示模板]]</noinclude>
