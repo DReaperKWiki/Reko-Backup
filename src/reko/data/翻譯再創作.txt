@@ -2505,8 +2505,8 @@
 |-
 |Homer Simpson
 |荷馬
-| rowspan="35" |The Simpsons/辛普森家庭<ref>原名相關可參見[[辛普森家庭/角色列表|此條目]]</ref>
-| rowspan="49" |FOX HD中文配音版
+| rowspan="36" |The Simpsons/辛普森家庭<ref>原名相關可參見[[辛普森家庭/角色列表|此條目]]</ref>
+| rowspan="50" |FOX HD中文配音版
 |音譯，和某動物意外同音<br><s>你太污辱真正河馬的智商了！</s><br>'''該譯名早已在FOX台灣播出之前就已定名'''
 |-
 |Marge Simpson
@@ -2644,6 +2644,10 @@
 |Kumiko Nakamura{{ref|本名，嫁給漫畫宅就冠夫姓了}}
 |[http://zh.wikipedia.org/wiki/%E5%8D%83%E7%94%B0%E6%84%9B%E7%B4%97 愛紗子]
 |'''本人配音'''<s>，名字什麼的已經完全不重要了</s>
+|-
+|Anthony "Fat Tony" D'Amico
+|吉他大仔<br>{{censored|冬瓜標}}
+|形象使然<br><s>一個角色一次配有多個中文名稱沒問題嗎？而且其中一集拿後者做調侃真的有夠大膽</s>
 |-
 |Peter Griffin
 |葛痞得
