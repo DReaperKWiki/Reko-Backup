@@ -3,7 +3,7 @@
 {| class="wikitable" style="margin:1.5em auto;"
 |本條目請[[後宮|<s>收刀近百</s>]]的審神者們幫忙備份補完，謝謝！
 |-
-|刀劍亂舞登場人物一覽：[[刀劍亂舞/登場人物一覽-Part1|Part1]]、[[刀劍亂舞/登場人物一覽-Part2|Part2]]、[[刀劍亂舞/登場敵刀劍一覽|敵刀劍]]
+|刀劍亂舞登場人物一覽：[[刀劍亂舞/登場人物一覽-Part1|Part1]]、[[刀劍亂舞/登場人物一覽-Part2|Part2]]、[[刀劍亂舞/登場人物一覽-Part3|Part3]]
 |-
 |[https://docs.google.com/document/d/1EX4sVH-LAcyswWZ8EqxF5pWccPA-n6cjy3qQbu47Ylw/edit 本頁google快取(11/2022)]
 |}
@@ -258,7 +258,8 @@ https://p.dmm.com/p/general/netgame/feature/tohken/pic_popup_main05.jpg
 
 ==  登場角色  ==
 * [[刀劍亂舞/登場人物一覽-Part1|Part1（短刀、脇差、打刀）]]
-* [[刀劍亂舞/登場人物一覽-Part2|Part2（太刀、大太刀、薙刀、槍、劍、其他）]]
+* [[刀劍亂舞/登場人物一覽-Part2|Part2（太刀、大太刀、薙刀、槍、劍）]]
+* [[刀劍亂舞/登場人物一覽-Part3|Part3（其他，包含審神者、管狐、敵軍等）]]
 
 ==  敵軍  ==
 * 移至子條目：[[刀劍亂舞/登場敵刀劍一覽|敵刀劍一覽]]
