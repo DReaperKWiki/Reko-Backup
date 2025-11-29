@@ -1,8 +1,8 @@
-<abbr title="{{{1}}}">{{{2|[?]}}}</abbr><noinclude>
+<includeonly>{{#tag:abbr|{{{2|[?]}}}|title={{{1}}}}}</includeonly><noinclude>
 == 說明 ==
 * 產生縮寫文字與原名的模版，滑鼠停留在本模板上時會顯示原名。
 * 請不要將 Abbr 用在非縮寫的場合，如果只是需要附加說明，可以使用 [[Template:Ref]] 。
-* 於中文翻譯名詞上附加外文原文算是一種合理使用。
+* 於中文翻譯名詞上附加外文原文算是一種合理使用，但請優先考慮使用 [[模板:Ruby]] 。
 
 == Usage ==
 The template takes two unnamed parameters.
@@ -17,3 +17,5 @@ The template takes two unnamed parameters.
 
 <code><nowiki>{{abbr|喬瑟夫‧喬斯達|二喬}}</nowiki></code> → {{abbr|喬瑟夫‧喬斯達|二喬}}
 </noinclude>
+
+[[分類:模板]]
