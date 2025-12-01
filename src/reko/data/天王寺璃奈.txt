@@ -1,5 +1,12 @@
 {{h0|天王寺璃奈（{{ruby|天王寺|てんのうじ}} {{ruby|璃奈|りな}}）/Tennouji Rina}}
-[[檔案:Rina School Uniform.png|300px|right]]
+{| align="right" border="1"
+|-
+|<gallery widths="250px" heights="250px">
+檔案:TV2nd member 10.png|形象圖 (動畫版開播後)
+檔案:Rina School Uniform.png|PDP/AS時代形象圖
+</gallery>
+|}
+
 == 解說 ==
 
 * 《[[LoveLive! 虹咲學園學園偶像同好會]]》的主要角色

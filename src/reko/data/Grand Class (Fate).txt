@@ -34,6 +34,7 @@
 * 在2025年9月9日開放Grand Rider的冠位戴冠戰。
 * 在2025年10月15日開放Grand Assassin的冠位戴冠戰。
 * 在2025年11月14日開放Grand Archer的冠位戴冠戰。
+* 在2025年12月3日開放Grand Caster的冠位戴冠戰。
 
 == 列表 ==
 {|class="wikitable" style="margin:auto;"
@@ -122,9 +123,9 @@
 |第一位負責「冠位戴冠戰」的正式冠位從者。</br>寶具與普通版本完全相同。
 |-
 | Grand Caster
-| 
+| [[Goetia (Fate)|偽典]][[Solomon (Fate)|所羅門]]
 |
-|
+|12月1日生放中先行公布。<br>同日釋出的「終章_序」劇情中，[[羅馬尼‧阿基曼|醫生]]模樣的[[Goetia (Fate)|蓋提亞]]變身成了所羅門的姿態。
 |-
 |Grand Assassin
 | [[山中老人 (Fate)|蒼藍的阿茲拉伊爾]]
