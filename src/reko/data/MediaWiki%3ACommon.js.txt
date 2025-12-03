@@ -385,11 +385,22 @@ $.ajax({ dataType: 'script', cache: true,
 
 // ref 腳註內容於 a:hover 時顯示
 $( () => {
+    function popupFootNoteConfirm(evt) {
+        const note = this.title || $(this).closest('[title]').attr('title');
+        const t0 = Date.now();
+        const t = confirm(`${this.textContent} ${note}\n\n移動到腳註？`);
+        if (!t && (Date.now()-t0) > 100) evt.preventDefault();
+    }
+    const noHover = matchMedia('(hover:none)').matches
     $('.reference > a').each((i, a) => {
         const $a = $(a);
-        const $note = $(`${$a.attr('href')} > .reference-text`).clone();
+        if (noHover) $a.on('click', popupFootNoteConfirm);
+        if ($a.is('[title] a')) return;
+        const np = document.getElementById($a.attr('href').slice(1));
+        const $note = $(np).find('.reference-text').clone();
         $note.find('span.inline-text-censored').replaceWith(function () { return $(this).text().replace(/./g, '■') });
-        $a.attr('title', $note.html())
+        $note.find('a').attr('title', null);
+        $a.attr('title', $note.html().replace(/(%[0-9A-F]{2})+/g, c => {try {return decodeURIComponent(c)}catch(err){return c}}));
     });
 } );
 
