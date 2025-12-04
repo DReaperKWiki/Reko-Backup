@@ -1,0 +1,133 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|name   = KamenRider
+  |titlestyle = background:#80C0C0;
+  |abovestyle = background:#FFEB80;
+  |groupstyle = background:#80C0C0;
+|state      = expanded
+|title  = <big>''[[假面騎士系列|<span style="color:red">假面騎士系列</span>]]''</big>
+|group1 = 昭和騎士
+|list1  = [[仮面ライダー|假面騎士]]（[[シン・仮面ライダー|新]]）・V3・X・阿馬遜（[[仮面ライダーアマゾンズ|Amazons]]）・強人・新 / 天空騎士・Super 1・ZX（10号誕生!仮面ライダー全員集合!! / 假面騎士Spirits）・Black（[[仮面ライダーBLACK SUN|Black Sun]]）・Black-RX・真・ZO・J
+|group2 = 平成騎士
+|list2  = 
+{{Navbox|child|
+  |groupstyle = background:#80C0C0
+|name = 平成騎士
+|group1 = 一期
+|list1 = [[仮面ライダークウガ|空我]]・[[仮面ライダーアギト|顎門]]・[[仮面ライダー龍騎|龍騎]]・[[仮面ライダー555|555]]・[[仮面ライダー剣|劍]]・[[仮面ライダー響鬼|響鬼]]・[[仮面ライダーカブト|Kabuto]]・[[仮面ライダー電王|電王]]・[[仮面ライダーキバ|Kiva]]・[[仮面ライダーディケイド|Decade]]
+|group2 = 二期
+|list2 = [[仮面ライダーダブル|W]]（[[風都探偵|風都偵探]]）・[[仮面ライダーOOO|OOO]]・[[仮面ライダーフォーゼ|Fourze]]・[[仮面ライダーウィザード|Wizard]]・[[仮面ライダー鎧武|鎧武]]・[[仮面ライダードライブ|Drive]]・[[仮面ライダーゴースト|Ghost]]・[[仮面ライダーエグゼイド|EX-AID]]・[[仮面ライダービルド|Build]]・[[仮面ライダージオウ|ZI-O]]
+}}
+|group3 = 令和騎士
+|list3 = [[仮面ライダーゼロワン|Zero-One]]・[[仮面ライダーセイバー|Saber]]・[[仮面ライダーリバイス|Revice]]・[[仮面ライダーギーツ|Geats]]・[[仮面ライダーガッチャード|Gotchard]]・[[仮面ライダーガヴ|Gavv]]・[[仮面ライダーゼッツ|Zeztz]]
+|group4 = 其他媒體
+|list4 = [[假面騎士 (劇場版、HBV)|劇場版、外傳、網路放送、Hyper Battle Video作品一覽]]（[[仮面ライダーアウトサイダーズ|Outsiders]]）・<s>[[グッドモーニング、眠れる獅子|早安、沉睡的獅子]]・[[東島丹三郎想成為假面騎士]]</s>
+|group5 = 登場角色
+|list5 = 
+{{Navbox|child|
+  |titlestyle = background:gold;
+  |groupstyle = background:#80C0C0;
+|name   = 登場角色
+|group1 = 昭和
+|list1 = [[本鄉猛]]・[[一文字隼人]]・[[風見志郎]]・[[結成丈二]]・[[南光太郎]]
+|group2 = 平成
+|list2 = 
+{{Navbox|child|
+  |titlestyle = background:gold;
+  |groupstyle = background:#80C0C0;color:white;
+|name = 平成
+|group1 = [[仮面ライダークウガ/角色介紹|<span style="color:black">空我</span>]]
+|list1 = [[五代雄介]]・[[一條薰]]
+|group2 = [[仮面ライダーアギト/角色介紹|<span style="color:black">顎門</span>]]
+|list2 = [[津上翔一]]・[[冰川誠]]・[[葦原涼]]・[[木野薰]]
+|group3 = [[仮面ライダー龍騎/角色介紹|<span style="color:black">龍騎</span>]]
+|list3 = [[城戶真司]]・[[秋山蓮]]・[[淺倉威]]・[[北岡秀一]]・[[手塚海之]]・[[須藤雅史]]・[[芝浦淳]]・[[東條悟]]・[[佐野滿]]・[[香川英行]]・[[高見澤逸郎]]・[[霧島美穗]]・[[城戶真司#鏡真司|鏡世界的真司]]
+|group4 = [[仮面ライダー555/角色介紹|<span style="color:black">555/Faiz</span>]]
+|list4 = [[乾巧]]・[[木場勇治]]・[[草加雅人]]・[[三原修二]]・[[Leo (假面騎士)|レオ]]
+|group5 = [[仮面ライダー剣/角色介紹|<span style="color:black">劍</span>]]
+|list5 = [[劍崎一真]]・[[橘朔也]]・[[相川始]]・[[上城睦月]]
+|group6 = [[仮面ライダー響鬼/角色介紹|<span style="color:black">響鬼</span>]]
+|list6 = [[日高仁志|ヒビキ]]・[[安達明日夢]]・[[和泉伊織|イブキ]]・[[戶田山登巳藏|トドロキ]]・[[財津原藏王丸|ザンキ]]
+|group7 = [[仮面ライダーカブト/角色介紹|<span style="color:black">Kabuto</span>]]
+|list7 = [[天道總司]]・[[加賀美新]]・[[矢車想]]・[[風間大介]]・[[神代劍]]・[[影山瞬]]
+|group8 = [[仮面ライダー電王/角色介紹|<span style="color:black">電王</span>]]
+|list8 = [[野上良太郎]]・[[櫻井侑斗]]・[[野上幸太郎]]
+|group9 = [[仮面ライダーキバ/角色介紹|<span style="color:black">Kiva</span>]]
+|list9 = [[紅渡]]・[[名護啓介]]・[[登太牙]]・[[紅音也]]
+|group10 = [[仮面ライダーディケイド/角色介紹|<span style="color:black">Decade</span>]]
+|list10 = [[門矢士]]・[[海東大樹]]・[[光夏海]]・[[小野寺雄介]]
+|group11 = [[仮面ライダーダブル/角色介紹|<span style="color:black">W</span>]]
+|list11 = [[左翔太郎]]・[[菲利浦 (假面騎士)|菲利浦]]・[[照井龍]]・[[大道克己]]・[[鳴海莊吉]]・[[須藤霧彥]]・[[時女]]
+|group12 = [[仮面ライダーOOO/角色介紹|<span style="color:black">OOO</span>]]
+|list12 = [[火野映司]]・[[Ankh|アンク]]・[[伊達明]]・[[後藤慎太郎]]
+|group13 = [[仮面ライダーフォーゼ/角色介紹|<span style="color:black">Fourze</span>]]
+|list13 = [[如月弦太朗]]・[[朔田流星]]
+|group14 = [[仮面ライダーウィザード/角色介紹|<span style="color:black">Wizard</span>]]
+|list14 = [[操真晴人]]・[[仁藤攻介]]・[[笛木奏]]
+|group15 = [[仮面ライダー鎧武/角色介紹|<span style="color:black">鎧武</span>]]
+|list15 = [[葛葉紘汰]]・[[驅紋戒斗]]・[[吳島光實]]・[[吳島貴虎]]・[[初瀨亮二]]・[[城乃内秀保]]・[[凰蓮‧皮埃爾‧阿方索|凰蓮‧ピエール‧アルフォンゾ]]・[[Zack (假面騎士)|ザック]]・[[戰極凌馬]]・[[湊耀子]]・[[Sid (假面騎士)|シド]]
+|group16 = [[仮面ライダードライブ/角色介紹|<span style="color:black">Drive</span>]]
+|list16 = [[泊進之介]]・[[詩島剛]]・[[Chase (假面騎士)|チェイス]]・[[Heart (假面騎士)|ハート]]・[[Brain (假面騎士)|ブレン]]・[[蠻野天十郎]]
+|group17 = [[仮面ライダーゴースト/角色介紹|<span style="color:black">Ghost</span>]]
+|list17 = [[天空寺尊|天空寺タケル]]・[[深海誠|深海マコト]]・[[亞蘭 (假面騎士)|アラン]]・[[深海花音|深海カノン]]
+|group18 = [[仮面ライダーエグゼイド/角色介紹|<span style="color:black">EX-AID</span>]]
+|list18 = [[寶生永夢]]・[[鏡飛彩]]・[[花家大我]]・[[九條貴利矢]]・[[檀黎斗]]・[[帕拉德|パラド]]・[[檀正宗]]・[[仮野明日那|仮野明日那/ポッピーピポパポ]]・[[Graphite (假面騎士)|グラファイト]]・[[帕拉德#另一個帕拉德|アナザーパラド]]
+|group19 = [[仮面ライダービルド/角色介紹|<span style="color:black">Build</span>]]
+|list19 = [[桐生戰兔]]・[[萬丈龍我|万丈龍我]]・[[猿渡一海]]・[[冰室幻德|氷室幻德]]・[[内海成彰]]・[[Evolto|エボルト]]
+|group20 = [[仮面ライダージオウ/角色介紹|<span style="color:black">ZI-O</span>]]
+|list20 = [[常磐莊吾|常磐ソウゴ]]・[[明光院月津|明光院ゲイツ]]・[[Woz|ウォズ]]・[[月讀 (假面騎士)|ツクヨミ]]・[[神藏蓮太郎]]
+}}
+|group3 =令和
+|list3= 
+{{Navbox|child|
+  |titlestyle = background:gold;
+  |groupstyle = background:#80C0C0;
+|name = 令和
+|group1 = [[仮面ライダーゼロワン/角色介紹|<span style="color:black">Zero-One</span>]]
+|list1= [[飛電或人]]・[[伊茲|イズ]]・[[不破諫]]・[[刃唯阿]]・[[天津垓]]・[[滅亡迅雷.net]]（[[滅 (假面騎士)|滅]]・[[迅 (假面騎士)|迅]]・[[伊茲#亞茲|アズ]]）
+|group2 = [[仮面ライダーセイバー/角色介紹|<span style="color:black">Saber</span>]]
+|list2= [[神山飛羽真]]・ [[新堂倫太郎]]・[[富加宮賢人]]・[[尾上亮]]・[[緋道蓮]]・[[大秦寺哲雄]]・[[上條大地]]・[[神代玲花]]・[[神代凌牙 (假面騎士)|神代凌牙]]・[[富加宮隼人]]・[[伊薩克 (假面騎士)|イザク]]・[[巴哈特 (假面騎士)|バハト]]・ [[Desast (假面騎士)|デザスト]]
+|group3 = [[仮面ライダーリバイス/角色介紹|<span style="color:black">Revice</span>]]
+|list3= [[五十嵐一輝]]・[[五十嵐一輝#Vice（バイス）|バイス]]・[[五十嵐大二]]・[[五十嵐大二#Kagerou（カゲロウ）|カゲロウ]]・[[五十嵐櫻|五十嵐さくら]]・ [[五十嵐櫻#Lovekov（ラブコフ）|ラブコフ]]・[[五十嵐元太]]・[[五十嵐元太#Vail（ベイル）|ベイル]]・[[門田廣見|門田ヒロミ]]・[[George狩崎|ジョージ・狩崎]]・[[夏木花|アギレラ/夏木花]]・[[玉置豪|フリオ/玉置豪]]・[[初芝真|オルテカ/初芝真]]
+|group4 = [[仮面ライダーギーツ/角色介紹|<span style="color:black">Geats</span>]]
+|list4 = [[浮世英壽]]・[[櫻井景和]]・[[鞍馬祢音]]・[[吾妻道長]]・[[晴家韋恩|晴家ウィン]]・[[五十鈴大智]]
+|group5 = [[仮面ライダーガッチャード/角色介紹|<span style="color:black">Gotchard</span>]]
+|list5 = [[一之瀬寶太郎|一ノ瀬宝太郎]]・[[九堂凜音|九堂りんね]]・[[黑鋼史帕納|黑鋼スパナ]]・[[鳳櫻・輝夜・石英|鳳桜・カグヤ・クォーツ]]・[[Glion|グリオン]]
+|group6 = [[仮面ライダーガヴ/角色介紹|<span style="color:black">Gavv</span>]]
+|list6= [[井上生真|ショウマ]]・[[辛木田絆斗]]・[[Rakia Amarga|ラキア・アマルガ]]・[[酸賀研造]]・[[Lango Stomach|ランゴ・ストマック]]
+}}
+|group4 =其他
+|list4= 
+{{Navbox|child|
+  |titlestyle = background:blue;
+  |groupstyle = background:#80C0C0;
+|name = 其他
+|group1 =The系列
+|list1= [[本鄉猛 (The系列)|本鄉猛]]・[[一文字隼人 (The系列)|一文字隼人]]・[[風見志郎 (The系列)|風見志郎]]
+|group2 = [[仮面ライダーアマゾンズ#登場角色|<span style="color:black">Amazons</span>]]
+|list2= [[仮面ライダーアマゾンズ#假面騎士|水澤悠・鷹山仁・千翼]]
+|group3 = [[仮面ライダーBLACK SUN#登場角色|<span style="color:black">Black Sun</span>]]
+|list3= [[仮面ライダーBLACK SUN#主要人物|南光太郎・秋月信彥]]
+}}
+}}
+|group6 = [[假面騎士製作人員列表|<span style="color:black">製作人員</span>]]
+|list6 =  
+{{Navbox|child|
+  |groupstyle = background:#80C0C0;
+|titlestyle  = background: #CFAC84; text-align: center; vertical-align: middle;
+|group1 = [[假面騎士製作人員列表#編劇|<span style="color:black">編劇</span>]]
+|list1 = [[井上敏樹]]・[[小林靖子]]・[[米村正二]]・[[高橋悠也]]
+|group2 = [[假面騎士製作人員列表#監督|<span style="color:black">監督</span>]]
+|list2 =[[坂本浩一]]・[[諸田敏]]・[[上堀內佳壽也]]・[[杉原輝昭]]
+|group3 = [[假面騎士製作人員列表#皮套演員|<span style="color:black">皮套演員</span>]]
+|list3 = [[高岩成二]]・[[岡元次郎]]・[[永德]]・[[蜂須賀祐一]] 
+}}
+|group7 = [[假面騎士系列/遊戲作品一覽|<span style="color:black">遊戲作品</span>]]
+|list7= [[ライドカメンズ|Ride Kamens]]
+|group8 = [[成句|<span style="color:black">成句</span>]]
+|list8 = [[成句/呵…不錯的性能，你的作戰目的跟ID是!?]]・[[成句/在下強大的力量會讓你落淚的]]・[[成句/我只是路過的○○，給我記著了！]]・[[成句/おのれディケイド！]]・[[成句/那麼來細數你的罪惡吧！]]・[[成句/答案只有一個…]]・[[成句/發生什麼事了]]・[[成句/寶↗生↘永↗夢↘！]]
+|group9 = [[空耳|<span style="color:black">空耳</span>]]
+|list9 = [[オンドゥル語]]・[[爸爸比你好]]・[[賣雞的小攤]]・[[有誰懂？切水果！]]
+|group10 = [[:分類:稱號|<span style="color:black">稱號</span>]]
+|list10 = [[地獄兄弟]]・[[傳說中的奶奶]]・[[世界的破壞者]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

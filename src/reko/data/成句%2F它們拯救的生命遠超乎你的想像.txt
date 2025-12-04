@@ -2,6 +2,10 @@
 
 {{Spoiler}}
 
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"
+|本條目內含劇透，沒看過原著的'''生命'''又不想被{{ruby|'''拯救'''|捏到}}的話請不要繼續看下去。
+|}
+
 == 你有近距離見過出處嗎 ==
 * Netflix動畫《[[機動戰士鋼彈系列#RFV|機動戰士鋼彈 復仇的安魂曲]]》第1話，一名吉翁兵的<s>問題</s>發言
 
