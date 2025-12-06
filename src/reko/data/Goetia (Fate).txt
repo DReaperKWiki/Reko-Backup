@@ -280,7 +280,7 @@
 {| class="wikitable" style="margin: 1.5em auto;" 
 	{{Fate Noble Phantasm Head}}
 	{{Fate寶具列|
-                |image=     
+                |image=     https://i.meee.com.tw/F1bR7PW.gif
 		|color=     yellow
 		|bgcolor=   brown
 		|name=      誕生之時已至，以此修正萬象

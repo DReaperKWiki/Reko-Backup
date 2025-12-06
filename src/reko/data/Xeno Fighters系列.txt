@@ -826,7 +826,7 @@
 * Sinnashlesher 自機能力參數：2-10-1-2-5　強化型式：各別強化型　加入版本：0.400
 ** 初登場作品：POLYBIUS
 *** 關於該遊戲，詳見[[Creepypasta#POLYBIUS|Creepypasta的POLYBIUS一欄]] 
-*** {{censored|只能使用密技選擇：游標移至問號之後，按住鍵盤上的U鍵不放並按下選擇鍵即可使用}}
+*** {{censored|只能使用密技選擇：游標移至問號之後，按住鍵盤上的U鍵不放並按下射擊鍵即可使用}}
 **L：多邊砲彈／Polyblaster
 **M：多邊飛彈／Polygon missile
 **B：多邊深淵／Polybyss
