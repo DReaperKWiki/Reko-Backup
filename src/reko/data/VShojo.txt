@@ -177,7 +177,7 @@
 |[https://www.youtube.com/@vickyroman_idol 連結]
 |{{twitter|vickyroman_idol|name=連結}}
 |-
-!colspan=5 align="center"|未知魔物娘團體<ref>第四人身分未知</ref>
+!colspan=5 align="center"|未知魔物娘團體
 |-
 |Beribug
 |
@@ -186,13 +186,18 @@
 |-
 |PiaPiUFO
 |
-|[https://www.youtube.com/c/PiaPIUFO 連結]
+|{{youtube|c=UCRtugKQIPPfZmVZ6vLiOsdQ|title=連結}}
 |{{twitter|PiaPiUFO|name=連結}}
 |-
 |Tori Oriane
 |
-|[https://twitch.tv/torioriane 連結]
+|{{youtube|c=UCnz0wcNhch0nU1a6nnRLmNQ|title=連結}}
 |{{twitter|torioriane|name=連結}}
+|-
+|Kairyu Crocodile
+|目前尚未出道，{{censored|前世疑似為 Jaiden Animations}}
+|{{youtube|c=UCSEkHiOVY56frY1RcEsUAvA|title=連結}}
+|{{twitter|KairyuCrocodile|name=連結}}
 |}
 
 == 爭議事件 ==
