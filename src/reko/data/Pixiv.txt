@@ -170,7 +170,7 @@
 === Xfolio ===
 * 網址：https://xfolio.jp/
 * 另一個類Pixiv藝術分享平台
-* 完全禁止AI圖
+* 對AI圖的規範相當嚴謹
 
 === DeviantArt ===
 * 網址：https://www.deviantart.com/
