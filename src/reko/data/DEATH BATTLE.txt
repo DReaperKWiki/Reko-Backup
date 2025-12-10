@@ -566,23 +566,28 @@
 |-
 | 199 ||Hulk VS Godzilla ||  ||  {{censored| 勝方：Bruce Banner}} || {{youtube|dIfwWXY5jpo|youtube}}
 |-
-| 200 || Ruby VS Maka <br>(RWBY VS Soul Eater）|| 鐮刀女學生對決 || {{censored| 勝方：Maka}} || {{youtube|rgRzzGsEtCk|youtube}}
+| 200 || Ruby VS Maka <br>(RWBY VS Soul Eater）|| 鐮刀女學生對決<br><s>2016年公開，拖了足足九年，而且戰果可說無懸念</s>|| {{censored| 勝方：Maka}} || {{youtube|rgRzzGsEtCk|youtube}}
 |-
 | 201 || Blade VS Buffy <br>(Marvel Comics VS Buffy the Vampire Slayer）|| 吸血鬼殺手對決 || {{censored| 勝方：Buffy}} || {{youtube|r8uBiiig7tI|youtube}}
 |-
 | 202 || Dante VS Clive <br>(DMC VS FF）|| 半魔大叔對決 || {{censored| 勝方：Clive}} || {{youtube|Np4sC1osT_k|youtube}}
 |-
-| 203 || Ash VS Yugi <br>(Pokémon VS Yu-Gi-Oh!）|| 兒童／一般向創作需要用輔助物作戰的主角們對決<br>  || {{censored| 勝方：}} || {{youtube| |youtube}}
+| 203 || Ash VS Yugi <br>(Pokémon VS Yu-Gi-Oh!）|| 兒童／一般向創作需要用輔助物作戰的主角們對決<br>對戰是表遊戲而非阿圖姆<br>‘25閉幕戰|| {{censored| 勝方：Yugi <br>}} || {{youtube|hkb8NUVIYWs0|youtube}}
 |}
 
-
+===‘26（第十三季）===
 
 <!--|-
-| ?? || || {{censored| 勝方：}} ||  {{youtube| |youtube}} -->
-
-<!-- ??? * •  ??? Light VS Columbo* • ??? VS* • ??? Aang VS Traveler* •  • ???  •
-
-|  ?? ||  Ruby VS Maka<br>Ruby Rose（[[RWBY]]） vs 摩訶‧亞爾邦（SOUL EATER 噬魂者） || ConBravo 2016裡公開將會有此對戰 || {{censored| 勝方：}} || {{youtube| |youtube}} -->
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結 
+|-
+|  ||  VS  <br>( VS ）|| <br> ‘25始戰 || {{censored| 勝方： }} || {{youtube| |youtube}}
+|-
+| ?? || || {{censored| 勝方：}} ||  {{youtube| |youtube}} 
+|}
+??? * •  ??? Light VS Columbo* • ??? VS* • ??? Aang VS Traveler* •  • ???  •
+ -->
 
 == DBX/Death Battle Exhibition==
 * 第三季開幕戰裡Boomstick公開的新系列，由Boomstick一個人主持，宣傳口號為「沒規則，沒分析，只有流血」。

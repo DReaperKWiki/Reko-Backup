@@ -836,6 +836,22 @@
 * 攻擊範圍跟群癒師一樣，可恢復友方單位生命，且在3個友方單位間跳躍，每次跳躍治療量降低25%
 * <s>神界原罪的治療儀式、治療鏈</s>
 
+
+{|class="wikitable" style="margin:1.5em auto;
+|colspan="2"|'''X類模組'''
+|colspan="2"|'''Y類模組'''
+|-
+| '''幹員'''
+| Mon3tr、明椒、莎草
+| '''幹員'''
+| -
+|-
+| '''特性追加'''
+| 每次跳躍治療量改為降低15%
+| '''特性追加'''
+| -
+|}
+
 ===Mon3tr===
 * CV：[[和泉風花]]
 * EP：[https://www.youtube.com/watch?v=CnsWTeB8V98 Skeletal Wings]

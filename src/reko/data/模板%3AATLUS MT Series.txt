@@ -1,0 +1,28 @@
+{{Navbox
+| name = ATLUS_MT_Series
+| title = <big><span style="color:navy"> A</span><span style="color:crimson">T</span><span style="color:navy">LUS</span>《女神轉生》系列</big>
+| titlestyle = background:white; text-align:center; 
+| groupstyle = background:#abcdef; text-align:center;
+| group1 = 遊戲作品
+| list1 = 
+{{Navbox|child|
+| name = 遊戲
+| groupstyle = text-align:center;
+| group1 = ''[[女神轉生系列|<span style="color:#ff2525">女神轉生系列</span>]]''
+| group1style = background:#111111; 
+| list1 = 真・女神轉生｜真・女神轉生Ⅱ｜真・女神轉生Ⅲ-NOCTURNE｜真・女神轉生Ⅳ（Ⅳ Final）｜真・女神轉生Ⅴ（Ⅴ Vengeance）
+| group2 = [[女神異聞錄系列|<span style="-webkit-text-stroke:0.375px black; color:white;">女神異聞錄系列</span>]]
+| group2style = background:#cc99cc
+| list2 = 女神異聞錄Persona｜女神異聞錄2（罪、罰）｜[[女神異聞錄3]] ｜[[女神異聞錄4]] ｜[[女神異聞錄5]]（[[女神異聞錄:夜幕魅影|夜幕魅影]]）
+| group3 = <span style="-webkit-text-stroke:0.375px white; color:blue; ">惡魔召喚師系列</span>
+| group3style = background:#111111;
+| list3 = 真‧女神轉生：惡魔召喚師｜靈魂駭客｜葛葉雷道對（超力兵團（超力兵團奇談）、亞巴頓王）｜靈魂駭客2
+| group4 = 其他
+| group4style = background:white; 
+| list4 = [[幻影異聞錄♯FE]]｜暗喻幻想：ReFantazio
+}} 
+| group2 = 登場惡魔
+| list2 = [[女神轉生系列登場惡魔Part 1|Part 1（亞伯拉罕諸教）]]｜[[女神轉生系列登場惡魔Part 2|Part 2（中東、南亞（印度、斯里蘭卡、尼泊爾）、佛教）]]｜[[女神轉生系列登場惡魔Part 3|Part 3（東亞（中國、韓國、日本））]]｜[[女神轉生系列登場惡魔Part 4|Part 4（埃及、美洲、澳洲、斯拉夫、亞歐交界）]]｜[[女神轉生系列登場惡魔Part 5|Part 5（歐陸（希臘、羅馬、北歐、不列顛））]]｜[[女神轉生系列登場惡魔Part 6|Part 6（現代及近現代、其他、特殊（魔人、屍鬼、機器、病毒、疫苗、人造惡魔、宗教信徒、似人））]]｜[[女神轉生系列登場惡魔Part 7|Part 7（合作惡魔、原創惡魔及角色）]]
+| group3 = 相關項
+| list3 = <s>[[成句/通關了，沒想到真正的結局竟然是○○○|通關了，沒想到真正的結局竟然是○○○]]</s>
+}}

@@ -1,5 +1,4 @@
 {{h0|寶可夢列表-第四世代}}
-{{synchro|New Komica wiki (仮)|2024年12月14日 14:36}}
 
 {| class="wikitable" style="margin:1.5em auto;text-align:center;"
 | style="" |本條目請有愛的訓練師們幫忙補完、修整；同時為了方便編輯，本條目部分的「神奇寶貝」「寶可夢」以「PM」作為略稱；若提及「究極異獸」則以「UB」作為略稱。
@@ -3289,7 +3288,7 @@
 
 * 為禁止級的傳說PM（ry
 * 《傳說 阿爾宙斯》中{{censored|與望羅聯手，也是讓二周目望羅戰難度提升的最大戰犯}}。
-
+**{{censored|<s>然後在戰敗後直接玩起了消失，留下望羅氣急敗壞地咒罵著</s>}}。
 === 騎拉帝納 起源形態（ギラティナ オリジンフォルム/Giratina Origin Form） ===
 {{Pokemon_Data
 |number= 487
