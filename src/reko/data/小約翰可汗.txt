@@ -912,7 +912,7 @@
 |-
 |33
 |[https://www.bilibili.com/video/BV1cbghzcETw/ 在苏联吃罐头有什么后果？]
-|蘇聯大案見聞錄之「{{wp|1980年苏联渔业部走私案|漁業案}}」與「{{wp|索契-克拉斯诺达尔案|索契案}}」
+|蘇聯大案見聞錄之「{{wp|1980年苏联渔业部走私案|漁業案}}」
 |特別篇「蘇聯大案調查」的第一集
 |-
 |34
@@ -921,43 +921,49 @@
 |
 |-
 |35
-|[]
-|
-|
+|[https://www.bilibili.com/video/BV1ng8yzJE43/ 在苏联出差有多危险？]
+|rowspan="2"|蘇聯大案見聞錄之「{{wp|索契-克拉斯诺达尔案|索契案}}」
+|特別篇「蘇聯大案調查」的第二集上半
 |-
 |36
-|[]
-|
-|
+|[https://www.bilibili.com/video/BV19ztQzRESM/ 决战“库班之王”]
+|特別篇「蘇聯大案調查」的第二集下半
 |-
 |37
-|[]
-|
+|[https://www.bilibili.com/video/BV17WvwzMETQ/ 如何把北极的冰块运到赤道？]
+|挪威格拉斯瓦特公司
 |
 |-
 |38
-|[]
-|
-|
+|[https://www.bilibili.com/video/BV1pcY7zHE8L/ 苏联最好的商店是哪？]
+|rowspan="2"|蘇聯大案見聞錄之「{{wp|叶利谢耶夫商店|一號商店案}}」
+|特別篇「蘇聯大案調查」的第三集上半
 |-
 |39
-|[]
-|
-|
+|[https://www.bilibili.com/video/BV1yDWuzkEsv/ 苏联第一主理人下场如何？]
+|特別篇「蘇聯大案調查」的第三集下半
 |-
 |40
-|[]
-|
+|[https://www.bilibili.com/video/BV1L84XzoE2a/ 关于为了波多黎各独立去刺杀总统这件事]
+|{{wp|波多黎各民族主義黨}}與杜魯門刺殺案
 |
 |-
 |41
-|[]
-|rowspan="2"|蘇聯大案見聞錄之「{{wp|烏茲別克棉花案}}」
-|
+|[https://www.bilibili.com/video/BV1fps7zoE8c/ 谁是乌兹别克的可汗？]
+|rowspan="4"|蘇聯大案見聞錄之「{{wp|烏茲別克棉花案}}」
+|特別篇「蘇聯大案調查」的第四集第一節
 |-
 |42
-|[]
-|
+|[https://www.bilibili.com/video/BV1Diy8BLEvG/ 绩效人如何种棉花？]
+|特別篇「蘇聯大案調查」的第四集第二節
+|-
+|43
+|[https://www.bilibili.com/video/BV1gd28BnETG/ 如何扳倒勋宗大驸马？]
+|特別篇「蘇聯大案調查」的第四集第三節
+|-
+|44
+|[https://www.bilibili.com/video/BV1ne2rBPEYi/ 乌兹别克棉花案是如何结束的？]
+|特別篇「蘇聯大案調查」的第四集第四節兼完結
 |-
 |}
 {{hidef}}
