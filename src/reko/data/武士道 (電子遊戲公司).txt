@@ -69,15 +69,17 @@
 {| class="wikitable" style="font-size:small; margin:0px auto;"
 !遊戲!!開始營運時間!!平台!!合作方!!備註
 |-
-| 蠟筆小新 團結一致 春日部城大開發 || 2017年4月27日 || rowspan="6" |iOS<br>Android ||
+| 蠟筆小新 團結一致 春日部城大開發 || 2017年4月27日 || rowspan="7" |iOS<br>Android ||
 |-
 | 城郭戰記：王牌 || 2016年2月6日 || ||
 |-
 | [[BanG Dream!|BanG Dream!少女樂團派對]] || 2017年3月16日 || <s>Craft Egg</s><ref>2024年4月1日被母公司CyberAgent吸收合併後解散</ref>→FROMTOKYO || 另有NS移植版於2021年9月16日發售
 |-
-| [[D4DJ|D4DJ Groovy Mix]] || 2020年10月25日 || Donuts || 
+| [[D4DJ|D4DJ Groovy Mix]]{{color|red||※}} || 2020年10月25日 || Donuts || 
 |-
 | [[LoveLive! Superstar!!|ラブライブ！スーパースター!! メモリーコレクト]] || 2025年1月31日 || || 單機買斷制的拼圖遊戲
+|-
+| HUNTER×HUNTER NEN×SURVIVOR || 2026年X月X日預定 || WonderPlanet || 
 |}
 
 ===== 已停止營運/非本社營運 =====

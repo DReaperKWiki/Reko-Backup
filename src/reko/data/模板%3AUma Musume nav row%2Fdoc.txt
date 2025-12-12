@@ -1,0 +1,37 @@
+==描述==
+本模版參考自碧藍航線的Azurlane nav row模版，用於[[賽馬娘 Pretty Derby]]角色條目頂端的頁面連結部分。
+
+必須使用於表格語法中，否則不會有作用。
+
+==語法==
+在頁面頂端、{{t|h0}}的下方鄰近的表格內輸入{{t|Uma Musume nav row}}。
+
+建議在表格完結<code><nowiki>|}</nowiki></code>的上一行輸入。
+
+==範例==
+<pre>
+{{h0|這是標頭}}
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+|-
+| 上面的描述
+|-
+{{Uma Musume nav row}}
+
+|}
+==第一大標題==
+</pre>
+
+出來的結果：
+
+{{h0|這是標頭}}
+{|class="wikitable"
+|-
+| 上面的描述
+|-
+{{Uma Musume nav row}}
+|}
+
+
+[{{fullurl:{{FULLPAGENAME}}}}?action=purge 點此連結重新整理]
+
+<includeonly>[[Category:模板]][[Category:ＯＯ模板]]</includeonly><noinclude>[[Category:模板文件]]</noinclude>
