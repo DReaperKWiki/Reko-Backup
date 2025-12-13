@@ -1,11 +1,4 @@
-{{h0| {{color|white||新機動戰記}}{{color|red||鋼彈}}{{color|yellow||W}}/{{color|white||新機動戦記}}{{color|red||ガンダム}}{{color|yellow||W}}}}
-{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
-| colspan="2" |本條目含有部分劇情內容<s>跟自爆裝置</s>，沒看原著<s>又不想'''被自爆背心男當做刺殺目標'''</s>的話請不要<s>按下自爆按鈕或</s>看下去。
-|-
-| colspan="2" |{{Size|20|{{Color|green||'''「任務、完了。」'''}}}}
-|-
-|align="center"|上一部：[[機動武鬥傳G鋼彈]] || 下一部：[[機動新世紀鋼彈X]]
-|}
+{{h0| 新機動戰記鋼彈W/新機動戦記ガンダムW}}
 == 故事大綱 ==
 * 自從人類開始開發宇宙，世界開始進入A.C.（After Colony）紀年
 ** 在第一個宇宙殖民地L1完成後百年，地球統一政府對殖民地以武力實行高壓統治。 
@@ -71,6 +64,7 @@
 * [[成句/那可是會痛得要死的]]
 * [[成句/我要殺了你]]
 * NicoNico上的[https://www.nicovideo.jp/watch/sm10969166 鋼彈W迷場面合集]　　
+
 {{gundam}}
 
 == 回應 ==
