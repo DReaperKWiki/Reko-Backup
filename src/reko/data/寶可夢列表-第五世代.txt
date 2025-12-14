@@ -3634,13 +3634,13 @@ Pokemon_0586(Winter)_9th_style.png         |冬天的樣子
 * 另外也可學習大量與超級機器人相符的技能，如<s>冷凍ビーム</s>「冰凍光束」、<s>ブレストファイヤー</s>「日光束」、<s>サンダーブレーク</s>「十萬伏特」等等。
 **但是由於特攻種族值僅有55，因此沒有太大的用處。
 
-== 超級泥偶巨人（メガゴルーグ/Mega Golurk） ==
+=== 超級泥偶巨人（メガゴルーグ/Mega Golurk） ===
 
 {{Pokemon_Data
 |number= 623
 |name= 泥偶巨人
 |category= 魔像
-|image= 
+|image= [[檔案:メガゴルーグ.webp|150px]]
 |form= 超級泥偶巨人
 |height= 4.0
 |weight= 330.0

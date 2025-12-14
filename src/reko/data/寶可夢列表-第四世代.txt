@@ -374,8 +374,8 @@
 |number= 398
 |name= 姆克鷹
 |category= 猛禽
-|image= 
-|form= -
+|image= [[檔案:メガムクホーク.webp|150px]]
+|form= 超級姆克鷹
 |height= 1.9
 |weight= 50.0
 |type= {{color|white|#E35553|'''格鬥'''}} {{color|white|#A2A1EF|'''飛行'''}}
@@ -3245,8 +3245,8 @@
 |number= 485
 |name= 席多藍恩
 |category= 火山口
-|image=  
-|form= -
+|image= [[檔案:メガヒードラン.webp|150px]]
+|form= 超級席多藍恩
 |height= 2.8
 |weight= 570.0
 |type= {{color|white|#FF8F19|'''火'''}} {{color|white|gray|'''鋼'''}}
@@ -3518,9 +3518,9 @@
 {{Pokemon_Data
 |number= 491
 |name= 達克萊伊
-|category= 暗黑
-|image= 
-|form= -
+|category= 夢魘
+|image= [[檔案:メガダークライ.webp|150px]]
+|form= 超級達克萊伊
 |height= 3.0
 |weight= 240.0
 |type= {{color|white|#000000|'''惡'''}}
