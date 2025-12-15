@@ -3508,7 +3508,7 @@ Pokemon_0774(Violet_Core)_9th_style.png|50px|紫色核心
 |ability1= 
 |ability2= -
 |abilityh= -
-|pokedex= 
+|pokedex= 能蓄積相當於１０次雷電的電力。當牠不抑制自身力量時，會是最強級別的電氣寶可夢。
 }}
 
 * 《Z-A》的DLC《超次元爆湧》中新增，捷拉奧拉超級進化後的樣子。相比進化前的模樣體毛變成黑色的部分為主，身後尾巴狀的長毛也分岔成了兩根。
