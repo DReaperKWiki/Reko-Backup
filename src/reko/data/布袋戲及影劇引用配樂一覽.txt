@@ -2862,7 +2862,7 @@
 |-
 | rowspan="2" |新韻傳音－<br>真善美音樂大賞《草原牧歌》||[https://youtu.be/SYbsmSgxDeU 情有獨鍾法曲]||《天宇》✉[https://youtu.be/m4kliJNOHrQ&t=2001 儒聖佛聖對談]||
 |-
-||[https://youtu.be/YzoQLnrLTVw 江南元宵]||'85 亞視〈秦始皇〉[https://youtu.be/pQwqAjc6wbc&t=1331 毛遂入宴]<br>《金光》✂[https://youtu.be/dRz_qM7fKNA&t=57 魔簫旋遊子]||
+||[https://youtu.be/YzoQLnrLTVw 江南元宵]||'85 亞視〈秦始皇〉[https://youtu.be/pQwqAjc6wbc&t=1331 毛遂入宴]<br>《金光》✂[https://youtu.be/dRz_qM7fKNA&t=57 魔簫旋遊子]||曲牌名待查
 |-
 || '76 Jon Lord〈Sarabande〉||〈[https://youtu.be/5EmCF7IRdAA Fantasia]〉|| '85華視〈龍鳳奇俠〉[https://youtu.be/K0wRejgT_K4&t=25s OP] ||[https://youtu.be/UtUhZZ4JWMc?si=zUP7ny5BQBJadbbC&t=3968 驚愕場面曲]
 |-
@@ -3900,7 +3900,9 @@
 |-
 |'98 Jerry Goldsmith〈花木蘭〉||[https://youtu.be/wpNjjf3nOS8 The Hun's Attack]|| 《天宇》✂[https://youtu.be/aDuV39Ir6Qc 紀子焉VS刀隼]前半)||
 |-
-| rowspan="2"|'88 飛澤宏元〈超音戦士ボーグマン〉||[https://youtu.be/ofdS103JFHI?t=2421 CHUCK & MIKI "PHANTOM SWAT"]|| 《天宇》✂[https://youtu.be/Jb1DXmU3vbY 邪刀魔劍武雙全]||
+| rowspan="3"|'88 飛澤宏元〈超音戦士ボーグマン〉||[https://youtu.be/ofdS103JFHI?t=2421 CHUCK & MIKI "PHANTOM SWAT"]|| 《天宇》✂[https://youtu.be/Jb1DXmU3vbY 邪刀魔劍武雙全]||
+|-
+||GIL "MYSTERY"|| 《天宇》✂武雙全沉思||
 |-
 ||GIL "ADVANCE"|| 《霹靂》✂[https://youtu.be/hes0v64ntw0 雜用場景曲]||
 |-

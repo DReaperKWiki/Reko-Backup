@@ -1,0 +1,688 @@
+{{h0|神奇寶貝/特殊型態PM介紹}}
+{| class="wikitable" style="margin:auto;text-align:center;"
+| style="" |預告：由於第一世代擁有特殊形態的ＰＭ已達60隻，本條目設立時原規劃的作用將『局部復活』。<s>只要廚別天天來亂的話</s><br>
+第二世代以後的特殊形態ＰＭ仍暫時歸屬於各世代條目。
+|-
+{{Pokemon Gen row}}
+|}
+
+== 簡介 ==
+* 神奇寶貝（(精靈)寶可夢）由Game Boy掌機起家，歷經九個世代之主線，各種新增要素不斷增加。
+* 因應第八世代(劍盾)又追加大量前作PM的新型態，故新設本條目、針對'''擁有[[寶可夢掌機電玩要素解說#超級進化（メガシンカ/Mega Evolution）|【超級進化】]]、[[寶可夢掌機電玩要素解說#地區形態（リージョンフォーム/Regional_variant）|【地區型態】]]、[[寶可夢掌機電玩要素解說#超極巨化_（キョダイマックス/Gigantamax）|【超極巨化】]]型態'''的PM進行集中簡介
+** '''上述重點要素的詳盡介紹已經全部集中在[[寶可夢掌機電玩要素解說]]條目並附上了連結，還請移駕'''。
+** <s>因為很重要，所以連結附了不只三次</s>
+<!-- ** 下述PM［本來的樣子］的詳盡介紹，請前往該PM所屬世代的條目 -->
+
+=== 瀏覽前提醒/為了方便編輯…… ===
+* 因為'''修改累積了七八個世代的資料工程浩大（若要修改主條目名稱，甚至會影響所有與PM系列條目相連結的本站其他條目）'''－－
+** 本條目依然稱「寶可夢」為「神奇寶貝」(除非那個帶有「寶可(夢)」的用語已是官方正名，例如'''寶可'''騎行)。
+** 除非必要，否則請盡可能以「PM」作為略稱以方便編輯。
+<!-- ** 若還是有島民喜歡並適應了「寶可夢」之名而有意修改、歡迎在內文部分正名；但「修改條目名」此舉可能會造成其他有與PM系列條目連結的條目有大量連結異常，請謹慎。 -->
+* 注意：一般的型態變化、一些傳說PM的型態轉換不在本條目收錄範圍內。
+<!-- ** 例如：各位可以將「超級超夢X」「雷丘(阿羅拉的樣子)」「噴火龍(超極巨化的樣子)」的資料移至本條目，但則不需要 -->
+
+=== 目前的條目更新計畫筆記 ===
+* 由於第一世代中擁有特殊形態的ＰＭ已達60隻，本條目設立時原規劃的作用有『局部復活』的規劃。
+** 但排序依照PM編號序，且不分【超級進化】、【地區型態】、【超極巨化】及日月系列的霸主PM、阿爾宙斯版的劇情頭目PM（王）。
+*** 有可能獨立成第三個介紹第一世代PM的條目
+*** 但不管怎樣，「XXX的樣子」中日英文連發又煩又長(尤其是放在目錄裡)，會全部拔掉剩中文
+** 另外，[[皮卡丘]]已有專屬條目，相關的特殊樣子、特別型態介紹已全部移駕。
+* 但很遺憾的，上述計畫目前因為現實/[[在島上知名的廚|廚]]亂入/站內空間的因素無限拖延中(沒誤)
+
+* 追加筆記：扣除第一世代，【超級進化】尚有33隻PM、【地區型態】尚有20隻PM(達摩狒狒包含達摩模式)、【超極巨化】尚有20+1隻PM（武道熊師有兩種型態、無極汰那另有無極巨化）
+** 目前對各自世代的PM條目介紹的瀏覽不構成威脅，故尚未進行編輯規劃。
+* <s>若未來的PM系列有出現全新的「舊作PM的新型態」，也會在此條目收錄。</s>
+
+== 可進行[[神奇寶貝-掌機電玩要素解說#超級進化（メガシンカ/Mega Evolution）|《超級進化》]]的PM ==
+{| class="wikitable" style="margin:auto;text-align:center;"
+| style="" |★編輯提示：請將【能夠在XY/ORAS/ZA進行超級進化】的PM集中在此介紹。
+|}
+*又分為「XY引入」、「ORAS引入」、「ZA本篇引入」與「超次元爆湧」引入四階段。
+** 類似於超級進化，固拉多與蓋歐卡的「原始回歸」和奈克洛茲瑪的「究極爆發」不在此介紹
+=== 第六世代引入 ===
+{| class="wikitable" style="margin:auto;text-align:center;"
+|-
+! colspan="4" ;-content: center |XY引入!! colspan="4" |ORAS引入
+|-
+! 全國圖鑑編號!!繁體名稱!!超級進化前!!超級進化後!!全國圖鑑編號!!繁體名稱!!超級進化前!!超級進化後
+|-
+|#0003||妙蛙花||[[File:Pokemon_0003_9th_style.png|100px]]||[[File:Pokemon_0003(Mega)_9th_style.png|100px]]
+|#0015
+|大針蜂
+|[[File:Pokemon_0015_9th_style.png|100px]]
+|[[File:Pokemon_0015(Mega)_9th_style.png|100px]]
+|-
+| rowspan="2" |#0006||噴火龍X|| rowspan="2" |[[File:Pokemon_0006_9th_style.png|100px]]||[[File:Pokemon_0006(MegaX)_9th_style.png|100px]]
+|#0018
+|大比鳥
+|[[File:Pokemon_0018_9th_style.png|100px]]
+|[[File:Pokemon_0018(Mega)_9th_style.png|100px]]
+|-
+|噴火龍Y||[[File:Pokemon_0006(MegaY)_9th_style.png|100px]]
+|#0080
+|呆殼獸
+|[[File:Pokemon_0080_9th_style.png|100px]]
+|[[File:Pokemon_0080(Mega)_9th_style.png|100px]]
+|-
+|#0009||水箭龜||[[File:Pokemon_0009_9th_style.png|100px]]||[[File:Pokemon_0009(Mega)_9th_style.png|100px]]
+|#0208
+|大鋼蛇
+|[[File:Pokemon_0208_9th_style.png|100px]]
+|[[File:Pokemon_0208(Mega)_9th_style.png|100px]]
+|-
+|#0065||胡地||[[File:Pokemon_0065_9th_style.png|100px]]||[[File:Pokemon_0065(Mega)_9th_style.png|100px]]
+|#0254
+|蜥蜴王
+|[[File:Pokemon_0254_9th_style.png|100px]]
+|[[File:Pokemon_0254(Mega)_9th_style.png|100px]]
+|-
+|#0094||耿鬼||[[File:Pokemon_0094_9th_style.png|100px]]||[[File:Pokemon_0094(Mega)_9th_style.png|100px]]
+|#0260
+|巨沼怪
+|[[File:Pokemon_0260_9th_style.png|100px]]
+|[[File:Pokemon_0260(Mega)_9th_style.png|100px]]
+|-
+|#0115||袋獸||[[File:Pokemon_0115_9th_style.png|100px]]||[[File:Pokemon_0115(Mega)_9th_style.png|100px]]
+|#0302
+|勾魂眼
+|[[File:Pokemon_0302_9th_style.png|100px]]
+|[[File:Pokemon_0302(Mega)_9th_style.png|100px]]
+|-
+|#0127||凱羅斯||[[File:Pokemon_0127_9th_style.png|100px]]||[[File:Pokemon_0127(Mega)_9th_style.png|100px]]
+|#0319
+|巨牙鯊
+|[[File:Pokemon_0319_9th_style.png|100px]]
+|[[File:Pokemon_0319(Mega)_9th_style.png|100px]]
+|-
+|#0130||暴鯉龍||[[File:Pokemon_0130_9th_style.png|100px]]||[[File:Pokemon_0130(Mega)_9th_style.png|100px]]
+|#0323
+|噴火駝
+|[[File:Pokemon_0323_9th_style.png|100px]]
+|[[File:Pokemon_0323(Mega)_9th_style.png|100px]]
+|-
+|#0142||化石翼龍||[[File:Pokemon_0142_9th_style.png|100px]]||[[File:Pokemon_0142(Mega)_9th_style.png|100px]]
+|#0334
+|七夕青鳥
+|[[File:Pokemon_0334_9th_style.png|100px]]
+|[[File:Pokemon_0334(Mega)_9th_style.png|100px]]
+|-
+| rowspan="2" |#0150||超夢X|| rowspan="2" |[[File:Pokemon_0150_9th_style.png|100px]]||[[File:Pokemon_0150(MegaX)_9th_style.png|100px]]
+|#0362
+|冰鬼護
+|[[File:Pokemon_0362_9th_style.png|100px]]
+|[[File:Pokemon_0362(Mega)_9th_style.png|100px]]
+|-
+|超夢Y||[[File:Pokemon_0150(MegaY)_9th_style.png|100px]]
+|#0373
+|暴飛龍
+|[[File:Pokemon_0373_9th_style.png|100px]]
+|[[File:Pokemon_0373(Mega)_9th_style.png|100px]]
+|-
+|#0181||電龍||[[File:Pokemon_0181_9th_style.png|100px]]||[[File:Pokemon_0181(Mega)_9th_style.png|100px]]
+|#0376
+|巨金怪
+|[[File:Pokemon_0376_9th_style.png|100px]]
+|[[File:Pokemon_0376(Mega)_9th_style.png|100px]]
+|-
+|#0212||巨鉗螳螂||[[File:Pokemon_0212_9th_style.png|100px]]||[[File:Pokemon_0212(Mega)_9th_style.png|100px]]
+|#0380
+|拉帝亞斯
+|[[File:Pokemon_0380_9th_style.png|100px]]
+|[[File:Pokemon_0380(Mega)_9th_style.png|100px]]
+|-
+|#0214||赫拉克羅斯||[[File:Pokemon_0214_9th_style.png|100px]]||[[File:Pokemon_0214(Mega)_9th_style.png|100px]]
+|#0381
+|拉帝歐斯
+|[[File:Pokemon_0381_9th_style.png|100px]]
+|[[File:Pokemon_0381(Mega)_9th_style.png|100px]]
+|-
+|#0229||黑魯加||[[File:Pokemon_0229_9th_style.png|100px]]||[[File:Pokemon_0229(Mega)_9th_style.png|100px]]
+|#0384
+|烈空坐
+|[[File:Pokemon_0384_9th_style.png|100px]]
+|[[File:Pokemon_0384(Mega)_9th_style.png|100px]]
+|-
+|#0248||班基拉斯||[[File:Pokemon_0248_9th_style.png|100px]]||[[File:Pokemon_0248(Mega)_9th_style.png|100px]]
+|#0428
+|長耳兔
+|[[File:Pokemon_0428_9th_style.png|100px]]
+|[[File:Pokemon_0428(Mega)_9th_style.png|100px]]
+|-
+|#0257||火焰雞||[[File:Pokemon_0257_9th_style.png|100px]]||[[File:Pokemon_0257(Mega)_9th_style.png|100px]]
+|#0475
+|艾路雷朵
+|[[File:Pokemon_0475_9th_style.png|100px]]
+|[[File:Pokemon_0475(Mega)_9th_style.png|100px]]
+|-
+|#0282||沙奈朵||[[File:Pokemon_0282_9th_style.png|100px]]||[[File:Pokemon_0282(Mega)_9th_style.png|100px]]
+|#0531
+|差不多娃娃
+|[[File:Pokemon_0531_9th_style.png|100px]]
+|[[File:Pokemon_0531(Mega)_9th_style.png|100px]]
+|-
+|#0303||大嘴娃||[[File:Pokemon_0303_9th_style.png|100px]]||[[File:Pokemon_0303(Mega)_9th_style.png|100px]]
+|#0719
+|蒂安希
+|[[File:Pokemon_0719_9th_style.png|100px]]
+|[[File:Pokemon_0719(Mega)_9th_style.png|100px]]
+|-
+|#0306||波士可多拉||[[File:Pokemon_0306_9th_style.png|100px]]||[[File:Pokemon_0306(Mega)_9th_style.png|100px]]
+|-
+|#0308||恰雷姆||[[File:Pokemon_0308_9th_style.png|100px]]||[[File:Pokemon_0308(Mega)_9th_style.png|100px]]
+|-
+|#0310||雷電獸||[[File:Pokemon_0310_9th_style.png|100px]]||[[File:Pokemon_0310(Mega)_9th_style.png|100px]]
+|-
+|#0354||詛咒娃娃||[[File:Pokemon_0354_9th_style.png|100px]]||[[File:Pokemon_0354(Mega)_9th_style.png|100px]]
+|-
+|#0359||阿勃梭魯||[[File:Pokemon_0359_9th_style.png|100px]]||[[File:Pokemon_0359(Mega)_9th_style.png|100px]]
+|-
+|#0445||烈咬陸鯊||[[File:Pokemon_0445_9th_style.png|100px]]||[[File:Pokemon_0445(Mega)_9th_style.png|100px]]
+|-
+|#0448||路卡利歐||[[File:Pokemon_0448_9th_style.png|100px]]||[[File:Pokemon_0448(Mega)_9th_style.png|100px]]
+|-
+|#0460||暴雪王||[[File:Pokemon_0460_9th_style.png|100px]]||[[File:Pokemon_0460(Mega)_9th_style.png|100px]]
+|}
+
+=== 傳說ZA引入 ===
+{| class="wikitable" style="margin:auto;text-align:center;"
+|-
+! colspan="4" |ZA本篇引入
+! colspan="4" |超次元爆湧引入
+|-
+!全國圖鑑編號
+!繁體名稱
+!超級進化前
+!超級進化後
+!全國圖鑑編號
+!繁體名稱
+!超級進化前
+!超級進化後
+|-
+|#0036
+|皮可西
+|[[File:Pokemon_0036_9th_style.png|100px]]
+|
+|#0026
+|雷丘X
+| rowspan="2" |[[File:Pokemon_0026_9th_style.png|100px]]
+|
+|-
+|#0071
+|大食花
+|[[File:Pokemon_0071_9th_style.png|100px]]
+|
+|#0026
+|雷丘Y
+|
+|-
+|#0121
+|寶石海星
+|[[File:Pokemon_0121_9th_style.png|100px]]
+|
+|#0358
+|風鈴鈴
+|[[File:Pokemon_0358_9th_style.png|100px]]
+|
+|-
+|#0149
+|快龍
+|[[File:Pokemon_0149_9th_style.png|100px]]
+|
+|#0359
+|阿勃梭魯Z
+|[[File:Pokemon_0359_9th_style.png|100px]]
+|
+|-
+|#0154
+|大竺葵
+|[[File:Pokemon_0154_9th_style.png|100px]]
+|
+|#0398
+|姆克鷹
+|[[File:Pokemon_0398_9th_style.png|100px]]
+|
+|-
+|#0160
+|大力鱷
+|[[File:Pokemon_0160_9th_style.png|100px]]
+|
+|#0445
+|烈咬陸鯊Z
+|[[File:Pokemon_0445_9th_style.png|100px]]
+|
+|-
+|#0227
+|盔甲鳥
+|[[File:Pokemon_0227_9th_style.png|100px]]
+|
+|#0448
+|路卡利歐Z
+|[[File:Pokemon_0448_9th_style.png|100px]]
+|
+|-
+|#0478
+|雪妖女
+|[[File:Pokemon_0478_9th_style.png|100px]]
+|
+|#0485
+|席多藍恩
+|[[File:Pokemon_0485_9th_style.png|100px]]
+|
+|-
+|#0500
+|炎武王
+|[[File:Pokemon_0500_9th_style.png|100px]]
+|
+|#0491
+|達克萊伊
+|[[File:Pokemon_0491_9th_style.png|100px]]
+|
+|-
+|#0530
+|龍頭地鼠
+|[[File:Pokemon_0530_9th_style.png|100px]]
+|
+|#0623
+|泥偶巨人
+|[[File:Pokemon_0623_9th_style.png|100px]]
+|
+|-
+|#0545
+|蜈蚣王
+|[[File:Pokemon_0545_9th_style.png|100px]]
+|
+|#0678
+|超能妙喵
+|[[File:Pokemon_0678(male)_9th_style.png|100px|雄性的樣子]]<br>[[File:Pokemon_0678(female)_9th_style.png|100px|雌性的樣子]]
+|
+|-
+|#0560
+|頭巾混混
+|[[File:Pokemon_0560_9th_style.png|100px]]
+|
+|#0740
+|好勝毛蟹
+|[[File:Pokemon_0740_9th_style.png|100px]]
+|
+|-
+|#0604
+|麻麻鰻魚王
+|[[File:Pokemon_0604_9th_style.png|100px]]
+|
+|#0768
+|具甲武者
+|[[File:Pokemon_0768_9th_style.png|100px]]
+|
+|-
+|#0609
+|水晶燈火靈
+|[[File:Pokemon_0609_9th_style.png|100px]]
+|
+|#0801
+|瑪機雅娜
+|[[File:Pokemon_0801_9th_style.png|100px]]
+|
+|-
+|#0652
+|布里卡隆
+|[[File:Pokemon_0652_9th_style.png|100px]]
+|
+|#0807
+|捷拉奧拉
+|[[File:Pokemon_0807_9th_style.png|100px]]
+|
+|-
+|#0655
+|妖火紅狐
+|[[File:Pokemon_0655_9th_style.png|100px]]
+|
+|#0952
+|狠辣椒
+|[[File:Pokemon_0952_9th_style.png|100px]]
+|
+|-
+|#0658
+|甲賀忍蛙
+|[[File:Pokemon_0658_9th_style.png|100px]]
+|
+|#0970
+|晶光花
+|[[File:Pokemon_0970_9th_style.png|100px]]
+|
+|-
+|#0668
+|火炎獅
+|[[File:Pokemon_0668(male)_9th_style.png|100px|雄性的樣子]]<br>[[File:Pokemon_0668(female)_9th_style.png|100px|雌性的樣子]]
+|
+| rowspan="3" |#0978
+|米立龍
+(上弓姿勢)
+|[[File:Pokemon_0978_curly_9th_style.png|100px]]
+|
+|-
+|#0670
+|花葉蒂
+(永恆之花)
+|[[File:Pokemon 0670(AZ) 9th style.png|100px]]
+|
+|米立龍
+
+(下垂姿勢)
+|[[File:Pokemon 0978 droopy 9th style.png|100px]]
+|
+|-
+|#0687
+|烏賊王
+|[[File:Pokemon_0687_9th_style.png|100px]]
+|
+|米立龍
+(平挺姿勢)
+|[[File:Pokemon 0978 stretchy 9th style.png|100px]]
+|
+|-
+|#0689
+|龜足巨鎧
+|[[File:Pokemon_0689_9th_style.png|100px]]
+|
+|#0998
+|戟脊龍
+|[[File:Pokemon_0998_9th_style.png|100px]]
+|
+|-
+|#0691
+|毒藻龍
+|[[File:Pokemon_0691_9th_style.png|100px]]
+|
+|
+|
+|
+|
+|-
+|#0701
+|摔角鷹人
+|[[File:Pokemon_0701_9th_style.png|100px]]
+|
+|
+|
+|
+|
+|-
+|#0718
+|基格爾德
+|[[File:Pokemon 0718(Complete) 9th style.png|100px]]
+|
+|
+|
+|
+|
+|-
+|#0780
+|老翁龍
+|[[File:Pokemon_0780_9th_style.png|100px]]
+|
+|
+|
+|
+|
+|-
+|#0870
+|列陣兵
+|[[File:Pokemon_0870_9th_style.png|100px]]
+|
+|
+|
+|
+|
+|}
+==擁有[[寶可夢掌機電玩要素解說#地區形態（リージョンフォーム/Regional_variant）|《地區形態》]]的PM ==
+{| class="wikitable" style="margin:auto;text-align:center;"
+| style="" |★編輯提示：這個段落要介紹的是【在(究極)日月/劍盾/傳說阿爾宙斯/朱紫擁有地區型態】的PM，而非介紹『地區型態』。
+|}
+*又分為「阿羅拉的樣子」（第七世代）、「伽勒爾的樣子」（第八世代） 、「洗翠的樣子」（第八世代）與「帕底亞的樣子」（第九世代）。
+**事實上各世代的PM一直以來都有所謂的型態差異，包含性別差異、地區顏色差異、花紋差異等不同形式。
+**但是從第七世代開始出現的「xxx的樣子」跟過往的型態差異不同，以往的性別或其他型態差異（例如性別不同的超能妙喵、不同顏色的海兔獸、屬性不同的結草貴婦等）基本上還算是同一種PM，因為不管差別如何進化鍊都是共通的。
+**「xxx的樣子」之所以可視為完全不同的PM，除了進化鍊不共通外，甚且還有專屬的全新進化型態。
+***對應的全新進化形態則於新增的世代的條目中作介紹，不會放到這裡。
+*官方說明是：部分的寶可夢因適應了xxx地區獨有的自然環境，而擁有和其他地區不同的樣子，甚至有些會因其獨特的生長環境而進化為在其他地區見不到的樣子。
+**部分PM甚至是原種（例如阿羅拉樣子的耶蛋樹、伽勒爾樣子的蛇紋熊、直衝熊），其他地區尋常能見的一般形態反而是後來延伸出來的亞種。
+*與一般形態之間的遺傳與進化關係是。
+**在xxx地區中，如果蛋中的寶可夢具有對應的xxx的樣子，則它會成為xxx的樣子。
+***跟親代的是否是地區形態無關，例如火屬性的六/九尾在阿羅拉地區生蛋，照樣會生出阿羅拉樣子的六尾。
+***若是想孵出一般形態，則需一般形態的親代攜帶不變之石後進行孵育，例如想在阿羅拉地區孵育出火屬性的六尾，則需親代使用火屬性的六/九尾並攜帶不變之石。
+***反之，若是在阿羅拉以外的地方孵出阿羅拉的冰屬性六尾，則需要冰六/九尾攜帶不變之石進行孵育。
+**若是只有進化後才有xxx的樣子，則需看當他發生進化時的地點來決定。
+***例如雷丘，當皮卡丘發生進化時的地區在阿羅拉，則會變成阿羅拉樣子的雷丘；但若是在究極之洞中發生進化，會因為究極之洞不是阿羅拉地區變成一般的雷丘。
+===阿羅拉的樣子===
+*以下附圖全部都是該地方的樣子
+*整個家族都擁有地區型態：小拉達家族、穿山鼠家族、六尾家族、地鼠家族、喵喵家族、小拳石家族、臭泥家族
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0019(Alola)_9th_style.png      |0019 小拉達
+Pokemon_0020(Alola)_9th_style.png      |0020 拉達
+Pokemon_0027(Alola)_9th_style.png      |0027 穿山鼠
+Pokemon_0028(Alola)_9th_style.png      |0028 穿山王
+Pokemon_0037(Alola)_9th_style.png      |0037 六尾
+Pokemon_0038(Alola)_9th_style.png      |0038 九尾
+Pokemon_0050(Alola)_9th_style.png      |0050 地鼠
+Pokemon_0051(Alola)_9th_style.png      |0051 三地鼠
+Pokemon_0052(Alola)_9th_style.png      |0052 喵喵
+Pokemon_0053(Alola)_9th_style.png      |0053 貓老大
+Pokemon_0074(Alola)_9th_style.png      |0074 小拳石
+Pokemon_0075(Alola)_9th_style.png      |0075 隆隆石
+Pokemon_0076(Alola)_9th_style.png      |0076 隆隆岩
+Pokemon_0088(Alola)_9th_style.png      |0088 臭泥
+Pokemon_0089(Alola)_9th_style.png      |0089 臭臭泥
+</gallery>
+*僅進化型有地區型態：雷丘、嘎啦嘎拉、椰蛋樹
+<gallery widths="100px" heights="100px">
+Pokemon_0026(Alola)_9th_style.png       |0026 雷丘
+Pokemon_0103(Alola)_9th_style.png     |0103 椰蛋樹
+Pokemon_0105(Alola)_9th_style.png     |0105 嘎啦嘎啦
+</gallery>
+
+===伽勒爾的樣子===
+*整個家族都擁有地區型態：小火馬家族、火紅不倒翁家族、泥巴魚、呆呆獸家族、火焰鳥、急凍鳥、閃電鳥
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0077(Galar)_9th_style.png          |0077 小火馬
+Pokemon_0078(Galar)_9th_style.png          |0078 烈焰馬
+Pokemon_0554(Galar)_9th_style.png          |0554 火紅不倒翁
+Pokemon_0555(Galar)_9th_style.png          |0555 達摩狒狒
+Pokemon_0555(Galar_Zen_Mode)_9th_style.png |0555 達摩狒狒(達摩模式)
+Pokemon_0618(Galar)_9th_style.png          |0618 泥巴魚
+Pokemon_0079(Galar)_9th_style.png          |0079 呆呆獸
+Pokemon_0080(Galar)_9th_style.png          |0080 呆殼獸
+Pokemon_0199(Galar)_9th_style.png          |0199 呆呆王
+Pokemon_0144(Galar)_9th_style.png          |0144 急凍鳥
+Pokemon_0145(Galar)_9th_style.png          |0145 閃電鳥
+Pokemon_0146(Galar)_9th_style.png          |0146 火焰鳥
+</gallery>
+
+*擁有新進化型的地區型態：喵喵（喵頭目）、魔牆人偶（踏冰人偶）、蛇紋熊家族（堵攔熊）、太陽珊瑚（魔靈珊瑚）、大蔥鴨（蔥遊兵）、哭哭面具（死神板）
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0052(Galar)_9th_style.png      |0052 喵喵
+Pokemon_0083(Galar)_9th_style.png      |0083 大蔥鴨
+Pokemon_0122(Galar)_9th_style.png      |0122 魔牆人偶
+Pokemon_0222(Galar)_9th_style.png      |0222 太陽珊瑚
+Pokemon_0263(Galar)_9th_style.png      |0263 蛇紋熊
+Pokemon_0264(Galar)_9th_style.png      |0264 直衝熊
+Pokemon_0562(Galar)_9th_style.png      |0562 哭哭面具
+</gallery>
+*僅進化型有地區型態：雙彈瓦斯
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0110(Galar)_9th_style.png     |0110 雙彈瓦斯
+</gallery>
+*<s>冰伊布(用冰之石進化的樣子)、葉伊布(用葉之石進化的樣子)、鍬農炮蟲&三合一磁怪(用雷之石進化的樣子)<ref>劍盾板拔除了青苔岩石、冰之岩石、擁有特殊磁場的場所，故更改了四隻PM的進化方式。<s>葉伊布與冰伊布表示早該這麼做了、無法入境伽勒爾的大朝北鼻家族表示在古代洗翠可以用雷之石進化為什麼現在神奧就不行；不過葉之石早在初代就已經出現，冰之石直到第七代才出現，然而冰伊布早於第四代登場。</s>
+</ref></s>
+
+===洗翠的樣子===
+*整個家族都擁有地區型態：卡蒂狗家族、霹靂電球家族、索羅亞家族
+<gallery widths="100px" heights="100px">
+Pokemon_0058(Hisui)_9th_style.png      |0058 卡蒂狗
+Pokemon_0059(Hisui)_9th_style.png      |0059 風速狗
+Pokemon_0100(Hisui)_9th_style.png      |0100 霹靂電球
+Pokemon_0101(Hisui)_9th_style.png      |0101 頑皮雷彈
+Pokemon_0570(Hisui)_9th_style.png      |0570 索羅亞
+Pokemon_0571(Hisui)_9th_style.png      |0571 索羅亞克
+</gallery>
+*會擁有新進化型的地區型態：野蠻鱸魚(白條紋的樣子，幽尾玄魚)、狃拉(大狃拉)、千針魚(萬針魚)
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0550(White)_9th_style.png  |0550 野蠻鱸魚(白條紋的樣子)
+Pokemon_0215(Hisui)_9th_style.png  |0215 狃拉
+Pokemon_0211(Hisui)_9th_style.png  |0211 千針魚
+</gallery>
+*僅進化型有地區型態：火爆獸、大劍鬼、狙射樹梟、裙兒小姐、勇士雄鷹、黏美兒、黏美龍、冰岩怪
+<gallery perrow="4" widths="100px" heights="100px">
+Pokemon_0157(Hisui)_9th_style.png  |0157 火爆獸
+Pokemon_0503(Hisui)_9th_style.png  |0503 大劍鬼
+Pokemon_0724(Hisui)_9th_style.png  |0724 狙射樹梟
+Pokemon_0549(Hisui)_9th_style.png  |0549 裙兒小姐
+Pokemon_0628(Hisui)_9th_style.png  |0628 勇士雄鷹
+Pokemon_0705(Hisui)_9th_style.png  |0705 黏美兒
+Pokemon_0706(Hisui)_9th_style.png  |0706 黏美龍
+Pokemon_0713(Hisui)_9th_style.png  |0713 冰岩怪
+</gallery>
+
+===帕底亞的樣子===
+*整個家族都擁有地區型態：肯泰羅
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0128(Combat)_9th_style.png    |0128 肯泰羅(帕底亞的樣子-鬥戰種)
+Pokemon_0128(Blaze)_9th_style.png     |0128 肯泰羅(帕底亞的樣子-火熾種)
+Pokemon_0128(Aqua)_9th_style.png      |0128 肯泰羅(帕底亞的樣子-水瀾種)
+</gallery>
+*會擁有新進化型的地區型態：烏波(土王)
+<gallery perrow="5" widths="100px" heights="100px">
+Pokemon_0194(Paldea)_9th_style.png|0194 烏波
+</gallery>
+
+==[[寶可夢掌機電玩要素解說#極巨化（ダイマックス/Dynamax）|《極巨化》]]==
+*第八世代新增要素，用來替代第六世代出現的超級進化，以及第七世代出現的Z招式。
+**通過第八世代新增道具「極巨腕帶」可以實現在特定的地點對寶可夢進行極巨化，極巨化後的PM體積會增大，某些能力會有所提升。
+**極巨化後的PM招式一律變成極巨招式，極巨招式不只具有強大的威力，有些甚至還擁有強勁的追加效果。
+**部分PM還會有更特殊的「超極巨化」，外觀不只變大還會變成完全不同的樣子，還能使用專屬的超極巨招式
+**<s>超級進化→超級巨化→超極巨化[[大中天|→極巨化→巨化→]][[GG|巨]]</s>
+
+===能夠《超極巨化》的PM===
+<!--
+★編輯提示：這個段落要介紹的是【能夠在劍盾進行超極巨化】的PM，而非介紹所有PM都會的『極巨化』。
+-->
+{| class="wikitable" style="margin:auto;text-align:center;"
+|- align="center"
+!全國圖鑑編號!!名稱!!超極巨化前!!超極巨化後
+|- align="center"
+|#0003||妙蛙花||[[File:Pokemon_0003_9th_style.png]]||[[File:venusaur-gigantamax.png]]
+|- align="center"
+|#0006||噴火龍||[[File:Pokemon_0006_9th_style.png]]||[[File:Charizard-gigantamax.png]]
+|- align="center"
+|#0009||水箭龜||[[File:Pokemon_0009_9th_style.png]]||[[File:Blastoise-gigantamax.png]]
+|- align="center"
+|#0012||巴大蝶||[[File:Pokemon_0012_9th_style.png]]||[[File:butterfree-gigantamax.png]]
+|- align="center"
+|#0025||皮卡丘||[[File:Pokemon_0025_9th_style.png]]||[[File:pikachu-gigantamax.png]]
+|- align="center"
+|#0052||喵喵||[[File:Pokemon_0052_9th_style.png]]||[[File:meowth-gigantamax.png]]
+|- align="center"
+|#0068||怪力||[[File:Pokemon_0068_9th_style.png]]||[[File:machamp-gigantamax.png]]
+|- align="center"
+|#0094||耿鬼||[[File:Pokemon_0094_9th_style.png]]||[[File:gengar-gigantamax.png]]
+|- align="center"
+|#0099||巨鉗蟹||[[File:Pokemon_0099_9th_style.png]]||[[File:kingler-gigantamax.png]]
+|- align="center"
+|#0131||拉普拉斯||[[File:Pokemon_0131_9th_style.png]]||[[File:lapras-gigantamax.png]]
+|- align="center"
+|#0133||伊布||[[File:Pokemon_0133_9th_style.png]]||[[File:eevee-gigantamax.png]]
+|- align="center"
+|#0143||卡比獸||[[File:Pokemon_0143_9th_style.png]]||[[File:snorlax-gigantamax.png]]
+|- align="center"
+|#0569||灰塵山||[[File:Pokemon_0569_9th_style.png]]||[[File:garbodor-gigantamax.png]]
+|- align="center"
+|#0809||美錄梅塔||[[File:Pokemon_0809_9th_style.png]]||[[File:melmetal-gigantamax.png]]
+|- align="center"
+|#0812||轟擂金剛猩||[[File:Pokemon_0812_9th_style.png]]||[[File:rillaboom-gigantamax.png]]
+|- align="center"
+|#0815||閃焰王牌||[[File:Pokemon_0815_9th_style.png]]||[[File:cinderace-gigantamax.png]]
+|- align="center"
+|#0818||千面避役||[[File:Pokemon_0818_9th_style.png]]||[[File:inteleon-gigantamax.png]]
+|- align="center"
+|#0823||鋼鎧鴉||[[File:Pokemon_0823_9th_style.png]]||[[File:corviknight-gigantamax.png]]
+|- align="center"
+|#0826||以歐路普||[[File:Pokemon_0826_9th_style.png]]||[[File:orbeetle-gigantamax.png]]
+|- align="center"
+|#0834||暴噬龜||[[File:Pokemon_0834_9th_style.png]]||[[File:drednaw-gigantamax.png]]
+|- align="center"
+|#0839||巨炭山||[[File:Pokemon_0839_9th_style.png]]||[[File:coalossal-gigantamax.png]]
+|- align="center"
+|#0841||蘋裹龍||[[File:Pokemon_0841_9th_style.png]]|| rowspan="2" |[[File:appletun-gigantamax.png]]
+|- align="center"
+|#0842||豐蜜龍||[[File:Pokemon_0842_9th_style.png]]
+|- align="center"
+|#0844||沙螺蟒||[[File:Pokemon_0844_9th_style.png]]||[[File:sandaconda-gigantamax.png]]
+|- align="center"
+| rowspan="2" | #0849|| rowspan="2" |顫弦蠑螈||[[File:Pokemon_0849_9th_style.png]]|| rowspan="2" |[[File:toxtricity-gigantamax.png]]
+|- align="center"
+|[[File:Pokemon_0849(Low-key)_9th_style.png]]
+|- align="center"
+|#0851||焚焰蚣||[[File:Pokemon_0851_9th_style.png]]||[[File:centiskorch-gigantamax.png]]
+|- align="center"
+|#0858||布莉姆溫||[[File:Pokemon_0858_9th_style.png]]||[[File:hatterene-gigantamax.png]]
+|- align="center"
+|#0861||長毛巨魔||[[File:Pokemon_0861_9th_style.png]]||[[File:grimmsnarl-gigantamax.png]]
+|- align="center"
+|#0869||霜奶仙||[[File:Pokemon_0869_9th_style.png]]||[[File:alcremie-gigantamax.png]]
+|- align="center"
+|#0879||大王銅象||[[File:Pokemon_0879_9th_style.png]]||[[File:copperajah-gigantamax.png]]
+|- align="center"
+|#0884||鋁鋼龍||[[File:Pokemon_0884_9th_style.png]]||[[File:duraludon-gigantamax.png]]
+|- align="center"
+| rowspan="2" |#0892||武道熊師（一擊流）|| rowspan="2" |[[File:Pokemon_0892_9th_style.png]]||[[File:urshifu-gigantamax-single-strike.png]]
+|- align="center"
+|武道熊師（連擊流）||[[File:urshifu-gigantamax-rapid-strike.png]]
+|}
+
+==其他==
+===霸主寶可夢===
+{| class="wikitable" style="margin:auto;text-align:center;"
+| style="" |★編輯提示：請將作為【霸主寶可夢】的PM集中在此介紹。
+|}
+*第七世代島嶼巡禮中登場，圍繞著對自身有助益的特殊氣場的特別PM，體型也比原生PM較大。
+**有部分霸主寶可夢是「阿羅拉的樣子」。
+**有部分霸主寶可夢可以在究極日月透過霸主貼紙交換獲得。
+***但是換來的霸主PM將會失去氣場，變成單純比較大隻的特殊PM。
+{| class="wikitable"  style="margin:auto;text-align:center;"
+|+ 霸王寶可夢
+|-
+! 考驗舞台 !! 遊戲版本 !! 霸主寶可夢
+|-
+| rowspan="2"|蔥鬱洞窟 || 太陽<br/>究極之日||[[檔案:Pokemon_0735_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主貓鼬探長|貓鼬探長]]
+|-
+|  月亮<br/>究極之月 ||[[檔案:Pokemon_0020(Alola)_9th_style.png]]<br/>[[寶可夢第一世代列表1~99#霸主拉達（阿羅拉的樣子）|拉達]]<br/>[[#阿羅拉的樣子|（阿羅拉的樣子）]]
+|-
+| rowspan="2"|潺潺之丘 || 太陽<br/>月亮||[[檔案:Pokemon_0746(School)_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主弱丁魚|弱丁魚（魚群的樣子）]]
+|-
+|  究極之日<br/>究極之月 || [[檔案:Pokemon_0752_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主滴蛛霸|滴蛛霸]]
+|-
+| rowspan="2"|維拉火山公園|| 太陽<br/>月亮 || [[檔案:Pokemon_0758_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主焰后蜥|焰后蜥]]
+|-
+| 究極之日<br/>究極之月 || [[檔案:Pokemon_0105(Alola)_9th_style.png]]<br/>[[寶可夢第一世代列表100~151#霸主嘎啦嘎啦|嘎啦嘎啦]]<br/>[[#阿羅拉的樣子|（阿羅拉的樣子）]]
+|-
+| 樹蔭叢林 || 太陽<br/>月亮<br/>究極之日<br/>究極之月|| [[檔案:Pokemon_0754_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主蘭螳花|蘭螳花]]
+|-
+| rowspan="2"| 輝克拉尼天文台 || 太陽<br/>月亮|| [[檔案:Pokemon_0738_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主鍬農炮蟲|鍬農炮蟲]]
+|-
+| 究極之日<br/>究極之月 || [[檔案:Pokemon_0777_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主托戈德瑪爾|托戈德瑪爾]]
+|-
+|  樹蔭叢林 || 太陽<br/>月亮<br/>究極之日<br/>究極之月|| [[檔案:Pokemon_0778_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主謎擬Q|謎擬Q]]
+|-
+| 波尼大峽谷 || 太陽<br/>月亮<br/>究極之日<br/>究極之月 || [[檔案:Pokemon_0784_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主杖尾鱗甲龍|杖尾鱗甲龍]]
+|-
+| 海洋居民之村 || 究極之日<br/>究極之月 || [[檔案:Pokemon_0743_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主蝶結萌虻|蝶結萌虻]]
+|-
+| 十克拉山丘	 || 太陽／月亮<br/>特別體驗版|| [[檔案:Pokemon_0783_9th_style.png]]<br/>[[寶可夢列表-第七世代#霸主鱗甲龍|鱗甲龍]]
+|}
+
+==回應==
+[[{{TALKPAGENAME}}]]
+
+==備註==
+<references />
+{{模板:Pokemon}}
+
+[[分類:神奇寶貝系列|PM]]

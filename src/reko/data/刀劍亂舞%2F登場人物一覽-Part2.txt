@@ -1168,7 +1168,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/5/56/Saburou.png
 http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/6104458_orig.jpg
 https://static.wikia.nocookie.net/touken-ranbu/images/b/b6/Ishikirimaru-Kiwame.png
 * 繪：細越裕治。CV：高橋英則。演：崎山つばさ (音樂劇)。
-* 刀帳編號：7番。刀派：三条。身高：189&nbsp;cm。
+* 刀帳編號：7番→8番。刀派：三条。身高：189&nbsp;cm。
 * 供奉於石切剣箭神社的神刀，所以衣服也完全是神主打扮。
 ** 日本有將腫包暱稱為石頭，所以石切=切除腫包。他的台詞裡也說自己比起戰鬥來更擅長驅除腫包和病氣。
 * {{censored|三條有成作，有成銘。因為有成有可能是三條宗近出師前的名字，所以也有可能是宗近作。供奉在石切剣箭神社的 [http://i.imgur.com/amLDZhy.jpg 石切丸] 乃太刀，遊戲中為大太刀。}}
@@ -1195,7 +1195,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/b/b6/Ishikirimaru-Kiwame.p
 http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/3039050_orig.jpg
 https://static.wikia.nocookie.net/touken-ranbu/images/4/42/Hotarumaru-Kiwame.png
 * 繪：彦。CV：井口祐一。
-* 刀帳編號：59番。刀派：来。身高：120&nbsp;cm。
+* 刀帳編號：59番→60番。刀派：来。身高：120&nbsp;cm。
 * 目前唯一的四花大太刀。
 * 原主阿蘇惟澄，長期被收藏於阿蘇神社之中。昭和6年國寶指定{{censored|，但在戰後丟失，下落不明。}}<ref>[https://twitter.com/Zephel_nico2/status/624183704659718144/photo/1 日本審神者找到丟失前的照片]</ref>
 ** {{censored|之後就這樣在下落不明的情況下指定為重要文化財。目前有著戰後被收繳沉海和被美軍帶走至海外等諸多傳言，真假不明。}}
@@ -1242,7 +1242,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/4/42/Hotarumaru-Kiwame.png
 http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/6331334_orig.jpg
 https://static.wikia.nocookie.net/touken-ranbu/images/e/ee/Taroutachi-Kiwame.png
 * 繪：Digital Hearts（ウエハラ蜂）。CV：泰勇気。演：小林涼 (舞台劇)。
-* 刀帳編號：132番。身高：196&nbsp;cm。
+* 刀帳編號：132番→133番。身高：196&nbsp;cm。
 * 又名「真柄太郎太刀」。
 * 真身光刀刃部分就長達221.5&nbsp;cm，重達4.5&nbsp;kg，絕非常人能夠使用的兵器。
 * 目前已知唯一使用過他的<s>怪物級武將</s>只有原主真柄直隆，是能把大太刀高舉過頭輕鬆揮舞數十次的豪傑。
@@ -1269,7 +1269,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/e/ee/Taroutachi-Kiwame.png
 http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/5429825_orig.jpg
 https://static.wikia.nocookie.net/touken-ranbu/images/8/88/Jiroutachi-Kiwame.png
 * 繪：Digital Hearts（トミダトモミ）。CV：宮下栄治。演：小坂涼太郎 (舞台劇)。
-* 刀帳編號：134番。身高：190&nbsp;cm。
+* 刀帳編號：134番→135番。身高：190&nbsp;cm。
 * 刀匠千代鶴國安所作，現藏熱田神宮寶物館<s>和哥哥住在一起</s>。
 * 原主為太郎原主真柄直隆的兒子真柄隆基。
 ** {{censored|真柄隆基跟著爸爸和叔叔一起參與了姊川合戰，同樣作為朝倉家的家臣戰死於陣中。}}
@@ -1293,7 +1293,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/8/88/Jiroutachi-Kiwame.png
 === 禰禰切丸（祢々切丸） ===
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E7%A5%A2%E3%80%85%E5%88%87%E4%B8%B8&src=nene.JPG
 * 繪：源覚（ニトロプラス）。CV：松田健一郎。
-* 刀帳編號：162番。身高：205&nbsp;cm。
+* 刀帳編號：162番→163番。身高：205&nbsp;cm。
 * 2018/12/18更新後作為期間限定活動《連隊戦》收集<s>1大包平</s>100,000御歲魂的獎勵實裝，無法透過鍛刀取得，為遊戲開服近四年以來第一把追加的大太刀。
 ** <s>10萬之男第六號</s>
 ** 此外若繼續收集至<s>2大包平</s>200,000及<s>3大包平</s>300,000可繼續獲得至最多三把。
@@ -1309,6 +1309,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E7%A5%A2%E3%80%85%E5%88%87%E4%B8%B
 ** 而且明明大成這樣但機動卻達到27與蜻蛉切同等，即使只能裝兩個刀裝還是把螢丸的速度比了下去。
 *** 可惜因為來得太晚，在極化刀當道的時代已幾近無處發揮。
 *** 也可能因數值設定上對新手相對友好，一旦在戰力擴充登場都是設置在難度最低的活動地圖，即使是剛入坑的新手也可以肝到。
+* 2025/12/16更新後開放極化，
 * <s>不穿鞋子</s>
 * <s>[[Thunderbolt Fantasy 東離劍遊紀|殤不患]]</s>
 * <s>[[黃金神威]]</s>
@@ -1334,7 +1335,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E7%A5%A2%E3%80%85%E5%88%87%E4%B8%B
 http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/2235564_orig.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B2%A9%E8%9E%8D%20%E6%A5%B5/::ref/iwatoshikiwame.jpg
 * 繪：キナコ。CV：宮下栄治。演：佐伯大地 (音樂劇)。
-* 刀帳編號：9番。刀派：三条。身高：203cm。
+* 刀帳編號：9番→10番。刀派：三条。身高：203cm。
 * 三花薙刀，從遊戲開始營運起整整兩年半的時間裡都是玩家唯一可入手的薙刀。
 * 原主相傳為武藏坊弁慶的大薙刀，和今劍能組成「義經主從」。
 ** 在五條大橋上與源義經和今劍相遇之前，和弁慶一起狩獵了999把刀。
@@ -1369,7 +1370,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%B2%A9%E8%9E%8D%20%E6%A5%B5/::ref/iwatos
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%B7%B4%E5%BD%A2%E8%96%99%E5%88%80&src=tomoee.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B7%B4%E5%BD%A2%E8%96%99%E5%88%80%20%E6%A5%B5/::ref/%E5%B7%B4%E5%BD%A2%E8%96%99%E5%88%80%20%E6%A5%B5.png
 * 繪：キナコ。CV：野島裕史。演：丘山晴己 (音樂劇)。
-* 刀帳編號：140番。身高：193&nbsp;cm。
+* 刀帳編號：140番→141番。身高：193&nbsp;cm。
 ** 由於一開始的刀帳會為預定實裝的刀劍預留空位並有固定的排序規則<ref>同刀派集中→五花刀優先→刀匠輩分從高到低→刀種分開，以上均相同則為御物→國寶→重要文化財→重要美術品→未指定→現已不存或下落不明。</ref>，從巴形薙刀才開始從後面依序往下排，故而刀帳番號在140以後的有時又統稱為追加實裝組。
 * 第二把三花薙刀。2017/7/5更新後以限定鍛刀實裝，鍛刀時間為5:00。
 ** 長達兩年半的刀種：岩融的局面在這一天終於被打破了。<s>然後變成了刀種：キナコ</s>
@@ -1394,7 +1395,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%B7%B4%E5%BD%A2%E8%96%99%E5%88%80%20%E6%
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%9D%99%E5%BD%A2%E8%96%99%E5%88%80&src=sizutouchou.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E9%9D%99%E5%BD%A2%E8%96%99%E5%88%80%20%E6%A5%B5/::ref/%E9%9D%99%E5%BD%A2%E8%96%99%E5%88%80%E6%A5%B5.jpg
 * 繪：キナコ。CV：阿座上洋平。
-* 刀帳編號：152番。身高：195&nbsp;cm。
+* 刀帳編號：152番→153番。身高：195&nbsp;cm。
 * 第三把三花薙刀。2018/4/17更新後以限定鍛刀實裝，鍛刀時間為5:00:00。
 ** <s>刀種仍然為：キナコ</s>
 ** 2018/7/3更新後可經由一般鍛刀入手。
@@ -1428,7 +1429,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E9%9D%99%E5%BD%A2%E8%96%99%E5%88%80%20%E6%
 https://static.wikia.nocookie.net/touken-ranbu/images/3/30/Tonbokiri.png
 https://static.wikia.nocookie.net/touken-ranbu/images/3/3b/Tonbokiri-Kiwame.png
 * 繪：源覚（ニトロプラス）。CV：櫻井トオル。演：Spi (音樂劇)。
-* 刀帳編號：65番。刀派：村正。身高：198&nbsp;cm。
+* 刀帳編號：65番→66。刀派：村正。身高：198&nbsp;cm。
 * 三名槍之一，原主本多忠勝，以「能夠將落在槍尖的蜻蜓切成兩半」而得名。
 ** 另有逸話稱原本德川家康稱讚本多手中之槍甚至能征服並撕裂整個日本，提議將槍命名為「日本切」，而本多出於謙虛，以「日本列島的形狀與蜻蜓相似」為由，命名為現名。
 * 跟隨本多忠勝參與過許多戰國時期的重要戰役，有很多機會和許多刀碰面。
@@ -1464,7 +1465,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/3/3b/Tonbokiri-Kiwame.png
 https://static.wikia.nocookie.net/touken-ranbu/images/3/39/Nihongou.png
 https://static.wikia.nocookie.net/touken-ranbu/images/6/62/Nihongou-Kiwame.png
 * 繪：鈴木次郎。CV：[[津田健次郎]]。演：成松慶彦 (舞台劇)/岩永洋昭 (映画)。
-* 刀帳編號：136番。身高：195&nbsp;cm。
+* 刀帳編號：136番→137番。身高：195&nbsp;cm。
 * 三名槍之一，也是目前唯一的四花槍。
 * 2015/8/11更新後實裝，在2015年8月的期間限定活動《戦力拡充計画》的第四地圖BOSS點有機率掉落。
 ** 2015/10/9更新後在6-4王點有機率掉落，<s>喝酒喝到河邊去了</s>
@@ -1503,7 +1504,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/6/62/Nihongou-Kiwame.png
 https://static.wikia.nocookie.net/touken-ranbu/images/f/f9/Otegine.png
 https://static.wikia.nocookie.net/touken-ranbu/images/7/7b/Otegine-Kiwame.png
 * 繪：minato。CV：浜田賢二。演：田中涼星 (音樂劇)。
-* 刀帳編號：138番。<s>刀派：江。</s><ref>由於坐姿公仔[https://twitter.com/gashaponanimebu/status/1364444903103635462?s=20 「すわらせ隊第10弾」]與四位江派刀男一同發售，又因為衣服配色同樣是綠色整體上毫無違和感。以致「[https://twitter.com/search?q=%E5%BE%A1%E6%89%8B%E6%9D%B5%E6%B1%9F&src=trend_click&vertical=trends 御手杵江]」TAG衝上了推特趨勢。</ref>身高：192&nbsp;cm。
+* 刀帳編號：138番→139番。<s>刀派：江。</s><ref>由於坐姿公仔[https://twitter.com/gashaponanimebu/status/1364444903103635462?s=20 「すわらせ隊第10弾」]與四位江派刀男一同發售，又因為衣服配色同樣是綠色整體上毫無違和感。以致「[https://twitter.com/search?q=%E5%BE%A1%E6%89%8B%E6%9D%B5%E6%B1%9F&src=trend_click&vertical=trends 御手杵江]」TAG衝上了推特趨勢。</ref>身高：192&nbsp;cm。
 * 三名槍之一，松平大和守家家傳寶槍。{{censored|1945年5月25日的東京大空襲中因為倉庫被燃燒彈擊中而燒失，三名槍中唯一一把現已不存的。}}
 ** {{censored|2020年5月25日官方[https://twitter.com/tkrb_ht/status/1264753058841423872 推特]釋出黑之助的本丸視察照，主角是御手杵和不動行光，而這天剛好也是東京大空襲御手杵燒失的75周年。}}
 ** 現有島田市的刀工製作了 [http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Otegine_spear_edge_with_scabbard.jpg/450px-Otegine_spear_edge_with_scabbard.jpg 複製品]，藏於結城藏美館中。
