@@ -122,7 +122,7 @@
 贏回的日常<br>
 毫不動搖的人理在未來也會持續下去吧<br>
 但<br>
-你們有一個致命的疏失<br>
+你們有一個致命的疏失{{ref|{{censored|在2部終章序後，自蓋提亞本人的口中講出了這個疏失其實不是指玩家，而是指當時還和玩家同方的迦勒底亞斯與早已死亡的老所長}}}}<br>
 與過去，遙遠神代的對決已經結束<br>
 那麼，也能猜到接下來會出現的事物了吧？<br>
 這是在那起大事件前的，小小的解謎<br>
@@ -188,6 +188,7 @@
 |CCC
 |[https://www.youtube.com/watch?v=JfHNn9K2WEE PV1][https://www.youtube.com/watch?v=UdT8HYLw9Jg PV2]<br>旁白CV：[[下屋則子]]（BB）
 |}
+
 == 第2部：[[Fate/Grand Order專有名詞#異聞帶|Cosmos in the Lostbelt]] ==
 [[檔案:cosmos_in_the_lostbelt.PNG|600px|center]]
 {|class="wikitable" style="margin:1.5em auto;"width="36%"
@@ -380,12 +381,18 @@
 !奏章
 ! colspan="5" |[[Fate/Grand_Order_劇情概要#Ordeal_Call|Ordeal Call]]
 |-
-!'''第2部 終章'''
+! rowspan="2" |'''第2部 終章'''
 |終章_序
 |終章_序
-|奈須蘑菇
+| rowspan="2" |奈須蘑菇
 |
-|{{youtube|f6GhzegwMpE|PV}}<br>旁白CV：[[杉田智和]]（{{censored|[[Solomon (Fate)|所羅門]]}}）
+|{{youtube|f6GhzegwMpE|PV}}<br>旁白CV：[[杉田智和]]（{{censored|[[Goetia (Fate)|所羅門]]}}）
+|-
+|終章
+|終章
+|
+|{{youtube|VOCQz08gIMo|告知PV}}<br>旁白CV：[[杉田智和]]（{{censored|[[Goetia (Fate)|所羅門]]}}）、[[高橋李依]]（[[瑪修‧基利艾拉特|瑪修]]）、[[坂本真綾]]（[[Leonardo da Vinci (Fate)|達文西]]）{{censored|、[[鈴村健一]]（[[Solomon (Fate)|所羅門]]）}}<br>
+{{youtube|GCdPC3gTBDs|PV}}<br>主題曲：逆光<br>主唱：坂本真綾<br>旁白CV：[[高橋李依]]（[[瑪修‧基利艾拉特|瑪修]]）
 |}
 === Ordeal Call ===
 [[檔案:Ordeal_call_prologue.png|500px|center]]
