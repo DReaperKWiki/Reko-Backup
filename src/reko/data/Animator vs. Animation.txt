@@ -95,7 +95,7 @@
 {{hidef}}
 
 ===Animation vs. Minecraft Shorts/火柴人 VS 我的世界===
-* 通稱AvM(S)，接續AvA4之後，關於{{color|#FF6600||TSC}}和{{color|#66cc00||他}}{{color|#33ccff||的}}{{color|#ffcc00||朋}}{{color|#cc0000||友}}們一起玩[[Minecraft]]的故事，目前共四季
+* 通稱AvM(S)，接續AvA4之後，關於{{color|#FF6600||TSC}}和{{color|#66cc00||他}}{{color|#33ccff||的}}{{color|#ffcc00||朋}}{{color|#cc0000||友}}們一起玩[[Minecraft]]的故事，目前第五季進行中
 ** 和AvA、Av系列不同，該系列裡Alan從未現身過，{{censored|設定上的解釋是他不會一直坐在電腦前、也會有去其他房間或為了防止被火柴人打擾而用筆電處理工作的時候}}
 * 起初只是一篇以MC為主題的單獨短篇（下稱無印/VSMC），因為發佈後備受好評{{censored|加上後續的VS Youtube表現相對不彰}}，Alan決定將其擴展為和AvA並行的分支系列
 * 系列化後一開始為劇情間關聯不大的單元劇，後面內容愈發複雜，從S1後半開始儼然變成連續劇，更新趨勢亦<s>蠻當然地</s>超越主系列的AvA
@@ -114,7 +114,7 @@
 |-
 ! 集數 !! 標題 !! 首發日期 !! 解說 !! 影片連結 
 |-
-| N/a || Animation vs. Minecraft<br>火柴人 VS 我的世界 || 2015/12/15 ||''{{color|#FF6600||五}}{{color|#66cc00||隻}}{{color|#33ccff||火}}{{color|#ffcc00||柴}}{{color|#cc0000||人}}在電腦裡找到了一個MC方塊，這個方塊威力無窮，但在錯誤的人手裡會十分危險。''<br>TSC意外踩到任務列中MC圖標後發生的一系列事件，篇中大致塑造和奠定了四色的愛好、性格和[[角色定位]]，此後所有劇集都沒有太脫離過這篇確立的基礎<br>雖然不被正式視為後續AvMS系列的一部分，但由於是開首之作加上和EP1存在直接劇情關聯，社群中'''曾經'''以「序章」「EP0」等稱呼，也在此列出，<s>結果十年後Alan出了部時間線比這篇還早的真·EP0……所以這部該叫啥，EP-1？EP0.5？</s><br>↑目前英文圈討論內多稱為「'''Pilot'''（試播集）」，華文圈則暫未見統一意見，編者在本詞條內將採用「'''無印'''」、「'''VS MC'''」等個人己見，不便之處請見諒 || [https://www.youtube.com/watch?v=GW_fdXHOWp4 youtube]<br>[https://www.bilibili.com/video/BV1jD4y1Q76c bilibili]
+| N/a || Animation vs. Minecraft<br>火柴人 VS 我的世界 || 2015/12/15 ||''{{color|#FF6600||五}}{{color|#66cc00||隻}}{{color|#33ccff||火}}{{color|#ffcc00||柴}}{{color|#cc0000||人}}在電腦裡找到了一個MC方塊，這個方塊威力無窮，但在錯誤的人手裡會十分危險。''<br>TSC意外踩到任務列中MC圖標後發生的一系列事件，篇中大致塑造和奠定了四色的愛好、性格和[[角色定位]]，此後所有劇集都沒有太脫離過這篇確立的基礎<br>雖然不被正式視為後續AvMS系列的一部分，但由於是開首之作加上和EP1存在直接劇情關聯，社群中'''曾經'''以「序章」「EP0」等稱呼，也在此列出，<s>結果十年後Alan出了部時間線比這篇還早的真·EP0……所以這部該叫啥，EP-1？EP0.5？</s><br>↑目前英文圈討論內多稱為「'''Pilot'''（試播集）」，華文圈則暫未見統一意見，編者在本詞條內將採用「'''無印'''」、「'''VSMC'''」等個人己見，不便之處請見諒 || [https://www.youtube.com/watch?v=GW_fdXHOWp4 youtube]<br>[https://www.bilibili.com/video/BV1jD4y1Q76c bilibili]
 |-
 | EP0 || Beta<br>測試版 || 2025/7/5 || ''2011年，當時MC還在Beta測試版本，有{{color|#000000||兩個}}{{color|#FF0000||旅行者}}發現了這個嶄新的方塊世界……''<br>真·AVM0，以迷你劇形式補完TCO和TDL逃離ALANSPC到大鬧Newgrounds之間的部分經緯，講述兩隻柴意外闖入Beta版MC世界<ref>在AVG反應視頻中確認為Beta1.7.3版本的經典地圖種子「Glacier」生成的世界，另外該世界中存在相當規模的玩家建築群，有可能他們其實是一頭撞進了誰家多人伺服……<s>對伺服內玩家來說這大概會變成新的怪談</s></ref>的短暫插曲<br>TCO和TDL各自體驗MC世界的方式完美體現了MC玩法創造和毀滅之兩面性，同時也埋下二柴日後逐漸理念不合最終決裂的伏筆，{{censored|而在最終離開MC世界之前TCO帶走了一塊鵝卵石，<s>令觀眾紛紛猜測這到底是AvAS3的破局伏筆還是TCO參演AvMS5的暗示</s>}}<br><s>Alan知道大家想看TDL返場/TCO和TDL的決裂前日常/空心頭前輩組玩MC，於是把這三樣東西拌一起端出來了，[[常見網絡用語列表-中國大陸#特攝相關|還不快說謝謝阿蘭哥]]<br>要說是第0話罷，沒有五色的份，要說不像了罷，這確是MC前傳，就說它是不是了罷</s> || [https://www.youtube.com/watch?v=YPURifoeYfk youtube]<br>[https://www.bilibili.com/video/BV1Wh4y1s7Zd bilibili]
 |-
@@ -186,11 +186,11 @@
 |-
 ! colspan="5"|<center>'''Season 4'''</center>
 |-
-| EP31 || Ultimate Minecart Race<br>終極礦車競賽 || 2023/5/27 || <s>舊活新整其二，EP3的PVP排位賽版本</s><br>拿鏟子划船式加速、水下礦車用三叉戟跟TNT加速、乾脆放棄礦車自己跑，各種奇怪招式紛紛盡出<s>……這還是礦車賽嗎？</s><br>{{censored|全員同時到達終點，但又為了獎盃爭個你死我活，Yellow只能把獎盃變成四個，得獎台也變寬一點<s>但好「兇」弟們依舊不肯放過彼此</s>}} || [https://www.youtube.com/watch?v=mOo9iTx0aMQ youtube]<br>[https://www.bilibili.com/video/BV1Wh4y1s7Zd bilibili]
+| EP31 || Ultimate Minecart Race<br>終極礦車競賽 || 2023/5/27 || <s>舊活新整其二，EP3的PVP排位賽版本</s><br>拿鏟子划船式加速、水下礦車用三叉戟跟TNT加速、乾脆放棄礦車自己嗑藥跑，各種奇怪招式紛紛盡出<s>……這還是礦車賽嗎？</s><br>{{censored|全員同時到達終點後為冠軍獎盃歸屬爭個你死我活，Yellow無奈下把金盃變成四個，獎台也變成平起平坐的模樣<s>但好「兇」弟們依舊不肯放過彼此</s>}} || [https://www.youtube.com/watch?v=mOo9iTx0aMQ youtube]<br>[https://www.bilibili.com/video/BV1Wh4y1s7Zd bilibili]
 |-
 | EP32 || The Chef<br>廚師 || 2023/9/16 || ''MC的料理很無聊，是時候該升級了。'' || [https://www.youtube.com/watch?v=7UPEJjZ0UAE youtube]<br>[https://www.bilibili.com/video/BV1Kp4y1P7sn bilibili]
 |-
-| EP33 || Lucky Block Staff<br>幸運方塊權杖 || 2023/12/23 || ''{{color|#cc0000||Red}}用幸運方塊做了個小實驗……''<br>在眾柴拿著之前KO讓予的權杖跟諸多方塊配對測試後，摸到了幸運方塊，但想起之前（EP19）的事後紛紛搖頭……然後試完後就被Red拿去、趁著Yellow睡覺偷走權杖玩去了<s>然後果然又出事了<br>KO知道後會就權杖用法沉思Part 1</s> || [https://www.youtube.com/watch?v=vlVUVsx6BYY youtube]<br>[https://www.bilibili.com/video/BV1FQ4y1g7eL bilibili]
+| EP33 || Lucky Block Staff<br>幸運方塊權杖 || 2023/12/23 || ''{{color|#cc0000||Red}}用幸運方塊做了個小實驗……''<br>眾柴拿權杖跟諸多方塊配對測試，途中一度摸出幸運方塊，但想起之前（EP19）的事後紛紛搖頭……然後那顆幸運方塊就被Red好奇之餘撿走、趁著Yellow睡覺偷走權杖擅自配對去了<s>不出意料又出事了</s><br>{{censored|幸運光球驚喜返場並奪舍幸運方塊權杖造出大量權杖複製品大鬧一番，<s>實質上的EP19威力加強Pro Max版</s>。群戰密度之高、動畫工作量之大甚至讓主要負責編導的Alan和SKim都親自下場支援作畫工作}}<br><s>KO知道後會就權杖用法沉思Part 1</s> || [https://www.youtube.com/watch?v=vlVUVsx6BYY youtube]<br>[https://www.bilibili.com/video/BV1FQ4y1g7eL bilibili]
 |-
 | EP34 || The Prank<br>惡作劇 || 2024/3/30 || ''{{color|#cc0000||Red}}能成功捉弄到{{color|#66cc00||惡作劇絕緣體}}嗎？'' || [https://youtu.be/CvfldRjkmW0?si=UNkKDKuLthua4KkQ youtube]<br>[https://www.bilibili.com/video/BV1W1421D7cp bilibili]
 |-
@@ -200,9 +200,9 @@
 |-
 ! colspan="5"|<center>'''Season 5'''</center>
 |-
-| EP37 || Hardcore Manhunt<br>極限獵殺<ref>Manhunt為知名MC實況主Dream開創的特殊速通玩法，對岸一般稱為「獵人遊戲」，B站代理也翻譯為《硬核獵人遊戲》，但實際劇情根本不是同一回事</ref> || 2025/10/11 || ''{{color|#a303fc||祝各位結尾突擊測試好運！}}''<br>五色+Purple一起在MC世界內<s>無雙速通S1-S3</s>闖蕩天地，但Yellow在冒險途中過於依賴並濫用指令方塊權杖，終讓權杖疑似因指令超載{{censored|引來不明錯誤化現象}}故障，並引發{{censored|誤開硬核模式、為六色服務的「活」支架憤起反叛<s>，把養老生存中的KO傳送到世界邊緣</s>等}}一連串事件<br>{{censored|硬核模式下柴死不能復生，而權杖被錯誤化吞噬消失，所有柴疑似因太依賴權杖+事發突然幾乎都沒有提前準備好物資，Purple的鞘翅更是在救援兄弟們的途中損壞，彈盡糧絕之下六色鋌而走險想騎夜魅逃生，然而不屈不撓的支架小隊隊長一併追了上來……}}<br>{{censored|在影片開首TSC感應到不知於何處大肆蔓延的錯誤化，其演出和EP30中吞噬KO之子Gold的不明故障完全一致，<s>被廣泛認為是Gold返場甚至成為本季最終BOSS的先兆</s>}}<br><s>縮略圖完全就是在致敬Dream的Manhunt影片縮略圖構圖，至於那個不知為何戴著王冠的KO腦袋……大概是因為不戴王冠的話會認不出來是他吧（大誤</s><br>影片末尾Alan首次以火柴人造型出場<s>附贈一個在背景為老闆忙上忙下結果越忙越亂的Hatena</s>，向觀眾給出三個<s>業配贊助的</s>問題，並明言稱答案為未來劇情的提示<ref>{{censored|答案分別是「39」、「藍+紅」、「5、1、17、5、18」。39應該是集數，顏色可能代表會在該集內佔據重要戲份的柴，數字組合暫且意義不明，但有觀眾將數字換算為英文字母，再以凱撒密碼將非紅藍色字母推移39位解出「ENDER（終界）」……無論如何，EP39很可能會有大事情發生……}}</ref><br><s>KO知道後會就權杖用法沉思Part……可能是最後一Part了罷</s>||
-[https://www.youtube.com/watch?v=iSFDlT43bxw youtube]<br>
-[https://www.bilibili.com/video/BV1en4AzSE1Y bilibili]
+| EP37 || Hardcore Manhunt<br>極限獵殺<ref>Manhunt為知名MC實況主Dream開創的特殊速通玩法，對岸一般稱為「獵人遊戲」，B站代理也翻譯為《硬核獵人遊戲》，但實際劇情根本不是同一回事</ref> || 2025/10/11 || ''{{color|#a303fc||祝各位結尾突擊測試好運！}}''<br>五色+Purple一起在MC世界內<s>無雙速通S1-S3</s>闖蕩天地，但Yellow在冒險途中過於依賴並濫用指令方塊權杖，終讓權杖疑似因指令超載{{censored|引來不明錯誤化現象}}故障，並引發{{censored|誤開硬核模式、為六色服務的「活」支架憤起反叛<s>，把養老生存中的KO傳送到世界邊緣</s>等}}一連串事件<br>{{censored|硬核模式下柴死不能復生，又先後失去權杖和鞘翅兩件強力裝備，彈盡糧絕之下六色鋌而走險騎夜魅逃生，然而不屈不撓的支架小隊隊長一併追了上來……}}<br>{{censored|在影片開首TSC感應到不知於何處大肆蔓延的錯誤化，其演出和EP30中吞噬KO之子Gold的不明故障完全一致，<s>被廣泛認為是Gold返場甚至成為本季最終BOSS的先兆</s>}}<br><s>縮略圖完全就是在致敬Dream的Manhunt影片縮略圖構圖，至於那個不知為何戴著王冠的KO腦袋……大概是因為不戴王冠的話會認不出來是他吧（大誤</s><br>影片末尾Alan首次以火柴人造型出場<s>附贈一個在背景為老闆忙上忙下結果越忙越亂的Hatena</s>，向觀眾給出三個<s>業配贊助的</s>問題，並明言稱答案為未來劇情的提示<ref>{{censored|答案分別是「39」、「藍+紅」、「5、1、17、5、18」。39應該是集數，顏色可能代表會在該集內佔據重要戲份的柴，數字組合暫且意義不明，但有觀眾將數字換算為英文字母，再以凱撒密碼將非紅藍色字母推移39位解出「ENDER（終界）」……無論如何，EP39很可能會有大事情發生……}}</ref><br><s>KO知道後會就權杖用法沉思Part……可能是最後一Part了罷</s> || [https://www.youtube.com/watch?v=iSFDlT43bxw youtube]<br>[https://www.bilibili.com/video/BV1en4AzSE1Y bilibili]
+|-
+| EP38 || - || 2025/12/20 || {{censored|系列首次以和其他YouTuber合作<ref>由與Alan熟識的MCYT「SkiptheTurorial」製作並發佈在其頻道上的MCARG影片，<s>Alan你藏預告的地方還能有多刁鑽</s></ref>的形式預熱和釋出首播日期}} || [ youtube]<br>[ bilibili]
 |}
 {{hidef}}
 
