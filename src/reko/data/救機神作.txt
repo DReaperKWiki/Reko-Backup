@@ -1,0 +1,141 @@
+{{h0|救機神作}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+|本條目部分內容帶有強烈非中立語詞，更新時請注意不要擦槍走火。
+|}
+
+==解說==
+*原始出處：出自於巴哈姆特的電玩綜合討論版的討論串，同時也與'''究極'''諧音。
+*字面解釋：預期尚未正式販售的電玩遊戲推出後會大熱賣，同時帶動對應該遊戲的主機銷售大幅成長，'''該遊戲的銷售量可能是主機銷售量的命脈'''，故稱為'''救機'''。
+**同樣的思路再擴展，還可以衍生出『'''救廠'''/'''救社'''』－一片代表開發公司生死、『'''救市'''/'''救世'''』－一片帶動整體市場復甦。
+*** 因為這些描述多半是誇示，常在粉絲之間造成擦槍走火。
+*隱藏涵意：不知為何，救機神作很高比例為SONY最新世代主機上的遊戲。
+**而某些當初被尊為「神作」的作品在遊戲廠商宣佈對應非SONY主機後則瞬間成為「平庸作」甚至「劣作」，會有這樣的轉變可能是和某些[[成句/索尼罪大滔天，搞到百姓怨聲載道#索狗|SONY<s>狗</s>支持者]]的預期心理不同調所致。
+
+
+==「救機神作」的作品列表==
+: (以下列表中標示★星號作品為真正救機作品。)
+{| class="wikitable" style="font-size:small;"
+|-
+!開發公司!!發行公司!!名稱!!主機!!成名/除名原因
+|-
+|colspan="2" align="center"|Square||[[最終幻想系列|★Final Fantasy Ⅶ（最終幻想7）]]||PS||獨佔對應PS主機，真正救機的作品，<br>奠定Sony PlayStation=PS，自90年代中入市至今仍鼎足於家用主機市場的[[成句/索尼罪大滔天，搞到百姓怨聲載道|霸業]]。
+|-
+|colspan="2" align="center"|[[Square Enix]]||Final Fantansy ⅩⅢ（最終幻想13）|| rowspan="4" |PS3||跨平台，亞洲區本篇為PS3限定。<ref>日本首日出貨量一百萬。</ref>
+|-
+| rowspan="5" colspan="2" align="center"|[[Capcom]]||[[Devil May Cry|Devil May Cry 4（惡魔獵人4）]]|| rowspan="2" |跨平台。
+|-
+|[[惡靈古堡系列|BIOHAZARD 5（惡靈古堡5）]]
+|-
+|[[魔物獵人|MonsterHunter3（魔物獵人3）]]||已變成Wii獨佔，不過PSP也確定有MHP3了。
+|-
+|MonsterHunter3 Portable（魔物獵人3攜帶版）||PSP||日本首週出貨量破200萬，單月出貨量破400萬。<s>同人威力無法擋。</s>
+|-
+|鬼武者||PS2||PS2上首次銷售量超過百萬套的遊戲，特色是金城武演主角。
+|-
+|colspan="2" align="center"|[[KOEI TECMO|KOEI]]||[[真‧三國無雙|真三國無雙5]]/[[機動戰士鋼彈系列|鋼彈]]無雙|| rowspan="11" |PS3||逆移植絕技背刺PS3。
+|-
+|colspan="2" align="center"|[[KONAMI]]||[[潛龍諜影系列|MGS4（潛龍諜影4）]]||銷量未達到「救機」水準，間接使SE作出對FF13跨平台的決定。
+|-
+|colspan="2" align="center"|SCE||Hakuna Matata（非洲）||<s>神作[[RPG]]</s>銷量無法達到「救機」水準。
+|-
+|Media Molecul|| rowspan="7" |SCE||LittleBigPlanet（小小大星球）||銷量無法達到「救機」水準。
+|-
+|Level 5||白騎士物語||<s>神作RPG。</s>連續用遊戲開發畫面詐騙大眾，實際畫質越來越糟。
+|-
+|Insonomia Games||Resistance 2||<s>又是神作RPG。</s>號稱要KO凶盒360上頭的戰爭機器2。
+|-
+|Sucker Punch||inFAMOUS||<s>幹，要做多少神作RPG啊！</s>銷量無法達到「救機」水準。
+|-
+|Naughty Dog||Uncharted 2||<s>古墓奇兵射擊版。</s>瓦斯桶好棒。
+|-
+|Santa Monica Studio||[[God of War|戰神3]]||北美首日銷售達45萬套。<br/>有許多希臘神祇登場，算是不同意義的[[神話|神]]作。
+|-
+|Polyphony Digital||GT5||望穿秋水的大作，但自06年公佈後不停跳票，直逼跳票經典《永遠的毀滅公爵》。<br/>終於在2010年11月24日正式發售（北美），頭兩天賣出達到180萬套。
+|-
+|colspan="2" align="center"|Namco Bandai||海賊無雙||光是預購數量就破五十萬套，首周日本出貨六十萬套，2012年合計有120萬套。
+|-
+|colspan="2" align="center"|Square Enix||Final Fantansy ⅩⅣ||PS3&PC||為了籌錢把半成品作成電腦版出售，預定要幹掉WOW的大（話）作，目前已經Fire掉原來的製作團隊，並宣佈直到遊戲可被玩家接受之前不需月費，簡單說就是[[砍掉重練]]。<br/>重新製作後在2013年8月27日正式發售後，由於同時有近20萬人連線造成伺服器無法負荷，官方8月29日宣布停止線上版本的販賣，在8月31日由於暴民搶登造成大部分伺服器當機因此實行流量限制，僅維持23萬人同時上線。<br/>製作人吉田表示：「會造成這樣，是因為我們真的覺得這個毀過一次招牌的遊戲不可能這麼好賣，我要為事前評估錯誤向大家道歉。」
+|-
+|colspan="2" align="center"|<s>Ignition Entertainment</s><br/>ATLUS<br/>Vanillaware||Dragon's Crown||PS3&PSV||（看看精美的亞馬遜跟女巫）媽的!真的逼我去買PSV是吧？（BY XBOX玩家）
+|-
+|colspan="2" align="center"|GAME FREAK||[[精靈寶可夢|★精靈寶可夢（ポケットモンスター/Pokémon）系列]]||Game Boy、Game Boy Color、Game Boy Advance、NDS、3DS、NS<br/>不過身為救機神作應該只有紅/綠/藍版。<ref>主機：Game Boy。</ref>||Game Boy在90年代初一度面臨沒落，但初代精靈寶可夢一推出就助任天堂把SEGA的Game Gear幹掉。<br/>雖然曾因為沒人看好而差點殞落<ref>時間是在紅/綠版和藍版之間，後來因為第151隻寶可夢「夢幻」的出現又再次救回GB。</ref>。在2000年左右金/銀版發售後幾年也曾經面臨退流行，不過後來紅寶石/藍寶石版發售後穩定其經營模式。<br/>至今仍在[[ACG]]各媒體上運作的超強搶錢作品。<br/>[[成句/說好不提○○的…|說好不提151、251、386、493、649、721、807。]]<ref>第一至第七世代逐漸累積的寶可夢數量。</ref>
+|-
+|colspan="2" align="center"|Bandai||★[[機動戰士鋼彈]] 連邦VS吉翁||AC||令21世紀初死氣沉沉的街機業界再次熱鬧起來的系列始祖。
+|-
+|Ignition Entertainment||Square Enix||[[エルシャダイ|幻境神界：大天使的崛起]]||PS3＆XBOX360||神說、要你去拯救一切，於是伊諾克展開了冒險。<br/>這片絕對能夠稱為神作！<br/>銷量無法達到「救機」水準。<ref>{{censored|先不說銷量不能達到「救機」水準，連回本也成問題這個還真是……EDWIN是最大贏家。}}</ref>
+|-
+|[https://www.fsf.org/ Free Software Foundation]<br/>[https://linuxfoundation.org/ Linux Foundation]<br/>etc.||（衆多發佈版）||[http://www.gnu.org/gnu/linux-and-gnu.zh-tw.html <s>★GNU/Linux</s>]||各種指令集架構的電腦||[http://www.gnu.org/philosophy/free-sw.zh-tw.html 自由軟體]使電腦效忠於最終用戶，而不是令用戶被軟體廠商控制。<br/>最初[https://www.kernel.org/ Linux]剛誕生時，面臨空有OS內核卻沒有軟體的窘境；[http://www.gnu.org/ GNU]則是相反。於是兩者結合互補，變成以Linux為核心<ref>注意：Linux 只是個內核，不是完整的作業系統。</ref>配合建立在[http://www.gnu.org/software/libc/libc.html GNU C函式庫]的基礎上的整套 GNU 的用戶態軟體，完整的自由作業系統 GNU/Linux 就此誕生。
+|-
+|colspan="2" align="center"|coreboot Team||[https://coreboot.org/ ★<s>coreboot<ref>注意：官方團隊表示其首字母不應大寫。</ref></s>]||各種指令集架構<ref>以x86/x86-64爲主。</ref>的電腦||自由的自舉韌體項目。<br/>用它替換原廠韌體可以解除電腦廠商強加給用戶的諸多限制，如硬體白名單<ref>多見於便攜式電腦，尤以Lenovo和HP等品牌爲甚，在擴展插槽上加裝未經電腦廠商「認證」的硬體可能會導致硬體自身無法工作甚至整機拒絕啓動。<s>這使得coreboot 成了對希望在這些品牌的電腦上加裝未經「認證」的更強大硬體的用戶而言真正的'''救機'''神作。</s></ref>和隱藏在韌體中感染作業系統的後門<ref>有名的如[https://www.blackhat.com/docs/us-14/materials/us-14-Kamlyuk-Kamluk-Computrace-Backdoor-Revisited.pdf Computrace]。</ref>，以及原廠韌體中的某些愚蠢機制<ref>如 HP 的某些原廠韌體因爲要求硬碟上「必須有一個活動分割區」而完全無法從使用 GUID 磁碟分割表（縮寫爲 GPT，在這種分割表方案下根本沒有「活動分割區」的概念）的硬碟啓動。</ref>。
+|-
+|colspan="2" align="center"|iPhone Dev Team||[https://www.theiphonewiki.com/wiki/Jailbreak <s>Jailbreaking（越獄）</s>]||Apple iPhone、iPod Touch、iPad等[https://www.gnu.org/proprietary/malware-apple.html iThing]||本為將自由軟體之光引入暗無天日的iThing<ref>從iOS <s>cr……</s>App Store的政策可知，其上發佈的軟體沒有一個能說是自由的——即便某些軟體有公開的原始碼，因爲用戶不能自行在未越獄的iThing上運行自己編譯的版本，故沒有任何自由可言；而越獄首先奪回的就是這方面的自由，更可以將整套 unix 命令列工具集安裝進去。</ref>，將其變成通用電腦的最終手段，卻往往被當成安裝盜版軟體的手段。
+|-
+|colspan="2" align="center"|Game Arts||Grandia<ref>中譯為「冒險奇譚」。</ref>||Sega Saturn||Sega陣營為了回應同時期Sony陣營的FF7攻勢而發表的RPG大作，只是最後Saturn依舊敗於PS，而原來由Saturn獨占的Grandia也被移植到PS上。
+|-
+|colspan="2" align="center"|SEGA||莎木||Dreamcast||當時史上製作費最高遊戲<ref>50億日幣，續作莎木二章也用了20億，直到後來被[[俠盜獵車手IV|GTA4]]超越。</ref>，但只在日本賣出50萬套，無法扭轉Dreamcast不敵PS2的劣勢。然而現在仍是許多人期望可以出續作的特殊遊戲。2015年的3代製作募資上累積633萬美金，並於2019年發售
+|-
+|colspan="2" align="center"|UbiSoft||[[刺客教條]]||多平台||本來是計畫出在PS3上的次世代動作遊戲，因為各種因素跳到360平台上，但二代的銷量讓他變成救世主級的神作。
+|-
+| rowspan="7" colspan="2" align="center"|[[任天堂]]||Super[[Mario]]64|| rowspan="3" |N64||[[瑪利歐系列]]史上第一款3D遊戲，許多玩家看到瑪利歐可以3D跑跑跳跳便感動買下，千萬級名作。<br/>與樓下的時之笛同為現今3D遊戲原型。
+|-
+|★[[薩爾達傳說|薩爾達傳說 時之笛]]||Fami通電玩雜誌史上第一款40分滿分作品，當年十一月推出結果銷售量第一的百萬級神作，和上面的Mario64（及任天堂在N64上出的一系列64遊戲，如[[星之卡比]]64、大金剛64等）變成支持N64的重要遊戲之一。雖然由於遊戲開發困難，導致N64遊戲比PS2少很多，然而N64銷量仍當時市佔第二（40％ by wiki），這些高品質遊戲讓N64不算是真正失敗的主機。
+|-
+|★[[動物森友會系列]]||N64真正意義上的救機作。<br/>推出時間為N64末期，本為任天堂官方不看好的實驗品，推出後卻意外大爆紅成為現今任天堂熱門IP之一。
+|-
+|[[任天堂明星大亂鬥|大乱闘スマッシュブラザーズ3DS/WiiU]]||3DS/WiiU||任天堂在每個主機上的的殺手級遊戲，在遊戲發售前每一個新參戰角色就有專門的宣傳短片可想可知老任為了提昇銷售量花了不少心思，但最後wiiu的銷售量還是沒有帶上來，反倒是3DS版達成了首週一百萬套的佳績。
+|-
+|Xenoblade X|| rowspan="3" |WiiU||帶著前作的光輝想要嘗試新系統，開賣前大家都認為是拯救WiiU的有力候補，但開賣首周銷售量不到10萬，典型的叫好不叫座令此作無法達到救機水準。
+|-
+|★[[Splatoon]]||是老任的新原創IP又是FPS讓一堆人看衰，但發售後其令人中毒性的玩法席捲全球，一個月中全球賣出了100萬套以上，也真的令WiiU主機銷量有一時的顯著提昇，讓人覺得WiiU並不是個徹底失敗的主機的遊戲<s>，但最後WiiU在2017年就停產了</s>。
+|-
+|★SuperMarioMaker||系列作30周年紀念作。首次融入了關卡編輯、交流的作品，可塑性高同時操作簡單的賣點吸引了不少系列作粉絲<s>，嘗試尤其是那批以往靠模X器搞超鬼畜瑪利歐或全自動關卡的鄉民</s>，繼Splatoon後另一帶動WiiU發展的神作。<br/>順帶一提，此作和Splatoon均把一直不受好評的Gamepad的機能發揮至極致（Splatoon是陀螺儀，本作是輕觸式小畫面），讓大眾對這個曾被認為是故弄玄虛又沉重的控制器改觀<s>，但最後（ry</s>。
+|}
+
+===「救廠神作」===
+{| class="wikitable" style="font-size:small;"
+|-
+!開發公司!!發行公司!!名稱!!主機!!成名/除名原因
+|-
+|colspan="2" align="center"|Square||★Final Fantasy||FC||將瀕臨破產的Square成功救回，真正的救廠神作。之所以取名為Final Fantasy是象徵著放手一搏的決心。
+|-
+|Core Design||EIDOS||古墓奇兵||PS/SS||一代在整個世界的電玩遊戲界掀起革命，然而之後卻有一代不如一代的趨勢，目前從開發方到出資方已經全換了一輪。
+|-
+|colspan="2"|Ubisoft||★刺客教條二||PS3/XBOX360||二代發售達到1000萬的銷量，之後系列作每年一款，成功拯救UBI。<s>然而最新一作可能也讓UBI準備燒紙</s>
+|-
+| rowspan="6" colspan="2" align="center"|KOEI TECMO||決戰二||PS2|| rowspan="3" |目標是MegaHit。
+|-
+|真三國無雙五||PS3
+|-
+|[[戰國無雙|戰國無雙三]]|| rowspan="2" |Wii
+|-
+|歐普那||奠定百萬死旗的神作。
+|-
+|真三國無雙二||PS2||確實拯救了光榮<s>，並且把光榮推向深淵</s>。
+|-
+|★[[生死格鬥]]||街機、PS、SEGA土星||和上述FF一樣拯救了瀕臨破產的TECMO，甚至取名的動機也跟FF的情況一樣，意味著「無論是生是死，都必須全力以赴！」。
+|-
+|Kaos Studios、Digital Extremes||THQ||Homefront||PS3/360/PC||銷量不如預期，THQ暴死。
+|-
+|Thatgamecompany<s>那間遊戲公司</s>||SCE||★[[風之旅人]]||PS3||公司應該開發時間過長導致差點破產，發售後卻是賺兩倍。
+|-
+|colspan="2" align="center"|GAINAX||★[[美少女夢工廠]]||PC-98||當時GAINAX公司製作的作品叫好不叫座，<br>要不是這遊戲撐住就沒有後來的[[新世紀福音戰士|EVA]]。
+|-
+|colspan="2" align="center"|Sega||[[人中之龍]]||PS2||Sega推出後期奇蹟似的大紅，現在是該廠最有代表性的神作。
+|}
+
+===「救市神作」===
+{| class="wikitable" style="font-size:small;"
+|-
+!開發公司!!發行公司!!名稱!!主機!!成名/除名原因
+|-
+|colspan="2" align="center"|Atari||E.T.||Atari 2600||遊戲史上最惡名昭彰的[[黑歷史]]之一，也引發往後20年美國電子遊戲公司的衰敗與日本遊戲公司取而代之崛起，詳見[[電玩大崩盤]]條目。<br/>當時Atari公司趁著E.T.電影熱潮向史帝芬史匹伯用鉅額買下版權，結果只給工程師'''五週時間'''來開發遊戲，因為要讓遊戲趕在聖誕節發售。結果：遊戲出來是出來了，而且也賣得很好，但貧乏的遊戲內容還有該死的凌虐地洞讓這遊戲成為當年每個小孩的惡夢。於是這款遊戲賣完後，緊接著面臨的就是巨大的'''退貨潮'''。而更好笑的是，據說Atari公司當年生產的卡帶數目有'''150萬'''，比Atari 2600的主機數還多<ref>考慮到美國遊戲可以如同錄影帶般租售，也許是打算安排給租售通路？</ref>，結果這種鋪貨過度造成的巨大虧損，最後傳說Atari把這些賣不出去的卡帶運到新墨西哥州，用[[壓路機]]碾碎後掩埋起來。<ref>結果微軟在2014年4月26日在新墨西哥州厄爾巴索縣的一處圾圾掩埋場申請開挖，還真的挖到這些遊戲片，證實該傳聞確實為真：[http://home.gamer.com.tw/creationDetail.php?sn=2422354。 參考來源]</ref>
+|}
+
+==回應==
+{{pcomment}}
+
+==備註==
+<references/>
+[[分類:代名詞]]

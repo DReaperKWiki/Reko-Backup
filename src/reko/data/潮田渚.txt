@@ -8,7 +8,7 @@
 [[File:img19903.jpg|150px|right]]
 [[File:img19264.png|150px|right]]
 ==角色出處==
-* 《暗殺教室》。
+* 《[[暗殺教室]]》
 
 ==基本資料==
 * CV：<br>[[東山奈央]]（OVA、J-Stars Victory VS）<br>[[淵上舞]]（動畫版）<br>山本希望（廣播劇）
@@ -178,4 +178,4 @@
 <references />
 
 [[category:角色]]
-<!-- [[category:暗殺教室]] -->
+ [[category:暗殺教室]]
