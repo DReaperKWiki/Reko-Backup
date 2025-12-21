@@ -212,7 +212,7 @@
 |-
 | 力(Strength) || 塔羅牌VIII  || Forever || B || E || E || A || D || D || 附在船上的替身，能任意操縱其內部環境，將一艘小破船變成巨大的郵輪 
 |-
-| 黑檀木惡魔/邪惡魔鬼(Ebony Devil) || 塔羅牌XV<br>Devo《[https://youtu.be/0ULd9wXRduA Puppet Boy]》  || 詛咒的迪波 || D || B || D || B || A || D || 以本身的怨恨所操作的人偶，其恨意與力量成正比 
+| 黑檀木惡魔/邪惡魔鬼(Ebony Devil) || 塔羅牌XV<br>Devo《[https://youtu.be/jKt0l6x399E Puppet Boy]》  || 詛咒的迪波 || D || B || D || B || A || D || 以本身的怨恨所操作的人偶，其恨意與力量成正比 
 |-
 | 黃色節制(Yellow Temperance) || 塔羅牌XIV<br>The Beatles專輯名《RubberSoul》 || Rubber Soul || D || D || E || A || E || C || 包裹全身的黃色黏液，能溶解其他生物的肉體及[[擬態|改變自身的樣貌]]，也擁有吸收攻擊力道的能力 
 |-
@@ -226,7 +226,7 @@
 |-
 | 正義(Justice) || 塔羅牌XI<br>Enya《[https://youtu.be/LTrk4X9ACtw Orinoco Flow]》  || 恩雅婆 || D || E || E || A || A || E || 霧狀替身，只要對手身上有傷口便能潛入並加以操縱，也能使人產生幻覺 
 |-
-| 戀人(Lovers) || 塔羅牌VI  || 鋼鐵阿丹 || E || E || D || A || A || D || 能潛入對方的腦部，讓本體所受的攻擊以數倍反射至被附身者身上 
+| 戀人(Lovers) || 塔羅牌VI<br>Steely Dan《[https://youtu.be/CYZwVf07tHA Aja]》  || 鋼鐵阿丹 || E || E || D || A || A || D || 能潛入對方的腦部，讓本體所受的攻擊以數倍反射至被附身者身上 
 |-
 | 太陽(Sun) || 塔羅牌XIX  || Arabia Fats（阿拉伯胖子） || B || E || E || A || A || E || 外型正如其名，能升高周圍的溫度並以雷射攻擊對手 
 |-

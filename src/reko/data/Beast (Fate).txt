@@ -1,0 +1,83 @@
+{{h0| [[野獸先輩|Beast]]（獸/ビースト）}}
+{| class="wikitable" style="margin: 1.5em auto 1.5em auto;"
+|-
+{{stub row}}
+|}
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+== 簡介 ==
+* 七大人類惡。因為人類的獸性而產生的七個災害。
+* 所謂的人類惡，正同字面描述就是人類的污點，對人類史產生威脅、甚至到達滅絕程度的七個災害。
+* 具體而言，就是在人類史不斷沉澱，隨着人類的發展而不斷壯大的存在，在人類社會內部不斷蠶食人類的癌細胞。
+* 因為文明而生卻蠶食文明的存在，阻礙靈長的時代，把人類至今構築的文明徹底毀滅的化身，而且是滅絕人類的惡。
+* 所以，人類的自作自受是最重要的因素。人類惡為人類的細胞凋亡（Apoptosis）<ref>第一部第四章第13節</ref>，此自滅機制與用來對應的安全裝置正是英靈召喚的由來。<ref>第一部第七章第16節</ref>
+* 並非由救世主取走源自人類身上的七宗罪，而是因為人類與人類之間的本性，持有智慧的生物因某種緣故而捨棄的東西。
+* 這是包括全人類在內沒有人能克服的惡，就如人類無法捨棄智慧一樣，人類無法捨棄惡。
+* 與對人類持有敵意的而打算消滅人類的復仇者，以及像[[茨木童子 (Fate)|茨木童子]]般非人生物不同。茨木童子、復仇者等只是企圖消滅局部人類的惡，而Beast則為消滅全部人類的惡。
+** 在第七特異點《[[絕對魔獸戰線 巴比倫尼亞]]》中，[[Gilgamesh (Fate)|吉爾伽美什]]曾明確指出人類惡並非「毀滅人類的惡」，而是'''「由人類毀滅的惡」'''。
+** 「以己生示惡，以己死築善」。只要人類還存在就會顯現而出，是人類必須跨越/打倒之物。
+* 這些消滅全部人類的惡。其本質並非從一開始對人類存有惡意，而是原本以守護人類為目的而產生。即是「人類愛」。
+* 祈望更美好未來的精神，把現今的安寧剝奪。實際上顯現的Beast們的思想（不論目的及手段），在其眼中均是慈愛與幸福滿溢。
+* 當然Beast並非是在靈基中存在、顯現的Servant能夠單獨匹敵的存在。
+* 每個Beast均持有「反OO」的技能，而且當一頭Beast出現時，其他的Beast均會因連鎖反應而接二連三地出現。
+* 有一些獸是擁有相對的概念存在。如陰與陽、左與右等
+** 例如Beast Ⅲ。而Beast Ⅵ根據亞瑟的體驗關劇情，似乎也有暗示同樣分為L「瘴氣」與R「殘香」的存在。
+** 根據某些同好的考據與分析，Beast的理念可能來源於猶太教中的「Qliphoth逆卡巴拉生命樹」<ref>
+[http://img1.imgtn.bdimg.com/it/u=1082351083,3374914762&fm=26&gp=0.jpg 參見此處]</ref>，據此來說除了Ⅲ和Ⅵ外，Ⅴ也理應成對出現。
+* 部份位階的Beast是有限定條件產生
+** Beast Ⅳ僅限定由自然而生的人類惡。
+* 而為了對抗這些災害，阿賴耶便產生了七名[[Grand Class (Fate)|冠位Servant]]召喚作為對應Beast的安全裝置
+** 根據Type-Moon的官方設定，要降伏一頭Beast需要'''七位冠位Servant'''才算穩妥。
+** 但換個說法就是「未被抑止力認定為完全的Beast」的話抑止力就不會派出冠位從者來阻止。
+*** 因此在FGO劇情上除了Beast Ⅰ與Beast Ⅱ以外登場的Beast都刻意壓抑在不完全體的狀態，而就算是Ⅰ和Ⅱ，也用了各種劇情殺來減少其威脅<ref>Beast I：{{censored|極天的流星雨，[[Fate/Grand_Order登場英靈一覽|{{censored|七特異點+活動登場英靈&從者}}]]自願被召喚來暫時壓制Beast I的手足（魔神柱）好讓主角直接攻擊本體。本體也由於身為冠位從者的[[Solomon (Fate)|{{censored|所羅門王}}]]以放棄自己的一切為代價，使用第一寶具消除了他的不死之身。}}<br>Beast Ⅱ：{{censored|由於本身的母愛，在劇中實際上只剩下一成威力；[[山中老人 (Fate)|{{censored|抑止力派來的冠位從者}}]]以冠位靈基為代價將不死的她強行加上了死亡的概念；拖進冥界後藉由在冥界擁有莫大權能的[[Ereshkigal (Fate)|{{censored|冥界女王}}]]給予大量支援，將她打回虛度空間。}}</ref><s>，不然玩家根本打不下去</s>
+* 蓋亞不會干涉Beast的行為，屬於中立。只要不傷害星球自身的情况下，Beast可為所欲為，因為Beast也可能帶來讓星球更加美好的未來。
+** {{censored|其中的[[芙 (Fate)|{{censored|Beast Ⅳ}}]]更是由蓋亞創造的產物。}}
+** {{censored|但 [[Goetia (Fate)|{{censored|Beast Ⅰ}}]]的「人理燒卻」、 [[Tiamat (Fate)|{{censored|Beast Ⅱ}}]]的「改寫生態」、[[啟示錄之獸 (Fate)|{{censored|Beast Ⅵ/S}}]]的「人理消滅」卻是同時毀滅人類與星球的行為，因此遭到「蓋亞」與「阿賴耶」的共同干涉。}}
+* 職階技能有「獸的權能」、「單獨顯現」。
+** 容易被誤解的是，Beast職階其實僅是個資格，或者說是只要符合描述就算是該Beast了，並不是說Beast一定限定於誰才能當。
+*** <s>最基本的資格就是愛人類愛到足以對人類存亡造成威脅。</s>
+** 另外關於「單獨顯現」是Beast專屬的技能，在《Fate/EXTELLA》的用語辭典中吉爾伽美什的詞條也提及“雖說只有職階〇〇〇〇〇才擁有能憑藉自身力量現界的技能，但因為是EXTRA世界所以勉勉強強能辦到”，但是從者[[兩儀式]]（Saber）、[[Merlin (Fate)|梅林]]、身上都有單獨顯現，兩儀式的FGOM詞條語焉不詳，只說了“持有這個技能就意味著——”；梅林的技能解說也是“原本只有特殊職階（Beast）才持有的技能，自己獲得了這個技能，並以此假裝作為從者被召喚”。
+**{{censored|有網友揣測在第七特異點《絕對魔獸戰線 巴比倫尼亞》，山中老人提到無謂的'''憐憫'''為惡，'''慚愧'''亦是一種惡。可能暗示未來將登場的慚愧之獸。}}
+* 《Fate/Grand Order》於2023年4月26日正式實裝可使用版本
+
+== 列表 ==
+{| class="wikitable sortable" style="margin: 1em auto 1em auto; text-align:center;"
+|-
+! colspan="2"|名稱 !! 角色 !! 司掌之理 !!  技能 !! 虛偽的稱號 !!  圖標發光位置 !! 標題  !!  備註
+|-
+| rowspan="2"|Beast Ⅰ || 本尊 || [[Goetia (Fate)|蓋提亞]] || 憐憫 || |<div>{{ruby|Nega|反}}<br>{{ruby|Summon|召喚}} ||{{censored|冠位}} || 左上 || <span style="text-shadow: 0 0 4px red;">人類惡　顯現</span> || 覺得他人可憐、同情他人的心情。極度利己主義的博愛。<br>{{censored|被人類所創造，能最有效率利用人類史的大災難。}}
+|-
+| 候補 || [[Camazotz (Fate)|Beast Ⅰ: Lost]] || 不明 || 不明 || 不明 || 不明  || <span style="text-shadow: 0 0 4px red;">人類惡　憐憫<br>人類惡　救世<br>人類惡　犧牲<br>人類惡　免罪<br>人類惡　忘卻<br></span>  || {{censored|於異聞帶產生的Beast，故命名為Lost}}
+|-
+| colspan="2"|Beast Ⅱ || [[Tiamat (Fate)|迪亞馬特]] || 回歸 || <div>{{ruby|Nega|反}} <br>{{ruby|Genesis|創世紀}}||{{censored|創世女神}} || 右上 ||  <span style="text-shadow: 0 0 4px red;">人類惡　顯現</span> || 想要重新開始、回歸原初的心願。還原一切的願望。<br>{{censored|被人類拋棄，最受人類史拒絕的大災難。}}
+|-
+| rowspan="2"|Beast Ⅲ || R || [[殺生院祈荒|Beast Ⅲ/R]]<br>（狂喜 Rapture）|| rowspan="2"| 愛慾 || <div>{{ruby|Nega|反}}<br> {{ruby|Saver|救世主}}|| {{censored|快樂天}} || rowspan="2"| 右中 || <span style="text-shadow: 0 0 4px red;">人類惡　變生</span> ||將所有愛意集中在自己身上，一切只為自己而活的心態，恰好與L相反。<br>{{censored|以個人能夠達成、用最直接的方式來拯救人類的大災難。}}
+|-
+| L || [[Kamadeva (Fate)|Beast Ⅲ/L]]<br>（{{ruby|堕落|<s>骯髒</s>}} {{ruby|Lapse|<s>unko</s>}}） ||<div>{{ruby|Nega|反}}<br> {{ruby|Desire|欲望}} || {{censored|愛之神}}|| <span style="text-shadow: 0 0 4px red;">人類惡　泛濫</span> ||將所有慾望發散出去，一昧的滿足他人慾望的心態，恰好與R相反。<br>{{censored|神魔融合而成，以最大範圍拯救人類的大災難。}}<br><s>[[野獸先輩|Beast]]（野獸的意味），而且[[成句/很了不起的大象先生吧？|大象先生]]長得相當[[:File:Marasama.jpg|雄偉]]</s>
+|-
+| rowspan="2"|Beast Ⅳ || 本尊 || [[芙 (Fate)|凱茜帕魯格<br/>靈長類殺手]]||  比較 || 不明 ||  {{censored| <s>吉祥物</s>}} || rowspan="2"| 右下 || 不明 ||將自己與他人作比較的心理、永無止境的計量。虛榮心。
+|-
+| 候補 ||[[T·V·柯楊斯卡雅|愛玩之獸]]{{ref|「愛玩」另譯「玩賞」}} || [[收集]] || <div>{{ruby|Nega|反}}<br> {{ruby|Weapon|武器}} <br> {{ruby|Nega|反}}<br> {{ruby|Self|自我}} || {{censored|武器大神}}<br>{{censored|傾國美女}} || <span style="text-shadow: 0 0 4px red;">人類惡　蒐集<br>人類惡　生殖</span> ||人類對工具的偏見。誤認爲工具即人類之延伸，使用工具即是暴力。<ref>建立文明正是人類與野獸的根本區別，愛玩之獸似乎打算放縱人性的野蠻面以對人類造成危害。</ref><br>{{censored|網羅「人類創造的殺傷性武器」，以進化成支配人類的「兵器女神」。}} <br>{{censored|吸收異聞帶之物產生的Beast，故命名為Lost}}
+|-
+| colspan="2"|Beast Ⅴ || 不明 || 不明 || 不明 || 不明 || 不明 || 不明 ||尚未出場
+|-
+| rowspan="2"|Beast Ⅵ || S || [[Sodom's Beast/Draco (Fate)|索多瑪之獸/德拉科]] || 墮落 || <div>{{ruby|Nega|反}}<br> {{ruby|Messiah|彌賽亞}} <ref>第六之獸持有反彌賽亞在FGOM其他獸的詞條中被提及，但是[[Arthur Pendragon (Fate/Prototype)|舊Saber]]追尋Beast時的台詞一直在暗示第六之獸也有L/R個體之分，而第三獸的L/R技能不同，直至在FGO中作為第六獸/S的索多瑪之獸口中得知，出現在蒼銀的碎片的是第六獸/G。</ref> || {{censored|妖妃}} || rowspan="2"|左中 || <span style="text-shadow: 0 0 4px red;">人類惡　顯現<br>人類惡　喝采</span> ||{{censored|將該時代最繁榮的都市墮落與毀滅。}}<br>{{censored|由人類所引發，最滿足於人類史的大災害。}}
+|-
+| G || 666之獸<ref>登場於Fate/Prototype，原先在《蒼銀的碎片》連載時寫為第四之獸，後來單行本中修正為第六之獸。</ref> || 不明 || 不明 || 不明 || 不明 ||尚未出場
+|-
+| colspan="2"|Beast Ⅶ || 終局之惡<br>{{censored|馬莉絲．迦勒底亞斯}}<br> || 解析 || 不明 || {{censored|人理保障}} || 不明  || 不明 ||{{censored|造成地球白紙化真正的元兇。}}<br>{{censored|最了解人類史，卻最輕視它的大災難。}}
+|-
+| colspan="2"|不明 || [[Space Ereshkigal|太空埃列什基伽勒]] || 保存 || {{ruby|Nega|反}}<br> {{ruby|Space|太空}} || 不明 || 不明 || <span style="text-shadow: 0 0 4px #040274;">人類惡　保存<br>人類惡　死藏</span> || {{censored|誕生自從者宇宙的Beast}}
+|}
+
+== 留言 ==
+{{pcomment|section=1}}
+== 備註 ==
+<references />
+[[分類:TYPE-MOON]]
+[[分類:Fate系列]]
+[[分類:Beast (Fate)|*]]

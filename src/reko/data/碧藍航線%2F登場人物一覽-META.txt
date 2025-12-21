@@ -35,6 +35,11 @@
 * 於2023年2月至3月的「世界巡游」作為報酬登場。
 * <s>明明普通時沒穿，變成黑化時就有穿了</s>
 
+=== {{anchor|Cleveland_META}}[[碧藍航線/登場人物一覽-白鷹#Cleveland|克里夫蘭]](META)（クリーブランド(META)/Cleveland META） ===
+[[檔案:Cleveland META.png|x200px]]
+* 圖鑑編號：M055，艦種：輕巡，SSR。
+* 於活動「天穹に響く音謡」中登場，並以限時建造及和關卡打撈出來的形式實裝。
+
 === {{anchor|Wichita_META}}[[碧藍航線/登場人物一覽-白鷹#Sheffield|威奇塔]](META)（ウィチタ(META)/Wichita META） ===
 [[檔案:Wichita META.png|x200px]]
 * 圖鑑編號：M035，艦種：重巡，SR。
@@ -374,12 +379,6 @@
 ==={{anchor|Akagi_META}}[[碧藍航線/登場人物一覽-重櫻#Akagi|赤城]](META)（あかぎ(META)/Akagi META）===
 [[檔案:Akagi META.png|x200px]]
 * 於活動「絳染む丹華の詠歌」劇情中初次登場。
-<!--
-=== {{anchor|Cleveland_META}}[[碧藍航線/登場人物一覽-白鷹#Cleveland|克里夫蘭]](META)（クリーブランド(META)/Cleveland META） ===
-[[檔案:Cleveland META.png|x200px]]
-* 圖鑑編號：M055，艦種：輕巡，SSR。
-* 於活動「天穹に響く音謡」中登場，並以限時建造及和關卡打撈出來的形式實裝。
--->
 
 <!--
 ==={{censored|黑標槍（標槍META？）}}===
