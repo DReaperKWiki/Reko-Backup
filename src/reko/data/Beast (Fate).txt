@@ -36,7 +36,7 @@
 *** 因此在FGO劇情上除了Beast Ⅰ與Beast Ⅱ以外登場的Beast都刻意壓抑在不完全體的狀態，而就算是Ⅰ和Ⅱ，也用了各種劇情殺來減少其威脅<ref>Beast I：{{censored|極天的流星雨，[[Fate/Grand_Order登場英靈一覽|{{censored|七特異點+活動登場英靈&從者}}]]自願被召喚來暫時壓制Beast I的手足（魔神柱）好讓主角直接攻擊本體。本體也由於身為冠位從者的[[Solomon (Fate)|{{censored|所羅門王}}]]以放棄自己的一切為代價，使用第一寶具消除了他的不死之身。}}<br>Beast Ⅱ：{{censored|由於本身的母愛，在劇中實際上只剩下一成威力；[[山中老人 (Fate)|{{censored|抑止力派來的冠位從者}}]]以冠位靈基為代價將不死的她強行加上了死亡的概念；拖進冥界後藉由在冥界擁有莫大權能的[[Ereshkigal (Fate)|{{censored|冥界女王}}]]給予大量支援，將她打回虛度空間。}}</ref><s>，不然玩家根本打不下去</s>
 * 蓋亞不會干涉Beast的行為，屬於中立。只要不傷害星球自身的情况下，Beast可為所欲為，因為Beast也可能帶來讓星球更加美好的未來。
 ** {{censored|其中的[[芙 (Fate)|{{censored|Beast Ⅳ}}]]更是由蓋亞創造的產物。}}
-** {{censored|但 [[Goetia (Fate)|{{censored|Beast Ⅰ}}]]的「人理燒卻」、 [[Tiamat (Fate)|{{censored|Beast Ⅱ}}]]的「改寫生態」、[[啟示錄之獸 (Fate)|{{censored|Beast Ⅵ/S}}]]的「人理消滅」卻是同時毀滅人類與星球的行為，因此遭到「蓋亞」與「阿賴耶」的共同干涉。}}
+** {{censored|但 [[Goetia (Fate)|{{censored|Beast Ⅰ}}]]的「人理燒卻」、 [[Tiamat (Fate)|{{censored|Beast Ⅱ}}]]的「改寫生態」、[[啟示錄之獸 (Fate)|{{censored|Beast Ⅵ/S}}]]的「人理消滅」，卻是同時毀滅人類與星球的行為，而[[馬利斯比利‧亞寧姆史菲亞|{{censored|Beast VII}}]]的「地球白紙化」更是危害到整個宇宙的行為，因此遭到「蓋亞」與「阿賴耶」的共同干涉。}}
 * 職階技能有「獸的權能」、「單獨顯現」。
 ** 容易被誤解的是，Beast職階其實僅是個資格，或者說是只要符合描述就算是該Beast了，並不是說Beast一定限定於誰才能當。
 *** <s>最基本的資格就是愛人類愛到足以對人類存亡造成威脅。</s>
@@ -69,7 +69,7 @@
 |-
 | G || 666之獸<ref>登場於Fate/Prototype，原先在《蒼銀的碎片》連載時寫為第四之獸，後來單行本中修正為第六之獸。</ref> || 不明 || 不明 || 不明 || 不明 ||尚未出場
 |-
-| colspan="2"|Beast Ⅶ || 終局之惡<br>{{censored|馬莉絲．迦勒底亞斯}}<br> || 解析 || 不明 || {{censored|人理保障}} || 不明  || 不明 ||{{censored|造成地球白紙化真正的元兇。}}<br>{{censored|最了解人類史，卻最輕視它的大災難。}}
+| colspan="2"|Beast Ⅶ || {{censored|人理詐稱天球<br>[[馬利斯比利‧亞寧姆史菲亞|馬利斯]]．迦勒底亞斯}}<br> || {{censored|<s>抄襲</s>{{ref|{{censored|[[馬利斯比利‧亞寧姆史菲亞|老所長]]，乃至整個亞寧姆史菲亞家族都感覺不到事物「內涵」的必要性，因此他的「解析」只在乎「複製」效果，卻完全不探究其原理，還不如說是抄襲}}}}}}<br>解析 || 不明 || {{censored|人理保障}} || 不明  || 不明 ||{{censored|造成地球白紙化真正的元兇。}}<br>{{censored|最了解人類史，卻最輕視它的大災難。}}
 |-
 | colspan="2"|不明 || [[Space Ereshkigal|太空埃列什基伽勒]] || 保存 || {{ruby|Nega|反}}<br> {{ruby|Space|太空}} || 不明 || 不明 || <span style="text-shadow: 0 0 4px #040274;">人類惡　保存<br>人類惡　死藏</span> || {{censored|誕生自從者宇宙的Beast}}
 |}
