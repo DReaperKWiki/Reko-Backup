@@ -291,10 +291,21 @@
 		|maxcaught= 0人
 		|explain=   第三寶具。原罪之Ⅰ。宣告人類終結的光束。<br>將人類史全部轉換為熱量的極粗雷射……但這僅僅是重現之物。<br>術式的工程、外觀等完全重現，但火力遠不及過往。
 	}}
-    {{Fate Noble Phantasm Head}}
+    {{Fate寶具列|
+                |image=     [[檔案:戴冠の時きたれり、其は全てを始めるもの.jpg|200px|無框|置中]]
+		|color=     yellow
+		|bgcolor=   brown
+		|name=      戴冠之時已至，以此啟發萬象
+		|pronounce= Ars Paulina
+		|rank=      A
+		|type=      對界寶具
+		|range=     999
+		|maxcaught= ?人
+		|explain=   所羅門王的第二寶具，以自身魔術迴路形成的概念宇宙。即是所羅門王的固有結界—時間神殿所羅門，位於宇宙之外，與時間隔絕的虛數空間的工房。<br/>{{Censored|「扭曲光線本就是我的拿手好戲，即使無法防禦，但要將其匯聚不過是舉手之勞。」}}<br/>{{Censored|面對馬利斯．迦勒底亞斯的超新星攻擊， 所羅門利用第三寶具的原理將其偏轉、匯聚，並將其吸入時間神殿之中。}}
+	}}
 	{{Fate寶具列
-		|color=     #CC0000
-		|bgcolor=   #444444
+		|color=     yellow
+		|bgcolor=   brown
 		|name=      {{Censored|訣別之時已至，以此捨棄世界}}
 		|pronounce= Ars Nova {{Censored|The Time of Parting has Come, He is the One who Lets Go of the World}}
 		|rank=      {{Censored|D}}
@@ -394,7 +405,7 @@
 * [[芙 (Fate)|靈長類殺手]]——{{Censored|同為Beast}}
 * [[T·V·柯楊斯卡雅|愛玩之獸]]——{{Censored|同為Beast}}
 * [[Sodom's Beast/Draco (Fate)|索多瑪之獸]]——{{Censored|同為Beast}}
-* [[奧爾嘉瑪麗‧亞寧姆史菲亞|{{Censored|地球國家元首 U-奧爾嘉瑪麗}}]]——{{Censored|同為Beast}}<ref>{{Censored|冠位時間神殿第14節中英雄王提及：據說Beast那幫傢伙會連鎖顯現，有人類惡出現的世界，會向著「終局之惡」遭受到更嚴重的災厄，既然I已經出現了，那終局的VII恐怕已經出現在世上某處了吧。}}</ref>
+* {{Censored|馬利斯·迦勒底亞斯}}——{{Censored|同為Beast}}<ref>{{Censored|冠位時間神殿第14節中英雄王提及：據說Beast那幫傢伙會連鎖顯現，有人類惡出現的世界，會向著「終局之惡」遭受到更嚴重的災厄，既然I已經出現了，那終局的VII恐怕已經出現在世上某處了吧。}}</ref>
 * [[蒼崎青子]]——{{Censored|曾經使用千里眼觀察過對方的履歷後，從而制訂人理燒卻計劃「逆行運河/創世光年」}}
 
 == 相關 ==

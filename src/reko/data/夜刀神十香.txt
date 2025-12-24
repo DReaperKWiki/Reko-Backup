@@ -31,6 +31,9 @@
 |style="text-align:center;background-color:#993300;" |識別名
 |style="background-color:#CC6633;" |'''公主(Princess){{censored|、Beast}}'''
 |-
+|style="text-align:center;background-color:#993300;" |捏他別名
+|style="background-color:#CC6633;" |INT32<ref>這是由於其智力只有32的緣故</ref>、女王﹙Queen﹚<ref>由於她稱霸了天宮市內所有大胃王比賽而獲得該稱號</ref><s>、德國<ref>《[[Infinite Stratos]]》中的蘿拉・博德維希，聲優也是井上麻里奈</ref>、烘麵包的女武神<ref>《戰場女武神》的亞莉希雅‧梅露琪奧特</ref>、[[Barghest (Fate)|肌肉女猩猩]]<ref>《[[Fate/Grand Order]]》中的巴格斯特</ref></s>
+|-
 |style="text-align:center;background-color:#993300;"|學籍
 |style="background-color:#CC6633;"  |來禪高校2年4班女學生<ref>學號35</ref>(轉校生)→彩戶大學1年級女學生
 |-

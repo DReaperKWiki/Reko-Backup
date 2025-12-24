@@ -395,7 +395,7 @@ $( () => {
     $('.reference > a').each((i, a) => {
         const $a = $(a);
         if (noHover) $a.on('click', popupFootNoteConfirm);
-        if ($a.is('[title] a')) return;
+        if ($a.is('[title]:not(.inline-text-censored) a')) return;
         const np = document.getElementById($a.attr('href').slice(1));
         const $note = $(np).find('.reference-text').clone();
         $note.find('span.inline-text-censored').replaceWith(function () { return $(this).text().replace(/./g, '■') });

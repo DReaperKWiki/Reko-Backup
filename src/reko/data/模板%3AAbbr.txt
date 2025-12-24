@@ -16,6 +16,6 @@ The template takes two unnamed parameters.
 <code><nowiki>{{abbr|Wikimedia Foundation|WMF}}</nowiki></code> → {{abbr|Wikimedia Foundation|WMF}}
 
 <code><nowiki>{{abbr|喬瑟夫‧喬斯達|二喬}}</nowiki></code> → {{abbr|喬瑟夫‧喬斯達|二喬}}
-</noinclude>
 
 [[分類:模板]]
+</noinclude>

@@ -146,6 +146,9 @@
 ** {{censored|他最後給予了主人公贈言：「{{ruby|當你排除了一切不可能的因素之後，不管剩下來的東西有多麼不可置信，也必定是真相|Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth}}」。}}
 ** {{censored|不過瑪修及迦勒底一行人都以「因為還有謎未解，所以他不會死掉的」為由，相信福爾摩斯會回來。<s>事實上以原作掉下必死的瀑布還是活下來的前例，他再登場的機會還是有的。</s>}}
 * {{censored|如果有先完成他的幕間故事的話，在劇情某處會追加限定選項。}}
+=== 第二部 終章 ===
+* {{censored|被主人公以一枚令咒召喚，以寶具推理出「異星之神」馬利斯．迦勒底亞斯的真正身份。<s>將馬利斯嘴至破防</s>}}
+* {{censored|表示自己服從異星之神的原因為對方是根源之渦的複製品。}}
 
 == 能力 ==
 {| class="wikitable" style="margin: 1em auto 1em auto; text-align:center;"
