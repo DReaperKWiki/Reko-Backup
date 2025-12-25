@@ -25,6 +25,9 @@
 |style="background-color:#000000;" |{{color|white||識別名}}
 |style="background-color:#999999;" |'''夢魘(Nightmare)'''
 |-
+|style="background-color:#000000;" |{{color|white||捏他別名}}
+|style="background-color:#999999;" |魔術偵探{{ref|《魔術偵探．時崎狂三事件簿》}}<s>、某個身穿女僕裝的腹黑貓耳公主{{ref|《Di Gi Charat》中的Di Gi Charat，聲優也是真田麻美，也是該聲優的出道角色}}</s>、<s>艾菲爾鐵塔[[紳士|淑女]]{{ref|《瑪莉亞狂熱中》的宮前佳奈子}}</s>、<s>[[拉妮八世|愛好是下空的人造人]]</s>
+|-
 |style="background-color:#000000;" |{{color|white||學籍}}
 |style="background-color:#999999;" |來禪高校2年4班女學生(轉校生)→彩戶大學1年級女學生
 |-
