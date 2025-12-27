@@ -299,6 +299,7 @@
 ** 喚應迦勒底御主，不分泛人類史從者還是異聞帶從者們。
 ** {{censored|全體協力討伐在馬利斯．迦勒底亞斯的一眾空想樹。}}
 *** {{censored|哪怕是異聞帶從者們，得知自己的世界是被計算為必然滅亡而誕生的世界而憤怒，協助迦勒底御主討伐自己所在異聞帶的空樹。}}
+** {{censored|並非全部到達，北齋、楊玉環及莫萊等明確與外神連接的降臨者經阿榮轉述明確被BB禁止參戰，而擁有其他靈基的阿比、梵谷則換成其他職階助戰。}}
 {{hideh|終天的流星雨}}
 * '''Lostbelt No.1 Orochi Frost Realm'''
 ** '''[[Billy the Kid (Fate)|比利]]'''、'''[[Beowulf (Fate)|貝歐武夫]]'''
@@ -323,7 +324,7 @@
 
 * '''Lostbelt No.2 Sombrero Apocalypse'''
 ** '''[[Napoleon Bonaparte (Fate)|拿破崙]]'''
-*** 在迦勒抵御主到來後興奮地離開崗位，以砲擊清除空想樹種子。
+*** 在迦勒抵御主到來後興奮地離開崗位，以砲擊清除空想樹種子，最終集結了眾人之力的一發炮擊消滅空想樹。
 ** '''[[Scathach (Fate)|斯卡蒂]]'''
 *** 率領著女武神的軍勢，帶頭討伐空想樹。
 *** 即使此刻，她依然視無法饒恕迦勒底，但空想樹把她的努力視為徒勞的掙扎，故和迦勒底聯手討伐空想樹。
@@ -337,6 +338,8 @@
 ** '''[[Siegfried (Fate)|齊格飛]]'''、'''[[Kriemhild (Fate)|克里姆希爾德]]'''、'''[[Sigurd (Fate)|齊格魯德]]'''、'''[[Brynhild (Fate)|布倫希爾德]]'''
 *** 手持屠龍魔劍、討伐空想樹的從者們。
 *** <s>大家在打仗就你們幾個在集體放閃</s>
+** '''[[Surtr (Fate)|史爾特爾]]'''
+*** 以佔據齊格魯德身體時的型態登場協助討伐空想樹並在最後目送御主們離開。
 
 * '''Lostbelt No.3 Mayall Eternity'''
 ** '''[[嬴政 (Fate)|始皇帝]]'''
@@ -354,6 +357,7 @@
 * '''Lostbelt No.4 Spiral Razor'''
 ** '''[[Arjuna (Fate)|阿周那（Alter）]]'''、'''[[哪吒 (Fate)|哪吒]]'''、'''[[William Tell (Fate)|泰爾]]'''、'''[[Asclepius (Fate)|阿斯克勒庇俄斯]]'''、'''[[Aśvatthāman (Fate)|馬嘶]]'''
 *** 來自異聞帶的從者們，藉由神將的力量對空想樹展開討伐。
+*** {{censored|在此處的阿周那Alter其實是接收了阿周那Alter一部分力量的阿周那。}}
 ** '''[[吉娜可‧加里吉利|葛內舍]]'''、'''[[Parvati (Fate)|帕爾瓦蒂]]'''、'''[[Rāma (Fate)|羅摩]]'''、'''[[Karna (Fate)|迦爾納]]'''、'''[[Lakshmibai (Fate)|拉克什米]]'''、'''[[Duryodhana (Fate)|難敵]]'''
 *** 來自泛人類史，討伐空想樹的從者們。
 ** '''[[Durga (Fate)|杜爾迦]]'''、'''[[Vritra (Fate)|弗栗多]]'''、'''[[Kamadeva (Fate)|迦摩]]'''
@@ -417,8 +421,44 @@
 *** 最後與同樣被配置到西側的魁札爾科亞特爾展開合體寶具「{{ruby|太陽，自樹海誕生|Sun Radiance Kukulkan}}」合力討伐空想樹。
 
 * '''Lostbelt NO_No. M Spectrum'''
+** '''[[Meltryllis]]'''、'''[[Passionlip]]'''、'''[[Kazuradrop]]'''、'''[[Kingprotea]]'''
+** '''[[BB (Fate)|BB]]'''
+*** 可說是負責討伐此樹的帶頭者，指派上面四位找到隱藏的空想樹後藉由變身成黃金BB大量召喚泛人類史從者進行討伐。
+** '''[[Zenobia (Fate)|潔諾比亞]]'''、'''[[Queen of Sheba (Fate)|示巴女王]]'''、'''[[Shéhérazade (Fate)|雪赫拉莎德]]'''
+** '''[[Biscione (Fate)|比修內]]'''、'''[[黒姫 (Fate)|黑姬]]'''、'''[[Medusa (Fate)|梅杜莎、梅杜莎（Saber）]]'''、、'''[[Penthesilea (Fate)|彭忒西勒亞]]'''
+** '''[[清少納言 (Fate)|清少納言]]'''、'''[[紫式部 (Fate)|紫氏部]]'''、'''[[小野小町 (Fate)|小野小町]]'''、'''小野篁'''、'''[[果心居士 (Fate)|果心居士]]'''、'''[[加藤段蔵 (Fate)|加藤段藏]]'''、'''[[第五代風魔小太郎 (Fate)|風魔小太郎]]'''
+** '''[[Andromeda (Fate)|安朵美達]]'''、'''[[Galatea (Fate)|伽拉忒亞]]'''
+** '''[[伊莉亞絲菲爾‧馮‧艾因茲貝倫|伊莉亞]]'''、'''[[克洛伊‧馮‧艾因茲貝倫|克洛伊]]'''、'''[[美遊‧艾蒂菲爾特|美遊]]'''
+** '''[[太歲星君 (Fate)|太歲星君]]'''、'''[[徵氏姐妹 (Fate)|徵側、徵貳]]'''、'''[[黃飛虎 (Fate)|黃飛虎、黃天化、黃天祿、黃天爵、黃天祥]]'''
+** '''阿曇磯良'''、'''[[阿曇磯良 (Fate)|日比乃響、桂木千鍵]]'''、'''海幸彥'''
+** '''[[哪吒 (Fate)|哪吒]]'''、'''[[Circe (Fate)|喀耳刻]]'''、'''[[Medea (Fate)|美狄亞]]'''
+** '''[[大黑天 (Fate)|大黑天]]'''、'''[[Georges Méliès (Fate)|愉快的Rider]] '''、'''[[John Edgar Hoover (Fate)|愉快的Assassin]]'''、'''[[Paul Bunyan (Fate)|超級班揚、班揚]]'''
+**  '''[[鬼一法眼 (Fate)|鬼一法眼]]'''、 '''[[牛若丸 (Fate)|牛若丸]]'''、 '''[[蘆屋道満 (Fate)|蘆屋道滿]]'''
+**  '''[[宮本伊織 (Fate)|宮本伊織]]'''、 '''[[ヤマトタケル (Fate)|日本武尊]]'''、'''[[由井正雪 (Fate)|由井正雪]]'''、'''[[丑御前 (Fate)|丑御前]]'''、'''[[柳生但馬守宗矩 (Fate)|柳生但馬守]]'''、'''[[寶藏院胤舜 (Fate)|寶藏院胤舜]]'''、'''[[巴御前 (Fate)|巴御前]]'''、'''[[伊吹童子 (Fate)|伊吹童子]]'''
+** '''[[Charlemagne (Fate)|查理曼]]'''、'''[[Astolfo (Fate)|阿斯托爾福]]'''、'''[[Hruodland (Fate)|羅蘭]]'''、'''[[Bradamante (Fate)|布拉達曼特]]'''、'''[[Don Quixote (Fate)|唐吉訶德、桑丘]]'''、'''[[源為朝 (Fate)|源為朝]]'''、'''[[Salome (Fate)|莎樂美]]'''
+** '''[[Dante Alighieri (Fate)|但丁]]'''
+** '''[[Merlin (Fate/Prototype)|阿瓦隆女士]]'''、'''[[Sodom's Beast/Draco (Fate)|德拉科]]'''、'''[[Tiamat (Fate)|Larva/提亞馬特]]'''、'''[[Locusta (Fate)|洛庫斯塔]]'''、'''[[Sétanta (Fate)|瑟坦特]]'''、'''[[Arthur Pendragon (Fate/Prototype)|亞瑟]]'''、'''[[Cú Chulainn (Fate/Prototype)|庫夫林]]'''、'''[[Arash (Fate)|阿拉什]]'''、'''[[Paracelsus von Hohenheim (Fate)|帕拉賽爾蘇斯]]'''、'''[[Hassan-i Sabbah (Fate・靜謐)|靜謐的哈桑]]'''、'''[[Henry Jekyll & Hyde (Fate)|傑基爾/海德]]'''、'''[[Ozymandias (Fate)|奧茲曼迪亞斯]]'''、'''[[Dobrynya Nikitich (Fate)|尼基季奇]]'''、'''[[太公望 (Fate)|太公望]]'''、'''[[Noah (Fate)|諾亞]]'''
+** '''[[Artoria Pendragon (Fate)|聖誕Alter]]'''、'''[[Jeanne d'Arc．Alter (Fate)| 貞德．Alter．Santa．Lily]]'''、'''[[Altera (Fate)|阿蒂拉．the．San〔ta〕]]'''、'''杜木茲'''、'''[[Quetzalcoatl (Fate)|魁札爾．科亞特爾．森巴]]'''、'''[[Florence Nightingale (Fate)|南丁格爾．聖誕]]'''、'''[[Karna (Fate)|聖誕迦爾納]]'''、'''[[Martha (Fate)|聖誕瑪爾大]]'''、'''[[Abigail Williams (Fate)|阿比蓋爾．聖誕]]'''、'''[[愛爾奎特‧布倫史塔德| Phantas-Moon]]'''
+** '''[[織田信長 (Fate)|織田信長]]'''、'''[[武田信玄 (Fate)|武田晴信]]'''、'''[[長尾景虎 (Fate)|長尾景虎]]'''、'''[[森長可 (Fate)|森長可]]'''、'''[[謎之蘭丸X|蘭丸X]]'''、'''[[千利休 (Fate)|千利休、駒姬]]'''、'''[[茶々 (Fate)|茶茶]]'''、'''[[雑賀孫一 (Fate)|雜賀孫一]]'''
+** '''[[沖田総司 (Fate)|沖田總司]]'''、'''[[近藤勇 (Fate)|近藤勇]]'''、'''[[土方歲三 (Fate)|土方歲三]]'''、'''[[斎藤一 (Fate)|齋藤一]]'''、'''[[永倉新八 (Fate)|永倉新八]]'''、'''[[原田左之助 (Fate)|原田左之助]]'''、'''[[藤堂平助 (Fate)|藤堂平助]]'''、'''[[山南敬助 (Fate)|山南敬助]]'''
+** '''[[Miss Crane (Fate)|鶴小姐、少女鶴]]'''、'''[[謎之女主角X Alter|X Alter]]'''
+** '''[[Tutankhamun (Fate)|圖坦卡門]]'''、'''[[Vincent van Gogh (Fate)|梵谷]]'''、'''戴達羅斯'''、'''瑙克拉特'''、'''西奧'''
+** '''[[葛飾北斎 (Fate)|葛飾北齋]]'''、'''[[曲亭馬琴 (Fate)|曲亭馬琴]]'''
+*** 其中北齋以泳裝靈基登場，提到可能是因為和外神有關聯的外職被出禁的關係才只能用泳裝靈基登場(聖誕阿比和礦工梵谷同理)，而沒有外職以外靈基的楊貴妃和女版莫萊才無法在此被召喚。
+** '''[[Báthory Erzsébet (Fate)|伊莉莎白、伊莉莎白（萬聖節）、勇者伊莉莎、伊莉莎白（灰姑娘）、終焉的伊莉莎白]]'''、'''[[Magus Aegis Elizabeth Channel (Fate)|機械伊莉醬、機械伊莉醬Ⅱ號機]]'''
+*** 雖然出場時講伊莉莎9，但實際上只有7人出席，樓下九紋龍版說要去梁山伯那邊不在場，而JAPAN版因為<s>沒有實裝</s>伊莉莎粒子不夠的關係缺席。
+** '''[[Báthory Erzsébet (Fate)|九紋竜伊莉莎]]'''、'''[[Voyager 1 (Fate)|Voyager]]'''、'''[[宇津見繪里世|繪里世]]'''、'''[[Cleopatra (Fate)|克麗奧佩托拉]]'''、'''[[Gaius Julius Caesar (Fate)|凱撒]]'''、'''[[茨木童子 (Fate)|茨木童子]]'''、'''[[渡辺綱 (Fate)|渡邊綱]]'''、'''[[Boudica (Fate)|布狄卡]]'''、'''[[艾莉絲菲爾‧馮‧艾因茲貝倫|艾莉絲菲爾]]'''、'''[[衛宮切嗣|Emiya]]'''、'''[[Emiya (Fate/stay night)|Emiya Alter]]'''
+** '''[[Typhon Ephemeros (Fate)|堤豐．艾菲米洛斯、伊普希隆]]'''、'''[[Alexander the Great (Fate)|伊斯坎達爾]]'''、'''[[維瓦‧維爾維特|埃爾梅羅二世/孔明]]'''、'''[[Faker (Fate)|赫菲斯提翁]]'''、'''[[Ptolemy I (Fate)|托勒密]]'''、'''[[萊尼斯‧艾爾梅洛伊‧阿其索爾特|萊妮絲/司馬懿]]'''、'''[[Gray (TYPE-MOON)|格蕾]]'''、'''[[Astraea (Fate)|阿斯特蕾亞]]'''
+** '''[[武則天 (Fate)|武則天]]'''、'''[[張角 (Fate)|張角]]'''、'''[[Alessandro di Cagliostro (Fate)|卡里奧斯特羅]]'''、'''[[Hassan-i Sabbah (Fate・耀星)|耀星的哈桑]]'''、'''[[Marie Antoinette (Fate)|瑪莉、瑪莉Alter]]'''、'''[[Chevalier D'Eon (Fate)|德翁]]'''、'''[[Wolfgang Amadeus Mozart (Fate)|阿瑪迪斯]]'''、'''[[The Count of Monte Cristo (Fate)|巖窟王 基督山]]'''
+** '''[[Amor (Fate)|埃莫]]'''、'''[[Semiramis (Fate)|賽彌拉米斯]]'''、'''[[Johanna (Fate)|瓊安]]'''、'''LOVELOVEHEART瓊安大人像'''
+** '''[[織田信勝 (Fate)|織田信勝]]'''、'''[[織田信長 (Fate)|魔王信長、織田吉法師]]'''、'''[[卑弥呼 (Fate)|卑彌呼]]'''、'''[[壱与 (Fate)|壹與]]'''、'''[[高杉晋作 (Fate)|高杉晉作]]'''、'''[[坂本龍馬 (Fate)|坂本龍馬、阿龍小姐]]'''、'''[[岡田以蔵 (Fate)|岡田以藏]]'''、'''[[出雲阿国 (Fate)|出雲阿國、斬三郎]]'''、'''[[沖田総司 (Fate)|沖田Alter]]'''、'''[[河上彦斎 (Fate)|河上彥齋]]'''
+** '''[[岸波白野]]（男）'''、'''[[玉藻前 (Fate)|玉藻前]]'''、'''[[岸波白野]]（女）'''、'''[[Emiya (Fate/stay night)|無銘]]'''
+*** 全員都不是已正式戰鬥裝扮登場，玉藻則確認和EXTRA裡的是同一個體不聽男白野不要跟來的命令硬是跟了過來<s>然後被空想樹種子認定兩人腦袋有洞</s>，而這裡的紅A雖然是夏日靈衣裝扮但實際上是在EXTRA裡登場的無銘並非迦裡的Emiya。
+** '''[[Space Ishtar|S伊絲塔、阿斯塔蒂]]'''、'''[[Calamity Jane (Fate)|簡]]'''
+** '''[[愛爾奎特‧布倫史塔德|Archetype：Earth]]'''、'''[[Ciel (月姬)|星之希耶爾]]'''、'''[[Wandjina (Fate)|汪吉納]]'''、'''[[Ashoka (Fate)|阿育王]]'''
+** '''[[鈴鹿御前 (Fate)|鈴鹿御前]]'''、'''[[Cnoc na Riabh (Fate)|諾克娜蕾雅]]'''、'''[[千子村正 (Fate)|千子村正]]'''、'''[[Artoria Caster (Fate)|AAA]]'''
+** '''[[清姬 (Fate)|清姬]]'''、'''[[刑部姫 (Fate)|刑部姬]]'''、'''[[呼延灼 (Fate)|呼延灼]]'''、'''[[徐福 (Fate)|徐福]]'''
 {{hidef}}
-
 * '''{{censored|[[Solomon (Fate)|所羅門]]}}'''
 
 == 關聯條目 ==

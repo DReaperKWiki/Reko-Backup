@@ -49,27 +49,27 @@
 |-
 ! colspan="2"|名稱 !! 角色 !! 司掌之理 !!  技能 !! 虛偽的稱號 !!  圖標發光位置 !! 標題  !!  備註
 |-
-| rowspan="2"|Beast Ⅰ || 本尊 || [[Goetia (Fate)|蓋提亞]] || 憐憫 || |<div>{{ruby|Nega|反}}<br>{{ruby|Summon|召喚}} ||{{censored|冠位}} || 左上 || <span style="text-shadow: 0 0 4px red;">人類惡　顯現</span> || 覺得他人可憐、同情他人的心情。極度利己主義的博愛。<br>{{censored|被人類所創造，能最有效率利用人類史的大災難。}}
+| rowspan="2"|'''Beast Ⅰ''' || 本尊 || [[Goetia (Fate)|蓋提亞]] || 憐憫 || |<div>{{ruby|Nega|反}}<br>{{ruby|Summon|召喚}} ||{{censored|冠位}} || 左上 || <span style="text-shadow: 0 0 4px red;">人類惡　顯現</span> || 覺得他人可憐、同情他人的心情。極度利己主義的博愛。<br>{{censored|被人類所創造，能最有效率利用人類史的大災難。}}
 |-
 | 候補 || [[Camazotz (Fate)|Beast Ⅰ: Lost]] || 不明 || 不明 || 不明 || 不明  || <span style="text-shadow: 0 0 4px red;">人類惡　憐憫<br>人類惡　救世<br>人類惡　犧牲<br>人類惡　免罪<br>人類惡　忘卻<br></span>  || {{censored|於異聞帶產生的Beast，故命名為Lost}}
 |-
-| colspan="2"|Beast Ⅱ || [[Tiamat (Fate)|迪亞馬特]] || 回歸 || <div>{{ruby|Nega|反}} <br>{{ruby|Genesis|創世紀}}||{{censored|創世女神}} || 右上 ||  <span style="text-shadow: 0 0 4px red;">人類惡　顯現</span> || 想要重新開始、回歸原初的心願。還原一切的願望。<br>{{censored|被人類拋棄，最受人類史拒絕的大災難。}}
+| colspan="2"|'''Beast Ⅱ''' || [[Tiamat (Fate)|迪亞馬特]] || 回歸 || <div>{{ruby|Nega|反}} <br>{{ruby|Genesis|創世紀}}||{{censored|創世女神}} || 右上 ||  <span style="text-shadow: 0 0 4px red;">人類惡　顯現</span> || 想要重新開始、回歸原初的心願。還原一切的願望。<br>{{censored|被人類拋棄，最受人類史拒絕的大災難。}}
 |-
-| rowspan="2"|Beast Ⅲ || R || [[殺生院祈荒|Beast Ⅲ/R]]<br>（狂喜 Rapture）|| rowspan="2"| 愛慾 || <div>{{ruby|Nega|反}}<br> {{ruby|Saver|救世主}}|| {{censored|快樂天}} || rowspan="2"| 右中 || <span style="text-shadow: 0 0 4px red;">人類惡　變生</span> ||將所有愛意集中在自己身上，一切只為自己而活的心態，恰好與L相反。<br>{{censored|以個人能夠達成、用最直接的方式來拯救人類的大災難。}}
+| rowspan="2"|'''Beast Ⅲ''' || R || [[殺生院祈荒|Beast Ⅲ/R]]<br>（狂喜 Rapture）|| rowspan="2"| 愛慾 || <div>{{ruby|Nega|反}}<br> {{ruby|Saver|救世主}}|| {{censored|快樂天}} || rowspan="2"| 右中 || <span style="text-shadow: 0 0 4px red;">人類惡　變生</span> ||將所有愛意集中在自己身上，一切只為自己而活的心態，恰好與L相反。<br>{{censored|以個人能夠達成、用最直接的方式來拯救人類的大災難。}}
 |-
 | L || [[Kamadeva (Fate)|Beast Ⅲ/L]]<br>（{{ruby|堕落|<s>骯髒</s>}} {{ruby|Lapse|<s>unko</s>}}） ||<div>{{ruby|Nega|反}}<br> {{ruby|Desire|欲望}} || {{censored|愛之神}}|| <span style="text-shadow: 0 0 4px red;">人類惡　泛濫</span> ||將所有慾望發散出去，一昧的滿足他人慾望的心態，恰好與R相反。<br>{{censored|神魔融合而成，以最大範圍拯救人類的大災難。}}<br><s>[[野獸先輩|Beast]]（野獸的意味），而且[[成句/很了不起的大象先生吧？|大象先生]]長得相當[[:File:Marasama.jpg|雄偉]]</s>
 |-
-| rowspan="2"|Beast Ⅳ || 本尊 || [[芙 (Fate)|凱茜帕魯格<br/>靈長類殺手]]||  比較 || 不明 ||  {{censored| <s>吉祥物</s>}} || rowspan="2"| 右下 || 不明 ||將自己與他人作比較的心理、永無止境的計量。虛榮心。
+| rowspan="2"|'''Beast Ⅳ''' || 本尊 || [[芙 (Fate)|凱茜帕魯格<br/>靈長類殺手]]||  比較 || 不明 ||  {{censored| <s>吉祥物</s>}} || rowspan="2"| 右下 || 不明 ||將自己與他人作比較的心理、永無止境的計量。虛榮心。
 |-
 | 候補 ||[[T·V·柯楊斯卡雅|愛玩之獸]]{{ref|「愛玩」另譯「玩賞」}} || [[收集]] || <div>{{ruby|Nega|反}}<br> {{ruby|Weapon|武器}} <br> {{ruby|Nega|反}}<br> {{ruby|Self|自我}} || {{censored|武器大神}}<br>{{censored|傾國美女}} || <span style="text-shadow: 0 0 4px red;">人類惡　蒐集<br>人類惡　生殖</span> ||人類對工具的偏見。誤認爲工具即人類之延伸，使用工具即是暴力。<ref>建立文明正是人類與野獸的根本區別，愛玩之獸似乎打算放縱人性的野蠻面以對人類造成危害。</ref><br>{{censored|網羅「人類創造的殺傷性武器」，以進化成支配人類的「兵器女神」。}} <br>{{censored|吸收異聞帶之物產生的Beast，故命名為Lost}}
 |-
-| colspan="2"|Beast Ⅴ || 不明 || 不明 || 不明 || 不明 || 不明 || 不明 ||尚未出場
+| colspan="2"|'''Beast Ⅴ''' || 不明 || 不明 || 不明 || 不明 || 不明 || 不明 ||尚未出場
 |-
-| rowspan="2"|Beast Ⅵ || S || [[Sodom's Beast/Draco (Fate)|索多瑪之獸/德拉科]] || 墮落 || <div>{{ruby|Nega|反}}<br> {{ruby|Messiah|彌賽亞}} <ref>第六之獸持有反彌賽亞在FGOM其他獸的詞條中被提及，但是[[Arthur Pendragon (Fate/Prototype)|舊Saber]]追尋Beast時的台詞一直在暗示第六之獸也有L/R個體之分，而第三獸的L/R技能不同，直至在FGO中作為第六獸/S的索多瑪之獸口中得知，出現在蒼銀的碎片的是第六獸/G。</ref> || {{censored|妖妃}} || rowspan="2"|左中 || <span style="text-shadow: 0 0 4px red;">人類惡　顯現<br>人類惡　喝采</span> ||{{censored|將該時代最繁榮的都市墮落與毀滅。}}<br>{{censored|由人類所引發，最滿足於人類史的大災害。}}
+| rowspan="2"|'''Beast Ⅵ''' || S || [[Sodom's Beast/Draco (Fate)|索多瑪之獸/德拉科]] || 墮落 || <div>{{ruby|Nega|反}}<br> {{ruby|Messiah|彌賽亞}} <ref>第六之獸持有反彌賽亞在FGOM其他獸的詞條中被提及，但是[[Arthur Pendragon (Fate/Prototype)|舊Saber]]追尋Beast時的台詞一直在暗示第六之獸也有L/R個體之分，而第三獸的L/R技能不同，直至在FGO中作為第六獸/S的索多瑪之獸口中得知，出現在蒼銀的碎片的是第六獸/G。</ref> || {{censored|妖妃}} || rowspan="2"|左中 || <span style="text-shadow: 0 0 4px red;">人類惡　顯現<br>人類惡　喝采</span> ||{{censored|將該時代最繁榮的都市墮落與毀滅。}}<br>{{censored|由人類所引發，最滿足於人類史的大災害。}}
 |-
 | G || 666之獸<ref>登場於Fate/Prototype，原先在《蒼銀的碎片》連載時寫為第四之獸，後來單行本中修正為第六之獸。</ref> || 不明 || 不明 || 不明 || 不明 ||尚未出場
 |-
-| colspan="2"|Beast Ⅶ || 終局之惡<br>{{censored|人理詐稱天球<br>[[馬利斯比利‧亞寧姆史菲亞|馬利斯]]．迦勒底亞斯}}<br> || {{censored|<s>抄襲</s>{{ref|{{censored|[[馬利斯比利‧亞寧姆史菲亞|老所長]]，乃至整個亞寧姆史菲亞家族都感覺不到事物「內涵」的必要性，因此他的「解析」只在乎「複製」效果，卻完全不探究其原理，還不如說是抄襲}}}}}}<br>解析 || 不明 || {{censored|人理保障}} || 不明  || 不明 ||{{censored|真正的異星之神，造成地球白紙化真正的元兇。}}<br>{{censored|最了解人類史，卻最輕視它的大災難。}}
+| colspan="2"|'''Beast Ⅶ''' || 終局之惡<br>{{censored|人理詐稱天球<br>[[馬利斯比利‧亞寧姆史菲亞|馬利斯]]．迦勒底亞斯}}<br> || {{censored|<s>抄襲</s>{{ref|{{censored|[[馬利斯比利‧亞寧姆史菲亞|老所長]]，乃至整個亞寧姆史菲亞家族都感覺不到事物「內涵」的必要性，因此他的「解析」只在乎「複製」效果，卻完全不探究其原理，還不如說是抄襲}}}}}}<br>解析 || <div>{{ruby|Nega|反}}<br> {{ruby|Earth|地球}} || {{censored|人理保障}} || 中間  || 不明 ||{{censored|真正的異星之神，造成地球白紙化真正的元兇。}}<br>{{censored|最了解人類史，卻最輕視它的大災難。}}
 |-
 | colspan="2"|不明 || [[Space Ereshkigal|太空埃列什基伽勒]] || 保存 || {{ruby|Nega|反}}<br> {{ruby|Space|太空}} || 不明 || 不明 || <span style="text-shadow: 0 0 4px #040274;">人類惡　保存<br>人類惡　死藏</span> || {{censored|誕生自從者宇宙的Beast}}
 |-

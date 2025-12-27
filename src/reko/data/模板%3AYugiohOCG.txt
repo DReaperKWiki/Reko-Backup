@@ -34,7 +34,15 @@
 |titlestyle  = background: #CFAC84; text-align: center; vertical-align: middle;
 | groupstyle = background:  #CFAC84; text-align: center; vertical-align: middle;
 |group1 =[[HERO (遊戲王牌組系列)|HERO]]
-|list1 =[[E‧HERO]]（[[E‧HERO 新生人]]・[[E‧HERO 火焰翼人]]・[[E‧HERO/相關魔陷|相關魔陷]]）・[[D-HERO]]・[[E-HERO]]・[[M‧HERO]]・[[V‧HERO]]・[[X‧HERO]]・[[N (遊戲王牌組系列)|N]]
+|list1 =
+{{Navbox|child|
+|titlestyle  = background: #CFAC84; text-align: center; vertical-align: middle;
+| groupstyle = background:  #CFAC84; text-align: center; vertical-align: middle;
+|group1 =[[E‧HERO]]
+|list1 =[[E‧HERO 新生人]]／[[N (遊戲王牌組系列)|N]]・[[E‧HERO 火焰翼人]]・[[E‧HERO/相關魔陷|相關魔陷]]
+|group2 =E‧HERO以外
+|list2 =[[D-HERO]]・[[E-HERO]]・[[M‧HERO]]・[[V‧HERO]]・[[X‧HERO]]
+}}
 |group2 =電子流
 |list2 =[[電子龍]]・[[電子黑暗]]
 |group3 =本校生
@@ -72,7 +80,7 @@
 |group2 =銀河眼
 |list2 =[[銀河眼光子龍]]・[[銀河眼時迅龍]]
 |group3 =三勇士使用牌組
-|list3 =[[擬聲 (遊戲王牌組系列)|擬聲（我我我／隆隆隆／怒怒怒／唰拉拉）]]／[[ZEXAL (遊戲王牌組系列)|ZEXAL]]・[[銀河 (遊戲王牌組系列)|銀河]]／[[光子 (遊戲王牌組系列)|光子]]・[[鯊 (遊戲王牌組系列)|鯊]]／[[鎧裝 (遊戲王牌組系列)|鎧裝]]
+|list3 =[[擬聲 (遊戲王牌組系列)|擬聲（我我我／隆隆隆／怒怒怒／唰拉拉）]]／[[ZEXAL (遊戲王牌組系列)|ZEXAL]]・[[銀河 (遊戲王牌組系列)|銀河]]／[[光子 (遊戲王牌組系列)|光子]]・[[鯊 (遊戲王牌組系列)|鯊]]／[[鎧裝超量]]
 |group4 =七皇使用牌組
 |list4 =[[光天使]]・[[燃燒拳鬥士]]・[[時迅 (遊戲王牌組系列)|時迅]]
 |group5 =其它
