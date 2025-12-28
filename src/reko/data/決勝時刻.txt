@@ -1,0 +1,3499 @@
+{{h0|Call of Duty / 決勝時刻<ref>繁中翻譯</ref> / 使命召喚<ref>簡中翻譯</ref> / <s>責任的電話</s>}}
+
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"
+|<s>'''{{ruby|You were killed by a grenade. Watch out for the grenade danger indicator.|你被一枚榴彈殺死了。留意榴彈危險警示。}}'''</s>
+|-
+|<s>'''{{ruby|You are the traitor to the motherland!|貴様は祖国を裏切った！}}'''</s>
+|-
+|本條目含有劇透，沒玩過遊戲又不想'''KIA然後見到名人名言的話'''請不要繼續看下去。 
+|}
+
+== 解說 ==
+* 由動視暴雪（Activision Blizzard）發行的一系列第一人稱射擊遊戲。
+* 與EA的《[[榮譽勳章]]》及《[[戰地風雲]]》同樣主打戰爭題材，遊戲模式包含了單人戰役、多人對戰等模式。
+** 最初的開發團隊Infinity Ward本身就是從《榮譽勳章》的製作團隊「2015工作室」的成員組成，因此說是《榮譽勳章》系列的精神續作也不為過。
+* 系統上引進了機械瞄具，使得槍械在操作上可以更精準的射擊。
+* 遊戲本身有好幾個製作團隊分別製作，因而形成了平均一年即可推出一部新作的「年貨」現象。
+** 目前的主製作團隊有Infinity Ward、Treyarch與Sledgehammer Games這三組，三組團隊各有其獨特風格，此外Raven Software也有參與部分作品的製作。
+* <s>然而隨著系列的電競化，單人戰役越做越隨便之外，多人模式更是外掛橫行，跟類似題材的《戰地風雲》間的競爭也從良性競爭變成惡性競爭。</s>
+
+== 製作組 ==
+=== Infinity Ward ===
+* 簡稱IW組，成立於2002年，由開發《榮譽勳章：反攻諾曼第》的2015工作室成員組成，2003年被動視併購。
+* 主力製作現代戰爭系列，舊現代戰爭三部曲完結後曾開發兩部單獨世界觀的作品《魅影》和《無盡戰爭》。
+* 兩名元老Jason West和Vince Zampella於2010年被動視以「違反合約與抗命」為由辭退後一度爆發總辭現象，其中包含《現代戰爭2 (2009)》的數名首席製作團隊也在此事件辭職。
+* <s>參與作品的品質也在上述「總辭」事件後逐漸下滑。</s>
+
+=== Treyarch ===
+* 簡稱T組，成立於1996年，2001年被動視併購，2005年與Gray Matter Interactive合併。
+* 最早製作了數個系列外傳，直到《戰爭世界》正式參與本篇作品，後來主力製作延續《戰爭世界》背景的黑色行動系列。
+* 與其他團隊相比，不論畫面還是故事背景都更加灰暗，對於戰場的描繪也更加血腥[[獵奇]]。
+** 另外與IW相比戰役關卡通常會較少但獨創性會更高。
+** <s>雖然在某方面來說就是故意跟IW唱反調，例如IW搞無口工具人主角時T組讓主角開金口，IW讓主角開金口後T組反而開始讓主角當無口工具人了</s>
+* <s>雖然出道作品是IGN唯一零分的超弩級[[クソゲー]]《Olympic Hockey Nagano '98》，不過在COD三個主製作組中T組卻是品質最穩定的。</s>
+* <s>其實本行是搞喪屍的，其他兩組作品如果有出喪屍模式也是找T組搞。</s>
+
+=== Sledgehammer Games ===
+* 簡稱大錘，成立於2009年。
+* 最早協助IW開發《現代戰爭3 (2011)》，後來主導了《先進戰爭》的製作而正式成為系列主要製作組之一。
+* <s>雖然感覺比較擅長科幻題材但總是被捉去作二戰作品，結果就是變成了魔幻風二戰＆抗德神劇。</s>
+* <s>不知為何很喜歡搞QTE，《先進戰爭》以及《二戰》都塞滿了QTE。</s>
+
+=== Raven Software ===
+* 簡稱烏鴉，成立於1990年。
+* 動視的救援投手擔當，主要負責製作部分遊戲的多人模式與重製版。
+* <s>明明過去有過不少輝煌成績但至今都只能幫其他團隊打輔助</s>
+
+== 系列 ==
+=== 二戰系列 ===
+* 以二戰為題材的作品，早期多為此風格。
+* 特徵為不同國家的多主角視點以及對戰場的還原。
+* 後期在另外兩系列成形之後有以Sledgehammer Games負責製作的二戰系列作品。
+** <s>但這兩部作品一部只搞D日相關外還有一大堆轉角遇到納粹的萬惡QTE，另一部雖然有做出多地區的戰場但因為劇情敘事本身的問題也搞砸了。</s>
+* 《戰爭世界》除外，除了二戰背景之外各作品基本上沒有劇情上的直接關聯，可視為彼此獨立的故事。
+
+=== 現代戰爭系列 ===
+* 主要由Infinity Ward負責製作的分支系列，主打二十一世紀現代背景的跨國戰役。
+* 特徵是扮演英軍及美軍的士兵投入對恐怖份子的作戰，與早期二戰系列同樣有不同國家的多主角視點。
+* 在劇情敘事上也更加飽滿，不少系列知名的角色如普萊斯跟幽靈都出自此系列。
+* 於《現代戰爭 (2019)》重啟系列，沿用部分角色但故事發展[[砍掉重練]]。
+** <s>然而至今推出的新系列作品在整體評價上都不如老系列三部曲。</s>
+* 同時也是目前人氣最高的系列之一，且已有取代二戰系列成為系列主幹的趨勢。
+
+=== 黑色行動系列 ===
+* 主要由Treyarch負責製作的分支系列，主打從冷戰到近未來期間CIA的活躍。
+** 為《戰爭世界》世界觀的延續，也描寫了該作蘇聯線主角在戰後的經歷。
+* 特徵是貫穿二戰到現代以至近未來的長時間線，以及錯綜複雜爾虞我詐的劇情。
+** 也因此代數基本上不是按照時間推進而是在歷史和未來反覆橫跳。
+** 目前系列的故事順序為：戰爭世界（實質零代）→初代→冷戰（實質五代）→二代（過去線）→六代→二代（未來線）→七代→四代→三代
+* 《黑色行動II》與《冷戰》甚至還有多結局的設計，在戰場上的不同選擇可以影響部分劇情甚至結局的走向，也大幅增加了單人戰役的可玩性。
+* <s>作為T組親兒子，喪屍模式的變化也是最多樣的，部分代數甚至有俯視角風格的《死亡行動街機（Dead Ops Arcade）》模式。</s>
+
+=== 其他 ===
+* 不成系列的單獨作品群，目前有三部作品符合該條件。
+* <s>但這三部作品中有兩部是故事擺明可以出續作成為系列，但因不可抗力原因而被放生的遺珠，一個則是遊戲本身不差卻因為動視糞商法而被罵翻的殘念作…</s>
+
+== 主要模式 ==
+=== 戰役模式（Campaign） ===
+* 單人遊玩的任務模式。
+* 主打如同《榮譽勳章》般的好萊塢電影風格，並藉由安排玩家與NPC之間的互動來推進劇情達成目標。
+** 如同其他戰爭題材作品，當準心指向我方同伴時會顯示該同伴的名字與軍階以方便玩家認識該角色<s>，然後被後續的慘烈劇情虐到要死不活</s>。
+* 在單人戰役[[GAME OVER]]時，通常會出現一句當前年代某位名人的格言，或是攻略的提示。
+** <s>在COD的世界千萬別當序章限定主角，'''因為在序章結束後自己的人生也有很高機率會結束'''，然後搭戰車也千萬別搭上主角眼神對上的那幾台車，'''因為絕對會炸'''。</s>
+* 早期為系列主打的模式，近期因為多人模式的比重加重而逐漸影薄，甚至在《黑色行動4》一度被取消。
+
+=== 多人模式（Multiple） ===
+* 包含團隊死鬥與奪旗等連線對戰模式。
+* 部分代數可以設置bot，即使找不到人連線也可以用這機能開打。
+
+=== 喪屍模式（Zombie） ===
+* 最多支援四人連線的PVE模式，首出於《戰爭世界》。
+* 玩家要在一波一波的屍潮中生存，並利用獲得的點數購買新武器或開啟地圖通路。
+* 《現代戰爭III (2023)》則是類似DMZ的開放世界地圖撤離。
+
+=== 大逃殺模式（Battle Royale） ===
+* 最多百人同台的大逃殺模式，首出於《黑色行動4》。
+* 於《現代戰域》免費推出<s>推出後一堆系列作品都必須綁戰域的啟動器才能玩</s>。
+
+=== 非軍事區模式（Demilitarized Zone） ===
+* 開放世界地圖的PVE模式，首出於《現代戰域》。
+* 主要目標為多人合作探索地圖，完成相對應任務並撤離地圖拿獎勵。
+
+== 作品列表 ==
+=== 二戰系列 ===
+==== 決勝時刻 / Call of Duty ====
+* 系列代數：1
+* 發行年分：2003
+* 製作團隊：Infinity Ward
+* 系列首部作品，與《[[德軍總部|重返德軍總部]]》同樣採用了id Tech 3引擎。
+* 劇情戰役分別以<s>雅爾達鐵三角</s>美國＆英國＆蘇聯的列兵為視角，描寫了諾曼第登陸以至史達林格勒等經典戰役。
+* 有松崗科技代理的繁體中文版。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''美軍戰役'''
+|-
+|Camp Toccoa
+|Martin
+|1942年8月10日，B連在托科阿的營地內進行訓練
+|訓練關卡
+|-
+|Pathfinder
+|Martin
+|1944年6月5日，B連於D-Day前夕降落到法國諾曼第給本隊發布空降訊號
+|
+|-
+|Ste. Mere-Eglise
+|Martin
+|1944年6月6日，B連對位於聖梅爾埃格利斯的高射砲發動攻擊
+|
+|-
+|Ste. Mere-Eglise-Day
+|Martin
+|1944年6月6日，B連必須在德軍坦克的攻勢下死守聖梅爾埃格利斯
+|
+|-
+|Normandy Route N13
+|Martin
+|1944年6月6日，B連一行人驅車突破德軍的包圍網
+|
+|-
+|Brecourt Manor
+|Martin
+|1944年6月6日，B連突襲佈列庫莊園的火炮基地
+|
+|-
+|Alps Chateau
+|Martin
+|1944年8月7日，B連襲擊德軍位於阿爾卑斯山的基地營救被囚禁的英國軍官普萊斯
+|
+|-
+|Dulag IIIA
+|Martin
+|1944年9月18日，確認英格拉姆少校被關押在杜拉格的B連發動夜襲展開營救
+|有時間限制，必須在十分鐘內完成救援任務
+|-
+!colspan="4"|'''英軍戰役'''
+|-
+|Pegasus Bridge
+|Evans
+|1944年6月6日，空降師於孟卓村空降
+|
+|-
+|Pegasus Bridge-Day
+|Evans
+|1944年6月6日，空降師必須試圖防守孟卓村
+|
+|-
+|The Eder Dam
+|Evans
+|1944年9月2日，埃文斯深入敵後潛入艾德水壩
+|
+|-
+|Eder Dam Getaway
+|Evans
+|1944年9月2日，埃文斯與接應的友軍試圖逃離德軍的追捕
+|
+|-
+|Airfield Escape
+|Evans
+|1944年9月2日，埃文斯必須設法劫持飛機脫離
+|
+|-
+|Battleship Tirpitz
+|Evans
+|1944年10月7日，埃文斯與普萊斯設法潛入德軍艦艇
+|
+|-
+!colspan="4"|'''蘇軍戰役'''
+|-
+|Stalingrad
+|Alexei Ivanovich Voronin
+|1942年9月18日，德軍已經兵臨史達林格勒…
+|開場渡河部份大致復刻電影《大敵當前》的渡河場景
+|-
+|Red Square
+|Alexei Ivanovich Voronin
+|1942年9月18日，紅軍於紅場和德軍交火
+|
+|-
+|Train Station
+|Alexei Ivanovich Voronin
+|1942年9月18日，紅軍必須設法奪回火車站
+|
+|-
+|Stalingrad Sewers
+|Alexei Ivanovich Voronin
+|1942年11月9日，紅軍必須藉由下水道前往巴甫洛夫大樓
+|
+|-
+|Pavlov's House
+|Alexei Ivanovich Voronin
+|1942年11月9日，紅軍必須奪回巴甫洛夫大樓並死守之
+|
+|-
+|Warsaw Factory
+|Alexei Ivanovich Voronin
+|1945年1月17日，紅軍對波蘭華沙的德軍發起進攻
+|
+|-
+|Warsaw Railyard
+|Alexei Ivanovich Voronin
+|1945年1月17日，紅軍必須設法清空鐵路並摧毀德軍坦克
+|
+|-
+|Oder River Country
+|Alexei Ivanovich Voronin
+|1945年1月26日，紅軍坦克部隊在奧德河與德軍交火
+|
+|-
+|Oder River Town
+|Alexei Ivanovich Voronin
+|1945年1月26日，紅軍坦克部隊必須設法奪回城鎮
+|
+|-
+!colspan="4"|'''終章'''
+|-
+|Festung Recogne
+|Martin
+|1945年1月15日，B連進攻巴斯通的德軍碉堡。
+|
+|-
+|V-2 Rocket Site
+|Evans
+|1945年2月2日，空降師攻擊貝斯坦的V2飛彈基地。
+|
+|-
+|The Reichstag
+|Alexei Ivanovich Voronin
+|1945年4月30日，紅軍對德國國會大廈發起進攻。
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：聯合行動 / Call of Duty: United Offensive ====
+* 系列代數：1.5
+* 發行年分：2004
+* 製作團隊：Gray Matter Interactive<ref>《重返德軍總部》的製作團隊，後來與Treyarch合併。</ref>
+* 一代的資料片，追加衝刺功能。
+* 劇情戰役則著重於突出部＆西西里島＆庫斯克等戰役。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''美軍戰役'''
+|-
+|Bois Jacques
+|Scott Riley
+|
+|
+|-
+|Crossroads
+|Scott Riley
+|
+|
+|-
+|Foy
+|Scott Riley
+|
+|
+|-
+|Noville
+|Scott Riley
+|
+|
+|-
+!colspan="4"|'''英軍戰役'''
+|-
+|Bomber
+|James Doyle
+|
+|
+|-
+|Train Bridge
+|James Doyle
+|
+|
+|-
+|Sicily 1
+|James Doyle
+|
+|
+|-
+|Sicily Chase
+|James Doyle
+|
+|
+|-
+!colspan="4"|'''蘇軍戰役'''
+|-
+|Trenches
+|Yuri Petrenko
+|
+|
+|-
+|Ponyri
+|Yuri Petrenko
+|
+|
+|-
+|Kursk
+|Yuri Petrenko
+|
+|
+|-
+|Kharkov Outskirts
+|Yuri Petrenko
+|
+|
+|-
+|Kharkov Station
+|Yuri Petrenko
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：尖峰時刻 / Call of Duty: Finest Hour ====
+* 系列代數：1.5
+* 發行年分：2004
+* 製作團隊：Spark Unlimited
+* 一代的番外篇，僅有主機版。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''東線戰役'''
+|-
+|Not One  Step Back
+|Aleksandr Sokolov
+|
+|
+|-
+|The Flag Must Fall
+|Aleksandr Sokolov
+|
+|
+|-
+|Dead In Her Sights
+|Tanya Pavelovna
+|
+|
+|-
+|Defend the Factory
+|Tanya Pavelovna
+|
+|
+|-
+|Breakdown
+|Nikolai Badanov
+|
+|
+|-
+|Into Red Square
+|Nikolai Badanov
+|
+|
+|-
+|Operation Little Saturn
+|Nikolai Badanov
+|
+|
+|-
+|Airfield Ambush
+|Nikolai Badanov
+|
+|
+|-
+!colspan="4"|'''北非戰役'''
+|-
+|Mission: Matmata
+|Edward Carlyle
+|
+|
+|-
+|Depot Saboteurs
+|Edward Carlyle
+|
+|
+|-
+|A Desert Ride
+|Edward Carlyle
+|
+|
+|-
+|Raiding the Fortress
+|Edward Carlyle
+|
+|
+|-
+!colspan="4"|'''西線戰役'''
+|-
+|First City to Fall
+|Chuck Walker
+|
+|
+|-
+|Underground Passage
+|Chuck Walker
+|
+|
+|-
+|Surrender at Aachen
+|Chuck Walker
+|
+|
+|-
+|Come Out Fighting
+|Sam Rivers
+|
+|
+|-
+|Road to Remagen
+|Chuck Walker
+|
+|
+|-
+|Last Bridge Standing
+|Chuck Walker
+|
+|
+|-
+|Into the Heartland
+|Chuck Walker
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻2 / Call of Duty 2 ====
+* 系列代數：2
+* 發行年分：2005
+* 製作團隊：Infinity Ward
+* 首次使用工作室自製IW引擎製作的遊戲。
+* 導入關卡選擇，同時存檔從前作的隨時隨地存儲更改成特定紀錄點的自動存檔。
+* 首出自動回血，負傷狀態時於掩體內可以回復血量。
+* 劇情戰役除了經典的東西線外還加上了北非戰役。
+* 與一代同樣有松崗科技代理的繁體中文版。
+* <s>{{ruby|You are the traitor to the motherland!|貴様は祖国を裏切った！}}<ref>在蘇聯篇觸發友軍傷害時的[[GAME OVER]]台詞。</ref></s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''蘇軍戰役'''
+|-
+|The Winter War
+|Vasili Ivanovich Koslov
+|1941年12月，瓦西里投入紅軍準備報效國家…
+|第一部分為紅軍訓練關卡，與一代不同在後半會直接投入實戰<s><br>因為手榴彈太貴所以擲彈訓練改成扔馬鈴薯<br>如果沒有按照指揮官的指示執行訓練的話會被當場槍斃（無誤）</s><br>第二部分須穿越戰壕與友軍會合，途中可以拿到一把莫辛納甘狙擊德軍，在用炸彈摧毀德軍堡壘後結束任務
+|-
+|Not One Step Backwards!
+|Vasili Ivanovich Koslov
+|1942年12月8日，紅軍準備應戰德軍的坦克部隊
+|第一部分前半須修復電線，後半則須與敵軍坦克作戰，可以選擇用火箭筒炸毀或是摧毀履帶後掩護友軍投彈<br>第二部分須藉由管道滲透到火車站<s>，同樣的得用人肉炸彈的方式轟掉德軍坦克</s>
+|-
+|Fortress Stalingrad
+|Vasili Ivanovich Koslov
+|1943年1月15日，紅軍將從德軍處奪回市鎮廳
+|
+|-
+!colspan="4"|'''英軍戰役'''
+|-
+|The Battle of El Alamein
+|John Davis
+|1942年10月29日，第7裝甲師突襲位於北非的德軍陣地
+|完成蘇軍The Winter War戰役後解鎖
+|-
+|The Tank Squadrons
+|David Welsh
+|1943年1月15日，第7裝甲師的坦克部隊在利比亞與德軍交火
+|
+|-
+|Rommel's Last Stand
+|John Davis
+|1943年3月10日，第7裝甲師在突尼西亞與德軍展開交火
+|
+|-
+|The Battle for Caen
+|John Davis
+|1944年6月11日，第7裝甲師進攻法國康城
+|
+|-
+!colspan="4"|'''美軍戰役'''
+|-
+|D-Day
+|Bill Taylor
+|1944年6月6日，遊騎兵從奧克角峭壁展開登陸
+|完成蘇軍Fortress Stalingrad戰役與英軍Rommel's Last Stand戰役後解鎖<br>第一部分為登陸作戰，不同於經典的奧瑪哈海灘登陸，本作的登陸位置是奧克角峭壁<br>第二部分為防衛戰，必須持續防衛德軍的攻勢並撐到戰車支援<br>第三部分需掃蕩村莊的德軍，隨後中尉會下令登上高塔用狙擊槍攻擊德軍砲手
+|-
+|Hill 400
+|Bill Taylor
+|1944年12月6日，遊騎兵攻入400高地
+|
+|-
+|Crossing the Rhine
+|Bill Taylor
+|1945年3月24日，遊騎兵橫渡萊茵河直指德國本土
+|
+|}
+{{hidef}}
+
+==== 決勝時刻2：鐵血軍營 / Call of Duty 2: Big Red One ====
+* 系列代數：2.5
+* 發行年分：2006
+* 製作團隊：Treyarch
+* 二代的番外篇，僅有主機版。
+* 主要描寫了別名紅一縱隊的美軍第一步兵師在各地戰場的活躍。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''序章'''
+|-
+|We've Been Through Worse
+|Roland Roger
+|
+|
+|-
+!colspan="4"|'''北非戰役'''
+|-
+|Baptism By Fire
+|Roland Roger
+|
+|
+|-
+|Tankers
+|Roland Roger
+|
+|
+|-
+|The Desert Fox
+|Roland Roger
+|
+|
+|-
+|Counterattack
+|Roland Roger
+|
+|
+|-
+|Liberators
+|Stretch
+|
+|
+|-
+!colspan="4"|'''義大利戰役'''
+|-
+|Operation Husky
+|Roland Roger
+|
+|
+|-
+|Piano Lupo
+|Roland Roger
+|
+|
+|-
+|Farewell to Friends
+|Roland Roger
+|
+|
+|-
+!colspan="4"|'''西線戰役'''
+|-
+|The Great Crusade
+|Roland Roger
+|
+|
+|-
+|An Easy Detail
+|Roland Roger
+|
+|
+|-
+|Crucifix Hill
+|Roland Roger
+|
+|
+|-
+|The Last Train
+|Roland Roger
+|
+|
+|-
+|The Dragon's Teeth
+|Roland Roger
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻3 / Call of Duty 3 ====
+* 系列代數：3
+* 發行年分：2006
+* 製作團隊：Treyarch
+* 系列第一部非Infinity Ward開發的本篇作品，與《鐵血軍營》同樣僅有主機版。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''序章'''
+|-
+|Saint-Lô
+|Nichols
+|
+|
+|-
+!colspan="4"|'''第一章'''
+|-
+|The Island
+|Nichols
+|
+|
+|-
+|Night Drop
+|James Doyle
+|
+|
+|-
+|Mayenne Bridge
+|Nichols
+|
+|
+|-
+|Falaise Road
+|Joe Cole
+|
+|
+|-
+!colspan="4"|'''第二章'''
+|-
+|Fuel Plant
+|James Doyle
+|
+|
+|-
+|The Black Baron
+|Bohater Wojciech
+|
+|
+|-
+|The Forest
+|Nichols
+|
+|
+|-
+|Laison River
+|Joe Cole
+|
+|
+|-
+|The Crossroads
+|Nichols
+|
+|
+|-
+!colspan="4"|'''第三章'''
+|-
+|Hostage!
+|James Doyle
+|
+|
+|-
+|The Corridor of Death
+|Joe Cole
+|
+|
+|-
+|The Mace
+|Bohater Wojciech
+|
+|
+|-
+|Chambois
+|Nichols
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：勝利之路 / Call of Duty: Roads to Victory ====
+* 系列代數：3.5
+* 發行年分：2007
+* 製作團隊：Amaze Entertainment
+* 三代的番外篇，PSP獨佔。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''美軍戰役'''
+|-
+|Altavilla
+|Derrick Warren
+|
+|
+|-
+|Scavenger Hunt
+|David Ferguson
+|
+|
+|-
+|Glider Crash
+|Jonathan Shepherd
+|
+|
+|-
+|Lucky Thirteen
+|Paul VanAtta
+|
+|
+|-
+|Nijmegen
+|Gerald Miller
+|
+|
+|-
+|Hunner Park
+|Gerald Miller
+|
+|
+|-
+|River Crossing
+|Jason Wescott
+|
+|
+|-
+!colspan="4"|'''加拿大戰役'''
+|-
+|Woensdrecht
+|Alan Bradshaw
+|
+|
+|-
+|Sloedam
+|Alan Bradshaw
+|
+|
+|-
+|Walcheren
+|Alan Bradshaw
+|
+|
+|-
+|Reichswald
+|Todd Gessinger
+|
+|
+|-
+!colspan="4"|'''英軍戰役'''
+|-
+|Arnhem Fire
+|Michael Dabrowa
+|
+|
+|-
+|Arnhem Assault
+|Michael Dabrowa
+|
+|
+|-
+|Rhine Crossing
+|Brian Preston
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：戰爭世界 / Call of Duty: World at War ====
+* 系列代數：5
+* 發行年分：2008
+* 製作團隊：Treyarch
+* 劇情戰役主打太平洋戰爭與史達林格勒。
+** 與以往二戰系列偏英雄主義相比，對於戰場的寫實殘酷程度大幅度的上升。
+** 日軍拷問主角的片段至今仍是系列重大名場面，甚至因此造成本作成為系列唯一未在日本發行的作品。
+* 首出喪屍模式，此後凡是Treyarch出品的系列作品必定會有喪屍模式。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Semper Fi
+|C. Miller
+|
+|
+|-
+|Little Resistance
+|C. Miller
+|
+|
+|-
+|Hard Landing
+|C. Miller
+|
+|
+|-
+|Vendetta
+|Dimitri Petrenko
+|
+|
+|-
+|Their Land, Their Blood
+|Dimitri Petrenko
+|
+|
+|-
+|Burn 'em Out
+|C. Miller
+|
+|
+|-
+|Relentless
+|C. Miller
+|
+|
+|-
+|Blood & Iron
+|Dimitri Petrenko
+|
+|
+|-
+|Ring of Steel
+|Dimitri Petrenko
+|
+|
+|-
+|Eviction
+|Dimitri Petrenko
+|
+|
+|-
+|Black Cats
+|Locke
+|
+|
+|-
+|Blowtorch & Corkscrew
+|C. Miller
+|
+|
+|-
+|Breaking Point
+|C. Miller
+|
+|
+|-
+|Heart of the Reich
+|Dimitri Petrenko
+|
+|
+|-
+|Downfall
+|Dimitri Petrenko
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：二戰 / Call of Duty: WWII ====
+* 系列代數：14
+* 發行年分：2017
+* 製作團隊：Sledgehammer Games
+* 繼《戰爭世界》後睽違九年再度推出的二戰主題作品。
+* 劇情戰役以美國第一步兵師的一等兵丹尼爾為主角，描寫第一步兵師從諾曼第登陸的「D日」到雷馬根戰役之間的經歷。
+** 與以往採用多陣營主角交錯進行的方式不同，本次戰役絕大部分都是集中在<s>兄弟連</s>美國第一步兵師，也因此戰場方面也傾向於以D日相關為主<s>，精英與精蘇震怒</s>。
+** 劇情戰役的同伴戲份大幅增加之外，不同的同伴還能夠給予主角不同的協助（補充血包或彈藥等等）。
+** <s>然而與前幾作相比武器的考究就變得很隨便，例如諾曼地灘頭上居然能撿到只有投入到太平洋戰場的百式，還有德軍陣地內不知為何一堆蘇聯製的PPSh-41。</s>
+* 取消以往自動回血等機制，必須在戰場上取得補給包（可以隨地撿或是找隊友要）才能回血。
+* <s>別名《QTE: WWII》，轉角遇到納粹時高達八成就會來一個QTE，除了又臭又長之外其按鍵配置對鍵鼠玩家而言更是極不友好。</s>
+** <s>至於坦克關因為PC優化的問題所導致的狀況那又是另一個故事了…</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|D-Day
+|Ronald "Red" Daniels
+|
+|
+|-
+|Operation Cobra
+|Ronald "Red" Daniels
+|
+|
+|-
+|Stronghold
+|Ronald "Red" Daniels
+|
+|
+|-
+|S.O.E.
+|Ronald "Red" Daniels
+|
+|
+|-
+|Liberation
+|Camille "Rousseau" Denis<br>Ronald "Red" Daniels
+|
+|
+|-
+|Collateral Damage
+|Ronald "Red" Daniels<br>Augustine Perez
+|
+|
+|-
+|Death Factory
+|Ronald "Red" Daniels
+|
+|
+|-
+|Hill 493
+|Ronald "Red" Daniels
+|
+|
+|-
+|Battle of the Bulge
+|Ronald "Red" Daniels<br>Matthew Weber
+|
+|
+|-
+|Ambush
+|Ronald "Red" Daniels
+|
+|
+|-
+|The Rhine
+|Ronald "Red" Daniels
+|
+|
+|-
+|Epilogue
+|Ronald "Red" Daniels
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：先鋒 / Call of Duty: Vanguard ====
+* 系列代數：18
+* 發行年分：2021
+* 製作團隊：Sledgehammer Games
+* 劇情戰役描寫由各國士兵組成，代號「先鋒」的作戰部隊潛入德軍的經歷。
+** 相較於集中在D日的《二戰》，本作回歸了以往二戰系列的多主角，歷史戰場則涉及了阿拉曼戰役、中途島海戰、史達林格勒與湯加行動<s>，大概是上次只做D日被玩家嫌所以這次每個地方都要出至少一關但…</s>
+* <s>某種意義上是超越《魅影》的系列[[黑歷史]]，先不論在中途島會看到日軍拿德軍槍械等歷史錯亂，在劇情演出也是各種倒敘插敘毫無章法的反覆橫跳讓不少劇情黨玩家直搖頭<ref>簡單來說一開始主角小隊任務失敗被納粹捉住的序幕其實是'''時間線的倒數第二幕'''，中間都是穿插倖存小隊成員過去參戰的回憶（最扯的是還沒有按照年份順序來演），直到最終章才把序幕之後的劇情繼續演下去。</ref>。</s>
+** <s>此外在槍械本身的處理上也很謎，首先不論那些魔改過的槍托和彈鼓，光是用填裝RPG的方式填裝Panzerfaust就能讓不少槍械迷暈倒。</s>
+* <s>Do You Speak Japanese?</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Phoenix
+|Milos Novak
+|1945年4月，代號「先鋒」的多國籍聯合部隊襲擊德軍基地試圖竊取鳳凰計劃
+|
+|-
+|Operation Tonga
+|Arthur Kingsley
+|1944年6月，亞瑟作為英軍空降兵參與了諾曼第空降的任務
+|
+|-
+|Stalingrad
+|Polina Petrova
+|1942年8月，波麗娜的人生在這一刻徹底改變
+|
+|-
+|The Battle of Midway
+|Wade Jackson
+|1942年6月，韋德與戰友準備好對抗日本海軍
+|
+|-
+|Numa Numa Trail
+|Wade Jackson
+|1943年11月，在布干維爾墜機的韋德為求生存必須殺出一片血路
+|<s>被日軍俘虜的段落由於演出的緣故意外形成了迷因<br>Do You Speak Japanese?</s>
+|-
+|Lady Nightingale
+|Polina Petrova
+|1943年1月，波麗娜對史坦納的復仇戰正式打響
+|
+|-
+|The Rats of Tobruk
+|Lucas Riggs
+|1941年8月，盧卡斯準備偷襲納粹的物資
+|
+|-
+|The Battle of El Alamein
+|Lucas Riggs
+|1942年10月，盧卡斯在阿拉曼之戰深入敵後
+|
+|-
+|The Fourth Reich
+|Arthur Kingsley<br>Polina Petrova<br>Lucas Riggs<br>Wade Jackson
+|1945年5月，成功越獄的先鋒部隊誓要弗萊辛格償命
+|
+|}
+{{hidef}}
+
+=== 現代戰爭系列 ===
+==== 決勝時刻4：現代戰爭 / Call of Duty 4: Modern Warfare ====
+* 系列代數：4
+* 發行年分：2007
+* 製作團隊：Infinity Ward
+* 系列第一部現代戰爭主題作品，在系列上也是具有里程碑意義的作品。
+* 劇情戰役描寫了2011年SAS和海軍陸戰隊在各地戰場對抗恐怖份子的活躍。
+* 於2016年推出重製版。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''序章'''
+|-
+|F.N.G.
+|John "Soap" MacTavish
+|
+|訓練關卡，結束後可以重複挑戰並選擇戰役難度<br>原版僅有射擊訓練與CQB（近身距離作戰）訓練，重製版追加了擲彈與匍匐等其他訓練作為可選支線
+|-
+|Crew Expendable
+|John "Soap" MacTavish
+|SAS按照線人尼古萊的情報對恐怖份子運輸核彈的船艦發起進攻
+|
+|-
+|The Coup
+|Yasir Al-Fulani
+|純過場，以第一人稱描寫阿薩德集團對某國總統的公開處刑
+|
+|-
+!colspan="4"|'''第一章'''
+|-
+|Blackout
+|John "Soap" MacTavish
+|SAS與俄國正規軍合作營救被恐怖份子脅持的尼古萊
+|
+|-
+|Charlie Don't Surf
+|Paul Jackson
+|美國在得知阿薩德的行動後，即刻派遣了三萬名海軍陸戰隊發動攻擊
+|標題致敬了越戰電影《現代啟示錄》
+|-
+|The Bog
+|Paul Jackson
+|
+|
+|-
+|Hunted
+|John "Soap" MacTavish
+|SAS護送尼古萊的直升機在途中遭恐怖份子擊墜，在空中的支援抵達前數人得挺過敵人的包圍
+|
+|-
+|Death From Above
+|Thermal Imaging TV Operator
+|操作AC-130戰機協助受困的SAS突圍
+|
+|-
+|War Pig
+|Paul Jackson
+|
+|
+|-
+|Shock and Awe
+|Paul Jackson
+|
+|
+|-
+|Aftermath
+|Paul Jackson
+|
+|
+|-
+!colspan="4"|'''第二章'''
+|-
+|Safehouse
+|John "Soap" MacTavish
+|得知阿薩德藏身在亞塞拜然後，SAS立即前往緝拿
+|本關可以自由決定攻佔的目標房屋，不過只有最後攻佔的位置能發現阿薩德。
+|-
+|All Ghillied Up
+|John Price
+|
+|
+|-
+|One Shot, One Kill
+|John Price
+|
+|
+|-
+|Heat
+|John "Soap" MacTavish
+|
+|
+|-
+|The Sins of the Father
+|John "Soap" MacTavish
+|
+|
+|-
+!colspan="4"|'''第三章'''
+|-
+|Ultimatum
+|John "Soap" MacTavish
+|
+|
+|-
+|All In
+|John "Soap" MacTavish
+|
+|
+|-
+|No Fighting In The War Room
+|John "Soap" MacTavish
+|
+|
+|-
+|Game Over
+|John "Soap" MacTavish
+|
+|
+|-
+!colspan="4"|'''尾聲'''
+|-
+|Mile High Club
+|One-One Operative
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：現代戰爭2 / Call of Duty: Modern Warfare 2 ====
+* 系列代數：6
+* 發行年分：2009
+* 製作團隊：Infinity Ward
+* 世界觀承襲前作，描寫扎卡伏事件結束後由各國特殊部隊組成的141特遣隊與美國陸軍遊騎兵在各地戰場繼續與恐怖份子周旋。
+* 於2020年推出重製版（只有單人戰役）。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''第一章'''
+|-
+|S.S.D.D.
+|Joseph Allen
+|遊騎兵團協助當地反抗軍進行訓練
+|訓練關卡，與前作同樣可以重複挑戰與調整戰役難度
+|-
+|Team Player
+|Joseph Allen
+|在將軍的指揮下，遊騎兵團協助當地的反抗軍對抗極端分子
+|
+|-
+|Cliffhanger
+|Gary "Roach" Sanderson
+|成為141隊長的索普與新人小強潛入俄軍基地執行機密任務
+|[[Plan B]]的出處之一
+|-
+|No Russian
+|Alexei Borodin (Joseph Allen)
+|為了取得馬卡洛夫的信任，作為臥底的艾倫與其同行前往俄國扎卡伏機場…
+|{{censored|本關為俄國恐怖份子屠殺平民栽贓給美軍的關卡，由於本關中艾倫是臥底中的緣故，因此他也勢必'''在玩家操作下參與這次的屠殺行動'''，甚至在結尾遭馬卡洛夫殺死並背了黑鍋}}<br>受上述劇情的影響本關是全系列最知名但也最受爭議的一關，因此製作組在本關設置可允許跳關。
+|-
+|Takedown
+|Gary "Roach" Sanderson
+|為了證明機場屠殺事件為馬卡洛夫策畫，141特遣隊必須在巴西里約捉住其軍火供應商羅哈斯
+|前半必須活捉羅哈斯的手下，開槍時不能打頭只能打腳<br><s>戰後還能看到索普與幽靈非常「親切」的「照顧」對方</s><br>後半在索普的命令下小強與兩名隊友前往貧民窟捉捕羅哈斯卻遭到伏擊…<br>貧民窟部分除了地圖複雜外敵人還非常多，要是一不小心可能就得見名言了，堪稱新人殺手級別的難關<br>順便一提本關後半兩個NPC隊友無論如何都必定死亡
+|-
+!colspan="4"|'''第二章'''
+|-
+|Wolverines!
+|James Ramirez
+|
+|
+|-
+|The Hornet's Nest
+|Gary "Roach" Sanderson
+|
+|
+|-
+|Exodus
+|James Ramirez
+|
+|
+|-
+|The Only Easy Day… Was Yesterday
+|Gary "Roach" Sanderson
+|
+|[[Plan B]]的出處之二
+|-
+|The Gulag
+|Gary "Roach" Sanderson
+|
+|
+|-
+|Of Their Own Accord
+|James Ramirez
+|
+|
+|-
+!colspan="4"|'''第三章'''
+|-
+|Contingency
+|Gary "Roach" Sanderson
+|
+|
+|-
+|Second Sun
+|James Ramirez
+|
+|
+|-
+|Whiskey Hotel
+|James Ramirez
+|
+|
+|-
+|Loose Ends
+|Gary "Roach" Sanderson
+|
+|
+|-
+|The Enemy of My Enemy
+|John "Soap" MacTavish
+|
+|
+|-
+|Just Like Old Times
+|John "Soap" MacTavish
+|
+|
+|-
+|Endgame
+|John "Soap" MacTavish
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：現代戰爭3 / Call of Duty: Modern Warfare 3 ====
+* 系列代數：8
+* 發行年分：2011
+* 製作團隊：Infinity Ward
+* 舊現代戰爭三部曲的最終章，描寫第三次世界大戰爆發後美軍三角洲部隊參與的戰事，以及被解散的141特遣隊和恐怖份子首腦的周旋。
+* <s>可操控角色有美國三角洲部隊（Delta Force）＆俄國特種部隊（Spetsnaz）與英國空降特勤團（SAS）但就是沒有法國憲兵干預組（GIGN），合理懷疑製作組潛意識討厭法國<ref>劇中僅有一關有出現GIGN但並非玩家操作</ref>。</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''第一章'''
+|-
+|Prologue
+|John "Soap" MacTavish
+|
+|
+|-
+|Black Tuesday
+|Derek "Frost" Westbrook
+|
+|
+|-
+|Hunter Killer
+|Derek "Frost" Westbrook
+|
+|
+|-
+|Persona Non Grata
+|Yuri
+|
+|
+|-
+|Turbulence
+|Andrei Harkov
+|
+|
+|-
+|Back on the Grid
+|Yuri
+|
+|
+|-
+|Mind the Gap
+|Marcus Burns
+|
+|
+|-
+|Davis Family Vacation
+|Mr. Davis
+|
+|
+|-
+!colspan="4"|'''第二章'''
+|-
+|Goalpost
+|Derek "Frost" Westbrook
+|
+|
+|-
+|Return To Sender
+|Yuri
+|
+|
+|-
+|Bag and Drag
+|Derek "Frost" Westbrook
+|
+|
+|-
+|Iron Lady
+|Derek "Frost" Westbrook
+|
+|
+|-
+|Eye of the Storm
+|Yuri
+|
+|
+|-
+|Blood Brothers
+|Yuri
+|
+|
+|-
+!colspan="4"|'''第三章'''
+|-
+|Stronghold
+|Yuri
+|
+|
+|-
+|Scorched Earth
+|Derek "Frost" Westbrook
+|
+|
+|-
+|Down the Rabbit Hole
+|Yuri
+|
+|
+|-
+|Dust to Dust
+|John Price
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：現代戰爭 / Call of Duty: Modern Warfare ====
+* 系列代數：16
+* 發行年分：2019
+* 製作團隊：Infinity Ward
+* 現代戰爭系列的「重啟」作品，世界觀與部分登場人物相同但劇情的走向有少部分差別。
+** 本作起的系列主要舞台為中東虛構國家「烏茲斯坦（Urzikstan）」，描寫各方勢力圍繞在該國的明爭暗鬥。
+* 包含大逃殺模式「現代戰域」，劇情戰役回歸。
+* 從本作起多人模式（包含現代戰域）也導入劇情<s>，由於部分在戰役劇情退場的角色也有機會藉由該模式復出而被戲稱為「復活賽」</s>。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Fog of War
+|Alex Keller
+|
+|
+|-
+|Piccadilly
+|Kyle Garrick
+|
+|
+|-
+|Embedded
+|Alex Keller
+|
+|
+|-
+|Proxy War
+|Alex Keller
+|
+|
+|-
+|Clean House
+|Kyle Garrick
+|
+|
+|-
+|Hunting Party
+|Alex Keller
+|
+|
+|-
+|The Embassy
+|Kyle Garrick
+|
+|
+|-
+|Highway of Death
+|Alex Keller
+|
+|
+|-
+|Hometown
+|Farah Karim
+|
+|
+|-
+|The Wolf's Den
+|Kyle Garrick<br>Alex Keller
+|
+|
+|-
+|Captive
+|Farah Karim
+|
+|
+|-
+|Old Comrades
+|Kyle Garrick
+|
+|
+|-
+|Going Dark
+|Kyle Garrick
+|
+|
+|-
+|Into the Furnace
+|Alex Keller<br>Kyle Garrick<br>Farah Karim
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：現代戰爭II / Call of Duty: Modern Warfare II ====
+* 系列代數：19
+* 發行年分：2022
+* 製作團隊：Infinity Ward
+* 上者的續作，描寫特遣隊為了尋找失竊的飛彈而深入敵後。
+* 包含大逃殺模式「現代戰域2.0」。
+* <s>劇情戰役的演出和關卡構成都非常謎，序章雖然可以操控大家垂涎許久的幽靈'''但就只是用望遠鏡看一下暗殺目標就切換到投射飛彈的影子連視角'''，除此之外以往負責大場面戰場的美軍線在本作完全被砍光…</s>
+* <s>而從本作起啟用的整合器「CODHQ」是如何將PC玩家搞到懷疑人生的那又是另一個故事了</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Strike
+|Simon "Ghost" Riley
+|
+|
+|-
+|Kill or Capture
+|John "Soap" MacTavish
+|
+|
+|-
+|Wetwork
+|Kyle "Gaz" Garrick
+|
+|
+|-
+|Tradecraft
+|Kyle "Gaz" Garrick
+|
+|
+|-
+|Borderline
+|Rodolfo Parra
+|
+|<s>在中國因為翻譯字幕的緣故誕生了一個名梗：「長按右鍵{{ruby|緩解與平民的衝突|嚇阻平民}}」<ref>本關途中需要數次舉槍嚇阻平民攻擊但簡中翻譯卻(ry</ref></s>
+|-
+|Cartel Protection
+|John "Soap" MacTavish
+|
+|
+|-
+|Close Air
+|Shadow-1 TV Operator
+|
+|
+|-
+|Hardpoint
+|Shadow-1 TV Operator
+|
+|
+|-
+|Recon by Fire
+|Kyle "Gaz" Garrick
+|
+|
+|-
+|Violence and Timing
+|Kyle "Gaz" Garrick
+|
+|
+|-
+|El Sin Nombre
+|John "Soap" MacTavish
+|
+|
+|-
+|Dark Water
+|John "Soap" MacTavish
+|
+|
+|-
+|Alone
+|John "Soap" MacTavish
+|
+|
+|-
+|Prison Break
+|John "Soap" MacTavish
+|
+|
+|-
+|Hindsight
+|Dipaolo
+|
+|
+|-
+|Ghost Team
+|John "Soap" MacTavish<br>Kyle "Gaz" Garrick
+|
+|
+|-
+|Countdown
+|John "Soap" MacTavish<br>Simon "Ghost" Riley
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：現代戰爭III / Call of Duty: Modern Warfare III ====
+* 系列代數：20
+* 發行年分：2023
+* 製作團隊：Sledgehammer Games
+* 首次非Infinity Ward開發的現代戰爭系列。
+* 戰役模式追加沙盒地圖風格的「開放戰鬥任務」<s>，然而說穿了就是既有的戰域和非軍事區等模式換個名稱而已，而且舊作早就搞過類似風格卻更好玩的關卡了</s>。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Operation 627
+|Alpha 2-1 (Andrei Nolan)
+|
+|
+|-
+|Precious Cargo
+|Farah Karim
+|
+|
+|-
+|Reactor
+|John Price
+|
+|
+|-
+|Payload
+|John Price
+|
+|
+|-
+|Deep Cover
+|Kate Laswell
+|
+|
+|-
+|Passenger
+|Samara Jalal
+|
+|
+|-
+|Crash Site
+|Farah Karim
+|
+|
+|-
+|Flashpoint
+|John "Soap" MacTavish
+|
+|
+|-
+|Oligarch
+|John "Soap" MacTavish
+|
+|
+|-
+|Highrise
+|Kyle "Gaz" Garrick
+|
+|
+|-
+|Frozen Tundra
+|John Price
+|
+|
+|-
+|Gora Dam
+|Simon "Ghost" Riley
+|
+|
+|-
+|Danger Close
+|Phillip Graves
+|
+|
+|-
+|Trojan Horse
+|John "Soap" MacTavish
+|
+|
+|-
+|Countdown
+|John Price
+|
+|
+|}
+{{hidef}}
+
+=== 黑色行動系列 ===
+==== 決勝時刻：黑色行動 / Call of Duty: Black Ops ====
+* 系列代數：7
+* 發行年分：2010
+* 製作團隊：Treyarch
+* 黑色行動系列第一部，世界觀延續《戰爭世界》。
+* 主角為美國中央情報局所屬的特工亞歷克斯·梅森，劇情戰役描寫冷戰期間美國與蘇聯的對峙。
+** 梅森也是全系列首位「非無口系」的主角，即使在關卡途中也有發言及參與對話。
+* 與過往作品偏直白敘事的風格相比，本作大膽地採用了倒敘法並結合敘事性詭計，使劇情更加曲折離奇，進而成為黑色行動系列的一大特色。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Operation 40
+|Alex Mason
+|
+|
+|-
+|Vorkuta
+|Alex Mason
+|
+|
+|-
+|U.S.D.D.
+|Alex Mason
+|
+|
+|-
+|Executive Order
+|Alex Mason
+|
+|
+|-
+|S.O.G.
+|Alex Mason
+|
+|
+|-
+|The Defector
+|Alex Mason
+|
+|
+|-
+|Numbers
+|Jason Hudson
+|
+|
+|-
+|Project Nova
+|Viktor Reznov
+|
+|
+|-
+|Victor Charlie
+|Alex Mason
+|
+|
+|-
+|Crash Site
+|Alex Mason
+|
+|
+|-
+|WMD
+|Jason Hudson
+|
+|
+|-
+|Payback
+|Alex Mason
+|
+|
+|-
+|Rebirth
+|Alex Mason<br>Jason Hudson
+|
+|
+|-
+|Revelations
+|Alex Mason
+|
+|
+|-
+|Redemption
+|Alex Mason
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：黑色行動II / Call of Duty: Black Ops II ====
+* 系列代數：9
+* 發行年分：2012
+* 製作團隊：Treyarch
+* 世界觀延續前作，講述2025年發生在美國與中國之間的「第二次冷戰」，為系列首次描寫未來戰爭主題。
+* 主角為梅森父子，採用過去與現在穿插的方式推進劇情。
+** 同時也有部分關卡會轉換到反派梅南德茲的視角，也是系列少數有描寫反派主視角的遊戲。
+* 依照劇情戰役途中的選擇而有結局分歧。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''主線任務'''
+|-
+|Pyrrhic Victory
+|Alex Mason
+|
+|
+|-
+|Celerium
+|David "Section" Mason
+|
+|
+|-
+|Old Wounds
+|Alex Mason
+|
+|
+|-
+|Time and Fate
+|Alex Mason<br>Raul Menendez
+|
+|
+|-
+|Fallen Angel
+|David "Section" Mason
+|
+|
+|-
+|Karma
+|David "Section" Mason
+|
+|
+|-
+|Suffer With Me
+|Frank Woods
+|
+|
+|-
+|Achilles' Veil
+|Farid<br>David "Section" Mason
+|
+|
+|-
+|Odysseus
+|David "Section" Mason<br>Raul Menendez
+|
+|
+|-
+|Cordis Die
+|David "Section" Mason
+|
+|
+|-
+|Judgment Day
+|David "Section" Mason
+|
+|
+|-
+!colspan="4"|'''支線任務'''
+|-
+|Strikeforce Tutorial
+|JSOC Strike Force
+|
+|
+|-
+|FOB Spectre
+|JSOC Strike Force
+|
+|
+|-
+|Shipwreck
+|JSOC Strike Force
+|
+|
+|-
+|I.E.D.
+|JSOC Strike Force
+|
+|
+|-
+|Second Chance
+|JSOC Strike Force
+|
+|
+|-
+|Dispatch
+|JSOC Strike Force
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：黑色行動III / Call of Duty: Black Ops III ====
+* 系列代數：12
+* 發行年分：2015
+* 製作團隊：Treyarch
+* 世界觀為2065年，一個以「溫斯路協約組織（Winslow Accord）」、「共同防衛公約組織（Common Defense Pact）」及「尼羅河同盟（Nile River Coalition）」三大架空勢力構成的新冷戰局面。
+** {{censored|延續自《黑色行動II》的壞結局，當主角選擇殺死反派梅南德茲時引起的全球暴動摧毀了美國白宮，因而造成世界格局被重劃。}}
+* 主角是一名溫斯路協約組織所屬的無名士兵（性別與造型自定義），在代號「黑色行動」中拯救埃及首相時受重傷而接受改造手術。
+** <s>劇情的燒腦程度也堪稱歷代之最，就算全破的玩家也未必能搞懂劇情。</s>
+** <s>結果導致戰役模式的破關率成為系列墊底之外，連帶造成次作取消單人戰役。</s>
+* 從本作以後的系列作品皆有官方繁簡中文版。
+* <s>系列首次容量突破100GB，從此作以後的每一部作品都是百G規模的「年度大作（字面意義）」。</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Black Ops
+|The Player
+|
+|
+|-
+|New World
+|The Player
+|
+|
+|-
+|In Darkness
+|The Player
+|
+|
+|-
+|Provocation
+|The Player
+|
+|
+|-
+|Hypocenter
+|The Player
+|
+|
+|-
+|Vengeance
+|The Player
+|
+|
+|-
+|Rise & Fall
+|The Player
+|
+|
+|-
+|Demon Within
+|The Player
+|
+|
+|-
+|Sand Castle
+|The Player
+|
+|
+|-
+|Lotus Towers
+|The Player
+|
+|
+|-
+|Life
+|The Player
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：黑色行動4 / Call of Duty: Black Ops 4 ====
+* 系列代數：15
+* 發行年分：2018
+* 製作團隊：Treyarch
+* 首次取消劇情戰役，改成類似大逃殺風格的「黑色戰域」模式，也因此成為系列罕見只有多人模式的作品。
+* 劇情則改為各個傭兵（玩家操作角色）的背景故事，藉由達成條件可以解鎖相關劇情影片。
+* 自本作起的系列作品都會綁定暴雪的平台Battle.net。
+{{hideh|訓練關卡}}
+{|class="wikitable" style="margin:auto;"
+!訓練角色
+!關卡地圖
+!地圖規則
+!說明
+!備註
+|-
+|Ajax
+|Arsenal
+|Team Deathmatch
+|
+|
+|-
+|Battery
+|Contraband
+|Domination
+|
+|
+|-
+|Crash
+|Gridlock
+|Kill Confirmed
+|
+|
+|-
+|Firebreak
+|Contraband
+|Hardpoint
+|
+|
+|-
+|Nomad
+|Frequency
+|Search & Destory
+|
+|
+|-
+|Prophet
+|Seaside
+|Free-For-All
+|
+|
+|-
+|Recon
+|Seaside
+|Control
+|
+|
+|-
+|Ruin
+|Payload
+|Hardpoint
+|
+|
+|-
+|Seraph
+|Hacienda
+|Control
+|
+|
+|-
+|Torque
+|Frequency
+|Team Deathmatch
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：黑色行動冷戰 / Call of Duty: Black Ops Cold War ====
+* 系列代數：17
+* 發行年分：2020
+* 製作團隊：Treyarch
+* 黑色行動系列的第五部作品，背景回歸《黑色行動》的冷戰。
+* 劇情戰役主角「鈴」與《黑色行動III》主角同樣可以自定義性別，設定上是美國中央情報局所屬特工。
+* 與《黑色行動II》同樣有結局分歧。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''主線任務'''
+|-
+|Nowhere Left to Run
+|Alex Mason
+|
+|
+|-
+|Fracture Jaw
+|Bell
+|
+|
+|-
+|Brick in the Wall
+|Bell
+|
+|
+|-
+|Redlight, Greenlight
+|Bell
+|
+|
+|-
+|Echoes of a Cold War
+|Alex Mason
+|
+|
+|-
+|Desperate Measures
+|Dimitri Belikov<br>Bell
+|
+|
+|-
+|End of the Line
+|Bell
+|
+|
+|-
+|Break on Through
+|Bell
+|
+|
+|-
+|The Final Countdown
+|Bell
+|
+|
+|-
+|Ashes to Ashes
+|Bell
+|
+|
+|-
+!colspan="4"|'''支線任務'''
+|-
+|Operation Chaos
+|Alex Mason
+|
+|
+|-
+|Operation Red Circus
+|Alex Mason
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：黑色行動6 / Call of Duty: Black Ops 6 ====
+* 系列代數：21
+* 發行年分：2024
+* 製作團隊：Treyarch
+* 黑色行動系列的第六部作品，背景為1990波斯灣戰爭。
+* <s>然而波灣戰爭只是當作楔子的背景板，真正的主線是抓CIA內鬼。</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Bishop Takes Rook
+|William "Case" Calderon
+|
+|
+|-
+|Blood Feud
+|William "Case" Calderon
+|
+|
+|-
+|Most Wanted
+|William "Case" Calderon
+|
+|
+|-
+|Hunting Season
+|William "Case" Calderon
+|
+|
+|-
+|The Cradle
+|William "Case" Calderon
+|
+|
+|-
+|Emergence
+|William "Case" Calderon
+|
+|
+|-
+|High Rollers
+|Troy Marshall
+|
+|
+|-
+|Ground Control
+|William "Case" Calderon
+|
+|
+|-
+|Under the Radar
+|Sevati "Sev" Dumas
+|
+|
+|-
+|Separation Anxiety
+|Jane Harrow 
+|
+|
+|-
+|Checkmate
+|William "Case" Calderon
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：黑色行動7 / Call of Duty: Black Ops 7 ====
+* 系列代數：22
+* 發行年分：2025
+* 製作團隊：Treyarch
+* 黑色行動系列的第七部作品，背景再度回到《黑色行動2》的未來戰場。
+* 主角為《黑色行動2》主角大衛·「斷戟」·梅森，時間接續《黑色行動2》壞結局十年後。
+* 戰役模式變成四人合作地圖
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Exposure
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Inside
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Distortion
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Escalation
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Disruption
+|Slade "Razor" Barrick<br>Nora Anderson<br>Wei Lin<br>Axel Vermaak
+|
+|
+|-
+|Collapse
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Fracture
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Quarantine
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Suppression
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Breakpoint
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|-
+|Containment
+|David "Section" Mason<br>Mike Harper<br>Eric Samuels<br>Leilani "50/50" Tupuola
+|
+|
+|}
+{{hidef}}
+
+=== 其他 ===
+==== 決勝時刻：魅影 / Call of Duty: Ghosts ====
+* 系列代數：10
+* 發行年分：2013
+* 製作團隊：Infinity Ward
+* 世界觀為南美洲諸國取代中東成為石油大國並組成南美聯邦向美國宣戰的平行世界。
+* 劇情戰役以魅影小隊所屬的沃克兄弟為主角。
+* 系列第一部第八世代主機作品<s>，不過接在《現代戰爭3 (2011)》與《黑色行動II》這兩部高評價作品後面，在各種意義上都很不妙</s>。
+* <s>第一位序章便當役的出道（設定上是衛星大砲的守軍，序章就是講他們被南美聯邦襲擊導致全滅的故事）。</s>
+* <s>從結局劇情{{censored|主角被反派捉去洗腦}}來看應該有機會出續作，但最後不了了之的殘念系作品。</s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Ghost Stories
+|Logan Walker<br>Baker
+|
+|
+|-
+|Brave New World
+|Logan Walker
+|
+|
+|-
+|No Man's Land
+|Logan Walker
+|
+|
+|-
+|Struck Down
+|Logan Walker
+|
+|
+|-
+|Homecoming
+|Logan Walker
+|
+|
+|-
+|Legends Never Die
+|Elias Walker
+|
+|
+|-
+|Federation Day
+|Logan Walker
+|
+|
+|-
+|Birds of Prey
+|Logan Walker
+|
+|
+|-
+|The Hunted
+|Logan Walker
+|
+|
+|-
+|Clockwork
+|Logan Walker
+|
+|
+|-
+|Atlas Falls
+|Logan Walker
+|
+|
+|-
+|Into the Deep
+|Logan Walker
+|
+|
+|-
+|End of the Line
+|Logan Walker
+|
+|
+|-
+|Sin City
+|Logan Walker
+|
+|
+|-
+|All or Nothing
+|Logan Walker
+|
+|
+|-
+|Severed Ties
+|Logan Walker
+|
+|
+|-
+|Loki
+|Thompson
+|
+|
+|-
+|The Ghost Killer
+|Logan Walker
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：先進戰爭 / Call of Duty: Advanced Warfare ====
+* 系列代數：11
+* 發行年分：2014
+* 製作團隊：Sledgehammer Games
+* 主題為2054年的近未來，在此背景下士兵有配置了提升機動性的動力服以實施多段跳躍＆跑牆＆索敵等功能。
+* 劇情戰役主角為美國軍前海陸隊員傑克·米契爾，描寫因傷退役的他加入民間軍事公司ATLAS與恐怖組織KVA之間發生的戰事。
+** 在劇情上也有用相當多的篇幅描寫ATLAS對美國政府的不信任{{censored|也最終導致主角與ATLAS決裂}}<s>，不過大概是黑美國黑太厲害結果被上面摸頭後和諧了不少劇情</s>。
+** <s>[[中國大陸的審查制度|結果本作在反美情緒高漲的中國不意外的被吹捧成神作。]]</s>
+* <s>Press F to Pay Respects<ref>出自遊戲第二章開頭主角參加陣亡戰友葬禮時的情境，一部分玩家認為在理應莊嚴肅穆的葬禮場合出現要求玩家輸入指令的提示很突兀因而成為迷因。</ref></s>
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+|Induction
+|Jack Mitchell
+|
+|
+|-
+|Atlas
+|Jack Mitchell
+|
+|
+|-
+|Traffic
+|Jack Mitchell
+|
+|
+|-
+|Fission
+|Jack Mitchell
+|
+|
+|-
+|Aftermath
+|Jack Mitchell
+|
+|
+|-
+|Manhunt
+|Jack Mitchell
+|
+|
+|-
+|Utopia
+|Jack Mitchell
+|
+|
+|-
+|Sentinel
+|Jack Mitchell
+|
+|
+|-
+|Crash
+|Jack Mitchell
+|
+|
+|-
+|Bio Lab
+|Jack Mitchell
+|
+|
+|-
+|Collapse
+|Jack Mitchell
+|
+|
+|-
+|Armada
+|Jack Mitchell
+|
+|
+|-
+|Throttle
+|Jack Mitchell
+|
+|
+|-
+|Captured
+|Jack Mitchell
+|
+|
+|-
+|Terminus
+|Jack Mitchell
+|
+|
+|}
+{{hidef}}
+
+==== 決勝時刻：無盡戰爭 / Call of Duty: Infinite Warfare ====
+* 系列代數：13
+* 發行年分：2016
+* 製作團隊：Infinity Ward
+* 世界觀為科幻風格的宇宙戰爭，在以往系列中僅在少數關卡出現的低重力與太空關卡設計在本作成為主幹。
+* 劇情戰役以聯合國所屬的復仇號艦長尼克·雷耶斯為主角，描寫他與戰友們率領瀕臨全滅的艦隊對抗試圖攻擊地球的火星殖民地。
+** {{censored|綜觀系列其劇情慘烈程度也足以進前三，最後包括主角在內復仇號全艦七百多人死到剩下四人。}}
+* 由於動視最早將本作綁定《現代戰爭重製版》發售的謎之銷售策略，加上已經連續好幾部使用科幻題材導致部分玩家疲乏<s>，再加上隔壁《戰地風雲1》異軍突起</s>的緣故，在發售前就遭到各方的強烈批評。
+* 直到發售後本作的評價才逐漸回昇，某種意義上是「被埋沒的良作」。
+{{hideh|劇情戰役}}
+{|class="wikitable" style="margin:auto;"
+!戰役標題
+!操作角色
+!說明
+!備註
+|-
+!colspan="4"|'''主線任務'''
+|-
+|Rising Threat
+|Dan "Wolf" Lyall
+|
+|
+|-
+|Black Sky
+|Nick Reyes
+|
+|
+|-
+|Operation Port Armor
+|Nick Reyes
+|
+|
+|-
+|Operation Burn Water
+|Nick Reyes
+|
+|
+|-
+|Operation Dark Quarry
+|Nick Reyes
+|
+|
+|-
+|Operation Black Flag
+|Nick Reyes
+|
+|
+|-
+|Operation Blood Storm
+|Nick Reyes<br>E3N "Ethan"
+|
+|
+|-
+!colspan="4"|'''強襲任務'''
+|-
+|Operation Taken Dagger
+|Nick Reyes
+|
+|
+|-
+|Operation Phoenix
+|Nick Reyes
+|
+|
+|-
+|Operation D-Con
+|Nick Reyes
+|
+|
+|-
+|Operation Deep Execute
+|Nick Reyes
+|
+|
+|-
+!colspan="4"|'''戰機任務'''
+|-
+|Operation Safe Harbor
+|Nick Reyes
+|
+|
+|-
+|Operation Pure Threat
+|Nick Reyes
+|
+|
+|-
+|Operation Grave Robber
+|Nick Reyes
+|
+|
+|-
+|Operation Sudden Death
+|Nick Reyes
+|
+|
+|-
+|Operation Trace Kill
+|Nick Reyes
+|
+|
+|}
+{{hidef}}
+
+== 劇情模式角色列表 ==
+=== 《一代》登場 ===
+* 馬丁（Martin）
+** 美國101空降師506步兵團B連二等兵，美國篇主角。
+** 在D-Day中擔任探路者先行降落於諾曼第協助空降部隊探路，後來參與了救援英國軍官的劫獄任務與突出部之役。
+
+* 埃文斯（Evans）
+** 英國空降特勤隊第六空降師→第二空降特勤隊中士，英國篇主角。
+** 在D-Day乘滑翔機突襲康城奪下橋梁，之後轉戰挪威與德國破壞了戰艦鐵必制以及V-2飛彈基地。
+
+* 阿列克謝（Alexei）
+** 蘇聯第13近衛步兵師上士，蘇聯篇主角。
+** 從史達林格勒一路打到柏林，並親眼見證紅旗在國會大廈上飄揚。
+
+=== 《聯合行動》登場 ===
+* 萊利（Riley）
+** 美國101空降師506步兵團B連下士，美國篇主角。
+** 參與了整場突出部之役，先後在巴斯通、佛伊和諾維爾作戰。
+
+* 道爾（Doyle）
+** 英國皇家空軍中士，英國篇主角。
+** 原為B-17轟炸機的機槍手，在荷蘭被擊落後轉為特種部隊，之後在西西里突擊德軍陣地。
+
+* 尤里（Yuri）
+** 蘇聯第67近衛步兵師列兵，蘇聯篇主角。
+** 開頭在庫斯克擋下德軍進攻，之後參與普洛霍羅夫卡戰役與第四次哈爾科夫會戰。
+
+=== 《尖峰時刻》登場 ===
+* 亞歷山大·索柯洛夫（Aleksandr Sokolov）
+** 蘇聯紅軍第13近衛步槍師二等兵，東線戰役篇主角。
+
+* 坦雅·帕夫洛芙娜（Tanya Pavelovna）
+** 蘇聯紅軍第13近衛步槍師中尉，東線戰役篇主角。
+
+* 尼古萊·巴達諾夫（Nikolai Badanov）
+** 蘇聯紅軍第24坦克軍團少校，東線戰役篇主角。
+
+* 愛德華·卡萊爾（Edward Carlyle）
+** 英國陸軍中士，北非戰役篇主角。
+
+* 查克·沃克（Chuck Walker）
+** 美國陸軍第一步兵師中士，西線戰役篇主角。
+
+=== 《二代》登場 ===
+* 瓦西里·伊凡諾維奇·科斯洛夫（Vasili Ivanovich Koslov）
+** 蘇聯第13親衛步槍師團二等兵，蘇聯篇主角。
+** 在史達林格勒之戰中深入敵後破壞了多個德軍坦克，並作為狙擊手掩護本隊的進軍。
+
+* 約翰·戴維斯（John Davis）
+** 英國第7裝甲師團中士，英國篇主角。
+** 在阿拉曼戰役中深入敵後摧毀德軍營寨，後續在康城之戰中炸毀了德軍的虎式坦克。
+
+* 大衛·威爾士（David Welsh）
+** 英國第7裝甲師團十字軍戰車指揮。
+** 與同隊的戰車在利比亞與德軍二號戰車交火。
+
+* 比爾·泰勒（Bill Taylor）
+** 美國陸軍第2遊騎兵下士，美國篇主角。
+** 跟當時業界爛大街的奧瑪哈海灘登陸不同，是從奧克角的峭壁爬上去的<s>，還要一下登陸艇就差點被炸死</s>。
+
+=== 《鐵血軍營》登場 ===
+* 隆納德·羅傑（Roland Roger）
+** 美國第一步兵師「大紅一師」中士，本作主角。
+
+* 斯特萊奇（Stretch）
+** 美軍投彈手，隆納德的手足兄弟。
+
+=== 《三代》登場 ===
+* 尼克斯（Nichols）
+** 美國陸軍第29步兵師團所屬，美國篇主角。
+
+* 詹姆士·道爾（James Doyle）
+** 英國特殊空降部隊所屬，英國篇主角。
+
+* 喬·科爾（Joe Cole）
+** 加拿大陸軍高地聯隊所屬，加拿大篇主角。
+
+* 波哈特·沃伊切赫（Bohater Wojciech）
+** 波蘭第1騎兵師團所屬，波蘭篇主角。
+
+=== 《現代戰爭 (2007)》登場 ===
+* 約翰·「索普」·麥克塔維什（John "Soap" MacTavish）
+** 英國空降特勤隊中士，《現代戰爭 (2007)》空降特勤隊側主角。
+*** 在《現代戰爭 (2007)》結束後的石首魚行動中因為普萊斯被俘而成為141特遣隊的隊長，在救出普萊斯後再度將隊長頭銜還給普萊斯。
+*** 在《現代戰爭2 (2009)》中指示小強執行[[Plan B]]的部分一度成為迷因。
+*** {{censored|在謝菲爾德背叛特遣隊並殺死小強與幽靈後，與普萊斯一同前往追殺之，雖然艱辛獲勝但也受了嚴重的傷。}}
+*** {{censored|在《現代戰爭3 (2011)》為了保護尤里被捲入爆炸傷重身亡。}}
+** 在新系列於《現代戰爭II (2022)》作為主角之一回歸。
+*** 設定上更加強調其蘇格蘭人的身分，在劇情中偶而會講出家鄉話<s>然後被幽靈吐槽</s>。
+*** {{censored|在《現代戰爭III (2023)》被馬卡洛夫槍殺<s>和舊版的超豪華便當相比廉價不少</s>。}}
+** {{censored|<s>舊普萊斯：「NO!NO!NO!NO!SOAP!!!!!（悲憤甚至絕望）」<br>新普萊斯：「ONE K.I.A.（毫無關心）」</s>}}
+** 造型取自了現代戰爭題材電影《獵日風暴》中登場角色凱利（約翰尼·梅辛納飾演）。
+
+* 約翰·普萊斯（John Price）
+** 英國空降特勤隊上尉暨Bravo小隊長。
+*** 於《現代戰爭 (2007)》結束後成為141特遣隊的隊長，後於石首魚行動中為替隊友斷後而被捉，於《現代戰爭2 (2009)》時被索普等人救出。
+*** {{censored|在謝菲爾德背叛特遣隊並殺死小強與幽靈後，與索普一同前往追殺之。}}
+*** {{censored|在《現代戰爭3 (2011)》與尤里作為最後的141特遣隊成員前往杜拜追殺馬卡洛夫，最終在尤里的犧牲下以鋼索將馬卡洛夫絞殺，替因馬卡洛夫而死的隊友們報了仇。}}
+** 在新系列繼續作為主角方的領隊出場，與萊斯威在《現代戰爭 (2019)》結局提及成立141特遣隊。
+** 在劇情補正下，與幽靈並列為本系列最高人氣角色之一。
+
+* 加斯（Gaz）
+** 英國空降特勤隊Bravo小隊副隊長。
+** 作為指導員指導新入隊的索普，並講出了堪稱系列最知名的台詞：「切換副武器永遠比換彈匣更快」。
+** {{censored|在與伊姆蘭的最終決戰時遭其槍殺身亡。}}
+
+* 保羅·傑克森（Paul Jackson）
+** 美國海軍陸戰隊中士，《現代戰爭 (2007)》海軍陸戰隊側主角。
+** {{censored|在追捕阿薩德時因為核彈的爆發，連同近三萬名隊友戰死。}}
+
+* 瓦斯奎茲（Vasquez）
+** 美國海軍陸戰隊中尉。
+** {{censored|在追捕阿薩德時因為核彈的爆發，連同近三萬名隊友戰死。}}
+
+* 格里戈斯（Griggs）
+** 美國海軍陸戰隊上士。
+** {{censored|在攻擊首都的行動前被調往支援英俄方面，最終在與伊姆蘭的交火之際陣亡。}}
+
+* 霸主（Overlord）
+** 美軍司令部。
+
+* 卡馬洛夫（Kamarov）
+** 俄國陸軍特殊部隊中士，普萊斯的盟友。
+** {{censored|在《現代戰爭3》協助141特遣隊潛入捷克時被馬卡洛夫捕獲並被C4炸死。}}
+** <s>雖然是正派，但因為名字跟大反派馬卡洛夫太像的緣故而風評被害。</s>
+
+* 尼古萊（Nikolai）
+** 俄籍特務，普萊斯的線人。
+** <s>141的工具人暨幕後最大功臣，好幾次出狀況都由他收拾善後。</s>
+
+* 伊姆蘭·扎卡伏（Imran Zakhaev）
+** 俄羅斯極端民族主義集團的首領。
+
+* 維克托·扎卡伏（Victor Zakhaev）
+** 俄羅斯極端民族主義集團的幹部，伊姆蘭的兒子。
+
+* 弗拉基米爾·馬卡洛夫（Vladimir Makarov）
+** 俄羅斯極端民族主義集團的幹部，伊姆蘭的副官。
+** 伊姆蘭死後成為新任首領，也是貫穿整部現代戰爭系列的核心反派。
+** 在新系列於《現代戰爭III (2023)》登場，序章在同夥協助下越獄。
+
+* 哈立德·阿薩德（Khaled Al-Asad）
+** 中東暴動分子的指揮官。
+
+* 亞西爾·阿勒富拉尼（Yasir Al-Fulani）
+** 中東某國總理，遭阿薩德率領的部隊槍決<s>製作組在過程中還讓玩家得用第一人稱「體驗」其被槍決前的絕望</s>。
+
+=== 《戰爭世界》登場 ===
+* C·米勒（C. Miller）
+** 美國海軍陸戰隊第1師二等兵，太平洋戰役篇主角。
+** 開場在布塔里塔里被日軍俘虜刑求，之後被羅巴克等人率軍救出，參與了貝里琉島與沖繩戰役。
+
+* 羅巴克（Roebuck）
+** 美國海軍陸戰隊第2突襲大隊伍長→第1師中士，太平洋戰役篇同伴角色。
+** {{censored|視玩家反應，有可能在沖繩被詐降的日軍殺死。}}
+** <s>[[Big Boss]]（二戰的樣子）<ref>CV同MGSV的Big Boss，正好他在幻痛第一章要拯救的戰友是和平·'''米勒'''（Kazuhira Miller）</ref></s>
+
+* 迪米特里·彼得連科（Dimitri Petrenko）
+** 蘇聯第62步兵師列兵，東線戰役篇主角。
+** 在史達林格勒幾度死裡逃生，之後一路奮戰到柏林，在國會大廈上舉起紅旗。
+** {{censored|於《黑色行動》再度出場，遭到德拉戈維奇與克拉夫琴科當作新星毒氣的人體實驗對象而慘遭虐殺。}}
+** {{censored|雷澤諾夫對他的枉死感到惋惜並評論道：他更值得像英雄般光榮戰死在柏林，而不是像實驗動物一般白白死去。}}
+
+* 維克多·雷澤諾夫（Viktor Reznov）
+** 蘇聯第45步兵師中士，東線戰役篇同伴角色。
+** {{censored|於《黑色行動》再度出場，為了協助梅森逃離沃爾庫塔集中營而被炸死。}}
+** {{censored|因為戰友的死亡而憎恨著德拉戈維奇一派，因此利用了被其洗腦但被視為失敗品捨棄的梅森，甚至用自己的死亡給梅森植入對德拉戈維奇的仇恨讓他幫自己完成復仇。}}
+
+=== 《現代戰爭2 (2009)》登場 ===
+* 約瑟夫·艾倫（Joseph Allen）
+** 美國第75遊騎兵團第1營一等兵，《現代戰爭2 (2009)》遊騎兵側主角（前半）。
+** 在服役期間的優異表現被謝菲爾德揀選成為114特遣隊的一員並被派往馬卡洛夫手下臥底，化名「阿列克謝·鮑羅丁（Alexei Borodin）」。
+** {{censored|但謝菲爾德又暗中將他臥底的身分洩漏給馬卡洛夫，最終導致他被馬卡洛夫槍殺身亡甚至背了莫斯科機場屠殺事件的鍋。}}
+
+* 詹姆斯·拉米雷斯（James Ramirez）
+** 美國第75遊騎兵團第1營一等兵，《現代戰爭2 (2009)》遊騎兵側主角（後半）。
+** <s>超級[[工具人]]，在遊戲裡不外乎就是四處幫弗利跑腿，彷彿整個營中只有他一個人有在認真工作。</s>
+
+* 弗利（Foley）
+** 美國第75遊騎兵團第1營中士，艾倫與拉米雷斯的直屬長官。
+** <s>Ramirez, Do Everything!</s>
+
+* 謝菲爾德（Shepherd）
+** 美國陸軍中將，141特遣隊與第75遊騎兵團的指揮官。
+*** {{censored|在追捕阿薩德時因為核爆導致三萬部屬喪生，對於美國政府軟弱態度不滿的他決定藉由馬卡洛夫事件激化美俄雙方衝突。}}
+*** {{censored|背叛了141特遣隊並殺死了幽靈與小強，最終被索普與普萊斯討伐。}}
+*** {{censored|重製版在第一章訓練關卡時，如果槍殺他可以取得「偏執先知」成就。}}
+** 在新系列同樣為141特遣隊的指揮官<s>然而形象和劇情刻畫與舊版相比劣化不少</s>。
+*** {{censored|因為害怕自己非法走私軍火的行徑暴露而企圖與葛雷夫聯手暗算141特遣隊，事敗後更將責任甩鍋給葛雷夫。}}
+*** {{censored|於《現代戰爭III (2023)》結局<s>非常莫名其妙的</s>被普萊斯槍殺。}}
+
+* 加里·「小強」·桑德森（Gary "Roach" Sanderson）
+** 141特遣隊所屬，《現代戰爭2 (2009)》141特遣隊側主角。
+** {{censored|最終被謝菲爾德當作棄子槍殺焚屍。}}
+** <s>在新系列跟一眾美軍同樣慘遭鬼隱，連作為主要搭檔的幽靈也跑去跟索普組CP了。</s>
+
+* 西蒙·「幽靈」·萊利（Simon "Ghost" Riley）
+** 141特遣隊所屬，因為過去的舊傷而頭戴骷髏模樣的面罩。
+*** 舊系列配音與{{censored|前作領便當的}}加斯為同一人，在劇情的定位也相似。
+*** {{censored|過去曾因叛徒洩密導致自己被毒梟囚禁虐待，更造成全家喪命，在將毒梟一眾殺光替家人報仇後被謝菲爾德挖角加入141特遣隊。}}
+*** {{censored|最終被謝菲爾德當作棄子槍殺焚屍。}}
+** 在新系列的《現代戰爭II (2022)》回歸，和索普組成搭檔。
+*** <s>關係好到成為腐CP不說，甚至在部分主操索普的關卡中幽靈還會在通訊中跟索普打情罵俏（誤）。</s>
+** 在劇情補正下，與普萊斯並列為本系列最高人氣角色之一。
+*** <s>但也因為高人氣的緣故，導致戰域一大堆造型組合包都是幽靈相關…</s>
+
+=== 《黑色行動》登場 ===
+* 亞歷克斯·梅森（Alex Mason）
+** 美國中央情報局特工，本作主角。
+** 於故事開始的1968年2月25日遭到{{censored|哈德森}}拘禁審問，黑色行動的故事也從他的記憶展開…
+** 於1961年4月17日的40號行動中暗殺卡斯楚失敗被俘，作為戰俘被轉交給德拉戈維奇並遭到不人道的拷問。
+** 後於沃爾庫塔勞改營中結識了同樣被囚禁的雷澤諾夫，隨後於1963年10月6日在其協助下逃回美國。
+** 之後1963年11月10日在甘迺迪總統的授意下，正式接下獵殺德拉戈維奇的任務。
+*** {{censored|然而在與總統的會議途中梅森卻下意識的差點對總統開槍。}}
+** 回國後因為不明原因{{censored|（實為德拉戈維奇洗腦的後遺症）}}腦海內總是會出現不明的數字{{censored|（實為暗示新星毒氣的運輸手段）}}。
+** {{censored|結局在破解密碼後成功粉碎德拉戈維奇的毒氣計畫並將其討伐，但其死前遺言與結局彩蛋中暗示梅森可能已在德拉戈維奇的洗腦下刺殺了甘迺迪總統…}}
+** {{censored|於《黑色行動2》依照玩家的選擇可能會被伍茲誤殺。}}
+
+* 法蘭克·伍茲（Frank Woods）
+** 美國中央情報局特工，梅森的同伴。
+** {{censored|於《黑色行動2》依照玩家的選擇可能會被欺騙而誤殺梅森。}}
+
+* 約瑟夫·鮑曼（Joseph Bowman）
+** 美國中央情報局特工，梅森的同伴。
+
+* 傑森·哈德森（Jason Hudson）
+** 美國中央情報局特工，梅森等人的長官。
+
+* 尼基塔·德拉戈維奇（Nikita Dragovich）
+** 蘇聯陸軍少將，新星計劃的創立者之一。
+
+* 列夫·克拉夫琴科（Lev Kravchenko）
+** 蘇聯陸軍上校，德拉戈維奇的副手。
+
+* 弗里德里希·施泰納（Friedrich Steiner）
+** 參與新星計畫的科學家，原納粹黨衛軍所屬。
+** {{censored|因為被德拉戈維奇拋棄而打算投誠美國，卻被雷澤諾夫搶先一步在梅森面前殺死。}}
+** {{censored|然而梅森越獄後所見的雷澤諾夫都是幻覺，實際上當時對施泰納下死手的正是梅森自己。}}
+
+* 丹尼爾·克拉克（Daniel Clarke）
+** 參與新星計畫的科學家。
+** 害怕被清算而逃到香港躲藏，在梅森等人的逼供途中被蘇聯的狙擊兵暗殺。
+
+=== 《現代戰爭3 (2011)》登場 ===
+* 德里克·「寒霜」·韋斯特布魯克（Derek "Frost" Westbrook）
+** 美國陸軍三角洲部隊金屬小隊所屬成員，《現代戰爭3 (2011)》三角洲部隊側主角。
+
+* 睡魔（Sandman）
+** 美國陸軍三角洲部隊金屬小隊的隊長，過去曾與普萊斯共事。
+** {{censored|在西伯利亞礦坑一戰中為了保護普萊斯一行人脫身而率領部隊斷後最終戰死。}}
+
+* 尤里（Yuri）
+** 俄國特種部隊，《現代戰爭3 (2011)》141特遣隊側主角。
+** 根據尼古萊的描述，他對馬卡洛夫的憎惡不亞於普萊斯<s>，所以本作是尤里的復仇</s>。
+** {{censored|曾是馬卡洛夫的手下，因為馬卡洛夫的極端行為而與他分道揚鑣。}}
+** {{censored|在馬卡洛夫的「別說俄語」行動前遭其射傷，獲救後成為尼古萊的手下。}}
+** {{censored|在《現代戰爭3 (2011)》與普萊斯作為最後的141特遣隊成員前往杜拜追殺馬卡洛夫，在最終決戰之際遭馬卡洛夫槍殺身亡。}}
+** 新系列於以「尤里·沃爾科夫（Yuri Volkov）」的名稱於《現代戰爭III (2023)》作為萊斯威的線人出場<s>，然而戲份就僅止於這幾分鐘了</s>。
+
+* 馬庫斯·伯恩斯（Marcus Burns）
+** 英國空降特勤隊中士。
+** {{censored|在馬卡洛夫將毒氣運送到英國時與部隊前往調查卻被捲入爆炸之中。}}
+
+* 安德烈·哈爾科夫（Andrei Harkov）
+** 俄國聯邦保衛局所屬。
+** 在總統被馬卡洛夫攻擊之際企圖營救卻遭後者槍殺。
+
+* 鮑里斯·沃謝夫斯基（Boris Vorshevsky）
+** 俄國總統。
+** 在前往漢堡和談的途中遭到馬卡洛夫率軍劫持。
+
+* 亞蓮娜·沃謝夫斯基（Alena Vorshevsky）
+** 俄國總統的女兒。
+** 在前往漢堡和談的途中遭到馬卡洛夫率軍劫持。
+
+* 戴維斯一家（The Davis）
+** 於第一章結尾登場的一家三口。
+** [[苦命人|悲劇]][[路人]]擔當，在放假時全家出遊結果被捲入化武攻擊導致全家被炸死。
+
+=== 《黑色行動II》登場 ===
+* 大衛·「斷戟」·梅森（David "Section" Mason）
+** 美國聯合特種作戰司令部所屬，亞歷克斯之子，本作主角。
+
+* 邁克·哈珀（Mike Harper）
+** 美國聯合特種作戰司令部所屬。
+** {{censored|視劇情分歧可能會被法里德殺死。}}
+
+* 湯米·布里格斯（Tommy Briggs）
+** 美國海軍上將。
+** {{censored|視劇情分歧可能會被梅南德茲與薩拉查殺死。}}
+
+* 法里德（Farid）
+** 美軍安插在核心之日的間諜。
+** {{censored|視劇情分歧可能會遭梅南德茲識破身分而被殺，或是為了保護克洛伊而中彈身亡。}}
+
+* 哈維爾·薩拉查（Javier Salazar）
+** 美國海豹部隊所屬。
+** {{censored|實際上是核心之日的臥底。}}
+
+* 克洛伊·「業」·林奇（Chloe "Karma" Lynch）
+** 前塔西佗科技公司所屬的女駭客。
+** {{censored|視劇情分歧可能會被核心之日劫持殺害，如果讓她存活的話結局會癱瘓核心之日的電腦病毒使梅南德茲的野心付諸流水。}}
+
+* 趙天（Tian-Zhao）
+** 中國戰略防禦聯盟主席，主張聯合其他勢力反對美國。
+** {{censored|在支線任務可以將其刺殺以換取中美聯合。}}
+
+* 勞爾·梅南德茲（Raul Menendez）
+** 核心之日的首領，過去與妹妹何塞芬娜遭到美國人迫害而仇視美國。
+** 在何塞芬娜遭伍茲與梅森誤殺後，詐死並誓言向兩人復仇。
+** {{censored|於克洛伊死亡而自己被逮捕的結局會利用電腦病毒癱瘓安保後越獄，親手將伍茲殺死後於何塞芬娜的墳墓前自焚。}}
+** {{censored|在被斷戟殺死的結局中其支持者會引發暴動顛覆美國政府，進而使世界格局重組…（接續《黑色行動III》）}}
+
+* 德法科（DeFalco）
+** 梅南德茲的副手。
+
+=== 《魅影》登場 ===
+* 羅根·沃克（Logan Walker）
+** 沃克家次子，本作主角。
+
+* 大衛·「赫許」·沃克（David "Hesh" Walker）
+** 沃克家長子，本作敘事者。
+
+* 伊萊亞斯·沃克（Elias Walker）
+** 沃克兄弟的父親，精銳部隊「魅影」的指揮官。
+
+* 加百列·T·洛克（Gabriel T. Rorke）
+** 前魅影部隊所屬，遭南美聯邦俘虜後成為對抗魅影部隊的尖兵。
+
+=== 《先進戰爭》登場 ===
+* 傑克·米契爾（Jack Mitchell）
+** 美國海軍陸戰隊→私人軍事公司ATLAS所屬，本作主角。
+** 因為左臂的傷勢以及好友的犧牲而退役，在喪禮時結識喬納森並被挖角加入ATLAS，左臂也因此裝上ATLAS的義肢。
+
+* 吉迪恩（Gideon）
+** 私人軍事公司ATLAS所屬，米契爾的前輩。
+
+* 小丑（Joker）
+** 私人軍事公司ATLAS所屬，米契爾的前輩。
+
+* 伊羅娜（Ilona）
+** 私人軍事公司ATLAS所屬，前俄羅斯特工。
+
+* 喬納森·艾恩斯（Jonathan Irons）
+** 私人軍事公司ATLAS的總裁，擁有比軍隊更加先進的軍備。
+
+* 約瑟夫·「哈迪斯」·齊赫澤（Joseph "Hades" Chkheidze）
+** 恐怖組織「KVA」領袖。
+
+* 皮埃爾·達諾瓦（Pierre Danois）
+** 恐怖組織「KVA」所屬的科學家。
+
+* 科馬克（Cormack）
+** 美國海軍陸戰隊中士，米契爾的長官。
+
+* 威爾·艾恩斯（Will Irons）
+** 美國海軍陸戰隊所屬，喬納森的兒子。
+** 序章結束之際被捲入敵方飛機的爆炸而戰死。
+
+=== 《黑色行動III》登場 ===
+* 玩家（The Player）
+** 溫斯洛協約國組織黑色行動小隊所屬成員，本作主角。
+
+* 雅各·罕醉克斯（Jacob Hendricks）
+** 溫斯洛協約國組織黑色行動小隊長。
+
+* 瑞秋·肯恩（Rachel Kane）
+** 溫斯洛協約國組織黑色行動小隊情報員。
+
+* 約翰·泰勒（John Taylor）
+** 前黑色行動成員，叛逃後操縱各方勢力與黑色行動小隊周旋。
+
+* 吳秀蘭（Goh Xiulan）
+** 新加坡地方黑手黨「54長生軍」的領袖。
+
+=== 《無盡戰爭》登場 ===
+* 尼克·雷耶斯（Nick Reyes）
+** 復仇者號的艦長，本作主角。
+** 在艦隊遭到火星方面攻擊時臨危受命擔起艦長一職。
+
+* 諾拉·索爾特（Nora Salter）
+** 復仇者號的大副，曾與雷耶斯共屬一個特種部隊。
+
+* 烏瑟夫·奧瑪爾（Usef Omar）
+** 復仇者號的艦員，原海軍陸戰隊所屬。
+** 性格剛毅的軍人，與伊桑之間水火不容。
+
+* 伊桑（E3N "Ethan"）
+** 復仇者號的艦員，第三世代戰術士兵機器人。
+** 性格活潑風趣，與奧瑪爾之間水火不容。
+** 可藉由駭客能力駭入敵對機器士兵進行破壞工作。
+
+* 奧黛莉·「麥克」·麥卡勒姆（Audrey "Mac" MaCallum）
+** 復仇者號的工程師，曾任船長但已經主動辭退。
+** 在艦內也是如同大前輩的存在，索爾特等人仍舊會稱其為老大（Chief）。
+
+* 賽林·柯特（Salen Kotch）
+** 火星殖民地的將軍，殖民地叛亂軍的總帥。
+
+=== 《二戰》登場 ===
+* 隆納德·「雷德」·丹尼爾（Ronald "Red" Daniels）
+** 美國第1步兵師十六步兵連隊所屬，本作主角。
+** 有寫日記的習慣，每話前的旁白就是他寫的日記內容。
+
+* 羅伯特·扎斯曼（Robert Zussman）
+** 美國第1步兵師十六步兵連隊所屬，丹尼爾的戰友。
+** 性格幽默風趣，與丹尼爾的關係非常親密。
+** 支援能力為提供補給品。
+** <s>本作被迫害擔當，不是受重傷就是被德軍俘虜，直接讓本作變成了《搶救扎斯曼大兵》。</s>
+
+* 德魯·斯泰爾斯（Drew Stiles）
+** 美國第1步兵師十六步兵連隊所屬，丹尼爾的戰友。
+*** 總是戴著[[眼鏡]]，被丹尼爾形容很像偽裝的[[超人]]。
+** 志願成為戰地記者，總是隨身攜帶著相機。
+** 支援能力為提供手榴彈。
+
+* 法蘭克·艾羅（Frank Aiello）
+** 美國第1步兵師十六步兵連隊所屬，丹尼爾的戰友。
+** 戰友團中從軍資歷最深。
+** 支援能力為提供煙霧彈。
+
+* 約瑟夫·透納（Joseph Turner）
+** 美國第1步兵師十六步兵連隊長。
+** 重視同伴勝於任務，與皮爾遜水火不容。
+** 支援能力為提供彈藥。
+
+* 威廉·皮爾遜（William Pierson）
+** 美國第1步兵師技術中士。
+** 重視任務勝於人命，與透納水火不容。
+** 支援能力為搜索敵方位置。
+
+* 奧古斯丁·裴瑞茲（Augustine Perez）
+** 美國第745戰車大隊上士。
+
+* 馬修·韋伯（Matthew Weber）
+** 美國第509戰鬥航空隊少尉。
+
+* 卡米爾·「盧梭」·丹尼斯（Camille "Rousseau" Denis）
+** 法國反納粹組織「馬奇游擊隊」所屬特務，全家都被納粹殺死。
+** 在丹尼爾與扎斯曼攔截火車時出面支援，後續在巴黎解放戰需操作她展開潛入行動。
+
+* 亞瑟·克勞利（Arthur Crowley）
+** 英國特戰部少校，巴黎解放作戰的指揮官。
+
+* 卡爾·費雪（Karl Fischer）
+** 克勞利安排在德軍的臥底，盧梭潛入行動的接頭人。
+
+* 海因里希（Heinrich）
+** 駐守巴黎的納粹軍官，殺死盧梭全家的元凶。
+
+=== 《黑色行動4》登場 ===
+* 潔西卡·梅森（Jessica Mason）
+** 斷戟的女兒，與父親同樣作為軍人活躍。
+
+* 莎瓦娜·梅森（Savannah Mason）
+** 斷戟的女兒，經營軍事公司並主導生化兵器的研究。
+
+=== 《現代戰爭 (2019)》登場 ===
+* 亞歷克·凱勒（Alex Keller）
+** 美國中情局特別活動部所屬特工，《現代戰爭 (2019)》主角。
+** 被中央派遣到烏茲斯坦協助法菈赫。
+** {{censored|在哈迪爾事件後因為美軍放棄支援烏茲斯坦而退出中情局，正式成為烏茲斯坦解放軍的一員。}}
+** {{censored|在喬治亞州攻擊巴可夫旗下化武工廠的行動中下落不明，後續證實存活但失去了左腿。}}
+
+* 凱特·萊斯威（Kate Laswell）
+** 美國中情局的情報員，特別活動部的監督。
+
+* 凱爾·「加斯」·蓋瑞克（Kyle "Gaz" Garrick）
+** 英國空降特勤隊中士，《現代戰爭 (2019)》與《現代戰爭II (2022)》主角。
+** 在一次反恐作戰結識普萊斯後成為其屬下，後續也被普萊斯提拔成為141特遣隊成員。
+
+* 法菈赫·卡林（Farah Karim）
+** 烏茲斯坦解放軍領袖，《現代戰爭 (2019)》與《現代戰爭III (2023)》主角。
+** 持續對抗著戕害家人佔領國土的巴可夫。
+
+* 哈迪爾·卡林（Hadir Karim）
+** 法菈赫的哥哥。
+** {{censored|為了對俄軍復仇而不惜聯手阿蓋塔拉甚至動用生化武器，導致烏茲斯坦解放軍也被國際定性為恐怖組織。}}
+
+* 羅曼·巴可夫（Roman Barkov）
+** 俄國陸軍將軍，併吞烏茲斯坦暨害死法菈赫全家的元凶。
+
+* 奧馬爾·「惡狼」·蘇拉曼（Omar "The Wolf" Sulaman）
+** 阿蓋塔拉的首領。
+
+* 賈馬爾·「屠夫」·拉哈（Jamal "The Butcher" Rahar）
+** 奧馬爾的副手。
+
+=== 《冷戰》登場 ===
+* 鈴（Bell）
+** 美國中央情報局特工，本作主角。
+
+* 羅素·阿德勒（Russell Adler）
+** 美國中央情報局特工，鈴的直屬長官。
+
+* 以利亞撒·阿祖萊（Eleazar Azoulay）
+** 美國中央情報局特工，曾服役於以色列國防軍。
+
+* 海倫·帕克（Helen Park）
+** 英國軍情六處特務，阿德勒的合作同伴。
+
+* 迪米特里·貝利考夫（Dimitri Belikov）
+** KGB安全部主任，CIA安排在俄軍的間諜。
+
+* 柏修斯（Perseus）
+** 身分背景不詳的蘇聯特務。
+
+=== 《先鋒》登場 ===
+* 亞瑟·金斯利（Arthur Kingsley）
+** 先鋒特遣隊隊長，英國第9傘兵中士→中尉<ref>然而最後一關的名稱顯示仍是中士<s>雖然一個中士領導一群尉級這種事根本天方夜譚，估計是製作組寫錯了</s></ref>，西線戰役篇主角暨本作敘事者。
+*** 角色原型為英國傘兵所屬的二戰黑人士兵西德尼·康奈爾（Sidney Cornell）。
+** 曾參加過湯加行動，在指揮官死後因為軍銜最大而繼任指揮官，以自身的出色領導能力帶領同伴完成登陸任務。
+** 獨特能力為指揮隊友。
+** <s>英國人表示為甚麼代表我們國家的會是黑(ry。</s>
+** <s>在序章間接害死諾瓦克的豬隊友。</s>
+
+* 波莉娜·佩特羅娃（Polina Petrova）
+** 先鋒特遣隊隊員，蘇聯紅軍第138步槍師團二等兵→中尉，東線戰役篇主角。
+*** 角色原型為擁有「狙擊女王」別名的蘇聯二戰神槍手柳德米拉·帕夫利琴科（Lyudmila Pavlichenko）。
+** 曾參加過史達林格勒戰役，繼承了父親被殺前留下的狙擊步槍，作為狙擊手「夜鶯女士」在戰場上活躍。
+** 獨特能力為穿越狹窄空間。
+
+* 韋德·傑克森（Wade Jackson）
+** 先鋒特遣隊隊員，美國海軍第6偵察中隊中尉，太平洋戰役篇主角。
+*** 角色原型為美國二戰王牌飛行員威農·米歇爾（Vernon Micheel）。
+** 曾參加過中途島海戰，在空戰中以一人之力擊墜了大量日軍戰機，甚至在墜機後與陸軍會合繼續對日軍[[開無雙]]<s>，某抗日神鷹表示咱們都不敢演這麼瘋</s>。
+** 獨特能力為<s>子彈時間</s>集中。
+
+* 盧卡斯·里格斯（Lucas Riggs）
+** 先鋒特遣隊隊員，澳大利亞圖卜魯格老鼠團二等兵→少尉，北非戰役篇主角。
+*** 角色原型為紐西蘭二戰士兵查爾斯·阿珀姆（Charles Upham）。
+** 曾參加過阿拉曼戰役，雖然憑藉著自己出色的爆破能力完成任務，卻因為毆打長官而幾乎入獄，被亞瑟發掘其才能後加入先鋒特遣隊。
+** 獨特能力為裝備四種攻擊道具。
+
+* 米洛斯·諾瓦克（Milos Novak）
+** 先鋒特遣隊隊員，南斯拉夫游擊隊所屬，序篇主角。
+** <s>本作最衰小[[路人]][[主人公(笑)|主角]]沒有之一，只在序章作為玩家視角出場也就算了，序章才結束就更莫名其妙的被納粹用椅子打死，而且到死都沒露過正臉…</s>
+
+* 理查德·韋伯（Richard Webb）
+** 先鋒特遣隊隊員，亞瑟的同袍。
+** <s>與樓上差不多衰小，在諾瓦克死後與其他特遣隊同伴被納粹鋃鐺入獄，結果其他人有主角光環死不了，只有他一個遭到審訊官槍斃。</s>
+
+=== 《現代戰爭II (2022)》登場 ===
+* 魯道夫·帕拉（Rodolfo Parra）
+** 墨西哥特種部隊「牛仔」軍士長。
+** <s>肥皂（墨西哥的樣子）</s>
+
+* 亞歷翰卓·瓦加斯（Alejandro Vargas）
+** 墨西哥特種部隊「牛仔」上校。
+** <s>錢隊（墨西哥的樣子）</s>
+
+* 菲利普·葛雷夫（Phillip Graves）
+** 私人軍事企業「影子連」的指揮官。
+** {{censored|終盤在謝菲爾德的指示下攻擊141特遣隊，最後連同坐駕的坦克被擊毀。}}
+** {{censored|但在後續的戰域劇情卻揭曉其生還，原因是「當時他並未坐在那輛坦克上」。}}
+
+* 影子-1 TV操作員（Shadow-1 TV Operator）
+** 影子連所屬空襲任務的操作員。
+
+* 哈桑·扎尼（Hassan Zyani）
+** 伊朗聖城軍少校。
+** {{censored|最終戰與索普對峙之際被幽靈用狙擊槍狙殺。}}
+
+* 戈布拉尼（Ghorbrani）
+** 伊朗聖城軍上將。
+** 劇情開場就被影子連用飛彈殺死。
+
+* 無名之王（El Sin Nombre）
+** 拉·阿瑪斯毒梟集團的領袖。
+** {{censored|本名「瓦萊麗雅·嘉薩（Valeria Garza）」前牛仔部隊所屬。}}
+
+* 迭戈·薩爾加多（Diego Salgado）
+** 無名之王的左右手。
+
+* 米蓮娜·羅曼諾娃（Milena Romanova）
+** 柯尼集團的金主。
+
+=== 《現代戰爭III (2023)》登場 ===
+* 安德烈·諾蘭（Andrei Nolan）
+** 馬卡洛夫的屬下，協助馬卡洛夫越獄後晉升為副官。
+
+* 伊凡·亞列克謝（Ivan Alexxeve）
+** 馬卡洛夫的屬下，協助馬卡洛夫越獄後遭追究責任而被處死。
+
+=== 《黑色行動6》登場 ===
+* 威廉·「凱斯」·卡爾德隆（William "Case" Calderon）
+** 黑色行動小組的成員，本作主角。
+** <s>吸了致死劑量的毒氣還能對殭屍開無雙的強者，您真的不是從生化危機或喪屍圍城過來的嗎。</s>
+
+* 特洛伊·馬歇爾（Troy Marshall）
+** 黑色行動小組的成員，美國中央情報局特工。
+
+* 菲利克斯·諾伊曼（Felix Neumann）
+** 黑色行動小組的成員，電子工程師。
+
+* 塞瓦蒂·杜馬斯（Sevati Dumas）
+** 黑色行動小組的成員，滲透專家。
+
+* 簡·哈羅（Jane Harrow）
+** 美國中央情報局特工。
+
+== 多人模式角色列表 ==
+=== 《黑色行動III》登場 ===
+* 東尼·「廢墟」·瓦爾許（Donnie "Ruin" Walsh）
+** 
+
+* 亞歷山大·「飛騎」·卡斯提羅（Alessandra "Outrider" Castillo）
+** 
+
+* 大衛·「先知」·威克斯（David "Prophet" Wilkes ）
+** 
+
+* 艾琳·「炮手」·貝克（Erin "Battery" Baker）
+** 
+
+* 何·「撒拉弗」·珍珍（He "Seraph" Zhen-Zhen）
+** 
+
+* 塔弗·「浪人」·羅賈斯（Tavo "Nomad" Rojas）
+** 
+
+* 實驗性戰爭機器人-115「死神」（Experimental War Robot-115 "Reaper"）
+** 
+
+* 亡靈（Spectre）
+** 
+
+* 克雷托夫·「火障」·海耶克（Krystof "Firebreak" Hejek）
+** 
+
+=== 《黑色行動4》登場 ===
+* 奇蘭·「乾坤」·麥基（Kieran "Torque" Mackay）
+** 
+
+* 科克·「埃阿斯」·羅素（Kerk "Ajax" Rossouw）
+** 
+
+* 克己·「斥侯」·木村（Katsumi "Recon" Kimura）
+** 
+
+* 喬拉·「迅雷」·巴茲利（Jarrah "Crash" Bazley）
+** 
+
+* 萊妮·「零」·沃格爾（Leni "Zero" Vogel）
+** 
+
+=== 《現代戰爭 (2019)》登場 ===
+* 雅各布·索恩（Jacob Thorne）
+** 同盟陣營所屬的特戰兵。
+
+* 夏洛特·「查莉」·約翰斯通（Charlotte "Charly" Johnstone）
+** 同盟陣營所屬的特戰兵。
+
+* 班傑明·「奧塔」·李（Benjamin "Otter" Lee）
+** 同盟陣營所屬的特戰兵。
+
+* 多米尼克·「多米諾」·譚（Dominique "Domino" Tam）
+** 同盟陣營所屬的特戰兵。
+
+* 漢斯·「泥人」·布勞斯坦（Hans "Golem" Blaustein）
+** 同盟陣營所屬的特戰兵。
+
+* 傑克遜·懷特（Jackson Wyatt）
+** 同盟陣營所屬的特戰兵。
+
+* 韋恩·「D-Day」·戴維斯（Wayne "D-Day" Davis）
+** 同盟陣營所屬的特戰兵。
+
+* 亞歷克西婭·「愛麗絲」·巴倫蘇埃拉（Alexia "Alice" Valenzuela）
+** 同盟陣營所屬的特戰兵。
+
+* 達米安·雷恩斯（Damian Raines）
+** 同盟陣營所屬的特戰兵。
+
+* 馬克沁·「麥諾塔」·貝爾（Maxim "Minotaur" Bale）
+** 聯軍陣營所屬的特戰兵。
+
+* 德米特里·貝爾（Dmitry Bale）
+** 聯軍陣營所屬的特戰兵。
+
+* 尼科迪姆·「羅迪恩」·埃格羅夫（Nikodim "Rodion" Egorov）
+** 聯軍陣營所屬的特戰兵。
+
+* 安哲·埃爾·薩拉夫（Azur El-Sarraf）
+** 聯軍陣營所屬的特戰兵。
+
+* 葛林奇（Grinch）
+** 聯軍陣營所屬的特戰兵。
+
+* 維克多·「贊恩」·梅蒂克（Viktor "Zane" Metiko）
+** 聯軍陣營所屬的特戰兵。
+
+* 伊戈·諾瓦克（Yegor Novak）
+** 聯軍陣營所屬的特戰兵。
+
+* 塞巴斯蒂安·克魯格（Sebastian Krueger）
+** 聯軍陣營所屬的特戰兵。
+
+* 雪梨「席德」（Sydney "Syd"）
+** 聯軍陣營所屬的特戰兵。
+
+=== 《冷戰》登場 ===
+* J·亨特（J.Hunter）
+** 北約陣營所屬的特戰兵。
+
+* K·宋（K.Song）
+** 北約陣營所屬的特戰兵。
+
+* 約翰·貝克（John Baker）
+** 北約陣營所屬的特戰兵。
+
+* 勞倫斯·西姆斯（Lawrence Sims）
+** 北約陣營所屬的特戰兵。
+
+* 懷特·瓊斯（Wyatt Jones）
+** 北約陣營所屬的特戰兵。
+
+* 澤娜·奧索（Zeyna Ossou）
+** 北約陣營所屬的特戰兵。
+
+* 特雷爾·沃爾夫（Terrell Wolf）
+** 北約陣營所屬的特戰兵。
+
+* 卡拉·里瓦斯（Karla Rivas）
+** 北約陣營所屬的特戰兵。
+
+* 賈巴里·薩拉赫（Jabari Salah）
+** 北約陣營所屬的特戰兵。
+
+* S·巴爾加斯（S.Vargas）
+** 華約陣營所屬的特戰兵。
+
+* 門多·加西亞（Mendo Garcia）
+** 華約陣營所屬的特戰兵。
+
+* 伊琳娜·波特諾娃（Yirina Portnova）
+** 華約陣營所屬的特戰兵。
+
+* 哈里·斯通（Harry Stone）
+** 華約陣營所屬的特戰兵。
+
+* J·鮑爾斯（J.Powers）
+** 華約陣營所屬的特戰兵。
+
+* 英戈·貝克（Ingo Beck）
+** 華約陣營所屬的特戰兵。
+
+* 維霍·「疤奇」·庫茲明（Vikhor "Stitch" Kuzmin）
+** 華約陣營所屬的特戰兵。
+
+* 卡帕諾·「納加」·萬榮（Kapano "Naga" Vang）
+** 華約陣營所屬的特戰兵。
+
+* 弗雷亞·「芮斯」·赫爾維格 （Freya "Wraith" Helvig）
+** 華約陣營所屬的特戰兵。
+
+* 羅馬·「奈特」·格雷（Roman "Knight" Gray）
+** 華約陣營所屬的特戰兵。
+
+* 馬克芯·安東諾夫（Maxim Antonov）
+** 華約陣營所屬的特戰兵。
+
+* 奧韋圖·「豺狼」·馬布扎（Owethu "Jackal" Mabuza）
+** 華約陣營所屬的特戰兵。
+
+=== 《先鋒》登場 ===
+* 丹尼爾·武·谷津（Daniel Take Yatsu）
+** 地獄犬特遣隊所屬的特戰兵。
+
+* 哈里瑪·贊巴迪（Halima Zambardi）
+** 地獄犬特遣隊所屬的特戰兵。
+
+* 索蘭吉·哈爾德韋克（Solange Hardewijk）
+** 暗影特遣隊所屬的特戰兵。
+
+* 重德·太田（Shigenori Ota）
+** 暗影特遣隊所屬的特戰兵。
+
+* 羅倫德·澤米特（Roland Zeimet）
+** 野蠻人特遣隊所屬的特戰兵。
+
+* 碧翠絲·默西爾（Beatrice Mercier）
+** 野蠻人特遣隊所屬的特戰兵。
+
+* 康絲坦芝·穆勒（Constanze Muller）
+** 哨兵特遣隊所屬的特戰兵。
+
+* 帕德瓦瑪蒂·巴蘭（Padmavati Balan）
+** 哨兵特遣隊所屬的特戰兵。
+
+* 安娜·德雷克（Anna Drake）
+** 雪怪特遣隊所屬的特戰兵。
+
+* 托馬斯·伯特（Thomas Bolt）
+** 雪怪特遣隊所屬的特戰兵。
+
+* 古斯塔沃·鐸·桑托斯（Gustavo dos Santos）
+** 雪怪特遣隊所屬的特戰兵。
+
+* 馬帝奧·埃爾南德斯（Mateo Hernandez）
+** 人面鷹特遣隊所屬的特戰兵。
+
+* 佛羅倫絲·卡特（Florence Carter）
+** 人面鷹特遣隊所屬的特戰兵。
+
+* 金太榮（Kim Tae Young）
+** 人面鷹特遣隊所屬的特戰兵。
+
+=== 《現代戰爭II (2022)》登場 ===
+* 吉穌·「丘伊」·歐達茲（Jesus "Chuy" Ordaz）
+** 特種部隊陣營所屬的特戰兵。
+
+* 古斯塔沃·「古斯」·羅德里茲（Gustavo "Gus" Rodriguez）
+** 特種部隊陣營所屬的特戰兵。
+
+* 志強·「齊陌」·黃（Zhiqiang "Zimo" Huang）
+** 特種部隊陣營所屬的特戰兵。
+** {{ruby|<s>我去！差點沒命了！</s>|<s>天啊！那是接近的！</s>}}
+
+* 克莉歐帕多絲·「克莉歐」·加夫拉斯（Kleopatros "Kleo" Gavras）
+** 特種部隊陣營所屬的特戰兵。
+
+* 妮拉·「諾娃」·布朗（Nila "Nova" Brown）
+** 特種部隊陣營所屬的特戰兵。
+
+* 索別斯瓦夫·「格羅姆斯科」·柯西蘇斯科（Sobieslaw "Gromsko" Kościuszko）
+** 特種部隊陣營所屬的特戰兵。
+
+* 恩佐·雷耶斯（Enzo Reyes）
+** 特種部隊陣營所屬的特戰兵。
+
+* 謝·「月神」·明珠（Zé "Luna" Míngzhū）
+** 特種部隊陣營所屬的特戰兵。
+
+* 丹尼爾·「洛麟」·筱田（Daniel "Ronin" Shinoda）
+** 特種部隊陣營所屬的特戰兵。
+
+* 「芬德爾」塔卡契（"Fender" Takacs）
+** 核心戰術陣營所屬的特戰兵。
+
+* 柯尼希（König）
+** 核心戰術陣營所屬的特戰兵。
+
+* 凱莉斯托·阿拉赫（Calisto Allard）
+** 核心戰術陣營所屬的特戰兵。
+
+* 達尼爾·「哈許」·哈金森（Darnell "Hutch" Hutchinson）
+** 核心戰術陣營所屬的特戰兵。
+
+* 金·「虎」·洪真（Kim "Horangi" Hong-jin）
+** 核心戰術陣營所屬的特戰兵。
+
+* 弘·「戰鬼」·渡邊（Hiro "Oni" Watanabe）
+** 核心戰術陣營所屬的特戰兵。
+
+* 羅茲琳·「羅茲」·海姆斯（Rozlin "Roze" Helms）
+** 核心戰術陣營所屬的特戰兵。
+
+* 薩米·「零」·薩加利亞（Sami "Zero" Zakaria）
+** 核心戰術陣營所屬的特戰兵。
+
+* 迪克蘭·歐康納（Declan O'Conor）
+** 核心戰術陣營所屬的特戰兵。
+
+* 托爾·「阿克賽爾」·埃里克森（Tor "Aksel" Eriksen）
+** 核心戰術陣營所屬的特戰兵。
+
+* 薩爾瓦特里斯·「史提雷多」·穆塞利（Salvatrice "Stiletto" Muselli）
+** 核心戰術陣營所屬的特戰兵。
+
+* 克勞斯·菲斯克（Klaus Fisker）
+** 核心戰術陣營所屬的特戰兵。
+
+== 喪屍模式角色列表 ==
+=== 以太故事 ===
+* 「坦克」丹普希（"Tank" Dempsey）
+** 
+
+* 尼可萊·別林斯基（Nikolai Belinski）
+** 
+
+* 武雄·正木（Takeo Masaki）
+** 
+
+* 愛德華·里希多芬（Edward Richtofen）
+** 
+
+=== 渾沌故事 ===
+* 斯嘉麗·羅茲（Scarlett Rhodes）
+** 
+
+* 布魯諾·德拉克洛瓦（Bruno Delacroix）
+** 
+
+* 迪亞高·尼卡利（Diego Necalli）
+** 
+
+* 斯坦頓·肖克（Stanton Shaw）
+**
+
+== 主要多人模式 ==
+=== 團隊死鬥（Team Deathmatch） ===
+* 玩家分成兩個團隊進行對決，消滅敵方玩家取得分數直到分數達上限。
+* 另有派生規則「擊殺確認（Kill Confirmed）」，必須拾取敵方狗牌才能獲得分數。
+
+=== 自由混戰（Free-for-All） ===
+* 除自己以外皆敵對，擊殺敵方玩家並累積積分至上限。
+
+=== 搜索與摧毀（Search and Destroy） ===
+* 隊伍輪流進行引爆與拆除炸彈，無重生。
+* 類似《絕對武力》的拆彈規則，進攻方須在其中一個炸彈設置地點設置炸彈引爆，防守方則須阻止進攻方引爆炸彈。
+* 另有派生規則「爆破（Demolition）」，雙方玩家可重生且必須爆破多個目標地點。
+
+=== 總部戰（Headquarters） ===
+* 競爭總部並奪取之，防守方無重生。
+
+=== 占領戰（Domination） ===
+* 佔領並守住要地已獲得積分。
+* 每張地圖會有三個區域，佔領的陣營會持續獲得積分。
+* 另有派生規則「據點戰（Hardpoint）」，據點位置改為隨機生成。
+
+=== 奪旗戰（Capture the Flag） ===
+* 搶奪旗幟並帶回我方陣營。
+
+=== 軍火之王（Gun Game） ===
+* 手槍開局，使用槍枝擊殺敵人可獲得新武器。
+
+=== 感染戰（Infected） ===
+* 分成感染者與倖存者雙陣營，感染者可將其他倖存者轉化為感染者。
+
+=== 通訊戰（Uplink） ===
+* 雙方搶奪衛星無人機癱瘓敵方的通訊設施。
+* <s>雖然實際上玩法就是暴力版美式足球，在《WII》也真的改成打美式足球。</s>
+
+== 相關 ==
+* [[3D射擊遊戲]]
+
+== 回應 ==
+{{pcomment|talkpage}}
+
+== 備註 ==
+<references/>
+
+[[分類:射擊遊戲]]

@@ -363,6 +363,15 @@
 {{-}}
 
 ==== 霸王暴龍 飢餓劇毒羽翼龍（{{ruby|覇王暴竜|はおうぼうりゅう}}スターヴ・ヴェノム・ウィング・ドラゴン） ====
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: 	#9400D3; font-size:24px; ">
+飢えた牙持つ毒龍よ！
+</div>
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #00EE00; font-size:24px; ">
+雄々しき翼持つ龍よ！
+</div>
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: 	#9400D3; font-size:24px; ">
+今こそ一つとなりて、地上の全てを喰らい尽くせ！<br><br>融合召喚！<br><br>現れろ、レベル１０！破滅もたらす暴食の竜！《覇王暴竜スターヴ・ヴェノム・ウィング・ドラゴン》！{{ref|召喚台詞來自2025年12月20日遊戲王OCG線上直播裡，由遊里的配音員小野賢章所述。}}
+</div>
 * 收錄於補充包1304(BLZD)，從命名來看，概念上應該是《飢餓劇毒融合龍》與《澄淨翼同步龍》的合體型態，且主體是毒龍。
 ** 在一眾冠上【霸王】之名的混色靈擺怪獸當中，這是第一隻完全沒有《異色眼靈擺龍》要素的成員。
 ===== 卡片資訊 =====

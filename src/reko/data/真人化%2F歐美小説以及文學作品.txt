@@ -95,7 +95,7 @@
 |電影
 |佳作
 |-
-|rowspan = "3"|查理與巧克力工廠<br>（Charlie and the Chocolate Factory）
+|rowspan = "4"|巧克力冒險工廠<br>（Charlie and the Chocolate Factory）
 |歡樂糖果屋<br>（Willy Wonka & the Chocolate Factory）
 |1971
 |電影
@@ -108,11 +108,17 @@
 |佳作
 |此版本由提姆·波頓導演，並由強尼·戴普飾演工廠主人威利·旺卡<br>製作組花費大量資金製作的背景、動物的演出以及補完角色設定受到觀眾好評<br><s>華語地區譯名不知為何都省略了前面的查理部分</s>
 |-
+|巧克力冒險工廠<br>（Charlie and the Chocolate Factory）
+|2017
+|音樂劇
+|佳作
+|
+|-
 |旺卡<br>（Wonka）
 |2023
 |電影
 |佳作
-|定位為最初版電影的前傳
+|定位為最初版電影的前傳，以旺卡成為巧克力工廠主人之前的冒險故事<br>後來小說化
 |-
 |colspan="2"|大法師<br>（The Exorcist）
 |1973
