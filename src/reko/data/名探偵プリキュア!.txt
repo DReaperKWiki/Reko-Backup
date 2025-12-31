@@ -1,4 +1,4 @@
-{{h0|名探偵プリキュア!／Star Detective Precure!／名偵探光之美少女!}}
+{{h0|{{ruby|名探偵|めいたんてい}}プリキュア!／Star Detective Precure!／名偵探光之美少女!}}
 
 {| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"
 |-

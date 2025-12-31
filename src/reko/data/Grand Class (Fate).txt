@@ -37,10 +37,14 @@
 !名稱
 !備考
 |-
-|Grand Saber
-|不明
+| rowspan="2" |Grand Saber
+| rowspan="2" |不明
 |[[Artoria Caster (Fate)|阿爾托利亞·阿瓦隆]]
 |《Fae Round Table Domain Avalon le Fae Synopsys》中提及，於2-7某節中代理劍職的Grand Class。<s>但目前出的兩個版本都不是劍職</s>
+|-
+| [[Lord Logres (Fate)|羅格雷斯之主]]
+| 最初在Grand Caster戰中由蓋提亞召喚出場。
+|-
 |-
 |Grand Archer
 |不明
