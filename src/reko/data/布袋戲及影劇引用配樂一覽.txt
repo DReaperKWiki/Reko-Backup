@@ -9,7 +9,7 @@
 |-
 | style = "text-align: center; "  | 本條目的所屬作品以各原文+中文譯名為主，不確定曲名則留空白或片段
 |-
-| style = "text-align: center; "  | 引用方式如：全曲✉<ref>'''原封不動整曲全用'''✉，將已發行音樂曲目之完整內容作為素材使用，於文戲段落較長而曲目時間較短時常見</ref>、剪輯✂<ref>將已發行音樂曲目'''剪為較短、有跳段的版本✂'''，於原曲較長或曲風變化較多時常見</ref>、採譜❏<ref>從'''既存樂曲、有人聲歌曲複製❏其曲譜'''，但使用不同樂器演奏的版本作為素材，或採用同專輯內無人聲伴唱的曲源為素材</ref>、翻唱☻<ref>將既存歌曲或樂曲'''填詞後由歌手配唱成歌曲☻'''，由於歌壇的翻唱發片行為普遍不受追究，<b>本表僅收錄『影劇歌曲非原創，實為翻唱歌曲』</b>的情況，同曲由歌手發行翻唱曲則列於備註</ref>、改編✎<ref>曲調的'''部分音符、音程升降經過改動✎'''後重新演奏，但可辨認出與原曲相似的同一音程結構</ref>、混成✾<ref>以兩首以上可辨識的原曲'''混合編成'''✾，因案例絕少且取材橫跨不同領域，另列一類以彙整</ref>等，於備註欄詳述情況。 
+| style = "text-align: center; "  | 引用方式如：全曲✉<ref>'''原封不動整曲全用'''✉，將已發行音樂曲目之完整內容作為素材使用，於文戲段落較長而曲目時間較短時常見</ref>、剪輯✂<ref>將已發行音樂曲目'''剪為較短、有跳段的版本✂'''，於原曲較長或曲風變化較多時常見</ref>、採譜❏<ref>從'''既存樂曲、有人聲歌曲採用❏其曲譜'''，但使用不同樂器演奏的版本作為素材，或採用原歌曲同專輯內無人聲伴唱的曲源為素材</ref>、翻唱☻<ref>將既存歌曲或樂曲'''填詞後由歌手配唱成歌曲☻'''，由於歌壇翻唱發片行為在業界另有內規不受一般聽眾追究影響，<b>本表僅收錄『影劇歌曲非原創，實為翻唱歌曲』</b>的情況，同曲由其他歌手發行無關於影劇的翻唱曲則列於備註</ref>、改編✎<ref>曲調的'''部分音符、音程升降經過改動✎'''後重新演奏，但可辨認出與原曲相似的同一音程結構</ref>、混成✾<ref>以兩首以上可辨識的原曲'''混合編成'''✾，因案例絕少且取材橫跨不同領域，另列一類以彙整</ref>等，於備註欄詳述情況。 
 |}
 [[檔案:Music Piracy.jpg|縮圖|160x160像素|劇伴泥棒犯科帳]]
 
@@ -897,9 +897,11 @@
 |-
 ||'89 Jerry Goldsmith<br>〈Warlock/撒旦回歸/超速魔俠〉|| [https://youtu.be/Hr-D1qrHIgA Growing Pains] || 《浴火鳳凰》✂[https://youtu.be/2n82Xjge6J8&t=635 誤吃毒梨昏迷]場面 || 
 |-
-||'90 Jerry Goldsmith〈Total Recall〉||[https://youtu.be/kQsLmEwozGM The Dream]||《霹靂》✂異數OP、✂[https://youtu.be/yv0hNZaVmPY 半邪郎]||
+||'90 Jerry Goldsmith<br>〈Total Recall/魔鬼總動員〉||[https://youtu.be/kQsLmEwozGM The Dream]||《霹靂》✂異數OP、✂[https://youtu.be/yv0hNZaVmPY 半邪郎]||
 |-
-||'96 Jerry Goldsmith〈Executive Decision〉||[https://youtu.be/9cBA_1Tcnno The Map]||《霹靂》✂英雄榜雜用氣勢曲 ||
+||'96 Jerry Goldsmith<br>〈Executive Decision〉||[https://youtu.be/9cBA_1Tcnno The Map]||《霹靂》✂英雄榜雜用氣勢曲 ||
+|-
+||'90 Joel Goldsmith<br>〈Moon 44/星空戰士〉||[https://youtu.be/nOomNEO2ty4  Drones,*3']||《天宇》✂[https://youtu.be/4H_MNUlQkcs&t=585 三老聯貫+紅雲反殺真佛]||
 |-
 ||'87 David Byrne&坂本龍一〈末代皇帝〉||[https://youtu.be/MI5DyZXcHVI 主題曲]||《霹靂》✂萬教武尊、✎[https://youtu.be/4tvveM0eJIM 蘅佛子]||
 |-
@@ -3547,7 +3549,7 @@
 |-
 ||三枝成彰〈[[機動戰士Z鋼彈|Z鋼彈]]〉<br>[https://youtu.be/pfpZUP2ybvs ティターンズ]||《天宇》✂[https://youtu.be/UBTeaa-Atr8 暴冰劍對鍍霜劍]||
 |-
-||三枝成彰〈[[機動戰士Z鋼彈|Z鋼彈]]〉<br>[https://youtu.be/onqoJgRbbCs モビルスーツ戦]||《霹靂》✂雜用交戰場面|| 異數~烽雲時常用
+||三枝成彰〈[[機動戰士Z鋼彈|Z鋼彈]]〉<br>[https://youtu.be/onqoJgRbbCs モビルスーツ戦]||《霹靂》✂雜用交戰場面<br>《天宇》✂[https://youtu.be/jKcaj9rGXig&t=381 夜空不滅之星破局]|| 異數~烽雲時常用
 |-
 ||三枝成彰〈[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]〉-[https://youtu.be/-pcukxBkrv8 νガンダム]||《天宇》✂[https://youtu.be/u37CU5BtI6k 殘珠OP]、✂[https://youtu.be/A2eeFRP1Mps&t=134s 千少一武戲]||
 |-
@@ -3615,7 +3617,9 @@
 |-
 ||(待查) || 《霹靂》疑雲✉ || 
 |-
-||'93 手塚理、渡辺宙明<br> 〈流星機ガクセイバー〉||[https://youtu.be/Ekkn6GrOiJ8 迎撃!ガクセイバー]<br>[[林原惠]]〈[https://youtu.be/GUGA7byBOk8 流星機ガクセイバー]〉|| 《金光》十八龍EP24收幕||
+| rowspan="2" |'93 手塚理、渡辺宙明<br> 〈流星機ガクセイバー〉||[https://youtu.be/Ekkn6GrOiJ8 迎撃!ガクセイバー]<br>[[林原惠]]〈[https://youtu.be/GUGA7byBOk8 流星機ガクセイバー]〉|| 《金光》✂十八龍EP24收幕||
+|-
+|| [https://youtu.be/NqdyTqD_C9w 高校生哀歌] ||《天宇》✂[https://youtu.be/O4mq_z34O-I&t=1667 天皇刺印天書後回憶] ||
 |-
 ||'96 手塚理 〈VS騎士ラムネ&40炎〉||〈仮面の勇者〉||《聖俠》✉不落伍||
 |- 
