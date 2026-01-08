@@ -144,7 +144,7 @@
 * <s>叫得出名的</s>成員姓氏分別對應古典元素概念的土、火、水、風。
 
 ==== 空崎陽奈(空崎ヒナ) ====
-* CV：廣橋涼（日）/王雅欣（中）/박신희（韓）
+* CV：[[廣橋涼]]（日）/王雅欣（中）/박신희（韓）
 * '''班級：'''3年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（禮服）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
 * 委員長，被評為格黑娜最強戰力，她一個人相當於整個風紀委員會一半戰力。
 ** <s>風紀委員會戰力排名由高至低：陽奈>>>>>(無法超越之壁)>>>>>幹部級成員>>一般成員</s>
