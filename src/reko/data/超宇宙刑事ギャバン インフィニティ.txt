@@ -51,7 +51,7 @@
 ** <!-- 隸屬銀河連邦警察地球分部， -->以Emor Gearゲキドー蒸著的紅色卡邦
 <br>
 
-* {{color|white|grey|'''Gavan Bushido（ギャバン・ブシドー）'''}}
+* {{color|white|grey|'''Gavan [[武士道|{{color|white|grey|Bushido}}]]（ギャバン・ブシドー）'''}}
 ** <!-- 隸屬銀河連邦警察的特殊部隊， -->以Emor Gearヒソオ蒸著的銀色卡邦
 <br>
 
@@ -102,6 +102,7 @@
 * Emor Gear（エモルギア）
 ** 本作重要<s>集玩式變身</s>道具，會對各種純粹的感情起反應
 ** <s>因為顏色和對應的感情正好和電影《腦筋急轉彎》的一樣，已有推測會否還有綠色代表厭惡和紫色代表憂愁的Emor Gear存在</s>
+** <s>道具造型跟現今騎士、戰隊的變身道具風格已經大差不差</s>
 {{hideh|Emor Gear一覽（點擊展開）}}
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
 |-
