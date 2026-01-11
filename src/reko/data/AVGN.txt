@@ -995,7 +995,7 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |LJN紀念特輯<s>，到結尾終於恍然大悟自己一直鞭的廠商是發售商而不是開發者</s>||{{youtube|JvHtXn7uQ6I|Youtube}}
 |}
 
-===EP201-===
+===EP201-225===
 {| class="wikitable fandom-table"
 !集數
 !英文名
@@ -1148,6 +1148,14 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |[[銀河戰士系列|銀河戰士]]主綫舊三部曲
 |<s>因爲絕招Screw Attack是環節原名來源，所以</s>AVGN少有地拍馬屁、沒有罵，只有讚
 |{{youtube|8-7nun1ZApQ|Youtube}}
+|}
+===EP225-===
+{| class="wikitable fandom-table"
+!集數
+!英文名
+!中文名
+!說明
+!影片
 |-
 |EP226
 |Mario Paint

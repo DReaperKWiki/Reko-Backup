@@ -134,8 +134,8 @@
 * 外部連結
 ** [https://www.tv-asahi.co.jp/RED/ 系列朝日官網]
 *** [https://www.tv-asahi.co.jp/RED/gavaninf/ 本作朝日官網]
-<!-- **  [https://www.toei.co.jp/entertainment/tv/ 東映官網] 
-** 維基百科條目：[[wikipedia:ja:超宇宙刑事ギャバン_インフィニティ|日文]]、[[wikipedia:zh: |中文]] -->
+**  [https://www.toei.co.jp/entertainment/tv/GavanInfinity/detail/index.html 東映官網] 
+<!-- ** 維基百科條目：[[wikipedia:ja:超宇宙刑事ギャバン_インフィニティ|日文]]、[[wikipedia:zh:超宇宙刑事卡邦無限|中文]] -->
 ** {{twitter|ProjectRED_Toei|name=系列公式X}}
 
 {{-}}

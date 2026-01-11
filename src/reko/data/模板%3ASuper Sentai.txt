@@ -66,9 +66,9 @@
 |list10  =[[基拉·哈斯帝|ギラ・ハスティー]]・[[傑拉米·布拉謝利|ジェラミー・ブラシエリ]]・[[拉古列斯·哈斯帝|ラクレス・ハスティー]]・[[達格德多·杜雅爾丹|ダグデド·ドゥジャルダン]]
 }}
 |group6 =分支條目
-|list6  =[[超級戰隊系列劇場版、衍生作一覽|劇場版、衍生作一覽]]・[[戰隊]]
+|list6  =[[超級戰隊系列劇場版、衍生作一覽|劇場版、衍生作一覽]]・[[戰隊系列]]
 |group7 =成句
-|list7  =[[成句/Today_is_Friday_in_California.|Today is Friday in California.]]・成句/Oh Man, It's Our Idiot 
+|list7  =[[成句/Today_is_Friday_in_California.|Today is Friday in California.]]<!--・[[成句/Oh Man, It's Our Idiot|Oh Man, It's Our Idiot]]-->
 }}
 [[分類:超級戰隊系列]]
 <noinclude>[[分類:特定主題使用模板]]</noinclude>

@@ -8,8 +8,9 @@
 ** 有著Soulsborne的別稱，命名來自同廠開發的《血源詛咒》。
 * 主要製作人多為宮崎英高。
 ** 而由於宮崎英高深受開發團隊ICO的作品影響，因此魂系列又多半帶有很濃厚的ICO作品樣子。尤其是宮崎英高本人最愛的《迷霧古城》與《汪達與巨像》。
-* 該遊戲類型主要以高難度帶來的多次死亡次數，以及死亡懲罰聞名。
-** 亦因此令玩家們對此類型相當兩極化：不喜歡的會敬而遠之，但喜歡的會因為克服困難的成就感而繼續玩這類遊戲。
+* 該遊戲類型主要以高難度帶來的多次死亡次數，以及死亡懲罰聞名；亦因此令玩家們對此類型相當兩極化：不喜歡的會敬而遠之，但喜歡的會因為克服困難的成就感而繼續玩這類遊戲。
+** 實際上有關於遊戲類型的定義在狹義上沒有公論，各種「魂遊」的諸多經常出現的特徵則被用以作為判斷的指標，但準則也眾說紛紜
+*** 宮崎英高也在[https://gameinformer.com/feature/2025/12/16/the-soul-of-soulslike 接受《Game Informer》專訪]時提到[https://www.gamesradar.com/games/dark-souls/dark-souls-and-elden-ring-mastermind-hidetaka-miyazaki-wouldnt-necessarily-say-that-formsoftware-invented-the-soulslike-genre/ 相比起是他們發明了「魂遊」，更貼近去是受眾對於把「從死亡中受教」融入遊戲核心的集體渴望，只是當時沒有遊戲可以滿足於此]
 
 == 主要特徵{{ref|並非完全必備}} ==
 === 難度偏高 ===
@@ -54,7 +55,7 @@
 == 遊戲列表 ==
 {|class="wikitable" style="margin:auto;text-align:center;"
 |-
-|<big>本表原則上依年分排序<br>此外，鑒於Soulslike遊戲的定義在廣義上沒有公論、甚至部分會被官方否認<br>因此下述表僅列出有相關元素的遊戲，'''並不將其強作定義'''，詳情請閱遊戲介紹</big>
+|<big>本表原則上依年分排序<br>此外，鑒於Soulslike遊戲的定義在狹義上沒有公論、甚至部分會被官方否認<br>因此下述表僅列出有相關元素的遊戲，'''並不將其強作定義'''，詳情請閱遊戲介紹</big>
 |}
 
 === From Software開發 ===
