@@ -152,7 +152,7 @@
 |-
 | Sonic the Hedgehog{{ref|跟初代遊戲同名，玩家通稱新ソニ/Sonic '06}} || 2006/11/14 || PS3／Xbox360 ||<s>[[黑歷史]]</s>十五週年紀念作。<br/>無論劇情、系統和製作人中裕司都崩壞的遊戲<ref>面對PS3及X360的古怪開發環境，同期還有數個音速小子作品（包括下述的《索尼克與秘密戒指》）開發中，且只有一年左右的開發週期，最終便是交出了半成品。事後中裕司出走SEGA（雖然是在本作開發中途就離職）改爲設立獨立工作室PROPE自行開發遊戲，之後投奔了SE陣營，<s>至於後來疑似因為《巴蘭的異想奇境》的失敗（實為不明）而退出SE並與其對簿公堂、又被爆料涉嫌與SE其他員工搞內線交易被捕判刑之類的又是另外的事了，然後自己開的PROPE也跟著關門</s></ref><br/>平均60秒的"極速"讀碟時間，無論過場、與NPC對話、經過記錄點等都要一直讀取 ||希爾弗初次登場
 |-
-| Sonic World Adventure /Sonic Unleashed <br>索尼克世界大冒險|| 2008/11/18 || PS2/PS3/Xbox 360/Wii || 主打日夜系統<br/>日間爲06砍掉重練的操作界面，評價不錯，甚至沿用至之後的color和generation<br/>夜間則爲類似清版動作遊戲的操作，評價比較微妙 || 需要注意的是PS2／Wii版可視為X360／PS3版的「簡化」版本：差別在於後者省略掉前者沙盒冒險的部分（變成選擇式），算是因應機種不同作出的折衷方案
+| Sonic World Adventure /Sonic Unleashed <br>索尼克世界大冒險|| 2008/11/18 || PS2/PS3/Xbox 360/Wii || 主打日夜系統<br/>日間爲06砍掉重練的操作界面，評價不錯，甚至沿用至之後的color和generation<br/>夜間則爲類似清版動作遊戲的操作，評價比較微妙 || 需要注意的是PS2／Wii版可視為X360／PS3版的「簡化」版本：差別在於前者省略掉沙盒冒險的部分（變成選擇式），算是因應機種不同作出的折衷方案
 |-
 | Sonic Frontiers<br>索尼克 未知邊境 || 2022/11/8 || Switch/PS4/PS5/Xbox Series X/PC(Steam)|| 首個開放世界式動作遊戲<br>雖然也是有一些美中不足的地方，但本作的好評也算是將整個系列步回正軌 ||
 |}
@@ -163,7 +163,7 @@
 {| class="wikitable" style="font-size:small; margin:0px auto;"
 ! 作品名稱 !! 發售日期 !! 首發主機 !! 簡介 !!備註
 |-
-| [https://youtu.be/3tEXvn67bIA Sonic Advance]<br>索尼克 進化 || 2001/12/20 || rowspan="3"|GBA ||  ||
+| [https://youtu.be/3tEXvn67bIA Sonic Advance]<br>索尼克 進化 || 2001/12/20 || rowspan="3"|GBA ||  ||本作也以SonicN名義登陸NOKIA的N-GAGE，此外還有JAVA版和安卓版
 |- 
 | [https://youtu.be/T5HALWegHQ0 Sonic Advance 2]<br>索尼克 進化2 || 2002/12/19 || 克琳姆正式在遊戲中出場，除索尼克以外的操作角色必須以索尼克突破特定關卡後解禁。<ref>艾咪則是全角色皆全蒐集混沌翡翠全破後解禁</ref> || 本作混沌翡翠的蒐集紀錄為一角色一個紀錄
 |-
@@ -290,7 +290,9 @@
 |-
 |Sonic 3D Blast<br>索尼克 3D芙奇島||1996/11/5||MD/SS||由Traveller's Tales（現TT Games）開發，系列首部3D作品。<br />但實現3D是使用[[星之卡比|卡比球]]這樣的2.5D環境<br>索尼克在芙奇島拯救所有芙奇並打倒蛋頭博士||<s>名字叫索尼克但這作他慢得像蝸牛</s><br>SS版音樂及過場動畫換新之餘，特別關卡也換成2代樣貌的'''真3D版'''
 |-
-|Sonic Jam||1997/6/20||SS||合輯作品，收錄1~3&K的遊戲<ref>可重現MD擴充卡的功能</ref>，同時也有原創模式：Sonic World，可在本模式中解任務及欣賞原畫、短片等要素||Sonic World這個遊戲模式也確立了日後《大冒險》的遊戲要素
+|Sonic Jam||1997/6/20||SS/Game.com||合輯作品，收錄1~3&K的遊戲<ref>可重現MD擴充卡的功能</ref>，同時也有原創模式：Sonic World，可在本模式中解任務及欣賞原畫、短片等要素<br>Game.com版則是遊戲未滿十分糟糕的品質||Sonic World這個遊戲模式也確立了日後《大冒險》的遊戲要素
+|-
+|Sonic the Hedgehog Pocket Adventure||2000/5/25||NeoGeo Pocket Color||第一款在非SEGA平台的索尼克||
 |-
 |Sonic Battle||2003/12/4||GBA||亂鬥對戰類動作遊戲<br>艾梅爾初登場，同時給艾梅爾配招也是本作主要賣點<s>但就算有愛也請別配太強</s>||
 |-

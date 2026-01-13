@@ -8,7 +8,7 @@
 |[https://docs.google.com/document/d/1EX4sVH-LAcyswWZ8EqxF5pWccPA-n6cjy3qQbu47Ylw/edit 本頁google快取(11/2022)]
 |}
 {{Infobox
-| bodystyle = width:400px;
+| bodystyle = width:300px;
 | image = 
 <tabber> 
 |-| 

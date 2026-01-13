@@ -14,23 +14,25 @@
 **而某些當初被尊為「神作」的作品在遊戲廠商宣佈對應非SONY主機後則瞬間成為「平庸作」甚至「劣作」，會有這樣的轉變可能是和某些[[成句/索尼罪大滔天，搞到百姓怨聲載道#索狗|SONY<s>狗</s>支持者]]的預期心理不同調所致。
 
 
-==「救機神作」的作品列表==
+==「救機神作」列表==
 : (以下列表中標示★星號作品為真正救機作品。)
 {| class="wikitable" style="font-size:small;"
 |-
 !開發公司!!發行公司!!名稱!!主機!!成名/除名原因
 |-
-|colspan="2" align="center"|Square||[[最終幻想系列|★Final Fantasy Ⅶ（最終幻想7）]]||PS||獨佔對應PS主機，真正救機的作品，<br>奠定Sony PlayStation=PS，自90年代中入市至今仍鼎足於家用主機市場的[[成句/索尼罪大滔天，搞到百姓怨聲載道|霸業]]。
+|colspan="2" align="center"|Square||[[最終幻想系列|★Final Fantasy Ⅶ（最終幻想7）]]||PS||獨佔對應PS主機，真正救機的作品，<br>奠定Sony PlayStation=PS王朝的重要基石，<br>使Sony自90年代中入市至今仍鼎足於家用主機市場的[[成句/索尼罪大滔天，搞到百姓怨聲載道|霸業]]。
 |-
 |colspan="2" align="center"|[[Square Enix]]||Final Fantansy ⅩⅢ（最終幻想13）|| rowspan="4" |PS3||跨平台，亞洲區本篇為PS3限定。<ref>日本首日出貨量一百萬。</ref>
 |-
-| rowspan="5" colspan="2" align="center"|[[Capcom]]||[[Devil May Cry|Devil May Cry 4（惡魔獵人4）]]|| rowspan="2" |跨平台。
+| rowspan="6" colspan="2" align="center"|[[Capcom]]||[[Devil May Cry|Devil May Cry 4（惡魔獵人4）]]|| rowspan="2" |跨平台。
 |-
 |[[惡靈古堡系列|BIOHAZARD 5（惡靈古堡5）]]
 |-
 |[[魔物獵人|MonsterHunter3（魔物獵人3）]]||已變成Wii獨佔，不過PSP也確定有MHP3了。
 |-
-|MonsterHunter3 Portable（魔物獵人3攜帶版）||PSP||日本首週出貨量破200萬，單月出貨量破400萬。<s>同人威力無法擋。</s>
+|MonsterHunter Portable3（魔物獵人攜帶版3）||PSP||日本首週出貨量破200萬，單月出貨量破400萬。<s>同人威力無法擋。</s>
+|-
+|★MonsterHunter Portable系列||PSP||由於當年家機版魔物獵人銷量平平，家機版第二代(DOS)更爛到無可救藥，掌機版不但修正改善了家機版的問題，更因為支持多人連線在日本開創了魔物獵人風潮，使得魔物獵人這個IP能站穩腳跟，是魔物系列中最大功臣，更讓PSP終於能站穩腳步<s>雖然也被諷刺為魔物獵人專用機。</s>
 |-
 |鬼武者||PS2||PS2上首次銷售量超過百萬套的遊戲，特色是金城武演主角。
 |-
@@ -60,7 +62,7 @@
 |-
 |colspan="2" align="center"|<s>Ignition Entertainment</s><br/>ATLUS<br/>Vanillaware||Dragon's Crown||PS3&PSV||（看看精美的亞馬遜跟女巫）媽的!真的逼我去買PSV是吧？（BY XBOX玩家）
 |-
-|colspan="2" align="center"|GAME FREAK||[[精靈寶可夢|★精靈寶可夢（ポケットモンスター/Pokémon）系列]]||Game Boy、Game Boy Color、Game Boy Advance、NDS、3DS、NS<br/>不過身為救機神作應該只有紅/綠/藍版。<ref>主機：Game Boy。</ref>||Game Boy在90年代初一度面臨沒落，但初代精靈寶可夢一推出就助任天堂把SEGA的Game Gear幹掉。<br/>雖然曾因為沒人看好而差點殞落<ref>時間是在紅/綠版和藍版之間，後來因為第151隻寶可夢「夢幻」的出現又再次救回GB。</ref>。在2000年左右金/銀版發售後幾年也曾經面臨退流行，不過後來紅寶石/藍寶石版發售後穩定其經營模式。<br/>至今仍在[[ACG]]各媒體上運作的超強搶錢作品。<br/>[[成句/說好不提○○的…|說好不提151、251、386、493、649、721、807。]]<ref>第一至第七世代逐漸累積的寶可夢數量。</ref>
+|colspan="2" align="center"|GAME FREAK||[[精靈寶可夢|★精靈寶可夢（ポケットモンスター/Pokémon）系列]]||Game Boy、Game Boy Color、Game Boy Advance、NDS、3DS、NS<br/>不過身為救機神作應該只有紅/綠/藍版。<ref>主機：Game Boy。</ref>||Game Boy在90年代初一度面臨沒落，但初代精靈寶可夢一推出就助任天堂把SEGA的Game Gear幹掉。<br/>雖然曾因為沒人看好而差點殞落<ref>時間是在紅/綠版和藍版之間，後來因為第151隻寶可夢「夢幻」的出現又再次救回GB。</ref>。在2000年左右金/銀版發售後幾年也曾經面臨退流行，不過後來紅寶石/藍寶石版發售後穩定其經營模式。<br/>至今仍在[[ACG]]各媒體上運作的超強搶錢作品。<br/>[[成句/說好不提○○的…|說好不提151、251、386、493、649、721、809、905、1025。]]<ref>第一至第九世代逐漸累積的寶可夢數量。</ref>
 |-
 |colspan="2" align="center"|Bandai||★[[機動戰士鋼彈]] 連邦VS吉翁||AC||令21世紀初死氣沉沉的街機業界再次熱鬧起來的系列始祖。
 |-
@@ -112,7 +114,7 @@
 |-
 |歐普那||奠定百萬死旗的神作。
 |-
-|真三國無雙二||PS2||確實拯救了光榮<s>，並且把光榮推向深淵</s>。
+|真三國無雙二||PS2||確實拯救了[[KOEI TECMO|光榮]]<s>，並且把光榮推向了每代都靠外賺坑玩家的闇榮之路</s>。
 |-
 |★[[生死格鬥]]||街機、PS、SEGA土星||和上述FF一樣拯救了瀕臨破產的TECMO，甚至取名的動機也跟FF的情況一樣，意味著「無論是生是死，都必須全力以赴！」。
 |-

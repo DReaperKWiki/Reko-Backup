@@ -1,0 +1,53 @@
+{{Navbox
+| name =BanG Dream
+| title = [[BanG Dream!]]
+| state = uncollapsed
+| titlestyle  = background: hotpink; text-align: center; vertical-align: middle;
+| groupstyle = background: hotpink; text-align: center; vertical-align: middle;
+| group1 = 系列作品
+| list1 = 
+{{Navbox|child|
+|bodystyle  = background: #f9f9f9;
+| groupstyle = background: hotpink; text-align: center; vertical-align: middle;
+|liststyle  = text-align: left;
+|group1 = TV動畫
+| list1 = [[BanG Dream! (無印)|BanG Dream!]]・[[BanG Dream!It's MyGO!!!!!]]・[[BanG Dream!Ave Mujica]]・バンドリ！ ゆめ∞みた
+|group2 = 迷你動畫
+|list2 = [[BanG Dream!Pastel Life| Pastel Life]]・[[BanG Dream!ガルパ☆ピコ|ガルパ☆ピコ]]
+|group3 = 劇場版動畫
+|list3 = [[BanG Dream!FILM LIVE|FILM LIVE]]・[[BanG Dream!Episode of Roselia|Episode of Roselia]]・[[BanG Dream!Poppin'Dream!|Poppin'Dream!]]
+}}
+| group2 = 登場角色
+| list2 = [[BanG Dream!/登場角色介紹-主要樂團|主要樂團]]・[[BanG Dream!/登場角色介紹-其他樂團|其他樂團]]・[[BanG_Dream!/登場角色介紹-其他人物|其他人物]]
+| group3 = 角色條目
+| list3 =
+{{Navbox|child|
+| groupstyle = background: hotpink; text-align: center; vertical-align: middle;
+|liststyle  = text-align: left;
+|group1 = Poppin'Party
+| list1 = [[戶山香澄]]・[[花園多惠]]・[[牛越里美]]・[[山吹沙綾]]・[[市谷有咲]]
+|group2 = Roselia
+| list2 = [[湊友希那]]・[[冰川紗夜]]・[[今井麗莎]]・[[宇田川亞子]]・[[白金燐子]]
+|group3 = Afterglow
+| list3 = [[美竹蘭]]・[[青葉摩卡]]・[[上原緋瑪麗]]・[[宇田川巴]]・[[羽澤鶇]]
+|group4 = Pastel*Palettes
+| list4 = [[丸山彩]]・[[冰川日菜]]・[[白鷺千聖]]・[[大和麻弥]]・[[若宮伊芙]]
+|group5 = Hello,Happy World!
+| list5 = [[弦卷心]]・[[瀨田薰]]・[[北澤育美]]・[[松原花音]]・[[奧澤美咲|米歇爾]]
+|group6 = RAISE A SUILEN
+| list6 = [[和奏蕾]]・[[朝日六花]]・[[佐藤增姬]]・[[鳰原令王那]]・[[珠手知由]]
+|group7 = Morfonica
+| list7 = [[倉田真白]]・[[桐谷透子]]・[[廣町七深]]・[[二葉筑紫]]・[[八潮瑠唯]]
+|group8 = MyGO!!!!!
+| list8 = [[高松燈]]・[[千早愛音]]・[[要樂奈]]・[[長崎爽世]]・[[椎名立希]]
+|group9 = Ave Mujica
+| list9 = [[三角初華]]・[[若葉睦]]・[[八幡海鈴]]・[[祐天寺若麥]]・[[豊川祥子]]
+|group10 = 夢限大MewType
+| list10 = [[仲町阿拉蕾]]・[[宮永野乃花]]・[[峰月律]]・[[藤都子]]・[[千石由乃]]
+}}
+|group4 = 音樂
+|list4 = [[BanG Dream!/曲目一覽|曲目一覽]]
+|group5 = 成句
+|list5 = [[成句/為什麼要演奏春日影|為什麼要演奏春日影]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

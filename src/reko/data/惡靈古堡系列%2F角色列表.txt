@@ -1,5 +1,4 @@
 {{h0|惡靈古堡/生化危機系列角色列表}}
-{{synchro|New Komica wiki (仮)|2024年08月30日 16:44}}
 
 {| class="wikitable" style="margin: 1.5em auto;" 
 |-
@@ -1765,7 +1764,7 @@
 ** {{censored|走頭無路自己注射病毒，在喪屍化過程中死於泰勒槍下。}}
 
 == 回應 ==
-[[{{TALKPAGENAME}}]]
+<comments/>
 
 == 備註 ==
 <references/>

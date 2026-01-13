@@ -42,6 +42,8 @@
 | [[LoveLive! 官方卡片遊戲|LoveLive! Series Official Card Game]] || 2025年- || [https://llofficial-cardgame.com/ 2024年8月18日突然公開]的TCG<br><s>重啟版的SIC</s>
 |-
 | Godzilla Card Game{{color|red||※}} || 2025年- || [https://godzilla-cardgame.com/ 2024年11月3日突然公開]的TCG<br>以[[哥吉拉系列]]為主題的卡片遊戲
+|-
+| Palworld OFFICIAL CARD GAME || 2026年- || [https://palworld-official-cardgame.com/ 2026年1月12日突然公開]的TCG<br>以幻獸帕魯為主題的卡片遊戲
 |}
 
 === 跨媒體企劃 ===
@@ -65,11 +67,11 @@
 | D_CIDE TRAUMEREI{{color|red||※}} || 2021年-2022年 || 與Sumzap、Drecom共同聯合的跨媒體企劃<br>已於2022年10月隨著遊戲的停服正式宣佈結束營運 
 |}
 
-==== 智慧型手機遊戲 ====
+=== 智慧型手機遊戲 ===
 {| class="wikitable" style="font-size:small; margin:0px auto;"
 !遊戲!!開始營運時間!!平台!!合作方!!備註
 |-
-| 蠟筆小新 團結一致 春日部城大開發 || 2017年4月27日 || rowspan="7" |iOS<br>Android || Poppin Games
+| 蠟筆小新 團結一致 春日部城大開發 || 2017年4月27日 || rowspan="8" |iOS<br>Android || Poppin Games
 |-
 | [[BanG Dream!|BanG Dream!少女樂團派對]] || 2017年3月16日 || <s>Craft Egg</s><ref>2024年4月1日被母公司CyberAgent吸收合併後解散</ref>→FROMTOKYO || 另有NS移植版於2021年9月16日發售
 |-
@@ -78,6 +80,8 @@
 | [[LoveLive! Superstar!!|ラブライブ！スーパースター!! メモリーコレクト]] || 2025年1月31日 || || 單機買斷制的拼圖遊戲
 |-
 | HUNTER×HUNTER NEN×SURVIVOR || 2026年2月18日預定 || WonderPlanet || 
+|-
+| BanG Dream! Our Notes || 2026年預定 || FROMTOKYO || 
 |}
 
 ===== 已停止營運/非本社營運 =====

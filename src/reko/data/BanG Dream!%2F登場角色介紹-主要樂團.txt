@@ -820,7 +820,12 @@ ARGONAVIS from BanG Dream!如果成功沒退出BanG Dream!的世界線，女團�
 * 其餘請見角色條目
 
 === millsage ===
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; font-size: 24px; color:#A020E0;">
+'''両手いっぱいの幸せを、あなたに。'''
+</div>
+[[檔案:Millsage.jpg|350px|center]]
 * 2026年1月12日，在ブシロード新春大発表会2026上與新遊戲『BanG Dream! Our Notes』一同公開的新團之一
+* 隊名讀作ミルサージュ
 
 ==== 汐見蛍 ====
 * CV：薬師寺李有
@@ -843,7 +848,13 @@ ARGONAVIS from BanG Dream!如果成功沒退出BanG Dream!的世界線，女團�
 * 鼓手
 
 === 一家Dumb Rock! ===
-* 2026年1月12日，在(ry
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; font-size: 24px; color:#F0A030;">
+'''始めようか、マイ・ファミリー！'''
+</div>
+[[檔案:一家Dumb Rock!.jpg|350px|center]]
+
+* 2026年1月12日，在ブシロード新春(ry
+* 隊名讀作いっかだんらん（一家団欒），是全家團圓的意思
 
 ==== 須賀蕾叶 ====
 * CV：橘めい
