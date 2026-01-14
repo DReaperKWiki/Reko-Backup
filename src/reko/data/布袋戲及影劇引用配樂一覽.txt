@@ -2086,9 +2086,9 @@
 <center>
 {| class="wikitable sortable mw-collapsible" style="margin: 1.5em auto;" 
 |-
-! 年份/作者/原所屬作品 !! (編曲者)/曲名!!(年份/頻道名)〈編入劇集名〉使用方式、人物/場景!!備註
+! 年份/作者/原所屬作品 !! 曲名!!(年份/頻道名)〈編入劇集名〉使用方式、人物/場景!!備註
 |-
-| rowspan="19"|<center>（傳統戲曲）</center>||北管－[https://youtu.be/-HJVKl3CJfU 陰調]||《金光》☻慧卿－[https://youtu.be/6ivMZEYkD4s 女暴君]<br>〈大唐五虎將〉☻西卿－[https://youtu.be/t-muny-E_mE?t=86 梅君子]<br>《霹靂》☻阿輪－[https://youtu.be/8XBY24xsuqU 路光明]/[https://youtu.be/NxJIwtHKAAo 插曲版]||據傳曲調容易招陰，傳統戲班不輕易傳授<br>的確也有用鬼做主角的唱辭〈[https://youtu.be/-1BVlJtDeJc 忠義傳]〉
+| rowspan="19"|<center>（年份不可考之古老戲曲）</center>||北管－[https://youtu.be/-HJVKl3CJfU 陰調]||《金光》☻慧卿－[https://youtu.be/6ivMZEYkD4s 女暴君]<br>〈大唐五虎將〉☻西卿－[https://youtu.be/t-muny-E_mE?t=86 梅君子]<br>《霹靂》☻阿輪－[https://youtu.be/8XBY24xsuqU 路光明]/[https://youtu.be/NxJIwtHKAAo 插曲版]||據傳曲調容易招陰，傳統戲班不輕易傳授<br>的確也有用鬼做主角的唱辭〈[https://youtu.be/-1BVlJtDeJc 忠義傳]〉
 |-
 ||北管－[https://youtu.be/VlDHdkpPJzk 四空門]||《金光》☻黃俊雄－[https://youtu.be/Iae7lAoMm44 秘中秘]<br>〈大唐五虎將〉☻黃俊雄－[https://youtu.be/M4NWzc9Ol9g&t=174 李白斗酒詩百篇]<br>〈武聖關公〉☻黃俊雄－[https://youtu.be/xYe84f1rNvw?si=25P_UiZWUothlNWh&t=335 曹操橫槊賦詩]||
 |-
@@ -2126,7 +2126,7 @@
 |-
 || 〈留書調〉|| (野台)一聲叫君一聲苦(女角悲情出場) || 另有[https://youtu.be/P2RMziZQdSA 鄭琇月版]、[https://youtu.be/T62kz2T9Qjo 陳盈潔版]
 |-
-|| 175X 約翰·賽巴斯契·巴赫? ||〈BWV+565 d小調觸技曲與賦格/BWV 565〉|| '98〈[[汽車|頭文字D]]〉✎[https://youtu.be/y88M1eaM538 BACK ON THE ROCKS] || 恐怖片老梗曲目<br>另有嘉門タツオ〈[https://youtu.be/avd-tqJLrQw 鼻から牛乳]〉
+|| 175X 約翰·賽巴斯契·巴赫? ||〈[https://www.youtube.com/results?search_query=BWV+565 BWV+565]/BWV 565 d小調觸技曲與賦格〉|| '98〈[[汽車|頭文字D]]〉✎[https://youtu.be/y88M1eaM538 BACK ON THE ROCKS] || 恐怖片老梗曲目<br>另有嘉門タツオ〈[https://youtu.be/avd-tqJLrQw 鼻から牛乳]〉
 |-
 | rowspan="2"|1827 Gioachino Antonio Rossini<br>〈[[William Tell (Fate)|威廉·泰爾]]序曲〉 ||[https://youtu.be/results?search_query=Ranz+des+vaches 趕牛曲] || '93〈射鵰英雄傳之東成西就〉張學友☻[https://youtu.be/cI2FSPkga7U 我Love你] ||
 |-
@@ -2137,6 +2137,8 @@
 ||1867 Johann Baptist Strauß Ⅱ<br>小約翰·史特勞斯 || An der schönen blauen Donau<br>[https://www.youtube.com/results?search_query=An+der+sch%C3%B6nen+blauen+Donau 藍色多瑙河]|| '81 〈戦国魔神ゴーショーグン〉✂[https://youtu.be/z5RpzZgY1q4 ブンドル情報局長BGM]<br>'88 〈八星報喜〉☻張學友[https://youtu.be/oSXTGOCFdCc 人人望放假] || 另有鄭君綿〈[https://youtu.be/aT58_nMDic8 肥人應(學)跳舞]〉
 |-
 ||1878 Pablo de Sarasate<br>〈zigeunerweisen/流浪者之歌〉|| [https://www.youtube.com/results?search_query=zigeunerweisen+20 Op.20] || 2004 周星馳〈功夫〉✂[https://youtu.be/TGQBtzlQrQk 阿星掙扎驅毒療傷]|| 喜劇用悲愴場面音效(笑)
+|-
+|| 1892 Пётр Ильич Чайковский<br>〈Щелкунчик/胡桃鉗〉|| 〈[https://www.youtube.com/results?search_query=Dance+of+the+Sugar+Plum+Fairy танец Феи Дра]/糖梅仙子之舞〉|| '43 迪士尼〈幻想曲〉<br>'90〈Home Alone〉 || 鬼祟潛行+靜謐場面用
 |-
 ||1899 Римский-Корсаков<br>〈Сказка о царе Салтане/蘇丹沙皇的故事〉 ||〈Николай Андреевич Римский-Корсаков〉<br>[https://youtu.be/9ZsGEhTGL6g 大黃蜂的飛行]||黃俊雄〈封神榜〉✂飆車場面<br>《霹靂》✂[https://youtu.be/9fKpEyAzaqE&t=74 混沌大覺虎頭蜂]<br>'91 周星馳《新精武門II漫畫威龍/摩登武聖》✎[https://youtu.be/5xvlaQhXJT8&t=1119 承認攪後庭花] || 急速危機場面常用
 |-

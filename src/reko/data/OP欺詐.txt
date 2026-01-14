@@ -1,5 +1,9 @@
 {{h0|OP欺詐（オープニング詐欺）}}
-
+{| class="wikitable" style="font-size: medium; margin:1.5em auto; text-align:center;"
+|-
+|本條目帶有部分作品劇透，請斟酌觀看
+|-
+|}
 == 解說 ==
 * 動畫、遊戲或特攝等映視作品當中常見的現象，泛指映視作品的片頭（'''Op'''ening）因各種緣故造成令觀眾被誤導的情況：
 *# OP中的畫面或內容跟本篇完全是兩回事（基本上是本條目的重點）
@@ -24,6 +28,10 @@
 *<s>反正只要跳過OP，就不會有上述問題了</s>
 
 == OP欺詐的典型例子 ==
+{| class="wikitable" style="font-size: medium; margin:1.5em auto; text-align:center;"
+|-
+|下面列出的例子不含案例4
+|}
 === 動畫 ===
 {| class="wikitable"
 |-

@@ -71,17 +71,15 @@
 ===[http://daidai.moo.jp/ 橙汁][[橙汁|(條目)]] ===
 * [[きゅぴシュー]]
 ** くりすまシュ～
+** きゅぴシュ～DANGEROUS!!
+** くりすまシュ～SCRAMBLE!!
 
 * [[スグリ]]
 ** Acceleration of SUGURI
-
-* [[ソラ]]
+** ソラ
 ** Acceleration of SUGURI2
 
 * [[空飛ぶ赤いワイン樽]]
-
-* [[きゅぴシュ～DANGEROUS!!]]
-* [[くりすまシュ～SCRAMBLE!!]]
 
 ==={{Anchor|RezetiA}}[http://web.archive.org/web/20100308100425/http://rezet.rdy.jp/rezetia/index.html RezetiA] ===
 * [[PlaDzmA]]
@@ -517,9 +515,6 @@
 
 ===[https://yosshin4004.github.io/index.html 吉田研究所]→[https://twitter.com/yosshin4004 Yosshin] ===
 * [[超連射68k]]
-** 於2017年為兼容windows10以後的環境而大更新
-** 2023年6月再度大更新（1.10版）：追加更多背景之餘，音效及點圖全面翻新
-*** 目前該版本僅對應X68000
 
 ===[http://yotsubane.blog99.fc2.com/ 四ツ羽根] ===
 * [[Crimzon Clover]](クリムゾンクローバー)

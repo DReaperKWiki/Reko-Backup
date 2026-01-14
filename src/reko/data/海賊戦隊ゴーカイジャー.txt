@@ -6,7 +6,7 @@
 |上一部：[[天装戦隊ゴセイジャー]]
 |下一部：<s>[[動物戦隊ジュウオウジャー]]</s>[[特命戦隊ゴーバスターズ]]
 |-
-| colspan="2" |改編<s>亂接</s>：Power Rangers Super Megaforce<ref>美版設定<s>不知為何</s>是從護星者強化成豪快者，因為是直接強化而沒有護星者的鑰匙</ref>
+| colspan="2" |{{ruby|改編|<s>亂接</s>}}：Power Rangers Super Megaforce<ref>美版設定<s>不知為何</s>是從護星者強化成豪快者，因為是直接強化而沒有護星者的鑰匙</ref>
 |}
 [[檔案:Gokaiger Poster.jpg|300px|right]]
 ==作品介紹 ==
@@ -714,6 +714,7 @@
 * <S>[[成句/偽裝真差，一看就知道是○○|偽裝真差，一看就知道是]][[薩爾達傳說]]的三角之力</s>
 
 == 歷代戰隊登場 ==
+===本篇劇情===
 {| class="wikitable" style="margin:1.5em auto;"
 |-
 !'''No.'''
@@ -989,12 +990,21 @@
 |三位初期成員
 |豪快者VS卡邦（尾端客串）<br>超級英雄大戰（正式碰面）<br>Go-Busters VS豪快者
 |將夢幻的連者之鑰變為Go Busters的巨大力量
+|}
+===後作回歸連動===
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!'''No.'''
+!'''戰隊'''
+!'''成員'''
+!'''登場時機'''
+!'''備註'''
 |-
 |37
 |獸電戰隊強龍者(2013)
 |五位初期成員
 |Go-Busters VS豪快者（尾端客串）
-|
+|僅有三個戰隊的紅有直接互動
 |-
 | rowspan="2" |38
 | rowspan="2" |烈車戰隊特急者(2014)
@@ -1050,7 +1060,14 @@
 |-
 | Twokaizer-Zocks Goldtsuiker
 | 痛快凱撒VS豪快者
-| Maverous與Zocks的互動<br>Flint在Ahim的幫助下藉助豪快者的力量變身成痛快凱撒
+| Maverous與Zocks的互動<br>Flint在凱的協助下、藉助豪快者的力量(將變身用齒輪轉換為連者鑰匙)變身成痛快凱撒，並與Ahim共鬥
+|-
+| 49
+| 爆上戰隊BoonBoomger(2024)
+| 除Bun Blue(鳴田射士郎)之外成員
+| BoonBoomger 43集
+| 豪快藍回歸，奪回Bun Blue的變身器後將其變為連者鑰匙、豪快變身助陣<br>用豪快帆船鑰匙將ビュンビュンマッハーロボ轉換為ゴーカイカスタム
+|-
 |}
 
 ==其他媒體 ==

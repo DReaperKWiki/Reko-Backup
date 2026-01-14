@@ -11,10 +11,10 @@
 | group1 = ''[[女神轉生系列|<span style="color:#ff2525">女神轉生系列</span>]]''
 | group1style = background:#111111; 
 | list1 = 真・女神轉生｜真・女神轉生Ⅱ｜真・女神轉生Ⅲ-NOCTURNE｜真・女神轉生Ⅳ（Ⅳ Final）｜真・女神轉生Ⅴ（Ⅴ Vengeance）
-| group2 = [[女神異聞錄系列|<span style="-webkit-text-stroke:0.375px black; color:white;">女神異聞錄系列</span>]]
+| group2 = [[女神異聞錄系列|<span style="-webkit-text-stroke:1px black; color:white; paint-order: stroke;">女神異聞錄系列</span>]]
 | group2style = background:#cc99cc
 | list2 = 女神異聞錄Persona｜女神異聞錄2（罪、罰）｜[[女神異聞錄3]] ｜[[女神異聞錄4]] ｜[[女神異聞錄5]]（[[女神異聞錄:夜幕魅影|夜幕魅影]]）
-| group3 = <span style="-webkit-text-stroke:0.375px white; color:blue; ">惡魔召喚師系列</span>
+| group3 = <span style="-webkit-text-stroke:1px white; color:blue; paint-order: stroke;">惡魔召喚師系列</span>
 | group3style = background:#111111;
 | list3 = 真‧女神轉生：惡魔召喚師｜靈魂駭客｜葛葉雷道對（超力兵團（超力兵團奇談）、亞巴頓王）｜靈魂駭客2
 | group4 = 其他

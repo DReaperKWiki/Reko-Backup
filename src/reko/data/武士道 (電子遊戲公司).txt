@@ -60,11 +60,13 @@
 |-
 | [[D4DJ]]{{color|red||※}} || 2019年-2024年 || 第四個跨媒體聯企劃，也是目前主要長期營運的企劃之一<br>與《BanG Dream!》主打樂團不同，主打DJ團活動<br><s>木谷親女兒，手遊幾乎隨時都在連動、營運赤字還是出了二期動畫</s><br>2024年6月20日宣布營運轉移至Donuts
 |-
-| Assault Lily{{color|red||※}}|| 2020年-2023年 || 原本與AZONE INTERNATIONAL·acus合作的跨媒體企劃，有武士道負責營運<br>已於2023年1月退出該企劃 
+| Assault Lily{{color|red||※}}|| 2020年-2023年 || 原本與AZONE INTERNATIONAL·acus合作的跨媒體企劃，有武士道負責營運<br>已於2023年1月退出該企劃
 |-
 | ROAD59 -新時代任俠特區- || 2020年- || 
 |-
-| D_CIDE TRAUMEREI{{color|red||※}} || 2021年-2022年 || 與Sumzap、Drecom共同聯合的跨媒體企劃<br>已於2022年10月隨著遊戲的停服正式宣佈結束營運 
+| D_CIDE TRAUMEREI{{color|red||※}} || 2021年-2022年 || 與Sumzap、Drecom共同聯合的跨媒體企劃<br>已於2022年10月隨著遊戲的停服正式宣佈結束營運
+|-
+| ZERO RISE || 2026年- || 
 |}
 
 === 智慧型手機遊戲 ===
@@ -184,6 +186,8 @@
 | DUSK INDEX: GION || 2026年1月29日預定 || Switch<br>PS5<br>Steam<br>Xbox Series X<nowiki>|</nowiki>S  || Cherrymochi<br>mebius || 
 |-
 | Lilac -side Wizard-<br>Lilac -side Witch- || 2026年預定 || Steam || Frontwing || 同名舞台劇改編
+|-
+| ヴァイスシュヴァルツオンライン || 2026年秋預定 || Switch<br>Steam ||  || 雙版本(Weiß/Schwarz)
 |}
 
 === 動畫 ===
@@ -250,7 +254,7 @@
 |-
 | [[BanG Dream!]] || 2017年1月21日 || ISSEN、XEBEC || rowspan="5" | TV動畫 || 13+1 || 以Poppin' Party為主角的三部曲<br><s>黑歷史，名物：第3話的小星星</s>
 |-
-| BanG Dream! 2nd Season || 2019年1月3日 || rowspan="11" | 三次元 || 13 || 本作起系列製作公司改為三次元，動畫制作變為3渲2製作
+| BanG Dream! 2nd Season || 2019年1月3日 || rowspan="13" | 三次元 || 13 || 本作起系列製作公司改為三次元，動畫制作變為3渲2製作
 |-
 | BanG Dream! 3rd Season || 2020年1月5日 || 13 ||  
 |-
@@ -262,7 +266,7 @@
 |-
 | BanG Dream! Morfonication || 2022年7月28日 || 2 || 以樂團Morfonica為主角的特別篇動畫
 |-
-| BanG Dream! FILM LIVE || 2019年9月13日|| rowspan="5" |電影 ||  || 系列第一部劇場版，沒有劇情而是純粹的聯合演唱會
+| BanG Dream! FILM LIVE || 2019年9月13日|| rowspan="7" |電影 ||  || 系列第一部劇場版，沒有劇情而是純粹的聯合演唱會
 |-
 | 劇場版 BanG Dream! Episode of Roselia I: 約定 || 2021年4月23日 || || rowspan="2" | 以樂團Roselia為主角的前傳動畫，分上下兩篇
 |-
@@ -270,15 +274,23 @@
 |-
 | BanG Dream! FILM LIVE 2nd Stage || 2021年8月20日 ||  || 延續FILM LIVE，加入RAISE A SUILEN和Morfonica的聯合演唱會
 |-
-| 劇場版 BanG Dream! Poppin'Dream!|| 2022年1月1日 ||  || 延續正傳TV動畫第三季武道館LIVE後，Poppin'Party向新的舞台邁進的故事
+| 劇場版 BanG Dream! Poppin'Dream! || 2022年1月1日 ||  || 延續正傳TV動畫第三季武道館LIVE後，Poppin'Party向新的舞台邁進的故事
 |-
-| BanG Dream! 少女樂團派對！☆PICO || 2018年7月5日 ||rowspan="2" | DMM.Futureworks<br>W-Toon Studio<br>三次元 || rowspan="3" | 短篇動畫 || 26 || <s>官方有病的</s>泡麵日常番，講述各個樂團的互動故事<br>由於是泡麵番，除三次元外還有DMM.Futureworks參與製作
+| 劇場版「BanG Dream! It's MyGO!!!!!」 || 2024年9月27日<br>2024年11月8日 ||  || [[總集篇]]，分成前編和後編
+|-
+| BanG Dream! Ave Mujica prima aurora || 2026年秋預定 ||  || Ave Mujica的續篇
+|-
+| BanG Dream! 少女樂團派對！☆PICO || 2018年7月5日 ||rowspan="2" | DMM.Futureworks<br>W-Toon Studio<br>三次元 || rowspan="4" | 短篇動畫 || 26 || <s>官方有病的</s>泡麵日常番，講述各個樂團的互動故事<br>由於是泡麵番，除三次元外還有DMM.Futureworks參與製作
 |-
 | BanG Dream! 少女樂團派對！☆PICO～大份～ || 2020年5月7日 || 26 || 在前作基礎上加入Mofonica和RAISE A SUILEN
 |-
 | BanG Dream! 少女樂團派對！☆PICO Fever! || 2021年10月7日 || SCOOTER FILMS || 26 || 
 |-
-| バンドリ！ ゆめ∞みた || 2026年預定 || ニチカライン（NICHICALINE）<ref>三次元新成立品牌</ref> || TV動畫 ||  || 
+| 元祖！BanG Dream Chan || 2025年10月2日 || AtoriE || 52(預定) || 
+|-
+| バンドリ！ ゆめ∞みた || 2026年7月預定 || rowspan="2" |ニチカライン（NICHICALINE）<ref>三次元新成立子品牌</ref> || rowspan="2" |TV動畫 ||  || 
+|-
+| ZERO RISE || 202X年預定 ||  ||  ||  || 
 |-
 | [[少女☆歌劇 Revue Starlight]] ||  2018年7月12日 || rowspan="2" | KINEMA CITRUS || TV動畫 || 12 || '''あたし、再生產'''<br>因為動畫電波的劇情深度以及高精度作畫演出獲得好評<br>之後剪輯成{{censored|以大場奈奈視角回顧的}}[[總集篇]]劇場版《ロンド・ロンド・ロンド》
 |-
