@@ -1,4 +1,4 @@
-{{h0|葛葉紘汰(Kazuraba Kouta)<s>/橙神</s>}}
+{{h0|{{color||darkblue|{{color|orange||葛葉紘汰(Kazuraba Kouta)}}}}<s>/{{color||darkblue|{{color|orange||橙}}}}[[新世界的神|{{color||darkblue|{{color|orange||神}}}}]]</s>}}
 {| class="wikitable" style="margin:1.5em auto;text-align:center;"
 | colspan="2" |以下含有嚴重劇透，'''不想吃下果實變成Inves'''的話請不要看下去。
 |}

@@ -1,4 +1,4 @@
-{{h0|{{ruby|吳島貴虎|くれしま たかとら}}}}
+{{h0|{{color||white|{{color|lightgreen||{{ruby|吳島貴虎|{{color||white|{{color|lightgreen||くれしま たかとら}}}}}}}}}}}}}
 
 [[檔案:呉島貴虎.jpeg|300px|right]]
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold;  font-size:24px; ">
