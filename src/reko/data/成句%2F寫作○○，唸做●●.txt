@@ -1,6 +1,6 @@
 {{h0|成句/寫作○○，唸做●●}}
 {|class="wikitable" style="margin: 0 auto;"
-|這裡寫作KOMICA，可是唸做糟糕島喔~
+|這裡寫作[[komica|KOMICA]]，可是唸做[[糟糕島]]喔~
 |}
 == 解說 ==
 * 提示事物除了字面上的意義之外的真義。

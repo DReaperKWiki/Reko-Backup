@@ -10,7 +10,7 @@
 * 旗下VTuber主要於歐美圈活動，另外還有部分日本VTuber。目前成員全數是女性
 ** 直播風格比起其他企業勢更少限制，VTuber言行更為狂野，因此Phase-Connect又得了女子精神病院的名號
 ** <s>sakana從精神病院精心挑選傷心女人並把她們打造成偶像的失敗嘗試</s>
-* 為西方除了hololive EN和VShojo外規模和知名度較大的VTuber箱。<s>隨著idol被收購和Tsunderia、kawaii production等競爭對手解散後可能成為唯一一個規模較大的獨立西方企業勢</s>
+* 為西方除了hololive EN和VShojo外規模和知名度較大的VTuber箱。<s>隨著idol被收購，Vshojo爆炸和Tsunderia、kawaii production等競爭對手解散後可能成為唯一一個規模較大的獨立西方企業勢</s>
 * 公司於於2023獲得了由VTuber Filian所舉辦的The VTuber Awards的「RISING VTUBER ORG」類別獎項
 * 官方頻道每周會舉行名為 "Phase-Weekly"的直播，作為每周總結用。
 ** 原先由不同成員輪流擔任主持人，自從Dizzy加入後則改為由Dizzy擔任固定主持人
@@ -263,6 +263,7 @@
 
 ; [[恋衣めもり]]（Kokoromo Memory）
 * 設定上是為記憶女神服務的妖精，為了收集回失散的人類感情和記憶而降臨地球
+* '''{{color|red||於2026年1月31日畢業}}'''
 * [https://www.youtube.com/@kokoromomemory_ YouTube頻道]
 * [https://www.twitch.tv/kokoromomemory Twitch頻道]
 * {{twitter|kokoromomemory|name=Twitter帳戶}}
