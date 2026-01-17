@@ -201,6 +201,8 @@
 * とっておきAnswer
 * 世界中の青空をあつめて
 
+===22nd Single===
+
 ===EP以外專輯曲===
 * Freedom
 ** 與海野夏希合唱，算是CHISPA頭一回為遊戲樂曲獻聲。
@@ -419,6 +421,12 @@
 * じょいふる
 ** 原唱為いきものがかり，在SANRIO合作活動中與Hello Kitty合唱，有製作{{youtube|d2Qv6ukBWqw|PV}}。
 
+* 恋人がサンタクロース
+** 由松任谷由実演唱的經典名曲
+
+* START!! True dreams
+** 動畫《[[LoveLive! Superstar!!]]》一期OP
+
 {{hidef}}
 
 ==Roselia==
@@ -498,7 +506,7 @@
 *: 劇場版第二部FWF預選賽的演唱曲目。
 ** {{twitter|mattalilo|1382283085589323776|讀賣巨人隊的投手畠世周曾用作出場曲。}}
 
-* “UNIONS”Road
+*“UNIONS”Road
 
 ===ZEAL of proud===
 * ZEAL of proud
@@ -569,8 +577,10 @@
 * Steadfast Spirits
 * 紫炎
 ** 用作「卡片戰鬥先導者Divine Z」第四季的輪替ED2
-===EP以外專輯曲===
 
+===19th Single===
+
+===EP以外專輯曲===
 ====Anfang====
 * Neo-Aspect
 ** 遊戲樂團劇情第二章主題歌、劇場版第二部於FWF演奏的三首曲目之一，有製作{{youtube|VQW6XmAPMcI|MV}}。
@@ -1452,6 +1462,12 @@
 * 怪獣
 ** 動畫《チ。―地球の運動について―》OP
 
+* ミラクルペイント
+** OSTER project製作的VOCALOID傳說曲。
+
+* マツケンサンバII
+** 由松平健演唱的網路<s>迷因</s>熱門名曲。
+
 {{hidef}}
 
 ==RAISE A SUILEN/THE THIRD==
@@ -2294,6 +2310,18 @@ TEENAGE RIOT
 
 * 悪魔の子
 ** 動畫《[[進擊的巨人|進擊的巨人 The Final Season Part 2]]》ED，由Roselia和LAYER合唱。
+
+* I wonder
+** 電視劇《くるり〜誰が私と恋をした?〜》主題曲，由Poppin'Party和美竹蘭合唱。
+
+* Same Blue
+** 動畫《アオのハコ》1期OP1，由Morfonica和高松燈合唱。
+
+* デビルじゃないもん
+** DECO*27和ピノキオピー製作的VOCALOID傳說曲，由Pastel＊Palettes和湊友希那合唱。
+
+* イケナイ太陽
+** 電視劇《花ざかりの君たちへ〜イケメン♂パラダイス〜》(2007年版)OP，由Hello, Happy World!和LAYER合唱。
 
 {{hidef}}
 

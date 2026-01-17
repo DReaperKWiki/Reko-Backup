@@ -221,7 +221,7 @@
 * 依照輸入機械的不同，會使用不同的Meta-Virus
 * 當Metaloid誕生的同時，其素體的資料便會傳送到Vaglass的根據地，並以該資料對基礎Megazord進行改造
 
-{| class="fandom-table"
+{| class="wikitable"
 !'''話數'''
 !'''Metaloid名稱（日文）'''
 !'''輸入的病毒（製造編號）'''
@@ -500,7 +500,7 @@
 * 最終目的為透過不斷吸收人類的數據來成長，進而構成彌賽亞的新身體，因此也被Enter稱呼他們為「成長的種子」
 * 當Messiahloid被擊破時，它們體內的Messiah Card也會粉碎消滅
 
-{| class="fandom-table"
+{| class="wikitable"
 !'''話數'''
 !'''怪人名稱（日文）'''
 !'''卡片編號（彌賽亞寄宿的位置）'''
@@ -635,7 +635,7 @@
 ** Ω
 *** Enter後期專用的Megazord，最早登場於《特命vs海賊》，本篇則是第48話起登場
 
-{| class="fandom-table"
+{| class="wikitable"
 !'''話數'''
 !'''Megazord名稱（素體類型）'''
 !'''能力'''

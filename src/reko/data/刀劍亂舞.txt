@@ -4,8 +4,6 @@
 |本條目請[[後宮|<s>收刀近百</s>]]的審神者們幫忙備份補完，謝謝！
 |-
 |刀劍亂舞登場人物一覽：[[刀劍亂舞/登場人物一覽-Part1|Part1]]、[[刀劍亂舞/登場人物一覽-Part2|Part2]]、[[刀劍亂舞/登場人物一覽-Part3|Part3]]
-|-
-|[https://docs.google.com/document/d/1EX4sVH-LAcyswWZ8EqxF5pWccPA-n6cjy3qQbu47Ylw/edit 本頁google快取(11/2022)]
 |}
 {{Infobox
 | bodystyle = width:300px;
