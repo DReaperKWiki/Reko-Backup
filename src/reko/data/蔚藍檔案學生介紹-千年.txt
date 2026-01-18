@@ -40,7 +40,7 @@
 
 ==== 調月莉央(調月リオ) ====
 * CV：[[Lynn]]（日）/（中）/김푸름（韓）
-* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''輔助
+* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（臨戰）；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（臨戰）；'''職業：'''輔助、打手（臨戰）
 * 會長，控管千年的{{wp|一九八四|{{ruby|大姐頭|Big Sister}}}}，陽葵稱其為水溝水<s>但由於出眾的身材在狼師間衍生出許多與水溝相關連的閒話</s>
 **擁有一支龐大的AMAS機器兵團，只有陽葵級別的駭客才有能耐奪取操控權限。
 ** <s>在劇情裡表現得像是千年公敵，全校叫得出名的學生除了季之外都和她做對</s>。
@@ -107,7 +107,7 @@
 
 ==== 早瀨優香(早瀬ユウカ) ====
 * CV:春花らん（日）/小敢（中）/신나리（韓）
-* '''班級：'''2年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}(原版、睡衣)、{{color|1=#2D96D2|3=神秘}}（體育服）；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}(原版、睡衣)、{{color|1=#2D96D2|3=特殊裝甲}}（體育服）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''坦克
+* '''班級：'''2年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（體育服）；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（體育服）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''坦克
 * 會計，有著適合這職務的強大計算能力。
 ** 即使時刻替C&C與工程師部收拾善後、被內鬼侵吞大筆資金也能撐住千年財務不至於破產，營運能力可能遠超老師們的想像。
 ** 不過因過度重視數字計算有時會顯得不近人情，本人也有自覺。
@@ -306,7 +306,7 @@
 
 ==== 明星陽葵（明星ヒマリ） ====
 * CV：[[野上尤加奈|ゆかな]]（日）/王夢雅（中）/김채린（韓）
-* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''輔助
+* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''輔助、T.S（臨戰）
 * 原貝里塔斯部長，因莉央要求任職特異現象搜查部部長。民間譯名為「日鞠」，通稱輪椅、otto。
 ** 因不明原因不良於行，平日全靠一張高科技輪椅代步。
 *** 從個人劇情中可知雙腳不是完全不能動，會用輪椅代步有很大可能只是為了保存體能。
@@ -451,7 +451,7 @@
 ==== 美甘寧瑠(美甘ネル) ====
 * CV：[[小清水亞美]]（日）/二嬌（中）/김보민（韓）
 * '''班級：'''3年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（兔女郎）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）、{{color|1=#6633CC|3=彈力裝甲}}(制服)；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、坦克（兔女郎）
-* 領隊，代號[[機動戰士鋼彈00|00(Double O)]]，外號「[[Artoria Pendragon (Fate)#寶具|誓約勝利的象徵]]」。通稱尼祿。
+* 領隊，代號[[機動戰士鋼彈00|{{ruby|00|Double O}}]]，外號「[[Artoria Pendragon (Fate)#寶具|誓約勝利的象徵]]」。通稱尼祿。
 * 千年最強戰力，擁有能跟弦生打成平手的強大實力，在狹窄空間近身作戰幾乎無人能敵，Vol.2-2裡有不少個人秀場。
 ** Vol.2-1並沒有出手攔截遊戲開發部，事後閱讀報告時對愛麗絲產生了興趣便親自出手試探。
 *** 以近身作戰的方式完全壓制對方，逼使其使用近乎同歸於盡的近距離炮擊才被擊退。那一戰散發出的殺氣事後給愛麗絲留下PTSD，看到女僕裝會害怕。
@@ -557,7 +557,7 @@
 
 ==== 飛鳥馬季（飛鳥馬トキ） ====
 * CV：[[石川由依]]（日）/溯浔（中）/김연우（韓）
-* '''班級：'''1年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（兔女郎）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級；'''武器：'''突擊步槍、手槍（臨戰）；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（臨戰）；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（兔女郎、臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、輔助（臨戰）
 * 代號04(Zero Four)，部份翻譯為「時」。直屬莉央的貼身女僕以及護衛。
 ** 其實是莉央為了避免寧瑠抗命而準備的反制底牌，身上不僅搭載了莉央製作的特殊武裝，在允許下還可以進一步使用集中埃里都全計算能力以及電力的[[鋼鐵人#知名的裝甲|<s>寧瑠殲滅者</s>]]動力裝甲阿比•舒<ref>其名源自於古巴比倫王，漢摩拉比之孫。</ref>，藉著幾乎預知未來程度的計算能力彈開或迴避攻擊達到刀槍不入的效果。Vol.2-2後期攻克要塞都市埃里都的最大阻礙。
 *** 最終在C&C眾人的配合下被寧瑠扔進大幅加速的電梯裡，在無法迴避的狹窄環境下戰敗，但此役也導致C&C全員大破，寧瑠身受重傷而退場。
@@ -665,7 +665,7 @@
 
 ==== 天童愛麗絲(天童アリス) ====
 * CV：[[田中美海]]（日）/四白（中）/김가령（韓）
-* '''班級：'''1年級；'''武器：'''軌道砲；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（女僕）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級；'''武器：'''軌道砲、突擊步槍（臨戰）；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（女僕）、{{Color|darkcyan|3=複合裝甲}}（臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
 * 沉睡於自治區某個封鎖區域地下設施的謎之機器人，Vol.2裡由桃井、綠和老師尋獲。
 ** 剛出場時是全裸狀態，綠拿她自己的備用衣服換上。
 ** 台座上有疑似型號的「AL-1S」字樣，桃井以此將她命名為「愛麗絲」，本人也接受了。
@@ -677,6 +677,7 @@
 ** 入手軌道砲的故事章節標題名為「{{ruby|稱之為槍也太大了|銃と呼ぶには大きすぎる}} 」，明顯捏他了[[烙印勇士]]中旁白對凱茲的那把大劍的描述。
 ** 順帶一提，老師在某些劇情裡可以把愛麗絲連帶這門炮用公主抱抱起後開始逃走……
 * [[超長髮|頭髮長度超過自己的身高]]因此一部份直接拖地，被戲稱為「掃地機器人」<s>，後來真的穿上女僕裝成為掃地機器人了</s>。
+* {{Censored|臨戰版的裝甲是季的阿比．舒遭到「王國」馬爾庫斯擊毀、由Kei和愛麗絲合作施展無名諸神的力量將其重組到愛麗絲身上的。}}
 * 在優香小劇場結束後接任下一期小劇場《[https://www.youtube.com/shorts/S8VCpg8PJTs 先生、ちょっとお時間いただきます！]》主角。
 * 偶像團體イタズラ☆ストレート成員之一。
 * 南韓二創動畫師「Blue Sechi」的動畫常客之一，同時也是許多蔚藍迷因的起源。
@@ -694,6 +695,8 @@
 *** 暴傷倍率高，但暴擊率哪怕是追加愛用品補正還是不怎麼樣，又只有一次的傷害判定，暴擊與否會使最後的輸出天差地別。結果對總力王時和原版柚子一樣變成爆擊賭博大賽，被稱為「{{ruby|愛麗絲柏青哥|アリパチ}}」。
 
 ==== Kei(ケイ) ====
+* CV：[[田中美海]]（日）
+* '''班級：'''？；'''武器：'''軌道砲；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{Color|darkcyan|3=複合裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''輔助
 * 無名祭司在製造愛麗絲時留下的AI，啟動「無名諸神的王女」AL-1S用的鑰匙人格。
 ** Kei是桃井唸錯Key而得到的稱呼，愛麗絲在Vol.2之後也如此稱呼他，公主否定了自身做為毀滅兵器AL-1S的存在理由，跟著失去鑰匙功能的Key也無奈得捨棄本名、接受這個新的名號。
 * 被Kei覺醒的愛麗絲具備將鎖定的資源轉變成方舟阿特拉哈希斯的能力，方舟擁有將全奇普托斯的「神秘」格式化{{censored|，以及運算、穿越平行世界}}的機能。

@@ -96,7 +96,7 @@
 |本名強納森·雅利安·傑佛利（Jonathan Aryan Jafari），2003年於Newgrounds製作小動畫起家，2006年以本名Jafari為名投入YouTube<br>2010於ScrewAttack評論N64遊戲《007黃金眼》後打響名號，之後更是創了JonTronShow這個頻道來評論遊戲<br>曾經與上面的Egoraptor共同創辦遊戲實況頻道Game Grumps，但後來在2013年因為一些因素而卸下職位，由Dan Avidan接手其位置<br><s>'''本身也是迷因生產機'''</s><br><br>'''<big><big><big><center>WHAT!?</center></big></big></big>'''
 |-
 |Tomska
-|rowspan = "4"|2006
+|rowspan = "5"|2006
 |本名Thomas James Ridgewell，網路短片導演兼動畫師，著名動畫為《asdfmovie》<br>與Edd Gould等人是好友
 |-
 |Dane Boe
@@ -104,6 +104,9 @@
 |-
 |Lucas Cruikshank
 |最初主要以經過變聲處理的vlog系列：Fred Figglehorn打響名號，在該系列主演的Fred的年齡設定為6歲（電影版為15歲）<br>'''HEY, IT'S FREEEEED!'''<br>同時也是首個達到100萬訂閱的YouTuber，有推出過音樂專輯並且與上者的Annoying Orange合作過，甚至也找John Cena客串同台演出電影，本身也有數次客串其他電影以及電視劇的經驗<br>除此以外，以本名Lucas開設的YouTube頻道也有在經營，前期主要是在講一些生活瑣事（包括拍攝Fred系列的過程），後期變得多樣化：除了生活瑣事以外，也會回去看當年拍攝的影片（包括上述的vlog、客串以及電影片段）或是做挑戰等，目前重心也已在該頻道
+|-
+|喬治·楠木·米勒<br>George Kusunoki Miller
+|日澳混血網紅，也是當代迷因「哈林搖」的起源<br>最初分別以DizastaMusic及Filthy Frank之名發布各種毫無下限的搞笑短片出名，甚至創造了如Pink Guy、Papa Franku、蠑螈人等角色<br>然而在2017年宣布可能因為自己長年演搞笑影片而罹患心理疾病，而決定引退搞笑網紅，但自己的官方YouTube頻道則會持續保留，之後被唱片公司相中後決定以Joji為名轉行當音樂人
 |-
 |[[Animator vs. Animation|Alan Becker]]
 |詳見條目
@@ -145,6 +148,8 @@
 | Eleanor Neale  || 介紹刑事案件為主。 
 |-
 | DaFuq!?Boom! || 2017 || SFM影片作者，最早以《俠盜獵車手：聖安地列斯》為主題（主要環繞大菸槍的惡搞），後來靠著顏藝短片「skibidi bop yes yes yes」以及前者的馬桶版本「skibidi toilet」出名，之後就將重心放在「skibidi toilet」系列<br>2025年11月25日爆料因為贊助片商「Invisible Narratives」<ref>即<s>嘜靠北</s>麥可·貝所屬的電影公司</ref>不斷介入，導致自己已經無力管理「skibidi toilet」系列甚至自己的YouTube頻道，且自己毫無獲得任何分紅
+|-
+| Zach Choi || 2018 || 美國韓裔吃播主，憑著帥氣英俊的顏面和自己親手製作料理以及ASMR吃播而成名。
 |-
 | Steven He || 2019 || 愛爾蘭籍華人，以製作亞洲和外國的分別為笑點的短片而出名<br>和Uncle Roger為友好關係，兩人曾推出合作影片<br>和Uncle Roger一樣，影片中帶有亞洲腔調的英語'''也是演出來的'''，本人的英語也是非常純正的英國腔<br>'''\Emotional Damage！/'''
 |-
@@ -247,7 +252,7 @@
 |-
 | 帥狗HandsomeDoge || 影片主要主題為[[遊戲王集換紙牌遊戲|遊戲王]]、DTCG以及DC相關漫改影視<br>2022年推出了自己原創的TCG桌遊「星界騎士」
 |-
-| 啾啾鞋 || rowspan = "4"|2013 || 化學系畢業，影片以科普、書評，以及講解各種冷知識為主<br><s>逐漸被裏人格「魔鞋啾啾」侵蝕</s><br>2024年開始觀看經典宮鬥劇《後宮甄嬛傳》並且還會時不時代入自己的個人見解
+| 啾啾鞋 || rowspan = "4"|2013 || 化學系畢業，影片以科普、書評，以及講解各種冷知識為主<br><s>逐漸被裏人格「魔鞋啾啾」侵蝕</s><br>2024年開始觀看經典宮鬥劇《[[後宮甄嬛傳]]》並且還會時不時代入自己的個人見解
 |-
 | MIGUN 米柑  || 主要是對動漫、假面騎士以及相關事件評論及解說<br>除了評論作品外，也會評論涉及動漫的時事。<br>同時也是一位Cosplayer。
 |-
