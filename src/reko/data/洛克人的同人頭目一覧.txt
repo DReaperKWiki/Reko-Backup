@@ -1,0 +1,430 @@
+{{h0|洛克人的同人頭目一覧/ロックマン非公式ボス/Megaman Fan Robot Masters}}
+
+{{Orga}}
+
+==概要 ==
+* 從洛克人系列衍生的同人作品頭目
+
+===標準 ===
+*須有完整版遊戲(HACK、DEMO不算)
+**頭目有設定資料、專用曲<s>，部份須要有[https://twitter.com/KarakatoDzo KarakatoDzo]背書（←廢話來的，他又不是官方繪師）</s>
+**目前出現了三個飛彈人、兩個(噴射人、火山人、風暴女)等撞名...
+
+==洛可醬<br>Rokko Chan/ロッコちゃん<br>SFR==
+[[File:Rokko_chan_robot_masters_by_thormeister_d5g5zv9-fullview.jpg|300px]]
+*製作:王の巣窟(2011)
+**特色:
+***沒有滑行,但能衝刺
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/DMN''' !! '''武器'''!! '''簡介'''
+|-
+| 01<br>Hockey Man/曲棍球人||Ice Shield/冰盾||[https://youtu.be/cddgrt8crh8 專用曲]
+|-
+| 02<br>Volcano Man/火山人 ||Volcano Cannon/火山砲||[https://youtu.be/_FqJwoBtrlk 專用曲]
+|-
+| 03<br>Lightning Man/打閃人||Lightning Flash/打閃光||[https://youtu.be/f5R8wyr0D0c 專用曲]
+|-
+| 04<br>Jet Man/噴氣人||Jet Missile/噴氣彈||[https://youtu.be/g5YBY40fjRM 專用曲]
+|-
+| 05<br>Rolling Man/滾動人||Rolling Ring/滾環||[https://youtu.be/QfkNldkstcs 專用曲]
+|-
+| 06<br>Forest Man/森林人||Forest Whip/森林鞭||[https://youtu.be/uJqvblZFN6c 專用曲]
+|}
+*相剋:HO→VO→FO→JE→RO→LI→HO
+
+===要素===
+*通關後,您可以在主菜單中解鎖挑戰(這幾乎相當於在各種條件下通關整個遊戲)和音樂室,以及選項中的Owata/一擊模式和無限武器模式
+
+===其它資料===
+*[http://king75.blog53.fc2.com/ 王の巣窟 blog]→[https://twitter.com/king_75 キング]
+**[https://dic.pixiv.net/a/ROKKO_CHAN Pixiviki]
+**[https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/RokkoChan Tvtropes]
+**[https://drive.google.com/file/d/1M0ehE1apbZ3zzXmOW2hB4HeLj0Chu38d/view DL]
+
+==[[洛克人 洛克軍團|洛克軍團/ロックフォース<br>Rock Force<br>RMRF]]==
+[[File:Ddlytm9-e22b32cf-1b61-49c4-9ece-5b3a0054507a.png|600px]]
+*製作:GoldwaterDLS(2013)
+*洛克人有感自己一個未必可以處理所有事情而決定建立一個小隊一起去舒災解困，萊特博士製造了正義人去協助他
+**然而正義人和小隊成員相繼失蹤，同時也出現機器人叛亂事件
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/JMN''' !! '''武器'''!! '''簡介'''
+|-
+| 01<br>Crypt Man/墓穴人||Crypt Cloak/地穴披風||[https://youtu.be/4JVg7q7iZ8Y 專用曲]<br>為了擊退富裕家庭古墓中盜墓者的家族守墓人<br>叛軍主要代言人<br>事件過後成為恐怖主題遊樂園的導遊
+|-
+| 02<br>Pulse Man/脈衝人||Pulse Stopper/脈搏抑制器||[https://youtu.be/OZmj9rdY-fk 專用曲]<br>新型氫燃料系統實驗機器人,但容易被污染下後受到擱置<br>事件過後成為健身教練
+|-
+| 03<br>Virus Man/病毒人||Virus Outbreak/病毒暴發||[https://youtu.be/Xay4iXKu6h0 專用曲]<br>人類和機器人疾病控制機器人<br>事件過後成為深海探險員
+|-
+| 04<br>Boom Man/轟人||Phantom Fuse/幻影引線||[https://youtu.be/jZj9UT0icZI 專用曲]<br>爆炸拆除作業員<s>脈衝人的兄弟</s><br>原為引線人(Fuse Man),R11後改名並改成灰色
+|-
+| 05<br>Photon Man/光子人||Photon Flare/光子耀斑||[https://youtu.be/jiyoWHhnabQ 專用曲]<br>太陽能研究用機器人
+|-
+| 06<br>Shock Man/電擊人||Shock Gauntlet/電擊手套||[https://youtu.be/xrad5JjnA7w 專用曲]<br>水力發電廠的主要機器人,負責臨時橋接需要維修的電路<br>能夠傳導和產生極高電壓的電擊,這使他處於非常危險的狀態
+|-
+| 07<br>Circuit Man/電路人||Circuit Breaker/斷路器||[https://youtu.be/uZhtEeKCWMQ 專用曲]<br>電路製造作業員<br>事件過後成為博物館館長
+|-
+| 08<br>Charade Man/戲劇人||Charade Clone/替身演員||[https://youtu.be/in97tw7x5r4 專用曲]<br>表演機器人,用於生病或因故請假的人代演(不論性別)<s>本作最謎的存在</s><br>事件過扮演的角色上有更多的創作自由
+|}
+*相剋:CR→CH→VI→PU→CI→SH→BO→PH→CR
+
+*融合頭目是兩頭目能源核心移植到一位廢棄機器人身上
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/JMN''' !! '''混合機人'''!! '''簡介'''
+|-
+| 09<br>Terror Man/恐懼人||BO/CR||[https://youtu.be/7xP22chPz5c 專用曲]<br>垃圾場警衛,盡責到誤傷人類後,遭到廢棄
+|-
+| 10<br>Thrill Man/刺激人||CR/PU||[https://youtu.be/Tnn0zZ47Akc 專用曲]<br>特技機器人,在硝基人超越他的記錄後想進一歩挑戰、但失敗了
+|-
+| 11<br>Plague Man/瘟疫人||PU/VI||[https://youtu.be/ADDY4aSdBzo 專用曲]<br>廢水過濾機器人,但現今過濾技術好到將他擱置、還被人唾棄
+|-
+| 12<br>War Man/戰爭人||BO/SH||[https://youtu.be/nHWkl1WqhyQ 專用曲]<br>戰爭模擬遊戲之王,但好勝過頭而遭到廢棄
+|-
+| 13<br>Thermo Man/熱鍋人||VI/PH||[https://youtu.be/0SmITbHyKEE 專用曲]<br>火山材樣機器人,由於沒裝冷卻機制、意外引爆了研究所
+|-
+| 14<br>Power Man/電力人||CI/SH||[https://youtu.be/7D4r_rlQAjQ 專用曲]<br>能量供應機器人,能徒手捏能量球補給能量,只是會因為工作外的事頂撞上司
+|-
+| 15<br>Port Man/接端人||CI/CH||[https://youtu.be/ocVpXt4Ko58 專用曲]<br>企業程式員,從客戶資料那裡發現非法行為去踢暴而此付出了代價
+|-
+| 16<br>Flare Man/爆怒人||PH/CH||[https://youtu.be/c4K9MQmxgDI 專用曲]<br>武鬥機器人,但不幸失去了進入決賽的機會
+|-
+| 17<br>Death Man/死亡人||全部融合||[https://youtu.be/TkzlGzqZYvU 專用曲]<br>專門用於追捕和摧毀危險機器人的處刑人,但其成本昂貴又耗能被左遷成農民
+|-
+| 18<br>Fish Man/魚人||無||[https://youtu.be/MsYuUd63ylc 專用曲]<br>生體機構的深海探索機器人
+|-
+| 19<br>Polar Man/極地人||無 ||[https://youtu.be/sB9skUET8b0 專用曲]<br>除雪作業機器人,為了偉大成就而加入正義人陣營
+|}
+===要素===
+*打倒叛亂軍成員即可使用被他們囚禁的小隊成員，武器也有相剋
+
+===其它資料===
+*[https://web.archive.org/web/20180218202714/http://megamanrockforce.com/rockforcemain.html 舊官網]
+**[https://gamebanana.com/mods/400111 DL]
+**[https://forum.gamer.com.tw/Co.php?bsn=00240&sn=115797 GAMER]
+**[https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManRockForce Tvtropes]
+
+==42==
+
+*製作:[http://servadacsgamedev.blogspot.com/2013/ servadac](2013)
+**特色:沒有滑行，沒有充能，沒有萊西等輔助，一切有如一代，但把一代缺點發揚光大
+**糞作代表之一
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/DWN''' !! '''武器'''!! '''簡介'''
+|-
+| 420<br> Art Man/藝術人|| Color Glob/色稠 ||[https://youtu.be/TIqWnNgkvk0 專用曲]
+|-
+| 421<br> Sand Man /睡沙人 || Sleeping Sand/睡沙 ||[https://youtu.be/-pwGHXhQk_E 專用曲]
+|-
+| 422<br> Zombie Man /喪屍人 || Radiation Ray/放射光 ||[https://youtu.be/w-bP9E6cyqE 專用曲]
+|-
+| 423<br> Mad Man/瘋狂人|| Insane Cannon/瘋狂大砲 ||[https://youtu.be/QkH7djL4F4w 專用曲]
+|-
+| 424<br>Missile Man /發彈人||  Launch Missile/飛射彈 ||[https://youtu.be/O_V74s5O6Bw 專用曲]
+|-
+| 425<br> Brain Man /大腦人 || Homing Laser/追雷射 ||[https://youtu.be/-pwGHXhQk_E 專用曲]
+|-
+| 426<br> Sky Man/天雲人|| Thunder Hammer/電光捶 ||[https://youtu.be/O_V74s5O6Bw 專用曲]
+|-
+| 427<br> Ombuds Man/監察人|| Paper Slash/紙割刀 ||[https://youtu.be/hjKkHkqBHMY 專用曲]
+|}
+*相剋:AR→OM→ZO→SA→MA→BR→SK→MI→AR
+
+===要素===
+*只能用密碼續關
+*可選用羅露，受傷數值會比洛克人多但可疾衝
+*在瘋狂人的關卡使用Launch Missile可到達一般情況到不了的抗位去打多餘人（Etc Man ）
+**結局會出現麥提九號的貝克
+
+===其它資料===
+*[https://www.moddb.com/games/mega-man-42/downloads/mega-man-42-v13  如果你想自虐]
+*[https://www.youtube.com/playlist?list=PLb0NJZXgMlRL_NCPstcAB8FdsbSkzgdR7 MM10RemixOst]
+
+==超級戰鬥機器人<br>Super Fighting Robot<br>SFR==
+[[File:Gb328y51slb71.png|600px]]
+*製作:MrWeirdGuy(2015)
+**特色:
+***頭目攻擊猛烈
+***特武實用性高
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/SFR''' !! '''武器'''!! '''簡介'''
+|-
+| 01<br>Leaf Man/樹葉人||Leaf Boomerang/葉旋鏢||[https://youtu.be/KP4OUqleUPk 專用曲]<br><s>森林人</s>事件過後進行綠化工作
+|-
+| 02<br>Zap Man/迅電人||Zap Barrier/迅電屏障||[https://youtu.be/JrimpsG5XZc 專用曲]<br>事件過後佛魯迪挑戰他而敗北
+|-
+| 03<br>Coal Man/煤炭人||Coal Barrage/煤火網||[https://youtu.be/bJ9-YukixMU 專用曲]<br>事件過後去挖礦,但意外挖到鑽石
+|-
+| 04<br>Dagger Man/匕首人||Flash Dagger/閃光匕首||[https://youtu.be/BbKMSM4II_8 專用曲]<br>事件過後去虚擬空間除錯(EXE的網路戰鬥)<br>以下RNR的客串角色
+|-
+| 05<br>Wizard Man/巫師人||Magic Missile/魔法導彈||[https://youtu.be/M12ALq00vJE 專用曲]<br>事件過後去深山討伐巨龍
+|-
+| 06<br>Axe Man/巨斧人||Giant Axe/巨斧||[https://youtu.be/CcjePBidV_g 專用曲]<br>事件過後去鬥技場
+|-
+| 07<br>Soak Man/浸泡人||Soak Rain/泡雨||[https://youtu.be/89gspzGfGs4 專用曲]<br>事件過後去污水處場工作
+|-
+| 08<br>Trash Man/垃圾人||Trash Attack/垃圾攻擊||[https://youtu.be/wLHhDoyhysE 專用曲]<br>意外出現在摧毀中的威利城外面(布魯斯救的?)
+|}
+*相剋:LE→ZA→SO→CO→TR→WI→DA→AX→LE
+
+===要素===
+
+*Bonus Boss：通過以特定方式完成遊戲，您可以解鎖其中五個，可通過特殊菜單訪問：
+**Bass/佛魯迪：困難模式全破後解鎖
+**Shovel Knight/鏟子騎士 : 通關並獲得超過1000個備用螺絲即可解鎖
+**Simon Belmont/西蒙・貝爾蒙特：在沒有升級的情況下通關遊戲即可解鎖。
+**紅魔法師：全升級情況下全破後解鎖。
+**萊特博士：在瘋狂模式下通關遊戲即可解鎖。
+
+*C-137模式
+
+===其它資料===
+*[https://www.youtube.com/@MrWeirdGuy/videos MrWeirdGuy]
+**[https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManSuperFightingRobot Tvtropes]
+
+==黎明<br>Sunrise==
+*製作:DJ Coco(2016)
+*GameBoy風格,配置只有三代程度(不過有M罐)
+*萊德製作出新的<s>飯桶</s>機器人傳思/Trance
+**威利插手、結果成為最終頭目的爭奪戰...
+**曲目使用免費素材，和別的同人遊戲相同不是怪事，<s>傳思卻用東方系列的bgm</s>
+***<s>音量沒有統一導致玩到一半突然變大聲</s>
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目''' !! '''特武'''!! '''專用曲'''
+|-
+| Vine Man/藤蔓人||Vine Whip/藤蔓鞭||[https://youtu.be/3YvdHYGbHO0 專用曲]
+|-
+| Scorch Man/燒焦人||Scorch Smelter/焦熔煉||
+|-
+| Circuit  Man/迴路人||Circuit Breaker/斷路球||
+|-
+| Valve Man/水閥人||Valve Missile/水閥彈||[https://youtu.be/OL1XjIBiP0c 專用曲]
+|-
+| Kunai Man/苦無人||Kunai Blade/苦無刀||[https://youtu.be/E2OUqlRPVx0 專用曲]
+|-
+| Sound Man/聲音人||Sound Dash/音衝||
+|-
+| Mirage Man/幻影人||Mirage Bomb幻像爆彈||
+|-
+| Haze Man/霧霾人||Haze Shield/霧氣盾||[https://youtu.be/996VnSk7xW4 專用曲]
+|}
+
+===要素===
+*可以存檔
+
+===其它資料===
+*[https://phpbb.mfgg.net/viewtopic.php?p=519698 Mfgg]
+**[https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManSunrise Tvtro]
+**[https://m.youtube.com/@CliaxGamesCoco Yt]
+**[https://x.com/cliaxgames Twitter]
+
+==<s>洛（克）與（蘿）露</s><br>Rock n Roll<br>RNR==
+*製作:Dennis Engelhard(2019)
+**專為更有經驗的玩家設計<s>，小心過多的初見殺可能會讓人摔鍵盤</s>
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/S/N''' !! '''武器'''!! '''簡介'''
+|-
+| 01A<br>Drake Man/飛龍人||Fire Breath/火焰吐息||[https://youtu.be/7TxeHS8MYGA 專用曲]<br>地質調查機器人
+|-
+| 01B<br>Polar Woman/極地女||Snow Roller/滾雪||[https://youtu.be/lXr_9QlQGw0 專用曲]<br>海冰保護機器人
+|-
+| 00C<br>Beetle Lady/甲蟲女||Beetle Drone/甲蟲無人機||[https://youtu.be/2n5gsKVHhKk 專用曲]<br>造林機器人
+|-
+| 01C<br>Tide Man/潮汐人||Shield Bubble/盾牌泡泡||[https://youtu.be/AbRX-l_nZNw 專用曲]<br>深海回收機器人
+|-
+| 00D<br>Missile Man/導彈人||Blast Missile/爆炸導彈||[https://youtu.be/Lqp0jemdrsU 專用曲]<br>軍事防禦機器人
+|-
+| 01D<br>Ghost Woman/幽靈女||Soul Trap/靈魂陷阱||[https://youtu.be/wLvW92TE8w0 專用曲]<br>活動管理機器人
+|-
+| 00E<br>Reactor Man/反應人||Charge Laser/充電激光||[https://youtu.be/2uBarxe5yhw 專用曲]<br>發電機器人
+|-
+| 00F<br>Dune Woman/沙丘女||Desert Storm/沙漠風暴||[https://youtu.be/wq0R_ld-ILk 專用曲]<br>氣象控制機器人
+|}
+*相剋:DU→MI→TI→DR→PO→RE→GH→BE→DU
+
+===要素===
+*有隱藏區域，可以「打救」一些被抓的前作頭目
+===其它資料===
+*[https://dennisengelhard.com/rock-n-roll/ Dennis Engelhard]
+**[https://forum.gamer.com.tw/C.php?bsn=240&snA=20709 Gamer]
+**[https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManRockNRoll Tvtropes]
+
+==RAM==
+[[File:Ez7o3QVX0AAU2jv.jpg|300px]]
+*製作:J8-Bit(2020)
+** 偏短的惡搞風同人
+**<s>獸控偷渡者之二</s>
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/ASN''' !! '''武器'''!! '''簡介'''
+|-
+| 01<br>Spiral Man/螺旋人||Data Spiral/	數據螺旋||[https://youtu.be/QwZrhKHFYGs 專用曲]<br>催眠魔術師
+|-
+| 02<br>Traction Woman/牽引女||Spin Drift/自旋漂移||[https://youtu.be/DXaZphbyMlo 專用曲]<br>特技機器人,汽車修理工
+|-
+| 03<br>Sickle Woman/鐮刀女||Laser Sickle/鐳射鐮刀||[https://youtu.be/VNIJXTiBxe0 專用曲]<br>森林保護者<s>,女版剪刀人</s>
+|-
+| 04<br>Creamery Man/奶油人||Softserve Seeker/霜淇淋狙擊||[https://youtu.be/eb9AlbwhWc8 專用曲]<br>冰淇淋商<s>,拿燒夷彈人改的</s>
+|-
+| 05<br>Sugaku Woman/數學女||Parabolic Charge/拋物線電荷||[https://youtu.be/OJLPkJ6na2E 專用曲]<br>數學教授
+|-
+| 06<br>Chimera Man/奇美拉人||Amalgam Inferno/合金獄火||[https://youtu.be/K2la4R2euMU 專用曲]<br>拼裝物<s>但不是飛龍人</s>,無職
+|}
+*相剋:SI→SP→TR→SU→CR→CH→SI
+
+===要素===
+* 異變綿羊人城堡中有合體的前作boss戰
+
+===其它資料===
+*[https://twitter.com/AForager Twitter]
+**[https://gamejolt.com/games/mega-man-ram/551844 DL]
+
+==革命<br>Revolution Remix/レボリューション<br>Revo==
+[[File:09uvbbte07541.png|500px]]
+*製作:Mike Crain(原作2013)→ACESpark<s>,獸控偷渡者之一</s>(Sprites INC接手重製Remix,202X)
+**特色:
+***選關為地圖式
+***被惡搞（？）的兩博士
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/RRN''' !! '''武器'''!! '''簡介'''
+|-
+| 01<br>Ghost Man/幽靈人||Corrosion Bubble/腐蝕氣泡||[https://youtu.be/XMXVxErzn6g 專用曲]<br>在土耳其遊樂園鬼屋工作,被改造過後身驅遭特武受損
+|-
+| 02<br>Sand Man/沙麈人||Sand Shield/沙盾||[https://youtu.be/RGIyBLHkVbA 專用曲]<br>澳大利亞的獄警
+|-
+| 03<br>Pyre Woman/火柴女||Fire Seeker/導火||[https://youtu.be/lx_UQRabKAI 專用曲]<br>日本的冶煉工
+|-
+| 04<br>Amp Man/擴音人||Sound Blaster/音爆||[https://youtu.be/9IwXVqcNAGE 專用曲]<br>美國的鎮暴警察<br>原為爆音人(Blast Man),R11後改名
+|-
+| 05<br>Cryo Man/低溫人||Ice Shard/寒冰碎片||[https://youtu.be/5gM4DNyGtUw 專用曲]<br>加拿大實驗室的低溫研究員
+|-
+| 06<br>Haste Man/迅速人||Wild Sprint/狂野衝刺||[https://youtu.be/vVNHJEc0IPc 專用曲]<br>俄羅斯的零件製造商
+|-
+| 07<br>Saw Man/鋸刀人||Iron Saw/鐵鋸||[https://youtu.be/WZPpB_SwWvY 專用曲]<br>巴拉圭的伐木工人
+|-
+| 08<br>Storm Woman/風暴女||Storm Chaser/風暴追逐||[https://youtu.be/EQDMtLAXs6Y 專用曲]<br>非洲的天氣操縱員
+|}
+*相剋:GH→SAW→SAN→PY→CR→HA→AM→ST→GH
+
+===要素===
+*可使用洛克人或佛魯迪，角色專用武器和劇情也有差異
+*有副武器，但需要想辦法到達該區域
+===其它資料===
+*[https://web.archive.org/web/20131029043652/http://megamanrevolution.com/ 舊官網]
+*[https://twitter.com/MMRevoRemix Twitter]
+**[https://tvtropes.org/pmwiki/pmwiki.php/VideoGame/MegaManRevolution Tvtropes]
+
+==維特的統治<br>Witter's Domination<br>WD==
+*製作:SlashXel(2023)
+**特色:
+***不採用本家的8bit圖像而且自行繪製
+***膠味／電波十足（褒義）的過場
+*** (無意義)劇透：Witter就只是威利意味不明的變裝
+***劇情中表示頭目被打敗會撤退而不是擊毀
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/不明''' !! '''武器M'''!!'''習得S'''!!'''簡介'''
+|-
+| ?<br>Missile Man/飛彈人||Split Missile/分裂導彈||Homing Shuriken/歸巢手裡劍||[專用曲]<br>
+|-
+| ?<br>Pound Man/重擊人||Pound Hammer/重擊錘||Crashing Kick/猛踢||[專用曲]<br>
+|-
+| ?<br>Saber Man/軍刀人||Saber Wave/軍刀波||Thousand Cuts/千切||[專用曲]<br>
+|-
+| ?<br>Storm Woman/暴雷女||Storm Strike/暴擊||Thunder Strom/雷雨||[專用曲]<br>
+|-
+| ?<br>Icicle Man/冰柱人||Trishard Ice/三片冰||Shard Strike/碎打||[專用曲]<br>
+|-
+| ?<br>Volcano Man/活山人||Melting Roller+Wave/融化車+波||Rising Dragon/昇龍||[專用曲]<br>
+|-
+| ?<br>Corrosion Man/腐蝕人||Corrosion Bubbles/腐蝕氣泡||Lizard Tail/蜥尾||[專用曲]<br>
+|-
+| ?<br>Trickster/騙子人||Trickster Mirror/騙鏡||Deflector Sword/導流劍||[專用曲]<br>
+|}
+*相剋:MI→PO→SA→ST→IC→VO→CO→TR→MI
+
+===要素===
+*可以在關卡中交替使用忍者機器人史歷撒/Slizer，宛如傑洛的近戰風
+* 部分地方有需要用特武才能前進，八大的關卡那些地方是用拿強化零件，而Witter的據點則是強制的，不過那些地都有提示和能源補給點
+
+===其它資料===
+*[https://slash7.itch.io/megaman-witters-domination 官網]
+
+==洛克人4B<br>Rockman 4B==
+*製作:ToNg(2023)
+*使用角色為布魯斯
+*畫面充滿惡趣味及怪異的獵奇感，最後的場景類似夢結局
+**頭目都是五代頭目的原型
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/EWN''' !! '''五代'''
+|-
+| 01<br>Carat Man/克拉人||水晶人
+|-
+| 02<br>Lift Man/上昇人||重力人
+|-
+| 03<br>Propeller Man/螺旋槳人||旋翼人
+|-
+| 04<br>Scuba Man/水肺人||波浪人
+|-
+| 05<br>Dynamite Man/爆炸人||汽油彈人
+|-
+| 06<br>Delta Man/三角人||星星人
+|-
+| 07<br>Oven Man/烤箱人||衝鋒人
+|-
+| 08<br>Straw Man/稻草人||石頭人
+|}
+
+===要素===
+* 布魯斯打倒頭目不會得到特武
+* 取而代之的是去尋找各個關卡的隱藏區域去拿各種[[IMBA]]裝備
+
+===其它資料===
+*[https://dot-tong.com/fangame/ DL]
+**[https://www.youtube.com/@happymeal1087/videos Happymeal]
+
+==新威脅<br>Rock Man New Menace<br>RMNM==
+*製作:不明(2025)
+**<s>特色</s>:
+***除了新月、飛鏢人外都撞名的頭目
+***由於用Megamix Engine製作,結果介面不穩定,內容大多改畫像的套件兼用
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/不明''' !! '''武器'''!! '''簡介'''
+|-
+| ?<br>Blaze Man/閃焰人||Blaze Wave/火焰波||用於在鋼鐵廠工作,使用右臂中的火炬熔化和塑造鐵
+|-
+| ?<br>Dart Man/飛鏢人||Dart Bomb/飛鏢炸彈||旨在運作和維護大型娛樂中心，同時引導遊客和顧客
+|-
+| ?<br>Dragon Man/閃龍人||Lightning Reed/閃電蘆葦||用於在乾旱期間培育和產生雨雲的機器人
+|-
+| ?<br>Forest Man/樹林人||Spiky Shield/尖刺盾||專為保護大自然而設計,他的保護範圍涵蓋動植物群,保持他監測的森林健康並阻止偷獵者<s>,動作拿DOS炸藥人改的</s>
+|-
+| ?<br>Frozen Man/凍僵人||Frozen Storm/凍僵風暴||全機器人曲棍球隊的熱心隊長<s>曲棍球人</s>
+|-
+| ?<br>Sky Man/天空人||Sky Dash/天空衝刺||設計用於管理機場、協調進出航班<br><s>蟑螂爬,武器拿衝椿改的</s>
+|-
+| ?<br>Chemical Man/化學人||Chemical Flask/化學燒瓶||某化工生產廠廠長兼運輸單位
+|-
+| ?<br>Crescent Man/新月人||Crescent Boomerang/新月迴旋鏢||設計用於維護和使用月球表面觀測實驗室
+|}
+*相剋:Bl→Fo→Ch→Da→Cr→Sk→Dr→Fr→Bl
+
+===其它資料===
+*[https://www.youtube.com/@rockmananewmenace5480/videos 作者]
+**[https://www.youtube.com/@MerusotemMezz/videos Ost作者]
+***[https://youtu.be/-100YVX5Fgo?si=uRqJjO4YlTsGqJjj Ost]
+**[https://megamanfanon.fandom.com/wiki/Rock_Man_New_Menace megamanfanon]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+[[category:洛克人系列|同]]
+[[分類:同人]]

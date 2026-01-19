@@ -256,8 +256,9 @@
 ! style="background-color:#e6f5f8;" | 普通
 ! style="background-color:#d9e8eb;" |{{color|1=#ED2C3D|3=爆炸}}
 ! style="background-color:#e6f5f8;" |{{color|1=#DA8D34|3=貫穿}}
-! style="background-color:#d9e8eb;" |{{color|1=#2D96D2|3=神秘}}
-! style="background-color:#e6f5f8;" |{{color|1=#A448B5|3=振動}}
+! style="background-color:#d9e8eb;" |{{color|1=darkcyan|3=分解}}
+! style="background-color:#e6f5f8;" |{{color|1=#2D96D2|3=神秘}}
+! style="background-color:#d9e8eb;" |{{color|1=#A448B5|3=振動}}
 |-
 | style="font-weight:bold; background-color:#ebebeb;" | 普通
 | Normal
@@ -265,41 +266,55 @@
 | Normal
 | style="background-color:#ebebeb;" | Normal
 | Normal
+| style="background-color:#ebebeb;" | Normal
 |-
 | style="font-weight:bold; background-color:#ebebeb;" |{{color|1=#ED2C3D|3=輕裝甲}}
 | Normal
 | style="background-color:#ebebeb;" | <span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak
 | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+| style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+|  Normal
 | style="background-color:#ebebeb;" | Normal
-| Normal
 |-
 | style="font-weight:bold; background-color:#ebebeb;" |{{color|1=#DA8D34|3=重裝甲}}
 | Normal
 | style="background-color:#ebebeb;" | Normal
 | <span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
-| style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+| style="background-color:#ebebeb;" |<span style="color:#fef4c2;text-shadow: -1px -1px #903a38, 1px -1px #903a38, -1px 1px #903a38, 1px 1px #903a38;">Effective</span>
 | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+| style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+|-
+| style="font-weight:bold; background-color:#ebebeb;" |{{color|1=darkcyan|3=複合裝甲}}
+| Normal
+| style="background-color:#ebebeb;" | Normal
+| Normal
+| style="background-color:#ebebeb;" |<span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
+| <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+| style="background-color:#ebebeb;" |<span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
 |-
 | style="font-weight:bold; background-color:#ebebeb;" |{{color|1=#2D96D2|3=特殊裝甲}}
 | Normal
 | style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
 | Normal
-| style="background-color:#ebebeb;" | <span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
-| <span style="color:#fef4c2;text-shadow: -1px -1px #903a38, 1px -1px #903a38, -1px 1px #903a38, 1px 1px #903a38;">Effective</span>
+| style="background-color:#ebebeb;" | Normal
+|<span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
+| style="background-color:#ebebeb;" | <span style="color:#fef4c2;text-shadow: -1px -1px #903a38, 1px -1px #903a38, -1px 1px #903a38, 1px 1px #903a38;">Effective</span>
 |-
 | style="font-weight:bold; background-color:#ebebeb;" |{{color|1=#A448B5|3=彈力裝甲}}
 | Normal
 | style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
 | Normal
 | style="background-color:#ebebeb;" | Normal
-| <span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
+| Normal
+| style="background-color:#ebebeb;" | <span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
 |-
 | style="font-weight:bold; background-color:#ebebeb;" |{{color|1=#A448B5|3=結構物}}
 | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
 | style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
 | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
-| style="background-color:#ebebeb;" | <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
-| <span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
+| style="background-color:#ebebeb;" |
+|  <span style="color:#51B8F3;text-shadow: -1px -1px #1A478D, 1px -1px #1A478D, -1px 1px #1A478D, 1px 1px #1A478D;">Resist</span>
+| style="background-color:#ebebeb;" |<span style="color: yellow; text-shadow: 1px 1px orange, -1px -1px orange, 1px -1px orange, -1px 1px orange;">Weak</span>
 |}
 
 ====武器種類====
@@ -1608,6 +1623,15 @@ RABBIT小隊會做出怎麼樣的選擇呢？
 未知的預言者徵兆又再度顯現。
 要解決這場危機，
 就不能缺少新夥伴的幫助！
+</pre>
+
+*第3章 不可分割的天空
+*'''（國際服尚未實裝，本章文本目前為暫譯）'''
+<pre>
+距離奇普托斯末日的時間期限—僅有3天。
+就在他們即將抵達鋼鐵大陸之際，運輸船卻被一隻巨臂攔在了半空中。
+巨人揮舞著巨臂，在他們眼前猛然襲來。戰鬥開始了。
+他們能否順利抵達鋼鐵大陸？
 </pre>
 {{hidef}}
 
