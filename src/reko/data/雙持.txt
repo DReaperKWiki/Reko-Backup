@@ -189,6 +189,11 @@
 |手槍
 |
 |-
+|克雷多斯
+| colspan=2 align="center"|混沌之刃
+|[[God of War|戰神]]系列
+|與克雷多斯的靈魂連結的武器，只能封存但無法脫身
+|-
 |Edward Kenway（愛德華‧肯威）
 | colspan=2 align="center"|刀跟手槍都可
 | rowspan="4" |[[刺客教條]]系列

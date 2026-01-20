@@ -2,7 +2,7 @@
 
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;" 
 |-
-|colspan="2" align="center"|本條目可能含有部分劇情內容，沒看過原著<s>又不想'''邪面師給折（玩）磨（弄）'''</s>的話請不要繼續看下去。
+|colspan="2" align="center"|本條目可能含有部分劇情內容，沒看過原著<s>又不想'''被邪面師{{ruby|折磨|玩弄}}'''</s>的話請不要繼續看下去。
 |-
 | align="center"|上一部：[[騎士竜戦隊リュウソウジャー]] || 下一部：[[機界戦隊ゼンカイジャー]]
 |}
