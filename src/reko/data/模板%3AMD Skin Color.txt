@@ -1,0 +1,8 @@
+<includeonly>{{#switch:{{{1}}}
+|A = <span style="margin-right:2px">A</span>{{Color block|#ffdca4|circle}}
+|B = <span style="margin-right:2px">B</span>{{Color block|#ffc3b0|circle}}
+|C = <span style="margin-right:2px">C</span>{{Color block|#ffe9de|circle}}
+|D = <span style="margin-right:2px">D</span>{{Color block|#f9c989|circle}}
+|E = <span style="margin-right:2px">E</span>{{Color block|#ee9569|circle}}
+|#default = 無此膚色
+}}</includeonly><noinclude><!-- Add categories to the /doc subpage; interwikis go to Wikidata. -->{{documentation}}</noinclude>

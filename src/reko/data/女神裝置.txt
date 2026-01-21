@@ -1,0 +1,2162 @@
+{{h0|女神裝置（メガミデバイス / Megami Device）}}
+
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;" 
+|-
+{{Splurging row}}
+|-
+{{stub row}}
+|-
+|}
+
+[[檔案:Megami_Device_Logo.jpg|置中|400px]]
+
+== 解說 ==
+* 由獨立原型師{{Wp|lang=ja|浅井真紀}}和玩具企劃開發製作人鳥山とりを合作開發、並由[[壽屋]]製造販售的[[機娘]]組裝模型系列
+** 於2016年首次公開，同年12月對外發售第一款系列套件
+
+* 標題中的「女神({{Color|red||MEGAMI}})」的全寫為「{{Color|red||'''Me'''}}chanical {{Color|red||'''G'''}}irls × {{Color|red||'''A'''}}rmament of {{Color|red||'''Mi'''}}niature」，日文漢字表記則是「女神装置」。
+
+* 設定上是身長14公分、擁有人工智慧的小型人形[[機器人]]。
+** 因此套件比例都是1/1，不過比照真人比例的話約是1/12，有些還可以跟[[figma]]搭在一起。
+
+* 素體則採用淺井所設計的素體「Machineca（マシニーカ){{Ref|除了壽屋的女神裝置，也有授權予Alphamax的[[DarkAdvent]]、GSC的Chitocerium等系列使用。}}」。
+
+* 通常一個系列推出套件都是以成對的方式推出（少數例外），而兩者之間的配件又可通用或組合，於是乎很多人購買的時候一次就會買2隻。
+** 但臉部只能在同系列的角色之間交換（例如朱羅系列的臉就不能換到SOL系列的頭上）。
+
+* 貼紙的部分則提供水貼供玩家使用
+** [[成句/我的○○太●了…真的非常的●…而且●到不行…|水貼非常多、多到不行]]，尤其SOL猛禽以及朱羅系列的九尾和玉藻前動輒便多達80張以上、有的甚至破百，因此被稱為「水貼地獄」。<s>青島的Macross系列及長谷川的VO系列套件表示接受挑戰</s>
+** 也有水貼量少至僅有眼睛水貼的商品。
+
+* 膚色主要有四種，分別為{{MD Skin Color|A}}、{{MD Skin Color|B}}、{{MD Skin Color|C}}、{{MD Skin Color|D}}、以及合作角色專用的特殊色。
+
+* 盾牌形狀的LOGO圖案根據{{twitter|YAS_graphics|1123158841728700416|設計師YAS所云}}，是由「女神」兩個漢字做成盾牌的圖案配上希臘神殿{{wp|柱式}}的靈感再經調整而來。
+
+== 女神列表 ==
+
+=== 原創角色 ===
+==== WISM士兵 (WISM SOLDIER) ====
+* 由插畫家島田フミカネ設計，最初的女神裝置產品。
+** WISM全寫是「Woman's Imperial Space Marines（帝國婦人宇宙海兵隊）」。
+
+* 一盒只有一副素體但卻有兩套裝備，能組出兩個角色<s>並增加定價與廢件</s>，兩個角色所使用的膚色又不一樣
+** 有著買兩組便能用剩件組出多一個角色的傳說
+
+* 設計上較為簡單樸素，適合新手入門的組裝模型
+** <s>影薄到淺井和鳥山兩位都忘了她們</s>
+
+* <s>[[成句/偽裝真差，一看就知道是OO|偽裝真差，一看就知道是]]《武裝神姬》的天使コマンド型MMSウェルクストラ</s>
+
+{{MD Title
+|no=1
+|color=#b50005
+|title=WISM・Soldier ASSAULT/SCOUT
+|subtitle=WISM士兵 偵察/泛用型 (WISM・ソルジャー アサルト/スカウト)
+|img=[[檔案:md_1_header.png|right|200px]]
+|contentHeader={{#tag:div|
+TYPE:ASSAULT general-purpose type<br />
+basic model with standard equipment equipped with assault knife<br />
+<br />
+TYPE:SCOUT reconnaissance type<br />
+specialization in research and analysis equipped with flying reconnaissance unit
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP406''(一般版)''、	KP438''(REAL TYPE限定版)''
+* '''發售時間'''：2016年12月''(一般版)''、2017年6月''(REAL TYPE限定版)''
+* '''膚色'''：{{MD Skin Color|A}}''(偵察型)''、{{MD Skin Color|C}}''(泛用型)''
+}} }}
+
+{{MD Title
+|no=2
+|color=#b50005
+|title=WISM・Soldier SNIPE/GRAPPLE
+|subtitle=WISM士兵 遠距離狙擊/近戰格鬥型 (WISM・ソルジャー スナイプ/グラップル)
+|img=[[檔案:md_2_header.png|right|180px]]
+|contentHeader={{#tag:div|
+TYPE:SNIPE long-range sniper type<br />
+deals with high-firepower weapons equipped with WILF long-range rifle<br />
+<br />
+TYPE:GLAPPLE fighting type<br />
+specializes in close combat equipped with WILDHAND<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP420''(一般版)''、	KP439''(REAL TYPE限定版)''
+* '''發售時間'''：2017年1月''(一般版)''、2017年6月(''REAL TYPE限定版)''
+* '''膚色'''：{{MD Skin Color|C}}''(遠距離狙擊)''、{{MD Skin Color|D}}''(近戰格鬥型)''
+}} }}
+
+==== SOL ====
+* 由插畫家黑星紅白+機械設計柳瀨敬之兩人合作設計。
+* SOL全寫為「Sonic Operation Lady」，如其名字一般整體設計予人高機動力的感覺。
+* 系列裡首個（也是現時（2023年12月時點）唯一）與[[智慧型手機遊戲]]《機戰少女Alice》跨界合作的商品
+
+===== SOL Hornet 黃蜂 =====
+{{MD Title
+|no=3
+|color=#5ec4e1
+|title=SOL HORNET
+|subtitle=SOL黃蜂 (SOLホーネット)
+|img=[[檔案:md_3_header.png|right|180px]]
+|contentHeader={{#tag:div|
+TYPE:HORNET Air Force Type<br />
+Equipped with a backpack with flight capability, enabling accurate airborne attacks. Armed with beam sword and beam gun for short and medium range combat.<br />
+Upgrade-able to "full armor mode" by combining with the armament of SOL Road Runner.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP412''(一般版)''、KP444''(LOW VISIBILITY限定版)''
+* '''發售時間'''：2017年6月''(一般版)''、2017年7月''(LOW VISIBILITY限定版)''
+* '''膚色'''：{{MD Skin Color|C}}
+* 又稱「雀蜂」
+* 金色頭髮，頭上有一個團子的髮型，身體配色為橘色、黑色和黃色；LOW VISIBILITY版本則以藍灰色調為主，搭配桃紅的頭髮。
+* 相對於走鵑鳥武裝主要集中在上半身，合體之後可以變成「全武裝模式」
+* 在日本有「Ho—醬（ほーちゃん）」的綽號，連淺井都這樣稱呼<s>，不是指[[堀江由衣]]</s>
+*於壽屋官方商店購買的特典為淡紫色的頭髮。
+}} }}{{MD Title
+|no=3
+|title=SOL HORNET CRAFTSMANSHIP Ver.
+|subtitle=SOL黃蜂 技術加強版 with 先頭車博物館 E235系 山手線 女神裝置塗裝車輛 (SOL ホーネット CRAFTSMANSHIP Ver. Withファーストカーミュージアム E235系 山手線 メガミデバイス ラッピング車両)
+|img=
+|contentHeader={{#tag:div|
+TYPE:HORNET Air Force Type<br />
+Equipped with a backpack with flight capability, enabling accurate airborne attacks. Armed with beam sword and beam gun for short and medium range combat.<br />
+Upgrade-able to "full armor mode" by combining with the armament of SOL Road Runner.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP743
+* '''發售時間'''：2024年5月
+* '''膚色'''：{{MD Skin Color|A}}
+
+* 與先頭車博物館合作，搭配鐵道車模型一同發售的特別版黃蜂。
+** 同捆的山手線E235系電聯車模型套件採用了慶祝壽屋70周年的特別塗裝，並帶有旗下模型圖案。
+
+* 全身改成E235的配色，頭髮是閃亮的銀色，身體則是亮綠色。並多付一個單眼相機與望遠鏡頭配件<s>讓黃蜂化身[[鐵路]]迷</s>
+
+* 和處刑者與驅魔師相同，使用的是新開發的大腿關節。
+** 因為宣傳照第一張正好截到大腿上緣的關係，這點比較難被注意到。
+** <s>但生放送的構造演變圖將她放在與上面提到的二者一樣的Block1.5上</s>
+}} |subno=1?}}
+
+===== SOL Road Runner 走鵑鳥 =====
+{{MD Title
+|no=4
+|color=#5ec4e1
+|title=SOL ROAD RUNNER
+|subtitle=SOL走鵑鳥 (SOLロードランナー)
+|img=[[檔案:md_4_header.png|right|180px]]
+|contentHeader={{#tag:div|
+TYPE:ROAD RUNNER Ground Battle Type<br />
+Equipped with a roller dash unit on the legs, allowing for fast ground-based movement to overwhelm opponents.<br />
+Large beam blade provides high offensive power in close fighting. Upgrade-able to "full armor mode" by combining with the armament of SOL Hornet.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP434''(一般版)''、KP445''(LOW VISIBILITY限定版)''
+* '''發售時間'''：2017年7月''(一般版、LOW VISIBILITY限定版)''
+* '''膚色'''：{{MD Skin Color|D}}
+* 紅棕捲髮，身體配色跟雀蜂一樣為橘色、黑色和黃色；LOW VISIBILITY版本則以藍灰色調為主，搭配湖水綠的頭髮。
+* 相對於雀蜂武裝主要集中在下半身，合體之後可以變成「全武裝模式」
+* 在日本有「Ro—醬（ろーちゃん）」的綽號
+*於壽屋官方商店購入的特典為黑色的頭髮。
+}} }}
+
+===== SOL Raptor 猛禽 =====
+{{MD Title
+|no=9
+|color=#fc603a
+|title=SOL RAPTOR
+|subtitle=SOL猛禽 (SOLラプター)
+|img=[[檔案:md_9_header.png|right|250px]]
+|contentHeader={{#tag:div|
+TYPE:RAPTOR AIR COMBAT TYPE<br />
+The third unit in the SOL series following HORNETS ROAD RUNNER.<br />
+Created using data gathered from the previous SOL models. SOL RAPTOR is a full renewal of the line with vastly improved aerial mobility. <br />
+The Horned owl type UAV provides support for search capabilities and visibility in synchronization with the MEGAMI.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP475
+* '''發售時間'''：2018年11月
+* '''膚色'''：{{MD Skin Color|A}}
+* CV：東山奈央{{ref|於《機戰少女Alice》合作活動中登場時的配音}}
+* 又稱「白梟」<s>，別稱「小迷糊」</s>
+* 不像前面兩位武裝是分開來的，一開始就是全武裝模式
+* 棕色長髮，有兩根像是貓頭鷹耳羽的呆毛，並有三條馬尾，身體配色主要為藍色調，武裝的部分則為白色搭配紅色線條
+* 武裝還有附帶一隻白色雕鴞型UAV（無人航空載具），俗稱「小貓頭鷹」
+* <s>因為表情裡有哭臉的關係，所以又被稱為「哭哭禽」</s>
+**｡ﾟ(ﾟ>Д<`ﾟ)ﾟ｡
+* 水貼數將近80張，{{color|red||水貼地獄}}注意
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=9
+|subno=1
+|color=#db5185
+|title=SOL STRIKE RAPTOR
+|subtitle=SOL Strike Raptor 強襲猛禽 (SOLストライクラプター)
+|img=[[檔案:md_9_1_header.png|right|180px]]
+|contentHeader={{#tag:div|
+TYPE:STRIKE RAPTOR AIR COMBAT TYPE<br />
+Although the original SOL Hapter was said to be the full package, this model coctains even more parts. All of the model's SOL series weapons have been recreated in a dark calor scheme.<br />
+This Megami is recommended for advanced users who can utilize the wide range of wing parts to fine-tune stability and mobility SOL Strike Raptor was created in collaboration with alice gear aegis.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP509
+* '''發售時間'''：2019年4月
+* '''膚色'''：{{MD Skin Color|D}}
+* 又稱「夜梟」
+* 髮型跟無印版相同，只是顏色改為金黃色，身體配色改為藍黑色調，武裝的部分則為黑色搭配白色線條
+**比起原版多附了一組黃蜂的髮型，可供替換使用。
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+==== {{ruby|朱羅|アスラ}} ====
+* 由插畫家Nidy-2D-設計，融入了大量日本要素。
+* 共通印象就是…很大、非常大，但又說不出來[[乳量|哪裡]]很大（尤其是弓兵）。
+
+* 第一彈的忍者和弓兵人氣爆棚，也讓女神裝置的人氣高漲，甚至出現不少搶不到貨的窘境。
+** 忍者/弓兵在日本剛出來的時候就直接秒殺、第二次生產很快便賣光、第三次生產也在數日內完售，由於人氣很高一盒難求的情況之下，曾經被轉賣黃牛炒作到30000日幣的價格，除非再販要不然原版的忍者和弓兵並不好入手
+** 由於人氣特別高，忍者和弓兵還出現業界罕見的2/1比例的[[Figure]]（自稱，<s>如果用常人比例來算大概是1/6</s>）。
+*** <s>大概因此換色[[兼差|兼用]]或改版出新套件的次數也是系列之最</s>，後來的皇巫系列也是此系列的延伸
+*** <s>壽屋女神裝置的財富密碼</s>
+
+* 女神裝置系列的水貼地獄代表，尤其是後面的九尾和玉藻前，數量令人嘆為觀止
+
+===== 朱羅 忍者 =====
+{{MD Title
+|no=5
+|color=#945e8f
+|title=ASRA NINJA
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|忍者|ニンジャ}}
+|contentHeader={{#tag:div|
+TYPE: NINJA<br />
+Can quickly approach opponent and attack with secrecy and maneuverability. Master of ninja sword and throwing star and expert in close combat. Can be strengthened to "SAMURAI mode" by combining with the arms of ASRA ARCHER.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP431''(一般版)''、KP486''(影衣限定版)''
+* '''發售時間'''：2017年12月''(一般版)''、2018年6月''(影衣限定版)''
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：27，'''零件數'''：231（加上沒用到的零件264）
+* 褐色短髮，帶有雙馬尾，身體配色為紅色和黑色，影衣限定版則為黑色和紫色
+* 預設裝備有苦無、拳刃及忍者刀，屬於近戰型的角色
+**儘管示範圖中武裝似乎集中裝備於上半身，但與SOL不同，侷限性更低可以任意裝載也不違和。
+* 與弓兵的武裝合體可以強化為「侍模式」
+* <s>朱羅系列的屁股擔當</s>
+* 於壽屋官方商店購入的特典為淺藍色的頭髮。
+* 從這一作開始，後面的作品髖關節部位的零件從ABS改為POM關節。
+}} }}
+
+{{MD Title
+|no=5
+|subno=1
+|color=#01b5f1
+|title=ASRA NINJA AOI
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|忍者|ニンジャ}} {{ruby|蒼衣|アオイ}}
+|contentHeader={{#tag:div|
+TYPE: NINJA<br />
+Master of the ninja sword and throwing star and an expert in close combat. ASRA NINJA AOI can quickly approach opponents to attack with secrecy and maneuverability. ASRA NINJA can be upgraded to Samurai Mode by combining the unit with parts from ASRA ARCHER.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP465
+* '''發售時間'''：2018年8月
+* '''膚色'''：{{MD Skin Color|A}}
+* <s>泳裝版忍者，</s>髮色改為淺黃色，雙[[馬尾]]變長，身體配色為白色、淺藍和黃色
+**賣點在於純膚色沒有武裝的素體手腳，搭配刻畫腳趾的腳掌零件，以及新設計的細長馬尾零件。
+**原本如同刺蝟的短馬尾亦有附屬
+*於壽屋官方商店購入的特典為<s>和蒼衣弓兵相同的</s>褐色頭髮。
+}} }}
+
+{{MD Title
+|no=5
+|subno=2
+|color=#ca151e
+|title={{size|16|2/1 Scale Pre-Painted Figure}}<br />ASRA NINJA
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|忍者|ニンジャ}}
+|contentHeader={{#tag:div|
+TYPE: NINJA<br />
+Can quickly approach opponent and attack with secrecy and maneuverability. Master of ninja sword and throwing star and expert in close combat.
+}}
+|content={{#tag:div|
+* '''商品代號'''：PP956
+* '''發售時間'''：2023年1月
+* 無印版本(KP431)的2/1<s>（1/6）</s>不可動Figure。
+* 右腳、手掌和腰部零件可以替換
+* 動作取自官方的抱枕套插圖<s>所以只要把武器拆除就能放床上了</s>
+* <s>咕殺忍者</s>
+}} }}
+
+{{MD Title
+|no=5
+|subno=3
+|color=#ca151e
+|title=ASRA NINJA KANAME
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|忍者|ニンジャ}} {{ruby|樞|カナメ}}
+|contentHeader={{#tag:div|
+TYPE: NINJA<br />
+The ASRA series was the first line of Megami that were armed with special gear on each limb.<br />
+which became extremely popular as pinnacles of the Megami Device series in its early days.<br />
+However, after long use and countless optimizations, it became clear that the main unit was in fact being overpowered by the system's thrust.<br />
+Hence, the model was redeveloped as ASRA NINJA KANAME a ... -shaped frame from the AUV series.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP715
+* '''發售時間'''：2024年7月
+* '''膚色'''：不明
+* 比無印版本少了不少裝甲的要素<s>，輕裝本版本無誤</s>
+* 頭上的兩隻角變得更長了，<s>{{ruby|雙角獸|バイコーン}}無誤</s>
+* 口罩上面插了一把劍，<s>空氣罩上面插了一把劍，意義不明</s>
+}} }}
+
+===== 朱羅 弓兵 =====
+{{MD Title
+|no=6
+|color=#945e8f
+|title=ASRA ARCHER
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|弓兵|キュウヘイ}}
+|contentHeader={{#tag:div|
+TYPE: ARCHER<br />
+Master of the large bow and expert in long distance combat. Equip with various weapons to act as support for the group. Can be strengthened to "SAMURAI made" by combining with the arms of ASRA NINJA.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP432''(一般版)''、KP487''(影衣限定版)''
+* '''發售時間'''：2018年1月(一般版)、2018年6月(影衣限定版)
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：28，'''零件數'''：247（加上沒用到的零件269）
+* 金色頭髮，帶有一個馬尾，身體配色跟忍者一樣為紅色和黑色，影衣限定版則為黑色和紫色
+**儘管示範圖中武裝似乎集中裝備於下半身，但(ry
+**影衣版比起忍者的深黑更偏藍黑色調，不如預期的成形色也成為玩家們抱怨的點。
+* 預設裝備為大弓，機動性高，屬於遠距型角色
+**根據不同組合方式，可以拆解為數把刀劍<s>，果然弓兵就是要近戰啊</s>
+* 與忍者的武裝合體可以強化為「侍模式」
+* <s>朱羅系列的[[歐派]]擔當</s>
+*於壽屋官方商店購入的特典為<s>初音色</s>藍綠色的頭髮。
+}} }}
+
+{{MD Title
+|no=6
+|subno=1
+|color=#01b5f1
+|title=ASRA ARCHER AOI
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|弓兵|キュウヘイ}} {{ruby|蒼衣|アオイ}}
+|contentHeader={{#tag:div|
+TYPE: ARCHER<br />
+Master of the <u>longbow</u> and expert in long distance combat. Equip with various weapons to act as support for the group. Can be strengthened to "SAMURAI made" by combining with the arms of ASRA NINJA.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP466
+* '''發售時間'''：2018年9月
+* '''膚色'''：{{MD Skin Color|A}}
+*  <s>泳裝版弓兵，</s>髮色改為褐色，同樣帶有一個馬尾，身體配色跟忍者蒼衣相同為白色、淺藍和黃色
+**賣點在於純膚色沒有武裝的(ry，以及新設計的長長馬尾。
+* 水貼數量比無印版的還要多很多，近80張
+*於壽屋官方商店購入的特典為<s>與蒼衣忍者相同的</s>淺黃色頭髮。
+* 如果有對照無印版本的朱羅弓兵，會發現英文說明的large bow被改成了longbow
+}} }}
+
+{{MD Title
+|no=6
+|subno=2
+|color=#f29ec2
+|title=ASRA ARCHER OUKI
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|弓兵|キュウヘイ}} {{ruby|櫻鬼|オウキ}}
+|contentHeader={{#tag:div|
+TYPE: ARCHER<br />
+Master of the longbow and expert in long distance combat. Equip with various weapons to act as support for the group. Can be strengthened to "SAMURAI made" by combining with the arms of ASRA NINJA.
+}}
+|content={{#tag:div|
+* '''商品代號'''：LA272 (書籍附屬品，代號比較特別)
+* '''發售時間'''：2019年3月
+* '''膚色'''：{{MD Skin Color|A}}
+* 雜誌《フィギュアJAPAN「メガミデバイス編」》誌上附屬套件
+**<s>買模型送雜誌系列</s>
+**<s>有些專門買來山積收藏的玩家甚至不知道盒內還有一本雜誌</s>
+* 髮色改為橘褐色，身體配色為粉色、白色和淺黃綠色，異色版本的蒼衣，並搭配新規的獨角頭飾與胸部。
+* 水貼數也是在80張以上
+* 順帶一提忍者櫻鬼目前僅在DESKTOP ARMY中出現，本家沒有出
+}} }}
+
+{{MD Title
+|no=6
+|subno=3
+|color=#ca151e
+|title={{size|16|2/1 Scale Pre-Painted Figure}}<br />ASRA ARCHER
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|弓兵|キュウヘイ}}
+|contentHeader={{#tag:div|
+TYPE: ARCHER<br />
+Master of the large bow and expert in long distance combat. Equip with various weapons to act as support for the group.
+}}
+|content={{#tag:div|
+* '''商品代號'''：PP955
+* '''發售時間'''：2023年5月
+* 無印版本(KP432)的2/1<s>（1/6）</s>不可動Figure，動作同樣取自抱枕套插圖。<s>同樣只要把武器拆除就能放床上了</s>
+* 左腳、手掌和腰部零件可以替換
+}} }}
+
+{{MD Title
+|no=6
+|subno=4
+|color=#ca151e
+|title=ASRA ARCHER KIZUNA
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|弓兵|キュウヘイ}} {{ruby|絆|キズナ}}
+|contentHeader={{#tag:div|
+TYPE: ARCHER<br />
+The ASRA series was the first line of Megami that were armed with special gear on each limb.<br />
+which became extremely popular as pinnacles of the Megami Device series in its early days.<br />
+However, after long use and countless optimizations, it became clear that the main unit was in fact being overpowered by the system's thrust. <br />
+Since ASRA ARCHER is mainly active al mid to long range, this has little effect on its overall concept compared to ASRA NINJA.<br />
+However, seeing how they are often paired and deployed together, the natural conclusion was to also upgrade ARCHER into ASRA ARCHER KIZUNA.<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP716
+* '''發售時間'''：2024年7月
+* '''膚色'''：{{MD Skin Color|A}}?
+* 同朱羅弓兵樞，少了裝甲要素<s>，輕裝本版本無誤</s>
+* 頭上多出長長的角，身體配色跟忍者一樣為白色、紅色和黑色，除此以外跟無印差不多，變得更像{{ruby|獨角獸|ユニコーン}}了</s>
+* 相對於忍者樞口罩上的劍，改成穿在馬尾的頭飾上<s>（不是穿在腦袋上）</s>
+}} }}
+
+===== 朱羅 九尾 =====
+* 衍伸自「朱羅 忍者」
+{{MD Title
+|no=12
+|color=white
+|title=ASRA NINE-TAILS
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|九尾|キュウビ}}
+|border=1
+|contentHeader={{#tag:div|
+{{Glow Text|black|TYPE:NINE-TAILS GHOST FOX<br />
+A Megami Device unit based off of the Japanese "nine-tailed fox" and comes with a large variety of weapons to become a master of all fighting styles. Customize your ASRA NINE-TAILS for combat with its multitude of optional parts and additional weapons. This Magami Device was based off of ASRA NINJA, and is rumored to be a test unit successor to ASRA.|scale=0.25}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP515''(一般版)''、KP625''(火舞羅版)''
+* '''發售時間'''：2020年4月''(一般版)''、2022年3月''(火舞羅版)''
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：49，'''零件數'''：433（加上沒用到的零件521）
+* 可以說是朱羅忍者的強化型，以朱羅忍者為基底{{ref|整個套件幾乎包完整的忍者，連同完全沒用到的Q1版都附上去了，所以理論上可以組出異色版本的忍者，只差在水貼不一樣}}、加上[[M.S.G]]的巨神裝甲06急速襲擊者(GT006)的部分零件及一些新規零件而成
+** 大概因為兼用M.S.G套件，故以「裝上M.S.G的提案（M.S.Gを纏うという提案）」作為廣告標語
+* 粉色頭髮，帶有馬尾，配色跟白色、紅色及紫色；火舞羅版則為紅色、綠色及金色
+**除了忍者招牌的雙馬尾外，還可透過新規零件做出單馬尾造型。
+* 武裝模式有「九尾」、「裙襬」及「披風」三種型態
+**<s>爆哭的表情跟白禽有得拚</s>
+* 水貼數超過80(ry
+*除了說明書外，還附贈一本宣傳集，內容包括九尾的做例、開發過程與寫真。
+*於壽屋官方商店購入的特典為透明黃色的劍刃零件。
+* 火舞羅版本為壽屋線上商店「KOTOBUKIYA SHOP」限定商品，並順應農曆新年在2022的台北國際動漫展先行發售。
+|style=border:black 1px solid
+}} }}
+
+{{MD Title
+|no=12
+|subno=1?
+|title=ASRA NINE-TAILS MATSURI
+|subtitle={{ruby|朱羅|アスラ}} {{ruby|九尾|キュウビ}} {{ruby|祭|マツリ}}
+|contentHeader={{#tag:div|
+TYPE:NINE-TAILS GHOST FOX<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP???
+* '''發售時間'''：2024年未定
+* '''膚色'''：{{MD Skin Color|A}}?
+* 輕裝型態，服裝改為輕便機動性<s>睡衣</s>和服，裝甲的要素比無印少了很多
+** 有擴充孔來另外加裝武裝使用
+* 多了較為真實的狐狸耳朵和尾巴
+* 武器為式神劍，以傳統日本式神紙人的概念下去設計的
+}} }}
+
+===== 朱羅 玉藻前 =====
+* 衍伸自「朱羅 弓兵」
+{{MD Title
+|no=15
+|color=#accd02
+|title=ASRA TAMANOMAE
+|subtitle=朱羅 [[玉藻前 (Fate)|玉藻前]]（{{ruby|朱羅|アスラ}}　{{ruby|玉藻|タマモ}}ノ{{ruby|前|マエ}}）{{ref|套件盒面上以全片假名（包含朱羅）標示，沒有漢字|katakana}}
+|contentHeader={{#tag:div|
+TYPE:ELECTRONIC WARFARE<br />
+A Megami Device unit based off of ASRA ARCHER and incorporates the concept of ASRA NINE-TAILS as a definitive version of the ASRA series. Specializing in electronic warfare, this unit excels in jamming opponents' sensors and remotely operating drone units.
+This Megami Device's tricky battle style led to its name "ASRA TAMAMONOMAE" after the legendary fox of Japanese folklore.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP590''(一般版)''
+* '''發售時間'''：2021年7月''(一般版)''
+* '''膚色'''：{{MD Skin Color|D}}''
+* '''板件數'''：53，'''零件數'''：425（加上未使用的零件565）
+* 朱羅弓兵的強化型，以朱羅弓兵為基礎{{ref|整個套件幾乎包完整的弓兵，連同完全沒用到的Q2版都附上去了，所以理論上可以組出異色版本的弓兵，只差在水貼不一樣}}、兼用櫻鬼（V、W板）及九尾部分基底零件{{ref|共用套件包含了N～U板（未帶數字），其中Q出自M.S.G的急速襲擊者，R則來自獵兵型MMS}}並加上一些新規武裝（X1~X3板）而成
+** 以「在裝上M.S.G的提案之上進一步加碼（M.S.Gを纏うという提案。に更に上乗せ）」作為廣告標語
+** 除了兼用部分外也將其餘零件附上，使得她可以幾乎完美重現以上三者的武裝型態<s>這個女人居然有六對胸部！？</s>
+** 保留朱羅九尾的狐面（成型色為黑色），不過需要自己塗裝
+** 官方網站宣稱零件數是201～400，但實際上組裝起來大概要425個零件（這邊是含替換零件，不含手型和預塗零件的數字），如果你要玩得更靈活把沒用到的零件組出一些可以替換的部件或當替換零件使用，這數字只會多不會少<s>，所以不要相信官網</s>。
+* 武裝部分跟九尾一樣使用到巨神裝甲06急速襲擊者(GT006)的部分零件，可以分離成兩台名為「阿」和「吽」的獨立無人機
+* 水貼數破百，可能是目前女神裝置中水貼數最多的
+*於壽屋官方商店購入的特典為紅褐色的頭髮，以及無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=15
+|subno=1
+|title=ASRA TAMANOMAE HAKUMEN KONMOU
+|color=#999ba5
+|subtitle=朱羅 玉藻前 白面金毛（{{ruby|朱羅|アスラ}}　{{ruby|玉藻|タマモ}}ノ{{ruby|前|マエ}} 白面金毛）
+|contentHeader={{#tag:div|
+{{Glow Text|black|TYPE:ELECTRONIC WARFARE<br />
+A Megami Device unit based off of ASRA ARCHER and incorporates the concept of ASRA NINE-TAILS as a definitive version of the ASRA series. Specializing in electronic warfare, this unit excels in jamming opponents' sensors and remotely operating drone units.
+This Megami Device's tricky battle style led to its name "ASRA TAMAMONOMAE" after the legendary fox of Japanese folklore.
+}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP718''(白面金毛版)''、KP719''(白面金毛版 BAIT ver.)''
+* '''發售時間'''：2023年12月
+* '''膚色'''：{{MD Skin Color|C}}
+* 與美國精品品牌「BAIT」合作推出的異色版本
+** 在美國發售的版本附有BAIT的聯動服裝商品，從衣服上面的圖案得知編號為15.1
+*於壽屋官方商店購入的特典為淺金色半透明的頭髮，以及無印刷的空白臉三張。
+**由於開放預購當時壽屋已取消海外代理版也享有特典的福利，這回白面金毛能夠附帶特典格外讓人驚喜。
+}} }}
+
+{{MD Title
+|no=15
+|subno=2?
+|title=ASRA TAMANOMAE UTAGE
+|subtitle=朱羅 玉藻前 宴（{{ruby|朱羅|アスラ}}  {{ruby|玉藻|タマモ}}ノ{{ruby|前|マエ}}  {{ruby|宴|ウタゲ}}）
+|contentHeader={{#tag:div|
+TYPE:ELECTRONIC WARFARE<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP???
+* '''發售時間'''：2024年未定
+* '''膚色'''：{{MD Skin Color|D}}?
+* 同朱羅九尾祭為輕裝型態，服裝同為輕便機動性<s>睡衣</s>和服，沒有裝甲的要素
+** 有擴充孔來另外加裝武裝使用
+** 狐狸耳朵尾巴和式神劍武器為共通配件
+* 配色跟無印版本相同
+}} }}
+
+===== 其他朱羅角色 =====
+
+* '''朱羅 蒼衣 藍&翠'''
+** 最早出現於Nidy-2D-的同人誌《Megamidevice ASRA Customize》
+** 改自朱羅忍者蒼衣（藍）和朱羅弓兵蒼衣（翠）
+** 黑肉（膚色D）
+** 預計會出2/1<s>（1/6）</s>不可動Figure
+* '''朱羅 牛若丸'''
+** 同上最早出現於Nidy-2D-的同人誌
+** 由朱羅忍者派生而來的角色
+
+==== Chaos & Pretty ====
+* 由插畫家凪良設計，以[[童話]]故事為主題
+* 日文簡稱為「カオプリ」
+
+===== Chaos & Pretty 魔法少女 =====
+{{MD Title
+|no=7
+|color=#e96187
+|title=Chaos & Pretty MAGICAL GIRL
+|subtitle=Chaos & Pretty 魔法少女（{{ruby|Chaos & Pretty|カオス アンド プリティ}} マジカルガール）
+|contentHeader={{#tag:div|
+TYPE:MAGICAL GIRL<br />
+This MEGAMI is specialized for close combat and has a unique design based on a magical girl.<br />
+Her abundant weapon parts can be disassembled and re-arranged, giving you the freedom to customize the model to suit your battle tactics. Despite her cute appearance. MAGICAL GIRL is much stronger than she appears.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP429
+* '''發售時間'''：2018年6月
+* '''膚色'''：{{MD Skin Color|A}}
+* 粉色頭髮(素體模式是褐色)，雙馬尾，有兩個心型髮飾，身體配色為白色、粉紅色及橘色
+* 導入透明零件作為特效零件使用
+* 雖然是[[魔法少女]]、使用的武器卻是流星鎚、釘棒之類的近戰武器…<s>魔法少女（物理）</s>
+*由本套件開始採用新的簡易支架，與舊版的差別在於底座上會有女神裝置的logo圖樣。
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=7
+|subno=1
+|color=#c73935
+|title=Chaos & Pretty MAGICAL GIRL DARKNESS
+|subtitle=Chaos & Pretty 魔法少女DARKNESS（{{ruby|Chaos & Pretty|カオス アンド プリティ}} マジカルガール {{ruby|DARKNESS|ダークネス}}）
+|contentHeader={{#tag:div|
+TYPE:MAGICAL GIRL<br />
+This MEGAMI is specialized for close combat and has a unique design based on a magical girl.<br />
+Her abundant weapon parts can be disassembled and re-arranged, giving you the freedom to customize the model to suit your battle tactics. Despite her cute appearance. MAGICAL GIRL is much stronger than she appears.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP501
+* '''發售時間'''：2018年12月
+* '''膚色'''：{{MD Skin Color|A}}
+* 配色走萬聖節風格，使用黑色、橘色和紫色
+}} }}
+
+===== Chaos & Pretty 女巫 =====
+{{MD Title
+|no=8
+|color=#e96187
+|title=Chaos & Pretty WITCH
+|subtitle=Chaos & Pretty 女巫 ({{ruby|Chaos & Pretty|カオス アンド プリティ}} ウィッチ)
+|contentHeader={{#tag:div|
+TYPE:WITCH<br />
+This MEGAMI is specialized for close combat and has a unique design based on a witch.<br />
+Her abundant weapon parts can be disassembled and re-arranged, giving you the freedom to customize the model to suit your battle tactics. Despite her cute appearance. WITCH is much stronger than she appears.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP430
+* '''發售時間'''：2018年7月
+* '''膚色'''：{{MD Skin Color|A}}
+* 水藍色短髮（素體模式是藍黑色)，有兩個心型髮飾，身體配色為紫色、白色及藤色
+** <s>[[綾波零]]</s>
+* 雖然是女巫，使用武器卻主要為[[槍械|槍炮類]]<s>，所以應該是披著女巫皮的銃彈騎士</s>
+* 於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=8
+|subno=1
+|color=#c73935
+|title=Chaos & Pretty WITCH DARKNESS
+|subtitle=Chaos & Pretty 女巫DARKNESS ({{ruby|Chaos & Pretty|カオス アンド プリティ}} ウィッチ {{ruby|DARKNESS|ダークネス}})
+|contentHeader={{#tag:div|
+TYPE:WITCH<br />
+This MEGAMI is specialized for close combat and has a unique design based on a witch.<br />
+Her abundant weapon parts can be disassembled and re-arranged, giving you the freedom to customize the model to suit your battle tactics. Despite her cute appearance. WITCH is much stronger than she appears.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP502
+* '''發售時間'''：2018年12月
+* '''膚色'''：{{MD Skin Color|A}}
+* 與魔法少女DARKNESS同樣走萬聖節風格，配色使用黑色、橘色和紫色
+}} }}
+
+===== Chaos & Pretty 小紅帽 =====
+* 衍伸自「Chaos & Pretty 魔法少女」
+{{MD Title
+|no=17
+|color=#01c094
+|title=Chaos & Pretty LITTLE RED
+|subtitle=Chaos & Pretty 小紅帽（{{ruby|Chaos & Pretty|カオス アンド プリティ}} 赤ずきん）
+|contentHeader={{#tag:div|
+TYPE:LITTLE RED<br />
+The next theme in the Chaos & Pretty series comes from the widely known world of fairy tales.<br />
+With Magical Girl as the base combined with newly developed parts and flexible arms, this model has raised her attack damage to the limit in melee combat. Transform from the defensive Little Red Mode to the offensive Wild Made and unleash her power to fight your way through any battle.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP614
+* '''發售時間'''：2022年5月
+* '''膚色'''：{{MD Skin Color|B}}
+* 原型來自歐洲童話故事《{{wp|小紅帽}}》中的主角小紅帽
+* 以魔法少女為基底加上M.S.G的伸縮手臂B及部分新規零件，概念類似朱羅系列的九尾和玉藻前
+** <s>M.S.Gを纏うという提案、再再び。</s>
+** 與下面的愛麗絲一樣，是先以現有的女神裝置及M.S.G套件零件組合設計出武裝及大概的角色造型、之後再交給插畫師繪製
+* 灰色頭髮，有兩個辮子，身體配色為紅色、白色及黑色
+** 由於開朗的笑臉過於魔性，放在任何畫面裡都有成為迷因的潛力，因此出現不少與她的頭相關的二創<s>惡搞</s>作品。
+* 於壽屋官方商店購入的特典為淡灰綠色的頭髮，以及無印刷的空白臉六張。
+}} }}
+
+===== Chaos & Pretty 愛麗絲 =====
+* 衍伸自「Chaos & Pretty 女巫」
+{{MD Title
+|no=18
+|color=#01c094
+|title=Chaos & Pretty ALICE
+|subtitle=Chaos & Pretty 愛麗絲（{{ruby|Chaos & Pretty|カオス アンド プリティ}} アリス）
+|contentHeader={{#tag:div|
+TYPE:ALICE<br />
+The next theme in the Chaos & Pretty series comes from the widely known world of fairy tales.<br />
+With Witch as the base combined with newly developed parts and Raising Booster, this model has raised her mobility to the limit.<br />
+Her rabbit mech "Chronoleps" is equipped with units that can detach based on the flow of battle. By docking the units onto Alice, she can be transformed into "Wild Mode".
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP615
+* '''發售時間'''：2022年7月
+* '''膚色'''：{{MD Skin Color|C}}
+* 原型來自歐洲童話故事《{{wp|愛麗絲夢遊仙境}}》中的主角愛麗絲
+* 以女巫為基底加上M.S.G套件及部分新規零件而成
+** <s>對比起一馬平川的其他同系列角色，豐滿的南半球十分顯眼</s>
+** 內附的兔型支援機械「Chronoleps」主要以M.S.G的重武器單元系列18狂暴推進器（MH18）為基礎設計，與本體合體後便成「狂暴模式（Wild mode）」
+* 金黃色頭髮，身體配色為天藍和白色，兔子同樣為藍白主體，點綴薰衣草紫、深藍綠及銀色。
+* 於壽屋官方商店購入的特典為粉紅色的頭髮，以及無印刷的空白臉六張。
+}} }}
+
+===== Chaos & Pretty 奶奶 =====
+* 衍伸自「Chaos & Pretty 小紅帽」
+{{MD Title
+|no=20
+|color=blueviolet
+|title=Chaos & Pretty GRANDMA
+|subtitle=Chaos & Pretty 奶奶（{{ruby|Chaos & Pretty|カオス アンド プリティ}} グランマ）
+|contentHeader={{#tag:div|
+TYPE:GRANDMOTHER<br />
+The base design of LITTLE RED, whose stats focus heavily on melee combat, is combined with M.S.G Gatling Gun and Hand Gatling Guns thus creating a model boasting extreme firepower. Sub-AIs are installed in the three Wolf Head Units. They bear a resemblance to Cerberus breathing hellfire when armed and fired all at once. This design is said to be inspired by users' ideas seen after the release of Little Red. where she was reassembled into wolf mode for battle.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP717
+* '''發售時間'''：2023年11月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：37，'''零件數'''：274（加上沒用到的零件356）
+* 原型來自《小紅帽》中小紅帽的奶奶+野狼，在小紅帽（KP614）之上追加M.S.G的武器單元系列20格林機槍（MW20）以及一部分的武器單元系列29手持式格林機槍（MW29）並改變配色
+** <s>M.S.Gを纏うという提案、再再再び。</s>
+* 紫色頭髮，跟小紅帽一樣有兩個辮子，身體配色為黑色和紅色
+* 表情十分兇狠，充滿殺氣與不屑，並附帶可分別配戴於左右眼的黑色眼罩。
+** 然而眼罩並沒有其他設計，單純地要玩家用雙面膠等手段固定在臉上而已<s>也可以同時把兩個都戴上</s>
+* 於壽屋官方商店購入的特典為<s>[[初音ミク|初音]]色</s>藍綠色的頭髮，與無印刷的空白臉六張。
+* <s>阿嬤的安全褲</s>
+}} }}
+
+===== Chaos & Pretty 紅心皇后 =====
+* 衍伸自「Chaos & Pretty 愛麗絲」
+{{MD Title
+|no=21
+|color=#3b3ac6
+|title=Chaos & Pretty QUEEN OF HEARTS
+|subtitle=Chaos & Pretty 紅心皇后（{{ruby|Chaos & Pretty|カオス アンド プリティ}} クイーン・オブ・ハート）
+|contentHeader={{#tag:div|
+TYPE: QUEEN<br />
+This model was developed based on Chaos & Pretty ALICE.
+and features enhanced individual close combat capabilities and aerial mobility.
+The large heart above her head is a sharp weapon called Queen Horn that also acts as large wings for gliding.
+Her red and black dress and weapons equipped all over her body make a fearsome silhouette, intimidating all of her opponents.
+QUEEN, together with her sister model, GRANDMA, make the two most villainous Megami yet.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP722
+* '''發售時間'''：2023年12月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：34，'''零件數'''：281（加上沒用到的零件378）
+* 原型來自《愛麗絲夢遊仙境》中的紅心皇后，在愛莉絲(KP615)之上追加M.S.G的重武器單元系列06擴張型防禦裝置(MH06)並改色、背部多了新規的愛心形狀裝置
+* 淺藍色長髮，身體配色為黑色、紅色和金色
+* <s>盒繪十分心機地掩蓋了安全褲並強調了胸部</s>
+* 於壽屋官方商店購入的特典為淺粉紅色的頭髮，以及無印刷的空白臉六張。
+}} }}
+
+==== 銃彈騎士 (バレットナイツ/BULLET KNIGHTS) ====
+* 由イセ川ヤスタカ設計，走西洋騎士風格。
+* 第一彈的最大特色是武器超級長、幾乎快到身高的三倍，長度堪比HMM的哥吉拉加農砲。
+** 設定上是跨坐在長身武器之上飛行、移動和戰鬥
+* 「處刑者 & 驅魔師」首次導入可動性更廣的新型髖關節。
+
+===== 銃彈騎士 砲手 =====
+{{MD Title
+|no=10
+|color=#947b47
+|title=BULLET KNIGHTS LAUNCHER
+|subtitle=銃彈騎士 砲手 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} ランチャー)
+|contentHeader={{#tag:div|
+TYPE:LAUNCHER BASE ATTACK TYPE<br />
+Equipped with a long beam weapon that far exceeds the height of the Megami unit. Launcher is specialized for ultra-long-distance combat. Due to its extreme size, the weapon is difficult to handle. This is considered a week point for Launcher, because the weight of the weapon must be countered with a large shield in order to stabilize the unit. Due to its large diameter and high power output, the launcher is a deadly weapon that is feared by Magami players due to its ability to take down a target in a single blow.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP484
+* '''發售時間'''：2019年5月
+* '''膚色'''：{{MD Skin Color|B}}
+* 黃色短髮，身體配色為黑色、白色和金色
+* 最大特點是那個長度比身高長2.5倍以上的長程火砲，巨型盾牌的面積也快跟本體差不多大
+**為了支撐此等龐然大物，還多附了一組底座為盾牌造型的簡易支架跟一組普通的簡易支架<s>然而還是難以支撐</s>
+** <s>買兩組便能[[Cosplay]]《五星物語》的獵戶幻象</s>
+* 除了驚人的火砲外還有附有餐刀<s>，理解不能</s>
+* <s>能源管零件可以拿來玩綑綁Play</s>{{ref|參考[https://www.kotobukiya.co.jp/product/detail/p4934054017973/ 官方圖片]；圖為HELL BLAZE版本，不過無印版也附有該零件}}
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=10
+|subno=1
+|color=#9e2127
+|title=BULLET KNIGHTS LAUNCHER HELL BLAZE
+|subtitle=銃彈騎士 地獄砲手（{{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} ランチャー {{ruby|HELL BLAZE|ヘルブレイズ}}）
+|contentHeader={{#tag:div|
+TYPE:LAUNCHER HELL BLAZE BASE ATTACK TYPE<br />
+Equipped with a long beam weapon that far exceeds the height of the Megami unit. Launcher is specialized for ultra-long-distance combat. The aircraft has been redesigned with the image of crimson and jet black. The main color red is a manifestation of passionate fighting spirit. Due to its large diameter and high power output, the launcher is a deadly weapon that is feared by Megami players due to its ability to take down a target in a single blow.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP527
+* '''發售時間'''：2019年12月
+* '''膚色'''：{{MD Skin Color|D}}
+* 髮型跟無印版差不多，髮色改為白色，身體配色改為紅色、黑色和夜光綠{{ref|使用具有夜光效果的綠色顏料|luminescent_green}}，膚色也有所變更
+*於壽屋官方商店購入的特典為透明白色的頭髮。
+}} }}
+
+===== 銃彈騎士 槍兵 =====
+{{MD Title
+|no=11
+|color=#947b47
+|title=BULLET KNIGHTS LANCER
+|subtitle=銃彈騎士 槍兵 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} ランサー)
+|contentHeader={{#tag:div|
+TYPE:LANCER BASE DEFENSE TYPE<br />
+Equipped with a long lance that far exceeds the height of the Megami unit. Lancer is specialized for melee combat. Due to its extreme size, lance can be difficult to handle, but the weapon's extensive reach makes it perfect for taking out multiple enemies at once. Lancer's large shield acts as a counterweight for the lance, and provides the unit with defense that keeps the enemies at bay. The unit also comes with a fork and spoon that can be used as close-range weapons.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP485
+* '''發售時間'''：2019年6月
+* '''膚色'''：{{MD Skin Color|B}}
+* 粉色短髮，身體配色跟為砲手差不多也是黑色、象牙白色和金色
+* 附屬的長槍比砲手的火炮還要更長，全長達本體3倍以上之譜
+** <s>雖然單組便能Cosplay《五星物語》的雷德幻象，不過若想活用長槍Cos成雷德幻象V3的話還是要買兩組</s>
+* 砲手附了餐刀、這邊便則有叉子和湯匙，合起來剛好湊成一組餐具<s>，同樣讓人無法理解為什麼會有餐具</s>
+* 內建的其中一個表情為「魚卵好吃！（いくらうましっ！）」臉，於是網路上出現了不少槍兵拿著餐具大噗各種美食<s>和其他美少女</s>模型的場景，也讓角色多了[[大食い]]的設定
+* 於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=11
+|subno=1
+|color=#9e2127
+|title=BULLET KNIGHTS LANCER HELL BLAZE
+|subtitle=銃彈騎士 地獄槍兵 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} ランサー {{ruby|HELL BLAZE|ヘルブレイズ}})
+|contentHeader={{#tag:div|
+TYPE:LANCER HELL BLAZE BASE DEFENSE TYPE<br />
+Equipped with a long lance that far exceeds the height of the Megami unit. Lancer is specialized for melee combat. The aircraft has been redesigned with the image of crimson and jet black. The main color, black, expresses a terrifying horror. The unit also comes with a fork and spoon that can be used as close-range weapons.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP528
+* '''發售時間'''：2020年1月
+* '''膚色'''：{{MD Skin Color|C}}
+* 髮型跟無印版差不多，髮色改為金黃色，身體配色跟地獄砲手一樣改為紅色、黑色和夜光綠{{ref||luminescent_green}}，膚色也(ry
+*相較起原版，水貼增加了一大張，直接加入水貼地獄的行列。
+*於壽屋官方商店購入的特典為透明淡金色的頭髮。
+}} }}
+
+===== 銃彈騎士 處刑者 =====
+{{MD Title
+|no=13
+|color=#53609c
+|title=BULLET KNIGHTS EXECUTIONER
+|subtitle=銃彈騎士 處刑者 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} エクスキューショナー)
+|contentHeader={{#tag:div|
+TYPE:EXECUTIONER<br />
+BULLET KNIGHTS series Megami Device unit based on a harsh executioner concept and developed as a variant of BULLET KNIGHTS LANCER.<br /> 
+This unit excels at close combat, achieved through omitting large weapons and adding a large scythe and heavy armor developed with the cooperation of the M.S.G team. <br />Newly developed thigh parts are also included to create different looks for this unit.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP560
+* '''發售時間'''：2021年1月
+* '''膚色'''：{{MD Skin Color|B}}
+* 跟朱羅、C&P系列同樣推出兼用M.S.G套件的版本，宣傳標語為「裝上M.S.G的提案回來了（M.S.Gを纏うという提案、再び）」。
+* 基底是砲手、武器兼用M.S.G.的骨鐮、並加上M.S.G的裝飾零件系列側邊披風（MO002）<s>，素體設計改得十分性感</s>
+** 相較於原本運用超遠距離射程火砲攻擊的砲手，處刑者反而極端地針對近距離格鬥特化，全身被覆厚重鎧甲強化防禦，巨大的鐮刀更能分解成多樣近戰武器。
+** 於處刑者與下面驅魔師和其換色版上，皆使用了新開發的大腿構造，外型更加有肉感且可動幅度提升<s>除此之外的產品請自行購入另外發售的M.S.G產品進行替換</s>
+* 髮色為淡紫色，髮型類似砲手但遮眼的瀏海左右相反，身體配色為紫黑色、紅色
+** <s>偽裝真差，一看就知道是[[瑪修‧基利艾拉特]]</s>
+* 於壽屋官方商店購入的特典為淺黃色的頭髮，以及無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=13
+|subno=1
+|color=#a58d64
+|title=BBULLET KNIGHTS EXECUTIONER BRIDE
+|subtitle=銃彈騎士 處刑者新娘 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} エクスキューショナー{{ruby|BRIDE|ブライド}})
+|contentHeader={{#tag:div|
+TYPE:EXECUTIONER<br />
+A variant of EXECUTIONER with different melee features. The KNIGHT MASTER SWORD con switch forms between a large sword and shield, sure to be significant in battle for both offense and defense. <br />With the coloration of pearl white and clear yellow the model is named the "BRIDE" after its divine appearance.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP634
+* '''發售時間'''：2021年12月
+* '''膚色'''：{{MD Skin Color|B}}
+* 髮色改為黑色，髮型和膚色跟無印相同，身體配色改為象牙白、銀色和透明黃，側邊斗篷則改為讓人聯想起新娘頭紗的半透明白色。
+** 雖然不是水貼地獄，但卻是水紋地獄。
+* 武器換成M.S.G的重武器單元系列25騎士王者之劍（MH25），並改為白色與銀藍色搭配透明黃劍刃。
+** <s>底座拔不下來時就連底帶劍一起砍向敵人</s>
+** <s>婚活（物理）</s>
+* 於壽屋官方商店購入的特典為<s>初音色</s>藍綠色的頭髮，以及無印刷的空白臉三張。
+}} }}
+
+===== 銃彈騎士 驅魔師 =====
+{{MD Title
+|no=14
+|color=#53609c
+|title=BULLET KNIGHTS EXORCIST
+|subtitle=銃彈騎士 驅魔師 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} エクソシスト)
+|contentHeader={{#tag:div|
+TYPE:EXORCIST<br />
+BULLET KNIGHTS series Mogami Device unit based on a sacred exorcist concept and developed as a variant of BULLET KNIGHTS LANCER.<br />
+This unit excels at close combat achieved through emitting large weapons and adding a large scythe and heavy armor developed with the cooperation of the M.S.G team. <br />Newly developed thigh parts are also included to create different looks for this unit.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP561
+* '''發售時間'''：2021年2月
+* '''膚色'''：{{MD Skin Color|B}}
+* 基底是槍兵、兼用M.S.G重武器單元系列06擴張型防禦裝置(MH06)兩組
+** 於驅魔師與上面處刑者和其換色版上，皆使用了新開發的(ry
+* 髮色為淡紫色，身體配色為白色、藍紫色和黃色
+** 因為兼用版件的關係，原本槍兵的前髮與馬尾也有附屬。
+* <s>無印的好吃臉在這裡變成了帶有[[雌小鬼|メスガキ]]的意味</s>
+** <s>騷，想(ry</s>
+* 於壽屋官方商店購入的特典為黑色的頭髮，與無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=14
+|subno=1
+|color=#a58d64
+|title=BULLET KNIGHTS EXORCIST WIDOW
+|subtitle=銃彈騎士 寡婦驅魔師 ({{ruby|BULLET|バレット}} {{ruby|KNIGHTS|ナイツ}} エクソシスト{{ruby|WIDOW|ウィドウ}})
+|contentHeader={{#tag:div|
+TYPE:EXORCIST<br />
+A variant of EXORCIST with improved attack ability. The additionally armed GRAVE ARMS increases the overall weight as well as damage done by middle to long-range attacks. <br />With the coloration of black and clear blue, the model in named the "WIDOW" after its solemn appearance.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP633
+* '''發售時間'''：2021年12月
+* '''膚色'''：{{MD Skin Color|B}}
+* 髮色改為金黃色，髮型和膚色跟無印相同，身體配色改為黑灰色、銀色和透明藍色
+** 因為兼用版件的關係，槍兵的(ry
+* 武器換成M.S.G的重武器單元系列04闊劍機甲（MH04）
+** 外表換成給人奢華感的金色與黑色內構，然而由於金屬成型色的技術問題因此依舊是水紋地獄。
+* <s>羞恥的哭泣臉極度好評</s>
+* 於壽屋官方商店購入的特典為深紫色的頭髮，與無印刷的空白臉三張。
+}} }}
+
+==== 皇巫 ====
+* 跟朱羅系列同樣由Nidy-2D-設計，最初定位是朱羅系列的衍生，但因為開發團隊認為此為新的設計於是獨立出來
+** 設定上為「朱羅」的後繼機，並冠上日本神的名稱。
+** 原本打算稍微改動一下朱羅素體、換上新裝備就能出。結果修著修著就[[砍掉重練|全部重作]]了……
+
+* 該系列採用了AUV（Accel Unleashed Vanguard，直譯「加速解放先鋒」）的骨架設計，讓四肢完全機械骨骼化維持各關節的穩定性；裝甲成了另外裝上去的零件，可以隨需要更動。
+** 同時「AUV」也是此系列的名稱由來：從文AUV的英語發音用日文唸成「オウブ」、取其對應漢字「皇巫」
+** <s>中文圈經常有人錯記成「巫皇」，原因不明。</s>
+** 由於天照重裝一直難產，導致「皇巫」底下長期只有素盞鳴尊（又稱須佐之男）一個角色，自然而然皇巫也成為了素盞鳴尊的代名詞
+
+* 王權（レガリア）版本為只帶一小部份AUV骨架的輕裝<s>（？）</s>設計，為正式定名之前官方常以「輕裝版本」稱之
+** <s>淺井：這根本不輕裝嘛</s>
+** 相對無印的確是輕裝版，但是無論怎麼看那個<s>華而不實的</s>機甲都難免讓人懷疑這哪裡輕了，於是官方以「王權」重新命名
+** 天照之後的角色變成從「王權」版本開始先出
+* 採用的素體版本為Block1.5L
+
+===== 皇巫 素盞鳴尊 =====
+* 衍伸自「朱羅 忍者」、「朱羅 九尾」
+{{MD Title
+|no=16
+|color=#d71a30
+|title=AUV SUSANOWO
+|subtitle=皇巫 素盞鳴尊 ({{ruby|皇巫|オウブ}} スサノヲ)
+|contentHeader={{#tag:div|
+TYPE:EXTERMINATION<br />
+A flagship Megami Device unit with its fully undated body and generous variety of armor and weapons.
+Extra large weapons and heavy multi-layered armor can be easily adjusted thanks to AUV (Accel Unleashed Vanguard) frame on the arms and legs.<br />
+A mode-changing mechanic on this model allows easy attack-defense balance adjustment. making Susanowo a new generation Megami Device succeeding the ASRA series.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP581
+* '''發售時間'''：2022年1月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：31，'''零件數'''：459 （加上沒用到的零件482）
+* 又稱「須佐之男」，原型來自日本神「{{wp|素戔嗚尊|素盞鳴尊}}」
+* 尺寸比朱羅系列更大、全高可達20公分，400以上的零件數也更豐富
+** 分件分色高達95%，使玩家可以在減低遮蓋作業頻率的前提下更輕鬆地為她進行塗裝改造<s>然而處理400多個零件依然很可怕</s>
+* 主要武器「天叢雲劍」透過拆組能變形成不同型態
+* 髮色為白色，雙馬尾，身體配色跟雀蜂一樣為紫色、黑色和紅色，[[異色瞳]]
+* 頭髮後面刺刺頭的設計非常的刺<s>跟榴槤和刺蝟一樣刺</s>，要注意不要刺到手
+* 由於股間造型過於暴露，在慶祝壽屋創立70周年的新幹線廣告中被[[河蟹]]成帶有褂布的造型<s>，並回流到王權版本上</s>
+* 於壽屋官方商店購入的特典為黑色的壽屋支架，以及可以裝在底座、印有盒繪圖面的裝飾片。
+}} }}
+
+{{MD Title
+|no=16
+|subno=1
+|color=#21abd2
+|title=AUV SUSANOWO SOUEN
+|subtitle=皇巫 素盞鳴尊 蒼炎 ({{ruby|皇巫|オウブ}} スサノヲ {{ruby|蒼炎|ソウエン}}）)
+|contentHeader={{#tag:div|
+TYPE:EXTERMINATION<br />
+Susanowo Souen is an enhanced variation model of the flagship Megami Device Susanowo.<br />
+An Optical Effect Generator can now be installed and a slash from the main weapon. Frostbite will cause enemies to freeze.<br />
+Aerial mobility is greatly improved through the thrust created by the effects emissions, allowing this model to thrive as a new generation Megami Device succeeding the ASRA series.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP681
+* '''發售時間'''：2023年1月
+* '''膚色'''：{{MD Skin Color|A}}
+* 髮型相同，髮色為帶有珠光的白色，身體配色改為藍色調
+** 在2022年先行展覽的成品中，使用了與素體相同的深藍色頭髮，後來與繪師討論後改採用現在的珍珠白。
+* 加入了大量藍色透明件以營造藍色火焰的效果<s>，被模型版[[島民]]笑稱是吃到了《[[SD鋼彈世界 三國創傑傳]]》的口水</s>
+* 手掌部分加入了M.S.G的武裝零件尖銳手掌2（MB46）零件，同樣改成藍色透明零件。
+* 於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=16
+|subno=2
+|color=#e55756
+|title=AUV SUSANOWO REGALIA
+|subtitle=皇巫 素盞鳴尊 王權 ({{ruby|皇巫|オウブ}} スサノヲ レガリア)
+|contentHeader={{#tag:div|
+TYPE: TYRANT<br />
+Developed together with Amaterasu Regalia, this model features Susanowo rearmed with Regalia Armor.<br />
+Having become more lightweight than the original fully armed form. its improved speed and agility allows for a wider range of fighting methods.<br />
+Regalia Armor was developed incorporating users' need for fashion. Its style reflects the pursuit of beauty while being completely suited for battle.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP699
+* '''發售時間'''：2023年10月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：30，'''零件數'''：268（加上沒用到的零件332，說明書有誤，有幾個沒用到的零件有被列入，故實際會使用到的還會再少一點）
+* 裝甲為與天照王權相同的神御衣只是配色不太一樣，武裝有十束劍和天石楯
+* 原本裝備在上半身的披肩（ケープ）裝甲改在裝備在腿上
+** 十束劍可透過拆組變形成「天之型」和「蛇之型」兩個形態，還能跟天照的八咫錫杖合體。
+* 設定上類型從原本的殲滅型變成了暴君型
+* 比無印多出一種新髮型，是尾端宛如刃型的巨大雙馬尾。
+** 因為兼用板件的關係，原本的髮型也有附屬。
+** 組裝與把玩時請切記注意，否則……
+* <s>被天照用貓嘴表情調侃的對象</s>
+** <s>吵架吵到要自閉天岩戶的怎麼想都是這傢伙啊</s>
+* 於壽屋官方商店購入的特典為透明無色的劍刃與王冠零件。
+}} }}
+
+{{MD Title
+|no=16
+|subno=3
+|color=#d71a30
+|title=AUV SUSANOWO GUREN
+|subtitle=皇巫 素盞鳴尊 紅蓮 ({{ruby|皇巫|オウブ}} スサノヲ {{ruby|紅蓮|グレン}}）)
+|contentHeader={{#tag:div|
+TYPE:EXTERMINATION<br />
+Susanowo Guren is an enhanced variation model of the flagship Megami Device Susanowo.<br />
+Its appearance and specs are designed to be the counterpart to Susanowe Souen.
+A slash of the main weapon, Heat Haze, inflicts a "Burning" status effect that lowers the opponent's defense for a certain amount of time.
+Aerial mobility is greatly improved through the thrust created by emissions from the Optical Effect Generator, allowing this model to thrive as a new generation Megami Device succeeding the ASRA series.
+}}
+|content={{#tag:div|
+* '''商品代號''' ：KP745
+* '''發售時間'''：2024年4月
+* '''膚色'''：{{MD Skin Color|D}}
+* 髮型相同，身體配色改為紅色調
+** 頭上的角正好與蒼炎版相反。
+* 以大量紅色和黃色透明零件去營造火焰的效果
+** <s>和蒼炎版合體就能變身為冰炎將軍</s>
+* 於壽屋官方商店購入的特典為金褐色的頭髮，以及三張無印刷的空白臉。
+}} }}
+
+
+===== 皇巫 天照 =====
+* 衍伸自「朱羅 弓兵」、「朱羅 玉藻前」，部分設計來自「朱羅 弓兵」的廢案
+{{MD Title
+|no=19
+|color=#e55756
+|title=AUV AMATERASU REGALIA
+|subtitle=皇巫 天照 王權 ({{ruby|皇巫|オウブ}} アマテラス レガリア)
+|contentHeader={{#tag:div|
+TYPE:RULER<br />
+Inheriting characteristics from Asra Archer and Tamamonomae. Amaterasu is a model made for electronic warfare and shooting.<br />
+Its features are distinctive from that of Susanowo, introducing a means to adapt to the diversification of fighting styles.<br />
+Amaterasu's regalia armor was developed to fulfill the user's need for fashion. Its style reflects the pursuit of beauty while being completely suited for battle.
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP698
+* '''發售時間'''：2023年8月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：21，'''零件數'''：222（含備用/替換零件，如果加上沒用到的零件會是271）
+* 原型來自{{wp|天照大神}}，並繼承朱羅弓兵和朱羅玉藻前的特徵<s>，原本其實打算稍微改一改便交差了事的</s>
+* 不帶AUV骨架的輕裝設計，起源是因為天照重裝版的研發進度緩慢，才先推出零件較少的王權版
+** 以套件來看板件數21，扣除沒用到的零件共222個零件，這數量其實沒有比朱羅忍者和弓兵的零件數還來得多，要說的話可能是整個朱羅皇巫系列中最少的
+** 但是因為裝甲都很大片，像是{{ruby|披肩|ケープ}}裝甲，再搭配<s>華而不實</s>的{{ruby|真經津無人機|真経津ドローン}}，造就了讓人覺得哪裡是輕裝的感覺。
+** 因為扣除重裝後的素體有些單調，為了豐富整體請繪師追加了神御衣元素。
+* 裝甲為「神御衣」，武裝「八咫錫杖」如上述般能跟素盞鳴尊的十束劍合體
+* <s>附送的其中一個預塗表情「{{ruby|想到了！|ピコーン！}}」因為跟那個{{twitter|udama1212ura|701538531919818752|屁股吹風機貓}}的梗圖酷似而成為了系列另一個[[顏藝]]臉</s>
+** <s>也有人認為她很像[[寶可夢列表-第九世代##906_新葉喵（ニャオハ/Sprigatito）|新葉喵]]或是[[凱留]]</s>
+** <s>已經變成招牌表情了，官方7周年直播直接拿貓嘴天照當成看板</s>
+* 於壽屋官方商店購入的特典為透明無色的杖刃與{{ruby|王權|レガリア}}[鏡]（王冠）零件。
+}} }}
+
+{{MD Title
+|no=19
+|subno=1
+|color=#c62fc0
+|title=AUV AMATERASU ECLIPSE
+|subtitle=皇巫 天照 日蝕 ({{ruby|皇巫|オウブ}} アマテラス {{ruby|日蝕|エクリプス}})
+|contentHeader={{#tag:div|
+TYPE:[AMANO-IWATO]<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP773
+* '''發售時間'''：2025年4月
+* '''膚色'''：{{MD Skin Color|A}}
+* 異色版的天照王權，但零件上多了須佐（素戔嗚尊）王權的雙馬尾和眼罩
+* 靈感啟發自日本神話《天岩戶傳說》
+** 因此要說天照關進天岩戶的狀況也不為過<s>，不但沒辦法使用朝諷的貓貓臉，還整個黑化</s>
+}} }}
+
+{{MD Title
+|no=19
+|subno=?
+|title=AUV AMATERASU
+|subtitle=皇巫 天照 ({{ruby|皇巫|オウブ}} アマテラス)
+|contentHeader={{#tag:div|
+TYPE:RULER<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP582?
+* '''發售時間'''：未定
+* '''膚色'''：不明
+* 天照的重裝版，因為總總原因故先推出輕裝版（王權），不然照以往會是無印的重裝版本先出
+* 重裝版難產的謠傳原因很多種但都未經過證實
+** 在日本wiki那邊流傳的謠言是因為製作出來的成品因為體積和成本過於龐大導致無法商品化（如果真的商品化，定價可能超過2萬日本誇張的價格，和非常誇張大的外盒），因此需要做調整，導致計畫研發進度過慢
+*** 但是看對近期「皇巫 素盞鳴尊 倉炎/紅蓮」都可以正常生產販售，顯然這說法仍有一點爭議在
+** 另外一個說法是因為由於該設計非常複雜，再加上在建模上需要大量人力，由於人力不足導致該產品計畫進行緩慢
+}} }}
+
+===== 皇巫 月讀 =====
+
+* 一開始出來只有輕裝型態，是否會有重裝未知
+{{MD Title
+|no=29
+|color=#4f3db7
+|title=AUV TSUKUYOMI REGALIA
+|subtitle=皇巫 月讀 王權 ({{ruby|皇巫|オウブ}} ツクヨミ レガリア)
+|contentHeader={{#tag:div|
+TYPE:???<br />
+
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP702
+* '''發售時間'''：2025年6月
+* '''膚色'''：{{MD Skin Color|C}}
+* 首次於7週年登場，人氣直接輾壓當天發表的其他新作
+* 原型來自{{wp|月讀}}，在日本神話設定上跟天照和須佐（素盞鳴尊）是兄弟姊妹
+* 原作設定：{{ruby|死靈法師|ネクロマンサー}}系爆乳陰角{{ref|原文是用「陰キャ」，意思是氣場陰暗的角色}}[[御姐]]
+** <s>[[病嬌]]無誤</s>
+** <s>既然是死靈法師，已經不是日本風格而是西洋奇幻風了</s>
+* 從名稱來看是輕裝版本，但是比起天照和須佐的輕裝來看再配上巨大無比的鐮刀<s>這根本就不是輕裝，如果有重裝版本會不會比象神裝還來得更巨大呢</s>
+* 配件有可以掀開來的面具和可以開合的魔法書
+* <s>被天照用貓嘴調侃的對象再+1</s>
+** <s>要跟須佐（素盞鳴尊）一起自閉天岩戶了</s>
+}} }}
+
+===== 皇巫 天鈿女命 =====
+
+* 衍生自「皇巫 素盞鳴尊 王權」
+{{MD Title
+|no=28
+|color=#ffac01
+|title=AUV AME NO UZUME SUNSHINE
+|subtitle=皇巫 天鈿女命 陽光 ({{ruby|皇巫|オウブ}} アメノウズメ {{ruby|陽光|サンシャイン}})
+|contentHeader={{#tag:div|
+TYPE:DANCER<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP772
+* '''發售時間'''：2025年4月
+* '''膚色'''：{{MD Skin Color|E}}
+* 可以說是異色版的素盞鳴尊王權，沿用原本的髮性和部分配色改變，名稱改為「天鈿女命」
+* 首次採用的膚色E，顏色比膚色D還要來得更深
+** <s>因為是陽光，所以膚色也曬得更黑</s>
+* 靈感啟發自日本神話《天岩戶傳說》
+* 相傳《天岩戶傳說》為了將天照從天岩戶引出來，眾神在天岩戶外舉辦酒宴，天鈿女命則露出胸部和陰部跳舞
+** 因此整個設計變得更加的性感<s>、更加色色的、露的地方也更多</s>
+* 表情有微笑臉、跳舞臉和唱歌臉，其中跳舞臉的表情表現有點猥瑣，很難不讓人想到阿嘿顏
+
+}} }}
+
+==== BUSTER DOLL ====
+* 系列6週年紀念時公開的新系列，由繪師パセリ設計
+** 最初發表相關情報時還沒有正式名稱，都以「X系列」稱之
+
+* 素體採用新一代Machineca素體「Block2」{{ref|過去的版本為Block1，部分則是Block1.5}}，以內藏框架進一步提升零件提換的自由度
+** 因為Block2在機構上作了一些調整，部分零件無法與舊版素體互通
+** 細分的話本系列使用的素體實為Block2下的分支「Block2-M」
+** 大腿零件一體成形的套模，省去無縫處理的需要
+
+* 各外裝甲零件一體成形，以如積層裝甲般互相交疊的レイヤー構造構成各種武裝
+** 為增加擴充性，不論武裝抑或附屬的支架上面都佈滿了大量3mm接頭和插孔<s>，應該要改名成[[機動戰士鋼彈00|洞洞]]系列</s>
+
+* 透過改變零件配置，能組裝成4種預設的模式：
+** 素體模式：沒有任何裝備，換裝素體用胸部+腰部<s>內衣褲</s>零件的形態
+** 衣裝模式：素體的身體裝上服裝零件的形態
+*** 現時已公佈的系列套件都是配學生制服風格的服裝零件<s>，部分的選色讓人一言難盡</s>
+*** 幾乎每個角色都帶有獸耳耳機
+** 輕裝模式：在衣裝模式上加裝部分武裝及內框架形的裝甲零件的形態
+** 重裝模式：裝上所有裝備和外裝甲的形態
+
+* <s>偽裝真差，一看就知道是壽屋版[[30 MINUTES SISTERS|30MS]]</s>
+** 大量配置3mm接頭<s>搞得全是洞</s>的零件、手腳可換裝的3mm接頭環、即使是重裝模式依然比過往的女神裝置系列來得輕便的附屬武裝、獨立另購的追加零件和水貼、進一步系統化的組裝流程<s>與及相對過往系列較低廉的定價</s>怎樣看都是[[偷學|參考]]自並對<s>幹</s>標萬代模型的30MM及30MS系列
+** 但相比起套件價格帶在2000-3000円左右的30MS，BUSTER DOLL系列套件的定價為5900円左右
+* 此系列的盒繪不如以往都是採用2D繪圖，而是改用3D實體商品照片
+
+===== BUSTER DOLL 砲手 =====
+{{MD Title
+|no=22
+|color=white
+|title=BUSTER DOLL GUNNER
+|subtitle=BUSTER DOLL 砲手 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} ガンナー)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:GUNNER<br />
+The first model in a new series featuring the completely remodeled Machinika Block2-M body.<br />
+Its layered armor system allows for parts to be easily swapped for various fighting styles or be further expanded upon.<br />
+GUNNER is an entry-level model specialized in ranged combat thus allowing users to easily take part in Megami Battles.
+}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP682
+* '''發售時間'''：2024年1月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：26，'''零件數'''：230（含備用/替換零件，如果加上沒用到的零件會是235）
+* 服裝採用傳統的藍白水手制服和紅色領巾，搭配白色的類色垂下來獸耳的掛耳式耳機。
+** <s>那個到底是兔子還是[[狗|狗狗]]！？</s>
+* 武器帶有兩把<s>洞洞</s>衝鋒槍及榴彈發射器
+* 於壽屋官方商店購入的特典為透明藍色的洞洞支架。
+* <s>POP子</s>
+* 其中一個表情「害羞臉（照れ顔）」成了被[[紳士]]拿來做<s>色色</s>迷因的題材
+|style=border:black 1px solid}} |border=1}}
+
+{{MD Title
+|no=22
+|subno=1?
+|title=BUSTER DOLL GUNNER MIDNIGHT FANG
+|subtitle=BUSTER DOLL 砲手 午夜之牙 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} ガンナー ミッドナイト ファング)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:GUNNER<br />
+}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP779
+* '''發售時間'''：2024年11月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：26，'''零件數'''：230（含備用/替換零件，如果加上沒用到的零件會是235）
+* 換色<s>黑化</s>版的砲手，服裝改成黑色，髮色改為粉色，武裝配色為棕黃色和紫色。
+** 素體模式拿掉手套和襪子的配色設計
+}} }}
+
+===== BUSTER DOLL 騎士 =====
+{{MD Title
+|no=23
+|color=white
+|title=BUSTER DOLL KNIGHT
+|subtitle=BUSTER DOLL 騎士 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} ナイト)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:KNIGHT<br />
+The second model in a new series featuring the completely remodeled Machinika Block2-M body.<br />
+Its layered armor system allows for parts to be easily swapped for various fighting styles or be further expanded upon. <br />
+KNIGHT is an entry-level model specialized in clase combat thus allowing users to easily take part in Megami Battles.<br />
+}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP683
+* '''發售時間'''：2024年3月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''板件數'''：24，'''零件數'''：225
+* 服裝採用西裝式制服，配色為藍黑色與紅紫色，帶有靛色的貓耳耳機。
+* 武器帶有一把<s>洞洞</s>劍及<s>洞洞</s>盾
+* 於壽屋官方商店購入的特典為黑色的砲手髮型，與兩張無印刷的空白臉。
+|style=border:black 1px solid}} |border=1}}
+
+{{MD Title
+|no=23
+|subno=1?
+|title=BUSTER DOLL GUNNER MIDNIGHT CRAW
+|subtitle=BUSTER DOLL 騎士 黑暗之爪 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} ナイト ミッドナイト クロー)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:KNIGHT<br />
+}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP780
+* '''發售時間'''：2024年12月
+* '''膚色'''：{{MD Skin Color|B}}
+* '''板件數'''：24，'''零件數'''：225
+* 換色<s>黑化</s>版的砲手，服裝改成黑色，髮色改為淺藍，武裝配色為藍紫色和灰色。
+** 素體模式拿掉手套和襪子的配色設計
+|style=border:black 1px solid}} |border=1}}
+
+===== BUSTER DOLL 坦克 =====
+{{MD Title
+|no=24
+|color=white
+|title=BUSTER DOLL TANK
+|subtitle=BUSTER DOLL 坦克 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} タンク)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:TANK<br />
+The third model in a new series featuring the completely remodeled Machinika Block2-M body.<br />
+Its layered armor system allows for parts to be easily swapped for various fighting styles or be further expanded upon. <br />
+ TANK features the same inner armor as GUNNER, and focuses on heavy armor and high fire power.
+}} }}
+|content={{#tag:div|
+* '''商品代號'''：KP684
+* '''發售時間'''：2024年5月
+* '''膚色'''：未定
+*服裝為藍黑與白色的水手服點綴亮綠色與桃紅透明件，帶有尖而細長的黑色獸耳耳機。
+*武裝為黑色<s>洞洞</s>重鎧與{{ruby|圓桶炮|シリンダーキャノン}}，搭配電鋸般的<s>洞洞</s>{{ruby|鎧甲披風|アーマーケープ}}。
+*於壽屋官方商店購入的特典為紫褐色的騎士髮型，以及無印刷的空白臉三張。
+*<s>[[中野三玖]]</s>
+|style=border:black 1px solid}} |border=1}}
+
+{{MD Title
+|no=24
+|subno=1?
+|title=BUSTER DOLL TANK MIDNIGHT FANG
+|subtitle=BUSTER DOLL 坦克 夜之獠牙 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} タンク ミッドナイト ファング)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:TANK<br />
+}}
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP781
+* '''發售時間'''：2025年1月
+* '''膚色'''：{{MD Skin Color|D}}
+* 換色<s>黑化</s>版的坦克，服裝改成黑色，髮色改為黃色，武裝配色為棕黃色和紫色。
+** 素體模式拿掉手套和襪子的配色設計
+* 英文跟砲手一樣都是MIDNIGHT FANG，但是振光兩個翻譯都不同...
+}} }}
+
+===== BUSTER DOLL 聖騎士 =====
+{{MD Title
+|no=25
+|color=white
+|title=BUSTER DOLL PALADIN
+|subtitle=BUSTER DOLL 聖騎士 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} パラディン)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:PALADIN<br />
+The fourth model in a new series featuring the completely remodeled Machinika Block2-M body.<br />
+Its layered armor system allows for parts to be easily swapped for various fighting styles or be further expanded upon. <br />
+PALADIN features the same inner armor as the previously released KNIGHT, and focuses on heavy armor and close combat.
+}} }}
+|content={{#tag:div|
+* '''商品代號'''：KP685
+* '''發售時間'''：2024年6月
+* '''膚色'''：未定
+* 又音譯為「帕拉丁」<s>，不是某靴子的品牌</s>。
+* 配色為黑白的西式制服配上紅色領帶，以及淡金色的大馬尾，帶有白色貓耳耳機。
+** <s>官方宣傳照不知為何讓人想起大傑</s>
+* 武裝為銀紫色與白色裝甲，金色飛翼造型，持有一把<s>洞洞</s>大劍（{{ruby|變種劍|バスタードソード}}）與兩側透明紅的披風。
+* 於壽屋官方商店購入的特典為淡金色的坦克髮型，與無印刷的空白臉三張。
+|style=border:black 1px solid}} |border=1}}
+
+==== PUNI★MOFU ====
+* 由BLADE設計
+* 第一彈的貓貓和兔兔素體採用最新版本的Block2-S素體，體型較小；後續出的狼和鴞則採用跟BD相同的Block2-M素體
+* 名稱尚未確定前都使用「'''BLADE型女神'''」稱之
+* PUNI來自「ぷにぷに」，意思為柔軟而有彈性；MOFU則是「もふもふ」，意指毛茸茸
+** 從名稱可知使用大量動物的要素
+** <s>[[獸耳]][[蘿莉|ㄌㄌ]]系列、[[雌小鬼|美式炸雞]]</s>
+* 附屬的支架沿用跟BUSTER DOLL同款的<s>洞洞</s>支架
+* 改變零件配置，能組裝成3種預設的模式：素體模式、衣裝模式、武裝模式（基本上為輕裝）
+* 名稱用中文發音
+* 推測此系列最早可以追溯自武裝神姬的柴郡貓型
+** 外傳謠言是因為繪師BLADE不滿[[konami|K社]]的做法，憤而轉向跟女神裝置原班人馬合作
+** 其實早在過去武裝神姬請BLADE設計的角色，並著有漫畫《武裝神姬2036》，商品化之後都除了松鼠型外其他都失去了畫師該有的風格
+*** 難得這個系列把BLADE角色的味道發揮得淋漓盡致
+
+===== PUNI★MOFU 貓貓 =====
+{{MD Title
+|no=26
+|color=#ff69b4
+|title=PUNI★MOFU MAO
+|subtitle=PUNI★MOFU 貓貓 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|猫|マオ}})
+|contentHeader={{#tag:div|
+TYPE:NEKO<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP740
+* '''發售時間'''：2024年9月
+* '''膚色'''：{{MD Skin Color|A}}
+* 配色為粉色、白色和土黃色
+* 武器為{{ruby|貓腳印印章鎚|Stamp Hammer}}，手上配有獸爪造型的手套「{{ruby|黏糊糊手套|プニプニハンド}}」，將貓腳印印章鎚拆解後，其中貓腳印印章造型的零件裝備在黏糊糊手套上就會變成「{{ruby|超級貓貓拳|Super Neko Punch}}」模式（設定上還可以發射），另外印章造型的零件也可以裝備在頭上兩側
+* 名稱採中文發音的「マオ（ㄇㄠ）」，不是日文的「ネコ」
+* 非常注目貓耳造型耳機稱為「{{ruby|毛茸茸耳機|Mofumofu Headset}}/NYAN」，順帶一提最早的髮飾設計為垂耳兔，但後來改成立耳兔
+* 前髮有「{{ruby|貓貓拼貼|ネココラージュ}}」的髮頭飾，胸前有「{{ruby|貓貓領帶|ネコタイ}}」，裙擺兩側有「{{ruby|貓貓蝴蝶結|ネコリボン}}L/R」裝飾，設定上這些裝飾具有AI支援的功能
+** 這些貓標誌為BLADE的專屬標誌，經常出現在他設計的其他角色中
+* 三種表情「笑臉<s>傲嬌</s>」「☆笑臉」(✧ᴗ✧)「虛無<s>呆滯</s>」('⩊')
+* 首次出現於6周年直播，外觀上近似武裝神姬系列中的柴郡貓型MMS，使用了大量[[貓]]的要素但設計有很大的差異
+** 這件事被解讀為原本武裝神姬的合作角色柴郡貓型MMS實際上已經名存實亡（原本的編號B2也被挪去給MMS白子）
+** 相比柴郡貓型MMS配件少了貓尾和無人機，襪套上的貓圖案也作了調整
+
+}} }}
+
+{{MD Title
+|no=26
+|subno=1
+|color=#707eb9
+|title=PUNI★MOFU KURO MAO
+|subtitle=PUNI★MOFU 黑貓 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|黒猫|クロマオ}})
+|contentHeader={{#tag:div|
+TYPE:KURO NEKO<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP801
+* '''發售時間'''：2025年9月
+* '''膚色'''：{{MD Skin Color|A}}
+* 貓貓的換色版本
+* 配色為粉色、巧克力色和黑色
+
+}} }}
+
+===== PUNI★MOFU 兔兔 =====
+{{MD Title
+|no=27
+|color=#ff69b4
+|title=PUNI★MOFU TU
+|subtitle=PUNI★MOFU 兔兔 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|兎|トゥ}})
+|contentHeader={{#tag:div|
+TYPE:USAGI<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP741
+* '''發售時間'''：2024年11月
+* '''膚色'''：{{MD Skin Color|A}}
+* 配色為紫色頭髮、黑色、黃色和綠色
+* 名稱採中文發音的「トゥ（ㄊㄨˋ）」，不是日文的「ウサギ」
+* 武器為「{{ruby|超級兔兔劍|Super Usa Blade}}」，可以作為雙刃使用，也可以組成「{{ruby|襟翼長槍|Flap Lance}}」，並具有獸爪設計的手套「{{ruby|黏糊糊手套|プニプニハンド}}」
+* 非常注目兔耳造型耳機稱為「{{ruby|毛茸茸耳機|Mofumofu Headset}}/PYON{{ref|PYON來自日文「ぴょんぴょん」，跳躍的狀聲詞}}」，順帶一提最早的髮飾設計為垂耳兔，但後來改成立耳兔
+* 前髮有「{{ruby|兔兔拼貼|ウサコラージュ}}」的髮頭飾，胸前有「{{ruby|兔兔領帶|ウサタイ}}」，裙擺兩側有「{{ruby|兔兔蝴蝶結|ウサリボン}}L/R」裝飾，設定上這些裝飾具有AI支援的功能
+** 最早設計這些裝飾都還是貓標誌，後來改成了兔子（其實那隻貓本身是設計師BLADE的招牌的標誌，除了貓其實過去有過兔子、蝙蝠的設計）
+* 三種表情「假正經」「笑臉」「虛無<s>死魚眼</s>」(ㅁ‸ㅁ)
+}} }}
+
+{{MD Title
+|no=27
+|subno=1
+|color=#707eb9
+|title=PUNI★MOFU YUKI TU
+|subtitle=PUNI★MOFU 雪兔 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|雪兎|ユキトゥ}})
+|contentHeader={{#tag:div|
+TYPE:YUKI USAGI<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP802
+* '''發售時間'''：2025年10月
+* '''膚色'''：{{MD Skin Color|B}}
+* 兔兔的換色版本
+* 配色為淺藍色、白色
+
+}} }}
+===== PUNI★MOFU 狼 =====
+{{MD Title
+|no=30
+|color=#ff69b4
+|title=PUNI★MOFU LANG
+|subtitle=PUNI★MOFU 狼 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|狼|ラン}})
+|contentHeader={{#tag:div|
+TYPE:OOKAMI<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP788
+* '''發售時間'''：2025年7月
+* '''膚色'''：{{MD Skin Color|A}} 
+* 第三彈PUNI★MOFU角色，採用的素體換成block2-M，相對貓貓和兔兔更加成熟一點
+* 配色為綠色、黑灰色和橘色
+
+}} }}
+
+{{MD Title
+|no=30
+|subno=1
+|color=#707eb9
+|title=PUNI★MOFU GIN LANG
+|subtitle=PUNI★MOFU 銀狼 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|銀狼|ギンラン}})
+|contentHeader={{#tag:div|
+TYPE:GIN OOKAMI<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP850
+* '''發售時間'''：2026年03月
+* '''膚色'''：{{MD Skin Color|C}}
+* 狼的換色版本
+* 配色為淺藍色、白色
+
+}} }}
+
+===== PUNI★MOFU 鴞 =====
+{{MD Title
+|no=31
+|color=#ff69b4
+|title=PUNI★MOFU XIAO
+|subtitle=PUNI★MOFU 鴞 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|梟|シャオ}})
+|contentHeader={{#tag:div|
+TYPE:FUKUROU<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP798
+* '''發售時間'''：2025年8月
+* '''膚色'''：{{MD Skin Color|A}} 
+* 第四彈PUNI★MOFU角色，採用的素體換成block2-M，相對貓貓和兔兔更加成熟一點
+* 配色為紫色、白色，頭上帶有鳥羽的設計
+
+}} }}
+
+{{MD Title
+|no=31
+|subno=1
+|color=#707eb9
+|title=PUNI★MOFU KIN XIAO
+|subtitle=PUNI★MOFU 金鴞 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|金梟|キンシャオ}})
+|contentHeader={{#tag:div|
+TYPE:KIN FUKUROU<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP851
+* '''發售時間'''：2026年05月
+* '''膚色'''：{{MD Skin Color|E}}
+* 鴞的換色版本
+* 配色為淺藍色、白色，膚色採用顏色更深的膚色E
+
+}} }}
+
+==== 慾望少女 (デザイアメイデン/DESIRE MAIDEN) ====
+* 角色設計為雨間，機構設計為Tasuku(たすく)，基於Block2素體的系列
+* 目前公開的角色有武器為劍的Raider（レイダー）和武器為槍的Medic（メディック）
+
+===== 慾望少女 突擊者 =====
+{{MD Title
+|no=33
+|color=grey
+|title=DESIRE MAIDEN RAIDER
+|subtitle=慾望少女 突擊者 (デザイアメイデン レイダー)
+|contentHeader={{#tag:div|
+TYPE:???<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP800
+* '''發售時間'''：2025年12月
+* '''膚色'''：{{MD Skin Color|B}}
+
+}} }}
+
+===== 慾望少女 護士 =====
+{{MD Title
+|no=34
+|color=grey
+|title=DESIRE MAIDEN MEDIC
+|subtitle=慾望少女 護士 (デザイアメイデン メディック)
+|contentHeader={{#tag:div|
+TYPE:???<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP799
+* '''發售時間'''：2026年1月
+* '''膚色'''：{{MD Skin Color|C}}
+
+}} }}
+
+==== 尤格拉希斯 (ユグドラシス/YGGDRASIS) ====
+* 由Nidy-2D-設計的第三個系列，素體採用Block2，主打北歐神話角色。
+* 系列名稱來自北歐神話的{{Wp|伊格德拉希爾|世界樹}}。
+
+===== 尤格拉希斯 伽爾姆 利刃 =====
+{{MD Title
+|no=35
+|color=grey
+|title=YGGDRASIS GARM RIPPER
+|subtitle=尤格拉希斯 伽爾姆 利刃 (ユグドラシス ガルム・リッパー)
+|contentHeader={{#tag:div|
+TYPE:???<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP792
+* '''發售時間'''：2026年4月
+* '''膚色'''：{{MD Skin Color|A}}
+
+}} }}
+
+===== 尤格拉希斯 斯庫爾 神射手 =====
+{{MD Title
+|no=36
+|color=grey
+|title=YGGDRASIS SKOLL SHARPSHOOTER
+|subtitle=尤格拉希斯 斯庫爾 神射手 (ユグドラシス スコル・シャープシューター)
+|contentHeader={{#tag:div|
+TYPE:???<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP793
+* '''發售時間'''：2026年6月
+* '''膚色'''：{{MD Skin Color|A}}?
+
+}} }}
+
+==== 其他規劃中的角色 ====
+* Block1R
+** 以Block1做為基底開發的素體，頭部可跟Block2互換
+
+* Block2新系列 A/B
+** 由設計壽屋旗下之「六角機牙（ヘキサギア）」和「無限邂逅<s>巨大瑪麗亞</s>Megalo Maria」系列套件的F(Arm-Q)擔任
+** 使用Block2素體，特點是上半身和下半身有不一樣的體積差異
+** 有兩個角色分別是概念分別來自獅子和老虎
+
+* GARDEN SPIKES (暫名)
+** 素體和武裝由淺井親自下去設計的新系列
+
+* GARM:RIPPER （ガルム：リッパー） (暫名)
+** <s>硬要翻譯的話，可能稱作「加姆：開膛手」，不是「魚醬：撕裂者」</s>
+** 由Nidy-2D-新開發的Block2系列
+** 根據名稱，可能是北歐神話主題
+** 第一個對外公開的角色有獸耳，或許是隻地獄犬
+
+* <s>Block 2-L</s> (廢案)
+** Block2大型素體的試作，因為後續發展前途未明，所以被淺井擱置中
+
+* {{twitter|KANETAKE|1155286831262363648|由海老川兼武設計的系列}} (不了了之，推測無限期擱置)
+** 於2019年發表的系列，由海老川兼武設計，已知有兩個角色的剪影
+** 然而此後變得無聲無息，雖然2020年有再聲稱「再始動」但到目前仍沒有消息，而這句話也被解讀為[[爛尾|計畫無限期休止]]
+** <s>光AGA的工作就處理不完了，沒時間再去搞新的系列</s>
+
+=== 合作角色系列 ===
+==== 機甲少女 ====
+* 產品代號使用機甲少女（FA:G）的商品代號開頭FG、而非一般組裝模型用的KP
+
+{{MD Title
+|no=F1
+|color=#f5c942
+|titleColor=#f5c942
+|bgColor=white
+|title=BASELARD {{size|18|Animation Ver.}}
+|subtitle=芭莎菈露多 動畫版 (バーゼラルド Animation Ver)
+|contentHeader={{#tag:div|
+TYPE: ATTACK TYPE<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2021年5月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''商品代號'''：FG087
+* 為符合動畫裡芭潔矮其他人一截的樣子，所以出在多比FA:G嬌小的女神裝置。
+**在女神裝置中也是偏小型的那種。
+**武裝則是直接沿用原版。
+*因為是以動畫名義發售，盒繪並非出於人物原案的島田，而是交給動畫製作人員繪製。
+*於壽屋官方商店購入的特典為金色的頭髮，與無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=F2
+|color=#f8a39e
+|titleColor=#f8a39e
+|bgColor=white
+|title=MAGICAL BASELARD
+|subtitle=魔法少女 芭莎菈露多 (マジカルバーゼラルド)
+|contentHeader={{#tag:div|
+TYPE: MAGICAL<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2022年6月
+* '''膚色'''：{{MD Skin Color|A}}
+* '''商品代號'''：FG104
+* 在動畫版芭潔（FG087）之上加入兼用M.S.G機甲支援系列22擴充裝甲E(MJ22)及重武器單元系列24鶴一權杖(MH24)的零件
+**擴充裝甲E的透明件改成圓弧造型，並附帶新規的大蝴蝶結裝飾。
+**鶴一權杖則使用兩種不同的金色成型件與透明紅零件，法陣同樣也採用透明紅色。
+*於壽屋官方商店購入的特典為粉紅色的頭髮，與無印刷的空白臉三張。
+}}
+}}
+
+==== [[機戰少女Alice]] ====
+===== [[機戰少女Alice/登場人物#吾妻_楓（あがつま_かえで）|吾妻 楓]] =====
+{{MD Title
+|no=A1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=KAEDE AGATSUMA
+|subtitle={{ruby|吾妻|アガツマ}} {{ruby|楓|カエデ}}
+|contentHeader={{#tag:div|
+alice gear angis:KAEDE AGATSUMA
+}}
+|content={{#tag:div|
+* '''發售時間'''：2018年10月
+* '''膚色'''：{{MD Skin Color|A}}
+*似乎是為了表現空戰特色採用了新規脖子零件，可以更高幅度地抬頭。
+**手腳也有稍作調整，變得更加修長。
+*於壽屋官方商店購入的特典為珍珠白色的頭髮，與無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=A1
+|subno=1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=KAEDE AGATSUMA {{size|18|KAIDEN}}
+|subtitle={{ruby|吾妻|アガツマ}} {{ruby|楓|カエデ}}【{{ruby|皆傳|カイデン}}】
+|contentHeader={{#tag:div|
+alice gear angis:KAEDE AGATSUMA
+}}
+|content={{#tag:div|
+* '''發售時間'''：2020年5月
+* '''膚色'''：{{MD Skin Color|A}}
+*<s>浮空背包的支架被同系列無數次兼用，導致玩家經常積存一堆同框架上的刀刃卻苦無用武之地</s>
+*於壽屋官方商店購入的特典為印有標誌的黑色壽屋支架，與無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=A1
+|subno=2
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=KAEDE AGATSUMA {{size|18|MEIKYOSHISUI CS}}
+|subtitle={{ruby|吾妻|アガツマ}} {{ruby|楓|カエデ}}/{{ruby|明鏡止水|メイキョウシスイ}}CS
+|contentHeader={{#tag:div|
+alice gear angis:KAEDE AGATSUMA
+}}
+|content={{#tag:div|
+* '''發售時間'''：2022年9月
+* '''膚色'''：{{MD Skin Color|A}}
+* 遊戲《機戰少女 Alice CS～Concerto of Simulatrix～》的限定附屬品。
+**<s>買模型送遊戲片系列</s>
+}} }}
+
+===== [[機戰少女Alice/登場人物#兼志谷 星（かねしや シタラ）|兼志谷 星]] =====
+{{MD Title
+|no=A2
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SITARA KANESHIYA
+|subtitle=兼志谷 星 ({{ruby|兼志谷|カネシヤ}}シタラ)
+|contentHeader={{#tag:div|
+alice gear angis:SITARA KANESHIYA
+}}
+|content={{#tag:div|
+* '''發售時間'''：2018年10月
+* '''膚色'''：特殊
+**全身為灰白配色，搭配綠色透明件，皮膚比既有的膚色D更深，身材也根據設定做成嬌小體格。
+**<s>和[[30 MINUTES SISTERS|30MS]]系列的color C膚色一致。</s>
+* 原本預先放了象神裝備的飛翼零件，預計賣得好就能順理成章兼用。
+** 但因為設計人員認為「大一點比較帥吧」，結果實際推出的象神裝比遊戲設定還略大一圈，預留的飛翼根本不能用……
+*於壽屋官方商店購入的特典為色頭髮與三張無印刷的空白臉。
+}} }}
+
+{{MD Title
+|no=A2
+|subno=1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SITARA KANESHIYA {{size|18|TENKI Ver. Karwa Chauth}}
+|subtitle=兼志谷 星【天機】 輕裝版 ({{ruby|兼志谷|カネシヤ}}シタラ【{{ruby|天機|テンキ}} Ver.カルバチコート】)
+|contentHeader={{#tag:div|
+alice gear angis:SITARA KANESHIYA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2020年9月
+* '''膚色'''：特殊
+*對應遊戲內天機裝備的輕裝模式，配色改為藍黑與桃紅，增加了金剛杵配件。
+**內容物不包含宣傳圖中的圓環支架，想重現宣傳效果請另外購買。
+*於壽屋官方商店購入的特典為有標誌印刷的黑色支架，與無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=A2
+|subno=2
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SITARA KANESHIYA {{size|18|Ver. Ganesa}}
+|subtitle=兼志谷 星 象神裝備版 ({{ruby|兼志谷|カネシヤ}}シタラ  Ver.ガネーシャ)
+|contentHeader={{#tag:div|
+alice gear angis:SITARA KANESHIYA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2021年4月
+* '''膚色'''：特殊
+*將遊戲內的象神裝備完整重現的完全體套組。
+**說是這麼說，但是做的比原本更大一號。
+**<s>生放送主持人：你們這樣對得起自行研發象神改套的玩家嗎！？</s>
+*AGA系列的空間殺手一號，盒子大小是一般的兩倍，厚度亦十分驚人。
+*於壽屋官方商店購入的特典為紙製的大型金剛杵。
+*另有發售給已購買輕裝版本玩家的純裝備版本
+**除了象神裝備外，新規印刷臉、肩膀、腳掌、小星娃娃與紙扇皆有附屬。
+**<s>超級滯銷，到現在還能在代理商每年各大促銷活動看到積存的裝備</s>
+}} }}
+
+{{MD Title
+|no=A2
+|subno=3
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SITARA KANESHIYA {{size|18|BHARATA CS}}
+|subtitle=兼志谷 星/巴拉達CS ({{ruby|兼志谷|カネシヤ}}シタラ/バーラタCS)
+|contentHeader={{#tag:div|
+alice gear angis:SITARA KANESHIYA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2022年9月
+* '''膚色'''：特殊
+* 《機戰少女 Alice CS～Concerto of Simulatrix～》的限定附屬品。
+*<s>買模型送遊戲(ry</s>
+*預購開放在下面這組之後，但卻趕在那之前發售。
+}} }}
+
+{{MD Title
+|no=A2
+|subno=4
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SITARA KANESHIYA {{size|18|TENKI Ver. Ganesa}}
+|subtitle=兼志谷 星【天機】象神裝備版 ({{ruby|兼志谷|カネシヤ}}シタラ【{{ruby|天機|テンキ}}】 Ver.ガネーシャ )
+|contentHeader={{#tag:div|
+alice gear angis:SITARA KANESHIYA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2022年10月
+* '''膚色'''：特殊
+*原天機輕裝版的象神化造型。
+**AGA的空間殺手三號。
+**<s>這次就沒另外賣一個純裝備版了</s>
+*於壽屋官方商店購入的特典是電鍍版金剛杵版件。
+}} }}
+
+===== [[機戰少女Alice/登場人物#相河 愛花（あいかわ あいか）|相河 愛花]] =====
+{{MD Title
+|no=A3
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=AIKA AIKAWA
+|subtitle={{ruby|相河|アイカワ}} {{ruby|愛花|アイカ}}
+|contentHeader={{#tag:div|
+alice gear angis:AIKA AIKAWA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2020年7月
+* '''膚色'''：{{MD Skin Color|A}}
+*配色為白與灰色，武器則是大槌、槍枝與能量環。身形在女神裝置中偏嬌小。
+* 模型內建的<s>本體</s>「隊長無人機（隊長ドローン）」{{Ref|一種可以飛行的攝影無人機，AGA裡由玩家角色「隊長」遙控移動與其他角色交流，在二次創作裡經常借代為隊長的模樣}}，被網友拿來[[成句/我來組成頭部|接上各種奇怪的身體]]<s>，還被拿去騷擾愛花甚至跨界到Figma騷擾其他角色</s>。
+* 內附3種表情有普通臉、笑臉和哭臉，但是其中那個哭臉設計得過於完美了。<s>因此被有心人士拿來做色色的事情，然後再搭配那個隊長無人機就更完美了。</s>
+*於壽屋官方商店購入的特典為白色頭髮，與三張無印刷的空白臉。
+}} }}
+
+{{MD Title
+|no=A3
+|subno=1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=AIKA AIKAWA {{size|18|JINAI}}
+|subtitle={{ruby|相河|アイカワ}} {{ruby|愛花|アイカ}}【{{ruby|仁愛|ジンアイ}}】
+|contentHeader={{#tag:div|
+alice gear angis:AIKA AIKAWA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2021年10月
+* '''膚色'''：{{MD Skin Color|A}}
+*換上小隊制服的強化版
+*色調由原本的白灰配色變成深淺不同的粉紅色，武器也變成同色系大槌與槍枝。
+**<s>隊長無人機也換色登場，然而這次面對的不再是哭泣的少女而是[[成句/粉紅切開來裡面都是黑的|粉切黑]]</s>
+*調整了印刷臉的比例與表情，比原版更加沉穩而堅毅。
+*於壽屋官方商店購入的特典為有標誌印刷的黑色壽屋支架，與無印刷的空白臉三張。
+}} }}
+
+===== [[機戰少女Alice/登場人物#一条 綾香（いちじょう あやか）|一条 綾香]] =====
+{{MD Title
+|no=A4
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=AYAKA ICHIJO
+|subtitle={{ruby|一条|イチジョウ}} {{ruby|綾香|アヤカ}}
+|contentHeader={{#tag:div|
+alice gear angis:AYAKA ICHIJO<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2020年8月
+* '''膚色'''：特殊
+*配色為紫紅與紫黑色調，點綴白色線條。身形與愛花一樣嬌小。
+*招牌的掃地機器人也有附屬。<s>可惜不是紅色的</s>
+* <s>盾牌的遮蓋上色地獄是各方模型玩家的登龍門</s>
+*於壽屋官方商店購入的特典為白色頭髮，與無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=A4
+|subno=1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=AYAKA ICHIJO {{size|18|EISHUN}}
+|subtitle={{ruby|一条|イチジョウ}} {{ruby|綾香|アヤカ}}【{{ruby|英俊|エイシュン}}】
+|contentHeader={{#tag:div|
+alice gear angis:AYAKA ICHIJO<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2021年11月
+* '''膚色'''：特殊
+*與穴愛花相同，換上小隊制服的強化版本。整體變成紅黑白色調。
+**掃地機器人也換色登場<s>真的變成紅色有角的造型</s>。
+*調整了印刷臉的比例(ry
+*盾牌的上色依舊難纏，並且不但附屬了原版盾牌，穴綾香(與掃地機器人)身上也有許多需要後製補色的細節，對新手與純素組玩家不太友善。
+*於壽屋官方商店購入的特典為有標誌印刷的黑色壽屋支架，與無印刷的空白臉三張。
+}} }}
+
+===== [[機戰少女Alice/登場人物#金潟 優美（かながた すぐみ）|金潟 優美]] =====
+{{MD Title
+|no=A5
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SUGUMI KANAGATA
+|subtitle=金潟 優美({{ruby|金潟|カナガタ}} すぐみ)
+|contentHeader={{#tag:div|
+alice gear angis:SUGUMI KANAGATA <br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2021年8月
+* '''膚色'''：特殊
+*不愧於本人的名字意涵與愛好，使用大量分件分色以重現身上各處的造型，可說是滿載著設計者的愛與熱情而生。
+**頭髮被分成足足六層，大腿環也用三層來重現造型，除此之外武裝上也有許多<s>宛如萬代出品</s>的零件分色。
+**<s>但依舊有需要後製補色的細節處</s>。
+*因為誇張的分件分色，導致零件量與盒子體積都十分龐大。
+**AGA系列的空間殺手二號，盒子與象神裝備等大，唯厚度略遜於對方。
+*於壽屋官方商店購入的特典為白髮以及無印刷的空白臉三張。
+**除了慣例的遊戲虛寶序號外，多了一份用於先行觀賞OVA的宣傳序號。
+}} }}
+
+{{MD Title
+|no=A5
+|subno=1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=SUGUMI KANAGATA {{size|18|GA-SHIN}}
+|subtitle=金潟 優美【臥薪】({{ruby|金潟|カナガタ}} すぐみ【{{ruby|臥薪|ガシン}}】)
+|contentHeader={{#tag:div|
+alice gear angis:SUGUMI KANAGATA <br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2023年4月
+* '''膚色'''：特殊
+*優美的強化版，配色改以藍黑、灰黑與黃色為主。
+*AGA系列的空間殺手四號。
+*於壽屋官方商店購入的特典為有標誌印刷的黑色壽屋支架
+*<s>嚐膽</s>
+}} }}
+
+===== [[機戰少女Alice/登場人物#小芦 睦海（こあし むつみ）|小芦 睦海]] =====
+{{MD Title
+|no=A6
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=MUTSUMI KOASHI
+|subtitle={{ruby|小芦|コアシ}} {{ruby|睦海|ムツミ}}
+|contentHeader={{#tag:div|
+alice gear angis:MUTSUMI KOASHI <br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2022年8月
+* '''膚色'''：特殊
+*全身為寶藍與黑色，配上些許橘黃點綴。體格與楓相同，武器為大槌跟槍枝。
+**槌子內部放入了彈簧，槌擊時會有回彈。
+*接續分件分色受大眾讚賞的金潟優美之後，同樣也用分件將身體各處細節表現得相當漂亮。
+**例如緊身褲與藍色吊帶襪的交錯，小腿的雙色分件，以及武裝上細小的橘色色塊，槍枝更是達成完美分色。
+*在兩張嚴肅不苟言笑的表情襯托下，第三張嬌羞的臉顯得十分珍貴。
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+**比其他同系列角色少了慣例的白色系頭髮，推測可能是因為疫情影響故減少特典份量。
+}} }}
+
+{{MD Title
+|no=A6
+|subno=1
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=MUTSUMI KOASHI {{size|18|GOU-KI}}
+|subtitle={{ruby|小芦|コアシ}} {{ruby|睦海|ムツミ}}【{{ruby|剛毅|ゴウキ}}】
+|contentHeader={{#tag:div|
+alice gear angis:MUTSUMI KOASHI<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2023年7月
+* '''膚色'''：特殊
+*強化版睦海，同樣換上叢雲小隊的制服，黑色的武裝換成寶藍色，除了既有的大槌與狙擊槍外，增加了一對帶勾爪的拳套。
+**<s>終於可以使用昇龍拳</s>
+*<s>路卡利歐{{ref|同樣為藍黑配色，尖尖的耳朵以及爪子造型}}</s>
+*於壽屋官方商店購入的特典為有標誌印刷的黑色壽屋支架，以及無印刷的空白臉三張。
+}} }}
+
+===== [[機戰少女Alice/登場人物#高幡 のどか（たかはた のどか）|高幡 のどか]] =====
+{{MD Title
+|no=A7
+|color=#ff669c
+|titleColor=#ff669c
+|bgColor=white
+|title=NODOKA TAKAHATA
+|subtitle={{ruby|高幡|タカハタ}} のどか
+|contentHeader={{#tag:div|
+alice gear angis:NODOKA TAKAHATA<br />
+}}
+|content={{#tag:div|
+* '''發售時間'''：2024年5月
+* 在TV動畫版播畢後翌日馬上宣佈動畫主角模型化的消息，一口氣超車不少Actress前輩
+* <s>動畫裡常見的噴鼻血表情不意外地有收錄</s>
+*於壽屋官方商店購入的特典為白髮與無印刷的空白臉三張。
+}} }}
+
+==== 武裝神姬系列 ====
+* <s>這是一個神祕的系列，常常訊息公開一半然後就沒有然後了，接著又無聲無息冒出來</s>
+* <s>這問題並非壽屋的問題、連淺井都被蒙在鼓裡，所以老話一句[[成句/幹你○●|幹你Konami（FYK）]]</s>
+<br>
+
+* [[起源]]自[[Konami]]推出的組裝美少女可動玩偶系列、曾推出相關的[[ACG]]作品，但不知是否因為人氣下滑的緣故相關作品逐一收攤，玩偶系列也在明明已預告會推出由黑星紅白設計的兩款機車型MMS的狀況下突然斷尾
+** 到2017年12月末Konami<s>又突然</s>宣佈武裝神姬系列再啟動，並找來角川及壽屋合作<s>組成3K黨</s>，並表示[https://www.konami.com/games/busou-shinki/img/bg_pc.jpg 多款新設計的MMS]將會在女神裝置線推出
+*** 往前可追溯到2015年壽屋在Wonder Festival會場上展示天使型MMS安瓦爾的灰模（此時還沒有女神裝置），可推斷當時壽屋已和Konami簽約製作武裝神姬相關的產品
+*** 武裝神姬系列再起動後壽屋又展出惡魔型MMS史特菈芙的灰模，但之後與安瓦爾一樣沒有了下文，據說當時有人問工作人員也問不出什麼所以然來
+** 但系列在僅推出一款獵兵型後、直到2023年推出上述的白子黑子之前一直杳無音訊，然而這系列今後恐怕會就此斷尾（下述）
+
+* 系列套件雖然主要採用現代流行的3mm接頭，但也有附上3.3mm的轉接器與過去的MMS玩偶連動互換零件<s>，導致後來的白子黑子包裝變得很大盒的原因之一</s>
+* 此外，臉部與AGA系列共通，可以相互替換使用。
+
+* 當Konami在2020年<s>突然</s>發表機台遊戲《武裝神姬Armored Princess Battle Conductor》及<s>到2023年依然毫無消息的</s>智慧型手機遊戲《武裝神姬R》後，淺井在同年2月WF冬的壽屋Talk Show上與及[https://apsy.blog.shinobi.jp/diary/%E6%AD%A6%E8%A3%85%E7%A5%9E%E5%A7%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6 部落格]裡'''宣佈脫離神姬系列的製作，並撤回兩年前自己參與新武裝神姬計畫的發言'''，當中還有提及部分與Konami合作時的情況：
+** 當初是以手機版（似乎不是武裝神姬R）為核心推動計畫，機台版在計畫發表後也止於討論要不要做的程度
+** 武裝神姬要再啟動的時候Konami方面的負責人曾通知他及鳥山、並說好今後會一起就神姬的新發展保持聯繫，然而在發表後2年過去卻全無聯絡
+*** 中間淺井僅看過一遍開發中的手機版的試作要素，之後就是主動聯絡Konami也只不斷收到延期或者負責人更迭的消息沒有進一步的資訊
+*** 模型化方面因為Konami已把白子和黑子的版權給了壽屋故一直獨自推進，但因為不清楚遊戲的開發進度只能像之前的獵兵型一般不得不擱著
+** 機台和手遊的事情他們直到Konami公佈前一個月才知曉，此時他們根本毫無準備、甚至到WF前一天自己還在整理開發用的資料，也導致當天壽屋全無武裝神姬的新資訊能公開
+** 淺井離開與武裝神姬有關的工作後相關模型化的開發會全面交予壽屋（但技術上還是會給予支援）；同場的鳥山則補充說白子黑子的模型一定會做到發售的一步
+
+{{MD Title
+|no=B1
+|color=black
+|titleColor=black
+|bgColor=white
+|title=TYPE JAEGER EDELWEISS
+|subtitle=獵兵型 雪絨花 ({{ruby|猟兵型|リョウヘイガタ}}エーデルワイス)
+|contentHeader={{#tag:div|
+BUSOU SHINKI:EDELWEISS<br />
+TYPE:JAEGER
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP476
+* '''發售時間'''：2019年1月
+* '''設計師'''：島田フミカネ
+* '''膚色'''：{{MD Skin Color|B}}
+* '''CV'''：[[白石晴香]]{{ref|《武裝神姬Armored Princess Battle Conductor》裡的CV}}
+* 全身為白色與黑色基調，點綴上葉綠裝飾。頭髮是淡雅的白金色澤，有著[[Elf|妖精]]般的長耳。
+** <s>妖精姬騎士</s>
+* 武裝腳的鞋底平坦寬闊且有輔助支架，在不使用支架時也能穩穩站立。
+* 殘件包含珍貴的一組腰部內構關節，使她在玩家間價值大漲。
+** <s>當然價格高昂的最大原因還是未曾再販，流通率低</s>
+* 於壽屋官方商店購入的特典為半透明灰白色頭髮，與無印刷的空白臉三張。
+* <s>雖然較少人知道，不過她是《武裝神姬R》初次發表時的看板角色</s>
+* {{censored|於相關人員的FA:G綾月開箱直播中，有眼尖的玩家發現背景的櫃子內疑似放了一盒雪絨花的換色黑肉版模型}}
+** {{censored|消息出來不久影片存檔便被下架，僅有截圖存證}}
+** {{censored|目前無論是Konami或者壽屋及女神裝置製作群皆沒有承認過雪絨花換色版的存在。}}
+}} }}
+
+{{MD Title
+|no=B2
+|color=black
+|titleColor=black
+|bgColor=white
+|title=TYPE ANGEL ARNVAL
+|subtitle=天使型 安瓦爾 ({{ruby|天使型|テンシガタ}}アーンヴァル)
+|contentHeader={{#tag:div|
+BUSOU SHINKI:ARNVAL<br />
+TYPE:ANGEL
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP377
+* '''發售時間'''：2022年1月
+* '''設計師'''：島田フミカネ
+* '''CV'''：[[阿澄佳奈]]{{ref|承接自武裝神姬系列的CV|MMSCV}}
+* 如上述般其原型早在2015年Wonder Festival會場上已公開，某方面算是女神裝置最早公開的模型套件，因此其商品代號KP377也是女神裝置裡最前面的
+* 採用的專用Machineca素體修改成接近MMS 1st素體的規格及可動機構，首次重現CSC核心（還分Battle Rondo及Battle Master兩個版本），並附送'''能重現Konami版本造型'''的臉部表情水貼
+* 於壽屋官方商店購入的特典為特別圖面的壽屋飛行支架。
+}} }}
+
+{{MD Title
+|no=B2
+|subno=1
+|color=black
+|titleColor=black
+|bgColor=white
+|title=TYPE ANGEL ARNVAL
+|subtitle=天使型 安瓦爾 異色版 ({{ruby|天使型|テンシガタ}}アーンヴァル リペイントカラーバージョン)
+|contentHeader={{#tag:div|
+BUSOU SHINKI:ARNVAL<br />
+TYPE:ANGEL
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP693
+* '''發售時間'''：2023年9月
+* '''設計師'''：島田フミカネ
+* 天使型安瓦爾（KP377）的黑色異色版本，整體改為黑紅點綴白的配色。
+*頭髮變成淡金色，並新增了披散的瀏海與馬尾造型。
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} }}
+
+{{MD Title
+|no=B3
+|color=black
+|titleColor=black
+|bgColor=white
+|title=TYPE DEVIL STRARF
+|subtitle=惡魔型 史特菈芙 ({{ruby|悪魔型|アクマガタ}}ストラーフ)
+|contentHeader={{#tag:div|
+BUSOU SHINKI:STRARF<br />
+TYPE:DEVIL
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP378
+* '''發售時間'''：2023年5月
+* '''設計師'''：島田フミカネ
+* '''CV'''：[[茅原實里]]{{ref||MMSCV}}
+*於壽屋官方商店購入的特典為特製圖面的壽屋飛行支架。
+}} }}
+
+{{MD Title
+|no=B3
+|color=black
+|titleColor=black
+|bgColor=white
+|title=TYPE DEVIL STRARF
+|subtitle=惡魔型 史特菈芙 異色版 ({{ruby|悪魔型|アクマガタ}}ストラーフ リペイントカラーバージョン)
+|contentHeader={{#tag:div|
+BUSOU SHINKI:STRARF<br />
+TYPE:DEVIL
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP694
+* '''發售時間'''：2024年3月
+* '''設計師'''：島田フミカネ
+* '''CV'''：[[茅原實里]]{{ref||MMSCV}}
+*於壽屋官方商店購入的特典為無印刷的空白臉三張。
+}} |subno=1}}
+
+{{MD Title
+|no=B?
+|color=black
+|titleColor=black
+|bgColor=white
+|title=TYPE CHESHIRE CAT TAONYAO
+|subtitle=柴郡貓型 TAONYAO (チェシャ{{ruby|猫型|ネコガタ}}タオニャオ)
+|contentHeader={{#tag:div|
+BUSOU SHINKI:STRARF<br />
+TYPE:CHESHIRE CAT
+}}
+|content={{#tag:div|
+* '''發售時間'''：不明（可能無限期擱置）
+* '''設計師'''：BLADE
+* 當初與雪絨花一同發表、預定為武裝神姬合作的第二彈角色，並以B2作為代號
+** 採用體型比較小的BLADE素體（根據小道消息，此版本素體後來可能用於FA:G的DTAシルフィー上面）
+** 但之後因不明原因沒有了下文（可能已廢案，不過因為沒有官方消息所以只是臆測），B2的位置之後由白子（KP337）給取代
+* 因為造型與之後2023年公佈的PUNI★MOFU貓（當時暫稱BLADE型女神）外觀非常相似，有不少人於是猜測是由原本的柴郡貓型MMS企畫轉過去
+** 根據外面流傳的謠言表示，繪師BLADE似乎不滿K社，改而轉向跟女神裝置原班人馬合作
+}} }}
+
+==== 其他規劃<s>[[爛尾]]</s>中的角色 ====
+* '''[[新世紀福音戰士]]'''
+** 2019年對外發表的合作案，代號預計為E開頭
+** 第1個角色為[[初號機]]的[[擬人化]]，並找來設計朱羅系列的Nidy-2D-擔綱
+** 開發進度至展示灰模，之後至今沒有任何後續消息
+
+== 其他相關 ==
+* 武裝神姬：一些玩家認為女神裝置是武裝神姬精神的後繼之作<s>，結果卻被FYK了（見上）</s>
+
+* FA:G：壽屋旗下第一個美少女（機娘）模型系列，源自原創機器人模型系列「Frame Arms」<s>的機設之一的柳瀨敬之的同人誌裡島田插花繪畫的擬人化轟雷（無誤）</s>
+** 比例同為1/1、不過個頭比女神裝置大一點（以真人比例計算約為1/10）
+
+* [[30_MINUTES_SISTERS|30MS]]：由萬代模型發行的系列，發表時間比女神裝置晚很多
+** 主打簡單、容易組裝再加上價格便宜，所以有時候會被戲稱為「低<s>配</s>價版女神裝置」
+** 因為同樣採用3mm接頭所以雙方具備一定互換性，但要把女神裝置的頭裝上30MS的身體需要改造30MS方的頸部接頭
+
+* PLAMAX
+* [[機娘]]
+
+== 外部連結 ==
+* [https://www.megamidevice.com/ 官網]
+* [https://twitter.com/MEGAMIDEVICE/ 官方推特]
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references />
+
+{{Puramo}}
+
+[[分類:組裝模型]]
+[[分類:壽屋]]

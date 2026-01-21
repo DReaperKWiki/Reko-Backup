@@ -1,0 +1,23 @@
+== 描述 ==
+[[女神裝置]]角色(產品)膚色專用模板
+
+== 語法 ==
+<code><nowiki>{{MD Skin Color|膚色代號}}</nowiki></code>
+{| class="wikitable"
+|-
+!欄位
+!必要性
+!預設值
+!作用
+!備註
+|-
+|匿名參數2
+|必要
+|空白
+|膚色代號
+|目前只能填寫：A、B、C、D、E
+|}
+
+<includeonly>
+[[分類:特定主題使用模板]]
+</includeonly>
