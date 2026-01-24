@@ -166,7 +166,7 @@
 |-
 |{{color|white|#ff8100|'''麥拉倫<br>（McLaren Mastercard Formula 1 Team）'''}}
 |Mclaren
-|MCL40A
+|MCL40
 |Mercedes
 |Lando Norris<br>Oscar Piastri
 |<s>木瓜</s>
@@ -181,7 +181,7 @@
 |-
 | {{color|#00a19c|#c0c0c0|'''梅賽德斯（賓士）<br>（Mercedes-AMG PETRONAS Formula One Team）'''}}
 | Mercedes
-| ?
+| W17
 | Mercedes
 | George Russell<br>Andrea Kimi Antonelli
 | 簡稱MGP，先是作為麥拉倫的引擎供應商參加F1，2009年賽季結束後買下布朗GP車隊後改名參戰至今。
@@ -202,7 +202,7 @@ F1自改用V6混能引擎以後的長期霸主，曾建立WCC 8連霸（2014-21�
 |-
 | {{color|#faeb53|#d02f28|'''法拉利<br>（Scuderia Ferrari HP）'''}}
 | Ferrari
-| ?
+| SF-26
 | Ferrari
 | Charles Leclerc<br>Lewis Hamilton
 | 通稱紅軍<s>、窩法、本能寺</s>，粉絲則被稱作「Tifosi<ref>字面意思為義大利語的「粉絲」或「支持者」，華語圈音譯為「鐵佛寺」。</ref>」。
@@ -227,11 +227,11 @@ Newey於1996年離隊後車隊的黃金年代也隨著1997年最後一次WCC奪�
 |-
 | {{color|#fed800|#003282|'''Visa Cash App Racing Bulls F1 Team'''}}
 | Racing Bulls
-| ?
+| VCARB03
 | Red Bull Ford
 | Liam Lawson<br>Arvid Lindblad
-| 前身是義大利的Minardi車隊，2005年被紅牛收購後改名Scuderia Toro Rosso<ref>義大利語的紅牛</ref>，到2020年為宣傳紅牛旗下的時尚品牌改名Alpha Tauri，後於2024年改為現名{{ref|2024年時以簡寫「RB」出賽，2025年起正式使用全名。}}。
-Toro Rosso時期因為紅牛先前已收購Jaguar車隊，被中文圈粉絲稱作「小牛」或「紅牛二隊」並沿用至今，紅牛車隊則被稱為大牛。<br>
+| 前身是義大利的Minardi車隊，2005年被紅牛收購後改名Scuderia Toro Rosso<ref>義大利語的紅牛</ref>，到2020年為宣傳紅牛旗下的時尚品牌改名Alpha Tauri，後於2024年改為現名{{ref|2024年時以簡寫「RB」出賽，2025年起正式使用全名}}。
+因為有紅牛車隊在前，自Toro Rosso時期起便被中文圈粉絲稱作「小牛」或「紅牛二隊」沿用至今，紅牛車隊則被稱為大牛。<br>
 作為紅牛的姊妹隊和青年隊主責為大牛培養優秀車手，表現好的車手有很大的機會被拉拔到大牛<ref>例如Vettel, Daniil Kvyat, Ricciardo和Verstappen</ref>，相反在大牛表現不好的車手也有可能會被下放過來<ref>例如<s>光子魚雷</s>Kvyat，<s>只會開小牛的</s>Gasly和Albon；當中Gasly曾在小牛數度登上頒獎台甚至奪得分站冠軍</ref>。<br>
 <br>
 <s>與法家相同的義式浪漫常體現在策略上</s>
@@ -751,7 +751,7 @@ F1賽車生涯大起大落：初級方程式時類似Senna因為未能適應歐�
 |庫珀<br>（Cooper）
 |1950-69年
 |
-|
+|多個有名F1車隊的老祖宗，McLaren、Brabham、Tyrrell、Stewart（紅牛前身）的車隊創辦人都曾經待在該車隊工作過。<br>車隊名稱和車隊老闆的姓氏就是現今Mini Cooper的那個Cooper，因在1960年代爲非因賽車而生的Mini改裝並稱霸拉力賽場多年後，得以在其高性能版本冠上此名並傳承至今。
 |-
 |泰瑞爾<br>（Tyrell）
 |1968-98年
@@ -800,8 +800,9 @@ F1賽車生涯大起大落：初級方程式時類似Senna因為未能適應歐�
 |豐田車隊 
 |2002-09年
 | Jarno Truli<br>Timo Glock
-|號稱資金無上限，卻始終沒有WDC/WCC甚至分站冠軍<br>
-經歷金融風暴後先是退居引擎供應商、再完全撤出，直到2024年才以哈斯車隊技術合作夥伴的身分重回圍場
+|號稱資金無上限，並且將所有國際賽車資源砍掉並全投在F1上，卻始終沒有WDC/WCC甚至分站冠軍<br>
+經歷金融風暴後先是退居引擎供應商、再完全撤出，直到2024年才以哈斯車隊技術合作夥伴的身分重回圍場<br>
+在進出F1界前，其德國科隆的營運總部已經在頂級拉力和耐力賽風光過<s>然而是傳說中的萬年老二</s>，退出F1後時任CEO豐田章男憑着當年還是業餘賽車手時的經驗着手改革賽車經營模式後，終於在2010年代末在各項賽事獲得勝利的甜頭<s>（當然也有2016年傳說中的利曼尾圈[[老馬]]事件）</s>，並着手擴展業務成包辦小型業餘賽車至頂級賽車承包商。
 |-
 |本田車隊
 |1964-68, 2006-08年{{ref|僅限本隊名義參賽，作為動力單元供應商至2021年}}
