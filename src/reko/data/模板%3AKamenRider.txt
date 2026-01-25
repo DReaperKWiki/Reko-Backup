@@ -60,7 +60,7 @@
 |group12 = [[仮面ライダーOOO/角色介紹|<span style="color:black">OOO</span>]]
 |list12 = [[火野映司]]・[[Ankh|アンク]]・[[伊達明]]・[[後藤慎太郎]]
 |group13 = [[仮面ライダーフォーゼ/角色介紹|<span style="color:black">Fourze</span>]]
-|list13 = [[如月弦太朗]]・[[朔田流星]]
+|list13 = [[如月弦太朗]]・[[朔田流星]]・[[美咲撫子]]
 |group14 = [[仮面ライダーウィザード/角色介紹|<span style="color:black">Wizard</span>]]
 |list14 = [[操真晴人]]・[[仁藤攻介]]・[[笛木奏]]
 |group15 = [[仮面ライダー鎧武/角色介紹|<span style="color:black">鎧武</span>]]
