@@ -434,6 +434,7 @@
 * 《激走！川中島24時 嘮嘮叨叨超五稜郭 暗殺代號是M51》主題曲。
 * 「'''七'''」星神威 
 * 海道霸皇義元的決戰中使用了改篇版的本版歌曲，武田信玄與上杉謙信的寶具BGM也是由此曲改編
+* <s>改篇BGM《七星神威　～赤と白のシンフォニア～》後來成了萬用的決鬥BGM</s>
 
 === {{youtube|hxxBOnjpCTc|{{ruby|Reson8te|レゾネイト}}（feat. 六花）}} ===
 {| class="wikitable" style="margin-right: 1em auto 1em auto;"
@@ -657,6 +658,23 @@
 | DoubleSlitter、来兎
 |}
 * 2025年活動《最終萬聖節2025 ～於南瓜行星閃耀的歌姬～》主題曲。
+
+=== アンファールド ===
+{| class="wikitable" style="margin-right: 1em auto 1em auto;"
+|-
+! 主唱
+| 池田智子
+|-
+! 作詞
+| 西田圭稀
+|-
+! 作曲
+| 馬瀬みさき
+|-
+! 編曲
+| 馬瀬みさき
+|}
+* 2026年活動《迦勒底的花神節 你的花朵綻放之時》主題曲。
 
 == Fate/Grand Order Arcade ==
 === 空白 ===
