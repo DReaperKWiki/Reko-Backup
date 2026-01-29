@@ -1,5 +1,8 @@
 <!--@convert-with mwzhx/komicawiki-backup/web/index-browser
-convert from html backup, see [[User:Gholk/kmb]]-->{{h0|爽翻天自High神功}}
+convert from html backup, see [[User:Gholk/kmb]]-->
+{{h0|爽翻天自High神功}}
+
+{{模板:ItsBeen3000Years}}
 
 == 解說 ==
 
@@ -28,3 +31,4 @@ convert from html backup, see [[User:Gholk/kmb]]-->{{h0|爽翻天自High神功}}
 * [[桌角]]
 
 [[分類:迷因]]
+[[分類:含有成人內容的條目]]

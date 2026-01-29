@@ -56,7 +56,7 @@
 **# 「Record」（記錄），乃是本wiki一直恪守的「記錄流行文化大小事」的宗旨；
 **# 「'''Re''':從零開始的'''Ko'''mica Wiki」，象徵著本Wiki為繼承了Komica Wiki人民意願，作為眾編輯者意志的代表的正統繼承wiki。
 * <s>當然，我們改名的原因還是有因為規避1883的版權炮，畢竟Komica是已經被註冊商標的詞語。</s>
-* <s>另外Pioneer自家的DJ軟件名為'''Rekord'''box。</s>
+* <s>另外Pioneer自家的DJ軟體名為'''Rekord'''box。</s>
 
 == 討論 ==
 <comments />

@@ -37,7 +37,7 @@
 ** Komica Wiki的投票本身也可以被同樣的方法編輯，因此常常出現某些項目被灌了幾億票的灌票行為，但是因為投票本身純屬好玩，因此其實對於這類現象無須在意。
 * 若要建立新的文章，可以按上方的「新規」連結。
 ** 雖然Komica Wiki歡迎各類的文章，但最好不要離題太遠，不然可能很快就會被砍。
-* 至於編輯文章時的語法細節，請參閱「[[Wiki編輯教學 (舊Komica Wiki專用)]]」。
+* <s>至於編輯文章時的語法細節，請參閱「Wiki編輯教學 (舊Komica Wiki專用)」。</s>
 
 ==== MediaWiki年代 ====
 * 由於聲優廚於2017年三月進行第三度大規模破壞，當時就有建議改用MediaWiki的聲音。
@@ -97,7 +97,7 @@
 
 * 這次事件之後，Komica Wiki正式分裂為三個獨立網站：
 ** [https://yuki.komica.org Yuki]：由1883所成立，作為重建之用（已死）
-** [https://rekowiki.org/wiki/%E9%A6%96%E9%A0%81 Reko]：由Cross氏所成立，並由前Komica Wiki的核心編輯者作為管理議會集體營運
+** Reko Wiki（本站）：由Cross氏所成立，並由前Komica Wiki的核心編輯者作為管理議會集體營運
 ** [https://newkomica-kari.fandom.com/zh-tw/wiki/%E9%A6%96%E9%A0%81 Fandom]：為了搶救條目而創建的備份wiki，但因Fandom的特殊性質和網站要求，'''目前已不再雙向同步'''
 
 ==== 與舊Komica Wiki的異同點 ====
