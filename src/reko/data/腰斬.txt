@@ -1135,8 +1135,8 @@
 |-
 |style="text-align:center;"  colspan="2" |StarBlade: Operation Blue Planet
 |rowspan = "2"|[[Bandai Namco|Namco（現BNEI）]]
-|本作的新框體「Over Reality Booster System（O.R.B.S.）」的製作成本太燒錢+正值街機市場衰退期
-|原預定為StarBlade睽違已久的續作，但因為前述原因不了了之（僅放出展示用的試玩影片）<br>雖然被腰斬，但框體的設計概念也還是被不少遊戲公司參考過去，此外官方也還是將本作列入《銀河聯邦宇宙軍（UGSF）》年表，年曆為2659年<br>[https://www.youtube.com/watch?v=leT3saYfZr4 展示用遊戲畫面]
+|本作的新框體「{{ruby|Over|O.}} {{ruby|Reality|R.}} {{ruby|Booster|B.}} {{ruby|System|S.}}筐體」的製作成本太過燒錢+AM Show場測不如預期+正值街機市場萎縮期
+|原預定為StarBlade睽違已久的續作，但因為前述原因不了了之（僅放出展示用的試玩影片）<br>雖然被腰斬，但框體的設計概念也還是被不少遊戲公司（包括BNEI本家）參考過去，此外官方也還是將本作列入《銀河聯邦宇宙軍（UGSF）》年表，年曆為2659年<br>[https://www.youtube.com/watch?v=leT3saYfZr4 展示用遊戲畫面]
 |-
 |style="text-align:center;"  colspan="2" |New Space Order
 |原因不明

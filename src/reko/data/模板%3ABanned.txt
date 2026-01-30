@@ -1,0 +1,12 @@
+{{Iumb
+| id = Banned
+| bg = Black
+| border size = 7.5px
+| border type = solid
+| border = #262626
+| image = [[檔案:R1280x720l.png|200px]]
+| caption = '''{{color|white||『出口など無い。ここが貴様の終焉だ』}}'''
+| message = {{color|white||本使用者已被本站永久封禁。}}
+| comment ={{color|white||本Wiki一向對破壞者零容忍，而您也不例外。除非學會網絡禮儀和待人接物，否則請您以後都不要回來！}}
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

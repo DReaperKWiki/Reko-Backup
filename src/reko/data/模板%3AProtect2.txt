@@ -1,0 +1,12 @@
+{{Iumb
+| id = Protect2
+| bg = yellow
+| border size = 7.5px
+| border type = solid
+| border = black
+| image = [[檔案:DIO-Protect2.webp|200px]]
+| caption = '''無駄無駄無駄無駄無駄無駄無駄無駄！無駄！！！'''
+| message = 奉勸破壞者：KomicaWiki絕不姑息任何破壞，管你有千兵萬馬，只叫閣下無功而回！
+| comment = 
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

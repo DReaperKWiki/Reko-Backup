@@ -1,7 +1,6 @@
-{{h0| Animator vs. Animation/AVA/火柴人 VS 動畫師/動畫師和動畫{{ref|早年的無授權搬運譯名}}/桌面大戰/Alan Becker火柴人系列/AB柴{{ref|對岸常見略稱}}}}
+{{h0| Animator vs. Animation/火柴人 VS 動畫師/動畫師和動畫{{ref|早年的無授權搬運譯名}}/桌面大戰/Alan Becker火柴人系列/AB柴{{ref|對岸常見略稱}}}}
+{{Orga}}
 {| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
-|-
-{{stub row}}
 |-
 |以下可能透露部份劇情，沒看過<s>又不想'''被突然活過來的火柴人打爆繪圖軟體界面乃至於整部電腦，或者終端裡的東西掉東掉西'''</s>的話請不要繼續看下去。
 |}

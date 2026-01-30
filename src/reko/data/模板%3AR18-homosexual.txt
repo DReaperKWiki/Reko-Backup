@@ -1,12 +1,12 @@
 {{Iumb
-| id = R18
+| id = R18-2
 | bg = black
 | border size = 7.5px
 | border type = solid
 | border = magenta
-| image = [[檔案:H是不行的.jpg|120px]]
-| caption = <big>{{color|white||'''H 是{{color|red||不行}}的!'''}}</big>
-| message = {{color|white||本條目含有成人內容。}}
+| image = [[檔案:Relax you gays.jpg|200px]]
+| caption = '''{{color|white||Relex! {{color|#9933FF||You gays}}~}}'''
+| message = {{color|white||本條目含有同性戀的成人內容。}}
 | comment = {{color|white||請在RekoWiki政策的容許範圍內編輯，以免步上K島本島的後塵！}}
 }}
 <includeonly>[[Category:含有色情內容的條目‏‎]]</includeonly><noinclude>[[分類:條目提示模板]]</noinclude>

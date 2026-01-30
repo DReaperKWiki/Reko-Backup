@@ -1,0 +1,12 @@
+{{Iumb
+| id = UnderDiscuss
+| bg = Black
+| border size = 7.5px
+| border type = solid
+| border = #4a4c3f
+| image =[[檔案:Council Decide.webp|200px]]
+| caption = {{color|white||'''The Council will decide your fate.'''}}
+| message = {{color|white||本條目正在討論存廢，大規模改寫或其他重大變更。歡迎使用者在下方留言欄，以及Discord群討論。}}
+| comment = 
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

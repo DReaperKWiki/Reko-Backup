@@ -1,0 +1,12 @@
+{{Iumb
+| id = Banned2
+| bg = Black
+| border size = 7.5px
+| border type = solid
+| border = #262626
+| image = [[檔案:Your-memes-end-here-metal-gear-rising1.gif|200px]]
+| caption = {{color|white||'''Your memes, end HERE.'''}}
+| message = {{color|white||這個使用者已經被本站永久封禁。}}
+| comment = {{color|white||本Wiki一向對破壞者零容忍，而您也不例外。除非學會網絡禮儀和待人接物，否則請您以後都不要回來！}}
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

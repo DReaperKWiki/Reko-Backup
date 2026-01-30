@@ -1,0 +1,12 @@
+{{Iumb
+| id = Originality
+| bg = DarkRed
+| border size = 7.5px
+| border type = solid
+| border = Black
+| image = [[檔案:Je.webp|200px]]
+| caption = '''[[杰哥|{{color|white||我看你...完全是不懂喔}}]]'''
+| message = {{color|white||本條目缺乏原創內容，且很可能完全照抄其它網路資料。}}
+| comment = {{color|white||Komica Wiki不是其他Wiki的備份。若反覆進行此類編輯，將被視為破壞行為。}}
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude><includeonly>[[Category:需要重寫的條目‏‎]]</includeonly>

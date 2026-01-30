@@ -1,0 +1,12 @@
+{{Iumb
+| id = Protect
+| bg = yellow
+| border size = 7.5px
+| border type = solid
+| border = black
+| image = [[檔案:You-shall-not-pass-quote-1.jpg|200px]]
+| caption = '''You shall not pass!'''
+| message = 奉勸破壞者：KomicaWiki絕不姑息任何破壞，管你有千兵萬馬，只叫閣下無功而回！
+| comment = 
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>
