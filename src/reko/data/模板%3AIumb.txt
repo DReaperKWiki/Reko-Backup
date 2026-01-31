@@ -1,0 +1,52 @@
+<div id="{{{id|{{<includeonly>subst:</includeonly>PAGENAMEE}}}}}" class="mobile-hide headertemplate messagebox noprint iumb hidable" 
+style="max-width:97.5%; max-width:97.5%; margin:auto;">
+{{rt|{{{bg|#aaa}}}}}
+<div style="background: {{{bg|#aaa}}}; color: {{{fg|#000}}}; border:{{{border size|}}} {{{border type|}}}; border-color:{{#if:{{{border}}}|{{{border|#fff}}}|{{{bg|#aaa}}}}};">
+{|class="iumb-table-container" |
+{| style="border-collapse:separate; border-spacing:12.5px 5px; " class="hidable-content"
+|-
+| class="iumb-icon" | {{{image|}}}
+| class="iumb-main" |
+<span class="iumb-caption">{{{caption|}}}</span>
+
+<span class="iumb-message">{{{message|}}}</span>
+
+<span class="iumb-comment">{{{comment|}}}</span>
+|}
+| class="iumb-hidable-button" | <span class="hidable-button"></span>
+|}
+</div>
+{{rb|{{{bg|#aaa}}}}}</div><noinclude>
+
+== Usage ==
+<pre>
+{{Iumb
+| image = [[File:Filename.ext|Npx]]
+| bg = （Color）
+| border size = Npx（selectively）
+| border type = (Type)（selectively）
+| border = （Color）（Selectively）
+| caption = 
+| message = 
+| comment =
+}}
+</pre>
+
+=== Type list ===
+{| class="wikitable" style="text-align:center; font-size:20px;"
+|-
+| <span style="border:5px dotted"> dotted </span>
+| <span style="border:5px dashed"> dashed </span> 
+| <span style="border:5px solid"> solid </span> 
+| <span style="border:5px double"> double </span>
+|-
+| <span style="border:5px groove"> groove </span> 
+| <span style="border:5px ridge"> ridge </span> 
+| <span style="border:5px inset"> inset </span> 
+| <span style="border:5px outset"> outset </span>
+|-
+| colspan="4" |none／hidden
+|}
+
+[[Category:Utility templates]]
+[[Category:條目提示模板|*]]</noinclude>
