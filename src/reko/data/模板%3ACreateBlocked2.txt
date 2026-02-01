@@ -1,0 +1,12 @@
+{{Iumb
+| id = CreateBlocked
+| bg = #f33
+| border size = 7.5px
+| border type = solid
+| border = DarkRed
+| image = [[檔案:Wait That's illegal.jpg|200px]]
+| caption = <big>'''Wait, that's Illegal.'''</big>
+| message = 本條目在Reko Wiki已被管理員限制建立或需要完全重寫。
+| comment = 原因可能為：MediaWiki時代此條目為惡意建立、缺乏原創以及ACG相關內容，或曾引發嚴重筆戰。<br/>另外因應Fandom對敏感內容嚴格限制，亦避免編輯此條目。
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude><includeonly>[[分類:限制建立條目]]</includeonly>

@@ -1,0 +1,12 @@
+{{Iumb
+| id = CreateRestricted
+| bg = yellow
+| border size = 7.5px
+| border type = solid
+| border = Black
+| image = [[檔案:101552451.jpg|200px]]
+| caption = '''ガンダムによる全戦争行為への武力介入を開始する！'''
+| message = 管理員會特別監控本頁面。
+| comment = 此頁面容易發生破壞事件或是編輯戰，需要使用者的格外關注。
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

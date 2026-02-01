@@ -1,0 +1,9 @@
+{{Iumb
+| id = Saitama
+| bg = orange
+| image = [[File:Saitama.jpg|120px]]
+| caption = '''『[[一拳超人|馬鹿野郎！20字以内で簡潔にまとめやがれ！]]』'''
+| message = 本條目內容過於瑣碎。
+| comment = 考量百科空間有限，請減少過於冗長的敘述，並在必要時增開子條目。
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

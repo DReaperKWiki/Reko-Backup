@@ -1,0 +1,9 @@
+{{Iumb
+| id = Nanoha
+| bg = orange
+| image = [[檔案:Unnamed.png|120px]]
+| caption = '''『[[成句/頭腦稍微冷靜一下吧...|少し、頭冷やそうか。]]』'''
+| message = 本使用者已被管理員暫時封禁。
+| comment = 這個使用者由於違反了Reko Wiki的使用守則，暫時遭到了封禁。事出必有因，請您仔細檢討自己的行為的問題點後，再度參與編輯。保護Reko Wiki的環境，人人有責！
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

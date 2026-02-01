@@ -1,0 +1,12 @@
+{{Iumb
+| id = mirrorpage
+| bg = White
+| border size = 7.5px
+| border type = solid
+| border = Black
+| image = [[File:RiceAndRice.jpg|200px]]
+| caption = '''點了白飯跟白飯之後，結果跟白飯重複到了...'''
+| message = 本條目和在Fandom上的New Komica wiki (仮) Wiki的同名條目重覆了，在此條目上的編輯會被覆蓋。
+| comment = 為避免編輯衝突，請其他編輯者前住New Komica wiki (仮) Wiki編輯此條目。
+}}
+<noinclude>[[分類:Fandom端使用的特有模板]]</noinclude>

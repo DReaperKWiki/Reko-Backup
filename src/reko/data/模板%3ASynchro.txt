@@ -1,0 +1,12 @@
+{{Iumb
+| id = synchro
+| bg = #FFEFE5
+| border size = 7.5px
+| border type = solid
+| border = Black
+| image = [[File:synchro100.jpg|200px]]
+| caption = '''同步率達到100%'''
+| message = 本條目{{#if:{{{1|}}}|在{{{1}}}|}}{{#if:{{{2|}}}|於{{{2}}}|}}出現新的編輯。<br />為了同步需要，機器人已把{{#if:{{{1|}}}|出現在{{{1}}}的|}}新編輯搬過來。<br />若你為Fandom端使用者，請[https://rekowiki.org/wiki/{{FULLPAGENAMEE}} 移駕至此持續編輯條目]。
+| comment = 如有覆蓋掉舊編輯，請於歷史紀錄中復原，同時亦檢查{{#if:{{{1|}}}|{{{1}}}的|}}內容是否相容。如有更新內容，請把此模板撤掉。
+}}
+<noinclude>[[分類:Fandom端使用的特有模板]]</noinclude>

@@ -1,13 +1,12 @@
 {{Iumb
 | id = Boring
 | bg = black
-| border size = 12.5px
-| border type = ridge
-| border = #c8ffe1
-| image = [[檔案:極度無聊.webp|250px]]
+| border size = 7.5px
+| border type = solid
+| border = #5CCBB1
+| image = [[檔案:極度無聊.webp|200px]]
 | caption = {{color|white||'''以下條目部分內容極度無聊，敬請讀者留意。'''}}
 | message = {{color|white||本條目的內容過於死板及沉悶，需要添增更生動的描述。}}
 | comment = {{color|white||Reko Wiki的宗旨是「我想，我寫，我惡搞」，請適度發揮創意增加條目的娛樂性和可讀性，讓讀者更投入去詳閱、了解箇中趣味。}}
 }}
-
 <noinclude>[[分類:條目提示模板]]</noinclude>

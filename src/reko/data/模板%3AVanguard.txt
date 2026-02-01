@@ -1,0 +1,42 @@
+{{Navbox
+| name =Vanguard
+| title = [[卡片戰鬥先導者]]
+| state = uncollapsed
+| groupstyle = width: 8em; text-align: left;
+| group1 = 動畫相關
+| list1 = 
+{{Navbox|child|
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|group1 = 系列主線作品
+| list1 = 
+{{Navbox|child|
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|group1 = 無印/P系列
+| list1 = [[卡片戰鬥先導者 (無印)|無印]]
+|group2 = G系列
+| list2 = [[卡片戰鬥先導者G|G]]
+|group3 = V系列
+| list3 =  [[卡片戰鬥先導者 (2018版)|2018(重啓)]]・[[卡片戰鬥先導者 新右衛門篇|新右衛門篇]]・[[卡片戰鬥先導者Extra Story -IF-|Extra Story -IF-]]
+|group4 = D系列
+| list4 =[[卡片戰鬥先導者overDress|overDress]]・[[卡片戰鬥先導者overDress|will+Dress]]・[[卡片戰鬥先導者Divine Z|Divine Z]]
+}}
+| group2 = 外傳動畫
+| list2 =  [[百慕達三角～多彩田園曲～]]
+<!-- | group3 = 人物介紹
+| list3 =[[先導愛知]]・[[新導刻]]・[[新右衛門]]・[[近導遊悠]] -->
+}}
+| group2 = [[卡片戰鬥先導者(TCG)|TCG相關]]
+| list2 =
+{{Navbox|child|
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|group1 =世界觀
+|list1 =[[庫雷惑星 (先導者世界觀)|庫雷惑星]]
+|group2 = 其它
+|list2 =[[卡片戰鬥先導者(TCG)/聯動合作系列|聯動合作系列]]
+}}
+}}
+<noinclude>[[Category:卡片戰鬥先導者]]</noinclude>
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

@@ -8,42 +8,47 @@
 === CreateBlocked ===
 {{CreateBlocked}}
 {{CreateBlocked2}}
-* 出處：《[[LoveLive!]]》的[[園田海未]]、《涼宮春日系列》的朝比奈
+* 出處：《[[LoveLive!]]》的[[園田海未]]、《最後一戰》
 * 使用時機：條目為MediaWiki時代惡意建立、或有重大爭議而不得再建立者，可建立頁面後放置此模板外加權限鎖屏蔽建立。
-
-
-
+* 用法：<code><nowiki>{{</nowiki>[[Template:CreateBlocked|CreateBlocked]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:CreateBlocked2|CreateBlocked2]]<nowiki>}}</nowiki></code>
 
 === CreateRestricted ===
 {{CreateRestricted}}
 * 出處：《[[機動戰士鋼彈OO]]》的能天使鋼彈
 * 使用時機：大致同上，預防特定條目建立用。
 * 若是條目建立後才發生筆戰，優先使用此模板作為警語。
-
+* 用法：<code><nowiki>{{</nowiki>[[Template:CreateRestricted|CreateRestricted]]<nowiki>}}</nowiki></code>
 
 === Protect ===
 {{Protect}}
 {{Protect2}}
 * 出處：《[[艦隊Collection]]》的加賀，《[[JOJO的奇妙冒險]]》的[[DIO]]
 * 使用時機：有編輯戰經歷，或是有高風險遭特定族群破壞。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Protect|Protect]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:Protect2|Protect2]]<nowiki>}}</nowiki></code>
 
 === Undercomplete ===
 {{Orga}}
-{{Quattro}}
-* 出處：《[[機動戰士鋼彈 鐵血孤兒]]》的[[成句/不要停下來啊|歐格．伊茲卡]]，《[[機動戰士Z鋼彈]]》的庫瓦特羅·巴吉納
+* 出處：《[[機動戰士鋼彈 鐵血孤兒]]》的[[成句/不要停下來啊|歐格．伊茲卡]]
 * 使用時機：條目需要持續更新或未完工。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Orga|Orga]]<nowiki>}}</nowiki></code>
 
-
+{{ItsBeen3000Years}}
+{{Bael}}
+* 出處：《[[寶可夢]] X/Y》的[[寶可夢第六世代登場人物一覽#AZ（エーゼット）|AZ]]、《[[機動戰士鋼彈 鐵血孤兒]]》的主魔鋼彈
+* 使用時機：條目久未整頓
+* 用法：<code><nowiki>{{</nowiki>[[Template:ItsBeen3000Years|ItsBeen3000Years]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:Bael|Bael]]<nowiki>}}</nowiki></code>
 
 === Lengthy ===
 {{Saitama}}
 * 出處：《[[一拳超人]]》的埼玉
 * 使用時機：條目內容過於冗贅，例如陳列大量不必要的資料等。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Saitama|Saitama]]<nowiki>}}</nowiki></code>
 
 === Missing ===
 {{Missing}}
-* 出處：網上梗句
+* 出處：網上梗句+《黑金》梁家輝
 * 使用時機：條目不完整、而使用者建立完就跑（<s>對就是說你上帝之花</s>），或是缺漏大量圖片。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Missing|Missing]]<nowiki>}}</nowiki></code>
 
 === Controversial ===
 {{Controversial}}
@@ -51,18 +56,21 @@
 * 出處：《1967年動畫版[[蜘蛛人]]》，香港網絡紅人「巴士阿叔」
 * 使用時機：條目涉及現實的爭議事件或人物。
 * 總之要介紹的人物或事件會引人爭吵都可以用。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Controversial|Controversial]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:Controversial2|Controversial2]]<nowiki>}}</nowiki></code>
 
 === Spoiler ===
 {{Spoiler}}
-* 出處：《假面騎士Zi-O》的[[Woz]]
+* 出處：《[[仮面ライダージオウ|假面騎士Zi-O]]》的[[Woz]]
 * 使用時機：內容包含作品的重要劇情與黑幕。
 * 劇透一時爽，全家火葬場。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Spoiler|Spoiler]]<nowiki>}}</nowiki></code>
 
 === Originality ===
 {{Originality}}
 * 出處：[[杰哥]]
 * 使用時機：條目明顯抄襲維基百科、甚至複製貼上其他人的編輯
 * <s>對就是說你們，[[半形廚]]還有Wevern</s>
+* 用法：<code><nowiki>{{</nowiki>[[Template:Originality|Originality]]<nowiki>}}</nowiki></code>
 
 === Off-Topic ===
 {{Off-Topic}}
@@ -70,56 +78,70 @@
 * 出處：《復仇者聯盟》黑豹、《[[BanG Dream!]]》[[椎名立希]]
 * 使用時機：條目內容和Reko Wiki可建立的條目內容不相符。
 ** 注意：三次元殺人犯列表，編者主導的二創投稿型條目都是目前明令禁止的。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Off-Topic|Off-Topic]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:ReviseNeeded|ReviseNeeded]]<nowiki>}}</nowiki></code>
 
 === R18 ===
 {{R18}}
 {{R18-homosexual}}
-* 出處：《高捷少女》的小穹二創圖，《暴走大事件》張全蛋
-* 使用時機：條目本身為R18作品或相關術語，使用<code><nowiki>{{</nowiki>[[Template:R18|R18]]<nowiki>}}</nowiki></code>（顯示如前者）；如果是同性戀作品或相關術語，請直接使用<code><nowiki>{{</nowiki>[[Template:R18-homosexual|R18-homosexual]]<nowiki>}}</nowiki></code>（顯示如後者）。掛上這兩個模板之一將自動分類至[[:分類:含有色情內容的條目]]。
+* 出處：《[[高捷少女]]》的[[小穹_(高捷少女)|小穹]]二創圖，《暴走大事件》張全蛋
+* 使用時機：條目本身為R18作品或相關術語
 ** Fandom原則上不允許此類條目建立，但少有性描寫的舊條目還是可以備份至此（例：白色相簿、School Days）；此時再加上警語即可。
+** 掛上這兩個模板之一將自動分類至[[:分類:含有色情內容的條目]]。
+* 用法：一般R18作品或相關術語<code><nowiki>{{</nowiki>[[Template:R18|R18]]<nowiki>}}</nowiki></code>；同性戀作品或相關術語則使用<code><nowiki>{{</nowiki>[[Template:R18-homosexual|R18-homosexual]]<nowiki>}}</nowiki></code>
 
 === Subjective ===
 {{Subjective}}
-* 出處：《潛龍諜影：再復仇》的[[Steven Armstrong]]（Max0R惡搞配音）
+{{Subjective2}}
+* 出處：《[[潛龍諜影系列|潛龍諜影：再復仇]]》的[[Steven Armstrong]]（Max0R惡搞配音），《烘焙王》的基德
 * 使用時機：內容明顯過於主觀、甚至偏離事實。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Subjective|Subjective]]<nowiki>}}</nowiki></code>、<code><nowiki>{{</nowiki>[[Template:Subjective2|Subjective2]]<nowiki>}}</nowiki></code>
 
 === Grotesque ===
 {{Grotesque}} 
 {{Grotesque2}}
-* 出處：《[[機動戰士V鋼彈]]》的烏索．厄文，《School Days》的桂言葉
+* 出處：《[[機動戰士V鋼彈]]》的烏索．厄文，《[[School Days]]》的[[桂言葉]]
 * 使用時機：條目含有獵奇甚至R18G敘述。
-
-=== mirrorpage ===
-{{mirrorpage}}
-* 出處：《孤獨的美食家》
-* 使用時機：由於Fandom K wiki 和 Reko Wiki 會出現相同名稱的條目。為免日後條目整合時出現編緝衝突，如條目主要會在Reko wiki編緝，建議在此wiki上的同名條目加上此模板，用作標記在此Wiki的條目編輯會被Reko wiki覆蓋，同時引導其他編者去Reko wiki編緝。
+** 掛上這兩個模板之一將自動分類至[[:分類:含有獵奇內容的條目]]。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Grotesque|Grotesque]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:Grotesque2|Grotesque2]]<nowiki>}}</nowiki></code>
 
 === Boring ===
 {{Boring}}
 * 出處：TVB(Whatscap梗圖)
 * 使用時機：當條目過多平實描述和數據時，缺乏吐槽可以使用。
-
+* 用法：<code><nowiki>{{</nowiki>[[Template:Boring|Boring]]<nowiki>}}</nowiki></code>
 
 === Bucketed ===
 {{Nanoha}}
 * 出處：[[魔法少女奈葉]]
-* 使用時機：當該使用者被水桶時便可以放置於其個人頁面。
+* 使用時機：當該使用者被水桶（暫時封禁）時便可以放置於其個人頁面。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Nanoha|Nanoha]]<nowiki>}}</nowiki></code>
 
 === PermaBanned ===
 {{Banned}}
 {{Banned2}}
-* 出處：《月姬》的尼祿·卡歐斯，《潛龍諜影：再復仇》的[[Monsoon]]
-* 使用時機：當有使用者遭到封禁時，放置於其個人頁面。
-
-=== Synchro ===
-{{Synchro}}
-* 出處：數碼寶貝
-* 使用時機：於Reko同步條目內容中。
+* 出處：《[[月姬]]》的[[尼祿‧卡歐斯]]，《潛龍諜影：再復仇》的[[Monsoon]]
+* 使用時機：當有使用者遭到永久封禁時，放置於其個人頁面。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Banned|Banned]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:Banned2|Banned2]]<nowiki>}}</nowiki></code>
 
 === UnderDiscuss ===
 {{UnderDiscuss}}
 * 出處：網上梗圖
 * 使用時機：條目需要進行討論重大變更時。
+* 用法：<code><nowiki>{{</nowiki>[[Template:UnderDiscuss|UnderDiscuss]]<nowiki>}}</nowiki></code>
+
+=== mirrorpage ===
+{{mirrorpage}}
+* 出處：《孤獨的美食家》
+* 使用時機：由於Fandom K wiki 和 Reko Wiki 會出現相同名稱的條目。為免日後條目整合時出現編緝衝突，如條目主要會在Reko wiki編緝，建議在此wiki上的同名條目加上此模板，用作標記在此Wiki的條目編輯會被Reko wiki覆蓋，同時引導其他編者去Reko wiki編緝。
+* 用法：<code><nowiki>{{</nowiki>[[Template:mirrorpage|mirrorpage]]<nowiki>}}</nowiki></code>
+
+=== Synchro ===
+{{Synchro}}
+* 出處：[[數碼獸系列|數碼寶貝]]
+* 使用時機：於Reko同步條目內容中。
+* 用法：<code><nowiki>{{</nowiki>[[Template:Synchro|Synchro]]<nowiki>}}</nowiki></code>
+
+
 == 模板格式 ==
 
  {{Iumb
@@ -130,5 +152,6 @@
  | message = 模板內容1
  | comment = 模板內容2
  }}
+
 
 <noinclude>[[分類:條目提示模板|*]]</noinclude>
