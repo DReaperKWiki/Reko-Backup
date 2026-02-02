@@ -1,0 +1,10 @@
+{{Iumb
+| id = Subjective
+| bg = Silver
+| image = 
+[[檔案:不要瞎掰好嗎.jpg|300px]]
+| caption = '''"不要瞎掰好嗎"'''
+| message = 本段文字夾雜過多無出處或明顯主觀臆想的內容。
+| comment = 本Wiki雖非維基，不需事事給予參考資料，但我們謝絕通靈，謠言和抹黑。請勿加入[[花田廚|偏離事實或腦補]]記述。
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

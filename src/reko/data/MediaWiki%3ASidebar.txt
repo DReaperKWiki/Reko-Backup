@@ -1,0 +1,28 @@
+* navigation
+** mainpage|mainpage-description
+** randompage-url|randompage
+** helppage|help-mediawiki
+** Category:模板|可用模板
+** Reko_Wiki使用須知|使用須知
+** 範例用新條目|範例用新條目
+** 條目提示模板列表|條目提示模板列表
+* 常用分類
+** 分類:瀏覽|瀏覽
+** 分類:成句|成句
+** 分類:動畫|動畫
+** 分類:漫畫|漫畫
+** 分類:遊戲|遊戲
+** 分類:角色|角色
+** 分類:聲優|聲優
+** 分類:TCG|TCG
+* 所有頁面
+** Special:AllPages|所有頁面
+* 近期變更
+** recentchanges-url|所有變更
+* sidebar-header
+* SEARCH
+* TOOLBOX
+* LANGUAGES
+*外部連結
+**https://www.facebook.com/reko.wiki.org|Facebook專頁
+**https://camiko.org|Camiko

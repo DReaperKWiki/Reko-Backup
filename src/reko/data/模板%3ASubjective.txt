@@ -1,0 +1,12 @@
+{{Iumb
+| id = Subjective
+| bg = Silver
+| border size = 12.5px
+| border type = ridge
+| border = Black
+| image = [[檔案:Metal-gear-rising-metal-gear-rising-revengeance.gif|300px]]
+| caption = '''[[Steven Armstrong|My source is that I make it the F**K up!]]'''
+| message = 本段文字夾雜過多無出處或明顯主觀臆想的內容。
+| comment = 本Wiki雖非維基，不需事事給予參考資料，但我們謝絕通靈，謠言和抹黑。請勿加入[[花田廚|偏離事實或腦補]]記述。
+}}
+<noinclude>[[分類:條目提示模板]]</noinclude>

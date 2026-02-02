@@ -22,7 +22,7 @@
 === Protect ===
 {{Protect}}
 {{Protect2}}
-* 出處：《[[艦隊Collection]]》的加賀，《[[JOJO的奇妙冒險]]》的[[DIO]]
+* 出處：《魔戒》的甘道夫，《[[JOJO的奇妙冒險]]》的[[DIO]]
 * 使用時機：有編輯戰經歷，或是有高風險遭特定族群破壞。
 * 用法：<code><nowiki>{{</nowiki>[[Template:Protect|Protect]]<nowiki>}}</nowiki></code>或<code><nowiki>{{</nowiki>[[Template:Protect2|Protect2]]<nowiki>}}</nowiki></code>
 
