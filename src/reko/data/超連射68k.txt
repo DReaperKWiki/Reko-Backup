@@ -1,0 +1,205 @@
+{{h0|超連射68k/ちょうれんしゃ68k/Cho Ren Sha 68K}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+[[File:24103861_m.jpg|500px|center]]
+
+==概要==
+*由吉田研究所開發，[https://twitter.com/yosshin4004 よっしんによって(世田谷)]於1995年製作的同人的縱軸STG
+**原揑它為[https://ja.wikipedia.org/wiki/X68000 X68000型電腦]和包括東亜プラン在內的80～90年代2D STG
+*** 1.01版以前的排行榜名單都是東亜プラン（現TATSUJIN）旗下遊戲的名稱，1.10版為規避版權而將名單修改成本作的簡介以及感謝致詞
+**有多週目系統，在全破後再按一次CONTINUE就會進入3週目，依此類推，最多到6週目。
+*** 2週目會開始擊破任一敵機會出現擊返彈
+**以高完成度和簡單的玩法，被譽為X68000史上最強的同人作品
+*音樂由電開製作所的[https://x.com/loser_kashiwagi 柏木るざりん]擔當
+**其有名的音樂作品為{{youtube|537HUcj7CLQ|巫女みこナース・愛のテーマ}}，此外也參與東方同人音樂(東方紅楼夢)的創作
+*1998年推出1.00版，同時推出Windows對應版本
+**但Windows版本基本上就是掛載X68000的模擬程式下去跑，此外幀數與X68000原生的55FPS不同，為60FPS
+*** 具體辦法為直接調整螢幕刷新率或是使用如SpecialK等遊戲輔助工具來調整螢幕刷新率
+**後來推出1.01版，追加難易度選擇（高難度等同3週目），之後因為發現雙核心以上的電腦會出現音效音樂拖慢BUG而再做修正版，之後為對應win10而在2017年又做了更新
+*2023年推出1.10版，音效、背景、部份物件圖像大幅刷新
+** 原先僅推出X68000對應版，2025年元旦推出Windows對應版並追加自動連射選項以及手把設定
+** Windows對應版會直接將幀數鎖定在60FPS以下
+
+==自機系統==
+*通常射擊為「手動式連射（1.10版追加自動連射選項）」，全範圍Bomb及抵一次傷害的防護罩
+**火力最大4段
+**防護罩被破壞時，有類似Bomb的效果，但威力極小。
+*道具則是「火力」、「炸彈」、「防護罩」連在一起
+**有技巧可以一次吃三種(見隱藏要素)。
+**每達到100萬分就會出現一次「1UP」，若是在沒有防護罩的情況下，則會先出現防護罩，下一台運輸機才會出現1UP
+
+==[http://web.archive.org/web/20220113085329/http://game-rev.com/cgi/inf2/8-1.html Stage Boss]==
+*若超過時間沒擊破，它會自爆或逃走
+**Boss圖片右下的自機，為顯示比例
+
+*Stage 1<br>[[File:Stage_1.PNG]]
+**兩台一組，可以利用互相發射的光彈而自滅，加自機Bomb能額外加分
+
+*Stage 2<br>[[File:Stage_2.PNG]]
+**會加穿「裝甲」，等Boss的八次飛彈發射完畢後再擊破裝甲，會出現浮游砲台。
+**但擊倒Boss後若尚未擊破砲台，在成績結算的畫面中仍會攻擊玩家。
+
+*Stage 3<br>[[File:Stage_3.PNG]]
+**擊毀後有核心型態
+
+*Stage 4<br>[[File:Stage_4.PNG]]
+**依序登場(共9台)，弱點不在兩翼
+**兩翼上的砲台與兩翼本身有大量得點
+
+*Stage 5<br>[[File:Stage_5.PNG]]
+**會大量製造「砲台」(共分兩種)，中央核心是弱點
+*** 小型砲台全滅後才會換成大砲台，大砲台全滅後就不會再補充
+
+*Stage 6<br>[[File:Stage_6.PNG]]
+**裝甲厚，血量高，以及令人絕望的高速彈
+** 破甲後的第二型態可說是新手鬼門
+**<s>沒有觸手的烏賊</s>
+
+*Stage 0<br>[[File:Stage_0.PNG]]
+**巨大戰艦（但能攻擊的弱點只有本體和兩邊的砲台），在Stage1開頭有出現它的碎片
+***另一個新手鬼門：本體破甲後攻擊會變得更激烈，如果沒有先解決兩邊的砲台可能會陷入苦戰
+
+*Stage_7-7(最終Boss)<br>[[File:Stage 7-7.PNG]]
+**2周目限定，從上者脫離出來的真面目
+***有三種型態：一般和大破形態兩種的戰艦型態以及本體
+**** 本體行動方式類似《烈火》的真最終BOSS、《Battle Garegga》的Glow Squid最終型態以及《怒首領蜂》的火蜂：會在四處高速移動並釋放鬼畜等級的彈幕
+*** 基本上夠專心躲彈幕就可全身而退<s>，但如果殘機數夠多且不在意NO MISS NO BOMB（只在意不接關）的話其實也不用怕，除了專心躲彈幕以外，抓準時機猛放炸彈就可以搞定，反正自機被彈墜機之後又會補充3個炸彈（但也別把殘機用盡）</s>
+***{{censored|原本擊破後沒有結局畫面<ref>{{censored|僅出現MISSION COMPLETE字樣然後進入排行榜或是回到主畫面}}</ref>，直到後來的1.10版追加了Real World結局（可繼續操作自機直到結束）}}
+**專用曲:{{youtube|LNvfZP7bov8|「Cookin'on the Hell」}}
+
+===Show Time Boss===
+[[File:Stage_F.PNG]]
+*一隻Stage1Boss(顏色加深)和只剩骨架的Stage5Boss復出，以及八腳蜘蛛形的原創Boss
+**該關三隻Boss會不間斷依序登場
+
+==Stage & BGM==
+{| class="wikitable"
+|'''Stage'''
+|'''關卡BGM'''
+|'''Boss戰BGM'''
+|'''其它'''
+|-
+|1
+|{{youtube|aT3z4k1BlDg|Planet the E.A.R.T.H}}
+| rowspan="5" |{{youtube|MilAk6OD43M|Chips!!}}
+|
+|-
+|2
+|{{youtube|nDOP5Xg8XDg|Justice of Galaxy}}
+|
+|-
+|3
+|{{youtube|rKGYGlJYl34|Pleasure Trip -君を乗せて}}
+|
+|-
+|4
+|{{youtube|qaIjLUsH2yI|Infinity...}}
+|
+|-
+|5
+|{{youtube|PJwb7l_ILIU|Windy}}
+|
+|-
+|6(F)
+|{{youtube|dI9OWFtL3AI|I’m Fighting to Your Happiness}}
+| rowspan="2" |{{youtube|wBLridjEbvc|Impossible One}}
+|
+|-
+|0
+|{{youtube|iShGAt_TMU8|All or Nothing}}
+|
+|-
+|7-7
+|
+|{{youtube|LNvfZP7bov8|Cookin'on the Hell}}
+|
+|-
+|Game Over
+|
+|
+|{{youtube|kAd_6Mta3mU|俺の人生そう捨てたもんじゃないぜ～}}
+|-
+|遊戲全破（1.10版本追加）
+|
+|
+|{{youtube|dgMrIyGi5YM|The Real World}}
+|-
+|NAME ENTRY
+|
+|
+|{{youtube|YmbmI3mVRgs|We Love the E.A.R.T.H}}
+|}
+
+==[http://web.archive.org/web/20190723004505/http://www.game-rev.com/review/game/chorensya68k-info.html 隱藏要素]==
+*三個道具一次吸收
+**自機跑到道具環中央,約3秒後它會快速迴旋集中到自機裡
+**此技巧為高手必修的要素，如果成功連續做出此技巧，除了可方便同時獲得三種道具以外，還可獲得大量分數甚至是殘機取得速度變快 
+
+{{hideh|以下隱藏要素目前無法在1.10 Windows對應版使用，故摺疊處理}}
+
+*隱藏模式(KAKUSI MODE)
+**類似街機的業務模式
+**在config中按著上不放，約五秒就可以開啟
+{| class="wikitable"
+|'''KAKUSI MODE'''
+|'''可調設定'''
+|'''備註'''
+|-
+|VMAIT
+|
+|不明
+|-
+|MUTEKI
+|無敵模式
+|1為開啟(能進行特攻撞擊,部份Boss無效)
+|-
+|STAGE
+|選關
+|可選0~7 & F
+|-
+|ACCHO
+|周目設定
+|0是一周目，1是二周目，依此類推
+|-
+|TD_SPEED
+|設定敵彈速度
+|
+|-
+|JK_SPEED
+|設定自機移動速度
+|
+|-
+|BOSSONLY
+|Boss戰
+|直接打王，1為開啟
+|-
+|DEBUG
+|除錯模式
+|會顯示打爆的敵人分數
+|}
+
+*Show Time(StageF)
+**在隱藏模式中，將STAGE調成0x000F
+**然後選CONTINUE接關就可以進去
+
+{{hidef|}}
+
+==參考資料==
+*[https://yosshin4004.github.io/index.html 吉田研究所]
+**[http://denkai.net/ 電開製作所]
+**[https://www.amusement-center.com/project/egg/music/?product_id=131 オリジナルサウンドトラック]
+*[https://ja.wikipedia.org/wiki/超連射68k Wiki]
+**[https://shmups.wiki/library/Cho_Ren_Sha_68K 海外資料]
+**[http://dic.nicovideo.jp/a/超連射68k ニコニコ大百科]
+**[http://www.kit.hi-ho.ne.jp/zapzap/choren.htm 夢の島]
+**[http://web.archive.org/web/20170712123940/http://tzoyiing.pixnet.net/blog/post/29250423-%e5%a4%8f%e6%99%ae-sharp-16bit-%e9%9b%bb%e8%85%a6%e3%80%8ex68000%e3%80%8f%e7%9a%84%e6%a8%a1%e6%93%ac%e5%99%a8%ef%bc%8dxm6-2.05 『X68000』的模擬器－XM6 2.05 TypeG]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+[[分類:遊戲]]
+[[分類:射擊遊戲]]
