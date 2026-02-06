@@ -1304,6 +1304,32 @@
 |-
 |}
 
+=== THE CHRONICLES DECK ===
+* 動畫預組包，主要根據「[[Yu-Gi-Oh!_CARD_GAME_THE_CHRONICLES|遊戯王卡片故事編年史]]」推出的系列商品。
+* 除了復刻舊卡以外也會推出新卡以及動畫版本的異畫卡。
+* 一包共有50張卡片（一般牌組40張、額外牌組10張）每張不重複，因此單盒是沒辦法直接遊玩的，需要購買2~3套再額外搭配其他單卡才能組成可遊玩的牌組。
+
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+!商品代號
+!商品名稱
+!對應主題
+!新收錄卡牌
+!同期卡包強化卡
+|-
+|CH01
+|THE CHRONICLES DECK 白の物語<br>THE CHRONICLES DECK 白之物語
+|[[深淵_(遊戲王世界觀)|深淵世界觀]]
+|《吞噬聖痕的龍》<br>《The Fallen＆The Virtuous》
+|補充包1303：<br>《白龍的落胤》<br>《黑龍的艾克蕾希亞》<br>《鐵獸戰線的守寶妖精 炎工琪德》<br>《呀吼！守寶妖精！》
+|-
+|CH02
+|THE CHRONICLES DECK 精霊術の使い手 <br>THE CHRONICLES DECK 精靈術的使用者
+|【[[靈使]]】
+| 《大輪的靈使》<br>《大輪的魔導書》
+|補充包1304：<br>《四花繚亂的靈使》<br>《精靈術的使魔》<br>《憑依共鳴》
+|-
+|}
+
 == 外部連結  ==
 * 官方網站：
 ** [https://yu-gi-oh.jp/ YU-GI-OH.jp 卡包商品資訊]
