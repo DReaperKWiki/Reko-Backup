@@ -1072,7 +1072,7 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |{{youtube|y7iz7jzmmY&ab|Youtube}}
 |-
 |EP212
-|colspan="2"|[[最終幻想系列|最終幻想6(SNES)]]
+|colspan="2"|[[最終幻想系列|最終幻想<s>III<s>6(SNES)]]
 |
 |{{youtube|U8txDyH9ug0|Youtube}}
 |-
@@ -1091,7 +1091,7 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |EP215
 |What is the best Castlevania?
 |
-|惡魔城系列二十週年紀念
+|[[惡魔城系列]]二十週年紀念
 |{{youtube|dZbUuSmFgMo|Youtube}}
 |-
 |EP216
@@ -1112,7 +1112,7 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |-
 |EP219
 |colspan="2"|Nosferatu (NES)
-|
+|(偽)惡魔城拳王
 |{{youtube|jdXm2eFyOTs|Youtube}}
 |-
 |EP220
@@ -1149,6 +1149,7 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |<s>因爲絕招Screw Attack是環節原名來源，所以</s>AVGN少有地拍馬屁、沒有罵，只有讚
 |{{youtube|8-7nun1ZApQ|Youtube}}
 |}
+
 ===EP225-===
 {| class="wikitable fandom-table"
 !集數
@@ -1172,7 +1173,7 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |EP228
 |Timecop (SNES)
 |
-|
+| <center>♫FBI!Get on it♪</center>
 |{{youtube|mCTEbJOnXJ4|Youtube}}
 |-
 |EP229
@@ -1180,6 +1181,13 @@ LJN Sports & Marvel Games<br>LJN Wrestling & Other Games
 |
 |<s>Fuck off Bin Laden</s>
 |{{youtube|B9MZ0lmZ4pg|Youtube}}
+|-
+|EP230
+|Contra Force (NES)
+|
+|(偽)魂斗羅
+|{{youtube|G4I2gdXkZe8|Youtube}}
+
 |}
 
 ==名言==

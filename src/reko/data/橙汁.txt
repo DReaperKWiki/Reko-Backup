@@ -1,0 +1,202 @@
+{{h0|橙汁/だいだいじる/Daidaishiru/Orange Juice}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+[[File:Daidai.jpg|400px|right]]
+== 簡介 ==
+* <s>從柳橙榨出的果汁，也有從血橙、臍橙、晚崙夏橙、克里曼丁紅橘或柑榨出的柳橙汁。其酸酸甜甜的味道，十分可口。有些柳橙汁含有果肉顆粒，又是另一種風味。</s>
+* 為製作同人遊戲的團體，主要成員:
+** [https://twitter.com/junpyon_pyon Junpyon](代表，程式、空飛ぶ赤いワイン樽作畫)
+** [https://twitter.com/hononos ほの](作畫、故事原案)
+** [https://twitter.com/DEKU555 DEKU]([https://soundcloud.com/deku 音樂])
+
+=== 作品一覽 ===
+* ティナシュー「ミッドナイトプレジャー」(2002/エタメロシューティング)
+** 固定畫面STG<s>，店長前傳</s>
+
+* 果汁100%(2002/パズルゲー)
+** 方塊遊戲
+
+* [[きゅぴシュー]]/QP秀(2004年8月、C66/縱軸STG)
+** 原創同人第一作
+
+* くりすまシュ～/聖誕秀(2004年12月、C69/縱軸STG)
+** 外傳補丁
+
+* [[スグリ]]/優理(2005年12月、C70/橫向STG)
+
+* Acceleration of SUGURI(2006年8月、C70/對戰STG)、X-Edition/(2006年12月)
+
+* [[空飛ぶ赤いワイン樽]]/飛天紅酒桶(2007年12月、C72→C73/縱軸STG)
+** 以多重分歧事件為主，罕見的主要Boss皆為男性
+
+* [https://store.steampowered.com/app/282800 100％おれんじじゅ～すっ!]/百分百鮮橙汁/100% Orange Juice(2009年08月/大富翁)
+** 主打明星系統，可網聯，目前最熱門的一作
+** [https://steamcommunity.com/app/282800/workshop/ 準許使用Mod]
+
+* ソラ/空(2010年08月、C74→C78/橫向STG)
+
+* Acceleration of SUGURI 2(2011年08月、C80/對戰STG)
+
+* きゅぴシュ～DANGEROUS!!/危險的QP秀(C82/縱軸STG)
+
+* [https://store.steampowered.com/app/335190 200%みっくすじゅ～すっ!]/兩百混合果汁/200% Mixed Juice!(RPG)
+** 明星系統第二彈
+
+* くりすまシュ～SCRAMBLE!!/聖誕爭奪秀(C88/縱軸STG)
+
+* [http://daidai.moo.jp/alicianrone/alicianrone.html 駆け抜けるアリシアンローネ]/(日期未定/???)
+** 官網有提到的新作
+
+== 100%橙汁的登場人物 ==
+[[File:OJ001.png|300px]]
+
+* 凱/カイ/Kai(CV:松浦義之)→勇者凱/Kai(Hero)
+** 被瑪麗波波偷走錢包而捲入雙六世界的主角之一(其他三人:QP、優理、瑪可)
+** [https://orangejuice.wiki/wiki/Kai_Campaign/Story 相關劇情]
+**{{youtube|H7_J6_6urt4|100%橙汁的專用曲}}、{{youtube|fDHTwnTUtyw|Version 0.5}}、{{youtube|i4HX04VRiOk|HeroVer.}}
+
+* 瑪麗波波/まりーぽっぽ/Marie Poppo(CV:丸山美纪)→媽媽波波/Mother Poppo
+** 偷走各作世界主角們物品的神秘生物(優理沒有而是姫的提議跟來)){{censored|、實為友桃的使魔}}
+** <s>腹黑的</s>吉祥物擔當，還不只一隻，也有邪惡版的吞星者/Star Devourer
+**{{youtube|WTEkBNRSbkw|100%橙汁的專用曲}}、{{youtube|38lkHhi-cTE|MotherVer.}}
+
+* 魔法少女 友桃/トモモ/Tomomo(CV:荒浪和沙)
+** 召喚四位主角來的{{censored|表}}最終頭目
+*** [http://web.archive.org/web/20060902010314/http://hono.gooside.com/ 初期設定][https://tieba.baidu.com/p/5558105647 滿慘的]<s>(0H0)</s>
+*** 到本作的造型有更動、連原因改為由下記的澪引起
+*** 第二部實力壓過澪並處理該世界的殘局
+** 專用曲:{{youtube|sAwk0qFzulw|奇跡の魔法少女(AoS2)}}、{{youtube|l6H7to_FE_M|100%橙汁的專用曲}}
+
+* 魔法惡魔 澪/ミオ/Mio(CV:井澤詩織)
+** 初登場於[https://orangejuice.wiki/wiki/Master_of_the_Minions/Story 小兵之王]、實為將友桃變為魔法少女的元兇
+*** 第二部想作出悲劇世界但失敗了<s>、連制作蛋糕的品味也很差</s>
+** {{youtube|Ra4ZA8ILemQ|100%橙汁的專用曲}}、{{youtube|gki_CTc-Ocs|FestiveVer.}}
+
+=== 甜點六神/スイート六神 ===
+[[File:OJ002.png|300px]]
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''神''' !! '''100%橙汁的專用曲'''!! '''解說'''
+|-
+|甜點破壞者/菓滅/スイートブレイカー/Sweet Breaker(CV:桐谷蝶々)||-||即QPD登場那位，後來訓服了星滅
+|-
+|甜點品嘗者/菓食/スイートイーター/Sweet Eater(CV:荒浪和沙)||{{youtube|L0DAQoqVzAw|Casual}}→{{youtube|8KjE6JNciEE|專用曲}}||即友桃的強化型態
+|-
+|甜點守護者/菓護/スイートガーディアン/Sweet Guardian(CV:佐藤あずさ)||-||即QPD<s>、但是前任是誰啊?</s>
+|-
+|甜點製作者/菓廠/スイートメイカー/Sweet Maker(CV:貫井柚佳)||{{youtube|YmSg8h0XTJg|專用曲}}||即沙希
+|-
+|甜點部落客/菓錄/スイートブロガー/Sweet Blogger(CV:丸山美纪)||{{youtube|h2DsKK5g50M|專用曲}}||即XSS的夏美
+|-
+|甜點創造者/菓創/スイートクリエイター/Sweet Creator(CV:大坪由佳)||{{youtube|gFGtOA5XHNw|專用曲}}||本作原創<s>紅酒桶涙目</s>，在第三部的身份是敎師
+|}
+
+=== Wanderers Campaign→[https://orangejuice.wiki/wiki/Bounty_Hunters/Story Bounty Hunters]→Memory Menders===
+[[File:OJ003.png|300px]]
+
+* 艾莉/エリィ/Ellie(CV:丸山美纪)→超能艾莉/Hyper Ellie
+** 第二部主角，勇者凱和媽媽波波<s>一點都不像很メスガキ</s>的<s>雜種</s>女兒
+*** 為了尋找失蹤父母的賞金獵人<s>，對應騎士鋼彈</s>
+** {{youtube|DHCUNgOpXF8|100%橙汁的專用曲}}、{{youtube|8Li726l1Y8w|HyperVer.}}
+
+* 露露/ルルゥ/Lulu(CV:會澤紗彌)→黑暗露露/Dark Lulu
+** 與艾莉一同旅行的<s>扭蛋機</s>龍人、實為澪的<s>父不詳</s>女兒<s>，對應黑龍鋼彈</s>
+** {{youtube|p9WXNwRKptA|100%橙汁的專用曲}}、{{youtube|PFZ45oRsajU|DarkVer.}}
+
+* 阿內爾/アーネル/Arnelle(CV:黑石千尋)
+** 於Shroom Zoom登場的尋寶獵人
+** {{youtube|FBSMcuhytdk|100%橙汁的專用曲}}
+
+* 梅妮/メイニー/Maynie(CV:田中貴子)
+** 阿內爾的同夥
+** {{youtube|SDNTc2RO6mY|100%橙汁的專用曲}}
+
+* 哈萊娜/ハレナ/Halena(CV:岸本萌佳)
+** {{youtube|3uyOIdKASpQ|100%橙汁的專用曲}}
+** 於Bounty Hungers登場的導遊
+
+* 庫克/クック/Cook(CV:金元壽子)
+** 能尋物的風向雞妖精
+** {{youtube|9EO-AYIdIcg|100%橙汁的專用曲}}
+
+* 沃蒂/ウォーティー/Watty(CV:大野柚布子)
+** 於Path to Secrets登場的人魚
+** {{youtube|rWdUM3NvnDQ|100%橙汁的專用曲}}
+
+* 波美拉尼烏斯/ポメラニアス/Pomeranius(CV:拜真之介)
+** 會說話的博美犬
+** {{youtube|CA6y0WKhUeo|100%橙汁的專用曲}}
+
+=== [https://orangejuice.wiki/wiki/Alicianrone_(game) Alicianrone] ===
+[[File:OJ004.png|300px]]
+* 速度魔女 阿莉安潔洛妮/アリシアンローネ/Alicianrone(CV:丹下櫻)
+** {{youtube|0FG5fxcOkj0|100%橙汁的專用曲}}
+
+* 迪爾/ディルー/Dirue
+
+* 固體魔女 美沙樹/ミウサキ/Miusaki(CV:戶田惠)
+** {{youtube|sVrc_v-b92g|100%橙汁的專用曲}}
+
+* 辮子魔女 可歌蕾帕可/ケオレパルケ/Ceoreparque(CV:村上奈津實)
+** {{youtube|yKKui-LzUxY|100%橙汁的專用曲}}
+
+* 獸之魔女 媞歐托拉坦/テオトラッタ/Teotoratta(CV:小山百代)
+** {{youtube|W2qXLa0Ej4Y|100%橙汁的專用曲}}
+
+=== [https://orangejuice.wiki/wiki/Extracurricular_Crisis/Story Extracurricular Crisis] ===
+[[File:OJ005.png|300px]]
+
+* 真里 波波美/真里 ぽぽみ/Mari Popomi(CV:德井青空)
+**  <s>又是瑪麗波波亞種的</s>第三部主角，告知OJ這款遊戲很危險
+** {{youtube|mlITCdc2pSE|100%橙汁的專用曲}}
+
+* 狐悠/ポヨ/Poyo(CV:栗坂南美)
+** 想建立OJ社團的閃亮學院學生
+** {{youtube|wttGIHtwtCI|100%橙汁的專用曲}}
+
+* 紬/チュー/Chuu(CV:澤田 姫)
+** {{youtube|iR5ewuT_M9o|100%橙汁的專用曲}}
+
+* 遙/ハルカ/Haruka(CV:高森奈津美)
+** 與彼方是姊妹
+** {{youtube|WRXnhOc6hRE|100%橙汁的專用曲}}
+
+* 彼方/カナタ/Kanata(CV:直田姫奈)
+** {{youtube|wKh1b2FZqnA|100%橙汁的專用曲}}
+
+* 克莉耶/クリエ/Kurie(CV:大坪由佳)
+
+* 美桃/ミモモ/Mimomo
+
+* 水壽/スイシュウ/Suishou
+
+* 琳姿/リンス/Rinse
+
+== 參考資料 ==
+
+* [http://daidai.moo.jp/ 官網]
+** [http://web.archive.org/web/20030713152354/http://www.geocities.co.jp/SiliconValley-PaloAlto/2819/ 舊頁]
+* [https://fruitbatfactory.com/ Fruitbat Factory]
+** [https://www.youtube.com/@FruitbatFactory Fruitbat FactoryYT]
+
+* Wiki:
+** [https://wikiwiki.jp/daidai/ 橙汁Wiki]
+** [http://web.archive.org/web/20190206062043/https://ja.wikipedia.org/wiki/%E6%A9%99%E6%B1%81 Wiki百科]
+** [http://dic.pixiv.net/a/橙汁 ピクシブ百科]
+** [https://tvtropes.org/pmwiki/pmwiki.php/Creator/OrangeJuice Tvtropes]
+** [https://100oj.huijiwiki.com/wiki/ 灰機wiki]
+
+* [[同人STG系列作品列表]]
+** [https://tieba.baidu.com/f?ie=utf-8&kw=日本橙汁 日本橙汁吧]、[https://tieba.baidu.com/p/9355142964 相關資料]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:同人團體]]
