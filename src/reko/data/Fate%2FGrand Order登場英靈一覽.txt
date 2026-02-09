@@ -4062,7 +4062,7 @@
 | [[Báthory Erzsébet (Fate)|伊莉莎白．巴托里]]
 | Lancer
 | rowspan="2"|星
-| rowspan="8"|
+| rowspan="9"|
 | rowspan="2"|ワダアルコ
 | rowspan="2"|[[大久保瑠美]]
 | rowspan="5"|奈須きのこ
@@ -4117,11 +4117,19 @@
 ! 464
 | [[Flōra (Fate)|芙蘿拉]]
 | Alterego
-| 天
+| rowspan=2|天
 | ぶくろて
 | [[井上穗乃花]]
 | 
 | 羅馬神話中掌管花卉、春天與青春的女神。
+|-
+! 465
+| [[Demeter (Fate)|德墨忒爾]]
+| Lancer
+| okojo
+| [[久川綾]]
+| 東出祐一郎
+| 泰坦王克羅納斯與瑞亞的女兒，宙斯的姐姐，冥后珀耳塞福涅的母親。生育、農業、自然和季節女神，奧林帕斯十二主神之一。<br>異聞帶中職階為Caster。有[https://vignette.wikia.nocookie.net/typemoon/images/0/03/Demeter.png 專屬立繪]。
 |}
 
 
@@ -5499,14 +5507,11 @@
 | 愛夏的父親，。<br>有[https://grand_order.wicurio.com/index.php?plugin=ref&page=アーシャ＆アジャイ&src=ajay.jpeg 專屬立繪]，繪師為桐原小鳥。
 |-
 ! [[Zeus (Fate)|宙斯]]
-| rowspan=7|[[星間都市山脈 奧林帕斯|第二部第五章《星間都市山脈》]]
+| rowspan=6|[[星間都市山脈 奧林帕斯|第二部第五章《星間都市山脈》]]
 |希臘神話中的眾神之王，天空與雷霆之神。奧林帕斯十二主神之首。泰坦王克羅納斯與瑞亞的小兒子。<br>遊戲中職階為Ruler。<br>{{s|著名的神渣。}}經常背着正妻赫拉出軌與一眾女性搞外遇，誕下了無數的英雄。{{s|[[成句/高義，你他媽雜碎！|宙斯，你他媽雜碎！]]}}<br>CV是木下浩之。<br>有[https://vignette.wikia.nocookie.net/typemoon/images/c/c0/Zeus00.png 專屬立繪]，繪師為Azusa。
 |-
 ! [[Aphrodite (Fate)|阿芙蘿黛蒂]]
 | 愛與美和欲望女神，奧林帕斯十二主神之一。宙斯與狄俄涅的女兒。<br>遊戲中職階為Assissin。有[https://vignette.wikia.nocookie.net/typemoon/images/c/c6/Aphrodite.png 專屬立繪]，繪師為ワダアルコ。CV是[[日高範子]]。<br><s>仔細看能見到乳暈</s>
-|-
-! [[Demeter (Fate)|德墨忒爾]]
-| 泰坦王克羅納斯與瑞亞的女兒，宙斯的姐姐，冥后珀耳塞福涅的母親。生育、農業、自然和季節女神，奧林帕斯十二主神之一。<br>遊戲中職階為Caster。有[https://vignette.wikia.nocookie.net/typemoon/images/0/03/Demeter.png 專屬立繪]，繪師為okojo。CV是[[久川綾]]。
 |-
 ! [[Ares (Fate)|阿瑞斯]]
 | 戰爭、暴力和血腥之神，奧林帕斯十二主神之一。<br>有專屬立繪，繪師為huke。
