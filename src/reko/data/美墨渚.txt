@@ -1,5 +1,5 @@
 <!--@convert-with https://mwzhx.github.io/komicawiki-backup/index-browser.html
-convert from html-->{{h0|美墨なぎさ/美墨渚/美墨莎莎↔キュアブラック/黑天使}}
+convert from html-->{{h0|美墨なぎさ （みすみ なぎさ）/美墨渚/美墨莎莎↔キュアブラック/黑天使}}
 
 {| class="wikitable" style="margin:1.5em auto;text-align:center;"
 |-
@@ -115,8 +115,8 @@ convert from html-->{{h0|美墨なぎさ/美墨渚/美墨莎莎↔キュアブ�
 
 ==== 主角群/同伴 ====
 
-* [[使用者:Akenneth731/雪城穗乃香|雪城穗乃香]]
-* [[使用者:Akenneth731/九條光|九條光]]
+* [[雪城穗乃香]]
+* [[九條光]]
 * 美波
 * 米波
 * 波倫

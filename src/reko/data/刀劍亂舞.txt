@@ -32,7 +32,7 @@
 ** 此外擔任原作的Nitroplus也將遊戲的課金收入捐出一部份用作刀劍文化復興支援，並因此先後在[https://x.com/digitarou/status/1372111612711108608 2021年3月]跟[https://x.com/digitarou/status/1869673283555410009 2024年8月]兩度獲頒日本皇室的紺綬褒章<ref>機關團體的授勳條件是至少要捐一千萬日圓。</ref>。
 * 在「[[卡片戰鬥先導者]]」中有一套自己專屬的卡片，且和其他合作計劃不同是一個可進行對戰的獨立種族，擁有專屬能力「真劍必殺」和「譽」。
 ** 在2018/1/18的日本大賽中，有玩家以「刀劍亂舞」的牌組勝出，並在世界大賽中拿下第二名。
-* 原本只有一個第一次登入時會看到，用來說明世界觀與故事的[http://p.dmm.com/p/general/netgame/feature/tohken/op_movie3.swf 簡易OP]，後來在2016年8月16日後實裝了<s>下重本寫主題曲還做了眾多3D模組、動作與特效的</s>[http://www.nicovideo.jp/watch/sm29457992 新OP]，之後以大約每年一次的頻率更新動畫內容把新實裝的刀男放進去。OP曲為歌手板垣奏太郎演唱的【夢現乱舞抄】。
+* 原本只有一個第一次登入時會看到，用來說明世界觀與故事的{{youtube|_d0lIVvI_wo|簡易OP}}，後來在2016年8月16日後實裝了<s>下重本寫主題曲還做了眾多3D模組、動作與特效的</s>[http://www.nicovideo.jp/watch/sm29457992 新OP]，之後以大約每年一次的頻率更新動畫內容把新實裝的刀男放進去。OP曲為歌手板垣奏太郎演唱的【夢現乱舞抄】。
 ** 2020年8月10日<s>幾乎毫無預警地</s>更新了[https://www.youtube.com/watch?v=Wdx8qOAysAY 新版的OP]，OP曲也改為由日本知名老牌歌手松任谷由実演唱的【あなたと　私と】。<s>由於風格與原本大相逕庭導致玩家評價兩極</s>
 *** {{censored|動畫中出現了刀沉入海中與遭祝融之災的畫面，冷不防餵了所有人一口玻璃渣。}}
 *** 2025年1月14日遊戲十週年之際新增了由五初始刀的聲優合唱的版本，與松任谷版隨機交替出現。
@@ -1145,6 +1145,12 @@ Pick-up鵜飼派跟兩把限定（有上限）
 |二筋樋貞宗
 |
 |[https://x.com/blau678 Twitter]<br>[https://www.instagram.com/blau678 Instagram]<br>[https://www.pixiv.net/users/88095 Pixiv]<br>[https://blau678.tumblr.com/ Tumblr]
+|-
+|ぶくろて
+|雲重
+|
+|[https://x.com/niiiitoooon Twitter]<br>[https://www.instagram.com/niiiitoooon/ instagram]<br>
+[https://www.pixiv.net/users/4952461 Pixiv]<br>[https://www.youtube.com/@bukurote YouTube]
 |-
 |}
 

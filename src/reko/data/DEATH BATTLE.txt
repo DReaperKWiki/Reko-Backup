@@ -573,10 +573,18 @@
 |-
 | 202 || Dante VS Clive <br>(DMC VS FF）|| 半魔大叔對決 || {{censored| 勝方：Clive}} || {{youtube|Np4sC1osT_k|youtube}}
 |-
-| 203 || Ash VS Yugi <br>(Pokémon VS Yu-Gi-Oh!）|| 兒童／一般向創作需要用輔助物作戰的主角們對決<br>對戰是表遊戲而非阿圖姆<br>‘25閉幕戰|| {{censored| 勝方：Yugi <br>}} || {{youtube|hkb8NUVIYWs0|youtube}}
+| 203 || Ash VS Yugi <br>(Pokémon VS Yu-Gi-Oh!）|| 兒童／一般向創作需要用輔助物作戰的主角們對決<br>對戰是表遊戲而非阿圖姆<br>‘25閉幕戰|| {{censored| 勝方：Yugi <br><s>怎麼又是魔法桶⋯⋯我為什麼說又？</s>}} || {{youtube|hkb8NUVIYWs0|youtube}}
 |}
 
 ===‘26（第十三季）===
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結 
+|-
+| 204 ||  黑崎一護vs蒲飯幽助  <br>( 死神VS幽遊白書）|| 靈異相關高中生對決 <br> ‘26始戰 || {{censored| 勝方：一護 }} || {{youtube|oZ3ET4NYxsw|youtube}}
+|-
+| 205 || 賽魯vs金屬索尼克<br>( 七龍珠VS索尼克）||瘋狂科學家的作品對決<s>真可惜不是蟑螂對蟻王（梅利艾姆）</s>|| {{censored| 勝方：}} ||  {{youtube| |youtube}} 
+|}
 
 <!--|-
 {| class="wikitable" style="margin: 1.5em auto;" 
