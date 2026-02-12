@@ -353,6 +353,7 @@
 ** <s>立繪大到其看板和壓克力板需要特地縮水才能與他人並肩。</s>
 ** <s>雖然換裝了仍看不見其站立的樣子，且非常堅持稱呼摩托車為輪椅。</s>
 *** <s>官方四格中由於英美坐前面、莉央坐後面，被二對大球夾在中間的她感受到了空間扭曲。</s>
+** 與英美（臨戰版）一起放在隊伍中會有特殊勝利姿勢。
 * 人物原型推測是米利都的泰勒斯。
 ** 泰勒斯熱衷於解析自然，致力於以理性和邏輯的方法破除人們用「神」或「英雄」等理由崇拜、解釋的超自然現象；話雖如此，他本人仍是個信仰世間一切充斥神的多神論者。
 *** 以理性觀察的泰勒斯基於水的流動性和受熱變化三態的性質，將這些被視作「神」的現象給出的最終解釋就是「萬物皆為水構成」。其弟子兼年輕友人的阿那克西美尼則抱有不同的看法，實踐派的阿那克西美尼基於空氣對熱更加敏感的特性，提出「萬物皆為空氣構成」的結論。
@@ -362,7 +363,7 @@
 
 ==== 和泉元英美（和泉元エイミ） ====
 * CV：松永あかね（日）/梁瑞雪（中）/문지영（韓）
-* '''班級：'''1年級；'''武器：'''霰彈槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（泳裝）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）；'''職業：'''坦克、輔助（泳裝）
+* '''班級：'''1年級；'''武器：'''霰彈槍、狙擊槍（臨戰）；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（泳裝）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）；'''職業：'''坦克、輔助（泳裝）、打手（臨戰）
 * 部份翻譯為「艾米」。平時不常說話，總是像發呆那樣站在一邊，讓人猜不透她究竟在想些什麼。
 * 效率廚(無誤)，對研討會指派的任務傾向以最快速的方式完成。
 ** 從身上還貼著膏藥這點來看，她所謂的「效率」說穿了就是無腦突擊...<s>難怪是高防肉坦</s>
@@ -635,7 +636,7 @@
 
 ==== 花岡柚子(花岡ユズ) ====
 * CV：寺澤百花（日）/宅會（中）/장미（韓）
-* '''班級：'''1年級；'''武器：'''榴彈發射器；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（女僕）；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（女僕）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（女僕）；'''職業：'''打手
+* '''班級：'''1年級；'''武器：'''榴彈發射器；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（女僕）、{{color|1=#2D96D2|3=神秘}}（臨戰）；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（女僕）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（女僕、臨戰）；'''職業：'''打手、輔助（臨戰）
 * 部長，負責遊戲程序。
 ** 患有社交恐懼症，害怕和其他人打交道，平常習慣躲在<s>柚子[[廚|櫥]]</s>置物櫃裡面。
 *** 原由是她製作的遊戲《{{ruby|神話·傳說·編年史|Tales Saga Chronicle}}》原型上傳到網上後遭到猛烈差評和人身攻擊，導致選擇躲在置物櫃裡試圖逃避這一切。
