@@ -1,0 +1,660 @@
+{{h0|仮面ライダードライブ/假面騎士Drive<s>/仮面ライダードライ'''7"'''/仮面ライダー怒羅威武/頭文字Drive/備胎俠/老司機/Kamen Knight Rider</s>}}
+
+{| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
+|-
+|本條目內含劇透，沒看過原著又不想'''被Roidmude OOXX'''或'''被Tridoron輾過'''的話請不要看下去。
+|-
+|上一部：[[仮面ライダー鎧武]]
+|-
+|下一部：<s>[[仮面ライダーアマゾンズ]] [[仮面ライダーエグゼイド]] </s>[[仮面ライダーゴースト]]
+|}
+[[檔案:Drive Poster.png |300px|right]]
+==解說==
+*平成[[假面騎士系列]]第16作（新世代第6作）
+*主編劇是曾經編寫[[仮面ライダーダブル|《假面騎士W》]]的三條陸，監製則是曾經與三条在[[獣電戦隊キョウリュウジャー|《獸電戰隊強龍者》]]合作過的大森敬仁
+**負責唱主題曲的更是曾在《W》劇場版擔當敵役騎士Eternal的松岡充
+**之後《W》的[[照井龍]]更在《Drive Saga》裡出現<s>正式替兩作牽線</s>
+
+*和前作《鎧武》一樣未有在上一作的夏季劇場版和本篇結局先行登場<ref>即是並非同一世界觀</ref>
+*本作所有話數的標題都用疑問句形式來表述，標題中的疑問詞會以{{color|red||紅字}}標示
+*本作繼《W》和《鎧武》後，第三套推出角色外傳的新平成騎士作品
+
+==故事簡介==
+*在經常發生的怪異事件當中，許多人都發覺到自己的時間被靜止了。彷彿自己身邊的時間都給停住，身體無法自由活動…
+**人們都稱呼這種奇怪現象為「板滯（どんより）」並對之感到畏懼。
+*警視廳將成為了社會問題的板滯命名為「重加速現象」，並設立特殊狀況下事件搜查課（通稱：特狀課）對應相關事項。
+*被派遣到特狀課的刑事「泊進之介」在追捕犯人時遇上板滯，而他的同僚都重創，自己的內心也因而遺下了陰影。而讓他從新醒覺的，則是他在超級載具「Tridoron」裡面遇上的腰帶先生。
+*打破重加速（板滯）的謎之怪人「Roidmude」的方法…進之介的「引擎」啟動了。
+**為了逮（爆）捕（殺）怪異事件的犯人，他變身成了假面騎士Drive！
+
+==登場人物==
+* 詳見[[仮面ライダードライブ/角色介紹#登場人物|此條目]]
+
+==假面騎士==
+* 詳見[[仮面ライダードライブ/角色介紹#假面騎士|此條目]]
+
+== 換裝車輛/Shift Car（シフトカー）==
+* 假面騎士Drive的變身道具，擁有對抗重加速和獨立攻擊能力的小型車子
+
+* 移動時會憑空出現供Shift Car行走的幹道，會配合Shift Car行走方向延伸路線
+** <s>風火輪小車+超激力軌道戰鬥車=Shift Car</s>
+
+* 每次變身成該形態前，須先將Shift Car後半部180度扭轉成<s>硬套的話可以算是7字形的</s>變速檔桿，安裝到Shift Brace上成為「Shift Lever（シフトレバー）」再拉動一遍
+* Shift Car們擁有各自的意識和聯繫關係，部份在Global Freeze後至今仍在獨自追蹤相關的Roidmude的活動
+
+* 於官網所見、包括Viral Core和Signal Bike所在的Shift Car合共有'''117台'''
+
+=== Shift Car一覽 ===
+{|class="wikitable" style="margin:auto;"
+|-
+|colspan=5 align="center"|'''粗體字'''為可以作出形態變化的Shift Car
+|-
+!Shift Car名稱
+!能力
+!原型
+![[必殺技]]
+!備註
+|-
+|'''Shift Speed'''/速度
+|變化成Type Speed，體色為紅<br>輪胎斜套在胸部
+|rowspan="4"|跑車
+|騎士拳「Turbo Smash」<br>騎士踢「Speed Drop」
+|概念上算是基本形態
+|-
+|Max Flare/極限烈焰
+|所有攻擊均附加火[[屬性]]
+|帶著火焰突進的「Flare Storm」<br>發動Speed Drop時附加火焰
+|
+|-
+|Funky Spike/時髦刺針
+|以輪胎的棘刺作直接或噴射攻擊
+|以輪胎的棘刺作連續攻擊的「Spike Torando」
+|
+|-
+|Midnight Shadow/夜影
+|變身成忍者戰士，可以分身和投擲能量形手裡劍
+|將輪胎當成飛鏢擲出的「Shadow手裡劍」<br>發動Speed Drop時會連同分身進行全方位連續踢擊
+|
+|-
+|Justice Hunter/正義獵人
+|變出像<s>水溝蓋</s>扁身監獄的小盾「Justice Cage」，可變形成監牢困住敵人
+|警車
+|以監獄困住敵人後加速突進的手刀砍擊「Justice Smash」
+|霧子平時帶在身上的Shift Car
+|-
+|Dream Vegas/夢境維加斯
+|變出兩枚錢幣形圓盾「Drum Shield」
+|禮車（豪華轎車）
+|圓盾與輪胎組合成777拉霸機，因應拉出的組合發射相應的錢幣攻擊「Million Attack」
+|<s>上半身折斷<br>島民曾討論過的廢案</s><br>與Dimension Cab為好友
+|-
+|Spin Mixer/旋轉攪拌機
+|從輪胎的孔洞發射水泥彈，擊中敵人時會固化
+|水泥車
+|高速連射水泥彈的「Cannon Crete」
+|<s>ミックスマスター</s>
+|-
+|Massive Monster/巨魔
+|從輪胎外殼分離，兩個為一組的[[怪物]]嘴巴形<s>廁所椅</s>圓盤「Monster」<br>剝離外殼後的輪胎可以舌頭鞭打、綑綁目標
+|大輪車（沙灘車）
+|以Monster夾組進行咬擊的「Mons Crunch」
+|
+|-
+|Dimension Cab/次元計程車
+|以輪胎為界分離頭部和右手，兩部份的軀體可以各自獨立行動<br>分離出來的上半身可以一半的輪胎移動和穿越空間
+|計程車
+|活用扭曲空間的攻擊「Dimension Branch」
+|<s>半身用Portal</s><br><s>難怪和Dream Vegas關係如此友好</s>
+|-
+|'''Shift Wild'''/狂野
+|變化成Type Wild，體色為黑<br>輪胎掛在右肩
+|越野車
+|騎士拳「Pile Break」<br>騎士踢「Wild Drop」<br>突進肩撞「Over Wild」
+|<s>士官長</s>
+|-
+|Hooking Wrecker/吊鉤
+|從輪胎拉出附有吊鉤的鋼索「Capture Hook」
+|吊車
+|吊鉤攻擊「Wrecker Wind」
+|
+|-
+|Rumble Dump/噪倒
+|附有[[鑽頭]]「Rumble Smasher」，可分離使用
+|傾卸車
+|鑽頭攻擊「Drill Rumble」
+|礙於鑽頭的重量，Type Speed時不便使用<br><s>ロングハウル</s>
+|-
+|Mad Doctor/瘋狂怪醫
+|能救助傷員的醫療器具「Cure Quicker」，可治療自身和別人<br>用於自己身上時可以高速治癒身體毛病，但代價是治療期間[[成句/那可是會痛得要死的|可會痛得要死]]
+|救護車
+|
+|
+|-
+|Burning Solar/烈陽
+|[[閃光彈|能發出強光]][[可魯|干擾、燒灼敵人]]
+|太陽能車
+|
+|平時需要曬太陽充能
+|-
+|'''Shift Technic'''/技術
+|變化成Type Technic，體色為綠<br>輪胎橫套在胸口
+|工程車
+|騎士踢「Technic Drop」<br>車門槍射擊「Prefect Shot」
+|<s>オンスロート</s>
+|-
+|Rolling Gravity/滾動重力
+|利用重量達10噸的法碼「10t錘」製造超重力
+|[[壓路機]]
+|以重力扭曲車門槍彈道的連攜攻擊「Impact 10」
+|平時負責建造供Shift Car移動的道路
+|-
+|Fire Braver/火焰勇者
+|自輪胎伸出消防梯形機械臂「Ladder Expander」，可抓住敵人拖過來
+|消防車
+|與車門槍的連攜技「Rescue Down」
+|會感應周遭發生的火災並自行前往撲救，足以單體處理普通家居火災
+|-
+|Deco Traveler/電光旅者
+|擁有強大搬運力，車身裝滿炫眼的燈飾，會[[殺人歌聲|播放超吵耳的演歌]]同時全力發光擾亂目標
+|暴走卡車
+|
+|似乎與追田很合得來，在Drive的秘密公開後也由他帶在身上取代ピコピコ<br><s>Burning Solar表示：<br>Drive的中譯原來是「怒羅威武」，名字真炫炮</s>
+|-
+|Road Winter/冬道
+|以瞬間冷凍機「Frost Reamer」發射低溫冷氣凍結目標
+|冰櫃車
+|
+|<s>Spin Mixer表示：</s>
+|-
+|Colorful Commercial/彩光廣告
+|製造立體映像迷惑敵人，也能投射預先錄下的影片
+|街頭宣傳車
+|
+|
+|-
+|Amazing Circus/驚奇馬戲團
+|能從嘴巴吐出各種舞台佈置、彩光和音樂效果，為剛的變身助興
+|馬戲團卡車
+|
+|<s>真正的自帶變身BGM</s>
+|-
+|'''Shift Dead Heat'''/平局
+|變化成Type Dead Heat，體色為紅+白
+|邊車
+|騎士踢「Dead Heat Drop」
+|<s>Drive的身體+Mach的頭盔和四肢=Dead Heat</s>
+|-
+|'''Shift Formula'''/方程式
+|變化成Type Formula，體色為藍+黃<br>兩個小輪胎套在雙臂
+|rowspan="4"|方程式賽車
+|騎士踢「Formula Drop」<ref>擁有異於其他必殺技能夠通過Shift Up提升威力的特性，設計上超過3次便會造成危險，唯一一次使用時（《4號》最終回）是抱著必死覺悟的'''9次'''Shift Up</ref><br>拖車砲砲擊「Trailer Impact」
+|<s>Turboman<br>[[無頭騎士異聞錄 DuRaRaRa!!|デュラララ!!]]</s>
+|-
+|Shift Mantan F01/油槍
+|替Type Formula補充能量，強化戰鬥力和移動速度<br>因機能上是參考Mad Doctor，裝備後可回復小量體力
+|
+|rowspan="3"|可對Type Formula作現場應急維修
+|-
+|Shift Jacky F02/千斤頂
+|右手出現千斤頂「Jacky Riser」<br>擁有與Rolling Gravity相同的重力操作機能，可壓住敵人再彈去遠處，也能用以支撐物件
+|
+|-
+|Shift Spanner F03/扳手
+|右手出現能分解機械的大扳手「Grasper Claw」<br>能高速迴轉當成鑽頭攻擊，也能像Dimension Cab般將右手切離獨立活動
+|
+|-
+|'''Shift Tridoron'''
+|變化成Type Tridoron，體色為紅<br>輪胎直套在左腋
+|Tridoron
+|騎士踢「TriDrop」
+|
+|-
+|'''Fruits'''/水果
+|變化成Type Fruits，武器為大橙丸&無雙刃
+|橙
+|
+|<s>橘色的垃圾桶 </s>{{ref|實際上那是斗笠，日本時代劇中風來坊的造型}}
+|-
+|'''Shift Seed Prototype'''
+|變身成Proto Drive
+|概念車
+|漂浮在空中衝向敵人的騎士踢「Proto Drop」
+|音效與Shift Speed相同
+|-
+|'''Shift High Speed'''/高速
+|變化成Type High Speed<br>體色為銀，細部以外的外觀與Type Speed相同
+|rowspan="2"|<s>高級</s>跑車
+|
+|因為剛的一句「真貨比較高級」啟發りんな以高級車為概念強化Shift Speed{{censored|，但實際上只是換個顏色沒有作過任何強化}}<br>變身後整體高級化
+|-
+|Mega Max Flare
+|所有攻擊均附加火屬性
+|
+|在戰鬥中誤認真貨的Max Flare為報仇自願接受りんな的改裝而成
+|-
+|rowspan="2"|[http://youtu.be/LOK9dGuWHt0 '''Shift Next Special'''/次世代特殊]
+|變化成Type Next
+|rowspan="2"|遙控車
+|
+|rowspan="2"|來自2035年的未來Shift Car<s>{{censored|，繼Dead Heat後又一個翻過來就能兩份兒用的Shift car}}<br>[https://www.youtube.com/watch?v=rRAePy0XQG8 拿給Mach使用還是會變成Mach…]</s>
+|-
+|{{censored|變化成Type Special}}
+|
+|-
+|Next Builder
+|rowspan="3"|能透過與各種載具和重機融合遙控操作它們，同時會把載具給[[魔改造]]加上特殊能力
+|Shift Technic
+|
+|rowspan="3"|來自2035年的未來Shift Car們
+|-
+|Next Deco Traveler
+|Deco Traveler
+|
+|-
+|Next Hunter
+|Justice Hunter
+|
+|-
+|'''Heartron'''
+|變身成假面騎士Heart<br>變成 Type Speed Wild Technic
+|?
+|
+|
+|}
+
+=== 插入Mach Driver炎時的變化 ===
+{|class="wikitable" style="margin:auto;"
+|-
+|colspan=5 align="center"|此處只收錄於劇中插入過Mach Driver炎的Shift Car<br>'''粗體字'''為可以作出形態變化的Shift Car
+|-
+!Shift Car名稱
+!Mach使用時的名稱（中譯）
+!Mach使用時的能力
+!必殺技
+!備註
+|-
+|Max Flare
+|[[萌|Moe]]ru（燃燒）
+|所有攻擊均附加火屬性，能以前輪Shooter發射火焰彈
+|騎士踢「Moeru Kick Mach」
+|
+|-
+|Rumble Dump
+|Araburu（發飆）
+|使用Rumble Smasher
+|[[仮面ライダーフォーゼ|鑽頭騎士踢]]「Araburu Kick Mach」
+|
+|-
+|colspan=2|'''Shift Dead Heat'''
+|變化成Dead Heat Mach，體色為紅+白
+|騎士踢「Heat Kick Mach」
+|
+|-
+|Spin Mixer
+|[[成句/爭什麼?摻在一起做成OOXX啊、笨蛋!|Maseru（混起來）]]
+|以前輪Shooter發射水泥彈
+|
+|
+|-
+|Mad Doctor
+|Naoru（治癒）
+|使用Cure Quicker
+|
+|與Drive時一樣，用在自身上時會痛的要活過來
+|-
+|Shift Speed/Zero
+|Hayai（很快）
+|提升移動及攻擊速度
+|
+|
+|-
+|colspan=2|'''特狀課Key'''
+|變身成量產型假面騎士Mach
+|
+|
+|-
+|colspan=2|'''Tridoron Key'''
+|變身成假面騎士超Dead Heat Drive
+|
+|<s>塗紅了的魔進chaser身體+Drive的頭部</s>
+|-
+|colspan=2|{{censored|'''Viral Core'''}}
+|{{censored|變身成假面騎士超Dead Heat Mach}}
+|外觀是金色的Bat Viral Core，中間被挖了個圓孔並裝入銀色的核心
+|{{censored|為以Rhino Super改造而成}}
+|-
+|colspan=2|'''Ride Crosser'''
+|變身成假面騎士Mach Chaser
+|
+|
+|}
+
+=== タイヤカキマゼール ===
+{|class="wikitable" style="margin:auto;"
+!混合組名稱
+!colspan=3 align="center"|混合的Shift Car
+!能力
+|-
+|Attack 1.2.3/攻擊一二三
+|Max Flare
+|Funky Spike
+|Midnight Shadow
+|同時發出高熱攻擊、作出分身，投擲棘刺和能量手裡劍
+|-
+|People Saver/救難隊
+|Justice Hunter
+|Mad Doctor
+|Fire Braver
+|同時使用Justic Cage和Cure Quicker，雲梯臂會從輪胎伸出
+|-
+|工事現場
+|Rumble Dump
+|Spin Mixer
+|Rolling Gravity
+|同時使用10t錘和Rumble Smasher
+|-
+|American Dream/美國夢
+|Dream Vegas
+|Dimension Cab
+|Amazing Circus
+|rowspan="4"|<s>和前作的Jimber Melon一樣</s>未在劇中登場
+|-
+|[[JOJO第六部登場人物一覽#l6632bdd|Weather Report/天氣預報]]
+|Burning Solar
+|Road Winter
+|Colorful Commercial
+|-
+|Tough Guy/硬漢
+|Massive Monster
+|Hooking Wrecker
+|Deco Traveler
+|-
+|Grand Prix/盛獎大賽
+|Shift Mantan F01
+|Shift Jacky F02
+|Shift Spanner F03
+|}
+
+== Signal Bike（シグナルバイク）==
+* 假面騎士Mach使用的變身道具，機能上與Shift Car相近
+* 同樣擁有各自的意識
+
+=== Signal Bike一覽 ===
+* 所有的Signal Bike名稱均是以「Signal~」開首，因此於列表中省略
+
+{|class="wikitable" style="margin:auto;"
+!Signal Bike名稱（中譯）
+!能力
+!原型
+!必殺技
+!備註
+|-
+|'''Mach'''
+|變身成假面騎士Mach
+|Ride Macher
+|騎士踢「Kick Mach」<br>前輪Shooter射擊「Hit Mach」<br>前輪Striker打擊「Beat Mach」
+|{{censored|Type Next的兼用}}
+|-
+|Magal（扭曲）
+|扭曲前輪Shooter的射擊軌道
+|火箭彈
+|
+|{{censored|Next01的兼用}}
+|-
+|Kaksarn（擴散）
+|使自己的攻擊分散，同時攻擊複數目標
+|擴散飛彈
+|
+|{{censored|Next02的兼用}} 
+|-
+|Tomarle（停止）
+|射出帶電擊的停止圖案<br>能當作盾牌、也能強行停止目標的行動
+|電極槍
+|裝置在前輪Striker後的攻擊，有綑綁效果
+|{{censored|Next03的兼用}}
+|-
+|Kikern（危險）
+|召喚出「魔獸」攻擊敵人
+|
+|伴隨「魔獸」能量外形的飛踢「Kikern Kick Mach」
+|<s>其實就是[[瑪利歐系列|瑪利歐]]的キラー/Bullet Bill</s><br>{{censored|Next04的兼用}} 
+|-
+|Chaser
+|變身成假面騎士Chaser<br>{{censored|變身成假面騎士Chaser Mach}}
+|Ride Chaser
+|騎士踢「Chaser End」<br>信號斧斬擊「Across Breaker」
+|因為是利用魔進Chaser的身體組織來製作，只有Chase能使用{{censored|←不過剛在第46話用它成功強化變身}}
+|}
+
+== 用語 ==
+
+=== 世界觀關連 ===
+* 重加速
+** Roidmude內藏的超動力機關「Core Driva」運轉時發生的固有現象，發動時能讓周圍的人類或物體的速度變得極端緩慢
+** 人的意識和說話的速度在重加速下仍然正常，但是身體跟不上意識，因此民間俗名為「板滯」
+** 劇中對重加速的表現除了時間流動變緩外，偶然還會出現停格般的靜止現象
+** <s>雨點會因為重加速而變慢，但火焰、煙塵和風之類的物理現象卻不會受影響</s>
+** <s>物理現象在重加速下也會被扭曲，當年005丟人下去根本是丟好玩的</s>
+** 只有同樣以Core Driva為動力的機器（Roidmude、假面騎士、Shift Car/Signal Bike和擁有它們的人類，りんな製作的重加速輕減器）才能中和重加速的影響
+*** 攜帶的Shift Car數量似乎是與遭受重加速時的影響程度成反比
+*** 能在重加速下自由活動的假面騎士，也意味其本身擁有發動重加速的能力（Mach在第13話就曾發動過）
+** 進化後的Roidmude能發動比平常更強和大範圍的重加速，經Medic強化後的Chase和Heart甚至能發動在這以上的「超重加速」
+
+* Global Freeze（グローバルフリーズ）
+** 本作開始Roidmude們發動大規模的重加速和破壞行動
+*** 根據腰帶先生所說，當時發動範圍約覆蓋全球1/4的區域
+*** 因為Roidmude 005私自行動讓計劃洩露（無誤）使Proto Drive得到先機，與Shift Car聯手阻撓使它們的行動失敗告終，但Proto Drive也在戰鬥中「死去」
+** 為了發動第二次的Global Freeze，因此Roidmude們需要湊齊「約定之數（4個超進化體）」
+*** 透過4名超進化體之間的Core Driva的共鳴，可能其發動範圍為全球；隨時一切靜止{{censored|（假面騎士和擁有能對抗重加速的裝置的人類除外）}}
+*** {{censored|而蠻野則打算利用藉機將全人類數據化並加以操控管裡，以提出自己的理想}}
+
+* {{censored|Cyberoid ZZZ}}
+** {{censored|預知Roidmude會反叛的クリム為防萬一，預先替自己準備了用以「復活」的肉體，但考慮到屆時自己的精神力未必能將之起動，加上這具強化型Roidmude蘊藏著讓他的精神暴走的可能性，最終決定將它封印在一古城內<s>，而自己最後就跑進了個非常吵耳的腰帶裡</s>}}
+*** {{censored|於劇場版中《Movie大戰Full Throttle》提及，於故事開始前半年給年紀老邁的ゾルーク東条給發現而將自身人格裝置在這肉體上}}
+** {{censored|和一般Roidmude一樣擁有能發動重加速的能力}}
+
+=== 假面騎士裝備關連 ===
+==== Drive ====
+* Drive Driver（ドライブドライバー）
+** 移植了死去的クリム的意識，擁有思考和對話能力的高科技變身腰帶，變身成假面騎士Drive時必須的核心組件；有關AI的部份請見[[#x1c949b4|「腰帶先生」及「クリム‧スタインベルト」]]部份—位於腰帶正中的圓形螢幕「Centrans Face（セントラスフェイス）」會對應腰帶先生的情感顯示出不同表情，也會因應假面騎士Drive當時的形態及行動轉換顯示內容
+*** 插在Centrans Face右方的車匙「Advanced Ignition（アドバンスドイグニッション）」在變身、轉換和發動Shift Car能力之前均需先扭動以「發動引擎」
+** 在Movie大戰給魯邦用Lupin Gunner射穿，在本篇被超進化後的Freeze放光束直擊{{censored|，到劇場版更被進之介用信號斧砍成兩截}}
+
+* Shift Brace（シフトブレス）
+** 佩戴在假面騎士Drive左手上的手環，安裝Shift Car和Shift Lever的位置—發動必殺技時必須先按動手環上的按鈕「Igniter（イグナイター）」才再拉動Shift Lever
+
+* Tridoron（トライドロン）
+** Drive使用的[[黑科技|超科技]]載具（自排車），由特狀課所管有的隱形警車，最高時速有560km/h
+** 原型為本田NSX
+*** 正式名稱為「Tridoron-3000」，Drive Driver的[[本體]]（無誤）<ref>{{censored|Tridoron是在失去了Proto Drive後，腰帶先生希望自己也有保護戰士的力量而作為自己的軀體去製造}}</ref>
+** 當進之介需要變身時，透過Drive Driver下達指令打開擋板伸出左前輪，發射指定的輪胎安裝到身上
+*** 車身上的車輪可以經由「Tyre Fueru（タイヤフエール）」安裝不同輪胎，並使用它們的能力
+** 可經由Drive Driver的命令作無人駕駛，還可以從基礎形態「Type Speed」變形成「Type Wild」或「Type Technic」以應對不同環境
+** 車頭燈內藏有機關炮作為武器，變換為Type Technic時更有一對機械臂「Mantis Smash Arm」能與敵人搏鬥
+** 於《Movie大戰》中變成「Type Fruit」，不但能飛行甚至飛上宇宙（！？）
+*** 車輪能射出鋸刀，也能噴出橙汁攻擊敵人（無誤）
+** 透過與兩台輔助高卡車「Ride Booster（ライドブースター）」合體成「Booster Tridoron」後可在空中飛行
+*** 當中紅色的由Mach駕駛，另一台藍色的則是Chaser；兩台Ride Booster能獨立行動，車首裝設有機關炮作攻擊
+** '''騎士史上首個以四輪車為一號載具的騎士'''
+*** 雖然Black RX的四輪戰車「萊多隆」讓人印象非常深刻，但是'''萊多隆是第四話時才出現的二號載具'''，一號載具是從Black時代就已經有的「戰鬥蝗蟲」
+**** 附帶一提，Black的另一台載具「超能車」在Black RX中有出現過一個畫面（也是第四話），但Black RX從沒把它開過上陣
+***** 放映結束後東映在雜誌《宇宙船》中表示，光太郎<s>貪新忘舊</s>已經把超能車還給制作它的大門明
+*** 官方宣傳上更是稱呼他作「史上首個不騎機車而是開車的假面騎士」{{ref|其實更早的[[仮面ライダー響鬼|響鬼]]就已經搞過不會開機車的主役騎士<s>，雖然到中間就破功了</s>}}
+** 因為東映沒法給它搞到車牌<ref>出典：《宇宙船》2014年秋號（vol.146），田崎竜太訪問內容</ref> 所以只能在私人地方拍攝行走場面
+
+* 方向盤劍（ハンドル剣）
+** Drive使用的單手劍，轉動裝在劍身上的方向盤可改變斬擊軌道
+** 能讀取插入的Shift Car情報，使用相應的附加能力和發動必殺技
+** <s>腰帶先生表示希望進之介能給它起個更好聽和炫砲的名字</s>
+
+* 車門槍（ドア銃）
+** Drive使用的手槍，能從槍身側面的車門狀側板展量能量盾防禦攻擊
+** 在耗盡彈藥後需要打開側板自動補充，但為了防止能量外洩需要關上側板才能擊發<s>，\半ドア/</s>
+** 同樣能插入Shift Car使用相應的附加能力和發動必殺技
+** <s>此時腰帶先生已放棄對進之介的命名品味吐槽了</s>
+
+* 拖車砲（トレーラー砲）
+** Drive Type Formula/Tridoron專用的手持式大砲，能變形成拖車型態自主移動
+** 能裝入最多三台（上部一台，砲口內兩台）的Shift Car發動必殺技
+** <s>腰帶先生：我就知道是這個名字</s>
+** 必殺技：
+*** 上部插入下記以外的Shift Car：トレーラーインパクト
+*** 上部插入Shift Tridoron：トレーラービッグインパクト
+
+==== Mach ====
+* Mach Driver（マッハドライバー）炎<ref>會加上「炎」字的原因是因為日本已經有名為マッハドライバー的商品（高爾夫球桿），為了規避商品註冊撞名之故</ref>
+** 由ハーレー博士開發的次世代系統（Next System）變身腰帶、內備有輔助用的電子腦—按下腰帶頂部的「Boost Igniter（ブーストイグナイター）」可以解放腰帶內累積的能量讓騎士進入短暫的高負荷狀態，連按4遍則會完全解放性能進入極限運作模式—りんな在思考如何替Mach強化戰鬥力期間為方便研究複製出了另一條Mach Driver炎，在剛自己已找到了變強的方法而不再需要後，於霧子的懇求下經過調整再給予Chase使用
+*** 設定上核心的Core Driva經過強化，變身成Chaser後仍能發動魔進Chaser時期威力的超重加速（Drive和Mach是重加速）
+*** {{censored|原裝的Mach Driver炎也加入了能透過組合腰帶和插入的Signal Bike/Shift Car內記載的戰鬥數據、自行運算和研發出新騎士型態的機能，因此剛才能突破Singal Chaser本來的限制變身成假面騎士Chaser Mach}}
+** 後來りんな再基於其資料開發出供警視廳人員使用的量產型Mach Driver，配合更新的ピコピコ3號可讓一般人也能加入戰鬥當中
+
+* 前輪Shooter（ゼンリンシューター）
+** Mach的專用光線槍，可用槍身上的車胎「前輪Striker（ゼンリンストライカー）」作近接攻擊
+** 與Drive的車門槍同樣能插入Signal Bike，使用它們的能力和發動必殺技
+
+* Ride Macher（ライドマッハー）
+** Mach的機車，機動性強，最高時速有460km/h
+** 車首裝有攻擊用的光束砲
+** 會自動感應並'''與魔進Chaser的Ride Chaser'''平排而行、將Ride Chaser強行搶過來（無誤）合體成四輪車「Ride Crosser（ライドクロッサー）」，可以藉由從車身發射的鉤索進行三次元的[[進擊的巨人|<s>立體機動</s>]]攻擊
+*** 除了Mach外'''Chase也能主動發出合體指令並駕駛'''
+*** 被Medic洗腦後的Chase會主動搶奪Ride Crosser的控制權，為了避免被搶走Ride Macher於是剛在第19話'''索性不開機車'''
+** {{censored|也擁有與Ride Booster合體的機能，但只在《Surprise Future》合體過一次，Ride Booster也在與未來Roidmude的激戰中遭到破壞}}
+
+==== Chaser ====
+* Break Gunner（ブレイクガンナー）
+** Chaser專用的武器暨魔進Chaser的變身器，兼具光線槍功能
+*** 變身音效為「Break up」
+** 可插入三種專用的Viral Core變出不同的強化武裝，安裝於右手上增強攻擊力
+** 因為是基於分析{{censored|Chase本人變身的}}Proto Drive的機能研發出來，也支援插入Shift Car使用它們的能力
+*** 因此也有可能反被Shift Car利用這點進行擾敵<s>，第16話就被Deco Traveler擅自插入發光擾亂</s>
+
+* 信號斧（シンゴウアックス）
+** Chaser專用的斧頭，平常收納在Ride Chaser車頭左側
+** 雖然擁有強大破壞力和砍劈出光波的機能，但在插入Singal Bike後必須要等到能量充滿、斧身上的人行燈顯示板由紅轉綠才能發動必殺技
+** {{censored|<s>砍腰帶神器，《Surprise Future》被進之介用來把Drive Driver砍半，本篇46話則被剛用來把蠻野Driver徹底粉碎</s>}}
+** 必殺技：アクロスブレイカー
+
+* Ride Chaser（ライドチェイサー）
+** 魔進Chaser→Chase的<s>重</s>機車
+
+==== 其他 ====
+* Lupin Gunner（ルパンガンナー）
+** 魯邦使用的變身槍，因為是從Roidmude處盜取Break Gunner的研究數據研發所以不論外型與機能均十分相似
+** 具把物質數據化吸收的能力，也能反過來裝置一般Viral Core把吸收了的Roidmude再生並放出、變成聽從自己命令的「眷屬」
+** 裝上Lupin Viral Core（ルパンブレードバイラルコア）便能變成短劍模式
+
+* Proto Tridoron（プロトトライドロン）
+** 腰帶先生在完成Tridoron之前製作出的試作型四輪載具，與Proto Drive同樣不支援Tyre Fueru，也不能切換型態
+*** [[成句/腳只是裝飾而已，上面的大人物是不會懂的|外表只是裝飾]]，核心部份與Tridoron一樣非常小台
+** 最後遭Dark Drive追擊全毀
+
+* ブレイドガンナー
+** Dark Drive使用的銃劍<s>，把Break Gunner塗黑再黏上方向盤劍的劍刃便完成</s>
+
+* Next Tridoron（ネクストトライドロン）
+** Dark Drive使用的未來四輪載具，最高時速達808km/h
+** 擁有穿越時間{{censored|（一次）}}的能力，還能夠遙控其他汽車和機械
+** 能在車身及車頂生成光束炮
+
+* AI Driver（AIドライバー）
+** Heart使用的變身腰帶，為Drive Driver的複製品
+
+==== Brain ====
+* Brain Driver（ブレンドライバー）
+** Brain的變身腰帶，似乎是クリスタル・ペプラー博士參考Drive Driver開發出來，機能上大致與Drive Driver相同
+** 平常能壓縮成放在口袋也不突兀的大小（無誤）
+
+* Brain眼鏡劍（ブレンメガネブレード）
+** Brain的專用劍，能放出閃光毒刃在揮舞同時撤毒
+** 外型似乎是クリスタル・ペプラー博士參考'''某把有既視感的劍型武器'''研發
+*** <s> Dark Ghost「不過就是改色而已，才不是你的武器！」</s>
+
+* ライドブレイザー
+** Brain專用的高性能機車<s>，外觀與Ride Chaser十分相似</s>似乎是<s>因為</s>クリスタル・ペプラー博士參考'''某台有既視感的載具'''的數據製作
+** 似乎有搭載毒飛彈和<s>非人道兵器</s>毒撒菱等武器的樣子<s>但全都沒在劇中出現</s>
+
+== 其他媒體 ==
+=== 電影 ===
+* 仮面ライダー[[×]]仮面ライダー ドライブ&鎧武 MOVIE大戰フルスロットル
+** Drive和鎧武的聯合電影，2014年12月13日上映
+
+* スーパーヒーロー大戦GP 仮面ライダー3号
+**「超級英雄大戰」系列第4套電影，2015年3月21日上映
+
+* 仮面ライダードライブ サプライズ・フューチャー
+** 獨立劇場版，2015年8月8日上映
+
+=== 特別篇 ===
+* [[手裏剣戦隊ニンニンジャー]]VS仮面ライダードライブ 春休み合体1時間スペシャル
+** 性質、定位和跟同期上映中的「超級英雄大戰」系列電影有<s>可有可無的</s>劇情連動要素都與去年的《烈車vs鎧武》相同的1小時特別篇，2015年3月29日播映
+
+* 仮面ライダー4号
+** 於網路平台「dビデオ」上播放的《超級英雄大戰GP》後傳故事，全3話
+*** 收錄了第1話的DVD以《超級英雄大戰GP》首100萬名入場者特別禮物的方式附贈予觀眾；後收錄了全3話內容的BD/DVD於2015年9月9日發售
+** <s>繼V3被[[婊]]後騎士人也被婊了，在電影裡[[便當|戰死]]的剛更是因為世界反覆重置而不斷被補刀，連進之介也在裡面起碼掛點了2遍以上，最後還連霧子也死過一遍，大家統統都死了</s>
+*** [[南方四賤客|\靠剛（進之介）又死掉了！/]]
+** {{censored|真・假面騎士555結局篇；也許「4號」指的其實是'''平成'''第4位騎士}}
+
+* Drive Saga（ドライブサーガ） 仮面ライダーブレン
+** 東映特攝Fanclub線上限定特別篇，2019年4月28起播放，全2話
+** 2年前的[[愚人節]]時[https://w.atwiki.jp/aniwotawiki/pages/42036.html 為官方推特的最後一篇應節搞笑推文]，2年後{{twitter|HKR20_official|1112562945228103681|騎士20周年公式推特又再挖出來一遍}}，'''這次卻沒想到成真了'''
+
+===「Secret Mission」系列===
+*type ZER'''O'''「第0話 Countdown to Global Freeze」
+**作為《Movie大戰Full Throttle》首100萬名入場者特別禮物附贈的第0話DVD，講述Proto Drive在Global Freeze之前的行動
+**<s>[[スマイルプリキュア!|Cure Sunny]]被綁架了（誤）</s>
+
+*type TV-'''K'''UN「ハンター&モンスター！超怪盗の謎を追え！」
+**兒童誌《てれびくん》2015年1月號附贈的DVD，故事上與第0話和《Movie大戰Full Throttle》有連動關係
+
+*type HIGH-SPEED'''！'''「ホンモノの力！タイプハイスピード誕生！」
+**兒童誌《てれびくん》自2015年3月號起開放讀者應募的DVD，定位同往年騎士系列的<s>[[腦殘]]DVD</s>「Hyper Battle Video」
+
+*type TOKU'''J'''O
+**本作BD-BOX COLLECTION內收錄的映像特典，全4話，講述特狀課各成員的加入經緯
+
+* type LUP'''I'''N「ルパン、最後の挑戦狀」
+** 兒童誌《てれびくん》2015年11月號附贈的DVD，為復活的假面騎士魯邦再次挑戰特狀課的故事，時間點在最終決戰之前
+* {{censored|將上途DVD的粗字抽出可合成JIKO！(事故！)，也是劇中小西田正彥博士的死困}}
+
+=== V-Cinema===
+* Drive Saga 仮面ライダーチェイサー
+** 以Chase為主角的外傳故事，2016年4月20日發售
+
+* [https://youtu.be/mpXp40-HKwY Drive Saga 仮面ライダーマッハ／仮面ライダーハート]
+** 系列第二作，以Mach和Heart為主角的外傳故事，2016年11月16日發售
+** 時間點為本篇完結3年後，Mach篇為小說版的後續
+** 成為了假面騎士的Heart（無誤，標題沒寫錯）
+
+* Drama CD Drive Saga 仮面ライダーマッハ夢想伝
+** 廣播劇CD，2016年11月25日發售
+** <s>官方基情全開，剛和Chase的故事只是聽聲音也足以閃爆聽眾</s>
+
+===小說===
+* 小說仮面ライダードライブ マッハサーガ
+** 由講談社推出，與上述的Drive Saga Chaser篇同日發售的小說，以Mach為主角<s>但封面佔最大版面的卻是小說裡完全沒戲份的Drive</s>
+*** <s>在封面也能死個一遍的Mach（大誤）</s>
+** 內容為本篇2年後的剛的故事，另外還會提到他成為Mach的經歷
+*** 卷末收錄了由三条陸監修、記錄本作所有事件時序的「仮面ライダードライブ全史」
+** 為Drive Saga Mach/Heart篇的前傳
+
+== 連結==
+* K島維基條目
+** [[假面騎士系列]]
+** [[閃電霹靂車/新世紀サイバーフォーミュラ|<s>閃電霹靂車</s>]]
+
+* 外部連結
+**[http://www.tv-asahi.co.jp/drive/ 朝日官網]
+**[http://www.toei.co.jp/tv/drive/ 東映官網]
+**維基條目：[http://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%89%E3%83%A9%E3%82%A4%E3%83%96 日文]、[http://zh.wikipedia.org/wiki/%E5%81%87%E9%9D%A2%E9%A8%8E%E5%A3%ABDrive 中文]
+**[https://twitter.com/kamen_drive 公式Twitter]
+
+==討論 ==
+{{pcomment|section=1}}
+
+{{KamenRider}}
+
+==備註==
+<references/>
+
+[[分類:假面騎士系列]]
