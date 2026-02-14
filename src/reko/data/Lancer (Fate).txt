@@ -1,0 +1,408 @@
+{{H0|Lancer（槍兵/ランサー）}}
+{{synchro|New Komica wiki (仮)|2024年03月11日 12:39}}
+[[檔案:Lancer卡面.jpg|右]]
+{| class="wikitable" style="margin: 1em auto 1em auto;"
+|-
+|七大基礎職階：[[Saber (Fate)|Saber]]、[[Archer (Fate)|Archer]]、[[Lancer (Fate)|Lancer]]、[[Rider (Fate)|Rider]]、[[Caster (Fate)|Caster]]、[[Assassin (Fate)|Assassin]]、[[Berserker (Fate)|Berserker]]
+|-
+|[[Extra Class (Fate) | 特殊額外職階]]：Ruler、Avenger、Shielder、Moon Cancer、Alter Ego、Foreigner
+|}
+
+== 簡介 ==
+
+* 聖杯戰爭所能召喚的基礎七種職階之一，擅使長槍、或以槍術聞名之英靈能以此職階進行召喚。
+* 由於以此職階召喚之從者能力值通常都有一定水準，是聖杯戰爭中未召喚Saber的第二選擇<s>相當於SR</s>。 與劍兵、弓兵並稱三騎士。
+** <s>但不知為何，擔任槍兵的英靈幸運值通常都極為低下，在其退場時的模樣極為悽慘</s>
+*** 不過後來在F/GO中也實裝了許多高幸運的槍兵，而冠位槍兵更是擁有EX等級的幸運。
+* 由於是擅使長槍、或以槍術聞名之人，所以通常會以該從者所持有之名槍做為寶具或是基本武裝。
+** 不過也有些能夠以Lancer職階召喚的英靈、從者是以普通槍或甚至是單純的長柄武器（如薙刀）作為武裝。
+*** <s>大概是因為歷史、神話和文學作品中，使用槍戰鬥並成名的人較稀少之緣故，只要拿著長柄武器都能當上Lancer的樣子</s>
+*** 在這之中更是有許多原型不持槍，到了Fate才<s>硬塞一把槍</s>轉職成槍兵的湊數用Lancer。
+* 其實，Lance的原意是指在馬上作戰用的長槍，中文一般翻譯為「騎槍」。
+** 然而在目前已登場的所有Lancer中，只有阿爾托莉亞、加雷斯和唐吉訶德是使用騎槍，其他人使用的頂多是「長矛」（Spear）。
+** <s>也就是說其他人都不能算是「Lancer」，只能說是「Spearman/Spearer」</s>
+
+=== 職階固有技能 ===
+
+* 對魔力：對魔術的抵抗力
+** FGO中的效果為降低敵方施加異常狀態的成功率
+
+=== 基本能力 ===
+{| class="wikitable"
+!筋力
+!耐久
+!敏捷
+!魔力
+!幸運
+|-
+|B
+|C
+|A
+|D
+|E
+|}
+
+== 列表 ==
+{| class="wikitable sortable"
+!名稱
+!初登場作品
+!原出處
+!持有名槍
+!備考
+|-
+|[[Cú Chulainn (Fate/stay night)|庫夫林]]
+|Fate/stay night
+|歐洲：凱爾特神話
+|Gae Bolg
+|
+|-
+|[[Diarmuid Ua Duibhne (Fate)|迪爾穆德·奧·德利暗]]
+|Fate/Zero
+|歐洲：凱爾特神話
+|Gae Dearg
+Gae Buidhe
+|雙槍
+|-
+|[[Vlad al III-lea (Fate/EXTRA)|弗​​拉德三世（EXTRA）]]
+|Fate/EXTRA
+|羅馬尼亞：十五世紀
+|無
+|
+|-
+|[[Báthory Erzsébet (Fate)|伊莉莎白·巴托里]]
+|Fate/EXTRA CCC
+|匈牙利：十六、十七世紀
+|Csejte
+|槍由生前的居城賽伊特變化而成
+|-
+|[[Vlad al III-lea (Fate/Apocrypha)|弗​​拉德三世（Apocrypha）]]
+|Fate/Apocrypha
+|羅馬尼亞：十五世紀
+|無
+|
+|-
+|[[Karna (Fate)|迦爾納]]
+|Fate/Apocrypha
+|印度：《摩訶婆羅多》
+|Vasavi shakti
+|
+|-
+|[[武蔵坊弁慶 (Fate)|武藏坊弁慶]]
+|Fate/Apocrypha（廢案）
+|日本：平安時代末期
+|無
+|使用的不是槍，而是薙刀
+|-
+|[[Cú Chulainn (Fate/Prototype)|庫夫林〔Prototype〕]]
+|Fate/Prototype
+|歐洲：凱爾特神話
+|Gae Bolg
+|
+|-
+|[[Brynhild (Fate)|布倫希爾德]]
+|Fate/Prototype 蒼銀的碎片
+|北歐：北歐神話
+|無
+|
+|-
+|[[李書文 (Fate)|李書文]]
+|Fate/KOHA-ACE 帝都聖杯奇譚
+|中國：清～民國時期
+|無
+|在琥珀ACE受召喚時為技藝最精湛的老年期，Grand Order則以青年時期作為Lancer受召喚
+<s>就算沒有槍依然能徒手爆殺Assassin</s>
+|-
+|[[Enkidu (Fate)|恩奇都]]
+|Fate/strange Fake
+|中亞：巴比倫文明
+|<s>自身即槍</s>無
+|<s>這位根本沒拿武器好嗎</s><s>所謂的終極的Lancer，就是我自身化為槍……</s>
+|-
+|[[Sigma (Fate)|西格瑪]]
+|Fate/strange Fake
+|Type-Moon原創
+|無
+|因為整場聖杯戰爭過於異常，發生了本應為Master的人類變成Lancer的情況
+<s>所謂的終極的Lancer，就是我自身成為槍兵……</s>
+<s>本人連把長柄武器都沒有</s>
+|-
+|<s>卓別林</s>
+|<s>Fate/strange Fake</s>
+|<s>英國：二戰時期</s>
+|<s>手杖</s>
+|由於不能曝露自己的從者是Watcher，由西格瑪自己瞎掰出的從者
+|-
+|[[Leonidas I (Fate)|列奧尼達一世]]
+|Fate/Grand Order
+|希臘：斯巴達
+|無<s>列奧尼達斯之矛</s>
+|
+|-
+|[[Romulus (Fate)|羅慕路斯]]
+|Fate/Grand Order
+|義大利：羅馬
+|羅慕路斯之槍
+|
+|-
+|[[Hector (Fate)|赫克特]]
+|Fate/Grand Order
+|希臘：特洛伊
+|Durindana
+|
+|-
+|[[Scathach (Fate)|斯卡薩哈]]
+|Fate/Grand Order
+|歐洲：凱爾特神話
+|Gae Bolg
+|
+|-
+|[[Artoria Pendragon (Fate)|阿爾托莉亞·潘德拉貢]]
+| rowspan="2" |Fate/Grand Order
+| rowspan="2" |大不列顛：亞瑟王傳說
+| rowspan="2" |Rhongomyniad
+| rowspan="2" |第一位使用騎槍戰鬥的Lancer
+|-
+|[[Artoria Pendragon (Fate)|阿爾托莉亞·潘德拉貢〔Alter〕]]
+|-
+|[[Fionn mac Cumhaill (Fate)|芬恩‧麥克庫爾]]
+|Fate/Grand Order
+|歐洲：凱爾特神話
+|Mac an Lùin
+|
+|-
+|[[Medusa (Fate)|美杜莎]]
+|Fate/Grand Order
+|希臘：希臘神話
+|Harpe
+|Harpe嚴格來說是柏修斯使用的武器
+但因為傳說中她的死亡與這把武器緊密連結在一起，因此被以Lancer職階召喚的時候會得到這把槍
+|-
+|[[Jaguar Man (Fate)|豹人]]
+|Fate/Grand Order
+|南美：阿茲提克文明
+|無
+|神話中的豹人（特斯卡特利波卡）武裝主要還是以黑曜石劍為主
+<s>不過大家都知道搞笑角色就是不按牌理出牌</s>
+|-
+|[[Parvati (Fate)|雪山神女]]
+|Fate/Grand Order
+|印度：印度神話
+|Trishula
+|用的是跟丈夫濕婆借的三叉戟
+|-
+|[[寶藏院胤舜 (Fate)|寶藏院胤舜]]
+|Fate/Grand Order
+|日本：戰國後期
+|無
+|
+|-
+|[[哪吒 (Fate)|哪吒]]
+|Fate/Grand Order
+|印度、中國神話
+|火尖槍
+|
+|-
+|[[Ereshkigal (Fate)|埃列什基伽勒]]
+|Fate/Grand Order
+|美索不達米亞神話
+|Meslamtaea
+|
+|-
+|[[Caenis (Fate)|凱妮絲]]
+|Fate/Grand Order
+|希臘：希臘神話
+|海神三叉戟
+|
+|-
+|[[Valkyrie (Fate)|瓦爾基麗]]
+|Fate/Grand Order
+|北歐：北歐神話
+|Gungnir的複製品
+|
+|-
+|[[秦良玉 (Fate)|秦良玉]]
+|Fate/Grand Order
+|中國：史實
+|白桿槍
+|第一位出自史實，沒被性轉，且在史實中就使用槍的女性Lancer
+|-
+|[[Bradamante (Fate)|布拉達曼特]]
+|Fate/Grand Order
+|法國：查理曼傳說
+|無
+|理應持有「一觸即倒！」，但這把槍卻沒變成她的寶具
+|-
+|[[Gareth (Fate)|加列斯]]
+|Fate/Grand Order
+|大不列顛：亞瑟王傳說
+|無
+|繼阿爾托莉亞之後第二位使用騎槍戰鬥的Lancer
+|-
+|[[Romulus (Fate)|羅慕路斯＝奎里努斯]]
+|Fate/Grand Order
+|義大利：羅馬
+|無
+|原為冠位從者，但可作為一般從者召喚。
+<s>冠位殺不搞暗殺，冠位術用物攻，冠位弓掄起拳頭打人，現在冠位槍也不拿槍了，冠位都是這樣的嗎？</s>
+別說沒有拿槍，攻擊模組全是在放光砲…（無誤）
+|-
+|[[宇津見繪里世]]
+|Fate/Grand Order
+|TYPE-MOON原創
+|天遡鉾
+|
+|-
+|玖賀耳之御笠
+|Fate/Grand Order
+|日本：古事記
+|無
+|土蜘蛛一隻
+|-
+|[[Vritra (Fate)|弗栗多]]
+|Fate/Grand Order
+|印度：神話
+|金剛杵
+|
+|-
+|[[Mélusine (Fate)|妖精騎士蘭斯洛特<br>美露莘]]
+|Fate/Grand Order
+|大不列顛：亞瑟王傳說<br>歐洲:民間傳說
+|
+|
+|-
+|[[Sir Percival (Fate)|珀西瓦里]]
+|Fate/Grand Order
+|大不列顛：亞瑟王傳說
+|朗基努斯之槍
+|
+|-
+|[[坂本龍馬 (Fate)|坂本龍馬]]
+|Fate/Grand Order
+|日本：幕末
+|天逆鉾
+|槍可以變為刀和手槍<s>，現在的Lancer也跟Archer一樣不務正業了</s>
+|-
+|[[Don Quixote (Fate)|唐吉訶德]]
+|Fate/Grand Order
+|文學：《唐吉訶德》
+|
+|繼阿爾托莉亞和加列斯之後，第三位使用騎槍戰鬥的Lancer
+|-
+|[[Britomart (Fate)|布里托瑪爾提]]
+|Fate/Grand Order
+|文學：《仙后》<br>TYPE-MOON原創
+|
+|
+|-
+|[[Bhima (Fate)|怖軍]]
+|Fate/Grand Order
+|印度：摩訶婆羅多
+|
+|拿的是棍棒
+|-
+|[[玉藻前 (Fate)|玉藻前]]
+|Fate/Grand Order
+|日本：平安時代末期
+|無
+|夏季泳裝式樣，用的槍是遮陽傘（無誤）
+|-
+|[[清姬 (Fate)|清姬]]
+|Fate/Grand Order
+|日本：《安珍與清姬》
+|無
+|夏季泳裝式樣，用的是薙刀
+|-
+|[[Jeanne d'Arc (Fate)|貞德·Alter·聖誕·Lily]]
+|Fate/Grand Order
+|法國：英法百年戰爭
+|無
+|聖誕節式樣
+|-
+|[[源賴光 (Fate)|源賴光]]
+|Fate/Grand Order
+|日本：平安時代
+|金剛杵
+|夏季泳裝式樣
+|-
+|[[茨木童子 (Fate)|茨木童子]]
+|Fate/Grand Order
+|日本：傳說佚話
+|無
+|夏季泳裝式樣
+|-
+|[[Meltryllis|謎之Alterego・Λ]]
+|Fate/Grand Order
+|TYPE-MOON原創
+|無
+|夏季泳裝式樣
+|-
+|[[芥雛子|虞美人]]
+|Fate/Grand Order
+|中國：秦末楚漢相爭時期
+|
+|夏季泳裝式樣，因為用的槍是丈夫項羽借用的，所以可能是鼎鼎大名的霸王槍
+|-
+|[[Biscione (Fate)|比修內]]
+|Fate/Grand Order
+|義大利：米蘭地區傳說
+|
+|
+|-
+|[[Ashoka (Fate)|阿育王]]
+|Fate/Grand Order
+|印度：孔雀王朝
+|阿育王柱
+|
+|-
+| [[Indra (Fate)|因陀羅]]
+| Fate/Grand Order
+|印度：《摩訶婆羅多》
+| Varja
+| 
+|-
+| [[Demeter (Fate)|德墨忒爾]]
+| Fate/Grand Order
+| 歐洲：希臘神話
+| Adamas Chronos
+| 手持的是鐮刀，由父親克羅諾斯在閹割天空神烏拉諾斯時所用的刀刃的碎片鍛造而成
+|-
+|[[Longinus (Fate)|朗基努斯]]
+|Fate/Requiem
+|羅馬：基督教傳說
+|朗基努斯之槍
+|
+|-
+|[[長尾景虎 (Fate)|長尾景虎]]
+|GUDAGUDA ACE（暫定）
+昭和戰國繪卷
+|日本：戰國時代
+|毘天寶槍
+|使用包括長槍在內的八種武器進行戰鬥，設定上槍的名號已失傳
+|-
+|[[Mary Anning (Fate)|用漫畫了解的Lancer<br>瑪麗．安寧]]
+|用漫畫了解FGO！
+|英國：史實
+|無
+|將'''活生生的魚龍和蛇頸龍'''當成突刺武器來使用
+|-
+|[[鈴鹿御前 (Fate)|鈴鹿御前〔聖誕〕]]
+|Fate/Grand Order Arcade
+|日本：室町時期
+|
+|聖誕節式樣
+|-
+|[[Jeanne d'Arc (Fate)|貞德·Alter]]
+|Fate/Samurai Remnant
+|法國：英法百年戰爭
+|
+|並不是[[Gilles de Rais (Fate)|吉爾・德・萊斯]]用聖杯創造出來的版本，而是貞德本人的黑化版<br>作為 Alter化的代價，能力遭到大幅弱化
+|}
+
+* 除了上述這些成員以外，曾明確提及具有Lancer適性的還有[[Hēraklēs (Fate)|赫拉克勒斯]]、[[呂布奉先 (Fate)|呂布奉先]]、[[Achilles (Fate)|阿基里斯]]、[[森長可 (Fate)|森長可]]、[[Penthesilea (Fate)|彭忒西勒亞]]、[[Iāsōn (Fate)|伊阿宋]]、[[Gray (TYPE-MOON)|格蕾]]、[[Wandjina (Fate)|汪吉納]]，但都未曾登場。
+
+== 備註 ==
+<references />
+[[Category:TYPE-MOON]]
+[[Category:Lancer (Fate)|*]]
+[[分類:職階 (Fate)]]
+[[分類:Fate系列]]
