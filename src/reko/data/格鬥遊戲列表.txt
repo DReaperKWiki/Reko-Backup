@@ -882,14 +882,14 @@
 * 首個有連段概念的格鬥遊戲，通常技中可以再帶入連段，終結對手時甚至可以使用更華麗的Ultra Combo以及Ultimate Combo，當然也有可以中斷對方連段的Combo Breaker，可算是立下了日後連段類格鬥遊戲（コンボゲー）的基礎
 
 ==F K Digital Pty Ltd.{{ref|Pty Ltd.指proprietary limited、澳洲有限公司設立形式}}／福克科技 ==
-* <s>名義上是澳洲公司，開發人員卻有很多台灣人。</s>為之前製作過以動漫角色COSPLAY+機戰風為主題的2DFM同人格鬥遊戲《超級COSPLAY大戰U（SCWU）》的Team FK的一部分原班人馬另設的公司
+* <s>名義上是澳洲公司，開發人員卻有很多台灣人。</s>為之前製作過以動漫角色COSPLAY+機戰風為主題的2DFM同人格鬥遊戲《超級COSPLAY大戰U（SCWU）》的Team FK的一部分原班人馬（包含總監Mickey Lin／SUNEO以及其兄弟Michael Lin／GIANT!!）另設的公司，主要開發部門在澳洲，分部在台灣
 ===CHAOS CODE/カオスコード/混沌代碼 ===
 * 由F K Digital開發、Arc System Works代理的格鬥遊戲。遊戲風格偏向コンボゲー。
 * 原本街機版使用的是AMI公司提供的主機板，但由於AMI在2009年破產使得製作小組必須另尋主機板，發售日也大幅延後，而後使用的是SEGA的RINGWIDE主機板。
 * 遊戲最大特徵是除角色本身的招式外還額外提供4個必殺技讓玩家從中選兩個使用，增加比賽戰略性。整體人物畫風和系統較貼近日本的2DFTG。
 * <s>剛上市就挖出一堆BUG和爆血連段，八成被ARC帶衰。</s>
 * 2013年的PS3版不能連線對戰。2016年販賣的PS4版以及2017年的Steam版本才開始支援，2023年3月推出Switch版。
-* 原先預定推出續作《CHAOS CODE NEXT》，但後來因製作小組的主力成員去世等原因而無法完成。F K Digital也在2020年2月宣布中止所有新遊戲的開發，而後於2023年的EVO JAPAN宣布重啟製作並更名為《Chaos Code : '''NE'''MESIS E'''X'''PERIMEN'''T'''》，2024年宣布優先推出EXA街機板並於2025年夏天稼動
+* 原先預定推出續作《CHAOS CODE NEXT》，但後來因製作小組的主力成員Michael Lin去世等原因而無法完成。F K Digital也在2020年2月宣布中止所有新遊戲的開發，而後於2023年重新振作之後，於EVO JAPAN宣布重啟製作並更名為《Chaos Code : '''NE'''MESIS E'''X'''PERIMEN'''T'''》，並於2024年宣布推出在EXA街機，之後於2025年夏天稼動
 
 ==Incredible Technologies ==
 

@@ -216,7 +216,9 @@
 |-
 | <s>18</s>20 || Baby Nightmare<br>（ベビーナイトメア） || [[機動戰士鋼彈UC|可能性]] || rowspan="2"|多位遊玩過電玩遊戲《[[勇者鬥惡龍系列#衍生作品|<s>勇者鬥惡龍 創世小玩家</s>]][[Minecraft|ブロックリエイト]]》、過去都曾遭遇過自然災害的小孩 || 作為幼體惡夢使者雖然缺乏戰鬥力，但有著能扛下各種攻擊的韌力 || 劇中第一體怪事課確認的惡夢使者<s>，莫表示前面的遇到時都不好拍照所以在夢裡都沒有拍下來</s>
 |-
-| 21 || Disaster Nightmare<br>（ディザスターナイトメア） || 超自然災害 || ? || 浮現在夢的主人們的深層意識中的[[大魔王]]<br>隨著多體Baby Nightmare與夢境裡魔王城內的石像融合而誕生
+| 21 || Disaster Nightmare<br>（ディザスターナイトメア） || 超自然災害 || 能召喚出奇幻生物引發各種超自然天災 || 浮現在夢的主人們的深層意識中的[[大魔王]]<br>隨著多體Baby Nightmare與夢境裡魔王城內的石像融合而誕生
+|-
+| 22 || Catastrophe [[獵奇|Gore]] Nightmare<br>（カタストロフゴアナイトメア） || 崩壞 || 万津莫 || ? || 潛藏在比深層意識還要更深的領域裡
 |-
 | エージェント美浪 || キャットナイトメア || ? || ? || ? ||
 |}
@@ -329,6 +331,8 @@
 |-
 | 15 || Plasma Booster<br>（プラズマブースター） || Booster || Good Luck! Rider!<br>Ze-Ze-Ze-Ze-Zeztz!<br>Booster! || Inazuma Plasma的[[上位互換]]版，透過增大能量供給改善持續時間短的缺點，能在對手意識到之前便以超高速將之毀滅 || ブースターバニッシュ<br>ブースターオーバーバニッシュ ||
 |-
+| 22 || Catastorm<br>（カタストロム） || Dual Mare || パルバライズ！Rider!<br>Ze-Ze-Zeztz!<br>Catastorm! || 身上的強化被膜以粒子狀的暗黑物質構成，顯現出Catastrophe Gore Nightmare的力量同時勾起變身者內心深處的破壞衝動<br>全身的能力增強路會不斷提供次元流體，強化肉體同時猛烈地填補劇烈的消耗<br>能利用超視覺看穿目標核心的力場=崩壞的起點，並運起足以讓變身者自毀的破壞力[[一拳超人|一擊將之粉碎]] || カタストロム・クラッシャー ||
+|-
 | HBV || Impact Zeroider<br>（インパクトゼロイダー） || Zeztz & Code Zeroider || ? || ? || ? || 
 |}
 {{hidef|}}
@@ -383,23 +387,25 @@
 |-
 | {{color|white|blue|Projection<br>（プロジェクション）}} || 司「光學迷彩」之夢的Capsem<br>會投影出使用者的分身 || 
 |-
-| 8 || {{color|white|green|Recovery<br>（リカバリー）}} || 司「復原」之夢的Capsem<br>會修復一切使之復元 || 
+| 8 || {{color|white|green|Recovery<br>（リカバリー）}} || 司「復原」之夢的Capsem<br>會修復使用者以外的一切使之復元 || 
 |-
-| rowspan="2"|10 || {{color|white|green|Barrier<br>（バリア）}} || 司「防禦」之夢的Capsem<br>會製作出防護罩 || 
+| rowspan="2"|10 || {{color|white|green|Barrier<br>（バリア）}} || 司「防禦」之夢的Capsem<br>會製作出具無敵防禦力的防護罩 || 
 |-
-| {{color|white|purple|Wonder<br>（ワンダー）}} || 司「不可思議」之夢的Capsem<br>會發揮出超常的力量並能自由操縱 || 
+| {{color|white|purple|Wonder<br>（ワンダー）}} || 司「不可思議」之夢的Capsem<br>會發揮出各種超常的力量並能自由操縱 || 
 |-
-| 11 || {{color|black|#f0f0f0|Erase<br>（イレイス）}} || 司「消去」之夢的Capsem<br>會讓使用者能自由消除包括[[JOJO第四部登場人物一覽#虹村億泰|空間]]在內的一切，可把其他Capsem消滅 ||
+| 11 || {{color|black|#f0f0f0|Erase<br>（イレイス）}} || 司「消去」之夢的Capsem<br>會消除包括[[JOJO第四部登場人物一覽#虹村億泰|空間]]、[[色彩]]及性質在內的一切，可把其他Capsem的能力無效化並將之消滅 ||
 |-
 | 13 || {{color|white|purple|Gravity<br>（グラビティ）}} || 司「重力」之夢的Capsem<br>會讓使用者能自由操縱重力 ||
 |-
-| 14 || {{color|black|yellow|Plasma<br>（プラズマ）}} || 司「<s>閃</s>電漿」之夢的Capsem<br>會讓使用者能使出超加速 || 莫在自己第一次被雷劈的惡夢中從落雷裡生成出來
+| 14 || {{color|black|yellow|Plasma<br>（プラズマ）}} || 司「<s>閃</s>電漿」之夢的Capsem<br>會讓使用者能自由操縱閃電的力量，使出超越光速的超高速移動 || 莫在自己第一次被雷劈的惡夢中從落雷裡生成出來
 |-
 | 15 || {{color|black|#f0f0f0|Booster<br>（ブースター）}} || Code Zeroider的動力源<br>會讓使用者進一步迸發出力量 || 
 |-
-| 20 || {{color|black|yellow|Shock<br>（ショック）}} || 司「衝擊」之夢的Capsem ||
+| 20 || {{color|black|yellow|Shock<br>（ショック）}} || 司「衝擊」之夢的Capsem<br>會讓使用者製造出強力衝擊、改變精神 ||
 |-
-| 21 || {{color|white|red|Panic<br>（パニック）}} || 司「混亂」之夢的Capsem ||
+| 21 || {{color|white|red|Panic<br>（パニック）}} || 司「混亂」之夢的Capsem<br>會讓使用者能喚起目標內心的恐懼、改變精神 ||
+|-
+| 22 || {{color|white|black|Dual Mare<br>（デュアルメア）}} || 源自Catastrophe Gore Nightmare之力的Capsem<br>外裝甲以凝固的暗黑物質製成，即使受到重創也能自我修復<br>可變形成無人機在空中漂浮，具高匿蹤能力，配備具現化裝置能製造投影或發射光彈攻擊<br>展開並裝上Zeztz Driver後會藉由自左右兩側放出流向相反的旋渦製造類似{{wp|Quantum_channel|量子通道|lang=en}}的現象，發展出超越一般Capsem層級的固有能力 ||
 |-
 | HBV || {{color|black|#f0f0f0|Zeztz & Code Zeroider<br>（ゼッツ&コードゼロイダー）}} || ? ||
 <!-- |-
@@ -525,7 +531,7 @@
 
 * Breakam Breaker（ブレイカムブレイカー）
 ** 專用武裝，透過把前後段零件以不同方式組裝可從大劍、<s>斧</s>指虎、槍三種特化模式之間切換
-*** 大劍/指虎模式的刀刃是正反交替排列的形狀，斬砍時會造成嚴重損傷並留下不易恢復的傷口
+*** 大劍/指虎模式的刀刃是正反交替排列的形狀，劈砍時會造成嚴重損傷並留下不易恢復的傷口
 *** <s>因為正手握持的話就真的只是把斧頭，</s>指虎模式下以反手握持，握把部分底部的反刃朝上
 ** 本體（後段零件握把部分）內儲存了超壓縮能量，即使不擬裝也能直接拿來使用
 ** <s>偽裝真差，一看就知道是塗成Evol Driver配色的Breakam Zeztzer</s>
