@@ -551,12 +551,12 @@
 |-
 |五十鈴（Isuzu）
 |1916年
-|117 Coupe, Elf(NP)
+|117 Coupe, Elf(NP), VehiCross
 |目前以生產大型車為主要業務
 |-
 |大發（Daihatsu）
 |1907年3月1日
-|Copen, Storia/Sirion, Midget
+|Copen, Storia/Sirion, Midget, Move
 |生產小型車為主，目前為豐田子公司<br>台灣代理過去為羽田、合同興，由於原廠轉內銷不再引進新車<br><s>{{youtube|aP-f9cUGYlk|かくかくしかじか}}[[鹿乃子乃子虎視眈眈|四角いムーブ]]</s>
 |-
 |日野（Hino）
@@ -724,7 +724,7 @@
 |捷豹（Jaguar）
 |1922年9月4日
 |E-Type, XJ220, XKR ,C-X75
-|賽車名廠之一，除了跑過耐久賽還短暫參加過F1<ref>為當前勁旅紅牛車隊的前身</ref><br>現為Tata旗下品牌
+|賽車名廠之一，除了跑過耐久賽還短暫參加過F1<ref>為當前勁旅紅牛車隊的前身</ref><br>現為Tata旗下品牌<br>{{censored|2024年以<s>完全沒有車只有一堆DEI模特走秀的</s>「Copy Nothing」廣告以及更改標誌為首的一系列<s>騷</s>操作重創聲譽，外界質疑為SJW作為}}
 |-
 |奧斯頓馬丁（Aston Martin）
 |1913年
