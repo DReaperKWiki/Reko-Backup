@@ -303,7 +303,8 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/1108366_orig.jpg
 * <s>有不少人想讓他捅自己，最好連刀柄都一起捅進來</s>
 
 === 包丁藤四郎 ===
-https://static.wikia.nocookie.net/touken-ranbu/images/3/3f/Houchou.png https://static.wikia.nocookie.net/touken-ranbu/images/8/83/Houchou-Kiwame.png
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%8C%85%E4%B8%81%E8%97%A4%E5%9B%9B%E9%83%8E/::ref/%E5%8C%85%E4%B8%81%E8%97%A4%E5%9B%9B%E9%83%8E.png
+https://static.wikia.nocookie.net/touken-ranbu/images/8/83/Houchou-Kiwame.png
 * 繪：汲田。CV：宮田幸季。
 * 刀帳番號：51番→52番。刀派：粟田口。身高：128&nbsp;cm。
 * 2016/10/18更新後實裝，在期間限定的<s>大阪城地下鐵八期工程</s>活動地圖《地下に眠る千両箱》中通過50層後取得。
@@ -508,7 +509,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/4/43/Hyuuga_MasamuneKiwame
 
 === 北谷菜切 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/1/1e/Chatannakiriin.png
-https://static.wikia.nocookie.net/touken-ranbu/images/e/e6/Chatannakiri-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/f/fa/Chatannakiri-Kiwamein.png
 * 繪：なまにくATK。 CV：仲村宗悟。演：戸塚世那 (舞台劇)。
 ** 聲優和千代金丸一樣出身沖繩<s>，仲村少見的少年型角色</s>
 *刀帳編號：170番→171番。身高：123&nbsp;cm。
@@ -849,7 +850,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E6%B5%A6%E5%B3%B6%E8%99%8E%E5%BE%B
 
 === 籠手切江（篭手切江） ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E7%AF%AD%E6%89%8B%E5%88%87%E6%B1%9F/::ref/kotegiri.JPG
-https://static.wikia.nocookie.net/touken-ranbu/images/4/49/Kotegiri-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/e/e8/Kotegiri-Kiwamein.png
 * 繪：煮たか。CV：広瀬裕也。演：田村升吾 (音樂劇)/大見拓土 (舞台劇)。
 * 刀帳編號：144番→145番。刀派：江。身高：161&nbsp;cm。
 ** 最早實裝時沒有標示刀派，直到一年多後同派的豐前江實裝時才一併把他的刀派補了上去。
@@ -1624,7 +1625,8 @@ https://static.wikia.nocookie.net/touken-ranbu/images/8/8f/Nansen-Kiwamein.png
 
 === 山姥切長義 ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E9%95%B7%E7%BE%A9/::ref/%E7%84%A1%E9%A1%8C.jpg
-https://static.wikia.nocookie.net/touken-ranbu/images/e/eb/Chougi-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/b/b4/Yamanbagiri_Chougi-Kiwamein.png
+
 * 繪：⑪。CV：高梨謙吾。演：水江建太 (音樂劇)/梅津瑞樹 (舞台劇)。
 * 刀帳編號：158番→159番。身高：173&nbsp;cm。
 ** <s>來自「以下略五十八字」的[[壽限無|捏他]]</s><ref>因為山姥切長義為大磨上無銘，故刀匠國廣打造出仿刀之後在本科刻上了長達六十二字的刀銘「本作長義天正十八年庚寅五月三日ニ九州日向住国広銘打天正十四年七月廿一日小田原参府之時従屋形様被下置也長尾新五郎平朝臣顕長所持」，重要文化財名稱表記常會省略成「刀　銘 本作長義（以下略五十八字）」。</ref>
@@ -1792,6 +1794,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/f/f7/Suishinshi.png
 * <s>幾乎蓋住全身的斗篷常被拿來玩梗</s>
 * 可能為了避免表情不小心崩掉影響形象，除了十周年祝裝以外，他所有裝束包括內番服乃至輕裝都一定要死守遮住嘴巴不能露出來<s>然而這並沒有什麼卵用只讓人覺得有夠可愛</s>。
 * <s>百夜優一郎</s>
+* <s>宮村伊澄</s>
 * <s>男士高中生之一</s>
 
 === 源清麿 ===
@@ -1889,7 +1892,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/0/08/Murakumo.png
 * <s>くそっ！ 本科：嗯？</s>
 
 === 稻葉江（稲葉江） ===
-https://static.wikia.nocookie.net/touken-ranbu/images/b/b5/Inaba.png
+https://static.wikia.nocookie.net/touken-ranbu/images/a/a5/Inaba_Gouin.png
 * 繪：萩谷薫。CV：[[武內駿輔]]。
 * 刀帳編號：210番。刀派：江。身高：183&nbsp;cm。
 * 2022/4/26更新後作為期間限定活動《秘宝<s>江</s>の里～花集めの段～》收集<s>0.8大包平</s>80,000玉的獎勵實裝，無法透過鍛刀取得。
@@ -1923,7 +1926,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/e/e4/Ishida_Masamunein.png
 * 言談中相當重視報告記載詳實且嚴守交期、開支是否有在預算內等事務規則，可謂事無鉅細、一絲不苟<s>，滿滿的女秘書屬性</s>。
 
 === 孫六兼元 ===
-https://static.wikia.nocookie.net/touken-ranbu/images/2/2f/Magoroku.png
+https://static.wikia.nocookie.net/touken-ranbu/images/9/9e/Magoroku_Kanemotoin.png
 * 繪：lack。CV：[[杉田智和]]。演：砂川脩弥 (舞台劇)。
 * 刀帳編號：224番。身高：182&nbsp;cm。
 * 2023/10/17更新後以限定鍛刀實裝，鍛刀時間為3:00:00，指定配方為'''All 700'''。
@@ -1933,7 +1936,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/2/2f/Magoroku.png
 * <s>[[銀魂|萬事屋]][[坂田銀時|阿兼]]</s>
 
 === 後家兼光 ===
-https://static.wikia.nocookie.net/touken-ranbu/images/b/b6/Goke.png
+https://static.wikia.nocookie.net/touken-ranbu/images/7/77/Goke_Kanemitsuin.png
 * 繪：およ。CV：[[福山潤]]。演：佐奈宏紀 (音樂劇)。
 * 刀帳編號：226番。刀派：長船。身高：187&nbsp;cm。
 * 2023/12/19更新後作為連隊戰活動收集<s>1大包平</s>100,000御歲魂的獎勵實裝，若繼續收集至<s>2大包平</s>200,000及<s>3大包平</s>300,000可繼續獲得至最多三把。無法透過鍛刀取得。
@@ -2005,6 +2008,12 @@ https://static.wikia.nocookie.net/touken-ranbu/images/3/3b/Futasujihi_Sadamunein
 ** <s>請他吃便當還會說他只要紅豆麵包配牛奶就好</s>
 ** '''本體目前由刀劍亂舞原作的Nitroplus公司收藏'''，在公開當天的直播節目中也展出了仿品。
 * <s>大貞奶、二胸筋</s>
+
+=== 雲重 ===
+https://static.wikia.nocookie.net/touken-ranbu/images/5/53/Unjuuin.png
+* 繪：ぶくろて。CV：仲村宗悟。
+* 刀帳編號：254番。刀派：鵜飼。身高：174&nbsp;cm。
+* 2026/2/12更新後作為期間限定活動《戦術強化訓練～ちよこ大作戦～》刮刮樂收集<s>1大包平</s>100,000<s>千代子</s><ref>中間不是小的ょ而是大的よ所以不是巧克力，似乎是在捏他刀鐔上的心形鏤空圖案「猪口」（ちよこ）。</ref>點數的獎勵實裝，繼續收集到<s>2大包平</s>200,000可獲得第二振，此外還可在九宮格剪影隨機出現最多二次。無法透過鍛刀取得。
 
 == 主條目 ==
 * [[刀劍亂舞]]
