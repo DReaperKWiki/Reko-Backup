@@ -327,6 +327,16 @@
 名為織的夢之餘韻。</b>
 |}
 
+==== 泳裝Moon Cancer ====
+{| class="wikitable" style="margin: 1em auto 1em auto; text-align:center;"
+! 
+! 名稱
+|-
+|rowspan="2"|[[File:境界ネコ帽子.jpg|300px|center]]
+|style="color:purple;"|<b>境界貓帽子</b>
+|-
+|<b>在多舛的命運下，於遠離故鄉的異地，<br>也能孕育出溫暖的情誼。<br><br>在不怎麼情願的旅途中，<br>有時也會對隨意購買的物品產生愛意。<br><br>任性的貓咪深深地戴上帽子，心想，好！<br>並打起精神，克服了無理的難題。<br>「這或許不是什麼好東西，但送給你。<br>　算是報答你的照顧。」<br><br>在走廊上，放著夏天象徵的帽子，<br>以及不知在哪裡聽過的，五件寶物。</b>
+|}
 === 情人節贈禮禮裝 ===
 ==== Saber ====
 {| class="wikitable" style="margin: 1em auto 1em auto; text-align:center;"
@@ -338,6 +348,7 @@
 |-
 |「兩儀式」（Saber）贈予的情人節巧克力。<br><br><br>雖說起因為何尚不得而知，<br>但這是她趁現界的機會，前往著名百貨店，<br>經過了仔細斟酌之後才購入的高級和菓子。<br><br>「我做夢都沒有想到居然能有這樣的經驗呢。」<br><br>據說在購物過程中，她的側顏露出了不為人知的笑容，<br>宛若月下美人。
 |}
+
 ==== Assassin ====
 {| class="wikitable" style="margin: 1em auto 1em auto; text-align:center;"
 ! 
@@ -347,6 +358,17 @@
 |style="color:red;"|紅白巧克力
 |-
 |兩儀式（Assassin）贈予的情人節巧克力。<br><br><br>極為普通的愛心型巧克力。手工製作。<br>配有紅白裝飾。很有喜慶感。<br>不過製作的時候不知道心中產生了什麼念頭，<br>愛心上殘留有被小刀刺穿的痕跡。<br><br>貓咪焦慮的時候，就會亂刀捅枕頭，<br>而得意開心的時候，就會刺中巧克力的死。
+|}
+
+==== 泳裝Moon Cancer ====
+{| class="wikitable" style="margin: 1em auto 1em auto; text-align:center;"
+! 
+! 名稱
+|-
+|rowspan="2"|[[檔案:五宝月団子.jpg|300px|置中]]
+|style="color:purple;"|五寶月糰子
+|-
+|玉兔式贈予的情人節禮物。<br><br><br>在夏日的陽光下，輕輕遞上的和菓子組合。<br>冰涼的綠茶和五色糰子。<br>糰子模仿的是輝夜姬被求婚時的<br>五樣寶物。<br>真想坐在走廊邊欣賞煙火邊品嚐，<br>但那就留待下一次機會吧。
 |}
 
 == 其他資料 ==

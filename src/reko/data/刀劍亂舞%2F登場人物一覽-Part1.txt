@@ -21,7 +21,7 @@
 ** 不過到第八地圖戰場條件回歸以原野日戰為主、對手能力又大幅提升的情況下，先手優勢逐漸變得不明顯，攻防能力偏低的弱點反而會暴露出來。
 
 === 今劍（今剣） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/5392493.jpg https://static.wikia.nocookie.net/touken-ranbu/images/0/0b/Imanotsurugi-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/3/35/Imanotsurugiin.png https://static.wikia.nocookie.net/touken-ranbu/images/0/0b/Imanotsurugi-Kiwame.png
 * 繪：しきみ。CV：[[山下大輝]]。演：大平峻也 (音樂劇)。
 * 刀帳編號：11番→12番。刀派：三条。身高：123&nbsp;cm。
 * 源義經的護身刀{{censored|兼自刃刀。}}
@@ -50,7 +50,7 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/5392493.jpg http
 * <s>[[艦隊Collection/登場人物一覽-part2#朝霜（あさしも，Asashimo）|朝霜]]</s>
 
 === 平野藤四郎 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/7575728_orig.jpg https://static.wikia.nocookie.net/touken-ranbu/images/4/4c/Hirano-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/2/2b/Hirano_Toushirouin.png https://static.wikia.nocookie.net/touken-ranbu/images/4/4c/Hirano-Kiwame.png
 * 繪：問七。CV：浅利遼太。
 * 刀帳編號：31番→32番。刀派：粟田口。身高：132&nbsp;cm。
 * 稀有小學生一號。
@@ -71,7 +71,7 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/7575728_orig.jpg
 * [[中之人]]也是本遊戲的玩家。
 
 === 厚藤四郎 ===
-https://static.wikia.nocookie.net/touken-ranbu/images/8/81/Atsu.png
+https://static.wikia.nocookie.net/touken-ranbu/images/2/22/Atsushi_Toushirouin.png
 https://static.wikia.nocookie.net/touken-ranbu/images/d/d4/Atsu-Kiwame.png
 * 繪：汲田。CV：山下大輝。
 * 刀帳編號：33番→34番。刀派：粟田口。身高：154&nbsp;cm。
@@ -154,7 +154,8 @@ https://static.wikia.nocookie.net/touken-ranbu/images/9/97/Shinano-Kiwame.png
 * <s>[[リドル・ローズハート|ハーツラビュル寮的寮長]]</s>
 
 === 前田藤四郎 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/6200033_orig.jpg https://static.wikia.nocookie.net/touken-ranbu/images/4/4b/Maeda-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/5/59/Maeda_Toushirouin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/4/4b/Maeda-Kiwame.png
 * 繪：問七。CV：入江玲於奈。演：大崎捺希 (舞台劇)。
 * 刀帳編號：39番→40番。刀派：粟田口。身高：130&nbsp;cm。
 * 以主人得名。正如圖鑑說明一樣沒什麼功績<s>的[[陰影人|透明人]]</s>。
@@ -172,7 +173,8 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/6200033_orig.jpg
 * <s>[[艦隊Collection/登場人物一覽-part6#Z3 Max Schultz（マックス・シュルツ）|外國艦Z3]]</s>
 
 === 秋田藤四郎 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/198461_orig.jpg https://static.wikia.nocookie.net/touken-ranbu/images/a/a4/Akita-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/7/7c/Akita_Toushirouin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/a/a4/Akita-Kiwame.png
 * 繪：タカオカ。CV：山谷祥生。
 * 刀帳編號：41番→42番。刀派：粟田口。身高：125&nbsp;cm。
 * 原主是水軍出身的秋田実季，因而得名。
@@ -190,7 +192,7 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/198461_orig.jpg 
 * <s>阿修悠太</s><ref>《B-PROJECT》的角色，除了不同中之人配音外，長相及配色也差不多相近。<s>根本是（ry</s></ref>
 
 === 博多藤四郎 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/697530812.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/e/e8/Hakata_Toushirouin.png
 https://static.wikia.nocookie.net/touken-ranbu/images/2/28/Hakata-Kiwame.png
 * 繪：問七。CV：大須賀純。演：木津つばさ (舞台劇)。
 **聲優大須賀純同樣為九州出身。
@@ -228,7 +230,8 @@ https://static.wikia.nocookie.net/touken-ranbu/images/2/28/Hakata-Kiwame.png
 * 中之人也是玩家<s>，每當碰到戰擴或限鍛等會噴資源的活動就會表示自己本丸的博多又露出了死魚眼或開始胃痛</s>。
 
 === 亂藤四郎（乱藤四郎） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/5084296_orig.jpg https://static.wikia.nocookie.net/touken-ranbu/images/f/f8/Midare-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/5/50/Midare_Toushirouin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/f/f8/Midare-Kiwame.png
 * 繪：Digital Hearts（小津）。CV：[[山本和臣]]。
 * 刀帳編號：45番→46番。刀派：粟田口。身高：145&nbsp;cm。
 * 粟田口吉光打造的刀多半是直刃，小亂的刀紋則是被稱為「亂刃」的繚亂波浪狀，因而得名。
@@ -247,7 +250,8 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/5084296_orig.jpg
 * <s>二創中經常會讓不明真相的其他刀劍在看到裙下風景後遭遇心理上的重傷</s>
 
 === 五虎退 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/4559982_orig.jpg https://static.wikia.nocookie.net/touken-ranbu/images/b/bd/Gokotai-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/0/07/Gokotaiin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/b/bd/Gokotai-Kiwame.png
 * 繪：ホノジロトヲジ。CV：粕谷雄太<ref>動畫版《花丸》劇中的小老虎們叫聲也是由粕谷雄太配音的。</ref>。演：設楽銀河 (舞台劇)。
 * 刀帳編號：47番→48番。刀派：粟田口。身高：135&nbsp;cm。
 * 曾由遣明使持有。傳說中這位使節在[[中國]]時用這把短刀趕走了五隻老虎，故得此名。
@@ -276,7 +280,8 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/4559982_orig.jpg
 * <s>髮際線堪憂</s>
 
 === 藥研藤四郎（薬研藤四郎） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/1108366_orig.jpg https://static.wikia.nocookie.net/touken-ranbu/images/4/46/Yagen-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/2/26/Yagen_Toushirouin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/4/46/Yagen-Kiwame.png
 * 繪：石商。CV：山下誠一郎。演：北村諒 (舞台劇、映画)。
 * 刀帳編號：49番→50番。刀派：粟田口。身高：153&nbsp;cm。
 * 前主畠山政長用他自盡時數次下刀而未能如願刺穿腹部，隨手一丟卻刺穿牆角的鐵質藥研（磨藥的工具），故名。
@@ -327,7 +332,8 @@ https://static.wikia.nocookie.net/touken-ranbu/images/8/83/Houchou-Kiwame.png
 * <s>粟田口的問題兒之一</s>
 
 === 愛染國俊（愛染国俊） ===
-https://cdn.wikiwiki.jp/to/w/toulove/%E6%84%9B%E6%9F%93%E5%9B%BD%E4%BF%8A/::ref/%E6%84%9B%E6%9F%93%E5%9B%BD%E4%BF%8A.jpg https://static.wikia.nocookie.net/touken-ranbu/images/e/e7/Aizen-Kiwame.png
+https://static.wikia.nocookie.net/touken-ranbu/images/1/17/Aizen_Kunitoshiin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/e/e7/Aizen-Kiwame.png
 * 繪：Digital Hearts（迫ミサキ）。CV：山下誠一郎。
 * 刀帳編號：61番→62番。刀派：来。身高：131&nbsp;cm。
 * 刃柄刻有愛染明王，故名。
@@ -384,7 +390,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%A4%AA%E9%BC%93%E9%90%98%E8%B2%9E%E5%AE%
 ** <s>為什麼要把護心鏡戴在右胸上至今仍是不解之謎</s>
 
 === 小夜左文字 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/2700904_orig.jpg https://cdn.wikiwiki.jp/to/w/toulove/%E5%B0%8F%E5%A4%9C%E5%B7%A6%E6%96%87%E5%AD%97%20%E6%A5%B5/::ref/%E5%B0%8F%E5%A4%9C%E5%B7%A6%E6%96%87%E5%AD%97%5B%E6%A5%B5%5D.JPG
+https://static.wikia.nocookie.net/touken-ranbu/images/b/b6/Sayo_Samonjiin.png https://cdn.wikiwiki.jp/to/w/toulove/%E5%B0%8F%E5%A4%9C%E5%B7%A6%E6%96%87%E5%AD%97%20%E6%A5%B5/::ref/%E5%B0%8F%E5%A4%9C%E5%B7%A6%E6%96%87%E5%AD%97%5B%E6%A5%B5%5D.JPG
 * 繪：鈴木次郎。CV：[[村瀨步]]。演：納谷健 (舞台劇)。
 * 刀帳編號：83番→84番。刀派：左文字。身高：118&nbsp;cm。
 * 傳說中原主曾被山賊殺人越貨，後由原主之子成功復仇而取回的短刀。
@@ -417,7 +423,7 @@ http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/2700904_orig.jpg
 ** <s>可能極化練滿99級在這的目標已經達成了，小夜之後一度跑去當[[ひろがるスカイ!プリキュア|光之美少年]]變身成[[夕凪翼|羽翼天使]]戰鬥</s>
 
 === 不動行光 ===
-https://cdn.wikiwiki.jp/to/w/toulove/%E4%B8%8D%E5%8B%95%E8%A1%8C%E5%85%89/::ref/%E4%B8%8D%E5%8B%95%E8%A1%8C%E5%85%892.png
+https://static.wikia.nocookie.net/touken-ranbu/images/2/22/Fudou_Yukimitsuin.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E4%B8%8D%E5%8B%95%E8%A1%8C%E5%85%89%20%E6%A5%B5/::ref/bandicam%202017-05-10%2017-33-53-485.jpg
 * 繪：minato。 CV：[[阪口大助]]。演：椎名鯛造 (舞台劇、映画)。
 *刀帳編號：120番→121番。身高：154&nbsp;cm。
@@ -605,7 +611,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/0/03/Kurikara_Gouin.png
 * <s>一群國中生加一個色情高中生和一個不良高中生</s>
 
 ===  笑面青江（にっかり青江） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/794891_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/8/84/Nikkari_Aoein.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E3%81%AB%E3%81%A3%E3%81%8B%E3%82%8A%E9%9D%92%E6%B1%9F%20%E6%A5%B5/::ref/%E3%81%AB%E3%81%A3%E3%81%8B%E3%82%8A%E9%9D%92%E6%B1%9F_%E6%A5%B5.jpg
 * 繪：べっこ。CV：間島淳司。演：新木宏典<ref>本名兼舊名為「荒木宏文」，演員本人於2023年宣布更改藝名為「新木宏典」。</ref> (音樂劇)/佐野真白 (舞台劇)。
 * 刀帳編號：19番→20番。刀派：青江。身高：167&nbsp;cm。
@@ -652,7 +658,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E3%81%AB%E3%81%A3%E3%81%8B%E3%82%8A%E9%9D%
 * 《花丸》中有著怕冷的屬性，<s>總是一臉陶醉的撫摸特上刀裝還說這是我的金蛋蛋不能給你</s>
 
 === 鯰尾藤四郎 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/3525062_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/e/ec/Namazuo_Toushirouiin.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E9%AF%B0%E5%B0%BE%E8%97%A4%E5%9B%9B%E9%83%8E%20%E6%A5%B5/::ref/%E3%81%9A%E3%81%8A_0.jpg
 * 繪：てく。CV：[[齊藤壯馬|斉藤壮馬]]。演：杉江大志 (舞台劇ー虚伝)/前嶋曜 (舞台劇ー天伝)。
 * 刀帳編號：27番→28番。刀派：粟田口。身高：158&nbsp;cm。
@@ -688,7 +694,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E9%AF%B0%E5%B0%BE%E8%97%A4%E5%9B%9B%E9%83%
 * <s>[[ヤマトタケル (Fate)|大和武尊]]</s>
 
 === 骨喰藤四郎 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/7070601_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/a/a0/Honebami_Toushirouiin.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E9%AA%A8%E5%96%B0%E8%97%A4%E5%9B%9B%E9%83%8E%20%E6%A5%B5/::ref/%E9%AA%A8%E5%96%B0%E8%97%A4%E5%9B%9B%E9%83%8E%E6%A5%B5.jpg
 * 繪：てく。CV：鈴木裕斗。演：北川尚弥 (舞台劇ージョ伝、外伝、慈伝、天伝)/三津谷亮<ref>於2023年9月底引退離開藝能界</ref> (舞台劇ー悲伝、无伝)/定本楓馬 (映画)。
 * 刀帳編號：29番→30番。刀派：粟田口。身高：159&nbsp;cm。
@@ -923,7 +929,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/0/04/Chiganemaruin.png
 * <s>其實是[[最終幻想系列]]的陸行鳥[[擬人化]]</s>
 
 === 泛塵 ===
-https://static.wikia.nocookie.net/touken-ranbu/images/a/a3/Hanjin.png
+https://static.wikia.nocookie.net/touken-ranbu/images/d/d4/Hanjinin.png
 * 繪：双葉はづき。CV：[[上村祐翔]]。演：熊谷魁人 (舞台劇)。
 * 刀帳編號：196番。身高：161&nbsp;cm。
 * 2021/1/1午前零時以為期三天的新年期間限定鍛刀實裝，鍛刀時間為40:00，指定配方為'''All 500'''。另於2021年4月~5月期間亦以同樣形式復刻登場。
@@ -961,7 +967,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/2/2c/Kashagiriin.png
 ** 2019/1/22更新後發動時從減輕傷害改為不受傷害。
 
 === 鳴狐 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/4118559_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/b/b7/Nakigitsunein.png
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%B3%B4%E7%8B%90+%E6%A5%B5&src=%E9%B3%B4%E7%8B%90_%E6%A5%B5.jpg
 * 繪：汲田。CV：[[淺沼晉太郎]]。
 * 刀帳編號：23番→24番。刀派：粟田口。身高：164&nbsp;cm。
@@ -1101,7 +1107,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%AE%97%E4%B8%89%E5%B7%A6%E6%96%8
 * <s>未亡人</s>
 
 === 加州清光 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/8834179_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/a/af/Kashuu_Kiyomitsuin.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%8A%A0%E5%B7%9E%E6%B8%85%E5%85%89%20%E6%A5%B5/::ref/%E5%8A%A0%E5%B7%9E%E6%B8%85%E5%85%89_%E6%A5%B5.jpg
 * 繪：汲田。CV：[[增田俊樹]]。演：佐藤流司 (音樂劇)/松田凌 (舞台劇)/尾上左近 (歌舞伎劇)。
 * 刀帳編號：85番→86番。身高：165&nbsp;cm。
@@ -1145,7 +1151,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%8A%A0%E5%B7%9E%E6%B8%85%E5%85%89%20%E6%
 * <s>男士高中生之一</s>
 
 === 大和守安定 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/2755145_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/a/a6/Yamatonokami_Yasusadain.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%A4%A7%E5%92%8C%E5%AE%88%E5%AE%89%E5%AE%9A%20%E6%A5%B5/::ref/%E5%A4%A7%E5%92%8C%E5%AE%88%E5%AE%89%E5%AE%9A_%E6%A5%B5.jpg
 * 繪：汲田。CV：[[市來光弘]]。演：鳥越裕貴 (音樂劇)/植田圭輔 (舞台劇)。
 * 刀帳編號：87番→88番。身高：165&nbsp;cm。

@@ -1,0 +1,46 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = Uma Musume
+|title  = [[賽馬娘 Pretty Derby|{{color|white||賽馬娘 Pretty Derby}}]]
+|style = background:transparent;
+|titlestyle = background:#3CB032; color:#FFF; -webkit-text-fill-color:#FFF;
+|groupstyle = background:#3CB032; color:#FFF;
+|liststyle  = border-left-color:transparent !important; padding:0.1em 0.2em;
+|evenstyle  = background:rgba(60,176,50,.08);
+|group1 = 角色條目
+|list1  = 
+{{Navbox subgroup
+|titlestyle = background:#3CB032; color:#FFF; -webkit-text-fill-color:#FFF;
+|groupstyle = background:#3CB032; color:#FFF;
+|liststyle  = border-left-color:transparent !important; padding:0.1em 0.2em;
+|name = 角色介紹<ref>3星馬娘以育成劇本分組；凱旋門後育成為日版進度尚未有正式譯名</ref>
+|group1 = [[賽馬娘 Pretty Derby/登場人物介紹-遊戲角色|{{color|white||角色列表}}]]
+|list1  = 
+{{Navbox subgroup
+|titlestyle = background:#3CB032; color:#FFF; -webkit-text-fill-color:#FFF;
+|groupstyle = background:#3CB032; color:#FFF;
+|liststyle  = border-left-color:transparent !important; padding:0.1em 0.2em;
+|group1 =開放育成
+|list1  = 
+{{Navbox subgroup
+|titlestyle = background:#3CB032; color:#FFF; -webkit-text-fill-color:#FFF;
+|groupstyle = background:#3CB032; color:#FFF;
+|liststyle  = border-left-color:transparent !important; padding:0.1em 0.2em;
+|group1 =初始~2星
+|list1  = [[賽馬娘 Pretty Derby/登場人物介紹-初始賽馬娘|初始]]・[[賽馬娘 Pretty Derby/登場人物介紹-1星賽馬娘|1星]]・ [[賽馬娘 Pretty Derby/登場人物介紹-2星賽馬娘|2星]]
+|group2 =[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘|{{color|white||3星賽馬娘}}]]
+|list2  = [[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part1|初期~URA]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part2|青春盃~巔峰盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part3|偶像盃~女神盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part4|凱旋門盃/U.A.F./大豊食祭]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part5|機械盃/傳說盃/無人島/溫泉盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part6|育馬者盃/]]
+}}
+|group2 =[[賽馬娘 Pretty Derby/登場人物介紹-賽馬娘(未開放育成)|{{color|white||未開放育成}}]]
+|list2  =[[賽馬娘 Pretty Derby/登場人物介紹-對手賽馬娘|對手]]・[[賽馬娘 Pretty Derby/登場人物介紹-其他賽馬娘|其他]]
+}}
+|group2 = 個人條目
+|list2  = [[特別週]]・[[無聲鈴鹿]]・[[東海帝王]]・[[目白麥昆]]・[[米浴]]・[[大和赤驥]]・[[黃金船]]・[[成田大進]]・[[北部玄駒]]・[[里見光鑽]]・[[重砲 (賽馬娘)|重砲]]・[[愛慕織姬]]・[[美浦波旁]]・[[榮進閃耀]]・[[成田路]]・[[強擊]]
+}} 
+|group2 = 分支條目
+|list2  = [[賽馬娘 Pretty Derby/登場人物介紹-遊戲角色#《蘆毛灰姑娘（シンデレラグレイ）》登場角色|漫畫角色]]・[[賽馬娘 Pretty Derby/樂曲一覽|音樂]]・[[賽馬娘 Pretty Derby (動畫版)|動畫作品]]・[[賽馬娘 Pretty Derby/延伸創作和雜學列表|延伸物和雜學]]
+| belowstyle = text-align:left
+| below      = <references />
+}}
+
+<noinclude>[[分類:賽馬娘 Pretty Derby|模板]]</noinclude>
