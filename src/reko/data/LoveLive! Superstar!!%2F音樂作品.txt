@@ -30,8 +30,9 @@
 * 私のSymphony ～2023Ver.～
 
 === OPEN THE G☆TE!!! ===
-* 7th Live主題曲單曲，2025年11月5日發售，分為2・3期生盤與Liella!盤。
+* 7th Live主題曲單曲，2025年11月5日發售，分為Liella!盤與2・3期生盤。
 * OPEN THE G☆TE!!!
+** {{youtube|mKRNpQ8nfD0|真人MV}} 
 * High！モチベーション（二期生、三期生）
 ** <s>鬼夏慘遭米女偷家</s>
 
@@ -42,7 +43,7 @@
 
 * <u>START!! True dreams</u>
 * What a Wonderful Dream!!
-** 和水團的DREAMY COLOR一樣推出{{youtube|UF2XoK3yv24|真人MV}}
+** 星團第一個{{youtube|UF2XoK3yv24|真人MV}}
 * 水色のSunday（可可）
 * Flyer’s High（千砂都）
 * みてろ！（菫）
@@ -426,8 +427,11 @@
 ** '''Shooting Voice!!'''（Liella!5人）
 ** '''異次元★♥BIGBANG'''（島村卯月、最上静香、月岡恋鐘、高海千歌、上原歩夢、澁谷かのん、日野下花帆）
 ** '''Bring the LOVE！'''（渡辺曜、上原歩夢、澁谷かのん、日野下花帆、高坂穂乃果）
-** '''愛♡スクリ～ム！'''（AiScReam）
-** '''ICE LIMIT''' （AiScReam）
+
+* 跨團小組[[AiScReam]]的歌曲，詳見[[AiScReam#音樂作品]]
+** '''愛♡スクリ～ム！'''
+** '''ICE LIMIT'''
+** '''NEXT CARD'''
 
 == 其他 ==
 * '''ジャム職人'''（香音）
