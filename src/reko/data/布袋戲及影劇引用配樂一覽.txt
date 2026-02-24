@@ -1511,7 +1511,7 @@
 |-
 ! 年份/首唱 !! 作曲者〈曲名〉!!(年份/頻道名)〈編入劇集名〉使用方式、人物/場景!!備註
 |-
-| rowspan="17"|<center>(古老民謠)</center>|| 林福裕(編)〈[https://youtu.be/KZQ341RxMxA&pp=ygUJ5aSp6buR6buR 天黑黑]〉||《金光》✉[https://youtu.be/0jkNE9yxG80 蓮花女王]<br>《霹靂》✂祈雨翁||另有[https://youtu.be/9_rHamOKjbE 鄧麗君版]、孫燕姿〈[https://youtu.be/zi8z6RPYGV0 天黑黑]〉、<br>風潮唱片〈[https://youtu.be/U9LgAHy23Ik 疏香皓齒有餘味]〉
+| rowspan="17"|<center>(年份不可考之古老民謠)</center>|| 林福裕(編)〈[https://youtu.be/KZQ341RxMxA&pp=ygUJ5aSp6buR6buR 天黑黑]〉||《金光》✉[https://youtu.be/0jkNE9yxG80 蓮花女王]<br>《霹靂》✂祈雨翁||另有[https://youtu.be/9_rHamOKjbE 鄧麗君版]、孫燕姿〈[https://youtu.be/zi8z6RPYGV0 天黑黑]〉、<br>風潮唱片〈[https://youtu.be/U9LgAHy23Ik 疏香皓齒有餘味]〉
 |-
 || 〈[https://youtu.be/KTkV7n-YeRA 桃花過渡]〉||〈恆春兮工商服務〉✉[https://youtu.be/JtRooev67SE 黑白來消息OP]|| 另有上揚唱片〈[https://youtu.be/Z2MscQvYk8c 四季情]〉
 |-
@@ -1769,7 +1769,7 @@
 |-
 ||細川たかし||〈[https://youtu.be/-nt3HfszjB4 望郷じょんから]〉|| 《天宇》✂[https://youtu.be/mVunMpFiyiU&t=115 滿身刺]、[https://youtu.be/UrFXCC1XaQE&t=9 缺角]<br>《霹靂》✎[https://youtu.be/0f26syPHNGE 雅瑟風流初登場]||使用[https://youtu.be/icyoyJG_6TM 木村好夫吉他版]、費玉清〈[https://youtu.be/u6sDBgj3Ljo 今夜擱再想你]〉、[https://youtu.be/4HKcNdeRUtM 江蕙版]曲源
 |-
-| rowspan="5" |費玉清||陳玉貞、陳信義(陳怡)〈[https://youtu.be/hsgnzIQErTo 一剪梅]〉 || '83中視〈大地風雨情/一翦梅〉[https://youtu.be/HHZcE6Irmdo OP]<br>《天宇》❏[https://youtu.be/k0_QfII6_EQ&t=70 醉一生]/[https://youtu.be/v83tdBfQtVE&t=81 憫世生]||[https://youtu.be/oKcFqyOSDzI 製作經緯(英語字幕)]<br>2020年傳播於歐美網域引發爆紅，<br>歌詞<b>『雪花飄飄北風蕭蕭』</b>的[https://knowyourmeme.com/memes/xue-hua-piao-piao 拼音轉寫也成為迷因廣傳]<br>另有謝雷〈[https://youtu.be/-5wYUDneDQc 誰人知]〉、鄧瑞霞〈[https://youtu.be/vWBkWXz1a2I 夢為遠別啼難喚]〉
+| rowspan="6" |費玉清||陳玉貞、陳信義(陳怡)〈[https://youtu.be/hsgnzIQErTo 一剪梅]〉 || '83中視〈大地風雨情/一翦梅〉[https://youtu.be/HHZcE6Irmdo OP]<br>《天宇》❏[https://youtu.be/k0_QfII6_EQ&t=70 醉一生]/[https://youtu.be/v83tdBfQtVE&t=81 憫世生]||[https://youtu.be/oKcFqyOSDzI 製作經緯(英語字幕)]<br>2020年傳播於歐美網域引發爆紅，<br>歌詞<b>『雪花飄飄北風蕭蕭』</b>的[https://knowyourmeme.com/memes/xue-hua-piao-piao 拼音轉寫也成為迷因廣傳]<br>另有謝雷〈[https://youtu.be/-5wYUDneDQc 誰人知]〉、鄧瑞霞〈[https://youtu.be/vWBkWXz1a2I 夢為遠別啼難喚]〉
 |-
 ||劉家昌〈[https://youtu.be/xrBzx1WjD7I 晚安曲]〉|| 2025 麥當勞〈晚安 早餐見〉✂[https://youtu.be/eiUfeKxqHKM 廣告曲] || 華語圈經典[https://zh.wikipedia.org/zh-tw/%E6%99%9A%E5%AE%89%E6%9B%B2_(%E5%8A%89%E5%AE%B6%E6%98%8C) 收播、關店曲]<br>另有[https://youtu.be/4UgmnnQaAIY 文章合唱演出]、<br>M記廣告－[https://youtu.be/K_Lpo0io7q4 桃山國小合唱團演出]、[https://youtu.be/YpOAnaLExLo A-Lin版]
 |-
@@ -2581,7 +2581,7 @@
 |-
 |Jamie Harrington||[https://youtu.be/kH8Y0zPqdFk Shannon's Song 1]||《霹靂》✉魔界聖母<br>'99〈屍家保鏢〉情境曲||
 |-
-| rowspan="7" |<center>亞倫派森合唱團<br>The Alan Parsons Project</center>||〈Eve〉[https://youtu.be/fLZPj-dJfJQ Lucifer]、<br>[https://youtu.be/t6k1orJWPgw 合成電音版]、[https://youtu.be/IYtRmCC8sl0 黑膠版]||《霹靂》✂[https://youtu.be/oxFZu-q6ybI 黑鋼刀鐵無敵]、✂[https://youtu.be/nl-lMb59ROo&t=55s 誅魔神光火流星]||早期武戲、奔馳/飛行特效場面均有用
+| rowspan="7" |<center>亞倫派森合唱團<br>The Alan Parsons Project</center>||〈Eve〉[https://youtu.be/fLZPj-dJfJQ Lucifer]、<br>[https://youtu.be/t6k1orJWPgw 合成電音版]、[https://youtu.be/IYtRmCC8sl0 黑膠版]||《霹靂》✂[https://youtu.be/oxFZu-q6ybI 黑鋼刀鐵無敵]、✂[https://youtu.be/nl-lMb59ROo&t=55s 誅魔神光火流星]<br>'80~ 德國政論節目〈Monitor〉✂[https://youtu.be/Jy6oowWphYI OP]||早期武戲、奔馳/飛行特效場面均用
 |-
 ||〈Eye in The Sky〉[https://youtu.be/5S-q_3NFFzs Mammagamma]||黃文擇《真假濟公》✂[https://youtu.be/-PFckCA2mMk&t=264 閃電眼霹靂口]<br>《天宇》✂[https://youtu.be/EpG9KVgNIGs&t=2m15s 移日酷]||另有與上者合成〈[https://youtu.be/D4RE-CO31js Luciferama]〉
 |-
