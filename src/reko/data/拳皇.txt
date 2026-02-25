@@ -1160,7 +1160,7 @@ https://www.snk-corp.co.jp/zh/games/kof-portal/series/2002/img/logo_02um.png
 |-
 | SNK Gals' Fighters || SNK開發的Neo Geo Pocket Color專用，女性角色大集合格鬥遊戲。系統接近KOF，角色列中還包括小雪(草薙京的女朋友)。 
 |-
-| The King of Fighters EX: Neo Blood || 由Artoon開發的Gameboy Advance用遊戲，因製作組不熟GBA開發環境導致流暢度不足及出現很多調整失誤而成為[[クソゲー]]。 
+| The King of Fighters EX: Neo Blood || 由Artoon<ref>由前SEGA成員石井洋児與大島直人創立的公司，現被AQ Interactive併吞，之後石井與大島另外成立ARZEST</ref>開發的Gameboy Advance用遊戲，因製作組不熟GBA開發環境導致流暢度不足及出現很多調整失誤而成為[[クソゲー]]。 
 |-
 | The King of Fighters EX2: Howling Blood || 改交給SUN電子開發的Gameboy Advance用遊戲，完成度高 <br>因為銷量受到前作拖累而無再推出續集，伏筆也跟著無法順利收掉
 |-
@@ -1180,9 +1180,9 @@ https://www.snk-corp.co.jp/zh/games/kof-portal/series/2002/img/logo_02um.png
 |-
 | The King of Fighters 2 || 以N.E.S.T.S.篇人物為主的柏青哥遊戲。 
 |-
-| KOF Sky Stage || 由MOSS<ref>之前製作過《雷電》系列的セイブ開発原團隊另起爐灶的公司</ref>開發，以拳皇角色為主的2D射擊遊戲。<br>玩法較接近《式神之城》但本作主要以近距離射擊及連續攻擊為賣點<br><s>簡單來講就是披了拳皇的皮的近戰重視版雷電+式神之城</s><br><br><s>遊戲最初公布時也讓不少粉絲相當驚訝</s>
+| KOF Sky Stage || 由MOSS<ref>之前製作過《雷電》系列的セイブ開発原團隊另起爐灶的公司</ref>開發，以拳皇角色為主的2D射擊遊戲。<br>玩法較接近《式神之城》但本作主要以近距離射擊及連續攻擊為賣點<br><s>簡單來講就是披了拳皇的皮的近戰重視版雷電+式神之城</s><br><br><s>遊戲最初公布時也讓不少粉絲跌破眼鏡，甚至有玩家用MUGEN製作了惡搞版本</s>
 |-
-| Neo Geo Heroes ~Ultimate Shooting~ || PSP用遊戲。在上記的射擊遊戲再追加SNK Playmore其他作品的人物而成的射擊遊戲。<br>可說是上者的加強版，也收錄上者的遊戲內容
+| Neo Geo Heroes ~Ultimate Shooting~ || 上者的PSP續篇，可說是上者的加強版，同時也收錄上者的遊戲內容，遊戲再追加SNK Playmore其他作品的人物。<br>
 |-
 | [[真人化|The King of Fighters (電影)]] || 完全西洋化的電影<s>，劇情和角色造型完全偏離原作的黑歷史</s>。 
 |-

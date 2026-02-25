@@ -129,6 +129,7 @@
 ; 信者 席拉斯（信者 シラス）【CV：篠原侑】
 * 「{{ruby|該祈禱者表示，需要的東西自行製造即可。|その師に曰く、必要なものは作れば良い。}}」<br>{{censored|「透過信仰來統治會造成名為狂熱的故障。」}}
 * 神職人員，獨自一人重建廢棄教會，向人偶出售物品。
+** 如果不是選擇近距離型裝備開始遊戲，則其中的「Tls127 G2 Faluracan」可以在此購買。
 * <s>內褲的顏色是淺藍色</s>
 * {{censored|「請看著吧，<br>我將讓新的女王誕生。」}}
 ** {{censored|真身是教會長的門徒，原本在神智院工作的高官，因為向教會長進諫而被流放，但仍忠心耿耿。}}
@@ -628,6 +629,118 @@
 ** TREBUCHET CANNON：重型火砲，發射前有強制讓人偶停下的準備動作<s>。「不明なユニットが接続されました。システムに深刻な障害が発生しています。」</s>
 ** SNIPER CANNON：長射程的狙擊砲，瞄準時會變成第一人稱視角。性能非常優秀，成了幫助玩家破關的神器，也導致其在1.0.4版本更新中遭到全盤削弱。
 * 納加拉的寧芙會在砲架副腕上擺放備用刀劍，但玩家於遊戲中不能這麼做。
+
+== 原聲帶 ==
+;《Dolls Nest Original SoundTrack -The Origin of Species-》
+* 售價172新台幣/1000日圓/8.99美元。
+
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!音軌編號
+!標題
+!時間
+!備註
+|-
+|1
+|{{ruby|人形の巣|Dolls Nest}}
+|3：36
+|
+|-
+|2
+|{{ruby|逆理の塔|Reverse Babel}}
+|3：35
+|主選單BGM。
+|-
+|3
+|{{ruby|静謐|Tranquility}}
+|4：54
+|
+|-
+|4
+|{{ruby|轢き砕く覇道|Chariot Overlord}}
+|5：11
+|
+|-
+|5
+|{{ruby|灰燼|Ashes}}
+|4：59
+|
+|-
+|6
+|{{ruby|天翔る|Into the Sky}}
+|5：23
+|
+|-
+|7
+|{{ruby|宝珠擬き|Imitation Gem}}
+|5：17
+|
+|-
+|8
+|{{ruby|双生子|Twin Embryos}}
+|5：17
+|
+|-
+|9
+|{{ruby|鋼の息吹|Breath of Steel}}
+|5：27
+|
+|-
+|10
+|{{ruby|増殖の声|Call to Multiply}}
+|4：55
+|
+|-
+|11
+|{{ruby|馳せる三猟姫|Three Huntresses Rush}}
+|4：54
+|
+|-
+|12
+|{{ruby|流転の迷霧|Maze of Fog}}
+|3：00 
+|
+|-
+|13
+|{{ruby|狂弾|Mad Bullet}}
+|5：04
+|
+|-
+|14
+|{{ruby|巨魁の睥睨|Despite}}
+|4：34 
+|
+|-
+|15
+|{{ruby|繭の囀り|Cocoon Warbling}}
+|5：13
+|
+|-
+|16
+|{{ruby|巣立ち|First Step}}
+|5：03
+|
+|-
+|17
+|{{ruby|人形の追憶|Look Back}}
+|4：50
+|製作人員名單BGM。
+|-
+|18
+|{{ruby|繭の見る夢|The Daydreamer}}
+|2：48
+|
+|-
+|19
+|{{ruby|虚ろなる母(未公開曲)|Hollow Mother(undisclosed music)}}
+|4：54
+|
+|-
+|20
+|{{ruby|闘争(未公開曲)|Strife(undisclosed music)}}
+|2：59
+|
+|}
 
 == 回應 ==
 {{pcomment|talkpage}} 
