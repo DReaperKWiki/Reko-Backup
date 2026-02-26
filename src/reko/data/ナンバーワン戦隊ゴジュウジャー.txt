@@ -1,5 +1,5 @@
 {{h0|ナンバーワン戦隊ゴジュウジャー / No.1戰隊{{ruby|Gozyu|50}}ger / 第一戰隊五獸者<ref>台灣、香港譯名</ref> / 頭號戰隊豪獸者<ref>中國大陸譯名</ref>}}
-
+{{CreateRestricted}}
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
 |本條目內含劇透，沒看過原著<s>又不想'''被No One怪人吸掉或扯進No.1 Battle'''</s>的話請不要看下去。
 |-
@@ -16,8 +16,6 @@
 第二部主視覺圖=[[檔案:50ger_KV01.jpg|300px]]
 </tabber>
 }}
-
-{{CreateRestricted}}
 
 == 解說 ==
 * [[超級戰隊系列]]第49<s>（50）</s>作暨系列50周年記念作品，2025年2月16日起首播，全49話<s>50周年記念+（現時）最終作卻不是50話收尾</s>。
