@@ -268,10 +268,15 @@
 * 圖鑑編號：M040，艦種：重巡，SR。
 * 於2024年12月至2025年1月的「世界巡游」作為報酬登場。
 
-=== {{anchor|Andrea_Doria_META}}[[碧藍航線/登場人物一覽-撒丁帝國#Andrea_Doria|安德烈亞·多利亞]](META)（エレバス(META)/Andrea Doria META） ===
+=== {{anchor|Andrea_Doria_META}}[[碧藍航線/登場人物一覽-撒丁帝國#Andrea_Doria|安德烈亞·多利亞]](META)（アンドレア・ドーリア(META)/Andrea Doria META） ===
 [[檔案:Andrea Doria META.png|x200px]]
 * 圖鑑編號：M044，艦種：戰艦，SSR。
 * 於活動「籠檻に囚われし神光」劇情中登場，透過限時建造或關卡打撈入手。
+
+=== {{anchor|Gangut_META}}[[碧藍航線/登場人物一覽-北方聯合#Gangut|甘古特]](META)（ガングート(META)/Gangut META） ===
+[[檔案:Gangut META.png|x200px]]
+* 圖鑑編號：M057，艦種：戰艦，SSR。
+* 於活動「春色旅籠Online」中登場，透過限時建造或關卡打撈入手。
 
 === {{anchor|Erebus_META}}[[碧藍航線/登場人物一覽-皇家#Erebus|黑暗界]](META)（エレバス(META)/Erebus META） ===
 [[檔案:Erebus META.png|x200px]]
