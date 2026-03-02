@@ -308,7 +308,7 @@
 |-
 || '87 D.R.I ||〈[https://youtu.be/PXIuSHT4YoE Hooked]〉|| 另一有力曲源
 |-
-|'36 Carl Orff〈Carmina Burana/布蘭詩歌〉||〈[https://www.youtube.com/results?search_query=o+fortuna O Fortuna]〉[https://youtu.be/AP_CSQgBPpQ MV版]||rowspan = "2" | '99 Enigma✾〈[https://youtu.be/F48mtaFOccg Modern Crusaders]〉<br>2018〈[[JOJO第五部登場人物一覽|JOJO5-黃金之風-]]〉✂[https://youtu.be/27xgkx92-ZM ED]||間奏
+|'36 Carl Orff〈Carmina Burana/布蘭詩歌〉||〈[https://www.youtube.com/results?search_query=o+fortuna O Fortuna]〉[https://youtu.be/AP_CSQgBPpQ MV版]||rowspan = "2" | '99 Enigma✾〈[https://youtu.be/F48mtaFOccg Modern Crusaders]〉<br>2018〈[[JOJO第五部登場人物一覽|JOJO5-黃金之風-]]〉✂[https://youtu.be/27xgkx92-ZM ED2]||間奏
 |-
 || 175X 約翰·賽巴斯契·巴赫? ||〈[https://www.youtube.com/results?search_query=BWV+565 BWV+565]/BWV 565 d小調觸技曲與賦格〉|| 尾聲
 |-
@@ -1114,6 +1114,10 @@
 |-
 ||'62 Henry Mancini<br>〈Hatari!/哈泰利!〉||[https://youtu.be/jIMTMb4iJ1I Baby Elephant Walk]||(野台)[[https://youtu.be/CPghYZT3_dQ 雜用丑角悠閒場景]||
 |-
+||'86 胡大為<br>〈英雄本色〉|| [https://youtu.be/TCp7icTCcuM 主題曲] || 《天宇》✂[https://youtu.be/aOnm1qdY6nk&t=139 海派浪子(後期)] ||
+|-
+
+|-
 |}
 </center>
 
@@ -1304,7 +1308,7 @@
 |-
 ||'79 菊池俊輔〈長七郎天下御免〉 ||[https://youtu.be/c7u77TMpV-8 OP]||《金光》❏金王子、小金剛、[https://youtu.be/jR_NF3YPGzk&t=1m52s 三缺浪人武戲]<br>《霹靂》白髮小金剛武打曲||早期童星常用
 |-
-|'72 菊池俊輔〈荒野の素浪人〉||[https://youtu.be/za6V5LulNiw 主旋律]||《金光》❏[https://youtu.be/2gMRipNntFk=0 神劍魔刀六合魂OP]、北海黑鷹<br>《霹靂》❏[https://youtu.be/B7fz9M9BpCc 史貞忠]、[https://youtu.be/UCkzWMOttzA 黑面亂世狂刀(鶴崗)]<br>《天宇》❏[https://youtu.be/ykCL-PECHGw?t=646 鬼嚎銅盾]||
+|'72 菊池俊輔〈荒野の素浪人〉||[https://youtu.be/za6V5LulNiw 主旋律]|| '72 麗的〈三船敏郎劇場〉文千歲☻[https://youtu.be/Kw0w5MCrS9M 粵語OP]<br>《金光》❏[https://youtu.be/2gMRipNntFk=0 神劍魔刀六合魂OP]、北海黑鷹<br>《霹靂》❏[https://youtu.be/B7fz9M9BpCc 史貞忠]、[https://youtu.be/UCkzWMOttzA 黑面亂世狂刀(鶴崗)]<br>《天宇》❏[https://youtu.be/ykCL-PECHGw?t=646 鬼嚎銅盾]||
 |-
 ||'80 渡邊宙明〈[[超級戰隊系列|電子戦隊デンジマン]]〉||[https://youtu.be/_iL-B5IpuYA&t=0 主旋律]||《霹靂》❏霹靂劫TV版OP||高福順標示"19.霹靂劫OP曲-衛視"
 |-
@@ -1835,7 +1839,7 @@
 |-
 | rowspan="2" |Pink Floyd || 〈 The Dark Side of the Moon〉[https://youtu.be/JwYX52BP2Sk Time] || 《霹靂》✂[https://youtu.be/dVZFQhFB65o?t=74 秦假仙對紫邪歐陽上智] || 
 |-
-||〈Wish You Were Here〉<br>[https://youtu.be/8UXircX3VdM Shine On Your][[東方仗助|Crazy Diamond]] || 《天宇》✂[https://youtu.be/Ln6BHupnY3o&t=292 幽浮夜影獨白]<br>《王者》✂[https://youtu.be/r7U1K3q1SLI?t=227 孤獨劍·風] || 
+||〈Wish You Were Here〉<br>[https://youtu.be/8UXircX3VdM Shine On Your][[東方仗助|Crazy Diamond]] || '92〈精靈變〉✂[https://youtu.be/2Ms_NIqlcKc&t=29 開幕~女屍化妝]<br>《天宇》✂[https://youtu.be/Ln6BHupnY3o&t=292 幽浮夜影獨白]<br>《王者》✂[https://youtu.be/r7U1K3q1SLI?t=227 孤獨劍·風] || 
 |-
 | rowspan="2" |Gregorian教皇合唱團 || 〈Nothing Else Matters〉 || 《天宇》✂花中人 || 
 |-
@@ -1879,8 +1883,7 @@
 |-
 ||'94 張克帆  || 楊明煌〈[https://youtu.be/cpYICQ1VTL0 用盡一生的愛]〉 || '94〈台灣水滸傳〉[https://youtu.be/cpYICQ1VTL0 OP] || 另有Paul Mauriat [https://youtu.be/rVWE9ah0t4Y 演奏版]
 |-
-||'55 Irving Burgie&William Attaway || Harry Belafonte〈[https://youtu.be/lZABxj718uA Banana Boat Song/Day-O]〉 || 《金光》☻茶噢！(平山茶翁) || 另有The Tarriers[https://youtu.be/TZzCC_U-ip4 改編版]，李茂山翻唱〈[https://youtu.be/hL1EmUJtR_M 茶噢]〉<br>浜村美智子〈[https://youtu.be/odemlbkl_tE
- バナナボート]〉
+||'55 Irving Burgie&William Attaway || Harry Belafonte〈[https://youtu.be/lZABxj718uA Banana Boat Song/Day-O]〉 || 《金光》☻茶噢！(平山茶翁) || 另有The Tarriers[https://youtu.be/TZzCC_U-ip4 改編版]，李茂山翻唱〈[https://youtu.be/hL1EmUJtR_M 茶噢]〉<br>浜村美智子〈[https://youtu.be/odemlbkl_tE バナナボート]〉
 |-
 ||'60 和田弘とマヒナスターズ || 渡久地政信〈[https://youtu.be/shDmHbQKP20 お百度こいさん]〉 || 《金光》☻呂敏郎－[https://youtu.be/rRY3l45zNp8 勸世歌](三俠賣唱生) <br>《霹靂》❏[https://youtu.be/6O413fpwClU&t=1220 長眉少爺宇文寒星]|| 另有四奇士合唱團〈[https://youtu.be/uwt1hXOfkdI 求愛的條件]〉
 |-
@@ -1920,7 +1923,7 @@
 |-
 ||'75 澤田研二 || 大野克夫〈時の過ぎゆくままに〉 || 《金光》☻黃立綱－四海遊龍(醜君拾字郎) || 另有尤雅〈[https://youtu.be/1pc-gLPs_2s 愛你一萬年]〉、劉文正〈[https://youtu.be/cpa7X7dZ-hs 深情]〉
 |-
-| rowspan="2" |フランク永井 || 佐伯孝夫、渡久地政信〈[https://youtu.be/EnN-TM9q36Q 俺は淋しいんだ]〉 || 《金光》☻余天－孤獨的流星(孝俠孤零星) || 另有洪一峰翻唱〈再會夜都市〉
+| rowspan="2" |フランク永井 || 佐伯孝夫、渡久地政信〈[https://youtu.be/EnN-TM9q36Q 俺は淋しいんだ]〉 || 《金光》☻余天－[https://youtu.be/DAI3oPAonOM 孤獨的流星](孝俠孤零星) || 另有洪一峰翻唱〈[https://youtu.be/_EHi1_7iK2I 再會夜都市]〉、[https://youtu.be/FExP0j8EGU0 葉啟田版]、[https://youtu.be/_FQo17BzxQQ 林文隆版]
 |-
 ||吉田正〈[https://youtu.be/CEholSjhmUI 誰を愛して]〉||《霹靂》❏[https://youtu.be/CAn3B4Iuu7U&t=4135 玉竹天筆繪靈子]|| 另有郭金發〈[https://youtu.be/MMCA8d6RNLQ 求愛的人]〉、歐禮泉〈[https://youtu.be/F0LQSlQptjg 怎樣信賴你]〉、<br>洪弟七〈[https://youtu.be/pFBcEje4HjA 苦戀的男兒]〉、江蕙〈[https://youtu.be/MLs3TIWmx64 失戀的心聲]〉、<br>良一〈[https://youtu.be/4bBMkwBwgAQ 惦在東京的街路上]〉、<br>鳳飛飛〈[https://youtu.be/ECe2DZXkOCI 月夜情]〉、余天〈[https://youtu.be/M9vhQa7K67M 留下恨悠悠]〉
 |-
@@ -2083,6 +2086,8 @@
 || '59 Miguel Aceves Mejía || Tomas Mendez<br>〈[https://youtu.be/rMm0SfFKAfs cucurrucucú paloma]/鴿子歌〉||'97〈春光乍洩〉OP<br>《天宇》❏[https://youtu.be/Ln6BHupnY3o&t=61 憨龍阿蘭多1]||另有[https://youtu.be/9l8LLW_JfwA Caetano Veloso版]
 |-
 || '82 Prince || 〈[https://youtu.be/awkJVD7mQLw D.M.S.R]〉||黃俊雄〈封神榜〉✂[https://youtu.be/VA4nI4YCLkM&t=350 魉公閒逛曲(偷吃偷吃藥丹)]||
+|-
+|| '95 Jodeci  || 〈[https://youtu.be/oYwL-FzFDKQ Freak'N You]〉||<br>2018〈[[JOJO第五部登場人物一覽|JOJO5-黃金之風-]]〉✂[https://youtu.be/mcYecVs4OVs ED1]||
 |-
 || 2001 KinKi Kids || 〈[https://youtu.be/SIxbyvy8594 ボクの背中には羽根がある]〉|| 2005 三立〈綠光森林〉☻Sweety－[https://youtu.be/-mnNUyQESwQ 勇敢的幸福]||
 |-
@@ -2817,11 +2822,15 @@
 |-
 ||[https://youtu.be/W35Pl9YEnsw Dawn of a New Century]||《天宇》✂鬼刀魈墓前悲思||
 |-
-| rowspan="3" |[https://rekowiki.org/wiki/JOJO%E7%AC%AC%E5%9B%9B%E9%83%A8%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD#%E5%AE%AE%E6%9C%AC%E8%BC%9D%E4%B9%8B%E8%BC%94 Enigma] || [https://youtu.be/x4maoo4A3x4 Sadeness] ||台視〈藍色蜘蛛網〉✂[https://youtu.be/3gYfzWIvaKA OP]||
+| rowspan="4" |[https://rekowiki.org/wiki/JOJO%E7%AC%AC%E5%9B%9B%E9%83%A8%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%BD#%E5%AE%AE%E6%9C%AC%E8%BC%9D%E4%B9%8B%E8%BC%94 Enigma] || [https://youtu.be/x4maoo4A3x4 Sadeness] || 台視〈藍色蜘蛛網〉✂[https://youtu.be/3gYfzWIvaKA OP]<br>'92〈精靈變〉✂[https://youtu.be/2Ms_NIqlcKc&t=1600 聲色情慾相關場景]||
 |-
-|| [https://youtu.be/Xqb18bqNtEw The Rivers Of Belief] ||《天宇》✂翎劍少狂||
+||[https://youtu.be/qo-j9vGEY9U Callas Went Away] || '92〈精靈變〉✂[[https://youtu.be/2Ms_NIqlcKc&t=3474 定情場景]||
+|-
+|| [https://youtu.be/Xqb18bqNtEw The Rivers Of Belief] ||《天宇》✂翎劍少狂<br> '92〈精靈變〉✂[[https://youtu.be/2Ms_NIqlcKc&t=4233 最後一舞]||
 |-
 ||[https://youtu.be/ToIB1PK4RzQ Shadows In Silence]||《天宇》✂魑背荒樵||
+|-
+||[https://youtu.be/V0hKs4jdVSI  The Voice Of Enigma]||'92〈精靈變〉✂[https://youtu.be/2Ms_NIqlcKc&t=1523 芭蕉精顯現]||
 |-
 ||'98 Nicholas Gunn || [https://youtu.be/rxGocUoFrAM Passion In My Heart] ||《天宇》✂天關殘墜||
 |-
@@ -3078,7 +3087,7 @@
 |-
 |'88 若草恵〈鉄拳チンミ/鐵拳小子〉||[https://youtu.be/ojP2ImM_bIo&t=389 出た！鉄拳チンミ]||’91《新七龍珠》✂[https://youtu.be/uqA4HLXOX1U&t=2471 樂平高速逃走]||
 |-
-| rowspan="10" |'88 大井研二、羽野誠司、Navarra<br>〈戰國奇譚－妖刀伝〉||[https://youtu.be/y8QEc8NLk_U&t=01h08m18s 古昔の巨神]||《霹靂》✂[https://youtu.be/sndyHAHSfF8 八面狼姬]<br>'97 智冠〈霹靂幽靈箭〉✎[https://youtu.be/GzuMYS9vrV0?t=504 BOSS戰]||另有[https://youtu.be/uD2KHGsD42M&t=1m32s 常用斬殺特效shot]
+| rowspan="10" |'88 大井研二、羽野誠司、Navarra<br>〈戰國奇譚－妖刀伝〉||[https://youtu.be/y8QEc8NLk_U&t=01h08m18s 古昔の巨神]||'88〈羞羞鬼〉✂長壽仔開陰陽眼見到秀秀<BR>《霹靂》✂[https://youtu.be/sndyHAHSfF8 八面狼姬]<br>'97 智冠〈霹靂幽靈箭〉✎[https://youtu.be/GzuMYS9vrV0?t=504 BOSS戰]||另有[https://youtu.be/uD2KHGsD42M&t=1m32s 常用斬殺特效shot]
 |-
 |[https://youtu.be/hdZoKAiep-0 魔人信長]||《天宇》✉[https://youtu.be/WPevejiD6uo&t=57 烏心陀]<br>'88 〈羞羞鬼〉✂OP<BR>'92〈七俠五義之五鼠鬧東京〉✂[https://youtu.be/j23JacJGufw?si=L2y87Lewxzanb7nN&t=561 白玉堂午睡] ||
 |-
