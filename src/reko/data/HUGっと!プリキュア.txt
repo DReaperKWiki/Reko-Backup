@@ -1,4 +1,4 @@
-{{h0|HUGっと!プリキュア／擁抱！光之美少女／HUGtto! Precure／HUG! Precure<s>／[[北斗神拳|北斗]]!プリキュア／[[フラワーリングハート|플라워링 하트 프리큐어（フラワーリングハートプリキュア / 光之美少女花啦啦）]]／[[仮面ライダージオウ|プリキュアジオウ]]</s>}}
+{{h0|HUGっと!プリキュア／擁抱！光之美少女／HUGtto! Precure／HUG! Precure<s>／[[北斗神拳|北斗]]!プリキュア／[[仮面ライダージオウ|プリキュアジオウ]]</s>}}
 
 {| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;" 
 |-
