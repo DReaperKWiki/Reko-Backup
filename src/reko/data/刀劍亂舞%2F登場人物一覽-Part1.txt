@@ -1784,6 +1784,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/a/a4/Kuwana-Kiwame.png
 
 === 水心子正秀 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/f/f7/Suishinshi.png
+https://static.wikia.nocookie.net/touken-ranbu/images/d/d0/Suishinshi_Masahide-Kiwamein.png
 * 繪：クロサワテツ。CV：阿部敦。演：小西成弥 (音樂劇)/佐藤祐吾 (舞台劇)。
 * 刀帳編號：174番。身高：166&nbsp;cm。
 * 2019/11/22更新後實裝，無法透過鍛刀取得，只能在期間限定任務《特命調査 天保江戸》作為特別報酬入手，以及入手後再次攻略時在江戸藩邸上屋敷最終BOSS點隨機掉落。
@@ -1798,15 +1799,17 @@ https://static.wikia.nocookie.net/touken-ranbu/images/f/f7/Suishinshi.png
 ** 因為刀匠正秀提倡復古，因此對於古刀很有興趣。後來實裝的與孫六兼元的回想可謂將這個'''古刀宅'''屬性發揮到了極致。
 *** {{censored|一邊興奮地鑑賞著對方的<s>裸</s>本體一邊長篇大論地發廚<s>，最後甚至疑似一通上下其手害得對方發出了一陣杉田本色的猥瑣狂笑</s>}}。
 * 通常立繪因戴帽子關係沒看到，其實從真劍必殺和內番兩張立繪可看出他有呆毛。
+* 2026/3/3更新後開放極化。
 * <s>看了他的真劍必殺後請不要強刃所難的給第二把刀要他示範[[桐谷和人|C8763]]</s>
 * <s>幾乎蓋住全身的斗篷常被拿來玩梗</s>
-* 可能為了避免表情不小心崩掉影響形象，除了十周年祝裝以外，他所有裝束包括內番服乃至輕裝都一定要死守遮住嘴巴不能露出來<s>然而這並沒有什麼卵用只讓人覺得有夠可愛</s>。
+* 可能為了避免表情不小心崩掉影響形象，除了十周年祝裝和極化戰裝以外，他所有裝束包括內番服乃至輕裝都一定要死守遮住嘴巴不能露出來<s>然而這並沒有什麼卵用只讓人覺得有夠可愛</s>。
 * <s>百夜優一郎</s>
 * <s>宮村伊澄</s>
 * <s>男士高中生之一</s>
 
 === 源清麿 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/9/9b/Minamoto.png
+https://static.wikia.nocookie.net/touken-ranbu/images/d/d9/Minamoto_Kiyomaroin.png
 * 繪：しばの番茶。CV：赤羽根健治。演：佐藤信長 (音樂劇)/岩崎悠雅 (舞台劇)。
 * 刀帳編號：176番。身高：169&nbsp;cm。
 * 2019/11/22更新後實裝，無法透過鍛刀取得，只能在期間限定任務《特命調査 天保江戸》作為特別報酬入手，以及入手後再次攻略時在江戸市中最終BOSS點隨機掉落。
@@ -1817,6 +1820,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/9/9b/Minamoto.png
 ** 刀匠源清麿從長州回來後便定居於四谷，其作品鋒利酷似鎌倉時期的名工相州正宗，因此又名「四谷正宗」。
 ** 性格十分的隨和好相處，也很會安慰人，希望審神者可以多關照水心子正秀。相對輕飄飄的言行舉止，是個戰鬥跟內番都會認真做的好孩子。
 *** <s>[[口頭禪]]是「水心子很厲害喔」跟「真不愧是水心子」</s>
+* 2026/3/3更新後開放極化。
 * <s>[[新世紀福音戰士人物介紹#第五適任者渚カヲル(Fifth Children なぎさ カヲル/渚薰)|渚薰]]</s>
 * <s>[[THE IDOLM@STER|清麿P]]</s>
 * <s>男士高中生之一</s>
