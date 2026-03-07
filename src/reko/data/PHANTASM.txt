@@ -1,0 +1,130 @@
+{{h0|PHANTASM/ファンタズム/幻象幽靈}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+{{Missing}}
+{{Boring}}
+
+==概要 ==
+* 由[[天然素材（てんねんそざい）|FLAT]]<ref>天然素材的前身</ref>所開發的劇情橫STG(ドラマティック/Dramatic STG)
+**目前只得知C68是完整版
+
+===系統===
+* 通常攻擊/Standard Attack/スタンダードアタック
+** 自動連發的射撃,鍵位獨立
+* 盾/Shield/シールド
+** 能以擋彈方式儲存必殺能量
+* 環/Wheel/ハイロゥ
+** 上下各一的子機,必須吃E道具強化
+* 最終攻擊/OmegaDrive/オメガドライブ
+** 必殺能量存滿時發動,依武裝類型而定
+* 道具/Item/アイテム
+** 強化環的為E、分數為P
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! '''武裝''' !! '''環''' !! '''最終攻擊''' 
+|-
+|Wizaerd<br>魔法師||追蹤彈/ホーミング弾||拡散レーザー砲
+|-
+|Executor<br>執行者||爆彈/炸裂弾||粒子擴散/コレダー
+|-
+|Dragon<br>龍||雷射砲/レーザー砲||波動砲
+|}
+
+==故事==
+
+ 執行火星移民的機構「M．G．M」想要獨立成國家
+ 但各連合國家不同意並想解散MGM、行成緊張的局面
+
+ 隔年,MGM的攻擊機(アサルトギア/Assault Gear)
+ 擊落在所屬連合國家的月球軌道上的民用機
+ 取名「伽桑狄事件」(ガッセンディ/Gassendi),為開戰的事端
+
+ 之後三次世界大戰、又稱『月面戰爭』
+
+ 西曆2103年『Vadis』
+
+ 爆發了兩年,連合軍為了突破戰局,決定引入「追尋者」(Vadis)
+ 又稱『Strategic Artificial Intelligence Systems』(戰略人工智能系統)
+ 以自動的無人兵器進行戰爭
+
+ 4個月後,以連合軍戰爭勝收尾
+ 將追尋者部署在火星上作為維安部隊
+
+ 西曆2105年『終結之日』
+
+ 在聖誕節時刻,追尋者突然失控
+ 從火星上來武力壓制、地球則以核武反擊
+ 造成地球上7成的生命滅絕,文明也隨之化成灰燼
+ 人類們必須跨越困境下團結
+ 將月面戰爭時,歐美國家過去組成的「盟軍」(Allied Forces)
+ 改名「解放軍」(Liberation Army)
+
+ 在終結之日的十年後(2115)
+ 為了對抗火星的追尋者軍
+ 連合軍在月球上建造軍事要塞作應戰準備
+
+ 未知的戰爭，是否看得到結局...
+
+==登場人物==
+* 卡妮亞/カーネリア{{censored|・ヴァディス}}(Carnelia)<ref>原自紅玉髓(瑪瑙)</ref>
+** 主角,前攻擊機駕駛,連人類無法操控的以諾型(エノクAG)也能操作自如
+** {{censored|真身是追尋者的源型機,為阻止父親而出動}}
+* 卡魯洛斯・菲蘭德/カルロス・フェルブランド(Carlos Fellbrand)
+** 連合軍諜報部的中士、雇用卡妮亞回收第7月面基地的文件
+
+===Under Chapel===
+* 艾基斯・葛恩/アイギス・グエン(Aigis Guen)
+** 第12機械部隊的攻擊機駕駛,和卡妮亞是月面戰爭時的同僚
+** {{censored|再會時已變成沒肉體的攻擊機本身}}
+
+* 加布列・羅恩格林/ガブリエル・ローエングリン(Gabriel Lohengrin)
+** 上校、第12機械部隊的隊長
+** {{censored|暗中投入追尋者計劃的人}}
+
+* 希維亞/シルヴァリア(Silvaria)
+** {{censored|追尋者的第12號機}}
+** {{censored|目的為找到阿卡西記錄,讓父親成為神}}
+
+===???===
+* 比爾傑・瓦迪斯/ヴィオルジュ・ヴァディス(Viorge Vadis)<ref>Vierge:童貞<s>所以全名是追尋童貞之人</s></ref>
+** 科學家,{{censored|幻象幽靈計劃的起源者}}
+*** {{censored|以無人自動兵器為概念研發<br>但無法控制而暴走<br>因而慘遭處刑}}
+==Stage ==
+
+{{Bael}}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Chapter''' !! '''關卡標題'''
+|-
+| 01 || Outbreak<br>發動
+|-
+| 02 || Invisible<br>無形
+|-
+| 03 || Absolute<br>絕對
+|-
+| 04 || Saviour<br>救星
+|-
+| 05 || Phantasm<br>幻象
+|-
+| Final || Fateful<br>決定命運
+|}
+
+==參考資料 ==
+*[http://web.archive.org/web/20050322200012fw_/http://gabriel.web.infoseek.co.jp:80/PHANTASM/chara.html 官網]
+**[https://web.archive.org/web/20130130000304/http://d-stage.com/shop/detail.php?seq=837 D-stage]
+** [[同人STG系列作品列表]]
+
+
+==回應 ==
+<!-- コメントの挿入 -->
+<!-- #comment(noname) -->
+
+
+== 備註 ==
+<references/>
+[[分類:由Browl或其分身建立的條目]]
+[[分類:射擊遊戲]]

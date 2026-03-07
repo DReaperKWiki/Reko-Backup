@@ -1,0 +1,139 @@
+{{h0|eXceed2nd-VAMPIRE REX-/超越者 第二部-王之吸血鬼篇-/イクシード2-ヴァンパイア・レックス-}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 上一部：[[eXceed-Gun Bullet Children-]] 
+|-
+| 下一部：[[eXceed3rd-JADE PENETRATE- BLACK PACKAGE]] 
+|}
+[[File:C70 FLAT Exceed2nd.jpg|right]]
+
+==概要==
+*為[[天然素材（てんねんそざい）|FLAT→天然素材]]開發,eXceed系列的第二作,同人的屬性盾牌彈幕STG
+**最初為C70的『eXceed2nd-VAMPIRE-』(FLAT),之後天然素材重製為C73的『eXceed2nd-VAMPIRE REX-』
+**最後收錄到CAPCOM的「The eXceed Collection」中
+**容量大的原因是BGM
+**本條目與REX版一併介紹(劇情設定無多大差異,但遊戲內容不同)
+
+==系統==
+*類似斑鳩,藉由吸收與自機同色的子彈來累計量表(「光」與「闇」切換),沒有低速模式
+**以集滿的狀態來使用<s>マスタースパーク</s>Bomb
+**不同色的子彈會給予自機傷害
+**自機的火力不同(C70版一條直,REX版則加寬範圍)
+**有特殊力場,撞到敵人不會產生傷害(REX版)
+
+==[https://web.archive.org/web/20090503012227/http://flat.web.infoseek.co.jp/EXCEED2nd/eX2-sto.htm 故事]==
+ 目前展開名為「聖域攻城戰」(Holy Land Siege)的戰爭
+ 大約在一年四個月前,教會眾派系的內部鬥爭中,造成成員之一的主教Shrain(シュレイン枢機卿)被暗殺
+ Shrain曾提倡「人類與吸血鬼平等共存」的提案,避免擁有吸血鬼血統的人遭受迫害
+
+ 在歷史上有此事未記錄,就是主教向反抗組織的「第五子爵」(子爵領フィフスヴァイカウント)立定停戰協議
+ 很多人認為,主教的死跟「人類與吸血鬼平等共存」的事有關,但沒人能證明其真實性
+
+ 在Shrain死去後,由Anheim/アンヘイム接任主教的位置
+ 並馬上終止了Shrain的新政策,以「人類淨化」為名,對非人的種族進行殲滅
+
+ 而教會率領十字軍,在世界各地抹殺反抗者
+ 不久後,連反抗者們也組軍反抗,軍隊中也包含第五子爵召集的盟友們
+ 兩邊開打演變成持久戰,然而,在短短一個月內子爵的所有盟軍都被殲滅
+ 因此才知道,教會的驅魔師隊將「槍彈之子」部署到戰場
+
+ 幾個月後...
+ 有歷史記載,魔界有一位能抵抗教會勢力的吸血鬼之王-「不死王」(Undead Lord)
+ 居住在死都『亂魔城』(パンデモニウム/Pandemonium)...
+
+==登場人物==
+*時間點與前作同時發生
+**希魯德雷可能與前作主角們打過後再與莉亞對決
+**立繪除了邦泉雅和希魯德雷之外都有改
+**(下列的立繪左:C70版/右:REX版)
+
+===自機「吸血鬼」(ヴァンパイア/Vampires)===
+*與前作立場相反,換成吸血鬼當主角
+
+*莉亞・法依爾/リア・ファイル/Ria File(CV:遠藤紗哉)<br>[[File:Ria.jpg|400px]]
+**本作主角,人類和吸血鬼的混血兒
+**從小因為其血統,容易受到不平等對待
+**但為了想過好一點的生活才參戰
+**<s>名字很科技化</s>
+**專用曲:{{youtube|f8cuY32mVSA|「Limited World」}}
+
+===Stage Boss「槍彈之子」(Gun Bullet Children)===
+*在故事中被稱為「教會的騎士」
+**前作的三位自機變成2~4面,並追加兩名新角色
+**皆使用雙色彈,C70版與REX版的立繪、攻擊方式不同
+
+*齊庫魯妮(白)/ジークルーネ/Siegrune(CV:梨本悠里)
+*布倫希爾蒂(黑)/ブリュンヒルデ/Brunhild(CV:ひと美)<br>[[File:Sieg_bryn.jpg|400px]]<br>[[File:EBoss1.PNG|400px]]
+**次代的槍彈之子,兩人一體的壓倒性實力
+***由於強化過頭,造成扭曲的性格
+**使用「芬里斯狼」(フェンリス狼/Fenris Wolf)之力
+***C70版FINAL EXCEED時會「獸化」<br>[[File:EBoss7.PNG|200px]]
+**專用曲:{{youtube|512hzmJXXQc|「Bestrafung」}}<br>{{youtube|epoM9vB1bms|「CONQUEST」(獸化時)}}
+
+*加賀屋 千夏/Kagaya Tinatu(Chinatsu)(CV:HARUNA)<br>[[File:EBoss2.PNG|400px]]
+**使用紅色羽翼及魔劍來戰鬥,紅翼有強化版
+**專用曲:{{youtube|p7rV2ZHuJik|「Shock!!」}}
+
+*索薇爾・迪渥錫亞娜/ソウェル・ディヴォシアナ/Sowel Devosiana(CV:桜花春日)<br>[[File:EBoss3.PNG|400px]]
+**召喚殺人玩偶「聖霊シルエストレ」來戰鬥,比前作還巨大
+**專用曲:{{youtube|YPRM6XWWOXI|「Playful」}}
+
+*邦泉 雅/Miyabi Housen(CV:紅月ことね)<br>[[File:EBoss4.PNG|400px]]
+**持有炎之力,展開火之翼
+**專用曲:{{youtube|SxQEBcEuoPI|「Ignite」}}
+
+*希魯德雷/ジルドレイ/Gilles de Rais(CV:桜花春日)<br>[[File:EBoss5.PNG|400px]]
+**前作Boss,在本作也是身份不明
+***原本是吸血鬼雇來的傭兵,目的是為了搶奪教會所秘密製造的天使
+**除彈幕外,還使用多把實體劍來攻擊
+**專用曲:{{youtube|worUpsTzpzk|「Shakes to obscene」}}
+
+*安赫爾/アンヘル/Anhel(CV:里都)<br>[[File:Anhel.jpg|400px]]<br>[[File:EBoss6.5.PNG|400px]]
+**沉眠於祭壇最深處的天使<s>,穿著很エロ的蘿利</s>
+**教會想籍由祂來統治人類,所製造的仿製品,不是前作那位同名Boss
+**C70版是有使用弓來戰鬥
+**被莉亞說得後,不想被教會控制,而決定逃離此處,去世界各地旅行
+**專用曲:{{youtube|omHuGfgnQXU|「Flugel」}}
+
+*[https://rekowiki.org/w/images/a/ad/EBoss8.PNG ラストボス{{censored|ジークルーネ}}]
+**FINAL EXCEED Boss,兩姐妹合體而成
+***C70版是直接合體,REX則是布倫死亡,齊庫吸收她而變成
+**專用曲:{{youtube|BWEhTbKfLMA|「Puppe」}}
+
+==Stage==
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage '''!! '''關卡標題 '''!! '''Boss '''
+|-
+|1||Skyscraper||ブリュンヒルデ＆ジークルーネ
+|-
+|2||Runing Road||加賀谷千夏
+|-
+|3||Fortified Zone||ソウェル･デヴォシアナ
+|-
+|4||Sanctuary||邦泉雅
+|-
+|5||Ruins Glory||ジルドレイ
+|-
+|6||Thorne Zenith||アンヘル
+|-
+|7||FINAL EXCEED||ブリュンヒルデ＆ジークルーネ{{censored|ジークルーネ}}
+|}
+
+==參考資料==
+*[https://web.archive.org/web/20110816114943/http://flat.web.infoseek.co.jp/EXCEED2nd/ 官網]
+**[http://web.archive.org/web/20150209113828/http://exceedseries.com/2nd-vampire-rex 美版官網]
+*攻略資料:
+**[http://yasshi0916.web.fc2.com/exceed2/exceed2nd.html C70]
+**[http://yasshi0916.web.fc2.com/rexkou/top.html Rex]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:射擊遊戲]]
+[[分類:由Browl或其分身建立的條目]]

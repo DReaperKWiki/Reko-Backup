@@ -1,0 +1,71 @@
+{{h0|SITER SKAIN/シタースケイン}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+
+{{Missing}}
+{{Boring}}
+
+[[File:754158106.png|center]]
+
+==簡介==
+*為製作同人游戲的同人團體
+**於1999年組成,專門製作STG游戲
+**主要成員有じるるん(團體代表兼音楽製作)、ヤスウェア及バーナス
+
+==作品一覽==
+===前作===
+*RAID WIND(1994年/縱軸STG/PC-98)
+**じるるんと及友人共同開發
+
+*ALLTYNEX (1996年/縱軸STG/FM-TOWNS)
+**為遊戲創作大賽的得獎作品,原名為「PROJECT RAID WIND 2」
+
+*Reflection (1997年10月/縱軸STG/Windows)
+**由ヤスウェア製作,為網路コンテストパーク的得獎作品
+
+===新作===
+*[[神威-kamui-]] (1999年12月/初出1997年9月/縱軸STG)
+**植入ALLTYNEX(FM-TOWNS)和Reflection的設定,為3部作的完結篇
+
+*[[RefleX]] (2008年/初出1999年12月/縱軸STG)
+**Reflection的重製版,並補完部份劇情
+
+*[[ALLTYNEX Second]] (2010年8月/初出2005年8月/縱軸STG)
+**ALLTYNEX(FM-TOWNS)的重製版,補完部份劇情,並表現3D效果
+
+===開發中止===
+*犬詰弁当（仮）(パズルゲーム)
+*Final Apocalypse (初出2000年8月/360度全方位STG)
+*FryFishTown(初出2001年8月/スゴロク型カードゲーム)
+
+===ALLTYNEX3部作===
+*為『ALLTYNEX』(じるるん)、『Reflection』(ヤスウェア)以及『神威』(SITER SKAIN)
+**前兩部皆使用同一個世界觀,再由『神威』作總結<br>後來重製成『ALLTYNEX』→『ALLTYNEX Second』、『Reflection』→『RefleX』,並變更部份設定
+
+==音楽CD==
+*[http://www.siterskain.com/reflex_soundtrack/index.html RefleX ORIGINAL SOUNDTRACK++]（2008年12月）
+*[http://www.siterskain.com/as_soundtrack/index.html ALLTYNEX Second ORIGINAL SOUNDTRACK]]（2010年12月）
+
+==其它==
+*[https://sp.seiga.nicovideo.jp/user/illust/452433 村上せなみ][http://web.archive.org/web/20170124041432/http://www.pixiv.net/member.php?id=2293041 (Pixiv)]
+**為SITER SKAIN的人物作畫
+**曾畫過ALLTYNEX機體擬人化、以及國旗擬人化
+*{{censored|後來不明原因消聲滅跡...}}
+**[https://www.mediafire.com/file/80dcyy94i4f27cv/SITER+SKAIN公式絵.rar/file 僅存的圖集]
+
+==參考資料==
+*[https://www.siterskain.com/ 官網]
+**[https://store.steampowered.com/developer/hendj Steam]
+**[http://ja.wikipedia.org/wiki/SITER_SKAIN 日文Wiki]
+**[http://dic.nicovideo.jp/a/siter%20skain ニコニコ大百科]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:同人團體]]
+[[分類:由Browl或其分身建立的條目]]

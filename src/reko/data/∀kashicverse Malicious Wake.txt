@@ -1,0 +1,300 @@
+{{h0|∀kashicverse Malicious Wake/アカシックバース 悪意の轍/天紅宇宙 惡意喚醒篇/<s>蘭花內戰</s>}}
+
+{{ReviseNeeded}}
+[[File:32154848_m.jpg|right]]
+
+==概要 ==
+* 由無盡白羅/Endless Shirafu所開發的一人非零和無限未確定不完全情報STG)
+**題材來自蘭花培育(有蟲有草及一些植物學術語)
+**版本從官網體驗版C81到C83完成版後至Steam版
+
+===系統 ===
+*盾牌/Shield
+
+*抗体領域/Delay Field
+**輸入指令的前置動作,須按住
+
+*方法/メソッド/Method
+** 輸入後按射擊發動的必殺技
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''方法(指令)''' !! '''解說'''
+|-
+|恐懼剪刀/Dread Scissors(↑↑)||前方剪擊
+|-
+|殲滅:追擊者/Annihilator:Chaser(↓↓)||追擊雷射
+|-
+|殲之刺/A:Stinger(AC後↓↓)||追擊飛彈
+|-
+|殲之種/A:Seed(AC後↓↓)||追擊光線
+|-
+|威脅剔除者/Menace Rejector(↓→ or ↓←)||射擊強化
+|-
+|驅逐爆炸/Banish Blast(DF加射擊)||全範圍炸彈
+|-
+|其他引誘/Attractant Other(→↓↘or←↓↙)||分身、一段時間後爆炸
+|-
+|思動者/Jaunted Driver(←↓→ or →↓←)||按住射擊能調整目機衝撞的位置
+|-
+|危險預測/Danger Prognosis(↑↓)||緩彈區
+|-
+|執行者/消除者/Eliminator(↓←↑→ or ↓→↑←)||巨大機體召喚<br>電槍/Blitz Lancer:5WAY<br>即時懲罰/Instant Panishment:後方雷射<br>割絨/Velvet Mutilation前方斬擊<br>致命災難/Fatal Disaster:範圍雷射
+|}
+
+*難度
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''難度'''!!'''解說'''
+|-
+|∀dvent||來臨||盾牌500
+|-
+|∀nother||另外||盾牌100
+|-
+|∀kashic||阿卡夏||不能續關、有擊返彈
+|-
+|}
+
+*瘟疫惡夢/Pandemonic Nightmare
+**追加內容
+
+==故事==
+ ∀kashicverse
+ 過去，世界因全面戰爭而陷入前所未有的危機。
+ 國家和政府被突然出現的名為「蘭花」的生物消滅，阻止了全面戰爭。
+ 並且，在蘭花們的管理和控制下，人人過著幸福的生活。
+
+ -Malicious Wake-
+ 「惡意喚醒」是一個強大且具傳染性的敵人實體。
+ 由於一次意外，它從上一代的廢墟中被解放出來。
+ 當大家都對突如其來的世界危機感到困惑時
+ 然而,其中一位蘭花「揚羽」注意到了並去制定一項阻止惡意喚醒的策略…
+
+==登場人物 ==
+*蘭花/Orchid/オーキッド
+
+===自機 ===
+*揚羽/アゲハ/Ageha<br>[[File:KVAG.png|200px]]<br>[[File:36430027_p0.png|200px]]
+**E:Phalaenopsis Ex Machina/蝴蝶蘭
+**主角<s>異色靈夢</s>
+***能藉由屬間雜種/インタージェネリック・ハイブリッド捕獲對方的能力
+
+===Orchids===
+
+*姫野/ヒメノ /Hymeno<br>[[File:KVB0104.png|200px]]<br>[[File:32171513_m.png|200px]]
+**出面阻止揚羽的蘭花之一,苦勞命還兼任四面
+**看板娘、另有自己的外傳「Hymeno Striker」
+**專用曲:{{youtube|x83H9rle6gM|Stuldropped}}、{{youtube|WaoZOblJO3I|Devastimare(四面)}}
+*M:
+**1面:
+***INVOLUTION LINE/對合線
+***BOUNDARY TROOP/邊防部隊
+**4面:
+***CONVERGENCE SIEGE/聚合圍攻
+***AFFIRMATION DUSTER/肯定撒粉器
+***GYRATE ORBITER/軌道飛行器
+**4面ED:
+***ORBITAL REFRACTOR/軌道折射儀
+*E:Ophrys Ex Machina/蜂蘭
+**1面:
+***SCATTER METEORS/散射流星
+***HATE SLIDE/仇恨滑坡
+***CALCULTATING MOON/計算月球
+***SCREAMING BLOSSOMS/尖叫之花
+***EVANESCENCE/消逝
+***PORCUPING ROLL/燙捲
+***CANNONBALL RAILROAD/砲彈鐵路
+***ELASTIC IMPULSE/彈性脈衝
+***DEAD TO THE WORLD/已死世界
+**4面:
+***EXTRAORDINARY WORLD : SKYTERRITORY/非凡世界：空域
+***BRIDGE TRANCER/橋接器
+***ORBIT OF SHOOTER/軌道射手
+***SPLASH GALE/飛濺狂風
+***IMMACULATE VIOLENCE/完美暴力
+***SHEER GREED/純粹貪婪
+***ELASTIC IMPULSE ACT.2/彈性脈衝ACT.2
+***OVERWHELMER'S FIREWORKS/壓致煙火
+***PRIMAL BREAK/原始突破
+***'''INDISCRIMINATELY ECLIPSE/無區別之蝕'''<br>即死光束(必須在倒數時擊破)
+
+*亞蘭哈/アラニャ/Aranha<br>[[File:KVB02.png|200px]]<br>[[File:29234688_m.png|200px]]
+**專用曲:{{youtube|PrR_fTRlfbc|Inconxlenble/Fastymth}}
+*M2面:
+**ATHLETICS FALLS -PICKET-/競技瀑布-糾察隊-
+*E:Caladenia Ex Machina/蜘蛛蘭
+***REVERSAL COAST/逆轉海岸
+***FARSIDE DETHRONED/遠方廢黜
+***MOTOR HEAD EDGE/擎頭刃
+***LETHAL EXECUTION/致命處決
+*E FAKE THEATER/偽劇:
+***THE MASTERPLAN/總體規劃
+***TRICK TRAP TEARS/陷阱眼淚
+***STRONGHOLD REVOLUTION/要塞革命
+***SPIDER WORKS/蜘蛛作品
+*E HISTORICA (GENOCIDE GARDEN)/偽劇史（滅族花園）:
+***ATHLETICS FALLS/競技瀑布
+***ATHLETICS FALLS ACT:2/競技瀑布ACT:2
+***RUGGED FLIGHT/崎嶇飛行
+***WHISPER WISP/纖細低語
+***SHINE DOWN/閃耀
+***STEREO ALCATRAZ/刻聲魔島
+***SPHERE BREAKER/球體破壞者
+***QUICKSILVER HIGHWAY/快銀公路
+***'''MASTER OF PUPPETS/木偶大師'''
+***CONCENTRATION/專注
+***HEAVEN IS PLACE ON EARTH/地上天堂
+
+*塔烏/タウ/Tau<br>[[File:KVB03.png|200px]]<br>[[File:30110606_m.png|200px]]
+**出面(ry,無法正常表達(對話都是顔文字)
+**專用曲:{{youtube|B631ZZuT0Hw|Urtinaum Frellor}}
+*M3面:
+*E:Pterostylis Ex Machina/翼龍蘭
+***TRACE HORN KILLER/追角殺手
+***ANOTHER EARTHQUAKE/另一場地震
+***MAGNIFICENT TECHNIQUE/精湛技術
+***TRACE HORN KILLER ACT:2/追角殺手ACT:2
+***'''INSPIRAL PLATE QUARTET/吸板四重奏'''
+***RIP SLIDE/撕裂滑梯
+***'''GRAVEYARD TRAIN/墓園列車'''
+***CHAIN HEART STREAMS/連鎖心流
+***SKY SPINDLE/天軸
+***MINUTEMANS RIOT/民兵騷亂
+***BOUNCING SESSIONS/彈跳課程
+***ULTIMATE HEIGHTS/終極高度
+**3面ED:
+**'''TEKKAI/鐵拐'''(E擊破後)
+
+*春/ハル/Hal<br>[[File:KVB05.png|200px]]<br>[[File:32945825_p0.png|4\200px]]
+**出面(ry,二刀流劍客<s>擅長無限劍製</s>
+**專用曲:{{youtube|j6S49Nuav1Q|Amalancer}}、{{youtube|QZ-uR02gdgs|Amalancer Mix}}
+*M5面:
+***SOPHISTICATE PRESSURE/複雜壓力
+***TRILLION RUSH/兆熱潮
+***TRILLION RUSH ACT:2/兆熱潮ACT:2
+***FORCIBLE LAID/強制鋪設
+***QUICKSTEP SURGE/快步浪湧
+***THREE STARS/三顆星
+***PSYCHIC AMUSIA/心靈樂
+***AMBROSIAL HALO/芳香光環
+***STABBING FLOWERS/刺花
+***JAVELIN RAIDER/標槍襲擊
+***ARTIFICIAL STRIKE/人工打擊
+***AGNOSTIC CIRCLE/不可知論圈
+***VALIANT VANGUARD/勇敢先鋒
+***WALLFLOWER'S FLASH/壁花閃光
+***DAFT THRUST/瘋推力
+***JAGGED HARPOON/鋸齒魚叉
+***BLADE RAIN/刀雨
+***FREAK OUT/驚慌失措
+***FREAK OUT:TECTONICS/驚慌失措:構成
+*E:Cymbidium Ex Machina/蕙蘭
+***PRIMORDIAL EUPHORIA/原始欣快感
+***PRIMORDIAL EUPHORIA ACT:2/原始欣快感ACT:2
+***PULSATION ARATILLERY/脈動砲兵
+***THREATENING ILLUMINATION/威脅照明
+***SERAPHIC HALO/天使光環
+***SERAPHIC HALO ACT:2/天使光環ACT:2
+***PSYCHIC BLAZE/心靈火焰
+***BLADE RAIN ACT:2/刀雨ACT:2
+***SPEAR JAIL/矛監獄
+***STIMULANT GALUDA/激勵迦樓羅
+***SWORD BREAKER/劍破
+**5面ED:
+***FREAK OUT:EUTHANASIA/驚慌失措:安樂死
+
+*昂/スバル/Subaru<br>[[File:KVB06.png|200px]]
+**蘭花中類似母親定位的存在<s>擅長播種</s>
+**{{censored|劇中被MW的本體-愛莉絲/Alice附身}}
+**專用曲:{{youtube|yJcX_tqq4_E|∀kashicverse}}、{{youtube|8vXP9FnxLOM|Primityforce}}
+*MEX:
+***PRISMATIC SQUALL/棱柱風雨
+***DETHRONE SCYTHE/廢王鐮刀
+***REDEEMER:CARNAGE/救贖者：大屠殺
+***R:SLAUGHTER/救贖者：宰殺
+***R:GENOSIDE/救贖者：滅殺
+***VANDALIZE SIGNAL/破壞訊號
+***DESTINY TERMINATION/命運的終結
+***RESSENTIMENT PARANOIA/怨恨偏執
+***GRANDMASTER'S FEAR/大師的恐懼
+***'''THE DOGMA CIRCUIT/教條循環'''
+*E:Apostasia Ex Machina/假蘭
+***EPIC CARROUSEL/史詩般的旋轉木馬
+***STRAIGHT OUT OF HELL/直接脫離地獄
+***TEARGARDEN'S HORIZON/淚園的地平線
+***GATLING VOLTEX/加特林渦旋機
+***LIVIN'A GETCHA/生活難題
+***PANDEMONIUM ON SPEED DIAL/快速撥號上的混亂
+***VANISHING LIGHT/消失的光
+***RORSCHACH INKBLOT/羅夏墨跡
+***NO ETERNITY/沒有永恆
+***SHUTTERD SOUL AND DYSLEXIA/靈魂的快門與閱讀障礙
+***LACRIMOSA/淚液
+***BURNING DOWN THE SUN/燃燒太陽
+***NIGHTMARE VIEW FROM END OF THE WORLD/世界盡頭的惡夢景觀
+*MW:(拉丁語的七宗罪)
+
+*阿尼姆絲/アニムス/∀nimus<br>[[File:ES0uLa8UwAAW7Io.jpg|200px]]<br>[[File:KVPN.png|200px]]
+**長得像揚羽的不明角色
+**專用曲:{{youtube|89HkVlMZgxQ|專用曲}}
+*MPN:
+***MALICE OF ARROGANCE/惡意的傲慢
+***MALICE OF ACCIDIA/惡意的惰性
+***MALICE OF RAGE/惡意的憤怒
+***MALICE OF ENVY/惡意的嫉妒
+***MALICE OF LUST/惡意的慾望
+**E:Phalaenopsis Ex Machina/蝴蝶蘭
+***BANISH BLAST:G.FLARE/驅逐爆炸：G.FLARE
+***ANNIHILATOR:DARK MIND/殲滅者:黑暗心靈
+***HARLEQUIN OF SORROW/悲傷丑角
+***ANNIHILATOR:OVERGROWTH/殲滅者：過度生長
+***INTO DEEP ANIMOSITY/陷深敵意
+***MASSIVE DISASTER/大規模災難
+* ??? :
+***CARDINAL SIN/大罪
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage''' !! '''Boss'''
+|-
+| 01 ||蜂蘭
+|-
+| 02 ||蜘蛛蘭
+|-
+| 03 ||翼龍蘭
+|-
+| 04 ||蜂蘭
+|-
+| 05 ||蕙蘭
+|-
+| Ex ||假蘭
+|-
+| PN ||蝴蝶蘭?
+|}
+
+==隱藏要素==
+*亞蘭哈的覺醒型態
+**擊毀蜘蛛蘭的腳才能觸發
+
+==參考資料 ==
+*[http://endless-shirafu.com/akashicverse/ 官網]
+**[https://store.steampowered.com/app/1225610/kashicverse_Malicious_Wake/?l=japanese Steam]
+**[http://endlessshirafu.blog.fc2.com/ しらふでいこうかLv.2]
+*[https://www.pixiv.net/users/2844639/artworks Pixiv(LuCK ver.2)]
+*[https://www.pixiv.net/users/95767/artworks Pixiv(ニコライ)]
+
+*[http://34.82.78.74/Akashicverse/AkashicRecord AkashicRecordWiki]
+**[https://akashicverse.game-info.wiki/ 攻略・解析]
+**[https://shmups.wiki/library/%E2%88%80kashicverse_-Malicious_Wake- ShmupsWiki]
+**[https://www.4gamer.net/games/516/G051674/20200627005/ 4gamer]
+**[http://yukue.iku4.com/アカシックバース/ Method]
+*[https://shmuplations.com/akashic1/ Shmuplations開發者訪談]
+**[https://shmuplations.com/akashic2/ Shmuplations]
+* [[同人STG系列作品列表]]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+[[分類:由Browl或其分身建立的條目]]
+[[分類:遊戲]]

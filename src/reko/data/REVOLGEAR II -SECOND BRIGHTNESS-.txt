@@ -1,0 +1,142 @@
+{{h0|Revolgear II Second Brightness/リボルギア2/左輪槍機2 再次閃亮}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|-
+| 下一部：[[KIRISAME BLADE 2]]
+|}
+{{Boring}}
+[[File:Rg2 01.png|300px|right]]
+
+==概要 ==
+* 由驚奇軟體/びっくりソフトウェア所開發的同人橫STG
+**有致敬Konami的作品成份
+**<s>為何沒有初代的原因不明</s>
+
+===系統 ===
+*可選的自機有8架,皆有下列共通的系統
+**自動連射的射擊
+**補助範圍的子機(或著是強化)
+**能量制的超閃光、一秒無敵
+
+*道具:
+**白:加速、最大五段
+**紅:高攻擊型
+**綠:廣範圍型
+**藍:攻守平衡型
+**子機(或著是武器強化):最多兩段
+**粉:狀態復元
+
+=== 模式 ===
+*Start/開始:故事本編
+*Practice/實踐:關卡練習
+*Boss Rush/頭目戰:破關一次後出現
+*Extra/特別:「宇宙」破關後出現
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''難度'''!!'''解說'''
+|-
+|Novice||初學||較為簡單、能擊破敵彈
+|-
+|Arcade||街機||街機規格
+|-
+|Hard||因難||有擊返彈
+|-
+|Universe||宇宙||「因難」破關後出現
+|-
+|}
+
+== 故事 ==
+
+ 公元8010年、人類在幾百年前就已經被一種流行病消滅了
+ 地球上，各地只有軍事設施和人工智能管理的生態管理設施在運行
+
+ 荒蕪的大地上突然出現了一道陰影
+ 那個影子的真實身份是牙御嶽(ガウタキ)生命機器軍
+ 它是以地球本身為生命力的終極入侵者
+ 然而，它們也失去了主人，並一度被創造在遙遠的星球上，作為控制行星的殺戮武器
+
+ 地球唯一能做的就是把他們趕出太空
+ 「即使人類不存在，我們也必須完成保護地球的使命」
+
+ 在牙御嶽宣戰48小時後
+ 在地球上有一架名叫愛機(ラブギア)的載人戰鬥機、飛向天空……
+
+==登場人物 ==
+
+*愛機/ラブギア/LoveGear
+**超級機動戰鬥機、所有飛機都在地球上存在的人工智能的指揮下行動
+***此外，它還具有在人工智能的支持下、能夠像生物一樣通過自我重塑來成長的特點
+***他們分為多種類型、每種類型都有不同的裝備和戰鬥風格
+
+*R/アル
+**駕駛愛機的仿生人
+**它本來有自己的意志和情感,但因人類消滅而消失
+
+*人工知能
+**人類滅絕後統治地球的無名電腦
+**他通過自由控制地球上存在的所有資源和武器來繼續保護地球
+
+===自機 ===
+[[File:RGPlayers.png|400px]]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Type''' !! '''紅'''!! '''綠'''!! '''藍'''!! '''子機'''!! '''炸彈'''!! '''備註'''
+|-
+| 01 ||Rapid/速射||Tail/盯梢||Boomerang/回力鏢||Formation/隊形|| rowspan="5" |MegaFlash/超閃光|| rowspan="4" |
+|-
+| 02 ||TwinLaser/雙雷射||RoundLaser/圍雷射||Pulse/脈衝||Trace/追跡
+|-
+| 03 ||Flame/火炎||Wave/波形||Homing/尋引||F.2/隊形2
+|-
+| 04 ||Piercer/穿刺||BackDouble/後雙向||V.shot/上下|| rowspan="2" |追跡
+|-
+| ? ||Upper/向上||Double/雙向||雷射||看板(男之)娘-銀寄卯月,破關一次後出現
+|-
+| R ||Wide/散射||Chaser/追引||B.rayne/零袮||Gradeup/強化||ZeroDash/零爆走||[https://youtu.be/FgV91hkRPAc 零祢の世界]的主角櫻乃零祢/桜乃零祢
+|-
+| ! ||速射||脈衝&盯梢||尋引&Random(亂射)||Rotate/環繞|| rowspan="2" |超閃光||「因難」破關後出現
+|-
+| Z ||D.Mssl||D.Laser||D.Wave||強化||「宇宙」破關後出現,Ver.D的自機
+|}
+
+===關卡===
+[[File:RGBosses.png|500px]]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''Stage''' !! '''Boss'''
+|-
+| 01||空中戦/A Summer Day||即食<br>汎用戦艦ジオイーター/Zio Eater
+|-
+| 02||前線基地/Astroid Fighter||蠻鱷<br>掃討戦艦サヴェージクルース/Savage Krooth
+|-
+| 03||地下工場/Under World||擊標<br>機動兵器リジターアサルト/Lizitar Assault
+|-
+| 04||巨大戦艦/Great Battle Ship||瑜伽士<br>破壊戦艦ヨギンセ/Yoginse
+|-
+| 05||高速基地/Speed Star||破折<br>抹殺兵器デシュノク/Deshnok
+|-
+| 06||青い惑星/Crystal Cave||泡擲<br>試作戦艦バブルスロアー/Bubble Thrower
+|-
+| 07||ガウタキ要塞/Cross Of Thunder||異腦<br>生命電脳体ゼノブレイン/Xeno Brain
+|-
+| 最終||帰還/Wrong Love||左輪槍機<br>リボルギア/Revolgear
+|-
+| Ex||歸零/Zero Again||-
+|}
+==參考資料 ==
+
+* [https://bikkurisoftware.com/ 官網]
+** [[同人STG系列作品列表]]
+
+==回應 ==
+<!-- コメントの挿入 -->
+<!-- #comment(noname) -->
+
+
+== 備註 ==
+<references/>
+[[分類:由Browl或其分身建立的條目]]
+[[分類:射擊遊戲]]

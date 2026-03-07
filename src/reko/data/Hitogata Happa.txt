@@ -1,0 +1,272 @@
+{{h0|Hitogata Happa<br>ヒトガタハッパ{{ref|可譯為發破(爆炸)之外,還能指[https://ja.wikipedia.org/wiki/はっぱ 葉子及八平方數]}}/Doll Burst/人型発破<br>人形發破/葉葉玩偶}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 上一部：[[GunDeadligne]] 
+|}
+[[File:Happa.JPG|500px|right]]
+
+==概要==
+*由PlatineDispositif所開發的特攻縱STG
+**最初為C68版,到及steam版
+**本條目與重制版本一併介紹
+
+==系統==
+*一面起根據選擇的玩偶當自機使用
+
+*Shot/射擊
+**長壓為低速移動
+
+*Mana/魔力
+
+*Flow/引線/燃點
+**滿格(Max)時就點燃完成
+
+*敵區/Zone of Control
+**黃色是設緩彈區、藍色則是引爆區
+
+*[[自爆]]
+**燃點滿格後,移動到藍色敵區中央就會引爆
+***威力比射擊強(沒有NoMiss條件),必須要多買玩偶備用
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''難度'''!!'''解說'''
+|-
+|Euridice||冥界(初學)||較為簡單
+|-
+|Nobilmente||豪爽(標準)||從這開始沒有無限隻
+|-
+|Allemande||德國(高級)||街機規格
+|-
+|Doomsday||末日||有擊返彈
+|-
+|}
+
+===魔法玩偶<br>アルケノイド/Alchenoid===
+*名稱大都來自植物和茶
+**前八隻為蘿莎未來會遇到的人物為原型
+***後面的4+?是[[彩蛋]]
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''名字''' !! '''能力'''!!'''對應的角色'''!!'''備註'''
+|-
+|莉芙<br>葉/リーフ/Leaf
+||葉刀/リーフカッター<br>陽光/ソーマトワイライト
+||無
+||使用曼德拉草的葉子製成,所有玩偶的基礎<br><s>吉祥物,作者還作油庫里版本</s>
+|-
+|幸運草<br>クローベル/Clover
+||幸運星<br>升光劍
+||「再收集」的克洛博士
+||移動速度較快
+|-
+|羅蒂<br>樹根/ルーティ/Rooty
+||鑽砲/ドリルキャノン<br>火旋/ブレイジングスピナー
+||不明
+||
+|-
+|阿薩姆<br>アッサム/Assam
+||魔導彈/マジカルミサイル<br>極風/アンリミテッドストーム
+||「魔法收穫」(MagicalHarvest)的女巫
+||
+|-
+|伯爵<br>アール/Earl
+||團光束/ラリーマンビーム<br>知慧之聲
+||「再收集」的伯爵式
+||<s>越賣越便宜</s>技術上是逆流到財團後再開發
+|-
+|頂普拉<br>ディンブラ/Dimbula
+||散射/スプレッドショット<br>多祭/サワダサクリファイス'05
+||不明
+||滿格能自行發動自爆
+|-
+|錫金<br>シッキム/Sikkim
+||鎧拳/パンツァーナックル<br>彈鬥/ミサイルスマッシュ
+||不明
+||
+|-
+|白毫<br>ペコ/Pekoe
+||烈刃/ブレイジングエッジ<br>擊殺/ザイオンスレイヤー
+||「骰動騎士」(DicingKnight)的優可公主(ユング・ルルイエ)
+||
+|-
+|白金<br>プラチナ/Platina
+||蓮花谷<br>開蓮花
+||「槍亡戰場」的羅塔斯
+||自帶緩彈區
+|-
+|愛情<br>ラヴァーズ/Lovers
+||星火＆光束/スターファイア＆ビーム<br>知識之風
+||「槍亡戰場」的艾克希蓮
+||
+|-
+|命運<br>フォーチュナー/Fortuner
+||雙槍<br>命運輪
+||「槍魔殿」的艾莉席
+||
+|-
+|愚者<br>フール/Fool
+||錘擊/ハンマーショット<br>跳/ジャンプ
+||「在右邊的女僕桑」的蕾琪・米爾碧(レイチェル・ミルフォール/Rachel Millfall)<br>是艾莉席的姐姐
+||
+|-
+|{{censored|天星13<br>スフィア13/Sphere13}}
+||{{censored|陽光羽/サンライトウィング<br>新世界/ジ・オーバーワールド}}
+||{{censored|}}
+||{{censored|規格外的存在<br>有參與之後的宇宙戰爭}}
+|}
+
+==故事==
+ 在槍魔殿事件發生前二十多年
+ 東普魯士已被偉大的戤戮曼{{ref|捏它是日耳曼(ゲルマン/German)}}帝國(ゲノレマソディー帝国/Genoremasody Reich)所統治
+ 憑藉強大超強科技的軍事實力
+ 造成無數死傷達百年之久{{ref|故事開始是1757年、史實上接近普魯士王國}}
+ 
+ 蘿莎只是很會做飯的平凡女孩
+ 在失去親朋好友後、捲入了命運的戰場
+
+ 當村民們即將被軍隊抓住時,一個神秘的綠色玩偶突然爆炸
+ 消滅軍隊後,帶著綠色玩偶的女孩出現在羅莎面前
+ 她的名字叫庫洛潔,並提議一起去打倒帝國
+
+ 從那一天起,能對抗超強科技的魔偶織者和射擊手相遇
+ 戰爭已經開始—「來場不可思議的茶會吧!!!」
+
+===登場人物===
+*蘿莎・克莉絲托法(CV:塚元玲依)<br>ローザ・クリストファー/Rosa Christfer<br>[[File:Rosa.PNG |300px]]
+**主角,能操縱魔法玩偶
+**二十多年後成為財團總帥<s>乳量增大還不會變老</s>
+***[https://youtu.be/4sIO9n_4uIk 在驅魔槍手為新增自機]<s>結局還玩著不存在該時代的紅白機</s>
+***<s>特列斯、八色の人形使い</s>
+
+*庫洛潔(CV:星野円)<br>クロイツェル/Kreutzer<br>[[File:DLBU02.PNG|300px]]
+**會用寶石製作魔法玩偶的謎樣女孩
+***不擅於操偶,正在尋找一個具有潛力的人
+***還製作能傳送玩偶用的通信水晶與蘿莎聯繫
+***<s>亂丟垃圾造成奇怪的宇宙戰爭</s>
+**四面時被帝國派兵殺死(通常結局)
+***{{censored|若達成特定條件會變成詐死}}
+**{{censored|五面後再出現在羅莎面前}}
+***{{censored|自稱威廉十三世<s>性別不明</s>,並展開茶會(戰鬥)}}
+***{{censored|最後就被炸死{{ref|只能用炸的擊倒她}}(真結局)}}
+**{{censored|結局上設為兩邊說得通,難度卻不同)}}
+***{{censored|<s>諸多共通點推測,疑似是艾克希蓮的前世</s>}}
+{{hideh|招式}}
+*王國/マルクト/Mlkvth
+*基礎/イェソド/Isvd
+*宏偉/ホド/Hvd
+*勝利/ネツァク/Ntzch
+*美麗/ティファレト/Thpharth
+*嚴厲/ゲブラー/Gbvrh
+*慈悲/ケセド/Chsd
+*理解/ビナー/Binh
+*智慧/コクマー/Chkmh
+*王冠/ケテル/Kthr
+{{hidef}}
+
+*[https://rekowiki.org/w/images/9/99/DLBU05.PNG 深淵復仇者]<br>エイビスアヴェンジャー/Abyss Avenger
+**帝國兵器的統稱<s>充滿[[成句/德國的科學力是世界第一|德軍風]]的[[黑科技]]</s>
+***名稱來自傳說地名
+{{hideh|[https://rekowiki.org/w/images/5/5d/DLBU04.PNG 敵機]}}
+*針兵/スパキオン/Spikeon
+*鎵尼/ガローワン/Galione
+*米夏拉/ミーシャラ/Mishalia
+*甲兵/シェリオン/Shellion
+*瓦非歐/ワフリオ/Wafflio
+*基非歐/ギガフリオ/Gigafflio
+*'''巨人/ゴリアサ/Goliathe'''
+*虹吸/シフォン/Siphone
+*刺魨/ディオドン/Diodon
+*錫歐那/シオナ/Xionea
+*'''深潛/ディープワン/Deep One'''
+*塔砲/フォートキヤノン/Fort Cannon
+*重槍/ヘビーガンシステム/Heavy Gun System
+*迪諾查/テノチャン/Tenochia
+*'''納斯卡/ナスカ/Naska'''
+*'''巴比倫/バビロン/Babyrone'''
+*'''埃爾金/エルギーザ/Elgiza'''
+*'''拉普達/ラピュータ/Laputa'''
+*空石/エアロストーン/Aero Stone
+*'''天鵝城/ノイシュバンシュタイン/Neuschwanstein'''
+*小心/ヴェーニヒ・ヘルツ/Wenig Herz
+*槍套/ゲヴェーア・ハルス/Gewehr Hulse
+*飛石/スタイン・フリューゲル/Stein Flugel
+*拉薩/ラサ/Lhasa
+*喜馬拉雅/ヒマラヤ/Himalaya
+*電燈/スパークライト/Spark Light
+*機肢/ロボレッグス/RoboLegs
+*'''蠕蟲/エンドロシュラウベ/End loss schraube/Endlosschraube'''
+{{hidef}}
+
+===[https://rekowiki.org/w/images/f/f6/DLBU06.PNG Stage]===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Mission''' !! '''標題'''!! '''地區'''!!'''Boss'''
+|-
+|0
+||多雲的山谷<br>雲靡く谷
+||克拉科夫/クラクフ/Krakau
+||高機動人型要塞阿瓦隆<br>アヴァロン/Avalone
+|-
+|1
+||鋼鐵樹林<br>鋼鉄の樹海
+||波森/ボーズン/Bosen
+||重戰車阿茲特克<br>アステカ/Azteca
+|-
+|2
+||藍色廻廊<br>蒼の廻廊
+||但澤/グダニスク/Danzig
+||拉萊耶<br>ルルイエ/R'lyeh/Ru_ru_i_e<br><s>那個時代哪有[[哥吉拉]]</s>
+|-
+|3
+||白牆穿越<br>白壁を越えて
+||柯尼斯堡/ケーニヒスベルク/Konigsberg
+||天空要塞亞特蘭提斯<br>アトランティス/Atlantis
+|-
+|4
+||天空之路1757<br>蒼穹航路一七伍七
+||克拉科夫
+||香格里拉<br>シャングリラ/Shangri_La
+|-
+|Last
+||給皇帝一縷鮮血<br>皇帝陛下に血の花束を
+||威廉城域/ヴィルヘルムグロプ/Wilhelm Grob
+||威廉{{ref|史實捏它是腓特烈·威廉}}十二世<br>ヴィルヘルム/Wilhelm XIIth
+|}
+
+==隱藏要素 ==
+*真Boss
+**五面前製作過玩偶的數量達112隻
+
+*追加可用玩偶
+**白金:全破一次(含真Boss)
+**單程全破角色數:愛情(1)、命運(2)、愚者(3)
+**{{censored|天星則會混入莉芙中或是持有的玩偶用完時}}
+
+*單程/Solo Voyage
+**只能使用一隻的模式
+***能用寶石增加殘機
+
+*命運13/Destiny13
+**只能使用13種各一隻的模式
+
+==參考資料 ==
+*[https://www.platinedispositif.net/games/happa.htm 官網]
+**[http://www.platinedispositif.net/games/estab.htm 設定備忘録]
+** [https://store.steampowered.com/app/92210/Hitogata_Happa/ steam版]
+* [http://web.archive.org/web/20161010025440/http://murasame-wiki.info/ 紫雨飯店Wiki]
+** [[同人STG系列作品列表]]
+***<s>[[新機動戰記鋼彈W]]</s>
+** [https://youtu.be/gLI0_8k-KC4?list=PLclgj5uvZRWGtQSBVk5IPClq5OafXjeob Ost]
+** [https://youtu.be/RMvXChuYp4k?list=PLB7DC5BF772F71995 Ast]
+
+==回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+[[Category:射擊遊戲]]
+[[分類:由Browl或其分身建立的條目]]

@@ -454,6 +454,7 @@
 <br>
 
 * 六王院鈴音(幻影)（六王院スズネ(幻影)）【CV：-】 
+** 《蒸汽歌姬 阿緹薩莉雅「幻影」》的持有者
 ** 鐘錶店店長的小孫女
 ** 似乎很喜歡吃由奶奶親手製作的大罐裝奶糖
 <br>
@@ -672,14 +673,15 @@
 * [[若葉睦]]【CV：-】
 ** <s>「Ave Mujica」成員之一，吉他手，月之森學園一年級生</s>
 ** <s>西園寺優奈副號</s>
-** 於《幻真星戦編》第3(？)、4話以路人角色客串登場
+** 於《幻真星戦編》第3(?)、4話以路人角色客串登場
 ** <s>Mortis玩偶(幻影)</s>
 <br>
 
 * [[豊川祥子]]【CV：-】
 ** <s>「Ave Mujica」成員之一，鍵盤手，羽丘一年級生</s>
-** 於《幻真星戦編》第4話以路人角色客串登場
-** <s>現時和好姐妹若葉睦(幻影)在金澤市出遊中</s>
+** 於《幻真星戦編》第4、7話以路人角色客串登場
+*** <s>第4話時和好姐妹若葉睦(幻影)在金澤市出遊中</s>
+*** <s>第7話和好姐妹若葉睦(幻影)失散，只能獨自在餐廳無奈地吃聖代 (無誤）</s>
 <br>
 
 * [[八幡海鈴]]【CV：-】
@@ -704,7 +706,7 @@
 
 * 第三季OP「{{youtube|02wlgat4Jv8|Meramera}}」
 ** 作詞：hunch
-** 作曲：hunch・ROVER(ROYALcomfort,Distorted Wave)
+** 作曲：hunch、ROVER(ROYALcomfort,Distorted Wave)
 ** 編曲：ROVER(ROYALcomfort,Distorted Wave)
 ** 主唱：Kis-My-Ft2
 
@@ -720,7 +722,7 @@
 ** 編曲：みきとP、Sosaku Sasaki、駄菓子O型
 ** 主唱：V.W.P
 
-* 第五季後半OP「ワールズエンドトリガー」
+* 第五季後半OP「{{youtube|YG0HKmJnFe0|ワールズエンドトリガー}}」
 ** 作詞：Ryo‘LEFTY’Miyata
 ** 作曲：Ryo‘LEFTY’Miyata
 ** 編曲：Ryo‘LEFTY’Miyata

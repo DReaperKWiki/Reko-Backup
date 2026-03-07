@@ -1,0 +1,212 @@
+{{h0|Revolgear Zero/リボルギア・ゼロ/左輪槍機・零}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
+|- 
+|上一部：[[Graze Counter GM]]
+|}
+[[File:RGZ000.jpg|400px|right]]
+
+== 概要 ==
+* 由びっくりソフトウェア所開發的同人橫STG
+** <s>乍看是横STG御三家的集大成(神話戰劍的武器和關卡、大流士的人設機設、R-TYPE的子機)</s>
+*** 但也是自家作品的集大成，前作GM的人物和VTuber仍然有來客串
+
+=== 系統 ===
+
+* 可選的自機有2架，皆有下列共通的系統
+** 自動連射的射擊
+** 補助範圍的子機及集氣制的子機投射
+*** 子機帶有攻擊判定、切換時會影響速度
+** 能量制的爆裂攻擊/バースト(又稱雷電之槍/サンダーランス)
+*** 籍由子機擦彈能補充、Boost模式能夠自動恢復能量
+
+* 武器選擇<br>[[File:RGZ001.png|600px]]
+** 分為自機的組合武器/Combine Weapon、子機的分離武器/Separate Weapon及子機配制/Megabit
+***  三者能隨意塔配(初期2架自機不共用、後期解鎖，為16x16x8=2048種)
+{{hideh|武器}}
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''組合武器''' !! '''分離武器'''
+|-
+|Splash/散射砲<br>廣範圍的前方發射散射||Tail Laser/機尾砲<br>能夠同時攻擊前方和後方
+|-
+|Allround/全方位砲<br>同時覆蓋前後方、向5個方向發射子彈||Lighting Call/雷電呼叫<br>命中時會產生縱向爆風
+|-
+| colspan="2" |Spark Cannon/爆裂砲<br>發射在著彈點或近距離爆炸的特殊子彈
+|-
+| colspan="2" |Bubble Thrower/泡沫噴射器<br>發射氣泡狀脈衝彈的實驗性武器<br>雖然威力較低，但可以大量發射
+|-
+| colspan="2" |Power Laser/強力雷射發射會追蹤自機位置、具有貫穿特性的雷射
+|-
+|Manual Aim/手動瞄準<br>操作難度高、根據移動可以變更攻擊方向||Vertical/縱向射擊<br>可以同時攻擊正面與垂直方向
+|-
+| colspan="2" |Formula/式程砲<br>威力高但射程短的能量刀刃
+|-
+|Multiway/廣域砲<br>能夠攻擊正面廣範圍區域||Railgun/電磁砲<br>發射威力強的大型能量彈
+|-
+|Linear/線性砲<br>範圍窄的突擊武器、集中攻擊正前方||Armor Bullet/裝甲彈<br>集中攻擊前方的突擊武器
+|-
+| colspan="2" |Vulcan/火神砲<br>瞬間火力低、向前方散佈慢速子彈
+|-
+| colspan="2" |Micro Missile/微型飛彈<br>能夠發射大量超小型實彈飛彈
+|-
+| colspan="2" |Large Missile/巨型飛彈<br>發射彈速低但威力超高的飛彈
+|-
+| colspan="2" |Small Bomb/小型炸彈<br>以拋物線投擲小型炸彈、會根據移動方向改變投擲軌跡
+|-
+| colspan="2" |Auto Aim/自動瞄準砲<br>自動捕捉近距離敵人的特殊裝備
+|-
+| colspan="2" |Flame Thrower/火焰放射器<br>射程短但威力高的火焰噴射
+|-
+| colspan="2" |Laser Blade/雷射劍<br>用高威力的雷射劍攻擊極近範圍的敵人
+|}
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''投射系統''' !! '''Pheasant'''!! '''Dove'''
+|-
+|可指定方向||Nomal/標準<br>固定在自機側面||Cobra/眼鏡蛇<br>根據自機的攻擊狀態記憶現在位置
+|-
+|設置型||Psycho/感應<br>圍繞自機迴旋||Assault/突擊<br>將子機固定在自機前方
+|-
+|追蹤型||Turret/砲塔<br>將子機固定在一處||Turbo/渦輪<br>將子機固定在自機稍微後方
+|-
+|反向型||Reverse/翻轉<br>標準的反方向||Mamushi/蝮蛇<br>眼鏡蛇的反方向
+|}
+{{hidef}}
+
+* 難度
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''難度'''!!'''解說'''
+|-
+|Novice||初學||較為簡單、能擊破敵彈
+|-
+|ADVANCED||進階||街機規格
+|-
+|EXPERT||專家||中型機有擊返彈
+|-
+|MASTER||大師||所有敵人有擊返彈
+|-
+|}
+
+== 故事 ==
+
+ 位於宇宙的邊疆，行星左輪/Revol
+ 這顆星球上的居民追求力量，發展出了高度發達的文明
+ 最終誕生了人類智慧與最強力量的象徵……
+ 人們將其稱之為「左輪槍機」/Revolgear
+
+ 高度發達的文明不久後成為了招致邪惡意志的遠因，並最終導致了暗黑生命體「異度種」/Xeno顯現
+ 據傳異度種誕生於黑洞的盡頭，透過吞噬眾多文明增幅自身力量
+ 這次也企圖將行星左輪也吞噬
+
+ 只為戰鬥而以基因改造技術創造而出的人造士兵少女・雫
+ 以及，雖然是純粹的人類，卻擁有不遜於雫的實力的王牌飛行員・緋音
+ 為了擊倒異度種，兩人駕駛最新銳的左輪槍機，航向宇宙的盡頭
+ 只為了抓住屬於兩人各自所渴望的未來……"
+
+== 登場人物 ==
+=== 自機 ===
+[[File:RGZ002.png|400px]]
+
+*三日月 雫/Mikazuki Shizuku(CV:MINAGI SONE)
+** 座機:雉雞槍機/Revolgear·Pheasant<br>
+{{Infobox
+| bodystyle = width:50px;
+| image = 
+<tabber> 
+|-|
+正式造型=[[File:RGZ004.png|100px]]
+|-|
+初期造型=[[File:RGZ003.jpeg|150px]]
+</tabber>
+}}
+{{hideh|自機造型}}
+* 空護/Aerial Guardian
+** 珊守/Coral Keeper
+** 噬菌槍機/Revolgear·Phage
+** 次代閃光/Second Brightness
+** 兔雫/Rabbit Shizuku
+** 兔卯月/Rabbit Uzuki
+{{hidef}}
+* NEXT計劃出身、短命的強化人士兵，具有讀心能力
+*** <s>[https://x.com/BikkuriSoftware/status/1509463882540089347 初期造型畫太色以致於正式版改成正常的衣裝]</s>
+** 結局捏它:
+*** {{censored|1「雫的心願」:槍機共鳴讓兩人思考被分享而冰釋前嫌}}
+*** {{censored|3「只屬於你的特等座」:與緋音享受了假期去欣賞煙火}}
+*** {{censored|5「力量的傳承」:左輪星領導者們因應戰果決定策劃侵略其他星系，<br>緋音偽造死亡證明方便逃離軍方的掌控前往地球}}
+
+* 一色 緋音/Isshiki Akane(CV:MIZUKI KAI)
+** 座機:鴿雞槍機/Revolgear·Dove<br>
+{{Infobox
+| bodystyle = width:50px;
+| image = 
+<tabber> 
+|-|
+正式造型=[[File:RGZ006.png|100px]]
+|-|
+初期造型=[[File:RGZ005.jpeg|150px]]
+</tabber>
+}}
+{{hideh|自機造型}}
+* 豪焰/Blaze Of Pride
+** 實驗/Experimental
+** 量產/Mass Production
+** 霧雨太刀/Kirisame Blade
+** 兔緋音/Rabbit Akane:
+** 兔皐月/Rabbit Satsuki
+{{hidef}}
+* 出身軍人世家的王牌飛行員、自卑感滿重的(尤期對雫)<s>但乳量方面比雫大</s>
+** 結局捏它:
+*** {{censored|2「緋音的心思」:同1、決定朋友並思考如何留下美好的回憶}}
+*** {{censored|4「剩餘的時間」:去居住區關照孤兒順便教雫學魔術}}
+*** {{censored|6「於摯友墓前」:同5、左輪星失勢，成為宇宙空軍司令官後到慰靈公園、期待雫能回來}}
+
+=== 關卡、頭目 ===
+
+[[File:RGZ007.png|600px]]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage''' !! '''Boss'''
+|-
+| 01<br>記憶中的藍天/The Blue Sky Of Remembrance<br>入門的敵幕關卡||即士/Zio Soldier
+|-
+| 02<br>宇宙植物研究所/Terrifying Space Plants<br><s>神話戰劍風的</s>植物關卡||雪暴統治者/Blizzard Ruler<br><s>闇腦的水晶龍</s>
+|-
+| 03<br>首都/Shados Covering The Twilight<br>兩段頭目戰||血雲/Bloodstained Cloud<br>噬菌槍機/Revolgear·Phage
+|-
+| 04<br>軌道電梯/Pillar Piercing The Heavens<br><s>R-TYPE風的</s>電梯關卡||刃葉草/Blade Clover
+|-
+| 05<br>前線基地/Sonic Valkyries<br>高速通道關卡||即士改/Zio Soldier Ex
+|-
+| 06<br>白銀要塞/Silver Castle Where Malice Lurks<br>移位牆璧關卡||異度監護者/Xeno Guardian
+|-
+| 07<br>飛向未來/To The Future<br><s>卡比風的</s>終頭目戰||異食/Xeno Eater
+|}
+
+==隱藏要素==
+
+* 結局
+** 1(2):不論難度全破一次
+** 3(4):Boost模式全破一次
+** 5(6):有解鎖結局1(2)時再全破一次
+
+* 自機造型變更
+** 大師難度全破一次
+
+==參考資料 ==
+
+* [https://store.steampowered.com/app/3941820/Revolgear_Zero/ 官網(Steam)]
+** [[同人STG系列作品列表]]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:射擊遊戲]]
+[[分類:由Browl或其分身建立的條目|*]]

@@ -1,0 +1,114 @@
+{{h0|Angeraze/エンジェレイズ/滅殺使}}
+{{ReviseNeeded}}
+[[File:186000798.jpg|300px|right]]
+[[File:Theta.jpg|300px|right]]
+[[File:Bd29cec482626deb38db4944.png|300px|right]]
+
+==概要==
+*由OHBA堂開發的橫向STG
+**版本:C61→Theta(2001年10月)→Complete(2002年3月)
+
+==系統==
+*初期可選的自機有四架,皆有下列共通的系統:
+
+*前/後向射擊
+**獲取藍色三角後攻擊力強化
+
+*近接攻擊
+**攻擊同時自動回收寶石
+**模式限定下魔力緩慢消費
+
+*ボム/炸彈
+**無敵時間、魔力瞬間全耗
+
+*マナエレメント/魔力元素
+**火/FIRE:近接攻擊氣槽無消耗
+**風/WIND:炸彈所需魔力減少、中彈時自動炸彈
+**水/WATER:無攻擊時魔力快速恢復
+
+*即死/サドンデス/Sudden Death
+**一命即死模式
+
+*快集寶石/ハイパージュエル/Hyper Jewel
+**寶石收集模式
+
+==故事==
+
+ 帝國在挖掘空中神殿「巴雷利亞」(バレリア/Valeria)發現的東西
+ 其一部分被稱為「天使之魂」
+ 在十年又168天後
+ 帝國突然開始採取軍事行動
+
+ 世界陷入了狂亂的戰火之中
+ 帝國借此侵略世界各地
+ 人們全然無力反抗...
+
+ 而當人們失去希望的此時
+ 為了各自命運的少女們挺身而出...
+
+===登場人物===
+
+====自機====
+*迪露卡＝羅巴姿/ティルカ＝ロバーツ/Tirca Robert<br>[[File:Tirca.PNG|300px]]
+**前:火機槍/ファイアバルカン
+**後:炎箭/フレイムアロー
+**近:爆焰烺/バーストウェーブ
+**B:機雷域/サンダーテリトリー
+
+*萊法＝阿庫安德/レイファ＝アークエット/Rayfa Arquette<br>[[File:Rayfa.PNG|300px]]
+**前:音波/ソニックウェーブ
+**後:泡破/バブルブラスト
+**近:光之翼/光の翼
+**B:超翼爆發/デアウィングバースト
+
+*菲亞＝賽流絲/フィリア＝セイリュ―ス/Filia Seiryus<br>[[File:Filia.PNG|300px]]
+**前:火射束光/ファイアーレーザー
+**後:環雷射/リングレーザー
+**近:聖槍刺擊/リィ・トゥール スマッシュ
+**B:聖槍解放/リィ・トゥール リリース
+**<s>服裝裡是泳衣</s>
+
+*琪塔/シータ/Theta<br>[[File:ThetaP.PNG|300px]]
+**前、後:變裝/マスカレイド(能力偽装)/Masquerade
+***必須按↑↑(或↓↓)來切換子機的能力
+**近:安薩拉/アンサラー
+**B:黃昏/ラグナロク
+**追加角色<s>,還是個後宮王</s>
+
+<!--???-->
+<!--*AngeRaze-->
+<!--**被封印的兵器-->
+<!--**二階出現的文字:-->
+<!--***Toward the tools who don't know the truth of world,the light of my judgment.-->
+<!--***Then, let the body go back to ashes.-->
+
+===Stage ===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! colspan="2"|'''Signal''' !! '''[https://rekowiki.org/w/images/8/85/ARAllBoss.PNG Boss]'''
+|-
+| 01 ||Sea of wind/海風||鬥士/Dumel/ダムエル
+|-
+| 02 ||Undersea/海底||海魔/Sdemoa/スデモア
+|-
+| 03 ||Invasion/侵略||二重偶/Mezzo Dulls/メゾダルス
+|-
+| 04 ||Fly to.../飛向...||跡象/Skilt/スキルト
+|-
+| 05 ||Vision/視象||幻象/ILLusion/イリュージョン
+|-
+| 06 ||Hope/希望||滅殺使/AngeRaze/エンジェレイズ
+|}
+
+==參考資料 ==
+*[http://ohbado.sakura.ne.jp/ OHBA堂]
+**[https://twitter.com/dai_colorful あきもと大]
+***[https://wiki.komica.org/images/8/85/AngeRazeEDCG.PNG EDcg]
+
+==回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references/>
+[[Category:射擊遊戲]]
+[[分類:由Browl或其分身建立的條目]]

@@ -1,0 +1,229 @@
+{{h0|Graze Counter/グレイズカウンター/擦彈反擊<br><s>吃草計數器/女裝戰機</s>}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style="text-align: center; " |本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
+|-
+|上一部：[[KIRISAME BLADE 2]]
+|-
+|下一部：[[Revolgear Zero]]
+|}
+[[File:CCGMlogo.jpg|600px|right]]
+
+==概要==
+*由びっくりソフトウェア所開發的擦彈STG
+**乍看之下以為是[[超連射68k]]的續作,但細節上並不同
+***倒是同樣能把三個道具一次吸收、故事上偏狂昏雙子加上數據之雨
+**三面BGM{{youtube|8ICARfeQnOg|「Drive All Enemy」}}為「Slash All Of Them!!」的改編
+**本條目與GM版一併介紹(遊戲內容不同,但有補完劇情設定)
+
+===系統===
+*射擊
+**自動連發的射撃
+
+*擦彈反擊/グレイズカウンター
+** 自機擦彈能量滿後手動使出的雷射/レーザービーム、能消彈並自帶護盾
+** 能量50%以上但未全滿的狀況下也可發射，但無附加護盾
+
+*破擊/ブレイク
+**射撃強化，發動瞬間消彈，擦彈反擊能強制取消
+**因此一部分玩家會以擦彈反擊→破擊兩種模式循環+不斷消彈來貪更多分數
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+!'''模式'''!!'''解說'''
+|-
+|任務/Mission||只能用特定自機解謎
+|-
+|全關卡/All Stage||GM新增,不用分歧(A+B)須一次打完
+|-
+|頭目連戰/Boss Rush||任務全破後解鎖的頭目戰模式
+|-
+|特別/Extra||頭目戰全破後解鎖
+|-
+|雷射少女2/Laser Maiden 2||附錄小遊戲
+|}
+
+==故事==
+ 時代是23世紀 
+ 虛擬世界網路伊甸/『EDEN』發展成為能將人類的意識將之數據化,進行新類型的溝通方式,提供各種娛樂的場所 
+ 但是,管理方內部綁架了約240萬人(GM為1億人)的意識
+
+ 為了解決此事態、秘密防衛組織『拯救者』召集了特務人員
+ 將他們和戰機型攻擊程式前往壓制構成伊甸的4個區域
+ 朝向敵機四處埋伏的系統中樞『塔』前進、究竟他們在盡頭看到的是什麼...
+
+==登場人物 拯救者/セイバーズ/Savious==
+*銀寄 卯月/Ginyose Uzuki
+**主角、[[偽娘|女裝男學生]]
+** 其學生服是組織訂做的，因為偶然適應而開始打扮成女性的樣子至今
+***<s>前幾作當通訊員兼生身的隱藏自機,到這裡才有自己的主場</s>
+
+*古山 皐月/Furuyama Satsuki
+**卯月的朋友、元不良少年
+***曾參與某項實驗中[[砍掉重練|慘遭性轉]]還變不回來<ref>Type-06就是原本的樣子</ref>
+**喜歡甜食，但最近很在意自己的體重
+
+*火鳥 疾風/Katori Hayate
+**<s>有同性Metoo前科的</s>天才程式師，出生於程式師世家的女孩，海外留學跳級畢業
+**伊甸的建立成員之一、為了收拾爛攤子而出馬
+***結局收留了史托麗作為自己的助手
+
+*霧雨 斬子/Kirisame Kiriko
+**平時在神社幫忙的女高中生、霧雨流劍術的傳人、疾風的表姊妹
+***與卯月是幼馴染，對卯月異常執著，就算是女裝也沒關係
+***本篇是疾風<s>拖下水</s>找她來的,結局被皐月留下盤查
+***鬼面具在GM被拿掉了
+**<s>和[[霧雨魔理沙|魔理沙]]沒有關係、也不是指橙汁世界那位斬子</s>
+
+===攻擊程式/Attack Program===
+*可選自機,第三架以後的性能會依版本不同
+**GM新增了代駕/Alternate Variant,會變更性能
+[[File:Fv17-m4agAEqJS0.png|800px]]
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+!'''機體'''!!'''射擊'''!!'''附加技能'''!!'''代駕'''!!'''解說'''
+|-
+|G-01/R<br>四月裂者/エイプリルディバイダー/April Divider||散射|| rowspan="8" |過動擦彈<br>附加格擋<br>自動防盾|| rowspan="2" |槐夏Ver.||
+|-
+|G-02/B<br>自由舞者/フリーダムダンサー/Freedom Dancer||直向||
+|-
+|YR-01<br>左輪槍機/リボルギア/Revol Gear||直向|| rowspan="6" |無||裝備了照準子機、擦彈時自動反擊
+|-
+|XK-02<br>霧雨太刀/キリサメブレード/Kirisame Blade||直向短||速度快、能進行秒殺,裝備了刀型子機、但不能消彈
+|-
+|SP-01<br>影裂者/シャドウディバイダー/Shadow Divider||散射|| rowspan="2" |射擊改為破擊
+|-
+|SP-02<br>另類舞者/オルタナティブダンサー/Alternative‧D||直向
+|-
+|SP-03<br>左輪槍機2/Revol Gear 2||散射||破擊為24Way散射
+|-
+|SP-04<br>霧雨太刀2/Kirisame Blade 2||直向||
+|-
+|Type-03<br>左輪槍機||散射||自動充電|| rowspan="2" |槐夏Ver.||
+|-
+|Type-04<br>霧雨太刀||直向||飢渴之心||
+|-
+|Type-05<br>卯月Alt.<br>影裂者||散射||交換||菲莉西亞|| rowspan="2" |CC和B的計量互換
+|-
+|Type-06<br>伊月/Itsuki<br>另類舞者||直向||規則破壞||VTuber[https://www.youtube.com/channel/UCn9tOZvI6Sy4VEd-LDDV5Hg 朝霧きいね]/紀妮
+|-
+|Type-07<br>史托麗<br>左輪軍刀||散射||三元合力||乃亞||
+|-
+|Type-08<br>斬子Alt.<br>霧雨太刀2||斬擊||附加格擋||星花||破擊時斬擊附加刀波
+|-
+|Type-09<br>[https://www.youtube.com/channel/UCTqWRO7U3xZbDdg28NJYrmA 蜂宮葉月]||直向||安詳之死||調色板變化(橙色)||範圍內的照準子機
+|-
+|Type-A<br>[https://www.youtube.com/c/machinerytomoko 機械智子/マシーナリーとも子]||射擊改為鑽頭||特異點!||[https://dic.pixiv.net/a/ハンバーガーちゃん 漢堡醬]/ハンバーガーちゃん
+|-
+|Type-B<br>櫻乃零祢/RAYNE SAKURANO<br>亮紫右旋/Purprettys DEXALTS||散射||永恆球體|| rowspan="6" |無||GRAND CROSS: ReNOVATION的主角機<br>破擊改為太陽劍，雖然不強但可消彈
+|-
+|Type-C<br>莉莉·巴特勒/Lily Butler<br>SAS-02-G2 ARYS||散射||另類使命||BLUE SABER的主角機<br>破擊改為補給機，會瞄準最近目標射擊
+|-
+|Type-D<br>可可亞/Cocoa||散射||超驅動||[https://store.steampowered.com/app/1393420/ 常世之塔]的主角
+|-
+|Type-E<br>尤希/Eugene||直向||手動護盾||貓人尤希/ネコ人間ユージン的主角
+|-
+|Type-F<br>一色緋音/Akane Isshiki<br>猩紅刀刃/Scarlet Edge||散射||快扣||{{censored|預定為新作Revolgear Zero的主角機}}
+|-
+|Type-0<br>三日月雫/Shizuku MikazukiI<br>藍色閃電/Blue Lightning||直向||永恆的記憶||{{censored|預定為新作Revolgear Zero的主角機}}
+|}
+
+===GM===
+===Stage Boss===
+[[File:CCounterBoss.png|600px]]
+*伊甸的擬似人格
+**會使用專屬的攻擊程式<ref>GM版的機體會有所不同</ref>
+**若超過限制時間沒擊破會逃走
+
+*菲莉西亞・羅奇/フェリア・ローチ/Felicia Loach
+**伊甸的守衛<s>、感覺很メスガキ</s>
+
+*獅子瀬 乃亞/ししせのあ/Noa Shishise
+**算是菲莉西亞哥哥
+
+*星花/せいか/Seika
+**<s>[[像妹妹的姊姊|像姊姊的妹妹]]</s>
+
+*利平槐夏/としひらかいか/Kaika Toshihira
+**擬似防火牆的主角鏡象
+
+*史托麗雅薇・艾麗斯/ストリアエ・アリイス/Striae Alis
+**於醫院中的少女製作的程式,其主機轉用於伊甸之後成為本作黑幕
+***<s>差了一兩百年的完成版如月沙羅、格局還比失魂事件還大</s>
+***結局成為疾風的助手<s>GM作為代打自機</s>
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+!'''Stage'''!!'''Boss'''
+|-
+|01 The Encounter World/邂逅世界||Grave Stone/石碑→Dual Lancer/雙重槍擊(GM)
+|-
+|02 Crystal Labyrinth/水晶迷宮||Quadruple Spike/四重釘
+|-
+|03 Maximum Speed/最大速度→The Executor Girl/執行者女孩(GM)||RevolGear/旋轉齒輪<br>或<br>Kirisame Blade/霧雨刀
+|-
+|04 Over To Cloud/轉移到雲端||Devil Purple/紫色惡魔→Violet Devil(GM)
+|-
+|05 Daminian Feather/馴服羽毛→The Administrator/(GM)||Final Guard/最終格擋<br>Bullet Angel/彈丸天使
+|-
+|Ex Crisis Domain/危機域||Revol Saber/左輪軍刀
+|}
+
+===GM新增===
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+!'''Stage'''!!'''Boss'''
+|-
+|02A Aqua Illusion/水色幻象||Blue Trident/藍色三叉戟
+|-
+|04B High Speed Dimension/高速次元||Spider Lily/蜘蛛百合
+|-
+|Ex Crisis Domain/危機域||Genocide Angel/屠殺天使
+|}
+
+==隱藏要素==
+*パシフィスト/Pacifist/反戰
+**選單按上開始、只能使用擦彈反擊的模式
+
+*アンリミテッド/Unlimited/無限
+**最難,Rank200(GM255)、有擊返彈,Boss能防破擊的模式
+
+*解鎖機體
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+!'''破關次數'''!!'''機體(Type)'''
+|-
+|1||T3、T4
+|-
+|2||T5、T6
+|-
+|3||T7、T8
+|-
+|4||T9、TA
+|-
+|5||TB、TC
+|-
+|6||TD、TE
+|-
+|7||TF、T0
+|}
+
+==參考資料==
+
+*[https://bikkurisoftware.com/ 官網]
+**[[同人STG系列作品列表]]
+**[https://store.steampowered.com/app/629440/ Steam]
+***[https://steamcommunity.com/sharedfiles/filedetails/?id=1424101738 Graze Counter 公式ガイド]
+**[https://store.steampowered.com/app/1486440/ Steam(GM)]
+***[https://www.gamer.ne.jp/news/202211170016/ Gamer]
+***[https://toscana-ac.hatenablog.com/entry/2023/02/05/031832 toscanaAC's blog]
+
+
+== 回應 ==
+<comments />
+
+== 備註 ==
+<references />
+
+[[分類:遊戲]]
+[[分類:由Browl或其分身建立的條目]]

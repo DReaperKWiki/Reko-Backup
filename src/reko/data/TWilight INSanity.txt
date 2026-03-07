@@ -1,0 +1,438 @@
+{{h0|TWilight INSanity/狂昏雙子/トワイライトインサニティ}}
+{| class="wikitable" style="margin: 1.5em auto;text-align:center;" 
+|-
+| 本條目歡迎有興趣的朋友加以補完。 
+|-
+| 下一部：[[TWilight refrAIN]] 
+|}
+[[File:Img14669.jpg|right]]
+
+==概要==
+* 又稱永遠的雙子、星海姐妹,為[[永久る～ぷ]]的第一作,同人的「雙子彈幕STG」
+** 版本從官網無料體驗版(C70)到C71完成版
+** 帶有推理成份,依選擇到的分歧路線來決定結局的作品
+
+==== 系統 ====
+* 可選的自機有三組,皆有下列共通的系統:
+* 通常射擊/ショット
+** 自動連發的射擊
+*** 另外有低速版
+
+* 雙子切替
+** 依據戰況來切替自機
+*** 類型分為:兄(姐)→集中型、妹→散射型
+** 卻會影響到使用率(Twinsrate)的變動
+** <s>能以「魔莉絲砲」的方式進行</s>
+** 會因為分歧而改為單獨戰
+
+* 張力(Tension)
+** 本作的Bomb,只能消彈、短時間增強火力及一發特殊攻擊
+*** 能連放,只接使用時為援護式
+** 有Auto Bomb的效果,但侵食率也隨之上升
+
+* 侵食率(P-RATE)
+** 會影響到劇情走向的要素
+** 初為50%,到100%時會Game Over
+*** 光是擦彈、被彈張力時就會上升
+
+* 道具/アイテム
+{| class="wikitable"
+!名字
+!效果
+|-
+|e-crystal(藍)
+|從敵機掉落,使侵食率下降，累積一定數量後增加張力次數
+|-
+|x-crystal(紅)
+|超過一定時間從Boss、中Boss自爆,使侵食率上升
+|-
+|score(綠)
+|增加得分,10、20、40、80...,最大分為40960
+|-
+|1UP(紫)
+|残機加1
+|}
+
+=== 故事 ===
+ 西曆 2090年,人們從現實世界中的ㄧ旁,得到了另一個世界
+ 於電腦網路的「虛擬空間」之中
+
+ 在世界各地,只要植入某種特殊裝置,就能進入虛擬空間中像現實世界般生活
+ 不只能溝通,也能在此體驗到人的所有感覺
+
+ 該空間名為「幻象網路/Illnet(イルネット)」
+ 但在10年後的1月,發生利用失魂現象來劫持創世城的事件
+
+ 而3對雙子還不知道,這一晚的行動會影響到Illnet的將來...
+
+=== 登場人物  ===
+
+* 羽板兄妹
+** 年輕的程式設計高手,受研究單位請託來調查事變的緣由<br>[[File:Img14670.jpg]]
+* 羽板慎也/Shinya Haneita
+** 射擊:斬擊波(直向/STRAIGHT)
+*** 張力版為慢速長型斬擊波
+** 本作唯一'''男性'''自機,16歲的高一生
+** <s>超高校級的</s>程式「秀才」
+*** {{censored|<s>因為是'''秀才'''所以修不好電子寵物,而該寵物被修好後則反過來咬他(下述)</s>}}
+** 冷靜沈著,因從小與妹妹參加程設競賽而有不少得獎經歷而成為某研究所的成員
+** 結局捏它:
+*** [https://rekowiki.org/w/images/6/62/02_sinya_a.jpg A「信じる未来/相信未來」]{{censored|未觸及事件核心,回歸平凡日常}}
+*** [https://rekowiki.org/w/images/5/50/02_sinya_b.jpg B「後悔」]{{censored|受自爆波及到的妹妹無法在現實醒來,慎也無奈往窗外看...}}
+*** [https://rekowiki.org/w/images/1/10/02_sinya_c.jpg C「再生」]{{censored|將沙羅破壞的數年後,為了創造人類與AH之間不會發生衝突的世界, 與妹妹合作開發出「理性」的AHC,論文中有著「YUKI」與「SARA」的名字...}}
+
+* 羽板櫻/さくら/Sakura Haneita
+** 射擊:櫻花彈(7way WIDE)
+*** 張力版為櫻花散佈
+** 慎也的妹妹,16歲的高一生
+** <s>超高校級的</s>程式「天才」
+*** 但本人對程設則不感到很大的興趣,並將研究員資格推給哥哥
+** 結局捏它:
+*** [https://rekowiki.org/w/images/8/8a/01_sakura_a.jpg A「日常」]{{censored|回歸平凡日常,養了一隻名為「疾風」(ハヤテ)的電子寵物}}
+*** [https://rekowiki.org/w/images/7/79/01_sakura_b.jpg B「片翼の天使/片翼的天使」]{{censored|慎也為了保護她而受自爆波及,無法在現實醒來, 為了避免慘劇重演、創造人類與AH幸福的世界,結果代替哥哥成為研究員而努力著}}
+*** [https://rekowiki.org/w/images/9/97/01_sakura_c.jpg C「春の女神/春之女神」]{{censored|將沙羅核心回收的數年後, 以春季牌(プリマベーラ)之名開發新的AH,具有能充分表達豐富情感的理性AHC, 設計者為「羽板櫻」主任,在揭幕儀式時,帶著她的女兒「沙羅」}}
+
+* 西條姐妹
+** 闖入幻象網路的駭客姐妹,與整個事件有著密切關係<br>[[File:Img14671.jpg]]
+
+* 西條<s>魔理沙</s>悠莉/Yuuri Saijou
+** 射擊:貫通雷射(LINE LASER)
+*** 張力版為多列雷射
+** 18歲的自由業高中生,強氣型
+** 實為<s>魔砲使</s>駭客雙子之姐
+*** 負責侵入、竊取資料(但不是重要的,可能在尋找...)
+*** <s>因為是駭客(小偷),所以用魔砲開路進行侵入的非常手段</s>
+** 有著被父母丟棄的不幸過去
+*** 在8歲時遇到神月光紗後,程設能力才被開發出來
+*** 同時也理解製造AH{{censored|如月沙羅}}的原意
+*** 在不需要光紗後,重複研究她遺留下的資料文件
+** 結局捏它:
+*** [https://rekowiki.org/w/images/3/38/04_yuri_a.jpg A「遙かなる時の彼方に/時越的彼方」]{{censored|未觸及事件核心,但想著何時能夠破壞老師的最高傑作}}
+*** [https://rekowiki.org/w/images/0/0f/04_yuri_b.jpg B「姉/姐」]{{censored|受自爆波及到的妹妹無法在現實醒來,不作駭客}}
+*** [https://rekowiki.org/w/images/5/5a/04_yuri_c.jpg C「対なす翼/對應之翼」]{{censored|將沙羅破壞的4年後,為了超越老師的作品, 與、妹妹某位助手AH三人組成資安公司,開發出分別加入了「消極」與「積極」情感來保持平衡的AHC迴路 構想來自姐妹本身}}
+
+* 西條<s>紫</s>真悠/Mayuu Saijou
+** 射擊:Way+導引紫球彈(WIDE5way+GUIDED)
+*** 張力版為串珠狀導引紫球彈
+** 18歲的自由業高中生,文雅型
+** 實為駭客雙子之妹
+*** 負責收集地下情報
+** 過去、才能經歷與姐姐大致相同
+** 結局捏它:
+*** [https://rekowiki.org/w/images/4/48/05_mayu_a.jpg A「妹」]{{censored|未觸及事件核心,但想著不讓姐姐走向跟老師一樣的道路}}
+*** [https://rekowiki.org/w/images/3/3b/05_mayu_b.jpg B「孤独/孤獨」]{{censored|受自爆波及到的姐姐無法在現實醒來,無法再幫助姐姐了}}
+*** [https://rekowiki.org/w/images/8/88/05_mayu_c.jpg C「双つの翼/雙翼」]{{censored|將沙羅破壞的4年後,為了超越老師的作品, 開發出具有豐富情感的AHC,獲得本年度最優秀的程式設計獎, 她們不再是駭客,而是跟老師一樣、最優秀的程式設計師}}
+
+* 星海姐妹{{ref|因為是實驗代號,故事中的名字才以「片假名」形式標示,僅在omake文檔中給出了漢字寫法}}
+** (舞羽/紅、翼/藍)<br>[[File:Img14672.jpg]]
+
+* <s>神綺</s>{{ref|配色,續作AS的服裝配色也類似}}星海舞羽/ホシミ マイハ/Maiha Hoshimi
+** 射擊:光翼彈(直向/STRAIGHT,移轉30度)
+*** 張力版為中心旋渦+羽毛散佈
+** 有點脫線,翼的<s>半靈</s>姐姐
+*** 奈米械實驗體之一,但產生排斥反應死亡
+*** 目存在於翼的精神之中<s>另一人格</s>,進入幻象網路時才分離出來
+*** {{censored|死亡後殘留的奈米械被回收再利用,<s>於6-A、6-C可以自己打自己</s>}}
+** 結局捏它:
+*** [https://rekowiki.org/w/images/2/29/08_maiha_a.jpg A「絆」]{{censored|未觸及事件核心,翼向所員介紹舞羽,認知她的存在}}
+*** [https://rekowiki.org/w/images/6/63/08_maiha_b.jpg B「Vanishing Ghost/失魂」]{{censored|翼受自爆波及而消失,但翼的身體只有舞羽的精神, 後來舞羽出於愧疚去尋找翼而失蹤,數年後於Illnet出現名為「雙子幽靈」的都市傳說}}
+*** [https://rekowiki.org/w/images/8/85/08maiha_c.jpg C「Feather in dream/羽之夢」]{{censored|回現實後發覺舞羽不在翼身上,而舞羽於Illnet漂流並幽靈化, 數個月間出現此傳聞,妹妹前去果然找到舞羽而感動的再會}}
+
+* 星海<s>妖夢</s>翼/ホシミ ツバサ/Tsubasa Hoshimi
+** 射擊:鳥翼彈(WIDE 5Way)
+*** 張力與妹妹相同
+** 舞羽的妹妹,13歲的國一生
+*** 無口,同為奈米械實驗體之一
+*** 在實驗室的出入限制下,被斷絕與外界的接觸而有少許公開信息,學習著大學層級的課業
+*** 對現在的生活感到滿足,但同時比誰都更清楚地記得姐姐死去的那一天
+** 結局捏它:
+*** [https://rekowiki.org/w/images/8/8f/09_tubasa_a.jpg A「共生」]{{censored|未觸及事件核心,舞羽繼續存於翼中生活著}}
+*** [https://rekowiki.org/w/images/b/b4/09_tubasa_b.jpg B「奇跡の理由/奇跡的理由」]{{censored|舞羽受自爆波及而消失,研究所的櫻花已經盛開了, 在那裡的翼想著不會忘記姐姐當時的笑容,回去後,降下的櫻花如羽毛般飛舞}}
+*** [https://rekowiki.org/w/images/4/4c/09_tubasa_c.jpg C「Eternal Melody/永恆的旋律」]{{censored|回現實後發覺舞羽不在自己身上,回而寂寞一陣子, 後來創世城出現「幽靈」的傳聞,翼前去果然找到姐姐而擁抱}}
+
+==== Stage Boss「虛象人(AH/ArtificialHuman/アーティフィシャル ヒューマン)」 ====
+* 會使用專屬張力「Enemy Tension」
+** 招式依難度、配色及分歧而有所不同(HARD有擊返彈)
+*** 依序為A{{ref|若侵食率過高,強制進入A線}}<B<C<SEQUEL
+
+* 米亞·歐斯/ミア＝オース/ミア·オース/Mia Auth<br>[[File:Img14673.jpg]]
+** 又稱認證桑(認証ちゃん)、認證炭(認証たん)
+** 有著令人深刻的表情變化
+*** 登入時就會遇到,在她的允許下才能進虛擬空間(否則被趕回現實世界)
+*** 原本不能傷害人類,但在Worm的侵食下而失控
+*** 所表現出的彈幕為「O」與「X」
+** <s>TaToBa的オース,與後兩位組成聯組</s>
+** 沒有色違,系列作看板娘之一
+** 專用曲:{{youtube|QyFQiHUyjTo|『GuardianⅠ - A gate keeper -』(守護者Ⅰ-守門人-)}}
+
+* 代號-???/CODE-???<br>[[File:Img14711.png]]
+** 身份不明的過場中Boss,無角色立繪
+** <s>符卡模擬器</s>{{ref|彈幕帶有東方符卡的影子在}}
+** 依序為Sky、Green、Yellow、Purple、Orange、Red
+*** SEQUEL為0(黑) & 255(白)<br>[[File:Img14712.jpg|300px]]
+
+* 雪莉/シェリー/Sherry<br>[[File:Img14674.jpg]]
+** 同在Worm的侵食下而失控的女警AH
+*** <s>防毒軟體</s>,原本負責清除病毒和蠕蟲及在幻象網路的壞人
+*** 持有的槍械,不會對人類有很大的傷害
+*** 所表現出的彈幕為槍彈
+** 專用曲:{{youtube|eXH2y2zbc3E|『GuardianⅡ　- Gun's Heart -』(守護者Ⅱ-槍之心-)}}
+
+* 真夜/Maya{{censored|→暴走真夜/真夜 -Overload-(SEQUEL)}}<br>[[File:Img14675.jpg]]
+** <s>黑色妖夢,</s>沙羅製造,最接近人類性格的AH
+*** 劍術高手,與米亞一樣沒有2P色
+*** 率領Worm,創世城光壁外的守護者
+*** <s>具有方向控制的超能力</s>
+*** 所表現出的彈幕為斬擊
+** {{censored|後日談(SEQUEL)事件的Ex Boss,[https://rekowiki.org/w/images/b/b5/Ex_maya_hyoujou1.jpg 為感染後的暴走狀態],[https://rekowiki.org/w/images/7/72/17_ex_maya_full.jpg 會展開惡魔般的光翼(True Night/トゥルーナイト),能防止張力]}}
+*** <s>連大招都在捏自己的名字...</s>
+** 專用曲:
+*** {{youtube|Iv9Qx99r_Qg|『GuardianⅢ　- Assault Girl -』(守護者Ⅲ-突擊少女-)}}
+*** {{youtube|GggIP5fxCPc|『Broken Heart』(破碎之心)}}
+*** {{youtube|DgCDKjVeI_o|『Broken Heart -earnest-』(真．破碎之心)}}
+** 結局捏它(EX2):
+*** 共通{{censored|於研究所修復,其AHC未受到損壞}}
+*** 羽板線[https://rekowiki.org/w/images/b/b1/03_haneita_ex.jpg 「トライアド/三人行」]{{censored|成為羽板兄妹的助手,雙翼結局?}}
+*** 西條線[https://rekowiki.org/w/images/d/df/07_saijou_ex.jpg 「supporter/擁護者」]{{censored|成為西條姐妹的助手(女僕?)}}
+*** 星海線[https://rekowiki.org/w/images/e/eb/10_hosimi_ex.jpg 「mediator/中立者 」]{{censored|成為奈米械的實驗體之一}}
+
+* 歐特/アルト/Alto<br>[[File:Img14676.jpg]]
+** <s>夢子+幽幽子</s>原名不明的助手女僕AH,前主人是偵探
+** 與主人出任務時,誤中陷阱
+*** 自己強制將陷阱解除,但造成主人重傷,連自己的核心也受到損壞
+*** 結果將自己癈棄掉,後來被路過沙羅撿走修復{{censored|並派去尋找神月光紗}}
+** 雖然其AHC失去大部份記憶,但還記得主人送給她的戒指
+*** 另外對沙羅有著忠誠心
+*** 所表現出的彈幕為戒指
+** 大難關,侵食率都會困她而刷高
+** 專用曲:{{youtube|Tcwe2oFBcdU|『GuardianⅣ - DancingDoll - 』(守護者Ⅳ-舞動人形-)}}
+
+* 艾基斯/神盾/アイギス/Aegis<br>[[File:Img14677.jpg]]
+** [https://rekowiki.org/w/images/3/36/10_aigiscolor4.jpg 光紗製作的防火牆-戰鬥用AH,外號「無敵之盾」的少女]
+** 原本就是具有攻擊性的性格，被沙羅改造AHC後更爲明顯
+** 與西條姐妹是舊識
+** <s>顏藝生成器一號</s>
+** 所表現出的彈幕為爪,還能製造雜魚
+** 專用曲:{{youtube|UwFOUIUJePc|『GuardianⅤ - HI'PrEsSurE+ - 』(守護者Ⅴ-壓迫者-)}}
+
+* 克隆舞羽/黑舞羽/マイハのクローン(ブラックマイハ)/Maiha(Clone)<br>[[File:Img14684.png]]
+** 4年前,星海舞羽因排斥反應死亡時,殘留在幻象網路的奈米機械
+*** 沙羅將它收集而製成,6-A兼6-C的Boss
+*** 負責製造圍住創世城的光壁{{censored|所以被擊倒後事件算解決了一半}}
+** 黑化版舞羽,<s>顏藝生成器二號</s>
+*** 發出的彈幕中也有本尊的光翼彈
+** 結局捏它:
+*** A路線將{{censored|主角們拖下水而自爆}}
+** 專用曲:
+*** 6-A{{youtube|fzTZLaD9Tco|『invulnerable being』(無敵的存在)}}
+*** 6-C{{youtube|-5_bzdw-V_E|『Phantom』(幻影)}}
+
+* 雪/ユキ/Yuki<br>[[File:Img14685.png]]
+** 原為慎也無法修復而遺棄的電子寵物,後來被沙羅修好成為看門犬
+*** 跟歐特一樣其AHC也失去大部份記憶
+*** {{censored|下場被羽板兄妹忍痛擊爆}}
+*** 所表現出的彈幕為雪(連狗也可以?)
+** 專用曲:『Phantom』(同克隆舞羽)
+
+* 神月光紗/Misa Kouduki<br>[[File:Img14686.png]]
+** 科學家,最優秀的程式設計師
+** 雖然性格似乎也沒那麼好,但期待西條姐妹能有所成長
+*** 羽板線為程設比賽的審査委員
+** 10年前因失魂現象而死亡{{censored|,造成西條姐妹走上駭客的道路}}
+** {{censored|沙羅的製造者}}
+*** {{censored|西條線6-C的Boss,精神還在但以被自作的「攻撃用特殊Worm」,感染後的狀態登場}}
+*** {{censored|真正死亡前,留下「毀掉如月沙羅」的遺言而消失...}}
+** 結局捏它:
+*** 西條C共同[https://rekowiki.org/w/images/0/0e/06_saijou.jpg 「受け継がれた心/受繼承之心」]{{censored|獲得電腦科學最高等的A.M.T.賞,得獎人除西條姐妹,再加上第三人-「神月光紗」}}
+** 專用曲:『Phantom」(同克隆舞羽)
+
+* 如月沙羅/Sara Kisaragi<br>[[File:Img14687.png]]
+** 佔領創世城事件的「元凶」{{censored|,目的是為了找尋製造她的「母親」-神月光紗}}
+** {{censored|光紗以「相信自己是人類」為前提下而作的AH}}
+*** {{censored|其AHC未完成的關係,出現失控、暴走的舉動(代表標題的Insanity)}}
+** 能力大到干涉Illnet的世界及侵食率
+** 追著她時,會大量放雜魚
+*** 所表現出的彈幕為彩
+*** <s>「進擊的小人」是抄她的</s>
+*** {{censored|最後有能防止張力的天使光翼型態}}
+** <s>顏藝生成器三號</s>
+** 結局捏它:
+*** B路線{{censored|將其中一人拖下水而自爆}}
+*** 羽板線C{{censored|為羽板櫻撿去,數年後修復,卻失去當時的記憶}}
+*** 西條、星海線C{{censored|被擊爆後消失}}
+** 專用曲:
+*** {{youtube|o7Vpgp9hy-8|『Procyon』(南河三)}}
+*** {{youtube|edpMO_YjlTU|『Demi-Human-Circuit』(半人迴路)}}
+
+==== 用語 ====
+
+* 幻象網路(Illnet/イルネット)
+** 全名Illusion Network,人造虛擬空間
+
+* 創世城(Genesis City/ジェネシスシティ)
+** 幻象網路中的城市,故事的舞台
+*** 於2090年建造<s>,同年發生超高空戰鬥爆擊機反擊外星勢力的事件</s>
+
+* 登入/出(Diver-In/Out/ドライブイン/アウト)
+** 經由裝置出入幻象網路的過程
+
+* AHC/虛像人回路(Artificial Human-Circuit)
+** AI的高階版,具有人類的感情
+
+* AH/虛像人(Artificial Human)
+** 機器人的的虛擬版,為於幻象網路中的人類服務而存在
+*** 同時也比照機器人三則
+** 也有動物型的電子寵物(電子ペット)
+
+* 奈米械/ナノマシン/Nano Machine
+** 能存在於虛擬空間,記錄資料及能量
+** 故事中有著植入人體的實驗
+
+* Worm/ワーム/蠕蟲、Virus/ウィルス/病毒、Bug/バグ/蟲
+** 本作雜魚
+
+* 失魂現象(バニシング・ゴースト/Vanishing Ghost)
+** 精神意識被鎖在幻象網路中,造成現實肉體的快速虛弱而死亡
+
+* 光壁
+** 以克隆舞羽的奈米械來包覆,需要真夜的認證碼才能進入
+
+* 黄昏の88秒/黃昏的88秒
+** 指Stage生存關卡,只要侵食率未達100%時過88秒,即脫出成功
+
+* SEQUEL(後日談)
+** 難度為Ex級,三個月後,Illnet出現大量Worm、Virus,造成創世城崩壞的事件
+*** {{censored|中心處的元凶為暴走真夜}}
+
+=== Stage ===
+{| class="wikitable"
+! rowspan="2" |Stage
+! rowspan="2" |分歧
+! colspan="3" |關卡標題
+! rowspan="2" |Boss
+|-
+!羽板
+!西條
+!星海
+|-
+|1
+|
+|Ignition/點火
+|Invaders/入侵者
+|Plumage/羽毛
+|米亞·歐斯
+|-
+| rowspan="2" |2
+|A
+|歓楽街の空/歡樂街之空
+|skylight/天窗
+|Nightmare/惡夢
+| rowspan="2" |雪莉
+|-
+|B
+|夜の住む街/街道之夜
+|moonlight/月光
+|marionette/木偶
+|-
+|3
+| -
+|Doll with will/有意志的人偶
+|感情
+|戦姫/戰姬
+|真夜
+|-
+| rowspan="3" |4
+|A
+|静寂の街/寂靜之街
+|絶望/絕望
+|異界
+| rowspan="3" |歐特
+|-
+|B
+|無音の街/無音之街
+|冥界
+|聖域
+|-
+|C
+|沈黙の街/沈默之街
+|聖柩/聖櫃
+|絶対領域/絕對領域
+|-
+| rowspan="3" |5
+|A
+|彼方
+|深層
+|昏き壁/昏暗壁
+| rowspan="3" |艾基斯
+|-
+|B
+|闇へと続く道/通往黑暗的道路
+|後継/後繼
+|Darkness Night/暗夜
+|-
+|C
+|真実へと続く道/通往真相的道路
+|遺言/遺言
+|暗闇の底に眠るもの/沈睡在黑暗底部
+|-
+| rowspan="3" |6
+|A
+|Copy Robot/複製機器人
+|Break/破碎
+|番犬
+|克隆舞羽
+|-
+|B
+|Nemesis/復仇者
+|Artificial/人造的
+|世界の中心/世界中心
+|如月沙羅
+|-
+| rowspan="2" |C
+|Demi-Human-Circuit/人形迴路
+|Wired Ghost/聯繫的亡靈
+|二つの心/雙重之心
+|如月沙羅+?
+|-
+|?
+|雪
+|神月光紗
+|克隆舞羽
+| rowspan="3" | -
+|-
+| rowspan="2" |7
+|Credit
+|未来を翔る翼/飛向未來之翼
+|Escape Velocity/逃亡速度
+|光の羽/光之羽(6-B)、光の翼を広げて/張開光之翼
+|-
+|未Credit
+! colspan="3" |Drive-OUT Process/脫出歷程
+|-
+|Sequel
+|
+|Over-Drive/超越
+|The Future/未來
+|sympathy/同情
+|暴走真夜
+|}
+
+=== 參考資料 ===
+*[http://web.archive.org/web/20140508114709/http://www85.sakura.ne.jp/~loop/ 永久る～ぷ]
+**[http://paraset.iza-yoi.net/TWINS/top.html TWilight INSanity攻略とはあまり関係の無いページ]
+*** [http://inabashiro.web.fc2.com/old/TWINS_top.html 台詞集]
+**[http://dic.nicovideo.jp/a/twilight%20insanity TWilight INSanity(ニコニコ大百科)]
+**[http://web.archive.org/web/20080519004747/http://blog.roodo.com/-caiyu-/archives/3868929.html 依蘭翠絲印緘坊:TWilight INSanity - 樂多日誌]
+**[http://bbs.doujinstg.net/simple/?t281.html 同人嘉年華(1)]
+***[http://bbs.doujinstg.net/simple/?t284.html 同人嘉年華(2)]
+***[http://bbs.doujinstg.net/simple/?t285.html 同人嘉年華(3)]
+**[http://www17.ocn.ne.jp/~opa/twins2.htm 同人四格?]
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:射擊遊戲]]
+[[分類:由Browl或其分身建立的條目]]

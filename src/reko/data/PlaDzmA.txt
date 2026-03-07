@@ -1,0 +1,105 @@
+{{h0|PlaDzmA/プラドズマ/星電戰機}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+{{Missing}}
+{{Boring}}
+{{UnderDiscuss}}
+==概要 ==
+* 由RezetiA所開發的超複合STG(Super Hybrid Shooting Game)
+
+===系統 ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! '''系統''' !! '''解說'''
+|-
+|可選武裝||最多持有兩項武器
+|-
+|通常射擊(Main Shot/メインショット)||從自機發射
+|-
+|補助射擊(Sub Shot/サブショット)||從子機發射
+|-
+|子機||低速/射擊時固定,往前時調整為前方、往後則到自機兩側
+|-
+|炸彈(Bomb/ボム)||電離子式、分紅藍兩色,通常為從自機周圍放射、低速則為前方放射
+|-
+|等級||依擊墜敵機來提昇射擊火力及炸彈能量
+|}
+
+*武裝一覧:
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! '''武裝''' !! '''解說'''
+|-
+|機槍/Vulcan/バルカン||
+|-
+|飛彈/Missile/ミサイル||
+|-
+|雷射/Laser/レーザー||
+|-
+|加農/Cannon/キャノン||
+|-
+|放射器/Blaster/ブラスター||
+|}
+
+==登場人物 ==
+
+===自機 ===
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! '''機體''' !! '''速度''' !! '''炸彈''' !! '''判定''' 
+|-
+|繪架座/Pictor/ピクター||8||藍||4
+|-
+|烏鴉座/Corvus/カラス||7||~||5
+|-
+|矩尺座/Norma/ノーマ||8||~||4
+|-
+|麒麟座/Monoceros/モノセロス||10||~||2
+|-
+|孔雀座/Pavo/パーヴォ||9||~||3
+|-
+|天鶴座/Grus/グルース||11||紅||2
+|-
+|波江座/Eridanus/エリダヌス||12||~||1
+|}
+
+==Stage ==
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+! Stage !! Boss 
+|-
+| 01 ||處女座η/Zaniah/ザニア
+|-
+| 02 ||烏鴉座γ/Gienah/ギェナー
+|-
+| 03 ||大犬座ζ/Furud/フルド
+|-
+| 04 ||仙王座υ1/Castula/カスティージャ
+|-
+| 05 ||牧夫座θ/Asellus/アセルス
+|-
+| 06 ||獅子座α/Regulus/レギュラス
+|-
+| Ex ||金牛座η/Alcyone/アルキオネ
+|}
+
+==參考資料 ==
+
+* [http://web.archive.org/web/20100702210647/http://rezet.rdy.jp/rezetia/index6.html 官網]
+** [[同人STG系列作品列表]]
+
+==回應 ==
+<!-- コメントの挿入 -->
+<!-- #comment(noname) -->
+
+
+== 備註 ==
+<references/>
+
+[[分類:射擊遊戲]]
+[[分類:由Browl或其分身建立的條目]]

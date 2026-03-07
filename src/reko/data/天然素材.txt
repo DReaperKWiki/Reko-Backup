@@ -1,0 +1,69 @@
+{{h0|天然素材/てんねんそざい/Tennen-sozai}}
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+[[File:Ten_logo_bl-256x202.png|center]]
+
+==簡介==
+*為製作同人游戲的同人團體，前身為FLAT。
+**原FLAT時期，一開始的作品為同人ADV-「秘密遊戲-殺手皇后」（KILLER QUEEN/キラークイーン）及三部同人STG。
+**到了2007年，後來分家，FLAT正式商業化，而同人STG方面則繼承到新建立的「天然素材」那裡（所以同人FLAT網站已經關閉）。
+
+*主要成員有：寺月恭一（代表）
+**(eXceed2nd)：はやかわ凛太（作畫）、cranky、shibayan（音楽）
+**(eXceed3rd)：雪見月、サフィ、己即是空（作畫）、埼玉最終兵器(音楽)
+
+*據傳eXceed系列原預計作到第5部,但目前到4TH後就沒下文了...
+
+==作品一覽==
+
+===前作(FLAT時期)===
+*[[PHANTASM]]（2005年/橫軸STG/Windows）
+**最初作，科幻風的游戲。
+
+*eXceed-イクシード-（C69/縱軸STG/Windows）
+**eXceed系列的第一作，主題是教會的騎士們對抗吸血鬼軍團。
+
+*eXceed2nd-VAMPIRE-（C70/縱軸STG/Windows）
+**eXceed系列的第二作，立場對調，同時顯現出教會的黑幕。
+
+===新作（天然素材時期）===
+
+*eXceed3rd-JADE PENETRATE-（2007年8月17日/C72/縱軸STG）
+**天然素材成立後的第一作，有使用動畫聲優來配音的作品。
+**與前兩作的時點不明，以魔王選拔大會為主軸，順便介紹希魯德雷的身份。
+
+*[[eXceed2nd-VAMPIRE REX-]]（2007年12月31日/C73/縱軸STG）
+**C70的重製版，大改游戲內容，並加上安赫爾去向的結局。
+
+*[[eXceed3rd-JADE PENETRATE- BLACK PACKAGE]]（2009年12月30日/C77/縱軸STG）
+**C72的重製版，追加新角色及Extra關卡，同時也補充2nd-不死王的身份及選拔會的真相。
+
+*The-exceed-collection（2012年3月29日）
+**由CAPCOM販售，為eXceed系列的海外英語版合輯，收錄初代-GBC、2nd-REX及3rd-BP。
+
+*eXceed4th（暫）（日期未定/縱軸STG）
+**官網Blog有提到的新作。
+
+==參考資料==
+*[https://tennen-sozai.com/ 官網]
+**[http://web.archive.org/web/20160406123234/http://exceedseries.com/ 海外英語版官網]
+*[http://flat-software.com/ FLAT官網(18禁)]
+*[https://en.wikipedia.org/wiki/EXceed eXceedWiki]
+**[http://dic.nicovideo.jp/a/flat ニコニコ大百科]
+**[http://yasshi1219.blog.shinobi.jp/exceedシリーズ攻略/exceedシリーズ攻略 exceedシリーズ攻略]
+
+===人物作畫===
+*[http://web.archive.org/web/20080618201345/http://zec.nihon.to/ 己即是空]
+*[http://windtone.jp/ サフィ(R18)]/[https://www.pixiv.net/users/34120 Pixiv]
+*はやかわ凛太
+
+==回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:同人團體]]
+[[分類:由Browl或其分身建立的條目]]
