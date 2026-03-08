@@ -5,49 +5,440 @@
 |-
 |以下內容含有部分劇情洩漏<s>這遊戲有劇情嗎？</s>，沒玩過遊戲又不想'''在最後一秒也沒能拆包炸彈導致被炸死'''的話就請不要繼續看下去。
 |}
+{{Bael}}
 
 == 解說 ==
-* 原本是民間自製《戰慄時空》的模組之一，後來被Valve收購後成為單獨系列，後續作品均為Valve推出的第一人稱射擊遊戲。
-* 主打反恐戰爭的PVP，玩家可以分成反恐人員（Counter Terrorists、CT）與恐怖分子（Terrorists、TR）兩個陣營在不同的規則下競技。
-* 其中TR陣營角色部分雖然有現實藍本但大多是虛構組織，相反的CT陣營的角色全部都是現實世界存在的反恐部隊。
+* 原本是玩家自製的《[[戰慄時空]]》模組。後來被Valve收購並自成一派，後續作品均為Valve推出的第一人稱射擊遊戲系列。
+* 主打反恐戰爭的PVP，玩家可以分成{{ruby|反恐小組|Counter Terrorists}}（CT）與{{ruby|恐怖分子|Terrorists}}（T）兩個陣營在不同的規則下鬥智鬥勇。
+* 世界上最成功的電子遊戲系列之一，開創了現代電競的重要標準。
 
 == 系列作品 ==
-=== 絕對武力 / Counter-Strike ===
-=== 絕對武力：一觸即發 / Counter-Strike: Condition Zero ===
-*上面的續作，追加單人模式。
-=== 絕對武力：次世代 / Counter-Strike: Source ===
-* 上面以Source引擎製作的續作。
-=== 絕對武力：全球攻勢 / Counter-Strike: Global Offensive ===
-*
-=== 絕對武力2 / Counter-Strike 2 ===
-*《全球攻勢》的Source 2引擎更新版本。
+; {{ruby|戰慄時空：絕對武力|Half-Life: Counter-Strike}}
+* Minh Le和Jess Cliffe製作的《戰慄時空》模組，在Beta 5階段被Valve看中。
+** Minh Le和Jess Cliffe兩人也應邀加入Valve。Minh Le在2006年離開，Jess Cliffe於2018年因犯罪<ref>本人堅稱自己清白，是別人冒用他的名義進行詐騙活動。</ref>被捕而遭到開除。
+* 在獨立版的《絕對武力》正式發行後，模組版以《戰慄時空：絕對武力》的名義上市。
+** 模組版還帶著《戰慄時空》的名字是因為Jess Cliffe要求加入。
 
-== 可操縱角色 ==
-=== 反恐部隊陣營 ===
-* 美國海豹部隊第六小隊（SEAL Team 6）、德國第九國境守備隊（GSG-9）、英國空降特勤團（SAS）、法國國家憲兵干預組（GIGN）
-** 初代遊戲可選用的CT。
-* 俄羅斯特種部隊（SPETSNAZ）、美國警察特種武器和戰術部隊（SWAT）
-** 《一觸即發》追加的CT。
-* 美國聯邦調查局（FBI）、以色列國防軍（IDF）
-** 《全球攻勢》追加的CT。
+; {{ruby|絕對武力|Counter-Strike}}
+* Valve於2000年發售的正式遊戲。
 
-=== 恐怖分子陣營 ===
-* 東歐鳳凰武裝組織（Phoenix Connexion）、中東武裝菁英（Elite Crew）、瑞典北極復仇者（Arctic Avengers）、<s>藍波</s>中東恐怖游擊部隊（Guerilla Warfare）
-** 初代遊戲可選用的TR。
-* 美國中西部城市傭兵（Midwest Militia）
-** 《一觸即發》追加的TR。
-* 巴爾幹武裝份子（Balkan）、海盜（Pirate）、專業人士（Professional）、無政府主義者（Anarchist）、分離主義者（Separatist）
-** 《全球攻勢》追加的TR。
+; {{ruby|絕對武力：一觸即發|Counter-Strike: Condition Zero}}
+* 於2004年3月1日發售。加入單人模式。
+
+; {{ruby|絕對武力：次世代|Counter-Strike: Source}}
+* 於2004年11月2日發售。
+* 以Source引擎製作的《絕對武力》。
+
+; {{ruby|絕對武力：全球攻勢|Counter-Strike: Global Offensive}}
+* <s>全球最大線上賭場</s>
+* 2012年發售。原本為買斷制，於2018年改成免費。
+* 在2024年1月1日終止支援，但Xbox 360版本仍可正常在線上遊玩。
+* 加入了武器塗裝的機制，玩家可以自製並上傳作品，高得票者會被Valve選中加入遊戲。
+** 由於使用的是付費抽卡的機制，加上Valve會對Steam市集的交易進行收費，此舉給Valve帶來莫大的利益。
+** 同時也產生了非Valve官方的黑市。
+* 玩家也可以通過「汰換合約」用10個同樣品質的物品換取一個高一級的物品<s>，讓玩家從軍人轉職為[[鍊金術士系列|鍊金術士]]</s>
+
+; {{ruby|絕對武力2|Counter-Strike 2}}
+* <s>全球最大線上賭場2</s>
+* 在2023年上線的《全球攻勢》Source 2引擎更新版本<s>，但商店頁面還寫著2012年8月22日</s>
+* 和《全球攻勢》一樣免費遊玩，玩家擁有的物品全部繼承。
+* 早在2001年，Minh Le就有使用（當時未完成的）Source引擎製作《絕對武力2》的想法，但最後並未成事。
+** 製作了幾年也沒有成果，讓Minh Le在2006年從Valve辭職。
+* 於2025年10月23日'''擴展「汰換合約」功能以允許兌換5個{{Color|Red||隱蔽}}品質物品'''，引發市場大地震。
+** 在此之前，軍刀和手套只能通過付費開啟武器箱的方式獲得，中獎機會非常低，導致其價格居高不下。
+** 人民群眾喜聞樂見，轉賣商人氣急敗壞。
+
+== 角色 ==
+{{hideh|角色一覽（點擊展開）}}
+
+; 反恐小組
+* 「{{ruby|誰膽大，誰贏。|Who dares, wins.}}」
+* 全部都為世界各國真實存在的部隊。
+
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!初參戰作品
+!國籍
+!備註
+|-
+|{{ruby|海軍特種作戰司令部海豹部隊|SEAL Team 6}}
+|《絕對武力》
+|美國
+|
+|-
+|{{ruby|第九國境守備隊|Grenzschutzgruppe 9}}
+|《絕對武力》
+|德國
+|
+|-
+|{{ruby|空降特勤隊|Special Air Service}}
+|《絕對武力》
+|英國<br>紐西蘭
+|英國SAS為「裂網行動」以後的CT預設角色。<br>紐西蘭SAS是「猛潮行動」新增部隊。
+|-
+|{{ruby|國家憲兵干預組|Groupe d'Intervention de la Gendarmerie Nationale}}
+|《絕對武力》
+|法國
+|
+|-
+|{{ruby|特種部隊|Spetsiálnogo Naznachéniya}}
+|《一觸即發》
+|俄羅斯
+|通稱「Spetsnaz」。
+|-
+|{{ruby|特殊武裝突擊部隊|Special Weapons And Tactics}}
+|《一觸即發》
+|美國
+|
+|-
+|{{ruby|機動部隊|Riot Police Unit}}
+|《一觸即發》
+|日本
+|《刪除片段》限定。
+|-
+|{{ruby|聯邦調查局|Federal Bureau of Investigation}}
+|《全球攻勢》
+|美國
+|以FBI的「{{ruby|人質救援隊|Hostage Rescue Team}}」為藍本。
+|-
+|{{ruby|以色列國防軍|Israel Defense Force}}
+|《全球攻勢》
+|以色列
+|
+|-
+|{{ruby|第一營|1st Battalion}}
+|《全球攻勢》
+|巴西
+|「猛潮行動」新增部隊。
+|-
+|{{ruby|特種部隊司令部|Kommando Spezialkräfte}}
+|《全球攻勢》
+|德國
+|「裂網行動」新增部隊。
+|-
+|{{ruby|憲兵特勤隊|Gendarmerie Nationale}}
+|《全球攻勢》
+|法國
+|「猛潮行動」新增部隊。
+|-
+|{{ruby|空軍戰術空中管制部隊|Air Force Tactical Air Control Party}}
+|《全球攻勢》
+|美國
+|「裂網行動」新增部隊。
+|}
+
+; 恐怖分子
+* 「{{ruby|那就是信號。|That's the signal.}}」
+* 部分雖然有現實藍本，但大多為虛構組織。
+
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!初參戰作品
+!國籍
+!備註
+|-
+|{{ruby|鳳凰|Phoenix Connexion}}
+|《絕對武力》
+|東歐地區
+|「裂網行動」以後的T預設角色。
+|-
+|{{ruby|精銳部隊|Elite Crew}}
+|《絕對武力》
+|中東地區
+|
+|-
+|{{ruby|北極復仇者|Arctic Avengers}}
+|《絕對武力》
+|瑞典
+|身穿白色的極地迷彩。
+|-
+|{{ruby|中東恐怖游擊隊|Guerilla Warfare}}
+|《絕對武力》
+|中東地區<br>拉丁美洲<br>烏干達<br>美國<br>加勒比海地區
+|<s>「裂網行動」之後還真的出現藍波了</s><br>有遭到軍隊開除{{censored|或被組織俘虜}}的正規軍人加入，令組織的作戰能力直線上升。
+|-
+|{{ruby|中西部城市傭兵|Midwest Militia}}
+|《一觸即發》
+|美國
+|
+|-
+|{{ruby|極道|Yakuza}}
+|《一觸即發》
+|日本
+|《刪除片段》限定。
+|-
+|{{ruby|巴爾幹武裝份子|Balkan}}
+|《全球攻勢》
+|巴爾幹地區
+|
+|-
+|{{ruby|海盜|Pirate}}
+|《全球攻勢》
+|索馬利亞
+|
+|-
+|{{ruby|專業人士|Professional}}
+|《全球攻勢》
+|美國<br>澳大利亞
+|搶匪和傭兵，有不明財團在背後支持。
+|-
+|{{ruby|無政府主義者|Anarchist}}
+|《全球攻勢》
+|美國
+|
+|-
+|{{ruby|分離主義者|Separatist}}
+|《全球攻勢》
+|西班牙<br>法國
+|
+|-
+|{{ruby|軍刀|Sabre}}
+|《全球攻勢》
+|東歐地區
+|「裂網行動」新增部隊。
+|}
+{{hidef}}
 
 == 武器 ==
-*
+* 「{{ruby|這不只是一把武器，而是對話題材。|This isn't just a weapon, it's a conversation piece.}}」
+* 此條目以武器的真實名稱來記載。
+* 由於Minh Le是左撇子，《次世代》和之前的遊戲預設是左手持槍。
+
+{{hideh|槍械一覽（點擊展開）}}
+; 手槍
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!陣營
+!價格
+!備註
+|-
+|H&K USP
+|CT
+|200
+|可裝備滅音器。<br>.45 ACP口徑版本。<br>CT預設武器，可與P2000互換。
+|-
+|Glock 18
+|T
+|200
+|可切換為三發點射模式。<br>T預設武器。<br>《次世代》和之前為雙方皆可購買。<br>現實中是執法部隊專用的'''全自動'''手槍。
+|-
+|H&K P2000
+|CT
+|200
+|9公厘口徑版本。<br>《全球攻勢》新增的CT預設武器，可與USP互換。
+|-
+|Beretta 92G Elite II<br>Beretta M9A1
+|雙方
+|300
+|[[雙持]]，致敬吳宇森執導的電影《英雄本色》和《辣手神探》。<br>《次世代》和之前為92G Elite II，《全球攻勢》和之後為M9A1。
+|-
+|SIG Sauer P228<br>SIG Sauer P250 Compact
+|雙方
+|300
+|《次世代》和之前為P228，《全球攻勢》和之後為P250。
+|-
+|FN Five-SeveN<br>FN Five-SeveN USG
+|CT
+|500
+|《次世代》和之前為基本型，《全球攻勢》和之後為USG型。<br>從《全球攻勢》開始，即使目標有穿戴防護，擊中頭部也是一槍斃命。
+|-
+|Intratec Tec-9
+|T
+|500
+|《全球攻勢》新增的T專用半自動手槍。
+|-
+|CZ 75 Automatic
+|雙方
+|500
+|《全球攻勢》新增的全自動手槍。<br>彈藥量非常稀少，只有12+12發子彈。
+|-
+|IMI Desert Eagle
+|雙方
+|700
+|.50 AE口徑版本，無須多言的王者。<br>即使目標有穿戴防護，擊中頭部也是一槍斃命。
+|-
+|S&W Model 327 Performance Center M&P R8
+|雙方
+|600
+|《全球攻勢》新增的轉輪手槍，從扣下扳機到發射子彈之間有延遲。<br>可用直接按動擊錘的方式快速開火，但準確度慘不忍睹。<br>彈藥量非常稀少，只有8+8發子彈。<br>即使目標有穿戴防護，擊中頭部也是一槍斃命。
+|}
+
+; 衝鋒槍
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!陣營
+!價格
+!備註
+|-
+|Steyr TMP<br>B&T MP9
+|CT
+|1250
+|TMP預設裝備滅音器。<br>《次世代》和之前為TMP，《全球攻勢》和之後為MP9。
+|-
+|MAC M-10
+|T
+|1050
+|.45 ACP口徑版本。
+|-
+|H&K MP7A1
+|雙方
+|1400
+|在《全球攻勢》取代MP5，成為衝鋒槍的標準。
+|-
+|H&K MP5N<br>H&K MP5SD3
+|雙方
+|1400
+|《次世代》和之前為MP5N，《全球攻勢》和之後為MP5SD3。<br>MP5SD3預設裝備滅音器。
+|-
+|H&K UMP
+|雙方
+|1200
+|.45 ACP口徑版本。
+|-
+|Izhmash PP-19 Bizon
+|雙方
+|1300
+|《全球攻勢》新增的大容量衝鋒槍。
+|-
+|FN P90 STD<br>FN P90 TR
+|雙方
+|2350
+|'''RUSH B！'''<br>《次世代》和之前為STD型，《全球攻勢》和之後為TR型。
+|}
+
+; 霰彈槍
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!陣營
+!價格
+!備註
+|-
+|Benelli M3 Super 90<br>Benelli Nova
+|雙方
+|1050
+|《次世代》和之前為M3 Super 90，《全球攻勢》和之後為Nova。
+|-
+|Benelli M4 Super 90
+|雙方
+|2000
+|即使於1999年就被美軍正式採用並賦予編號「M1014」，在《全球攻勢》當中仍稱為「XM1014」。
+|-
+|Techno Arms MAG-7
+|CT
+|1300
+|《全球攻勢》新增的CT專用霰彈槍。
+|-
+|Remington Model 870
+|T
+|1100
+|《全球攻勢》新增的T專用霰彈槍。<br>10英寸槍管警用型，槍托被削除。
+|}
+
+; 步槍
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!陣營
+!價格
+!備註
+|-
+|KNDS FAMAS F1<br>KNDS FAMAS G2
+|CT
+|1950
+|可切換為三發點射模式。<br>《次世代》和之前為F1型，《全球攻勢》和之後為G2型。
+|-
+|IMI Galil ARM<br>IWI Galil ACE 22
+|T
+|1800
+|ARM使用的是7.62公厘口徑版本<s>，但性能是5.56公厘的</s><br>《次世代》和之前為ARM，《全球攻勢》和之後為ACE。
+|-
+|Izhmash AK-47<br>Izhmash AKMN
+|T
+|2700
+|無須多言的T專用突擊步槍。<br>《次世代》和之前為AK-47，《全球攻勢》和之後為AKMN。
+|-
+|Mk 18 Mod 0
+|CT
+|2900
+|在《全球攻勢》取代M4A1，成為CT突擊步槍的標準。<br>現實當中並不存在「M4A4」這個型號。
+|-
+|Colt M4A1<br>Colt Model 723
+|CT
+|2900
+|可裝備滅音器。<br>《次世代》和之前為M4A1，《全球攻勢》和之後為Model 723。<br>重返《全球攻勢》不到一年，其使用率就已經超越Mk 18。
+|-
+|SIG Sauer SG 552<br>SIG Sauer SG 556
+|T
+|3000
+|裝備ACOG瞄準鏡。<br>《次世代》和之前為SG 552，《全球攻勢》和之後為SG 556。
+|-
+|Steyr AUG A1<br>Steyr AUG A3
+|CT
+|3300
+|《次世代》和之前為A1型，裝備原廠的光學瞄準鏡。<br>《全球攻勢》和之後為A3型，裝備ACOG瞄準鏡。
+|}
+
+; 狙擊步槍
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!陣營
+!價格
+!備註
+|-
+|Steyr Scout<br>Steyr SSG 08
+|雙方
+|1700
+|即使目標有穿戴防護，擊中頭部也是一槍斃命。
+|-
+|AI Arctic Warfare Magnum<br>AI Arctic Warfare
+|雙方
+|4750
+|無須多言的王者。<br>即使目標有穿戴防護，擊中上半身也是一槍斃命。<br>《次世代》和之前為AWM，《全球攻勢》和之後為AW，但在《全球攻勢》當中卻使用警用型號的「AWP」名稱。
+|-
+|H&K G3SG/1
+|T
+|5000
+|全自動步槍，但玩家角色是當作半自動步槍來操作。<br>即使目標有穿戴防護，擊中頭部也是一槍斃命。
+|-
+|SIG Sauer SG 550 Sniper<br>FN SCAR-H PR
+|CT
+|5000
+|全自動步槍，但玩家角色是當作半自動步槍來操作。<br>即使目標有穿戴防護，擊中頭部也是一槍斃命。<br>《次世代》和之前為SG 550，《全球攻勢》和之後為SCAR-H。
+|}
+
+; 機關槍
+{|border="1" class="wikitable" style="font-size:90%;"
+|-
+!名稱
+!陣營
+!價格
+!備註
+|-
+|FN M249 SAW
+|雙方
+|5200
+|在《全球攻勢》之前都是唯一的機關槍。
+|-
+|IMI Negev Commando
+|雙方
+|1700
+|《全球攻勢》新增的機關槍。
+|}
+{{hidef}}
 
 == 相關條目 ==
 * [[3D射擊遊戲]]
-* [[戰慄時空]]（同為Valve推出的的射擊遊戲系列）
-* [[惡靈勢力]]（同為Valve推出的射擊遊戲(ry
-* [[絕地要塞]]（同為Valve退出的射擊(ry
-* [[傳送門]]（同為Valve推出的(ry
+* [[戰慄時空]]，同為Valve推出的的射擊遊戲系列。
+* [[惡靈勢力]]，同為Valve推出的射擊遊戲(ry
+* [[絕地要塞]]，同為Valve退出的射擊(ry
+* [[傳送門]]，同為Valve推出的(ry
+
 == 回應 ==
 {{pcomment|talkpage}} 
 
