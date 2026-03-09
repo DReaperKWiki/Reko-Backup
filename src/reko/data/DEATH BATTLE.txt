@@ -581,9 +581,13 @@
 |-
 ! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結 
 |-
-| 204 ||  黑崎一護vs蒲飯幽助  <br>( 死神VS幽遊白書）|| 靈異相關高中生對決 <br> ‘26始戰 || {{censored| 勝方：一護 }} || {{youtube|oZ3ET4NYxsw|youtube}}
+| 204 ||  黑崎一護vs浦飯幽助  <br>( 死神VS幽遊白書）|| 靈異相關高中生對決 <br> ‘26始戰 || {{censored| 勝方：一護 }} || {{youtube|oZ3ET4NYxsw|youtube}}
 |-
-| 205 || 賽魯vs金屬索尼克<br>( 七龍珠VS索尼克）||瘋狂科學家的作品對決<s>真可惜不是蟑螂對蟻王（梅利艾姆）</s>|| {{censored| 勝方：}} ||  {{youtube| |youtube}} 
+| 205 || 賽魯vs金屬索尼克<br>( 七龍珠VS索尼克）||瘋狂科學家的作品對決<s>真可惜不是蟑螂對蟻王（梅利艾姆）</s><br>DevilArtemis最後參與的DB動畫，而且兩個角色皆由他配音
+|| {{censored| 勝方：金屬索尼克}} ||  {{youtube|qSLfaMncl_w|youtube}} 
+|-
+| 206 || 爆豪vs雷茨<br>(我的英雄學院VS錬鋸人）||
+|| {{censored| 勝方：}} ||  {{youtube| |youtube}} 
 |}
 
 <!--|-
