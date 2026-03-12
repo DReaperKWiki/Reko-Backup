@@ -32,7 +32,7 @@
 
 {| class="wikitable" style="margin: 1.5em auto;" 
 |-
-| 以下有不適合未成年人閱讀的內容 
+| '''{{color|red||以下有不適合未成年人閱讀的內容}}''' 
 |}
 
 == 解說三 == 

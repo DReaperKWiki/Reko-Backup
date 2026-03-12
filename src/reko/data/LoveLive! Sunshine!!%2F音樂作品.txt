@@ -952,8 +952,10 @@
 ** '''not ALONE not HITORI''' （Aqours）
 ** '''異次元★♥BIGBANG'''（島村卯月、最上静香、月岡恋鐘、高海千歌、上原歩夢、澁谷かのん、日野下花帆）
 ** '''Bring the LOVE！'''（渡辺曜、上原歩夢、澁谷かのん、日野下花帆、高坂穂乃果）
-** '''愛♡スクリ～ム！'''（AiScReam）
-** '''ICE LIMIT''' （AiScReam）
+
+* 跨團小組[[AiScReam]]的歌曲，詳見[[AiScReam#音樂作品]]
+** '''愛♡スクリ～ム！'''
+** '''ICE LIMIT''' 
 
 * {{color|green||冒険Type A, B, C!!}}
 ** 現實逃脫遊戲聯動主題曲
@@ -992,6 +994,12 @@
 *** <s>又名笑笑船開</s>
 ** {{color|green||心の羽よ君へ飛んでけ！}}
 
+*『'''The Blue Swell'''』
+** 搖滾版改編專輯
+
+*『'''ラブライブ！サンシャイン!! Aqours Finale LoveLive! ～永久stage～ LIVE CD'''』
+** Finale LIVE的演唱會音源<s>，家虎也一同收錄在內</s>
+
 *『'''Sailing to the Sunshine'''』
 **動畫1期原聲帶，收錄了劇中所有的背景音樂，包括每回片尾曲及動畫版本曲目
 **專輯名稱日後成為4th live的副標題
@@ -1007,7 +1015,6 @@
 * 官方網站：
 ** [https://www.lovelive-anime.jp/uranohoshi/cd.php LoveLive!Sunshine!!音樂商品]
 ** [https://yohane.net/music/ 幻日のヨハネ音樂商品]
-
 
 ==備註==
 <references />

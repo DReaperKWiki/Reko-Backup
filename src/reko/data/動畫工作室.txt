@@ -326,7 +326,7 @@
 |-
 |Fleischer Studios||1921年（Inkwell Studios）<br>1929年（Fleischer Studios）<br>1942年8月28日（結束營運）|| [[大力水手]]（前期）<br>貝蒂娃娃<br>[[超人]]|| 
 |-
-|Walt Disney Animation Studios|| 1923年10月16日|| 無須多談|| 幾乎已經佔領[[世界]]的邪惡帝國。
+|Walt Disney Animation Studios|| 1923年10月16日|| 無須多談|| 幾乎已經佔領全[[世界]]的<s>邪惡</s>卡通大帝國。
 |-
 |MGM<ref>Metro-Goldwyn-Mayer，暨米高梅</ref> Cartoon Studio||1929年|| Flip the Frog<br>湯姆與傑利（前期）<br>精怪松鼠<br>巴尼熊<br>杜皮狗|| Hanna-Barbera的前身。
 |-
@@ -375,7 +375,7 @@
 |-
 |The Pygos Group||1990年||[[企鵝家族]]||由藝術家Otmar Gutmann創立的小型動畫工作室<br>現已被HiT Entertainment收購
 |-
-|Xilam||1990年（Gaumont Multimédia）<br>1999年（Xilam）||[[Oggy and the Cockroaches|肥貓鬥小強]]<br>鯊魚哥<br>奇奇與蒂蒂：開心樂園||法國高蒙電影公司旗下的動畫工作室。<br>其中《肥貓鬥小強》在台播放時一開始收視不佳，後來因為效仿印度方面播出的配音版，而跟著加上旁白配音，結果卻收到不少好評，而後鯊魚哥以及其他類似性質的法國動畫也被加上旁白，但此舉也令原作粉絲不評。<s>雖然可以用切換聲道解決就是，而且至少旗下動畫也有官方YouTube的管道可以收看</s>
+|Xilam||1990年（Gaumont Multimédia）<br>1999年（Xilam）||[[Oggy and the Cockroaches|肥貓鬥小強]]<br>Space Goof<ref>肥貓鬥小強主創Jean-Yves Raimbaud的另一部作品</ref><br>忍者小淘氣（Shuriken School）<ref>與Zinkia Entertainment共同製作</ref><br>鯊魚哥<br>奇奇與蒂蒂：開心樂園||法國高蒙電影公司旗下的動畫工作室。<br>其中《肥貓鬥小強》在台播放時一開始收視不佳，後來據說因為配音團隊想效仿印度方面播出的配音版加上旁白配音，結果卻意外讓收視率大升，而後鯊魚哥以及其他類似性質的法國動畫也被加上旁白，但此舉也令原作粉絲不評。<s>雖然可以用切換聲道解決就是，而且至少旗下動畫也有官方YouTube的管道甚至串流平台可以收看無配音版本</s><br>此外Xilam也有製作過數部非默劇向動畫，如前述的Space Goof、忍者小淘氣等
 |-
 |Williams Street||1994年（Ghost Planet Industries）<br>1999年（Williams Street Studios）||飲料杯歷險記<br>冒險兄弟<br>機器雞<br>超級監獄/暴力監獄<br>金屬啟示錄<br>瑞克和莫蒂<br>酸黃瓜先生||成人動畫的大本營。
 |-
@@ -393,7 +393,7 @@
 |-
 |LAIKA||2005年||第十四道門<br>派拉諾曼：靈動小子<br>怪怪箱<br>酷寶：魔弦傳說<br>大冒險家||以相當精細的定格動畫電影為主的工作室
 |-
-|Studio Hari||2006年||大砲與小惡魔<ref>另有別稱：大灰熊與小旅鼠</ref>||法國動畫公司。
+|Studio Hari||2006年||大砲與小惡魔<ref>另有別稱：大灰熊與小旅鼠</ref><br>Mystery Lane<br>The Weasy Family||法國動畫公司。<br>Mystery Lane為本動畫公司旗下目前唯一非默劇向卡通<br>其中《大砲與小惡魔》原本引進台灣公視播出時無旁白，但同樣在台灣卡通頻道播出時就加了旁白
 |-
 |FilmCow||2006年|| [[獨角獸查理]] <br>戴帽子的駱馬||由Jason Steele創立，位於美國佛羅里達州奧蘭多城的獨立動畫工作室，動畫多以匪夷所思且詭異的風格為主
 |-
@@ -423,7 +423,7 @@
 |春水堂科技
 |1999年
 |阿貴<br>[[靠岸]]
-|<s>不是自稱發明珍珠奶茶的茶館，</s>以Flash起家，曾靠著阿貴闖出一片天，但因為靠岸而被島民們列為[[黑歷史]]<br>現隸屬於中華電信
+|<s>不是自稱發明珍珠奶茶的茶館，</s>以Flash起家，曾靠著阿貴闖出一片天，但因為靠岸而被島民們列為[[黑歷史]]<br>現隸屬於中華電信，同時已有長時間不再製作動畫，並轉行為電信服務以及電子書刊服務
 |-
 |意馬（Imagi Animation Studios）
 |2000年
