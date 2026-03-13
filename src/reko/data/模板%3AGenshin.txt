@@ -1,0 +1,22 @@
+{{Navbox
+| name =Genshin
+| title = [[原神|{{color|black||原神}}]]
+| state = uncollapsed
+    |titlestyle = background:#ffd49f; padding-top:0.2em; padding-bottom:0.2em;
+    |groupstyle = background:#ffd49f;
+    |liststyle = padding:.1em .2em;
+    |evenstyle = background:#fff7ea;
+| group1 = 登場角色
+| list1 =
+{{Navbox|child|
+    |titlestyle = background:#ffd49f; padding-top:0.2em; padding-bottom:0.2em;
+    |groupstyle = background:#ffd49f;
+    |liststyle = padding:.1em .2em;
+    |evenstyle = background:#fff7ea;
+| group1 = 主要地區
+| list1 =[[原神/登場人物介紹-蒙德|蒙德]]・[[原神/登場人物介紹-璃月|璃月]]・[[原神/登場人物介紹-稻妻|稻妻]]・[[原神/登場人物介紹-須彌|須彌]]・[[原神/登場人物介紹-楓丹|楓丹]]・[[原神/登場人物介紹-納塔|納塔]]・[[原神/登場人物介紹-挪德卡萊|挪德卡萊]]（[[原神/登場人物介紹-至冬|至冬]]）
+| group2 = 劇情人物
+| list2 =[[原神/登場人物介紹-愚人眾|愚人眾]]・[[原神/登場人物介紹-魔女會|魔女會]]・[[原神/登場人物介紹-坎瑞亞|坎瑞亞]]
+}}
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
