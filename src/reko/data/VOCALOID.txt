@@ -1,0 +1,899 @@
+{{h0| VOCALOID }}
+
+
+{{Orga}}
+{{Saitama}}
+
+
+
+== 解說 ==
+*YAMAHA應用獨自開發的歌聲合成技術「Frequency-domain Singing Articulation Splicing and Shaping」及其應用製品的總稱，多數應用於電子音樂（DeskTop Music，DTM）製作。
+**名稱的由來: '''VOCAL'''+ HUMAN'''OID'''
+**輸入旋律和歌詞，軟體從聲音樣本資料庫中取出需要部分，再加各種參數上的調整(調校)，就可以合成人聲。
+**實際上VOCALOID本身沒有聲音資料庫，各個聲音資料庫由其他公司製作（主要為CRYPTON），先找聲音提供者收錄聲音樣本，選出適合使用的聲音樣本，然後再加工製作聲音資料庫。
+** 以某個定義來說，VOCALOID是個近似於電子樂器(只要輸入音符資料就能自動產生音樂)，但又有歌聲與角色形象的存在，這在音樂史上是前無古人的，因此關於他們的著作權也常常變成剪不斷理還亂的狀況。
+*** 例如關於〈みくみくにしてあげる♪〉這首歌而衍生出的Mikumiku事件就是在初音剛出道的初期因為一炮而紅，著作權概念卻沒跟著調整，於是發生了著作權到底歸誰的爭議
+**** 當時有人認為初音未來的歌手形象是Crypton公司創造，所以著作權屬於他們；有人認為這首歌是作曲者ika做出來的，所以著作權應該是他的；當時的導火線就在於用這首曲製作鈴聲的DWANGO公司擅自決定誰為著作權者後，又把這首曲子託管給<s>版權蟑螂</s>[[JARSAC]。
+*** 其實這也間接造成了VOCALOID初期許多被邀約的歌手不願意參加製作的原因<ref>害怕自身的聲音被用家拿去亂用，因而造成本人自身形象的問題</ref>
+*** 目前的共識是VOCALOID角色形象著作權屬於Crypton等製作出這些VOCALOID的公司，而歌曲中出現的VOCALOID聲音版權等同於音樂旋律，因此屬於作曲家。
+**所謂的「V家」即是這些開發出來的聲音角色的統稱，現在同人二次設定中都設定成一個大家族。
+*雖然初音只是其中個聲音角色的名字，但大部份場合說初音其實也是指VOCALOID，也就是說初音是這套軟體的代名詞。<ref>初音個人產量佔VOCALOID總產量約六成，出現初音代表VOCALOID的情況。</ref>
+
+*在[[ニコニコ動画]]，有up主採集一些<s>奇怪</s>的聲效剪貼來製造音MAD，稱為「人力VOCALOID」、「ドイツ製ボーカロイド」、「暴歌LOID」、「裏慈ミル」等，實與本家VOCALOID關係不大。
+*由於該軟體沒有MAC版，所以[[池澤春菜|有心人]]便和雜誌MACFAN合作以Reason和Garageband制作類似的語音產品。
+
+*VOCALOID歌曲及[[MikuMikuDance]]的製作者通常都有一個「P（Producer）名」， 例如流星P、暴走P等都是。
+** 早年P名很多時都是來自該作者的成名作品，而且經常是由粉絲賜予的，例如「暴走P」是來自《初音ミクの暴走》、「悪ノP」則是來自《悪ノシリーズ》。這種情況更普遍地用在MikuMikuDance 動畫的作者上。
+*** 當然也有像ika或ryo這樣沒有P名，又或者是kz這種被粉絲賜予P名後因為很多原因不想接受而繼續維持原名義的。
+** 成因為初音發售之前，MEIKO曾經以背後歌手在[[THE IDOLM@STER|偶像大師]]部門活躍過，也把他們的「P名」文化帶過來。
+*** 在偶像大師系列作中，玩家是擔任為旗下偶像創造曝光機會的製作人，名字固定為「(玩家自訂名)P」的格式，而這恰巧也跟初音未來是以由使用者自行創造的虛擬偶像為賣點的目的不謀而合。
+*[[ニコニコ動画]]的「[[VOCALOID及UTAU排行榜週刊|週刊VOCALOIDランキング]]」是VOCALOID歌曲的每週排行榜。
+
+
+{{h0|使用VOCALOID技術的製品 }}
+
+== VOCALOID(這裡指初代) ==
+=== LEON （英語、男聲，ZERO-G） ===
+[[File:img3564.jpg|150px|right]]
+*[http://wiki.komica.org/pix/img3565.jpg 同人的包裝(只供參考)]，[http://wiki.komica.org/pix/img3566.jpg 為何長相如斯關鍵如圖]<ref>因為是位黃髮搖滾歌手主唱，故同人依他造型設計</ref>
+* 表現最活躍的海外組，但大部分都是捏他曲。
+* 同人設定：
+** VOCALOID們的大師兄。
+** 愛泡妹妹 (無誤) ，<s>跟MEIKO有染~~ =ˇ= (ZERO-G跟CRYPTON的糾結歷史啊~)</s>
+** <s>ジローラモ</s>
+** <s>[[成句/我的○○太●了…真的非常的●…而且●到不行…|薪水很高]]</s>
+
+
+=== LOLA （英語、女聲，ZERO-G） ===
+[[File:img3567.jpg|150px|right]]
+*[http://wiki.komica.org/pix/img3568.jpg 同人圖(只供參考)]
+*LEON和LOLA同為VOCALOID最初的產品，可說是V家前輩也不為過。
+* 同人設定：
+** 愛唱歌，路人。
+** <s>喜愛露肚臍</s>
+** <s>雅典娜·葛絡俐的妹妹</s>
+** 音樂作品跟不上同人漫畫的速度。
+** 格鬥是她擅長項目。 (原因捏她所帶的護腕)
+
+=== MIRIAM （英語、女聲，ZERO-G） ===
+*英語女聲，由Miriam Stockley提供原聲
+[[File:img3569.jpg|150px|right]]
+*[http://wiki.komica.org/pix/img3572.jpg 同人圖(只供參考)]
+*最早出現人物像的VOCALOID產品 (雖然是真人)
+* 同人設定：
+** <s>不人姬</s>，表面黑，心裡面白。
+** 是全VOCALOID系列當中氣質最高者。(最初使用有名歌手，價格是全VOCALOID最高)
+** <s>[http://wiki.komica.org/pix/img3572.jpg 她是偽白蓮](同人作品有她跟東方的白蓮做比對)</s>
+** <s>南無三（なむさん）....</s>
+** <s>唯一知道魔戒最終結局的"聖女"。(原因捏她參與魔戒電影原聲曲。)</s>
+** <s>最終犧牲自己，把Big-AI封印起來。(原因捏她產品開始正式拋棄電腦組音系統，省下大量記憶體資源。)</s>
+** <s>悲劇女主角</s>
+** [http://www.youtube.com/watch?v=SN6tHM_U-hc 第一首DEMO]
+** 因為很好聽，但是又很短，導致同人們一致認定她必是悲劇女主角。[http://www.youtube.com/watch?v=8pFhiJZ4g6I 30秒的壽命(劇情偏灰暗) ]
+** [[成句/○○好難畫，下一集讓他死掉|MIRIAM好難畫]]
+
+*使用MIRIAM的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.youtube.com/watch?v=6rw6mJZ_RS0&feature=related Secret Space] || Puffihn || 
+|-
+|[http://www.youtube.com/watch?v=Ec1Ro14bjBs&feature=related time has come] || NekoChan5665 || 一直被砍許多次的名曲(<s>也是少數被鬼隱的名曲</s>)導致作者非常的不滿
+|-
+|[http://www.nicovideo.jp/watch/sm1062578 MIRIAMに歌わせてみる －LILIUM－] || 電車内制作P || 獵奇向
+|-
+|[http://www.youtube.com/watch?v=1QZqWRmW9hI Carol of the Bells] || KouYamiAura || 
+|-
+|[http://www.youtube.com/watch?v=gro7KI8Dgek TOXIC] || aniwarata || 相似度最高的一首(趨近100%)
+|-
+|[http://www.youtube.com/watch?v=GEsuKe92H-w Ice Field] || kuroyagi007 || 
+|-
+|[http://www.nicovideo.jp/watch/sm11241184 「The Minstrel Boy」【アイルランド民謡】] || さささP || 
+|}
+
+
+=== MEIKO （日語、女聲，CRYPTON） ===
+[[File:img1980.jpg|150px|right]]
+*日語第一套VOCALOID的產品，擅長流行曲、搖滾樂、爵士樂、R&B、童謠等廣範圍歌種。由拜鄉芽衣子（拝郷メイコ）提供原聲
+* 發售前的prototype:[http://www.nicovideo.jp/watch/nm3040083 VOCALOID的遺產]
+* 從NICO開站就開始在各部門活動<ref>[http://www.nicovideo.jp/watch/sm6772 VOCALOID在NICO第一首原創曲和動畫]</ref>。
+* 第一年在日本的銷量達3000套，以專業音樂軟件來說很理想，也比LEON和LOLA在日本來的好
+* 但現在恐怕已是Cyptron系VOCALOID的最後尾<ref>因為連KAITO也常常出現在Cyptorn銷量榜，但MEIKO卻沒上過</ref>
+* 初音ミク剛剛興起時，還是以翻唱為主，以後才開始有比較多原創曲。
+* 同人設定：
+** 多半擔任姊姊型甚至是媽媽型的角色，甚至在不少V家同人中她是一整個V家家族的總管家。
+** 很適合騎士打扮，在「惡之系列」、「Synchronicity」及「人柱アリス」等作品中都扮演騎士。
+** 愛喝酒<ref>原因是 [http://www.nicovideo.jp/watch/sm988049 ワンカップP]。</ref>，<s>酒後發瘋，</s>是個[[酒女]]。
+** <s>暴力女，武功高強，格鬥技以摔角為主。</s>
+** <s>[http://wiki.komica.org/pix/img2539.jpg 萌殺眾人的萌え萌えキュン♡]</s> 
+
+
+*使用MEIKO的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm1587618 忘却心中] || AsakiNo'9 || 
+|-
+|[http://www.nicovideo.jp/watch/sm1984267 PASSIONAIRE] || yanagiP || 
+|-
+|[http://www.nicovideo.jp/watch/sm9874560 Nostalogic] || yuukiss || 蘿莉版的MEIKO哦(聲音)，真人PV
+|-
+|[http://www.nicovideo.jp/watch/sm6362317 黄泉桜] || 仕事してP || 
+|-
+|[http://www.nicovideo.jp/watch/sm6328922 悪食娘] || 悪ノＰ || 悪ノＰ七宗罪系列"暴食"篇，MEIKO第一首百萬再生曲
+|-
+|[http://www.nicovideo.jp/watch/sm13047806 壊セ壊セ] || ユーキ(E.L.V.N) || 調教相當了得，<s>暴戾之魂</s>
+|-
+|[https://www.nicovideo.jp/watch/sm27538709 AFTER BURNER -typeE-] || Hal || 翻唱SEGA的空戰機台主題曲，Project DIVA還有空戰動畫可以看
+|}
+
+=== KAITO （日語、男聲，CRYPTON） ===
+[[File:img1981.jpg|150px|right]]
+* 清涼感聲線，擅長歌謠曲、童謠。由風雅なおと提供原聲
+* 早期的待遇很差
+** 發售當時DTM市場男性用家佔8成，對男性音源需求低，所以初期銷量很差<ref>初動只有3位數字，而且大部分都是MEIKO用戶，直到初音發售時總銷量才賣出500張左右。</ref>。<s>社長：「我想男(音源)的話不行啊...」(苦笑)</s><ref>http://www.itmedia.co.jp/news/articles/0802/22/news013.html</ref>
+** 被命名的人拋棄：KAITO的名字是MEIKO使用者投稿公募的，命名的人是 [http://dic.nicovideo.jp/a/shu-tp shu-tP]<ref>http://shu-t.sonic-wave.net/article/12368539.html</ref>。獎品是KAITO一份，但卻被立即轉送他人。
+** 初期使用者很少存在感很低。<s>NICO廚: 「那個青色的人是誰?」<ref>早期KAITO的捏他，現在已經不適用</ref></s> 甚至初音發售後一兩個月都沒自己的原創曲。直到卑怯戦隊出現後才有改善，但卻又陷入成為捏他角色的困境...
+* 現在是Cyptron銷量榜的萬年老五。
+* 同人設定：
+** 愛吃冰<ref>起源:[http://www.nicovideo.jp/watch/sm1066613 初音問KAITO動畫]，不久有人做了 [http://www.nicovideo.jp/watch/sm1067989 回答動畫]。</ref>
+** 誕生日有2個：YAMAHA的2月14日和C社的2月17日
+** 也因為有名曲的關係，常會被設定成表面溫柔但城府很深的<s>笨</s>大哥哥。
+** V家地位最低，被全家人欺負。
+** 以《卑怯戦隊うろうんだー》一曲成名，卻使他的形象變得越來越奇怪......
+** <s>圍巾是本體，必殺技是裸體圍巾</s>
+** 不過最近地位有明顯提升，<s>雖然沒有專條和V4版，而且還是很弱氣。</s>
+* KAITO V3版 2013年2月發賣 (請見下面)
+* 使用KAITO的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://tw.nicovideo.jp/watch/sm1639267 卑怯戦隊うろうんだー](和MEIKO以及初音合唱) || シンP || 在鏡音推出後又有新版本 [http://tw.nicovideo.jp/watch/sm2129043 ５人揃って卑怯戦隊うろたんだー！【とかち仕様で新隊員歓迎】]
+|-
+|[http://tw.nicovideo.jp/watch/sm3122624 千年の独奏歌] || yanagiP || KAITO受注目的原創曲之一，聲音中的人曾經翻唱
+|-
+|[http://tw.nicovideo.jp/watch/sm2366125 カンタレラ](和初音合唱) || 黒うさP || KATIO第三首破百萬的名曲(破百萬的是 [http://tw.nicovideo.jp/watch/sm2393562 第二版])，[http://tw.nicovideo.jp/watch/sm5955415 <s>ロリコン仮面</s>]
+|-
+|[http://tw.nicovideo.jp/watch/sm5858956 しねばいいのに] || どぶウサギ || 清爽的去死曲，其 [http://tw.nicovideo.jp/watch/sm5858956 PV] 已破百萬再生
+|-
+|[http://tw.nicovideo.jp/watch/sm4410647 サンドリヨン(Cendrillon)] || シグナルP || 與初音的經典對唱曲
+|-
+|[http://www.nicovideo.jp/watch/sm2352095 白虎野の娘【力バ一】] || ぶっちぎりP || 超水準調教讓大哥買氣大增
+|-
+|[http://tw.nicovideo.jp/watch/sm3311987 お兄さんは心配性] || すけP || 有初音的 [http://tw.nicovideo.jp/watch/sm4136302 回應版] 啊！
+|-
+|[http://tw.nicovideo.jp/watch/sm4419503 WEBデザイン] || はごろもP || 
+|-
+|[http://tw.nicovideo.jp/watch/sm2250148 恋するアプリ] || halP || 
+|-
+|[http://www.nicovideo.jp/watch/nm9437578 Pane dhiria] || 新城P || 強大的快版民族風曲，還有 [http://www.nicovideo.jp/watch/sm15605232 不同風格的版本]
+|-
+|[http://www.nicovideo.jp/watch/sm13944678 FLOWER TAIL] || yuukiss || 民族風曲，帶有傳說的感覺
+|-
+|[http://www.nicovideo.jp/watch/sm6448601 ハイハハイニ] || おっぴろげP || 世界觀特殊，<s>看不懂歌詞</s>
+|-
+|[http://www.nicovideo.jp/watch/sm9737101 Sweet's Beast] || めんでぇＰ || 色氣役大哥，<s>少見的S向</s>
+|-
+|[http://www.nicovideo.jp/watch/sm14731092 悪徳のジャッジメント] || 悪ノP || 悪ノＰ七宗罪系列"貪婪"篇
+|-
+|<s>[http://www.nicovideo.jp/watch/sm5958217 KAITO の 死ね！バレンタイン・デー！]</s> || <s>sm6149056</s> || <s>去死去死團的主題曲</s>
+|-
+|[http://www.nicovideo.jp/watch/sm21360174 上弦の月] || 黒うさP || KAITOV3目前最高再生曲
+|}
+
+== VOCALOID2 角色主唱系列(CV系列)（CRYPTON） ==
+
+* 使用VOCALOID的主流，聲音類軟件的門番。
+* 音源放棄採用成本比較高和2次使用手續繁複的歌手，換成本較低<s>呼之則來揮之則去</s>的聲優。
+* CV系列(包括試作型)的聲優都是來自同一間聲優公司アーツビジョン<ref>跟[[アイドルマスター]]聲優同一間公司，從始結下奇妙的緣份。</ref>。
+* 成名後，發展方向和其他VOCALOID系列不同，正以虛擬偶像為目標進發。
+* <s>職人和企業的搖錢樹。</s>
+
+===CV01 初音未來（[[初音ミク]]） ===
+
+
+===CV02 鏡音鈴、連（[[鏡音リン・レン]]） ===
+
+
+
+===CV03 巡音流歌/巡音流香（[[巡音ルカ]]）===
+
+
+== VOCALOID2 （INTERNET） ==
+===GACKPOID（がくっぽいど）（日語、男聲，INTERNET） ===
+[[File:img1985.png|150px|right]]
+* 由日本歌手Gackt提供原聲。軟體形象角色是「神威がくぽ」，由漫畫家三浦建太郎設計
+* <s>雖然是男聲Vocaloid但因為Gackt知名度很高所以賣的好像還不錯</s>
+* 同人設定：
+** 象徵物是茄子。
+** 稱呼他人時會在他人名字後面加上「殿(殿下)」的稱號
+** 因此粉絲們愛稱「茄殿」
+** <s>搞笑藝人</s>
+** 和KAITO組成合唱兩人團體ナイス<ref>源自於兩人的代表物：GAKPO的茄子(日文為ナス)+KAITO的冰(日文為アイス=ナイス。</ref>
+** <s>がくこ只要澆熱水的話就可以恢復成がくぽ了（ByすずきP）</s>
+** 由於原聲是GACKT的關係，常被設定成是GACKT的兒子，但GACKT卻總是認為兒子的歌不太認真<ref>主要原因是GACKPOID的有名歌曲常常是破壞形象的歌......</ref>
+*使用GACKPOID的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm4136912 ダンシング☆サムライ] || mathru || さあおまいらも踊れや踊♪└(・。・)┐┌(・。・)┘♪　へァ！再生數已超過百萬。
+|-
+|[http://www.nicovideo.jp/watch/sm7782619 Episode.0 ] || mathru || 被聲音中的人Gackt選為最喜歡歌曲
+|-
+|[http://www.nicovideo.jp/watch/sm7215575 IMITATION_BLACK] || natsuP || 與Kaito、レン合唱
+|-
+|[http://www.nicovideo.jp/watch/sm6085510 ggrks-ググれカス-] || あー民P || 與ルカ合唱，<s>「家暴組」的始作俑者。</s>
+|-
+|[http://www.nicovideo.jp/watch/sm7706816 Paranoid_Doll] || 黒糖ポッキーP || 良調教
+|-
+|[http://www.nicovideo.jp/watch/sm4161565 疾風] || のりP || 
+|-
+|[http://www.nicovideo.jp/watch/sm4756980 ナスが好き] ||  し〜ぱっぱP || 變態之路，由裸體開始<s>(無誤</s>
+|-
+|[http://tw.nicovideo.jp/watch/sm11519178 ヴェノマニア公の狂気] || 悪ノＰ || 悪ノＰ七宗罪系列"色慾"篇
+|-
+|[http://www.nicovideo.jp/watch/nm7053908 Good-Morning!] ||  アゴアニキP || <s>元気が出る動画</s>
+|-
+|[http://www.nicovideo.jp/watch/sm5081266 全裸で書いたラブレター] || ぶっちぎりP || 有名Pの暴走シリーズ<s>，也使得神威邁入變態之路</s>
+|-
+|[http://www.nicovideo.jp/watch/sm14077233 霊験あらたか珍宝寺] || デッドボールP || 看到這個作者就知道會發生什麼事了
+|-
+|[http://www.nicovideo.jp/watch/sm4350462 Set Up Hurry] || サ骨P || 
+|-
+|[http://www.nicovideo.jp/watch/sm4144990 バタフライ] || ナタP || 「耶依耶依耶」中毒症候群
+|}
+
+ 
+===Megpoid（[[メグッポイド (Megpoid)|メグッポイド]]）（日語、女聲，INTERNET） ===
+
+
+
+===Lily（リリィ）（日語、女聲，AVEX） ===
+[[File:img10240.png|150px|right]]
+* 由歌手組合m.o.v.e的YURI提供原聲
+* 資料庫由YAMAHA和AVEX共同開發，INTERNET社只負責發售。
+* 擅長Tempo 90BPM-180BPM，音域D2-D4
+* [http://www.nicovideo.jp/watch/nm11363544 DEMO曲]
+* <s>亞風爐照美</s>
+* 因名曲而有點人氣
+* 女低音，中低音表現優異，<s>但大家比較喜歡lily高音</s>
+* <s>I社旗下V2衣服最有明星相(正常)的一個</s>
+* [http://www.nicovideo.jp/watch/sm12109923 傲嬌]，也可以是病嬌<ref>sele是元凶</ref>
+* <s>波音的姊妹</s> <ref>因為不少niki feat. lily的名曲都被波音リツ(UTAU)翻唱過</ref>
+
+*使用Lily的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm11884641 リリリリ★バーニングナイト] || samfree || Lily Lily Burning Night<br>Lily第一首進入殿堂的歌曲，SAM NIGHT系列的第6作，例行公事(笑)。
+|-
+|[http://www.nicovideo.jp/watch/sm11762237 Chloe] || sele || 用體驗版作的
+|-
+|[http://www.nicovideo.jp/watch/sm15319178 Scarlet Rose] || sele || 中毒曲<s>，速讀、速聽練習曲</s>
+|-
+|[http://www.nicovideo.jp/watch/sm12099561 -ERROR] ||rowspan="5"|niki || +REVERSE姊妹曲
+|-
+|[http://www.nicovideo.jp/watch/sm12145049 +REVERSE] ||倒播的神曲<s>，逆再生推薦</s>
+|-
+|[http://www.nicovideo.jp/watch/sm17072889 ジッタードール] || niki很hit的曲子，中毒性高
+|-
+|[http://www.nicovideo.jp/watch/sm18945135 WAVE] ||<s>電波魂覺醒</s>
+|-
+|[http://www.nicovideo.jp/watch/sm12262607 ユラギ] ||高音lily代表曲之一
+|}
+
+===GACHAPOID（ガチャッポイド）（日語、男(?)聲，INTERNET） ===
+[[File:img4909.jpg|150px|right]]
+* 2010年10月8日發售。
+* 軟體形象角色是「リュウト」，於2011年3月8日正式定名。
+**I社第一位有年齡設定的角色，為「（永遠の）5歳の男の子」。
+* 原形象來自於兒童節目『Super Kids Zone Beポンキッキ』中吉祥物布偶裝角色「ガチャピン」，長相類似一隻綠色的恐龍<s>，看起來很累的眼睛以及兩顆暴牙</s>
+* <s>由於是綠色的，而且聲音很奇特，也稱為「青蛙君」與「河童君」</s>
+* 擅長歌曲TEMPO:90-150BPM; 音域:F2-A3
+* <s>誰的</s>
+* <s>因為都是綠色的加上都是I社，和GUMI可當作CP</s>
+* <s>和猫村いろは合稱龍貓組</s>
+* <s>在I社合唱曲 [http://www.nicovideo.jp/watch/1346842013 例如這首] 被鬼隱，在V家男聲合唱曲 [http://www.nicovideo.jp/watch/sm24957428 例如這首] 被鬼隱數次，哭暈角落</s>
+* <s>幸好還有toya [http://www.nicovideo.jp/watch/sm17300350 例如這首]</s>
+* 搭載[[VOCALOID(新)#hb4af2c8|VOCALOID flex]]技術。
+*使用Ryuto的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/nm11900185 ポリリズム] || 運営長の中の人 || DEMO曲
+|-
+|[http://www.nicovideo.jp/watch/sm16203036 ブラウン] || mathru@かにみそP || 與神威がくぽ合唱<s>，1:48後開始大崩壞</s>
+|-
+|[http://www.nicovideo.jp/watch/sm14880554 Error of Love] || toya || 神調教
+|}
+
+
+== VOCALOID2 （AH-Software） ==
+
+===開発コード miki（日語、女聲，YAMAHA/AH-Software） ===
+[[File:img2471.jpg|150px|right]]
+* 由歌手フルカワミキ(古川美季)提供原聲，繪師是コザキユースケ。
+* 資料庫由YAMAHA開發，AH-Software負責發售。
+* 機娘設定
+* 官方沒有設定年齡，同人作品中她的年紀大多是介乎於ミク跟リン之間，也有她比リン還要小。
+* 擅長歌曲TEMPO:70-170BPM; 音域:E2-G4
+* <s>「miki」的漢字寫法是「幹」</s>
+** <s>miki：幹！</s>
+** 實際上根據歌手原名看來應該是要打成「美季」才是正確的漢字。
+* <s>不知不覺</s>成為第三位主唱動畫主題曲的VOCALOID<ref>豎笛與雙肩包第三期最終話ED，石風呂詞曲的ティーンエイジ・ネクラポップ，<s>因為大人的理由而</s>沒有在主唱裡寫miki</ref>
+
+*使用miki的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://tw.nicovideo.jp/watch/sm8995619 ミキミキ★ロマンティックナイト] || samfree || miki第一首進入殿堂的歌曲，SAM NIGHT系列的第三部曲。
+|-
+|[http://tw.nicovideo.jp/watch/sm9085950 サテライト] || ぺぺろんP || 
+|-
+|[http://tw.nicovideo.jp/watch/sm9076096 発光体のルーディ] || ぶっちぎりP || 
+|-
+|[http://www.nicovideo.jp/watch/sm25645403 劇場愛歌] || n-buna || 
+|}
+
+
+===「ボカロ小学生」歌愛YUKI (歌愛ユキ)（日語、女聲，YAMAHA/AH-Software） ===
+[[File:img2472.jpg|150px|right]]
+* 蘿莉，官方設定年齡9歲；有10個<s>憨巴嘎</s>大蘋果那麼高
+* 班導師是氷山キヨテル老師
+* [https://www.ah-soft.com/10th/ 聲源是未受任何訓練的小學4年級學生] ，而且因為不幸患上感冒'''燒聲'''使得音色有些沙啞
+* 擅長歌曲TEMPO:50-150BPM; 音域:F2-C4
+* <s>明明應該是陽光可愛少女，結果歌愛的歌一堆多愁傷感曲，活像個受虐兒Orz</s>
+* 其實聲音的感覺也偏向灰暗
+* <s>這才是真正的蘿莉聲！[[成句/醒醒吧～阿宅！！|醒醒吧！阿宅!!]]</s>
+* <s>不像小學生的小學生，常常把老師玩弄在股間</s>
+* 由於相關設定偏多，發展空間不大，和冰山老師一樣二創不算多。
+** 2023年倒是靠著新的電波名曲《強風オールバック》獲得一波關注，可喜可賀
+
+*使用Yuki的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm8990126 シューティング☆スター] || かごめP || 
+|-
+|[http://www.nicovideo.jp/watch/1259855481 ながれぼし] || 遺作P || 
+|-
+|[http://www.nicovideo.jp/watch/sm22001720 いかないで] || 想太 || 
+|-
+|[http://www.nicovideo.jp/watch/sm41926207 強風オールバック] || ゆこぴ || 
+|-
+|[https://www.youtube.com/watch?v=DeKLpgzh-qQ ロストアンブレラ] || 稲葉曇 || 
+|-
+|[https://www.youtube.com/watch?v=UnIhRpIT7nc ラグトレイン] || 稲葉曇 || 
+|-
+|[https://www.youtube.com/watch?v=b56xjtP6Qac リレイアウター] || 稲葉曇 || 
+|}
+
+===「ボカロ先生」氷山キヨテル（日語、男聲，YAMAHA/AH-Software） ===
+[[File:img2473.jpg|150px|right]]
+* 聲音是 比山 貴咏史<ref>已經在NICO生放送"あそビバーチェ！ 8月の宴"中公佈。http://vocaloid.blog120.fc2.com/blog-entry-6504.html</ref>
+* 人設是梅谷阿太郎
+* 歌愛ユキ的班主任、數學老師，放假的時候會以"アイスマウンテン・テル"名義參加樂隊。
+* 擅長歌曲TEMPO:60-160BPM; 音域:C2-G3
+* 熱血<s>大眾臉</s>
+* <s>[http://www.nicovideo.jp/watch/sm9041556 來吧!!家教會!]</s>
+* <s>志村新八</s>
+* 由於相關設定偏多，發展空間不大，和自己學生歌愛一樣二創不算多。
+*使用先生的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm10037227 Guilty Verse] || ぺぺろんP || 被評為VOCALOID史上最好的喊叫
+|}
+
+===VOCALOID2 猫村いろは（日語、女聲，YAMAHA/AH-Software） ===
+[[File:img3656.gif|350px|right]]
+* 10月22日發售
+* 人設是okama
+* 聲音提供者為Nico歌手杏之助<ref>於VOCALOID4發售後已由官方公布</ref>
+* 可愛的外表下卻是一把爽朗的少年聲(所以在大陸的論壇被稱為[[春哥|村哥]])<s>有沒有AH-Software的女聲Vocaloid都是老太婆的八卦</s><ref>V家當時的推文中有人開玩笑的說法。日本人對這句話的反應：「好過份～」</ref>
+* 角色本身是出自三麗鷗的企劃《ハローキティといっしょ!》，因此也有在某些[[クソゲーオブザイヤー|遊戲]]出現
+* 紀念Hello Kitty 35周年而製作
+* 在性別參數調教後(大約-30左右)就會完全變成蘿莉音
+** <s>所以在同樣的處理後，レン的聲音也會變成蘿莉(不過聽得出是正太裝出來就是了</s>
+* 擅長歌曲TEMPO:70-170BPM; 音域:E2-G4
+*使用猫村いろは的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://tw.nicovideo.jp/watch/sm12517264 ネコネコ☆スーパーフィーバーナイト] || samfree || <s>恒例行事</s>，SAM NIGHT系列的第七部曲。
+|-
+|[http://www.nicovideo.jp/watch/sm21607240 遊夢色カンガルー ] || TARAI【盥】 || 一群熱愛無嘴貓的女子樂團，[http://www.nicovideo.jp/watch/sm17395886 另] 與 [http://www.nicovideo.jp/watch/sm20096015 另]
+|-
+|[http://www.nicovideo.jp/watch/sm19159315 爾今の洋洋この蛍光にあり] || チームカミウタ || 與VY2合唱
+|-
+|[http://www.nicovideo.jp/watch/sm17845036 銀河船] || アキバヲタP/MEGA MIX || 與結月ゆかり合唱，[http://www.nicovideo.jp/watch/sm18056227 另]
+|}
+
+==其他使用Vocaloid2的產品 ==
+===SWEET ANN（英語、女聲，POWER FX） ===
+*由Jody提供原聲。
+*人設很怪，時常被人拿來惡搞。
+
+===Big-AL（英語、男聲，POWER FX） ===
+*原本Bid-Al的音源是Michael King，但由於工作人員要重錄音的時候Michael King本人正在開演唱會所以Al的聲音的音源就改成自己公司的人了。
+*[http://gravitymambo.com/wp-content/uploads/2011/09/bigal_on.png 日台版人設差別]
+*珍貴的低音男聲。
+*<s>好男人</s>
+*雖然海外組人氣低迷但還是有不錯聽的歌。
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm13612389 【LEON & BIG-AL】 My Way 【Def Techカバー】] || tama_3 || 
+|-
+|[http://www.nicovideo.jp/watch/sm13097001  DANCING☆SAMURAI ～ branch "Ham Handed Traveler"【カバー】] || ぶっちぎりP || Big-AL誕生1周年祭
+|-
+|[http://www.nicovideo.jp/watch/sm16493218 【BIG-AL】FLOWER TAIL【カバー】] || 生ハムばななP || Big-AL誕生2周年祭
+|}
+===PRIMA（英語、女聲，ZERO-G） ===
+*擅長歌劇。
+===SONIKA（英語、女聲，ZERO-G） ===
+*由英語系的歌手提供原聲。
+*最近有台灣廠商代理了進來並製作(介面)中文化版本
+*<s>北美版[[ランカ・リー|蘭花]]</s>
+*<s>整形狂</s>
+[[File:img3383.jpg|150px|none]]
+*附圖為台版的開箱照，右邊cd為第一次整形，左邊cd為台灣代理後第二次整形
+[[File:img3384.jpg|150px|none]]
+*原型畢露的安裝程式
+===TONIO（英語、男聲，ZERO-G） ===
+* ZERO-G社第2代男聲，擅長歌劇。
+*<s>沒有調教好聲音會變娘砲</s>
+===MGSPW AI（日語、女聲，YAMAHA） ===
+* 音源為菊地由美提供。
+* 為PSP遊戲METAL GEAR SOLID PEACE WALKER的兵器AI聲音。
+* 非常規在PC上使用的VOCALOID，為 [http://www.y2lab.com/jp/technology/netvocaloid.html NetVOCALOID]<ref>網路版Vocaloid，由網路上的主機作聲音合成。</ref> 一種。
+* 搭載[[VOCALOID(新)#hb4af2c8|VOCALOID flex]]技術。
+
+
+===VY1  MIZKI（日語、女聲、Yamaha）===
+[[File:img6844.jpg|150px|right]]
+* 把這之前的所有女聲全部合起來，擁有她們的所有聲音特色。
+* <s>MIZKI:喔喔喔 CV系列+GUMI全混起來 我超強</s>
+* 沒有固定角色，發售的外殼上也只有一個粉紅色髮夾或者是和風扇子。
+** 多半都是畫成和服娘或大和撫子，在政治捏她的HAKUMEI一鳴驚人之後，更逐漸朝向和「日本鬼子<ref>原本是2ch上有人得知中國以「日本鬼子」來罵日本人後，決定將這句話擬人化並且反攻中國，不過實際上因為文化不同，單就字面上來看日本人確實會把日本鬼子理解成另一種不同的存在。</ref>」相似的設計......
+* 名字原為MIZUKI，現在沒有U是要表達 "要U(YOU)去補完" 的意思。
+* 官網:http://www.vocaloid.com/VY1.html
+* DEMO曲:[http://www.youtube.com/watch?v=5iMAX6UpLYQ Polyrhythm]，[http://www.youtube.com/watch?v=yOKndsZFaH0 星屑ユートピア]
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm11974467 Awakening!] || KazuP || 正向系歌曲
+|-
+|[http://www.nicovideo.jp/watch/sm12688908 HAKUMEI(薄暮)] || 鬼之島 || <s>第一次創作就這麼一鳴驚人真是恐怖......</s>最近很紅的擬人化角色「日本鬼子」的印象歌曲
+|-
+|[http://www.nicovideo.jp/watch/sm15440067 サイバーサンダーサイダー] || EZFG || 中毒性超高
+|-
+|[http://www.nicovideo.jp/watch/nm12123552 月翅] || SeikoP || 帶有神秘且傳奇的風格
+|}
+
+
+===開発コードPIKO 歌手音ピコ（日語、男聲，YAMAHA/ Ki/oon Records）  ===
+[[File:img4110.jpg|150px|right]]
+* <s>[[成句/YOOOOOOOOOOOOOOOO!!|YOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO!]]</s>
+* 由已經出道的兩聲類NICO歌手ピコ提供原音，2010年12月8日發售。
+* 寫法是「歌手音ピコ」，念法是うたたねぴこ。又稱ピコボーカロイド。
+* 人設是ユキタ
+* 擅長歌曲TEMPO:70-150BPM; 音域:C3-B4
+* 頭上的那根呆毛代表PIKO的P。<ref>也有音符一說。</ref>
+* 12月1日官網開始有5天試用版，但官方規定試用版做的曲子禁止公開，<s>於是有很多烈士新創帳號上傳躲給官方追。</s>
+* <s>日語系VOCALOID唯一沒有後繼的，</s>不能支援後繼引擎，且官方也沒後續行動，V3、V4應該無望
+*使用歌手音ピコ的有名歌曲：
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm12973212 ピコピコ☆レジェンドオブザナイト] || samfree || 發行日當天即上傳，<s>第一個進入恒例行事的男聲VOCALOID</s>，SAM NIGHT系列的第八部曲。
+|}
+　
+
+===VY2 YUMA（日語、男聲、Yamaha） ===
+[[File:img6845.jpg|150px|right]]
+* 與VY1相同，由YAMAHA自行開發
+* 也是一樣無固定人設，產品外觀為靛青色背景加上一把武士刀，聲音齊現存男聲聲音特色<s>除了正太音</s>
+* 日文念法其實是YUUMA(ゆうま)，同MIZKI原理，要由U(YOU)來補完<s>其實是這梗很好用</s>
+* 由於產品外觀，所以多半畫成穿著青色和服的武士。
+* 2011年5月29日所舉辦的「VOCALOID FESTA02」和Pixiv的企劃「ボカロ計画」合作，其中竜宮ツカサ(マンボウの姉)所設計的 [http://dic.pixiv.net/a/66%28%E3%83%AD%E3%83%AD%29 66(ロロ)] 被YAMAHA選為優秀賞作品，並成為公式採用形象角色之一。
+** 不過YAMAHA本家除了採用以外還沒有其他動作，一般還是以66(ロロ)通稱。
+** 但是，66≠ゆうま。
+** YAMAHA目前並沒有將人物角色具體運用在公式上，標準形象還是武士刀。另外，ゆうま通常是指VY2的其他人物形象，而66擁有獨立的設定和名字，不能混用。
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm15658454 おでこに生えたビワの性格が悪い] || 家の裏でマンボウが死んでるP || 66(ロロ)的出道原創曲<ref>其實在這之前家の裏でマンボウが死んでるP已經讓VY2以66形象唱過 [http://www.nicovideo.jp/watch/sm14761180 家の裏でマンボウが死んでる] 和 [http://www.nicovideo.jp/watch/sm14989713 粘着系男子の１５年ネチネチ]，不過這兩首都是ミク的原創曲。</ref>，頭上長出了奇怪的枇杷。
+|-
+|[http://www.nicovideo.jp/watch/sm14715145 硝子ノ華] || マチゲリータP || 非惡搞曲中再生數暫時最高
+|-
+|[http://tw.nicovideo.jp/watch/sm16658127 とても痛い痛がりたい] || EZFG || 與VY1合唱曲，曲風帥氣中毒性強，口內炎之歌（無誤
+|}
+
+
+== [[VOCALOID3]] ==
+* 詳見該條目
+
+== [[VOCALOID4]] ==
+* 詳見該條目
+
+== 開發中/非製品VOCALOID ==
+{|class="wikitable" style="margin:auto;"
+|開發計劃有變動的可能，此欄只作參考。
+|}
+===あきこロイドちゃん（日語、女聲） ===
+[[File:img8754.jpg|150px|right]]
+* 2011年12月20日推出?
+* CV：有本，插圖：左
+* LAWSON看板娘角色
+* 比較尖的成熟系聲音<s>，類似鈴+巡音</s>
+* 非賣品，參加 [http://lwp.jp/vcl/campaign/static/vcl/ LAWSON活動取得]，<s>所以影薄</s>
+{|class="wikitable" style="margin:auto;"
+!歌名/動畫名 !! 調教者、作曲者或製作者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm16714993 サイバーサンダーサイダー] || EZFG || 和GUMI合唱的cover，ボカファーレ收錄
+|-
+|[http://www.nicovideo.jp/watch/sm16475494 ミートミーツガール] || 家の裏でマンボウが死んでるP || <s>姉の犯行</s> 歌詞跟翻車魚P的風格相比很正常，但PV就……
+|}
+
+===ギャラ子（日語、女聲、INTERNET/Yamaha） ===
+[[File:img8758.png|150px|right]]
+* 人設是KEI，CV：柴咲コウ
+* 非賣品，參加活動播放次數超過1000回獲得
+* 發現有bug但yamaha<s>因為沒錢賺</s>不想修復，將會於2013年10月31日停止使用權 [http://www.vocaloid.com/news/products/vocaloid3_library_galaco.html 相關公告]
+** 有愛好者設立簽名行動，暫時有超過5000人留名要求繼續使用權
+* 最後yamaha決定把galaco的bug修復，並[[VOCALOID3#ギャラ子 NEO（日語、女聲、Yamaha/スターダスト出版）|製品化]]
+* [http://www.nicovideo.jp/watch/sm18219289 DEMO曲]
+
+=== 戰音 LORRA（漢語、女聲、上海禾念） ===
+* 上海禾念與同名遊戲合作推出的中國第四位中文音源，人設是大怒羅
+* 與樂正 綾同時舉辦中之人選拔，最後由龜仙人(女)獲選。
+* <s>開發時間遙遙無期</s>
+
+== 開發失敗(?)/計畫凍結VOCALOID ==
+{|class="wikitable" style="margin:auto;"
+|開發計劃有變動的可能，此欄只作參考。
+|}
+===Project if...系列（CRYPTON社） ===
+** 接著CV系列之後開發中的新系列。
+** 跟CV系列不同，不再重視角色，以音質為主。
+** 目前官方公佈小孩β版3個，大人β版1個，α版1個。<ref>http://twitter.com/project_if_cfm/status/15682394460</ref> 但詳細有待以後公佈。
+* 01 未命名(小孩聲)
+** 真蘿莉VOCALOID
+** [http://www.youtube.com/watch?v=LLjERuirZe0 demo]
+** 原本決定2010年1月發售，但因中的人中了新流感跳票了。
+** <s>放置PLAY中</s>
+
+* Junger März PROTOTYPE β(小孩聲)
+** 中的人是有名樂團的小孩演員。
+**在Sound Horizon的 [http://soundhorizon.com/information/index.html#100607b イドへ至る森へ至るイド中演出]
+** 沒有要商品化的消息，Sound Horizon專用(?)
+
+
+===角色主唱系列外傳（CRYPTON社） ===
+* CV系列試作音源
+** 計劃製作CV系列時製作的試作音源。從男女老幼都有。
+** 只有編號沒有名字。
+** <s>全員放置play</s>
+
+* CV-4Cβ 未夢，日語女聲，由中村繪里子提供原聲。
+** 原為CV系列的不採用的試作音源。後來成為日本新型機器人HRP-4C未夢的聲音。
+** 由於中村一邊忍笑一邊錄音，所以完成度不高，沒有製品化的預定。
+** 唯一有實體的VOCALOID。
+** [http://www.youtube.com/watch?v=LEXA2ppiCyo 影片]
+
+* CV04?<ref>C社官方把新男聲歸類到CV系列中，出在CV系列的可能性很高。</ref> 未命名，日語男聲，由梶裕貴?<ref>只是官方給出的提示，由業界推測。</ref> 提供原聲。
+** http://blogs.itmedia.co.jp/closebox/2009/10/vocaloid-a779.html
+** 開發中。詳細未明。
+** C社已改變出新VOCALOID策略，計劃放置的可能性很高。
+
+===[[:File:Img8755.jpg|Ring Suzune]]（リング・スズネ）（日語、女聲） ===
+* みんなのボカロ計画中生出的一員，中途曾經計劃凍結，後來以VOCALOID NEXT計劃再開
+* 中的人是MiKA<ref>聲優歌手水樹奈奈的妹妹</ref>
+* 發售日為2012年後半
+*[http://www.nicovideo.jp/watch/sm15504568 DEMO曲]
+
+===[[:File:Img8756.jpg|Hibiki Lui]]（ヒビキ・ルイ）（日語、男聲） ===
+* みんなのボカロ計画中生出的一員，大致同上?
+* <s>又一個正太</s>
+
+
+===VOCALOID PROJECT CHINA ===
+[[File:img8217.jpg|150px|right]]
+* 主要有以下四位再加上洛天依。
+** 樂正 绫(漢語、女聲)
+** 墨 清弦(漢語、女聲)
+** 徵羽 摩柯(漢語、男聲)
+** 樂正 龍牙(漢語、男聲)
+* 以上五位皆為公開募集入圍角色，再由官方繪師ideolot重新繪製
+* <s>因為有五個人，所以第一首當然是チャイナ戦隊うろたんだ</s>
+* 在Yamaha撤資後此計畫停擺，VOCALOID CHINA名稱也不可再使用。
+* 上海禾念於2014年開啟新計畫Vocanese，之後於2015年改為Vsinger計畫。
+* 樂正 绫確定成為中國第三位中文音源，日前舉辦中之人選拔，最後由祈IRONY獲選。
+* 在2018年7月10日，繼同年5月10日樂正龍牙上市後，最後的兩個成員徵羽摩柯和墨清弦也宣告正式上市
+* 這個條目隨著五色戰隊實裝要修了
+
+==VOCALOID有關技術 ==
+
+===[http://av.watch.impress.co.jp/docs/series/dal/20100412_360797.html VOCALOID flex]（YAMAHA） ===
+* VOCALOID2強化技術，主要是說話機能。
+* [http://www.youtube.com/watch?v=SaaZ-P5_duk 開頭部分]
+* [http://www.youtube.com/watch?v=S81ieHoyZbo demo動畫]
+
+===Vocalistener(ぼかりす) (日本産業技術総合研究所) ===
+* 分析人聲數據轉換VOCALOID數據的自動調教系統。
+* Vocalistener-plus有歌唱編輯/修正機能，就算是音痴也可以調整。
+* 已經發售，往後可能引致神調教量產
+* [http://www.nicovideo.jp/watch/sm3128145 demo]
+* [http://www.youtube.com/watch?v=0CXsDpKDOmU 公開測試的α版使用動畫]
+
+===ぼかんないんです＞＜ (yuukiss) ===
+* yuukiss看完ぼかりす技術之後，閃到的新調教技術。
+* 模仿人聲波形作VOCALOID聲音調整。
+* DEMO曲: 
+**[http://www.nicovideo.jp/watch/sm3225391 【本気MEIKO】 Dearest (pf mix) 【カバー曲】]
+**[http://www.youtube.com/watch?v=0B5R8YkiTM0 KAITO-忘れるわけないでしょ]
+
+===PIAPRO STUDIO ===
+* 由crypton所開發的新型聲音編輯器
+* 主要是令VOCALOID的作業更人性化
+* 第一位搭載的是KAITO V3，在附送的MUTANT VSTi版效果音匯入工具協助下，開放了VSTi功能，可以用VSTi音源的方式外掛入各種常用的DAW軟體、包含Cubase、SONAR、Ableton Live、以及PreSonus Studio One等。
+* 即是說，使用PIAPRO STUDIO的話就可以單使用一個軟體去完成整首曲子，可說是VOCALOID新手界的恩物
+* 在台灣發售的KAITO V3搭載的PIAPRO STUDIO將會中文化<s>，台灣使用者的福音</s>
+
+==[[VOCALOID衍生品種|Vocaloid亞種]] ==
+* VOCALOID的派生/非官方角色，又稱「亞種」。
+* 源於初音ミク熱潮爆發後，因各種事件(例如亞北ネル)或造型(例如はちゅねみく)所產生的亞種。
+* VOCALOID衍生角色的數量非常多，據 [http://vocalchara.web.fc2.com/vocaloids/ Vocaloid角色事典] 記載，包括本家在內的亞種有近一千四百個。
+** 然而很多亞種只有名字或圖像，也只有少部份的亞種有設定。而擁有自己聲音的亞種更加是少之又少。
+* 絕大部份亞種都是初音ミク的變種。因為初音初出道時同人角色不足，所以對角色有需求。
+* 自鏡音リン・レン推出後，亞種的需求下降便很少再有新的亞種出現。再加上[[UTAU]]的誕生，新生的音源角色很多都會製作UTAU音源，都直接歸類到UTAU的類別。
+** 而<s>經過殘酷的淘汰</s>存活下來的角色，也逐漸得到官方承認，如はちゅねミク、亞北ネル、弱音ハク，甚至是たこルカ和シテヤンヨ......
+* 隨着時間的推移，亞種誕生背後的意義已逐漸被遺忘，變成純粹的同人角色。
+* <s>每個VOCALOID都有變性版的亞種。</s>
+
+==其他類型的聲音合成產品==
+
+{|class="wikitable" style="margin:auto;"
+|使其聲音合成技術產品，跟VOCALOID技術無關。
+|}
+
+===[[UTAU]] ===
+*<s>跟VOCALOID差不多的東西，又有別於[[VOCALOID衍生品種]]的原創音源的角色。</s>
+*正式名稱為「歌聲合成工具UTAU」(歌声合成ツールUTAU)，此產品為由飴屋氏開發製作的人力VOCALOID支援軟體。可免費下載，可以自行錄音後製作成聲音資料庫使用。
+*缺點是早期版本不支援英文資料庫，所有的聲音資料必須弄成日文形式，且機械感有點重。
+**連續音源<ref>參考VOCALOID的錄音方式，採用連續音組合作聲音資料庫以減少單音合成時出現的不自然和出現雜音的現象，使聲音更流暢</ref> 的出現，使聲音更自然流暢。<s>但仍然是很UTAU。</s>
+**後來開始有人開發英文和中文音源資料庫。
+*自從UTAU出現後，以後誕生的原創音源角色都有屬於自己的聲音<ref>不過使用UTAU的角色都不被視為VOCALOID亞種而是UTAU</ref>，不再止於圖像。
+
+
+===VOICEROID ===
+* 由AHS社開發的聲音合成軟體
+* 使用的聲音合成引擎是'''AI TALK'''
+* VOICEROID+ 加入可調整技術使聲音更自然
+
+* VOICEROID角色
+**月読ショウタ - 正太聲、7歲小學生
+**月読アイ - 蘿莉聲、5歲幼稚園生
+*VOICEROID+角色
+**'''吉田くん(吉田ロイド)''' 
+**'''弦巻マキ''' - CV:民安ともえ，AHS自社音樂編集軟體Jamバンド的角色
+**'''結月ゆかり''' -[[結月ゆかり|同VOCALOID結月ゆかり]]
+**'''東北ずん子''' - 免著作権的東北支援角色
+
+===Softalk ===
+* 免費的聲音合成軟體，和VOICEROID相比電子合成感更高<s>簡單講就是TALKLOID界的UTAU</s>
+* 雖然說直接輸入的情況下會變成棒讀，不過也可以透過一些控制碼的方式來操控抑揚頓挫令其變得更自然。
+* 預設的發音聲源「女性1」就是俗稱的ゆっくり角色的真實身分。
+
+===[http://www.yuyinniaoniao.com/ 裊裊] ===
+* 由天朝同志dsound獨自開發
+* 專中文調教
+* 目前在天朝的人氣直直升
+**最近出了跟東方梔子神似的角色
+
+
+===Mac音系列 ===
+* 由於初代VOCALOID只有windows版本，心有不甘的聲優[[池澤春菜]]和雜誌MACFAN合作，以MAC版的RTM軟件Reason 4（有windows版本）和GarageBand（只有mac版本，並在名字後加入Petit）為基礎推出的DTM音源。
+* 原理上和一般的DTM樂器音源一樣，聲音視乎軟件和調教者實力
+* <s>被另外製成了UTAU</s>
+* <s>在VOCALOID Editor for Cubase發售後Mac音系列的意義歸0</s><ref>因為VEfC是對應Cubase的VST式編輯器，而Cubase可在Mac使用，所以變相能在Mac中使用VOCALOID3</ref>
+
+====Mac音ナナ ====
+[[File:img2475.jpg|150px|right]]
+* 初代Mac音
+* 聲音來源當然是池澤春菜本人。
+* 2013年末宣布VOCALOID化
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|耳のあるロボットの唄 || 耳ロボP || 作為Mac音系列生母的池澤在Mac音ナナ誕生後自己以重音テト的名曲為本推出的作品，極少由聲音提供者制作的歌曲
+|-
+|[http://www.nicovideo.jp/watch/sm6595312 魔法をかけて！] || ハロ || 神調教，980円的奇蹟的歌姬
+|}
+
+====Mac音パパ ====
+[[File:img14801.jpg|150px|right]]
+* 聲音由中田讓治提供<s> (可能是目前最具男人味的音源之一) </s>
+* Mac音家庭的大黑柱，年齡設定40歲左右，工作是謎，肉食愛好者。
+* 因為「音源不具合のため」暫停販售，<s>從此被放置PLAY。</s><ref>同時出問題的ココ現在能買，但パパ...</ref>
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm11258281 蒔音坂] || 白湯亭 || 與ココ父女合唱的演歌
+|-
+|[http://www.nicovideo.jp/watch/sm20742176 つきうさぎ] || 鈍色/OSTER project || Mac音パパ生日祝賀曲，翻唱自 [http://www.nicovideo.jp/watch/sm3707903 OSTER project的つきうさぎ]
+|-
+|[http://youtu.be/a45KvwegXEo 耳のあるロボットの唄] || 耳ロボP || 使用UTAU製作的翻唱
+|}
+
+
+====Mac音ココ ====
+[[File:img2476.jpg|150px|right]]
+**由於Mac音ナナ成功，池澤和MACFAN決定再推出Mac音系列第二作Mac音ココ，聲音提供是[[井上喜久子]]。
+**設定年齡是理所當然是[[十七歲]](無誤
+
+===阿久女イク  ===
+[[File:img2911.jpg|150px|right]]
+*由StudioS製作的同人十八禁軟件「MADLOID 角色H聲系列（キャラクターHボイスシリーズ） 01」。
+*聲音由計名さや香提供。
+*是共700種以「喘氣聲」為中心的音聲組合
+*不但內建喘息聲的五十音還有台詞、HH的對話、哀號和各種效果音......
+*售價1500日元......
+*身高145cm，體重是秘密。
+*同人設定： 
+**持有物是洋蔥。
+**ドM，大變態。
+
+===[http://cevio.jp/products/CVIO-001/index.html CeVIO Creative Studio] ===
+[[File:img12226.jpg|150px|right]]
+* 由CeVIO研發，不使用VOCALOID引擎的新型聲音歌唱/合成軟體
+* 發售日為2013年9月26日<ref>現在免費試用(?)版</ref>
+* 有望成為新一代的主流合成軟體
+** 主要因為自身的合成引擎已經能發出十分自然的聲音，而且感情變達上甚至超越了VOCALOID
+* 發售版中除了さとうささら之外還有另外2個角色(官網情報，見標題連結內圖)
+** 總共2名女聲(包裝封面的2人)，1名男聲(情報未知)
+* 很可惜能唱歌的只有さとうささら，其他兩位也是說話聲庫
+* 無法調出滑音 by cillia <ref>因為引擎本身自帶仿人聲的滑音，所以不需亦不能手動調教滑音</ref>
+** 但可以在後期使用Melodyne來修正
+* 只支援日文版Vista/Windows7/Windows8
+* [http://cevio.jp/ CeVIO官網]
+
+==== さとうささら ====
+[[File:img12227.jpg|150px|right]]
+* CeVIO FREE VERSION中內建的基礎音源
+* <s>又是</s>帶成熟感的萌系女音
+* 由現時出現的
+* 和CeVIO的相性良好，99%的人也能完美地做出神調
+{|class="wikitable" style="margin:auto;"
+!歌名 !! 調教者或作曲者 !! 備註
+|-
+|[http://www.nicovideo.jp/watch/sm21353394 INCEPTION] || AUG || <s>和盜夢空間無關。</s>少見的原創，當然的神調教
+|-
+|[http://www.nicovideo.jp/watch/sm21119988 星のカケラ] || cillia || cillia對さとうささら的測試，翻唱miku的DEMO，神調
+|-
+|[http://www.nicovideo.jp/watch/sm21147402 空とキミのメッセージ] || cillia || 翠星上的加爾岡緹亞的ED，神調教
+|}
+
+==== [https://yumenokessho.bang-dream.com/ 夢ノ結唱BanG Dream! AI Singing Synthesizer] ====
+* 與[[BanG Dream!]]合作推出，以Synthesizer V為基底，支援日文以外的多種語言
+* 角色形象也與原型近似，名稱則取自其樂團
+
+* 角色一覽
+** Popy（ポピー）：仿造Poppin' Party主唱[[戶山香澄]]的聲線
+** Rose（ローズ）：仿造Roselia主唱[[湊友希那]]的聲線
+** Pastel（パステル）：仿造Pastel*Palettes主唱[[丸山彩]]的聲線
+** Halo（ハロ）：仿造Hello,Happy World!主唱[[弦卷心]]的聲線
+** AVER（アヴァー）：仿造Ave Mujica主唱[[三角初華|Doloris]]的聲線
+
+==== ONE （日語、女聲、1st PLACE） ====
+* 正式名稱叫 ONE -ARIA ON THE PLANETES-
+* 讀作ONE（オネ）<s>姐姐，很奇怪的叫法</s>
+* 人設しづ，立繪是赤坂アカ
+* 設定是IA的妹妹。
+* 被不少人誤認為是VOCALOID引擎。
+* 有著與IA相似的聲音，但比IA更蘿莉的聲線。
+* 聲源提供者也叫ONE <s>可能是Vocaloid P主·Jin（自然之敵P）的姐姐/妹妹</s>
+
+===[http://cevio.jp/products/CVIO-001/index.html CeVIO Creative Studio] ===
+
+==其他有關角色==
+{|class="wikitable" style="margin:auto;"
+|非VOCALOID角色/亞種，主要是同人創作上常一起共演的角色。
+|}
+
+===ブラック★ロックシューター(B★RS/黑岩射手)===
+[[File:img2551.jpg|150px|right]]
+*huke的原創角色，15歲。手中武器能每秒發射20發岩石。
+*事實上黑岩的雙馬尾是左長右短，而且靠在一起，但都被大家忽略了。
+* 變身前(?)叫[[黑衣麻陶|黑衣マト]](動畫CV:[[花澤香菜]])
+**<s>雖然有雙馬尾，但不是初音的亞種。</s>
+**<s>不少人把黑岩當成了初音的亞種令到原作者感到困擾</s>
+*** PIAPRO亦強調該角色非VOCALOID亞種而拒絕該角色相關的投稿。
+*** 同時因為黑岩和初音結下的<s>孽</s>緣，意外地令初音成為第一位主唱動畫主題曲的虛擬歌手。
+**<s> ★ 是很重要一定要加</s>
+*不是唸 ブラック[[成句/（ゝω・）綺羅星☆|（ <ゝω・）綺羅星★]] ロックシューター
+*Ryo看了黑岩設定後有感而作〈ブラック★ロックシューター〉一曲，令角色的知名度提升。
+*[http://www.blackrockshooter.jp/ 2010年TV動畫化決定]，製作公司是ordet<ref>動畫製作公司為山本寬等人設立的ordet</ref>
+*[http://brs.jrpg.jp/ 2011年改編psp遊戲化]，遊戲製作公司是imageepoch，動畫製作是ufotable，預定8月25日發售。(遊戲CV：[[坂本真綾]])
+*<s>OVA推出的時候，精緻的作畫是人人喊讚。但是隔年遊戲的PV出來之後，壓倒性的畫風讓OVA的人氣開始走起下坡。</s>
+*2012年由ordet再次改編成8集動畫版，主要的角色大致上承襲OVA版。
+** 各集標題則取自ryo的〈ブラック★ロックシューター〉歌詞。
+
+===FL-CHAN ===
+[[File:img2992.jpg|150px|right]]
+* 統合型音樂製作軟體FL-Studio的角色
+* 代表物:黃椒
+*《ちびミクさん》中的商店店主
+
+===白熊カオス ===
+* PS2的聲音合成遊戲くまうた的其中一個用家使用的名字
+* 擅長演歌
+* 蘿莉控
+* 以前有人認為他是KAITO的師父<ref>因為跟低音的KAITO的聲音有點像</ref>
+* 代表曲是"[http://www.nicovideo.jp/watch/sm985395 我は萌えに屈せず]"
+
+==相關遊戲==
+
+===[[初音ミク -Project DIVA- 歌姬計畫系列|初音ミク -Project DIVA-(歌姬計畫)]] ===
+[[File:img6065.jpg|150px|none]]
+*詳情請看[[初音ミク -Project DIVA- 歌姬計畫系列]]條目
+
+===Project mirai ===
+[[File:Project Mirai.jpg|150px|none]]
+* 樓上在3DS上推出的友作，人物為Q版風格
+* 登場人物除了御六家外還有GUMI
+
+=== [http://www.asgard-japan.com/paraphray/meg/index.html Megpoid the music#] ===
+[[File:img11114.jpg|150px|none]]
+* <s>GUMI版project diva</s>
+* 2013年3月28發售
+* 品質上大約和初代diva差不多
+** <s>但同期的diva f太閃，結果風頭都被搶了</s>
+* '''''「榮獲」KOTY掌機2013年次點'''''
+
+===逆転ボカロ(逆轉vocaloid) ===
+[[File:img2971.jpg|150px|none]]
+*以ニイコ為首制作的同人遊戲
+*顧名思議遊戲就是一整個逆轉裁判風的遊戲
+*雖然是同人，但卻絕不馬虎，主要角色都有CV配音<s>身為VOCALOID的同人遊戲，竟然不是用ミク調教發音</s>
+*<s>可以捕捉V家小精靈</s>
+*登場主要人物︰由C社至I社的官方角色也有登場，UTAU的重音以及各色各樣的亞種<s>配角</s>等。
+*故事簡介: 如果田園裡的蔥不見了，誰會是犯人呢？毫無疑問，就是那個蔥的愛好者—初音ミク。以這次的事件也理所當然的從田園裡的蔥被人偷去開始。於是乎，初音ミク以嫌疑犯和辯護律師的身份走上了名為裁判所的舞台，而更不幸的是在開審前半小時，有人手持法式長棍毆打ミク的頭部使其失憶，在這絕糟的狀況下走上裁判所舞台的ミク，能夠洗脫自己的嫌疑嗎？
+*遊戲截圖︰(無誤) 
+[[File:img2995.jpg|150px|none]]
+*注意事項︰本遊戲須安裝RPGツクールVX RTP 才能執行。
+*遊戲網址：[http://homepage3.nifty.com/dizi/vocolo01.htm]
+
+===Typenist ボーカロイドタイピング ===
+[[File:img2996.jpg|150px|none]]
+*這是 [http://kanmisikou.net/typenist/ 遊戲官網]
+*網路web遊戲
+*最多可4人同時遊玩
+*打字遊戲，玩法就是把一首歌的歌詞能打出完成率的多少算分。
+*好像是能拿來作為好友間互相推曲的遊戲。
+=== Project SEKAI ===
+* 主條目：[[世界計畫_繽紛舞台！_feat.初音未來|プロジェクトセカイ カラフルステージ feat. 初音ミク]]
+
+===  健身拳擊 feat. 初音未來 -與未來一起鍛鍊- ===
+* 16周年紀念作品，體感韻律遊戲《健身拳擊》的派生作
+* 2024年7月上市，平台為Nintendo Switch
+
+==相關連結==
+*[[UTAU]]
+*[[VOCALOID/製作人一覽]]
+*[[VOCALOID/相關事件]]
+**[[VOCALOID及UTAU排行榜週刊]]
+*[[MikuMikuDance]]
+**[http://www31.atwiki.jp/mmdcup/ MMD杯@wiki]
+*[http://www5.atwiki.jp/hmiku/ 初音ミク Wiki]
+*[http://www9.atwiki.jp/vocaloidchly/ Vocaloid中文歌詞wiki]
+*[http://www.comptiq.com/ace/index.php?web4%A5%B3%A5%DE%2Froipara はちゅねミクの日常 ろいぱら！] V家搞笑四格漫畫
+
+==備註==
+<references />
+
+{{VOCALOID}}
+
+[[分類:電腦軟件]]
+[[分類:VOCALOID|*]]
