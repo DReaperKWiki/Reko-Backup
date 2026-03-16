@@ -6,7 +6,7 @@
 
 [[檔案:Blue_Eyes_White_Dragon_Wallpaper.jpg|500px|right]]
 
-<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color:#00E5EE; font-size: 24px;">
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color:#00E5EE; font-size: 20px;">
 
 オレのプライド、そしてオレの魂！
 
@@ -667,6 +667,13 @@ File:Blue-Eyes_8.jpg|HC01
 *# 對手發動卡牌效果時才能發動（「究極龍魔導師」每回合只能對魔法、陷阱、怪獸效果各使用1次這個效果）。無效那個效果的發動，並破壞那張卡。
 *# 表側表示的這張卡因為對手而離開場上的場合才能發動。特殊召喚自己額外牌組或墓地裡1隻，「青眼」怪獸或「混沌」儀式怪獸。
 
+=== [[卡通_(遊戲王牌組系列)#青眼卡通究極龍（ブルーアイズ・トゥーン・アルティメット_ドラゴン）|青眼卡通究極龍（ブルーアイズ・トゥーン・アルティメット_ドラゴン）]] ===
+* 貝卡斯的卡片之一。
+** 時隔多年推出的進化型，卡名跟造型當然就是捏他《青眼究極龍》，且召喚條件明顯就是用當年拿走的青眼變成的卡通龍融出來的。
+** <s>也因此消息一公布網路上也大量出現引用原作海馬的台詞或截圖的貼文</s>。
+
+* 卡片資訊詳見條目
+
 == 同步怪獸介紹 ==
 === 蒼眼銀龍（{{ruby|蒼眼|そうがん}}の{{ruby|銀龍|ぎんりゅう}}） ===
 [[檔案:Azure-Eyes Silver Dragon.png|250px|right]]
@@ -1131,6 +1138,7 @@ File:Blue-Eyes_8.jpg|HC01
 ** 海馬認為青眼變成這個樣子很可笑，不能容忍。
 
 * 卡片資訊詳見條目
+
 {{-}}
 
 === [[Sin (遊戲王牌組系列)#Sin 青眼白龍（Sin 青眼の白龍（ブルーアイズ・ホワイト・ドラゴン））|Sin 青眼白龍（Sin 青眼の白龍）]] ===

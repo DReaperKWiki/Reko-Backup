@@ -231,6 +231,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 === 王的僕人—黑魔導（王のしもべ－ブラック・マジシャン） ===
+[[檔案:Dark Magician, the Pharaoh's Servant.jpg|250px|right]]
 * 原文：'''{{ruby|王|ファラオ}}のしもべ－ブラック・マジシャン'''
 * 收錄於「LIMIT OVER COLLECTION—THE HEROES」，與《白色幻獸—青眼白龍》並列為第一批公布的超框卡。
 ** 卡名源自原作中對《黑魔導》的稱呼。
@@ -283,6 +284,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 === 混沌的魔王—骸骨惡魔（混沌の魔王ースカル・デーモン） ===
+[[檔案:Skull Archfiend of Chaos.jpg|250px|right]]
 * 原文：'''{{ruby|混沌|こんとん}}の{{ruby|魔王|まおう}}ースカル・デーモン'''
 * 原型是《[[惡魔的召喚]]》，是原作中決鬥王國前期的代表怪獸。
 ** 另外這張卡的卡名「スカル・デーモン」即Skull Demon，而前面的Skull是《惡魔的召喚》在TCG的名字，不知是否是K社玩譯名梗<s>，這下流入TCG就不知道會改成什麽樣了</s>。
@@ -298,6 +300,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 === 超魔劍士 黑色混沌（超魔剣士ブラック・カオス） ===
+[[檔案:Black Chaos the Ultimate Magical Swordman.jpg|250px|right]]
 * 原文：'''{{ruby|超魔剣士|ちょうまけんし}}ブラック・カオス'''
 
 * 原型是《[[黑魔導#黑混沌魔法師（マジシャン・オブ・ブラックカオス）|黑混沌魔法師]]》的強化版，但效果完全服務於強化以後的儀式召喚體系。
@@ -375,6 +378,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 === 黑衣混沌的魔術師 黑色混沌（黒き混沌の魔術師ブラック・カオス） ===
+[[檔案:Black Chaos the Dark Chaos Magician.jpg|250px|right]]
 * 原文：'''{{ruby|黒|くろ}}き{{ruby|混沌|こんとん}}の{{ruby|魔術師|まじゅつし}}ブラック・カオス'''
 * 收錄於補充包1305(CORI)的封面擔當。
 ** 與同卡包的《[[混沌戰士#光與闇的戰士_混沌戰士（光（ひかり）と闇（やみ）の戦士（せんし）カオス・ソルジャー）|光與闇的戰士 混沌戰士]]》作為超框卡擔當，兩張卡剛好可以拼成一個完整的卡圖。
@@ -937,6 +941,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 ==== 黑色魔導的幕布（黒魔導のカーテン） ====
+[[檔案:Dark Magical Curtain.jpg|250px|right]]
 * 原文：{{ruby|黒魔導|くろまどう}}のカーテン
 * 收錄於「LIMIT OVER COLLECTION - THE HEROES -」，本家首張超框魔法。
 * 效果就是《黑魔術的帷幕》的升級版，發動後雙方都可以從手牌或墓地叫出闇屬性的魔法使族怪獸，如果叫出來的是原本卡名為《黑魔導》或《黑魔導女孩》的怪獸，還能接著檢索記述有《黑魔導》卡名的魔陷。
@@ -1092,6 +1097,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 ==== 混沌的魔術箱（混沌のマジック・ボックス） ====
+[[檔案:Mystic Box of Chaos.jpg|250px|right]]
 * 《死之魔術箱》的強化版，致敬了遊戲前期的常用卡，不過效果變成了具備保護本家卡牌逃過取對象效果、附帶炸卡和特召本家怪獸能力的戰術卡。
 ===== 卡片資訊 =====
 * 速攻魔法
@@ -1101,6 +1107,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 ==== 混沌禮帽（カオスシルクハット） ====
+[[檔案:Chaos Hats.jpg|250px|right]]
 * 《魔術禮貌》的翻新版，效果也相當於是具備本家特色的《魔術禮帽》的重製。
 ===== 卡片資訊 =====
 * 速攻魔法

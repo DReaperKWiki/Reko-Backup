@@ -333,6 +333,7 @@
 {{-}}
 
 ==== 解譯代碼通訊者 整合（デコード・トーカー・インテグレーション） ====
+[[檔案:Decode Talker Integration.jpg|250px|right]]
 * 收錄於「LIMIT OVER COLLECTION—THE HEROES」<s>哈哈哈《[[防火牆龍]]》UCCU</s>。
 ** 卡名後半段源於《解譯代碼通訊者》的強化效果招式名「力量整合（パワーインテグレーション）」。
 
