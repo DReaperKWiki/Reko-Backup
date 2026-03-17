@@ -298,8 +298,18 @@ M∀LICE IN UNDERGROUND
 * 本家陷阱的共通效果是「除外自己場上1隻表側本家怪獸，就能在被覆蓋的回合發動這張卡」。
 ** 除此以外本家陷阱卡名字的後半部分引用自《愛麗絲夢遊仙境》的插曲：字母部分由插曲名的首字母、數字部分由該章的數字構成。
 === M∀LICE巡遊秘境（M∀LICE IN UNDERGROUND） ===
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[檔案:M∀LICE IN UNDERGROUND.png|250px]]
+|-| 
+LOCR=[[檔案:Maliss in Underground(LOCR).jpg|250px]]
+</tabber>
+}}
+
 * 原文：'''{{ruby|M∀LICE IN UNDERGROUND|マリス イン アンダーグラウンド}}'''
-[[檔案:M∀LICE IN UNDERGROUND.png|250px|right]]
 * 本家場地魔法，發動時作為效果處理可以從手牌、牌組或墓地除外本家卡。
 ** 能夠觸發本家怪獸除外後返場的效果，因此變相成為本家單卡初動點。
 ** 能讓本家連接怪獸自帶嘲諷，而只要存在於場上且本家除外狀態的陷阱卡有'''3'''種類時就能讓本家連接怪獸的攻擊力提升'''3'''000點。

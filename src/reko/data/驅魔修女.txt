@@ -258,6 +258,7 @@
 {{-}}
 
 === 驅魔修女 卡魯瑪艾爾（エクソシスター・カルマエル） ===
+[[檔案:Exosister Karmael.jpg|250px|right]]
 * 收錄於補充包1303(BPRO)。
 
 * 這張卡補上了瑪爾法遲來的超量怪獸姿態，但設計上卻與本家其他成員截然不同：
@@ -291,7 +292,16 @@
 {{-}}
 
 === 驅魔修女們的聖母頌歌（エクソシスターズ・マニフィカ） ===
-[[File:Exosisters Magnifica.png|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[File:Exosisters Magnifica.png|250px]]
+|-| 
+LOCH=[[檔案:Exosisters Magnifica(LOCH).jpg|250px]]
+</tabber>
+}}
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #EEC900; font-size: 24px;">
 奇跡と奇跡結ばれし時、
 
@@ -306,7 +316,7 @@
 </div>
 
 * 收錄於補充包1108(DIFO)的本家終極王牌。
-* 這張卡是《米迦愛麗絲》和《卡斯皮黛爾》的合體卡，以此類推剩下兩個應該也會推出組合卡。
+* 這張卡是《米迦愛麗絲》和《卡斯皮黛爾》的合體卡，以此類推其餘兩個應該也會推出組合卡<s>，結果並沒有</s>。
 ** 類似於《FNo.0 未來皇霍普》的進階方式，雖然是階級8的怪獸但召喚條件需要用本家的超量怪獸疊放才行<s>然而不是階級0，可樂妹日常吃書</s>。
 
 * 第一張有著「只能用特定怪獸作為素材超量召喚才能特殊召喚」限制的卡。
@@ -425,6 +435,7 @@
 {{-}}
 
 === 驅魔修女聖母悼歌（エクソシスター・バト・マーテル） ===
+[[檔案:Exosister Bat Mater.jpg|250px|right]]
 * 收錄於補充包1302(BPRO)。
 
 * 本家綠陣，擁有三條正面效果：

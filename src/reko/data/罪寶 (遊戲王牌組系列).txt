@@ -24,6 +24,8 @@
 卡圖1=[[檔案:Diabellestarr the Dark Witch.png|250px]]
 |-| 
 卡圖2=[[檔案:Diabellestarr the Dark Witch 2nd.jpg|250px]]
+|-| 
+LOCH=[[檔案:Diabellstar the Black Witch(LOCH).jpg|250px]]
 </tabber>
 }}
 
@@ -71,7 +73,16 @@
 {{-}}
 
 === 原罪的狄雅貝兒潔（{{ruby|原罪|げんざい}}のディアベルゼ） ===
-[[檔案:Diabellze_of_the_Original_Sin.png|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[檔案:Diabellze_of_the_Original_Sin.png|250px]]
+|-| 
+LOCR=[[檔案:Diabellze the Original Sinkeeper(LOCR).jpg|250px]]
+</tabber>
+}}
 * 收錄於補充包1204(LEDE)。
 * 從造型來看很顯然是狄雅貝兒斯塔的對手，二人等級和攻守一致，怪獸屬性和外貌特徵（頭髮、穿著顔色）則完全相反，甚至這張卡是卡圖世界觀第一個'''幻想魔族'''怪獸<s>不過幻想魔族本來就是第12期才新增的種族</s>。
 ** <s>[[亞路白斯的落胤|亞路白斯]]、[[維薩斯・史塔佛洛斯特|維薩斯]]表示欣慰</s>

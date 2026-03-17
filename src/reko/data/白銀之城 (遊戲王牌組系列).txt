@@ -113,7 +113,16 @@
 *# 這張卡的攻擊力上升自己墓地裡的通常陷阱卡種類x400點，且對手不能攻擊「白銀之城的惡魔神像」以外的惡魔族怪獸。
 
 === 白銀之城的菈比莉斯（{{ruby|白銀|しろがね}}の{{ruby|城|しろ}}のラビュリンス） ===
-[[檔案:Lovely Labrynth of the Silver Castle.png|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[檔案:Lovely Labrynth of the Silver Castle.png|250px]]
+|-| 
+LOCR異畫=[[檔案:Lovely Labrynth of the Silver Castle(LOCR).jpg|250px]]
+</tabber>
+}}
 * 本家大姐，可以保護本家的陷阱卡不被對方怪獸連鎖，每回合都能回收一張墓地裡的通常陷阱卡，只要利用通常陷阱卡的效果讓怪獸離場就能隨機破壞對方場上或手牌的卡。
 ** 三條效果都相當可觀，本身又擁有2900的高打點，是本家當之無愧的大姐。
 ** 需要注意的是②效果回收的陷阱卡會被附加上誓約，只要場上沒有惡魔族就無法發動（即使這張卡離場了那張陷阱依然存在這個誓約），使用上需要保證場上有惡魔族怪獸。

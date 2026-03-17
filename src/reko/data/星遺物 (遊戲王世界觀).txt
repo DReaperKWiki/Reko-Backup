@@ -344,7 +344,16 @@
 *# 對手特殊召喚了額外牌組的怪獸的場合才能發動。特殊召喚牌組中1隻「星遺物」怪獸。
 
 === 機界騎士的聖像騎士 雙穹亞斯特拉姆（{{ruby|双穹の騎士|ジャックナイツ・パラディオン}}アストラム）  ===
-[[檔案:Mekk-Knight Crusadia Avramax.png|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[檔案:Mekk-Knight Crusadia Avramax.png|250px]]
+|-| 
+LOCH異畫=[[檔案:Mekk-Knight Crusadia Avramax(LOCH).jpg|250px]]
+</tabber>
+}}
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #0066CC; font-size: 24px;">
 星明かりの勇者よ！！
 

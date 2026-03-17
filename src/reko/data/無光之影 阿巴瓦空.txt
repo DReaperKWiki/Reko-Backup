@@ -78,7 +78,17 @@
 * [[身心障礙]]
 
 === 卡片資訊 ===
-[[檔案:A-Bao A Qu, the Lightless Shadow.jpg|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[檔案:A-Bao A Qu, the Lightless Shadow.jpg|250px]]
+|-| 
+LOCH=[[檔案:A Bao A Qu, the Lightless Shadow(LOCH).jpg|250px]]
+</tabber>
+}}
+
 * 連接／效果怪獸<br>闇屬性／惡魔族／攻擊力2800／↙←→↘／LINK-4
 ** 連接素材：包含惡魔族怪獸在內的，至少2隻怪獸
 * 效果：「無光之影 阿巴瓦空」的①②效果每回合各只能使用1次。

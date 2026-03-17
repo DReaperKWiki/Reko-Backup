@@ -1083,6 +1083,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 === 效果中記載了「光與闇的儀式」名稱的魔陷 ===
 * 均收錄於補充包1305(CORI)。
 ==== 光與闇的儀式（光と闇の儀式） ====
+[[檔案:Ritual of Light and Darkness.jpg|250px|right]]
 * 原文：'''{{ruby|光|ひかり}}と{{ruby|闇|やみ}}の{{ruby|儀式|ぎしき}}'''
 
 * 強化版的《混沌—黑魔術的儀式》，能儀式召喚的怪獸只有《黑衣混沌的魔術師 黑色混沌》和《光與闇的戰士 混沌戰士》
@@ -1116,6 +1117,7 @@ File:Dark Magician Artwork (Rush Duel).png|Rush Duel
 {{-}}
 
 ====兩顆心（二つの心） ====
+[[檔案:Mind Shuffle.jpg|250px|right]]
 * 卡名致敬了DM動畫的OP5「Overlap」的一句歌詞「光と影の'''2つの心'''」。
 ** <s>但是怪獸選用了《混沌戰士》和《黑混沌魔法師》，似乎跟這句歌詞沒太多關係</s>
 ** 硬要解釋的話，那就是這兩隻怪獸作為遊戲前期代表王牌怪獸，名字本身也象徵著亞圖姆與遊戲的關係。
