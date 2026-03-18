@@ -37,12 +37,12 @@
 * 2025年9月18日，開始募集代表色名稱
 * 2025年10月22日，公開小隊名及代表色名稱
 * 2025年11月26日，公開角色icon
-* 2025年[[聖誕節|12月24日]]，公開制服
+* 2025年12月24日，公開制服
 * 2026年2月14-15日，舉辦いきづらい部！ 1st LIVE ～ What is my L ? ～
 ** 14日的Live直接在Youtube上免費直播；在22日又重新公開<s>1st Day3(無誤)</s>
 ** 15日預告2nd LIVE及書籍化、漫畫化等情報
 * 2026年2月27日，角色帳號停止更新
-** 3月13日，公開[https://gsm-app.com/lovelive/ikizulive-x-archive/ 角色帳號推文存檔]<ref>[https://hamproductions.github.io/bluebird-social/ 泰國工程師粉絲製英文翻譯版]</ref>
+** 3月13日，公開[[#參見|角色帳號推文存檔]]
 * 2026年9月19-20日，舉辦2nd LIVE
 <!--
 * 2026年 月 日，漫畫版《 》開始連載
@@ -121,6 +121,12 @@
 ** 一年生：波爾卡、麻衣、玲、花火、乃理子、悠可里、真綠、翔音
 ** 二年生：奇跡、輝夜
 
+* 第2回小隊分組
+** 主題是LOVE，以「想對她用什麼方式告白」分組
+** 電話：波爾卡、玲、奇跡
+** SNS：麻衣、輝夜、翔音
+** 信：花火、乃理子、悠可里、真綠
+
 == 音樂作品 ==
 * [[IKIZULIVE！LOVELIVE! BLUEBIRD/音樂作品]]
 
@@ -128,6 +134,7 @@
 * [https://www.lovelive-anime.jp/lovehigh/ 官方網站]
 * [https://x.com/ikizulive_staff 官推]
 * [https://www.youtube.com/@IKIZULIVE Youtube頻道]
+* [https://gsm-app.com/lovelive/ikizulive-x-archive/ 角色帳號推文存檔]<ref>[https://hamproductions.github.io/bluebird-social/ 泰國工程師粉絲製英文翻譯版]</ref>
 
 {{LoveLive}}
 

@@ -1,0 +1,178 @@
+{{h0|本條二亞（ほんじょう にあ）}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+|style="text-align:center;background-color:#898989;" |'''Spirit - NO.2'''
+|-
+|style="text-align:center;background-color:#898989;" |'''Astral Dress - Sister Type'''
+|-
+|style="text-align:center;background-color:#898989;" |'''Weapon - Book Type[Ratsiel]'''
+|-
+{{stub row|style=text-align:center;background-color:#cccccc;}}
+|-
+|style="text-align:center;background-color:#cccccc;" |以下含有部分劇透，如果不想和集裝箱一起被二亞開洞，請不要繼續看下去。
+|}
+
+== 出處 ==
+* 《[[約會大作戰]]》
+
+
+== 簡歷 ==
+
+=== 角色資歷 ===
+
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+|style="text-align:center;background-color:#00CED1;" |名字
+|style="background-color:#40E0D0;" |'''本條二亞（ほんじょう にあ）'''
+|-
+|style="text-align:center;background-color:#00CED1;" |CV
+|style="background-color:#40E0D0;" |'''[[生天目仁美]]'''
+|-
+|style="text-align:center;background-color:#00CED1;" |識別名
+|style="background-color:#40E0D0;" |'''修女（Sister）'''
+|-
+|style="text-align:center;background-color:#00CED1;" |捏他別名
+|style="background-color:#40E0D0;" |
+|-
+|style="text-align:center;background-color:#00CED1;"|職業
+|style="background-color:#40E0D0;"  |'''漫畫家'''
+|-
+|style="text-align:center;background-color:#00CED1;" |外見年齡
+|style="background-color:#40E0D0;" |'''約18歲'''
+|-
+|style="text-align:center;background-color:#00CED1;" |實際年齡
+|style="background-color:#40E0D0;" |'''{{censored|45歲}}'''
+|-
+|style="text-align:center;background-color:#00CED1;" |生日
+|style="background-color:#40E0D0;" |'''2月29日'''
+|-
+|style="text-align:center;background-color:#00CED1;" |身高
+|style="background-color:#40E0D0;" |'''168cm'''
+|-
+|style="text-align:center;background-color:#00CED1;" |三圍
+|style="background-color:#40E0D0;" |'''B76/W59/H80'''
+|}
+
+=== 角色歌 ===
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!style="background-color:#898989;" |歌名
+!style="background-color:#898989;" |演唱
+!style="background-color:#898989;" |詞曲
+!style="background-color:#898989;" |備註
+|-
+|style="background-color:#cccccc;" |
+|style="background-color:#cccccc;" |
+|style="background-color:#cccccc;" |
+|style="background-color:#cccccc;" |
+|}
+
+== 出處 ==
+* 《[[約會大作戰]]》
+
+
+== 簡歷 ==
+* 士道第九位攻略的精靈，代號Sister（修女），外表是擁有灰色短髮，眼睛藍綠色的少女
+* 職業是御宅漫畫家，只對二次元的事物有興趣
+* 以下重大捏他注意-{{censored|似乎是世界上第二位被確認觀測現界的精靈，可能是得知最初精靈的真身線索關鍵，狂三為了找到她而與士道合作救十香行動，潛入DEM社駐天宮市支部公司，但最後沒有找到。}}
+* {{censored|在二十多年前成為了精靈。十年前以漫畫家的身份出道，筆名為本條蒼二。其作品擁有相當程度的人氣，直至五年前被DEM逮捕，導致其連載的漫畫一直處於休刊狀態。直至近來重獲自由後，才重新連載休刊多時的漫畫。}}
+* {{censored|十二卷時被DEM社以「素材A」的名義，從位於太平洋的尼利路島押送至日本，途中感應到士道的巨大靈力，為了逃生試圖向其求救，結果靈波產生共鳴導致士道暴走順便將運輸機擊毀，本人趁機從內部將集裝箱破壞逃離。}}
+* {{censored|在十二月下旬因體力不支撲街餓倒，被偶然經過的士道所救。實際上並非偶然，而是用天使的力量預測士道的行動，目的是為了答謝士道協助她逃脫DEM社。}}
+** {{censored|為了答謝士道表示願意和他去一次約會，只是約會地點限定在秋葉原。{{s|「秋葉原啊！我回來了！」}}}}
+** {{censored|雖然約會過程非常順利，但好感度一直都只是停留在朋友的位置，原因就是因為二亞只曾和二次元談過戀愛。說得更直接些—因為天使的力量早已洞悉人性並對其失望而對三次元沒興趣。}}
+* {{censored|但反過來說只要能融入二次元她就有可能動心。雖然士道拉塔托斯克曾試圖多次向她展開攻勢(Cosplay、贈與以士道的經歷為藍本的galgame)但都以失敗告終。{{s|本人對二次元的挑剔胃口+天使的全知全能就是這麼難搞。}}}}
+* {{censored|於是乎拉塔托斯克便想出了畫漫畫本參戰Comico的計畫，題材跟上述的galgame一樣。而二亞也打算參加自己睽違五年的盛事。於是雙方約定進行對決，只要拉塔托斯克的本子銷量超過自己就會看他們畫的漫畫。}}
+* {{censored|計畫很順利，是拉塔托斯克險勝。但在收攤後二亞說出可以給士道在一次機會時居然毫無預兆的開始反轉—}}
+** {{censored|這是威斯考特設下的局，將微型顯現裝置植入二亞頭內並利用其讓她忘卻五年間受到的非人遭遇的記憶與痛苦，等時機成熟在讓她把一切強制想起來就能讓她反轉。}}
+* {{censored|士道的呼喚與精靈們的奮戰成功喚回其意識從而使反轉狀態變得不完整，但卻被阿爾緹米西亞趁虛而入捅穿腹部重傷倒地，反‧靈結晶顯現。之後被威斯考特吸收。}}
+* {{censored|正是因為反轉得不完整才得以幸運留住一命，體內還殘留了少量靈結晶。在成功封印後交由拉塔托斯克救治，之後順利康復。}}
+* {{censored|囁告篇帙在事件後還是能正常顯現與使用，但因為反‧靈結晶被威斯考特奪走，導致原應是一體兩面的天使與魔王，囁告篇帙與神蝕篇帙同時存在而產生了bug，造成全知能力受限與未來記載失效。(兩方皆是)}}
+
+=== 能力 ===
+* 評級
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!style="background-color:#898989;" |狀態
+!style="background-color:#898989;" |綜合危險度
+!style="background-color:#898989;" |空間震規模
+!style="background-color:#898989;" |靈裝
+!style="background-color:#898989;" |天使
+|-
+|style="background-color:#cccccc;" |正常
+|style="text-align:center;background-color:#cccccc;" |A
+|style="text-align:center;background-color:#cccccc;" |C
+|style="text-align:center;background-color:#cccccc;" |C
+|style="text-align:center;background-color:#cccccc;" |S
+|}
+* 能力值
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!style="background-color:#898989;" |狀態
+!style="background-color:#898989;" |力量
+!style="background-color:#898989;" |耐力
+!style="background-color:#898989;" |靈力
+!style="background-color:#898989;" |敏捷
+!style="background-color:#898989;" |智力
+|-
+|style="background-color:#cccccc;" |正常
+|style="text-align:center;background-color:#cccccc;" |60
+|style="text-align:center;background-color:#cccccc;" |59
+|style="text-align:center;background-color:#cccccc;" |142
+|style="text-align:center;background-color:#cccccc;" |64
+|style="text-align:center;background-color:#cccccc;" |245
+|}
+
+=== 愛好 ===
+* 二次元事物
+* COSPLAY
+** 故事插畫有COSPLAY護士和女僕
+
+=== 厭惡 ===
+
+=== 萌屬性 ===
+* 宅女
+* 修女
+* 貧乳
+** {{s|琴里的同伴}}
+* 美腿
+* [[紳士|淑女]]
+* [[酒女]]
+
+=== 其他 ===
+* 士道十後宮（預定）中的“二”
+* 因為被DEM關太久導致本人是御宅族的原因，13卷還未出就被同人腦補成腐女子。{{s|是什麼讓你們產生了宅女都是腐女子的錯覺？}}
+* 代表生命之樹中第二個質點「智慧」(Netzach)
+** 灰色{{ref|第二質點的代表色。}}的頭髮，綠松石{{ref|第二質點的代表礦物。}}顏色的瞳孔以及靈裝的綠松石掛墜裝飾
+** 象徵天使拉結爾（Ratziel），號稱「秘境與至高之神秘天使」。傳說中的《天使拉結爾之書》(Sefer Raziel) 記載了天上地下1500項神奧的知識，拉結爾將此書授予亞當，以至於後來被上帝利用這次事件將其殺害。{{ref|數字是2，顏色是灰色，寶石以綠松石為象徵。惑星以天王星(或為海王星)為象徴，被稱為至高的父，象徵男性原理。神名是Yod。}}
+* 代表善惡之樹中第2虛數與惡德「愚鈍」(Iweleth)
+* 象徵惡魔別西卜（Beelzebub）以及墮天使俄基爾（Ogiel）。
+** {{s|所以反轉後智力搞不好比十香還低}}
+
+=== 名言 ===
+*「[[成句/○○，我又回來了啊！|秋葉原啊！我回來了！]]」
+** 被DEM關了5年，重新回到秋葉原的感想
+
+=== 相關人物 ===
+*[[夜刀神十香]]
+*[[冰芽川四糸乃]]
+*[[時崎狂三]]
+*[[五河琴里]]
+*[[八舞]]
+*[[誘宵美九]]
+*[[鏡野七罪]]
+*[[鳶一折紙]]
+*[[星宮六喰]]
+*[[村雨令音]]
+*[[崇宮澪]]
+*[[園神凜禰]]
+*[[園神凜緒]]
+*[[或守鞠亞]]
+*[[或守鞠奈]]
+
+== 回應 ==
+{{pcomment|section=2}}
+
+==備註==
+<references />
+[[Category:角色]]
+[[分類:約會大作戰]]
