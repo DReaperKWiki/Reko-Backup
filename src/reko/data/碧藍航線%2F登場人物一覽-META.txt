@@ -222,6 +222,11 @@
 * 圖鑑編號：M028，艦種：輕巡，SSR。
 * 於2023年12月的META信標戰中作為解析報酬實裝。
 
+=== {{anchor|Regensburg _META}}[[碧藍航線/登場人物一覽-鐵血#Regensburg|雷根斯堡]](META)（レーゲンスブルク(META)/Regensburg META） ===
+[[檔案:Regensburg META.png|x200px]]
+* 圖鑑編號：M028，艦種：輕巡，SSR。
+* 陸服名稱為瑞吉娜·META，於2026年3月的META信標戰中作為解析報酬實裝。
+
 === {{anchor|Algérie_META}}[[碧藍航線/登場人物一覽-自由鳶尾&維希教廷#Algérie|阿爾及利亞]](META)（アルジェリー(META)/Algérie META） ===
 [[檔案:Algérie META.png|x200px]]
 * 圖鑑編號：M023，艦種：重巡，SSR。
