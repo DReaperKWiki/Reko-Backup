@@ -421,6 +421,7 @@
 {{-}}
 
 === 紅蓮極超新星龍（スカーレッド・ハイパーノヴァ・ドラゴン） ===
+[[檔案:Red Hypernova Dragon.jpg|250px|right]]
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #Be1F1f; font-size:24px; ">
 '''天'''に輝く紅き星よ！
 
@@ -465,6 +466,30 @@
 {{-}}
 
 === 紅蓮新星龍—燃燒之魂（スカーレッド・ノヴァ・ドラゴンーバーニング・ソウル） ===
+[[檔案:Red Nova Dragon - Burning Soul.jpg|250px|right]]
+* 正規同步召喚時：
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #Be1F1f; font-size: 24px; ">
+王者と悪魔交わりしとき！
+
+真紅の龍は理を超える！
+
+我が魂は滅びず、さらなる高みを目指す礎となる！
+
+シンクロ召喚！
+
+オーバーフレーム…スカーレッド・ノヴァ・ドラゴンバーニングソウル！！
+</div>
+* 利用除外素材特殊召喚時：
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #Be1F1f; font-size: 24px; ">
+孤高なる荒ぶる魂よ！
+
+悪魔と交わりその魂を昇火せよ！！
+
+不屈なる力…！スカーレッド・ノヴァ・ドラゴンバーニングソウル！！
+</div>
+
+* 上述兩組召喚詞是公佈當天，由星野貴紀先生在[https://x.com/Shockhearts777/status/2035003445514756567 twi][https://x.com/Shockhearts777/status/2035006190405787974 tter]上公佈的
+
 * 收錄於「LIMIT OVER COLLECTION—THE RIVALS—」中的超框卡。
 ** 同卡包一眾宿敵的代表王牌怪獸中，只有《闇紅惡魔龍》未出現本體的超框重製版<s>而是把位置讓給了[[龍印者之龍#紅赤龍—奎札爾柯亞特爾（赤（あか）き竜（りゅう）－ケッツァーコアトル）|紅赤龍]]</s>。
 
@@ -646,6 +671,7 @@
 {{-}}
 
 === 霸者的鳴動（{{ruby|覇者|はしゃ}}の{{ruby|鳴動|めいどう}}） ===
+[[檔案:The Ruler's Rumbling.jpg|250px|right]]
 * 同樣收錄於補充包1304。
 ** 卡圖致敬了原作中，傑克初次同步召喚出《闇紅惡魔龍》的場景。
  
@@ -670,6 +696,7 @@
 {{-}}
 
 === 闇紅惡魔鎖鍊（レッド・デーモンズ・チェーン） ===
+[[檔案:Red Dragon Archfiend's Chain.jpg|250px|right]]
 * 收錄於「LIMIT OVER COLLECTION—THE RIVALS—」，是《魔族鎖鍊》的重製強化版。
 * 展示任意數量手牌後，當中有幾隻協調，就能鎖住對手場上該數量＋1的效果怪獸，無效對象怪獸的效果的同時，會再根據被展示的手牌總數量微量削減對象怪獸攻擊力。
 ** 此外，對象怪獸全都不見了之後，這張卡會自爆，改善了原版鎖鍊的卡場缺點。
