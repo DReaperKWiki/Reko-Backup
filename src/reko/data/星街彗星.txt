@@ -27,7 +27,6 @@ Shout in Crisis造型 = [[File:Suisei_Shout_in_Crisis.jpg|250px]]
 </tabber>
 }}
 
-
 : {{size|24|{{color|#7BACEC||'''彗星のごとく現れたスターの原石！バーチャルアイドルの星街すいせいでーす！'''}}}}<ref>原為「彗星のごとく現れたスターの原石！'''アイドルVTuber'''の星街すいせいでーす！」，在{{youtube|vRg3f0kpF5A|2024年8月2日的直播|552}}中提及因應活動方向轉變為以音樂活動為中心，和VTuber有所違和因此變更出道以來用了6年的打招呼的定型文</ref>
 : {{size|24|{{color|#7BACEC||'''すいちゃんは～？\ 今日もかわいい！ /<ref>彗星本人生放開始時的定型文。在本人說「すいちゃんは～？」時觀眾留言「今日もかわいい」是慣例</ref>}}}}
 
@@ -51,7 +50,7 @@ Shout in Crisis造型 = [[File:Suisei_Shout_in_Crisis.jpg|250px]]
 * 設定是永遠的18歲，喜歡唱歌和偶像的虛擬偶像，夢想是在東京武道館開演唱會。
 ** 到了2025年時夢想終於實現了，可喜可賀<s>然後開始煩惱夢想要改什麼</s>，目前暫定新目標是東京巨蛋。
 * 於由VTuber Filian舉辦的The VTuber Award中獲得2024年度的「Best Music Vtuber」獎項
-
+* 2026年3月22日宣佈成立自己事務所STUDIO STELLAR，表示今後自己的活動重心會由該個人事務所為據點，但本人表示并沒有退出hololive，只是會同時作為兩個事務所的藝人活動。
 == 個人概況 ==
 * 性格開朗樂天和為人謙虛認真，有著不服輸的一面。在出道頭一年即使訂閱人數沒有太大增長仍然能堅持下去這點能看出她刻苦耐勞的一面。
 ** 第一次參加hololive的甄選結果落選，在抱著不放棄的心態下再次要求面試結果得到機會，最終以音樂支援企劃形式加入了hololive的旗下的INNK Music。
@@ -99,7 +98,6 @@ Shout in Crisis造型 = [[File:Suisei_Shout_in_Crisis.jpg|250px]]
 * 與[[にじさんじ|彩虹社]]旗下Vtuber戌亥とこ關係頗好，除了多次聯動外也有專屬廣播節目「とこまちラジオ(仮)」，還一起出過原創曲《OUT OF FRAME》，即使後來檯面上互動變少還是能確認兩人會私下出遊。
 * 與同社的[[櫻巫女]]組成miComet的組合，除了出演live以外還有出原創曲，雖然表面上說是商業夥伴但實際上交情頗深，數次讓巫女來家裡玩。
 * <s>雖然常常四處留情(交朋友的意味)</s>但星街本人強烈反對自己跟百合要素掛勾，曾在推特(X)上抱怨說要妄想的話去她看不到的地方，因此進行相關創作時請規避檢索<ref>以推特(X)來說就是使用伏字、把帳號鎖私人等，總之就是不要讓本人能搜尋到。</ref>。
-
 
 === [[俄羅斯方塊]] ===
 * 技術之高在眾多企業和個人勢VTuber中首屈一指，雖和職業級選手仍有距離但實力是依然上位等級。
@@ -549,6 +547,16 @@ Shout in Crisis造型 = [[File:Suisei_Shout_in_Crisis.jpg|250px]]
 | 與tuki.的合作單曲「彗星」作為網路廣播節目「ぶいあーる！～VTuberの音楽Radio～」的主題曲於節目中首次公開
 |}
 
+=== 2026年 ===
+{| class="wikitable" style="width:90%; margin:auto" align="center"
+! width="80px" | 3月12日
+| 與《堡壘之夜》聯動，遊戲中可以購買星街彗星的套裝
+|-
+! width="80px" | 3月2日
+|  宣佈成立個人事務所STUDIO STELLAR
+|-
+|}
+
 == 相關條目 ==
 *'''[[KomicaWiki]]條目'''
 ** [[虛擬Youtuber]]
@@ -561,7 +569,7 @@ Shout in Crisis造型 = [[File:Suisei_Shout_in_Crisis.jpg|250px]]
 ** 維基類連結：[https://seesaawiki.jp/hololivetv/d/%c0%b1%b3%b9%a4%b9%a4%a4%a4%bb%a4%a4 ホロライブ非公式wiki]、 [https://dic.nicovideo.jp/a/%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84 ニコニコ大百科]、[https://dic.pixiv.net/a/%E6%98%9F%E8%A1%97%E3%81%99%E3%81%84%E3%81%9B%E3%81%84 pixiv百科]、[https://zh.moegirl.org.cn/%E6%98%9F%E8%A1%97%E5%BD%97%E6%98%9F 萌娘百科]
 
 == 回應 ==
-* {{pcomment|section=1}}
+ {{pcomment|section=1}}
 
 {{hololive production}}
 
