@@ -432,7 +432,7 @@
 ===GRADIUS ReBirth／グラディウス リバース／宇宙巡航艦 重生===
 * 發售日期：2008年9月2日
 * 發售平台：Wii
-* Konami重生系列作品之一，M2操刀，本作基於MSX世界觀
+* Konami重生系列作品之一，M2操刀，本作基於MSX世界觀，時間線亦設定在MSX版2代的2年前
 ** {{censored|需破完3週目才可進入真結局}}
 {| class="wikitable" style="margin: 1.5em auto;" 
 |-
