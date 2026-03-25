@@ -2822,7 +2822,7 @@
 |height= 2.9
 |weight= 29.6
 |type= {{color|white|#39DDDF|'''冰'''}} {{color|white|#7E54A6|'''幽靈'''}}
-|ability1= -
+|ability1= 降雪
 |ability2= -
 |abilityh= -
 |pokedex= 用帶有幽靈能量的詭異寒氣，連火或風等沒有形狀的東西都能凍結起來。
