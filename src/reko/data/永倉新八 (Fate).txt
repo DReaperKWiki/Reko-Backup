@@ -1,5 +1,4 @@
 {{h0|永倉新八}}
-{{synchro|New Komica wiki (仮)|2024年01月06日 19:35}}
 
 {| class="wikitable" style="margin: 1.5em auto;" 
 |-
@@ -237,3 +236,5 @@
 
 == 備註 ==
 <references/>
+
+[[分類:Fate/Grand Order]] [[分類:Berserker (Fate)]]

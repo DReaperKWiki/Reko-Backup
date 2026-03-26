@@ -112,7 +112,9 @@
 {{hidef}}
 
 ===[http://web.archive.org/web/20040203051524/http://village.infoweb.ne.jp:80/~twin/start.html TwinkleSoft(閃亮計劃)] ===
-* [[Excess Fraction]]
+* Excess Fraction
+** 特色為以擦彈的方式累積Bomb能量
+** 試飛員セレス駕駛古代宇宙獨行戰機「煉術士」(アルケミスト) 拯救地球、對抗月球迷之波動的故事
 * [[Rally Raid]]
 * [[Barrage Tribe]]
 
@@ -465,9 +467,10 @@
 * 精霊機エレクファルター
 
 ===[https://bikkurisoftware.com/ びっくりソフトウェア]/[http://web.archive.org/web/20160806195804/http://necobikkuri.blog.fc2.com/ Old]→[https://twitter.com/BikkuriSoftware 白銀ねこび]===
-*[[REVOLGEAR II -SECOND BRIGHTNESS-]]
-*[[KIRISAME BLADE 2]]
-*[[Graze Counter GM]]
+* [[REVOLGEAR II -SECOND BRIGHTNESS-]]
+* [[KIRISAME BLADE 2]]
+* [[Graze Counter GM]]
+* [[Revolgear Zero]]
 
 ===[https://zakichi.ojaru.jp/index.html 喜撃屋本舗]/[https://twitter.com/zakichi_ ざきち]===
 * ARGINAROS
