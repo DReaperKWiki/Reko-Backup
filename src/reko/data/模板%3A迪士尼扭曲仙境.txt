@@ -1,0 +1,46 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = 迪士尼扭曲仙境
+|title  = [[迪士尼扭曲仙境]]
+|titlestyle  = background: lightblue; text-align: center; vertical-align: middle;
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|groupstyle = background: #c9c9c9; text-align: center; width: 10%;
+|belowstyle = text-align: center;
+|oddstyle   = background: #ececec;
+|evenstyle  = background: #f9f9f9;
+|state      = expanded
+|group1 = 子條目
+| list1 =[[迪士尼扭曲仙境/登場人物一覽|人物介紹]]．[[迪士尼扭曲仙境/世界觀及用語|世界觀及用語]]．[[迪士尼扭曲仙境/主線劇情概要|主線劇情]]．[[迪士尼扭曲仙境/活動劇情概要|活動劇情]]．[[ナイトレイブンカレッジ]]
+|group2 = 角色條目
+|list2  = {{Navbox|child|
+|group1  = ナイトレイブンカレッジ（暗夜渡鴉學園/Night Raven College）
+|list1 = 
+|group2 = ハーツラビュル寮（心之迷宮宿舍/Heartslabyul）
+|list2 = [[リドル・ローズハート]]．[[エース・トラッポラ]]．[[デュース・スペード]]．[[トレイ・クローバー]]．[[ケイト・ダイヤモンド]]
+|group3 = サバナクロー寮（莽原之爪宿舍/Savanaclaw）
+|list3 = [[レオナ・キングスカラー]]．[[ジャック・ハウル]]．[[ラギー・ブッチ]]
+|group4 = オクタヴィネル寮（八爪螺貝宿舍/Octavinelle）
+|list4 = [[アズール・アーシェングロット]]．[[ジェイド・リーチ]]．[[フロイド・リーチ]]
+|group5 = スカラビア寮（聖甲沙漠宿舍/Scarabia）
+|list5 = [[カリム・アルアジーム]]．[[ジャミル・バイパー]]
+|group6 = ポムフィオーレ寮（禁果之花宿舍/Pomefiore）
+|list6 = [[ヴィル・シェーンハイト]]．[[エペル・フェルミエ]]．[[ルーク・ハント]]
+|group7 = イグニハイド寮（黑帝之炎宿舍/Ignihyde）
+|list7 = [[イデア・シュラウド]]．[[オルト・シュラウド]]
+|group8 = ディアソムニア寮（惡魔之夢宿舍/Diasomnia）
+|list8 = [[マレウス・ドラコニア]]．[[リリア・ヴァンルージュ]]．[[シルバー (ツイステ)|シルバー]]．[[セベク・ジグボルト]]
+|group9 = オンボロ寮（破爛宿舍/Ramshackle Dorm）
+|list9 = [[監督生]]．[[グリム (ツイステ)|グリム]]
+|group10 = ナイトレイブンカレッジ関係者（暗夜渡鴉學園相關人士/NRC Staff）
+|list10 = [[ディア・クロウリー]]．[[デイヴィス・クルーウェル]]．[[モーゼズ・トレイン]]．[[アシュトン・バルガス]]．[[サム]]
+|group11 = ロイヤルソードアカデミー（皇家之劍學院/Royal Sword Academy）
+|list11 = [[ネージュ・リュバンシェ]]
+|group12 =萬聖節活動	
+|list12 = [[ロロ・フランム]]．[[フェロー・オネスト&ギデル]]．[[スカリー・J・グレイブス]]
+}}
+|group3 =其他	
+|list3 = 
+}}
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
