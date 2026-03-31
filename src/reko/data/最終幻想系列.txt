@@ -663,11 +663,11 @@ Switch
 |-
 |Dissidia Final Fantasy Opera Omnia
 |Android/iOS
-|採用與Dissidia系列類似的世界觀跟BRV/HP系統，不過實際上是較傳統的CTB式戰鬥。<br>於2024年2月29日結束營運
+|由[[KOEI TECMO]](Team NINJA)開發<br>採用與Dissidia系列類似的世界觀跟BRV/HP系統，不過實際上是較傳統的CTB式戰鬥。<br>於2024年2月29日結束營運
 |-
 |DISSIDIA DUELLUM FINAL FANTASY
 |Android/iOS
-|預計於2026年開始營運
+|由NHN PlayArt開發<br>於2026年開始營運
 |}
 
 ==== Theatrhythm系列作品 ====

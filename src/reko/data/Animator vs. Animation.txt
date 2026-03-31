@@ -99,11 +99,12 @@
 * 起初只是一篇以MC為主題的單獨短篇（下稱無印/VSMC），因為發佈後備受好評{{censored|加上後續的VS Youtube表現相對不彰}}，Alan決定將其擴展為和AvA並行的重要分支系列
 * 系列化後一開始為劇情間關聯不大的單元劇，後面內容愈發複雜，從S1後半開始儼然變成連續劇，更新趨勢亦<s>蠻當然地</s>超越主系列的AvA
 ** S1後基本是按集數少的日常回Season（S2、S4）和集數多的主線回Season（S3、S5）交替的節奏更新
-** 雖然系列名裡有Short但是單篇時長越來越長，到後面不時就超越無印時長，EP30更是創下全作品時長之最，搞得Alan後面搞真正的短片時不得不在系列名里加上Actual
+** 雖然系列名裡有Short但是單篇時長越來越長，到後面不時就超越無印時長，EP30更是創下全作品時長之最，搞得Alan後面搞豎屏短片時不得不在系列名里加上Actual
 * 早期固定在每月18日前後發佈，後面由於場面、劇情和製作技術越來越複雜，製作週期也隨之拉長
-** 目前已發佈劇集中以EP36的製作時間（整整一年）最為誇張
+** 目前已發佈劇集中以EP36的製作時間（長達整整一年）最為誇張
 * 雖然還原了各類遊戲設定和玩法細節，但不時會出現一些劇情需要和作畫失誤等導致、實際原版遊戲中根本不存在的{{ruby|特性|BUG}}和細節錯誤（以材質貼圖為重災區）
-** {{censored|不存在的合成配方/藥水，戰力和AI行為過於有能的原版生物，在Java版裡出現基岩版特有特性等……<s>有[https://www.bilibili.com/video/BV1EvLpzQErT 解析者]笑稱其實本作內的MC是結合j'''A'''va版和'''B'''edrock版，專屬於本作的'''AB'''版</s>}}
+** {{censored|不存在的合成配方/藥水/命令，戰力和AI行為過於有能的原版生物，在Java版裡出現基岩版特有特性等……<s>有[https://www.bilibili.com/video/BV1EvLpzQErT 解析者]笑稱其實本作內的MC是結合jav'''A'''版和'''B'''edrock版，專屬於本作的'''AB'''版</s>}}
+** <s>但也有Mojang在愚人節甚至正式版本更新裡加入怎麼看都是借鑒這邊的要素的情況在，大約算是互相摸著彼此過河吧</s>
 * 常見誤區是AvM和AvA是完全平行的故事，但包括一部分接續AvMS3劇情的AS短片在內，能找到很多AvA和AvM是發生在同一舞台內的暗示甚至明示<ref>如EP30中，KO看的電視似乎是AvAS3登場的Rocket Corp.出品，{{Censored|AvA11中更給出了Purple一家在Newgrounds遭大肆破壞時爬出作品縮略圖逃生的鏡頭}}</ref>
 ** 在三千萬訂閱紀念直播裡正式確認這兩大主系列為同一世界線，只是相應事件彼此錯開發生或同步進行。<s>Skim：「我覺得應該會有觀眾做事件時間軸的」</s>
 ** 後面的<s>真</s>EP0將時間線拉回到AvA3結尾直後，讓TCO和TDL體驗了一把Beta測試版本<s>，現在就只剩下大哥還沒接觸過MC了</s>
@@ -149,19 +150,19 @@
 |-
 ! colspan="5"|<center>'''Season 2'''</center>
 |-
-| EP15 || Redstone Academy<br>紅石學院 || 2020/2/15 || ''{{color|#ffcc00||Yellow}}將他對紅石的畢生所學傾囊相授，然後考驗他的朋友們，要他們造出史上最荒謬的紅石裝置。''<br>Yellow為兄弟們開設紅石教學班，<s>可能也想順便教會屏幕前的觀眾們，至於學不學的會另說了</s><br>{{censored|結業作業為自主設計一組紅石裝置，莫名開始攀比的TSC和Green雙雙造出能'''在MC裡玩MC'''的計算機，結果第一名讓Red的洗豬機奪下}}<ref>{{censored|影片留言中有考察指出兩柴的計算機都運用到Yellow未曾教授的要素＝兩人極有可能作弊，因此兩人實際上被排除於評分外（評分時Yellow並未對兩人的裝置留下筆記）；Blue則是因為其設計的自動煮湯機紅石要素太少，更多運用水流機制而得低分}}</ref> || [https://www.youtube.com/watch?v=X7Mpp35EAqI youtube]<br>[https://www.bilibili.com/video/BV1Sz4y1X7VY bilibili]
+| EP15 || Redstone Academy<br>紅石學院 || 2020/2/15 || ''{{color|#ffcc00||Yellow}}將他對紅石的畢生所學傾囊相授，然後考驗他的朋友們，要他們造出史上最荒謬的紅石裝置。''<br>Yellow為兄弟們開設紅石教學班，<s>可能也想順便教會屏幕前的觀眾們，至於學不學的會另說了</s><br>{{censored|結業作業為自主設計一組紅石裝置，莫名開始攀比的TSC和Green雙雙造出能'''在MC裡玩MC'''的計算機，結果第一名讓Red的洗豬機奪下}}<ref>{{censored|影片留言中有考察指出兩柴的計算機都運用到Yellow未曾教授的要素＝兩柴極有可能作弊，因此實際上被排除於評分外（評分時Yellow並未對他們的裝置留下筆記）；Blue則是因為其設計的自動煮湯機紅石要素太少，更多運用水流機制而得低分}}</ref> || [https://www.youtube.com/watch?v=X7Mpp35EAqI youtube]<br>[https://www.bilibili.com/video/BV1Sz4y1X7VY bilibili]
 |-
 | EP16 || Note Block Battle<br>音樂對決 || 2020/3/14 || ''{{color|#66cc00||Green}}太會玩音階盒了，所以{{color|#cc0000||Red}}、{{color|#33ccff||Blue}}和{{color|#ffcc00||Yellow}}弄出一隻音樂小雞，幫助他們在史詩級樂隊對決中戰勝對方。''<br>如簡介所示，到後面Green和<s>[[風評被害#YouTube和ニコニコ動畫等影音平台的惡搞相關|蔡徐坤]]</s>音樂小雞（再加上同樣喝下音樂才能藥水的紅黃藍）在鬥樂中惺惺相惜，最終聯手/喙共演一曲搖滾版《命運<s>亂</s>交響曲》<s>貝多芬揭棺而起</s><br>理所當然正在睡覺的TSC再次受害，<s>人稱再臨處刑曲（二代目）</s>{{censored|，但這次忍無可忍下他抄起同款樂器，用一通狂暴solo震撼全場（物理）後揚長而去}}<br><s>音階盒+羊毛<ref>音階盒下的方塊類型會影響其音色，羊毛（任意顏色）可讓音階盒發出吉他音色</ref>+墻+現場附魔的喚雷三叉戟=電吉他，再加上雞就變成電「雞」他</s> || [https://www.youtube.com/watch?v=c0egcErkap0 youtube]<br>[https://www.bilibili.com/video/BV1Ai4y137Si bilibili]
 |-
 | EP17 || Build Battle<br>建築大賽 || 2020/4/11 || ''大家都因為{{color|#66cc00||Green}}總能在建築比賽中獲勝而氣得跳腳，到底誰能打敗他？''<br><s>舊活新整其一，EP2強化重置版</s><br>時隔15集，Green依然在建築競賽中一騎絕塵<s>還練出一套能把兄弟們丟來的TNT及時打飛的身手</s>，哪怕Yellow<s>賄賂裁判</s>讓TSC將主題選定為對自己更有利的類型，都敵不過Green總能造出更<s>離譜</s>優秀的作品{{censored|<s>雖然但是會跳舞還會主動反擊的真·機器人還是太誇張了</s><br>天道好輪回，無論是對Green還是兄弟們都一樣}} || [https://www.youtube.com/watch?v=WDQ60JGcxkw youtube]<br>[https://www.bilibili.com/video/BV1hi4y1V7KQ bilibili]
 |-
-| EP18 || Texture Pack<br>材質包 || 2020/6/13 || ''{{color|#ffcc00||Yellow}}和{{color|#cc0000||Red}}亂換所有方塊的材質，讓大家的生活一片混亂''<br>Red偶然發現Yellow在MC材質貼圖資料夾內搞東搞西，若干大膽嘗試後一拍即合決定一起修改各種材質來惡搞其他兄弟<s>啊不就EP6威力加強版<s><br>{{censored|惡作劇被橙綠藍揭穿後五色直接在貼圖資料夾內大打出手，直接導致最後所有MC方塊和物件都變成一副掉SAN模樣……}} || [https://www.youtube.com/watch?v=ZXUCbK3Au4k youtube]<br>[https://www.bilibili.com/video/BV1Ng4y1i71y bilibili]
+| EP18 || Texture Pack<br>材質包 || 2020/6/13 || ''{{color|#ffcc00||Yellow}}和{{color|#cc0000||Red}}亂換所有方塊的材質，讓大家的生活一片混亂''<br>Red偶然發現Yellow在MC材質貼圖資料夾內搞東搞西，若干大膽嘗試後一拍即合決定一起修改各種材質來惡搞其他兄弟<s>啊不就EP6威力加強版<s><br>{{censored|惡作劇被橙綠藍揭穿後五色直接在貼圖資料夾內大打出手，最後所有MC方塊和物件都被他們攪成一副掉SAN模樣……}} || [https://www.youtube.com/watch?v=ZXUCbK3Au4k youtube]<br>[https://www.bilibili.com/video/BV1Ng4y1i71y bilibili]
 |-
 | EP19 || Lucky Blocks<br>幸運方塊 || 2020/9/6 || ''基於人氣Mod<ref>即同名mod，添加了破壞後會隨機生成物品或觸發事件的幸運方塊，因其隨機性富於節目效果成為大量MC實況主的影片題材，其熱度曆久不衰</ref>創作。''<br>S2收官集，<s>繼上一集之後，Yellow再度玩過火整出事</s><br>在五色發現<s>不知為何會突然出現在原版遊戲裡的</s>幸運方塊後，Yellow私底下一通研究把<s>界伏盒</s>幸運方塊內的光球拆出來為所欲為，結果反讓光球奪舍自己身體大鬧一場<s>而且還會柴傳柴</s>{{censored|，一通亂戰後好不容易將光球「請」回來處，結果玩心未盡的TSC掏出顆綠寶石幸運方塊……}}<br><s>{{censored|在MC裡打出Terraria<ref>與MC並稱方塊建造類沙盒生存雙壁的2D像素遊戲，相比MC更偏重於戰鬥和PVE部分</ref>的效果、繼無印後Red再次一挑四但是反向、超級小豬從諸神黃昏轉職天蓬元帥}}<br>合成帽、地獄疙瘩法杖、[[進擊的巨人|立體機動裝置]]、[[仮面ライダー鎧武|大橙丸]]、海晶弓、火花魔棒、TNT箭……這幸運方塊裡頭怎麼什麼都有<ref>按理來說原版幸運方塊Mod里是不會開出這種縫合道具的</ref></s> || [https://www.youtube.com/watch?v=en5KyaRyRbw youtube]<br>[https://www.bilibili.com/video/BV1gK4y1a7io bilibili]
 |-
 ! colspan="5"|<center>'''Season 3'''</center>
 |-
-| EP20 || The Piglin War<br>豬布林戰爭 || 2020/12/12 || ''{{color|#33ccff||Blue}}的地獄疙瘩吃完了，他要去哪裡補貨？'' || [https://www.youtube.com/watch?v=en5KyaRyRbw youtube]<br>[https://www.bilibili.com/video/BV13y4y1i7XC bilibili]
+| EP20 || The Piglin War<br>豬布林戰爭 || 2020/12/12 || ''{{color|#33ccff||Blue}}的地獄疙瘩吃完了，他要去哪裡補貨？''<br><s>一邊下廚一邊偷吃的</s>Blue決定瞞著兄弟們偷偷重返地獄，尋找更多地獄疙瘩，然而在此期間MC已更新至1.16版本，在一整個大變樣的地獄中，Blue結識了一隻小豬布林及其族群……<br><s>一個地獄疙瘩引發的慘劇、Blue下半身多災多難的開始</s><br>{{censored|歷經千辛萬苦，Blue在地獄堡壘內遇到了聲稱跟著他能找到更多地獄疙瘩的「TSC」，而此時另有一個TSC正和其餘兄弟一道，在豬布林族群指點下奔赴此地，到底……？}} || [https://www.youtube.com/watch?v=en5KyaRyRbw youtube]<br>[https://www.bilibili.com/video/BV13y4y1i7XC bilibili]
 |-
 | EP21 || The Witch<br>女巫 || 2021/2/6 || ''不是你在遊戲裡會遇到的普通女巫。'' || [https://www.youtube.com/watch?v=-Y2Mi2iAVMY youtube]<br>[https://www.bilibili.com/video/BV1wK4y1Q7Ui bilibili]
 |-
@@ -173,7 +174,7 @@
 |-
 | EP25 || The Ultimate Weapon<br>終極武器 || 2021/8/28 || ''MC的遊戲圖標不只能讓你變成創造模式。'' || [https://www.youtube.com/watch?v=8kiPjEeTaW4 youtube]<br>[https://www.bilibili.com/video/BV1Z3411B7r3 bilibili]
 |-
-| EP26 || The Warden<br>地下的守護者 || 2021/11/2 ||  || [https://www.youtube.com/watch?v=YZ4W964hocA youtube]<br>[https://www.bilibili.com/video/BV1Y34y1o7QM bilibili]
+| EP26 || The Warden<br>伏守者 || 2021/11/2 ||  || [https://www.youtube.com/watch?v=YZ4W964hocA youtube]<br>[https://www.bilibili.com/video/BV1Y34y1o7QM bilibili]
 |-
 | EP27 || Monster School<br>怪物學院 || 2022/3/5 || ''{{color|#cc0000||Red}}只有通過期末考試才能逃脫。'' || [https://www.youtube.com/watch?v=SNuJrSP3JDA youtube]<br>[https://www.bilibili.com/video/BV1WS4y1S7Qp bilibili]
 |-
@@ -199,7 +200,7 @@
 |-
 ! colspan="5"|<center>'''Season 5'''</center>
 |-
-| EP37 || Hardcore Manhunt<br>極限獵殺<ref>Manhunt為知名MC實況主Dream開創的特殊速通玩法，對岸一般稱為「獵人遊戲」，B站代理也翻譯為《硬核獵人遊戲》，但實際劇情根本不是同一回事</ref> || 2025/10/11 || ''{{color|#a303fc||祝各位結尾突擊測試好運！}}''<br>五色+Purple一起在MC世界內<s>無雙速通S1-S3</s>闖蕩天地，但Yellow在冒險途中過於依賴並濫用指令方塊權杖，終讓權杖疑似因指令超載{{censored|引來不明錯誤化現象}}故障，並引發{{censored|誤開硬核模式、為六色服務的「活」支架憤起反叛<s>，把養老生存中的KO傳送到世界邊緣</s>等}}一連串事件<br>{{censored|硬核模式下柴死不能復生，又先後失去權杖和鞘翅兩件強力裝備，彈盡糧絕之下六色鋌而走險騎夜魅逃生，然而不屈不撓的支架小隊隊長一併追了上來……}}<br>{{censored|在影片開首TSC感應到不知於何處大肆蔓延的錯誤化，其演出和EP30中吞噬KO之子Gold的不明故障完全一致，<s>被廣泛認為是Gold返場甚至成為本季最終BOSS的先兆</s>}}<br><s>縮略圖完全就是在致敬Dream的Manhunt影片縮略圖構圖，至於那個不知為何戴著王冠的KO腦袋……大概是因為不戴王冠的話會認不出來是他吧（大誤</s><br>影片末尾Alan首次以火柴人造型出場<s>附贈一個在背景為老闆忙上忙下結果越忙越亂的Hatena</s>，向觀眾給出三個<s>業配贊助的</s>問題，並明言稱答案為未來劇情的提示<ref>{{censored|答案分別是「39」、「藍+紅」、「5、1、17、5、18」。39應該是集數，顏色可能代表會在該集內佔據重要戲份的柴，數字組合暫且意義不明，但有觀眾將數字換算為英文字母，再以凱撒密碼將非紅藍色字母推移39位解出「ENDER（終界）」……結果在EP38播出後Alan突然表示第一題題目有誤，更正後的答案是「40」（掀桌）}}</ref><br><s>KO知道後會就權杖用法沉思Part……可能是最後一Part了罷</s> || [https://www.youtube.com/watch?v=iSFDlT43bxw youtube]<br>[https://www.bilibili.com/video/BV1en4AzSE1Y bilibili]
+| EP37 || Hardcore Manhunt<br>極限追殺<ref>Manhunt為知名MC實況主Dream開創的特殊速通玩法，對岸一般稱為「獵人遊戲」，B站代理也翻譯為《硬核獵人遊戲》，但實際劇情根本不是同一回事</ref> || 2025/10/11 || ''{{color|#a303fc||祝各位結尾突擊測試好運！}}''<br>五色+Purple一起在MC世界內<s>無雙速通S1-S3</s>闖蕩天地，但Yellow在冒險途中過於依賴並濫用指令方塊權杖，終讓權杖疑似因指令超載{{censored|引來不明錯誤化現象}}故障，並引發{{censored|誤開硬核模式、為六色服務的「活」支架憤起反叛<s>，把養老生存中的KO傳送到世界邊緣</s>等}}一連串事件<br>{{censored|硬核模式下柴死不能復生，又先後失去權杖和鞘翅兩件強力裝備，彈盡糧絕之下六色鋌而走險騎夜魅逃生，然而不屈不撓的支架小隊隊長一併追了上來……}}<br>{{censored|在影片開首TSC感應到不知於何處大肆蔓延的錯誤化，其演出和EP30中吞噬KO之子Gold的不明故障完全一致，<s>被廣泛認為是Gold返場甚至成為本季最終BOSS的先兆</s>}}<br><s>縮略圖完全就是在致敬Dream的Manhunt影片縮略圖構圖，至於那個不知為何戴著王冠的KO腦袋……大概是因為不戴王冠的話會認不出來是他吧（大誤</s><br>影片末尾Alan首次以火柴人造型出場<s>附贈一個在背景為老闆忙上忙下結果越忙越亂的Hatena</s>，向觀眾給出三個<s>業配贊助的</s>問題，並明言稱答案為未來劇情的提示<ref>{{censored|答案分別是「39」、「藍+紅」、「5、1、17、5、18」。39應該是集數，顏色可能代表會在該集內佔據重要戲份的柴，數字組合暫且意義不明，但有觀眾將數字換算為英文字母，再以凱撒密碼將非紅藍色字母推移39位解出「ENDER（終界）」……結果在EP38播出後Alan突然表示第一題題目有誤，更正後的答案是「40」（掀桌）}}</ref><br><s>KO知道後會就權杖用法沉思Part……可能是最後一Part了罷</s> || [https://www.youtube.com/watch?v=iSFDlT43bxw youtube]<br>[https://www.bilibili.com/video/BV1en4AzSE1Y bilibili]
 |-
 | EP38 || The Far Lands<br>邊境之地 || 2025/12/20 || ''有東西住在這裡……''<br>書接前回，六色與支架小隊長跌入茫茫雪原後勉強達成同行，為躲避暴風雪<s>穿過魂遊霧門</s>誤入邊境之地{{censored|，並在錯亂的<s>鬼打墻</s>地形中與早前被傳送過來的KO重逢}}<br>{{censored|支架小隊長試圖<s>把大夥都炸上天</s>夜襲七柴但被驚醒的Green抓包，一柴一架纏鬥中被不明生物抓走；紅藍橘紫則在尋找Green時被捲入再度襲來的錯誤化和被錯誤化撕開的大量維度洞口，和<s>被老爹勒令看家</s>留守KO據點的橙黃一起，兩兩一組迷失在千奇百怪的異維度當中……}}<br>{{censored|此集似乎暗示除20年愚人節版本<ref>Java版20w14∞「無限快照」，該快照中每個種子碼均可生成'''2,147,483,648（2<sup>31</sup>）'''個隨機維度，理論上總共可能出現'''39,614,081,257,132,168,796,771,975,168 （2<sup>95</sup>）'''種維度組合，本集內絕大多數維度洞都取材自該版本</ref>外，由社群創作的地圖及模組維度如「{{ruby|側向生存|Sideways}}」、「{{ruby|天空網格|Skygrids}}」、「{{ruby|後室<ref>與[[SCP Foundation|SCP]]齊名的知名網絡集體創作怪奇世界觀，以閾限空間為主要要素，理所當然在MC社群內有不少人以地圖和模組形式復現</ref>|Back Room}}」、「{{ruby|天境{{ref|以原作早期提及但[[没データ|未能真正實現]]的空島維度「天域」為發想設計的知名維度模組，早期有天堂、天界、以太等稱，後來確立漢譯為「天境」，<s>大概每個千禧代MC玩家都上過當以為其標誌性的螢石+水流傳送門可以在原版遊戲中使用</s>}}<ref>順便一提天域維度的地形生成器後來被改造用給了「終界」</ref>|The Aether}}」等也是AvM世界構成的一部分<s>世界觀規模勁增猛增爆增中</s>}}<br>系列首次以和其他YouTuber合作<ref>由與Alan熟識的MCYT「SkiptheTutorial」製作並發佈在其頻道上的MCARG影片，<s>Alan你藏預告的地方還能有多刁鑽</s></ref>的形式預熱和釋出首播日期，{{censored|相關合作影片中的世界也在本集中以維度洞形式客串登場}} || [https://www.youtube.com/watch?v=q_zX1UdJVcM youtube]<br>[https://www.bilibili.com/video/BV1njqrBVEsJ bilibili]
 |}
