@@ -663,6 +663,11 @@
 * 圖鑑編號：639，SR。
 
 ===[[Wikipedia:Unryū-class_aircraft_carrier|雲龍型航空母艦]]===
+==== {{anchor|Unryū}}[[Wikipedia:Japanese_aircraft_carrier_Unryū|雲龍（うんりゅう/IJN Unryū）]] ====
+[[檔案:IJN Unryū.png|x200px]]
+* 圖鑑編號：731，雲龍型1號艦，SSR。
+* 陸服名字是靇。
+
 ==== {{anchor|Katsuragi}}[[Wikipedia:Japanese_aircraft_carrier_Katsuragi|葛城（かつらぎ/IJN Katsuragi）]] ====
 [[檔案:IJN Katsuragi.png|x200px]]
 * 圖鑑編號：520，雲龍型3號艦，SSR。
@@ -1576,7 +1581,7 @@
 ** 相對地身板較為一般，buff不能覆蓋自己是一大問題。
 
 === 川內型輕巡洋艦 ===
-* 人設均以狐狸為藍本<s>那個耳朵那個尾巴我TM吸爆</s>
+* 實裝頭三艘人設均以狐狸為藍本<s>那個耳朵那個尾巴我TM吸爆</s>
 ==== 川内（せんだい/IJN Sendai） ====
 [[File:IJN Sendai.png|x200px]][[File:IJN Sendai R.png|x200px]]
 * 圖鑑編號：308→3308（改造），川内型1號艦，R→SR。
@@ -1624,6 +1629,16 @@
 * 圖鑑編號：708，SR。
 * 命名自位於大阪府高槻市流經三島郡島本町的水無瀨川。
 * 陸服名字是鼯。
+==== 木津（きず/IJN Kizu） ====
+[[File:IJN Kizu.png|x200px]]
+* 圖鑑編號：732，SR。
+* 命名自流經京都府同名城市的木津川。
+* 陸服名字是貘。
+==== 名寄（なよろ/IJN Nayoro） ====
+[[File:IJN Nayoro.png|x200px]]
+* 圖鑑編號：733，SR。
+* 命名自位於北海道天塩川支流的名寄川。
+* 陸服名字是貀。
 
 === 夕張型輕巡洋艦 ===
 ==== {{anchor|Yuubari}}夕張（ゆうばり/IJN Yūbari） ====

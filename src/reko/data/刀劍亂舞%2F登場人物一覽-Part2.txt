@@ -1599,6 +1599,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/7/7f/Ningen.png
 
 === 白山吉光 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/7/72/Hakusan.png
+https://static.wikia.nocookie.net/touken-ranbu/images/3/33/Hakusan_Kiwamein.png
 * 繪：猫缶まっしぐら（ニトロプラス）。CV：[[下野紘]]。
 * 刀帳編號：164番。刀派：粟田口。身高：154&nbsp;cm。
 * 2019/2/19更新後以限定鍛刀實裝，遊戲第一把劍，並當了唯一的劍三年多，鍛刀時間為6:00:00。
@@ -1624,6 +1625,10 @@ https://static.wikia.nocookie.net/touken-ranbu/images/7/72/Hakusan.png
 * 繼山姥切長義後第二位台詞中提到時之政府的刀劍男士，會叮嚀審神者政府一直都將一切看在眼裡，還會自行透過白狐進行定期聯絡。
 ** 與小烏丸手合時甚至直接說出對方是「重點監視對象」。<s>作為間諜根本完全不合格</s>
 * 2026/3/31更新後開放極化。
+** {{censored|在修行中反思刀與劍的差異──刀為實用而不斷演化所以接近人，劍為祭禮而維持原樣所以接近神。但構成自身的並非形體，而是對人的思念與祈願，即使擁有神之力也能夠選擇與人同在。}}
+** 極化後神技的效果升級，回復量提升至'''85%'''在很多時候可以直接一口奶滿而引起熱議。<s>理所當然地出現的把中傷的刀男刻意削成重傷後送函館白山醫院代替手入的玩法</s>
+*** <s>不過對於要用這招來玩中傷碰瓷流的審來說反而有些不便，只能另外再養一隻初白山來解決</s>
+*** <s>曾經的資源零的執行人搖身一變成為拯救資源的存在</s>
 
 === 七星劍（七星剣） ===
 https://static.wikia.nocookie.net/touken-ranbu/images/a/aa/Shichiseiken.png
