@@ -1215,9 +1215,9 @@
 |AC、MD、32X、SS、PS2、Switch
 |SEGA老牌街機名作，同時也是SEGA首款以3D畫面為主的賽車遊戲，以F1賽事為藍本。
 |-
-|style="text-align:center;"  colspan="2" |Daytona USA<br>SEGA Racing Classic
+|style="text-align:center;"  colspan="2" |デイトナUSA<br>Daytona USA<br>SEGA Racing Classic
 |AC、SS、PC、Xbox 360、PS3
-|'''DAYTONAAAAAAAAAAAAAAAA'''<br><br>SEGA老牌街機名作，遊戲以NASCAR及其賽季首個大賽「Daytona 500」為基礎<s>，雖然還是有跟Daytona無關的賽道就是</s><br>光吉猛修的音樂也是眾玩家的美好印象。<br><br>2代原本有移植計畫，但因為DC的失敗加上SEGA當時虧損而無法實現，直至2023年終於在《人中之龍7外傳 英雄無名》收錄為街機廳遊戲之一
+|'''DAYTONAAAAAAAAAAAAAAAA'''<br><br>SEGA老牌街機名作，遊戲以NASCAR及其賽季首個大賽「Daytona 500」為基礎<s>，雖然還是有跟Daytona無關的賽道就是</s><br>光吉猛修的音樂也是眾玩家的美好印象。<br><br>2代原本有移植計畫，但因為DC的失敗加上SEGA當時虧損而無法實現，直至2023年終於在《人中之龍7外傳 英雄無名》、《人中之龍8外傳 夏威夷海盜》收錄為街機廳遊戲之一
 |-
 |style="text-align:center;"  colspan="2" |SEGA RALLY
 |AC、PC、SS、DC、PS2、PS3、Xbox 360
@@ -1239,7 +1239,7 @@
 |AC、PS、PS2
 |《Side by Side》的衍生作，共4作。
 |-
-| style="text-align:center;"  colspan="2" |Auto Modelista
+| style="text-align:center;"  colspan="2" |アウトモデリスタ<br>Auto Modelista
 |無印：PS2<br>U.S Tuned：GC、Xbox
 |[[Capcom]]稀有的賽車遊戲之一<ref>其次是以前只有在巴西稼動數台的仿3D畫面街機賽車遊戲《Slip Stream》</ref>，同時也是少數採用動漫渲染風格的賽車遊戲<br>無印清一色以日系車為主，賽道則收錄日本知名賽車場及公路<br>U.S Tuned加入歐美系車款及部分新賽道。<br>罕見地收錄童夢（Dome）及光岡（Mitsuoka）兩家車廠的跑車。<br>除GC外，PS2無印版與Xbox U.S Tuned皆有支援網路對戰（現已結束營運）
 |-
