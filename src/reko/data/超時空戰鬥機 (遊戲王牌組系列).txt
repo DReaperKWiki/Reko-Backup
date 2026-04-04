@@ -132,7 +132,9 @@
 
 === 灰層機 (グレイレイヤー) ===
 * 初登場為CORI (1305)
-* 原型為遊戲「[[GRADIUS系列#Gradius Origin Collection／Gradius Origins|沙羅曼蛇III]]」可選機之一「Graylayer (Jade Knight)」
+* 原型為遊戲「[[GRADIUS系列#Gradius Origin Collection／Gradius Origins|沙羅曼蛇III]]」隱藏機「Graylayer」
+** 必需完成遊戲才能解鎖
+** 實際上為前作的「Jade Knight」，只是這次使用了比較早期的名字
 * 和《翡翠騎士》一樣有著檢索效果，而且不用自爆就能發動，而且還自帶墓地效果作反擊用
 ==== 卡片資訊 ====
 * 效果怪獸<br>等級4／光屬性／機械族／攻擊力1200／守備力1000
