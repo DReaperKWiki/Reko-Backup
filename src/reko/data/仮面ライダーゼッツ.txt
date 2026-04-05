@@ -322,7 +322,7 @@
 |-
 | 27 || Gang Wolf Nightmare<br>（ギャングウルフナイトメア） || 狼 || 不明 || 擅長集體行動，武器除了鋒利的爪和牙齒外還有裝備在左臂的機槍 || 被奇克改變而強化的Wolf Nightmare
 |-
-| エージェント美浪 || キャットナイトメア || ? || ? || ? ||
+| エージェント美浪 || Cat Nightmare<br>（キャットナイトメア） || [[貓]] || 万津美浪 || 顯露出強烈的狩獵本能，身手敏捷，擅長利銳利的爪攻擊 || 於本篇第29話被奇克強行與夢的主人融為一體<s>變成貓娘美浪</s>
 |}
 {{hidef|}}
 
@@ -508,7 +508,7 @@
 |-
 | 22 || Catastrom<br>（カタストロム） || <!-- rowspan="2"| -->Dual Mare || Pulverize! Rider!<br>Zeztz! Zeztz! Zeztz!<br>Catastrom! || 身上的強化被膜以粒子狀的暗黑物質構成，顯現出Catastrophe Gore Nightmare的力量同時勾起變身者內心深處的破壞衝動<br>全身的能力增強路會不斷提供次元流體，強化肉體同時猛烈地填補劇烈的消耗<br>能利用超視覺看穿目標核心的力場=崩壞的起點，並運起足以讓變身者自毀的破壞力[[一拳超人|一擊將之粉碎]] || カタストロム・クラッシャー || 使用時似乎有著「必須要把目標粉碎」的制約，在完成目標後或中途放棄的場合都會逆火反彈解除變身
 <!-- |-
-| 29 || Orderm<br>（オルデルム） || Anatomise! Rider!<br>Zeztz! Zeztz! Zeztz!<br>Orderm! || ? || ? || -->
+| 30 || Orderm<br>（オルデルム） || Anatomise! Rider!<br>Zeztz! Zeztz! Zeztz!<br>Orderm! || ? || ? || -->
 |-
 | HBV || Impact Zeroider<br>（インパクトゼロイダー） || Zeztz & Code Zeroider || ? || ? || ? || 
 |}
@@ -529,8 +529,8 @@
 | 16 || - || Shadow || Hahahahahaha!<br>Rider! Nox! Nox! Nox!<br>Shadow! || 能操控影子及讓自身潛入影子之中 || シャドウリデンプション || 
 |-
 | 18 || Gun Shadow<br>（ガンシャドウ） || Gun || Wahahahahaha!<br>Ri-Ri-Ri-Rider! Nox! Nox! Nox!<br>Gun! || 右前臂變成シャドウアームガンロウジョン，能發射子彈 || ガンリデンプション || 
-<!-- |-
-| 29 || Wolf Shadow<br>（ウルフシャドウ） || Wolf || Wahahahahaha!<br>Ri-Ri-Ri-Rider! Nox! Nox! Nox!<br>Wolf! || ? || ? ||  -->
+|-
+| 29 || Wolf Shadow<br>（ウルフシャドウ） || Wolf || Wahahahahaha!<br>Ri-Ri-Ri-Rider! Nox! Nox! Nox!<br>Wolf! || 右前臂變成シャドウアームウルフロウジョン，外形鋒利擅於斬擊 || ウルフリデンプション ||
 |}
 {{hidef|}}
 
@@ -626,8 +626,8 @@
 | 18 || {{color|black|red|Gun<br>（ガン）}} || 封印Gun Nightmare的惡夢的Capsem<br>會讓使用者能使用槍械 ||
 |-
 | 24 || {{color|white|black|Chaos<br>（カオス）}} || 封印各種惡夢的Capsem<br>會讓使用者能自由召喚不同的惡夢使者 ||
-<!-- |-
-| 29 || {{color|black|yellow|Wolf<br>（ウルフ）}} || 封印Wolf Nightmare的惡夢的Capsem || -->
+|-
+| 29 || {{color|black|yellow|Wolf<br>（ウルフ）}} || 封印Wolf Nightmare的惡夢的Capsem ||
 |}
 {{hidef|}}
 
