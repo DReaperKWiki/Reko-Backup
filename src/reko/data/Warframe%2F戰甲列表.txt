@@ -765,6 +765,7 @@
 
 * Gauss Prime
 ** 基礎奔跑速度進一步増至1.5
+** 4技發動期間BGM會換成{{youtube|-iNbmo_1j-0|Redline|}}
 
 * Grendel
 ** 以吞食為主題的戰甲。

@@ -884,7 +884,7 @@
 
 ===Killer Instinct===
 * Rare社製作的格鬥遊戲<ref>2013後版本則是與Double Helix Games和Iron Galaxy共同製作 </ref>，偽3D畫面，與真人快打一樣走殘暴向（因此也有類似前者的終結技系統，但沒有任何出血的獵奇演出），操作方面則是採用類似快打旋風的搖桿+輕中重拳腳6鍵
-* 首個有連段概念的格鬥遊戲，通常技中可以再帶入連段，終結對手時甚至可以使用更華麗的Ultra Combo以及Ultimate Combo，當然也有可以中斷對方連段的Combo Breaker，可算是立下了日後連段類格鬥遊戲（コンボゲー）的基礎
+* 首個有連段概念的格鬥遊戲，通常技中可以再帶入連段，終結對手時甚至可以使用更華麗的Ultra Combo以及Ultimate Combo，當然也有可以中斷對方連段以防情況一面倒的Combo Breaker（被接招時按特定按鍵可馬上拆招，成功會有BUFF獎勵），可算是立下了日後連段類格鬥遊戲（コンボゲー）的基礎
 
 ==F K Digital Pty Ltd.{{ref|Pty Ltd.指proprietary limited、澳洲有限公司設立形式}}／福克科技 ==
 * <s>名義上是澳洲公司，開發人員卻有很多台灣人。</s>為之前製作過以動漫角色COSPLAY+機戰風為主題的2DFM同人格鬥遊戲《超級COSPLAY大戰U（SCWU）》的Team FK的一部分原班人馬（包含總監Mickey Lin／SUNEO以及其兄弟Michael Lin／GIANT!!）另設的公司，主要開發部門在澳洲，分部在台灣
