@@ -689,7 +689,7 @@
 |height= 2.6
 |weight= 180.0
 |type= {{color|white|#E35553|'''格鬥'''}} {{color|white|#39DDDF|'''冰'''}}
-|ability1= 
+|ability1= 鐵拳
 |ability2= -
 |abilityh= -
 |pokedex= 被厚厚的冰包覆的拳頭只要輕輕一揮，就連鋼筋混凝土都能粉碎。
@@ -2369,9 +2369,9 @@ Pokemon_0774(Violet_Core)_9th_style.png|50px|紫色核心
 |height= 3.0
 |weight= 185.0
 |type= {{color|white|#D0BAA2|'''一般'''}} {{color|white|#8000FA|'''龍'''}}
-|ability1= 
-|ability2= 
-|abilityh= 
+|ability1= 怒火衝天
+|ability2= -
+|abilityh= -
 |pokedex= 活化全身細胞，恢復青春後的樣子。能操控大氣，呼風喚雨
 }}
 

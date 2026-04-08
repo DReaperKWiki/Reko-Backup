@@ -2387,7 +2387,7 @@ Pokemon_0201(QU)_9th_style.png    |?
 |height= 1.7
 |weight= 40.4
 |type= {{color|white|gray|'''鋼'''}} {{color|white|#A2A1EF|'''飛行'''}}
-|ability1= -
+|ability1= 堅毅
 |ability2= -
 |abilityh= -
 |pokedex= 飛行速度超越音速。會掀起衝擊波震飛敵人，並用爪子給予致命一擊。
@@ -2398,6 +2398,7 @@ Pokemon_0201(QU)_9th_style.png    |?
 ** 雖然身形整體變大了，卻是輕量化的狀態，體重甚至比進化前還輕了十公斤以上。
 * 鏽蝕組二把手吉普索所使用的Mega進化PM。
 * 把一直以來最大特色的高防禦削弱了30點，轉而增加攻擊與速度的數值
+* 特性是無視吸引效果的「堅毅」。<s>可惜不是黃金之軀</s>
 
 == #228 戴魯比（デルビル/Houndour） ==
 {{Pokemon_Data

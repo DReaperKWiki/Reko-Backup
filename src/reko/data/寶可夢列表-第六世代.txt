@@ -827,7 +827,7 @@ Pokemon_0670(AZ)_9th_style.png       |永恆之花
 |height= 0.2
 |weight= 100.8
 |type= ：{{color|white|#FFB0AF|'''妖精'''}}
-|ability1= -
+|ability1= 妖精氣場
 |ability2= -
 |abilityh= -
 |pokedex= 永恆之花會吸收超級進化的所有能量。花可以獨自襲擊敵人。
@@ -837,6 +837,7 @@ Pokemon_0670(AZ)_9th_style.png       |永恆之花
 ** 只有永恆之花的花葉蒂能變化為此一型態。{{censored|AZ推測是受到最終兵器的影響。}}
 * 本體沒有任何變化，手中所持的永恆之花則因為吸收了能量變的肥大化，體重也從原本的0.9'''暴漲了112倍變成100.8kg！'''
 * 種族值皆得到平均性的提升，其中特攻更是高達155，特防也變成148。
+* 特性是與X鹿相同的「妖精氣場」，令人意外的下放了封面神的專屬特性。
 
 == #671 花潔夫人（フラージェス/Florges） ==
 
@@ -1084,7 +1085,7 @@ Pokemon_0671(White)_9th_style.png    |白花
 |height= 0.8
 |weight= 10.1
 |type= {{color|white|#FF3799|'''超能力'''}}
-|ability1= 
+|ability1= 複製
 |ability2= -
 |abilityh= -
 |pokedex= 能用精神力量讓萬物膨脹或壓縮。甚至能扭曲空間，壓制敵人。
@@ -1830,9 +1831,9 @@ Pokemon_0671(White)_9th_style.png    |白花
 |height= 1.0
 |weight= 25.0
 |type= {{color|white|#E35553|'''格鬥'''}} {{color|white|#A2A1EF|'''飛行'''}}
-|ability1=  
-|ability2=  
-|abilityh=  
+|ability1= 無防守 
+|ability2= -
+|abilityh= - 
 |pokedex= 會運用因超級進化而激增的渾身肌肉，展現強而有力的炫耀動作。
 }}
 

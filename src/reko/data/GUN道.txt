@@ -1,0 +1,88 @@
+<!--@convert-with https://mwzhx.github.io/komicawiki-backup/index-browser.html
+convert from html-->{{h0| [https://w.atwiki.jp/gundo/ MUSASHI GUN道]/{{s|肛}}GUN道 }}
+
+{| class="wikitable" style="margin: 0 auto;"
+|-
+| 這是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
+|}
+
+== [https://youtu.be/rYyK3blqecw 解說] ==
+
+* 2006年播放，原作為《魯邦三世》的Monkey Punch的原創動畫作品《Musashi -Gun道-》的簡稱。
+
+* 這是一套號稱花了'''十二年構思製作'''，質素卻及不上'''二十年前的東西'''的作品。[[作畫崩壞]]是其特色。但是，卻因其非常差劣的品質，讓其變得非常有名。
+** {{s|或許是製作完成後花了十二年的時間思考是否應該推出}}
+** {{s|也可能是因為大人的理由把十二年前的計劃拖出來匆匆做完}}
+** {{s|更可能是花了十二年的時間構思怎樣做出一套前無古人的差劣作品{{ref|[http://format-acg.org/anime/forum/gun_musashi.html 於方墨山的評論見此]}}}}
+
+* 2006糞アニメ大賞得主之一（另外兩部是[[高麗菜|夜明け前より瑠璃色な]]和銀河天使2）
+
+* 真相是GUN道的全部原畫製作通通交給一家中國的外包公司-蘇州宏囡卡通責任有限公司（見GUN道ED製作人員名單）<br>也無法控管品質、加上人力與預算不夠才會造成過多作畫崩壞的主要原因
+** {{s|但無論如何一套講戰國時代末的作品卻出現十四年式手槍(另稱王八盒子或雞腿盒子)和霰彈槍，然後還要拿著槍跳舞，這種蠢到掉渣的劇本老實講也不會好看到那兒去，反而令人覺得上述真相是個推卸責任的說法}}
+* 不過幾乎崩壞到底的表現卻也讓本作產生了一種邪典作品的另類喜感與魅力，也算是另類的留名動畫史
+*然而Monkey Punch本人在動畫完結後乃至辭世以前完全隻字未提這部作品，似乎被本人當黑歷史了
+
+== {{s|沒人在乎的}}人物介紹 ==
+
+* 宮本武藏(ミヤモトムサシ)
+** CV：[[浪川大輔]]
+** 本作主角，使用雙槍的少年。
+** 不殺主義者，戰鬥也不常傷害別人。
+** 很討厭佐佐木小次郎。
+
+* 浪人(ロウニン)
+** CV：堀川仁
+** 本名不詳的第二男主角，以前是武藏的對手，之後變成同伴。
+** 有說だな的口癖。
+** {{s|眼睛常常不見}}
+
+* [[蓬萊山輝夜|輝夜]](カグヤ)
+** CV：河原木志穂
+** 女主角之一，豐臣秀吉的養女。
+
+* 澤庵和尚(タクアン和尚)
+** CV：田中總一郎
+** GUN道的創始人。
+** 著名的「賢者之舞」就是他跳的，但實際是：「顯邪之舞」才是正確名稱，可缺乏設定集等其他資料書本作為佐證，這答案就無人得知了。
+
+== 有名字辭 ==
+
+* [[馬布希|「嗚呀！好閃！」（うおっ！まぶしっ！）]]
+* 賢者之舞（賢者の舞）
+** [http://www.youtube.com/watch?v=5EohpXyhe5o 映片]
+
+== 二次創作 ==
+
+=== 畫像 ===
+
+* [http://asame4.web.infoseek.co.jp/garuhi.html 涼宮MUSASHIの憂鬱なGUN道特集（朝目新聞）]
+
+=== 映片 ===
+
+* 在Youtube上，可以找到不少《GUN道》的同人製作。
+
+* 好些比原版本來得要好的OP：
+* [http://www.youtube.com/watch?v=Pio8lSuj4VE ブラクラMUSASHI（《Black Lagoon》版本）]
+* [http://www.youtube.com/watch?v=Ssog3fF1cU4 Cowboy Musashi（《Cowboy Bebop》版本）]
+* [http://www.youtube.com/watch?v=iWTwqsfYNgw ヤンマーニ MUSASHI（《MADLAX》版本）]
+* [http://www.youtube.com/watch?v=rlhAUsKsLEg TriGUN道（《Trigun》版本）]
+* [http://www.youtube.com/watch?v=6t66bQddbjs Gun道殲鬼ヤシャゴニア（《吸血殲鬼》版本）]
+
+其他的映片：
+
+* [http://www.youtube.com/watch?v=9Rt0EfPeFAk MISTY作画BREAK]
+* [http://www.youtube.com/watch?v=GmITwuEGIu8 閃光GUNDOH PV -A Tribute to MUSASHI- やや高画質版]
+* [http://www.youtube.com/watch?v=W1BCZKFoKVg MUSASHI うたわれるもの]
+* [http://www.youtube.com/watch?v=S4a75r--Whk おねがいマイムサシィ～くるくるGUN道～]
+* [http://www.youtube.com/watch?v=Mx9f8QebqOs GA_MUSASHI MAD（《Galaxy Angels》版本）]
+
+== 回應 ==
+
+{{pcomment|page=[[討論:GUN道]]|number=|section=2}}
+
+== 備註 ==
+
+{{reflist}}
+
+
+[[分類:ACG作品]]
