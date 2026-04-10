@@ -1268,13 +1268,15 @@ EZweb版由於有漏洞致使哈薩瑪抑或是亞蒙皆無法學習魔法<s>寫
 
 惡魔合成和惡魔對話保留，但對話改為隨機出現，合成則變成需要「素體」型仲魔而更加繁瑣
 
-人類角色不參與戰鬥，改為影響全體數值和戰鬥中隨機釋放增益效果<s>神奇寶貝化</s>，後推出「分歧未來」玩法讓玩家本身參戰<s>並夢回舊作的鍛器系統</s>
+人類角色不參與戰鬥，改為影響全體數值和戰鬥中隨機釋放增益效果<s>神奇寶貝化</s>，後推出「分歧未來」玩法讓玩家本身參戰<s>並夢回舊作的鍛器系統</s>→此後慘遭冷處理，偶爾岩嵜他們想起來才會搞搞上調<s>，平常就只是PVP之一的「強鬥之塔」的平台罷了</s>
 
-初期強力惡魔抽中概率太低，<s>可能運營被罵太多</s>現在相對緩和，也經常復刻及推出step池，而隨著遊戲發展雖然會增加可合體惡魔，但需要抽出來的惡魔仍然佔絕大多數<s>而且每一次周年慶都改朝換代</s>
+強力惡魔抽中概率太低，雖然經常復刻及推出step池，但中獎率依舊堪憂，經常有<s>超級結晶人</s>死忠在X上狠狠吃井<s>並依舊樂此不疲</s>，雖然偶爾會讓部分限定惡魔加入合體名單，但對於遊戲環境而言改善微乎其微
 
-大部分已登場仲魔不論稀有度都有專屬技能，一些非常有名的惡魔在本作才有第一個專屬技能<s>但是技能效果偏規則化及極端化而耐人尋味甚至招致反感，渴望關服的詛咒聲音此起彼落<-直到最近法米通聯動實況直接探討上面一堆問題才丟出兩個改善方案（時值2024年7月）</s>
+大部分已登場仲魔不論稀有度都有專屬技能，一些非常有名的惡魔在本作才有第一個專屬技能<s>但是技能效果偏規則化及極端化而耐人尋味甚至招致反感，渴望關服的詛咒聲音此起彼落←直到最近法米通聯動實況直接探討上面一堆問題才丟出兩個改善方案（時值2024年7月），而且根本沒在改善</s>
 
 新加入AR功能，可以和實景結合『召喚惡魔』<s>大多數紳士召喚師一上來就是拍女惡魔裙底</s>
+
+2026年2月末久違更新大型更新「靈氣之門0」，但推出不久其低得驚人的品質{{ref|經常跳出更新數據的提示並且無非正常進行及退出遊戲、合體頁面卡死（強制退出遊戲後回去會正常顯示）、升級惡魔憑證後依舊無法合體出原本符合規格的惡魔、素材耗量大但回報低、MP消耗量大從而大部分時間只能普攻<s>這個老熟了，物理轉生嘛不是？</s>、物品只能一個一個帶且最初給予的空間只有三格、明顯為難無課玩家的開局卻安排了帶有不少隨機要素的抽卡以及通行證等課金要素、指令顯示的文字錯誤等}}當然再次遭受大量非議，在官方<s>三級燒傷才知道起火</s>之後安排的維修也只能先處理早前發生但並非該模式的bug，並展開長而持續的調查<s>並且「修完」之後品質堪憂的問題仍然杵在遊戲的角落裡</s>，為此甚至本應進行的緣祭實況也被取消並推遲一週，期間更出現因為沒有更新卡池而在現有卡池的有效時間俱截止後'''在11/3下午出現沒有卡池、歷時兩天的空窗期'''
 
 '''''Featuring Bayonetta & Jeanne & Beloved from the BAYONETTA Series, Sonic the Hedgehog from the Sonic the Hedgehog Series, Dante & Nero & V from the Devil May Cry V, Guts & Schierke & The Skull Knight & Mozgus & Griffith & Zodd from BERSERK, Major Motoko Kusanagi & Tachikoma from Ghost in the Shell, Meliodas & Elizabeth & Ban from the The Seven Deadly Sins, Evangelion Unit-01 & Sixth Angel ＆ Tenth Angel from Neon Genesis Evangelion, Ainz Ooal Gown & Albedo & Shalltear Bloodfallen from Overlord, Madoka Kaname & Homura Akemi & Walpurgis Night from Puella Magi Madoka Magica…媽的太長不寫了，但Featuring The Hero & Heroine from Shin Megami Tensei.'''''
 |-

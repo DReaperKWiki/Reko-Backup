@@ -393,7 +393,7 @@ D2：多兵乱舞、反乱の兆し
 |Ali
 |Picture=[[檔案:DSSHZhongKui.png|200px]]
 |Faction=物理
-|Skill=
+|Skill=D2：退魔の奉公
 |Edition=惡魔召喚師
 }}
 
@@ -434,6 +434,43 @@ D2：多兵乱舞、反乱の兆し
 
 ==== 其他聖獸 ====
 {{MTdata
+|Name=ティンロン
+（天龍）
+|Type=龍神
+|Ali=LIGHT-CHAOS
+|Picture=[[檔案:SMTifTianlong.gif|200px]]
+|Faction=恢復
+|Skill=-
+|Edition=真女神轉生if…
+}}
+{{MTdata
+|Name=ホンロン
+（紅龍）
+|Type=龍王
+|Ali=
+|Picture=
+|Faction=火焰
+|Skill=-
+|Edition=偽典‧女神轉生 東京默示錄
+}}
+{{MTdata
+|Name=パイロン
+（白龍）
+|Type=魔獸
+|Ali=
+|Picture=
+|Faction=冰凍
+|Skill=-
+|Edition=數位惡魔物語/舊約・女神轉生Ⅱ
+}}
+
+* 也就是中國神話的龍
+** <s>聽著很廢話但畢竟是引子：</s>廣義而言除了黃龍跟青龍外，中華文化對龍的認知一般並非從顏色，而是從種類及其司職，比如「龍生九子」、「四海龍王」等
+*** <s>對了，天龍指的就只是龍，跟「天龍八部」無關，其天跟龍也是合稱而非為一物</s>
+* 部分他處引用的資訊來自[https://studycli.org/zh-CN/chinese-culture/chinese-dragons/#What_is_the_Symbolism_Behind_Dragon_Colors 此處]<s>雖然很用心，但對不對是一回事，至於所謂他處也就不點名了</s>
+<br>
+
+{{MTdata
 |Name=キリン
 （麒麟）
 |Type=聖獸
@@ -451,20 +488,6 @@ D2：多兵乱舞、反乱の兆し
 *被玄武代替的原始四象，亦是四靈之一
 **記載自6500年前的河南濮陽西水坡仰韶文化遺址中第二組圖案
 **《禮記・禮運》曰：「麟、鳳、龜、龍，謂之四靈。」
-<br>
-
-{{MTdata
-|Name=ティンロン
-（天龍）
-|Type=龍神
-|Ali=LIGHT-CHAOS
-|Picture=[[檔案:SMTifTianlong.gif|200px]]
-|Faction=恢復
-|Skill=-
-|Edition=真女神轉生if…
-}}
-
-* 也就是華夏神話裡蠻常見的那些龍
 <br>
 
 {{MTdata
@@ -543,6 +566,20 @@ D2：多兵乱舞、反乱の兆し
 <br>
 
 {{MTdata
+|Name=トギュウ
+（斗牛）
+|Type=龍神
+|Ali=
+|Picture=
+|Faction=-
+|Skill=-
+|Edition=輪舞曲 —RONDE—
+}}
+
+* 牛角龍身，中國古代建築的「五脊六獸」之一，《宸垣識略》記曰「西內海子中有斗牛，即虬螭之類，遇陰雨作雲霧，常蜿蜒道旁，及金鰲玉蝀坊之上」，有鎮火防災的用途
+<br>
+
+{{MTdata
 |Name=カウ
 （火烏）
 |Type=凶鳥
@@ -588,6 +625,20 @@ D2：多兵乱舞、反乱の兆し
 <br>
 
 ===== 其他妖怪 =====
+{{MTdata
+|Name={{ruby|年獣|ネンジュウ}}
+（年獸）
+|Type=
+|Ali=-
+|Picture=
+|Faction=詛咒
+|Skill=岁暮出没的恶兽、降祸吞禧
+|Edition=女神異聞錄：夜幕魅影
+}}
+
+* 傳說中到處搞事、怕紅怕光<s>、因為牠才能放大假</s>的那傢伙
+<br>
+
 {{MTdata
 |Name=センリ
 （仙狸）
@@ -2145,8 +2196,9 @@ D2：衝擊
 |Ali=
 |Picture=[[檔案:SMT5Amanozako.png|200px]]
 |Faction=電擊、萬能
-|Skill=天逆撃
-5V：天逆唄［特殊］
+|Skill=天逆撃（5/5V）
+5V：天逆唄［特殊］<br>
+D2：天逆毎の女神、天逆術・悪戯、パニックメイカー
 |Edition=真‧女神轉生V
 }}
 

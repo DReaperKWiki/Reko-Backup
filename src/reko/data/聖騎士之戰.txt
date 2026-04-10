@@ -88,12 +88,12 @@
 *** 討厭的東西：努力、奮鬥之類
 *** 格鬥流派：我流
 *** 個人曲：
-**** [https://youtu.be/ziQPKGEdFHI?si=rGlPxkyf6Jb6qAQN Keep Yourself Alive]（初代）
-**** [https://youtu.be/cABwx29L3ps?si=VOCeQnk36CRYlqkY Keep Yourself Alive II]（X、XX）
-**** [https://youtu.be/XT8RJVEG67Y?si=hyR75RUQcuG6-Fgx Keep Yourself Alive III]（OVERTURE）
-**** [https://youtu.be/PHP9K3q4Jo0?si=cmDv5VVEqdG98VB3 Give me a break]（Xrd）
-**** [https://youtu.be/QvgZzKVlYQo?si=KN3Od6C6BoXAnaft Ride the Fire!]（Xrd）
-**** [https://youtu.be/eC15R4HeqZc?si=4gAvOaJoASYpKhMU Find Your One Way]（STRIVE）
+**** {{youtube|ziQPKGEdFHI|Keep Yourself Alive（初代）}}
+**** {{youtube|cABwx29L3ps|Keep Yourself Alive II]（X、XX）}}
+**** {{youtube|XT8RJVEG67Y|Keep Yourself Alive III]（OVERTURE）}}
+**** {{youtube|PHP9K3q4Jo0|Give me a break]（Xrd）}}
+**** {{youtube|QvgZzKVlYQo|Ride the Fire!]（Xrd）}}
+**** {{youtube|eC15R4HeqZc|Find Your One Way]（STRIVE）}}
 ** 系列第一主角，綽號「背德之炎」的賞金獵人。
 ** 過去為聖騎士團所屬，後來帶著神器「封炎劍」脫離了騎士團<ref>索爾曾與迦斯堤交手過，但因為武器承受不住自己和迦斯堤交戰時的餘波而損毀，索爾這才決定趁著脫離聖騎士團的機會搶走封炎劍做為和迦斯堤決戰用的兵器。</ref>。
 ** {{censored|真實身分是過去與飛鳥共事的科學家，本名為「費德烈＝巴爾薩拉（フレデリック＝バルサラ）<ref>{{censored|名字捏他了皇后合唱團主唱「佛萊迪·墨裘瑞（Freddie Mercury）」以及其真名「法魯克·布勒薩拉（Farrokh Bulsara）」，順便一提索爾在官方設定上也是皇后的粉絲。}}</ref>」，魁梧的運動員身材是那時就有的，研究的方向是法力在物理上的運用與能量力學，包括封炎劍在內的八神器都是他開發出來的。}}
@@ -716,7 +716,7 @@
 ** 名字是從石渡從戴維·格雷厄姆的一段木吉他獨奏中得到了靈感的。
 
 ==== 藏土緣紗夢（クラドベリ＝ジャム） ====
-* 登場作：X、XX、Xrd REVELATOR
+* 登場作：X、XX、Xrd REVELATOR、STRIVE（DLC5追加）
 ** CV：
 *** 小森真奈美（X～XX）
 *** 松嵜麗（Xrd REVELATOR～STRIVE）
@@ -738,6 +738,7 @@
 ** 喜歡美男子，曾多次試圖把凱挖到自己的餐廳當服務生。
 ** 在X事件結束後冒名獨吞賞金並開了餐廳。
 *** 但在Xrd時陷入餐廳倒閉的危機，後與潔克・歐<s>組成杏琪拉</s>結伴旅行後決定藉由賣外賣重新再起。
+*** STRIVE時為了抓住疑似吃霸王餐的美男子而四處旅行，意外在維亞拉提亞境內與迷路的蒂姬重逢並結伴行動。
 ** '''天上天下唯我獨尊'''<ref>一擊必殺技的畫面演出</ref>
 ** 名字取自瑞典樂團「雲莓果醬（Cloudberry Jam）」。
 
@@ -950,7 +951,7 @@
 
 === XX #RELOAD登場角色 ===
 ==== 機械凱（ロボカイ） ====
-* 登場作：XX #RELOAD～XX ACCENT CORE（Xrd僅劇情登場）
+* 登場作：XX #RELOAD～XX ACCENT CORE（Xrd僅劇情登場）、STRIVE（DLC5追加）
 ** CV：
 *** 草尾毅（X～XX）
 *** 寺田完（XX #RELOAD～XX SLASH）

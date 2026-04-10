@@ -147,7 +147,26 @@
 {{hidef}}
 
 ===[http://photonsystem.com/ PhotonSystem(フォトンシステム)] ===
-* [[Nonet]]
+* {{hideh|[http://photonsystem.com/nonet.php Nonet]}}
+* 縱解謎STG，有火、風、水三種屬性可選且有相剋關係
+*NSTA(Nine-Spell-Three-Attribute)/九術三屬性
+**須取得道具才強化魔法(↑或↓)，越強的魔法耗能越高
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''魔法''' !! '''LV1'''!! '''LV2'''!! '''LV3'''
+|-
+| 火 ||ファイア/火||トライファイア/三向火||エクスプロージョン/爆炸
+|-
+| 風 ||サンダー/雷||ウィンドミル/風車||エアスラッシュ/空氣斬
+|-
+| 水 ||スプラッシュ/水花||バブル/泡泡||ブリザード/暴風雪
+* 故事：
+ 自然會使用魔法的遙遠世界故事
+ 在某個國家男人婆四季(シキ)感到感到無聊而溜出城堡
+ 彷彿被魔力強大的她，所吸引的敵人接連逼近……！
+
+|}
+{{hidef}}
 * [[Nonet Overture]]
 
 ===[http://web.archive.org/web/20200202070119/http://dos810.sakura.ne.jp/ どすこい飯店]→[https://twitter.com/dos810 馬場ちょっぷ]/[https://www.pixiv.net/users/1021939/artworks Pixiv] ===
