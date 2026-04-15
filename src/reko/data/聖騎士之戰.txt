@@ -132,11 +132,11 @@
 *** 討厭的東西 索爾(～2) → 自己脆弱的心（Xrd）
 *** 格鬥流派：聖騎士團鬥法
 *** 個人曲：
-**** [https://youtu.be/01IEjvD5lss?si=3eEcEYaCLYrQ_MlY Holy Orders (Be Just Or Be Dead)]（初代）
-**** [https://youtu.be/rGetImTgyFA?si=x-qv8T32sc4YiD8q Holy Orders (Be Just Or Be Dead) II]（X、XX）
-**** [https://youtu.be/VdU1M37NsZ8?si=KRabVZm_XFDa5ecj Holy Orders (Be Just Or Be Dead) III]（OVERTURE）
-**** [https://youtu.be/-kxUFola5YI?si=mwVNORdLk95vr1Jb Magnolia Éclair]（Xrd）
-**** [https://youtu.be/qLu9KQ5rWvs?si=4BMZSRDwq7d1ZOGE The Roar of the Spark]（STRIVE）
+**** {{youtube|01IEjvD5lss|Holy Orders (Be Just Or Be Dead)]（初代）}}
+**** {{youtube|rGetImTgyFA|Holy Orders (Be Just Or Be Dead) II]（X、XX）}}
+**** {{youtube|VdU1M37NsZ8|Holy Orders (Be Just Or Be Dead) III]（OVERTURE）}}
+**** {{youtube|-kxUFola5YI|Magnolia Éclair]（Xrd）}}
+**** {{youtube|qLu9KQ5rWvs|The Roar of the Spark]（STRIVE）}}
 ** 系列第二主角，是年僅16歲就當上聖騎士團團長，揮舞神器「封雷劍」的一流劍士。
 *** 文武雙全，名副其實的天才。能使用所有屬性法力，主要使用常人難以操控的雷屬性法力是因為抱持著「控制難以駕馭的力量是一種浪漫」的想法。
 *** 戰鬥能力異常的高，即使是被譽為GG系列武力值天花板的索爾在看到他對戰GEAR時展現出的壓倒性秒殺過程也會不自主地冒出一身冷汗，感覺若是與他生死相搏自己恐怕沒有太多勝算。
@@ -739,6 +739,7 @@
 ** 在X事件結束後冒名獨吞賞金並開了餐廳。
 *** 但在Xrd時陷入餐廳倒閉的危機，後與潔克・歐<s>組成杏琪拉</s>結伴旅行後決定藉由賣外賣重新再起。
 *** STRIVE時為了抓住疑似吃霸王餐的美男子而四處旅行，意外在維亞拉提亞境內與迷路的蒂姬重逢並結伴行動。
+*** 據她所言美男子消失之際現場冒出了一隻兔子，她將其命名為烏薩基並帶著牠走{{censored|實際上烏薩基就是該名美男子因為不明原因變身而成，但她自始至終都沒發現，蒂姬與烏薩基對話後察覺但按對方要求選擇隱瞞}}。
 ** '''天上天下唯我獨尊'''<ref>一擊必殺技的畫面演出</ref>
 ** 名字取自瑞典樂團「雲莓果醬（Cloudberry Jam）」。
 

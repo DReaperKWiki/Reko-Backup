@@ -75,7 +75,7 @@
 |-
 | 蠟筆小新 團結一致 春日部城大開發 || 2017年4月27日 || rowspan="8" |iOS<br>Android || Poppin Games
 |-
-| [[BanG Dream!|BanG Dream!少女樂團派對]] || 2017年3月16日 || <s>Craft Egg</s><ref>2024年4月1日被母公司CyberAgent吸收合併後解散</ref>→FROMTOKYO || 另有NS移植版於2021年9月16日發售
+| [[BanG Dream!|BanG Dream!少女樂團派對]] || 2017年3月16日 || <s>Craft Egg</s><ref>於2024年4月1日被母公司CyberAgent吸收合併後解散</ref>→FROMTOKYO || 另有NS移植版於2021年9月16日發售
 |-
 | [[D4DJ|D4DJ Groovy Mix]]{{color|red||※}} || 2020年10月25日 || Donuts || 
 |-
@@ -216,7 +216,7 @@
 |-
 | 卡片戰鬥先導者will+Dress || 2022年7月5日 || 38 || 上者的續篇，實質上算是同一部作品
 |-
-| [[卡片戰鬥先導者Divine Z]] || 2024年1月13日 || 51（未完結） || 上者的續篇(ry
+| [[卡片戰鬥先導者Divine Z]] || 2024年1月13日 || 63+3（未完結） || 上者的續篇(ry
 |-
 | 劇場版 卡片戰鬥先導者 霓虹救世主 || rowspan="2" | 2014年9月13日 || LIDENFILMS || rowspan="2" | 電影 ||   || rowspan="2" | 同步上映的電影，上者為動畫劇場版，下者為真人電影版 
 |-
