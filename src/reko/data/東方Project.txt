@@ -580,7 +580,7 @@ ZUN也在直播時也有提到跳票這點而不滿
 
 
 ==回應==
-[[{{TALKPAGENAME}}]]
+{{pcomment|section=1}}
 
 == 備註 ==
 

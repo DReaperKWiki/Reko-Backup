@@ -1,0 +1,178 @@
+{{h0|Dungeons & Dragons / ダンジョンズ & ドラゴンズ / 地獄神龍}}
+
+{| class="wikitable" style="margin: 1.5em auto; text-align:center;" 
+|-
+{{stub row}}
+|}
+
+==解說==
+
+* 由<s>卡婊</s>[[Capcom]]以《[[TRPG|龍與地下城]]》的世界觀為基準，於大型機台推出的一系列[[清版動作遊戲]]。
+* 在遊戲系統上結合了角色扮演的要素，除了可以藉由[[經驗值]]提升等級之外，還會依照玩家的選擇變更後面的關卡。
+** 而在道具使用上較傳統清版動作遊戲更加多樣化。
+
+==操作人物列表==
+<span id="戰士fighter編輯"></span>
+===[https://youtu.be/CCnJgJjH_9s 戰士（Fighter）]===
+* 身著鎧甲，以長劍為主武器的戰士，擁有傲人體力但不擅長魔法。
+* 有盾，也可以換成短劍玩[[雙持|二刀流]]。<s>雖然DND三版起的二刀流不適合戰士。</s>
+* 預設名字為Crassus，Jarred為第二作2P色的名字。
+
+=== 聖職者（Cleric） ===
+* 身著鎧甲，擅長回復魔法的神官。<s>基於教義不使用任何帶刃的武器</s>（DND沒有這種設定）
+* 有盾，能超渡（秒殺）在畫面的所有不死生物。
+* 預設名字為Greldon， Miles為第二作2P色的名字。
+
+===矮人（Dwarf）===
+* 驍勇善戰的矮人，以斧頭為主武器。
+** 職業應該也是戰士，體力比上面的戰士還要高。
+* <s>無法使用魔法但有過人魔防。</s>（DND沒有這種設定）
+* 有盾
+* 被矮人開啟的寶箱不會立即消失，可以再敲一下得到更多的物品。
+* 預設名字為Dimsdale，Hendel為第二作2P色的名字。
+
+===精靈（Elf）===
+* 棲息於森林，劍技與魔法雙修的妖精種族。
+** 以DND的說法就是同時有戰士和魔法師的職業。代價是升級速度比別人慢（在遊戲內也有表現出來），而且作為魔法師不能使用高級魔法是很大缺點。
+* 有盾，也有無限的普通箭矢可以使用。
+* 預設名字為Lucia，Kayla為第二作2P色的名字。
+
+===盜賊（Thief）===
+* 擅長高速戰鬥與開鎖的職業。
+* 第二作暗黑祕影才開放的職業。
+* 戰鬥力比較低，但是有很多實用的能力：
+** 二段跳，跳攻擊是投出燃燒瓶
+** 有投石器和無限的石頭
+** 可以看到陷阱
+** 開寶箱不用鑰匙
+** 衝撞怪物有機會令怪物掉下物品
+* Moriah、Shannon分別為1、2P色的預設名字。
+
+===魔法師（Magic User） ===
+* 體力貧弱但能使用強力魔法的魔法使用者。
+* 第二作暗黑祕影才開放的職業。
+* 那個匕首不是裝飾，偶爾會拿出來捅怪，傷害還非常高。
+* Syous、D'raven分別為1、2P色的預設名字。
+
+==地獄神龍：毀滅之塔 ==
+===簡介===
+* 推出時間：1994年
+* 英文標題：Dungeons &amp; Dragons Tower of Doom
+* 日文標題：ダンジョンズ&amp;ドラゴンズ タワーオブドゥーム
+** 系列第一作。
+
+===迷宮列表===
+* Stage 1: Prologue
+** 
+* Stage 1A: The Mountain Lair
+** 
+* Stage 1B: The Siege of Nemiston
+** 
+* Stage 2: The Darokin Forest
+** 
+* Stage 2A: En Route to Darokin
+** 
+* Stage 2B: Rescue on Fort Cruth
+** 
+* Stage 3: Streel River Ambush
+** 
+* Stage 4: The Dragon Swamp
+** 
+* Stage 5: Corunglain
+** 
+* Stage 5-1A: The Limestone Caverns
+** 
+* Stage 5-1B: The Abandoned Mine
+** 
+* Stage 5-1C: The Old Well
+** 
+* Stage 5-2: The Underground City
+** 
+* Stage 6: En Route to Fort Runnels
+** 
+* Stage 6A: Flamewing's Cavern
+** 
+* Stage 6B: Beholder's Mountain
+** 
+* Stage 7: Sable Tower
+** 
+
+
+==地獄神龍：暗黑祕影 ==
+
+===簡介===
+* 推出時間：1996年
+* 英文標題：Dungeon&amp;Dragons Shadow over Mystara
+* 日文標題：ダンジョンズ & ドラゴンズ シャドーオーバーミスタラ
+** 系列第二作，除了前作的四人之外另外追加了盜賊與魔法師作為可選職業。
+*** 並導入了同職業的2P設定，同一職業有兩種不同的面貌，甚至還有專屬技能。
+** 設定上為前作相同世界觀的延續，因此玩家基本等級都以十級起跳。
+
+<span id="迷宮列表編輯-1"></span>
+===迷宮列表===
+
+* Stage 1: Descent from the Broken Lands
+** 
+* Stage 2: The Village of Trintan
+** 
+* Stage 3A: To Ride a Juggernaut
+** 
+* Stage 3B: Battle on the Vesuvia
+** 以遭遇戰為主的水上關卡。
+** 戰鬥過程類似一般明雷式[[RPG]]，地圖上的移動可以閃避遇敵，遇上了則會切換至戰鬥畫面。
+** 限制時間到後會出現無法擊敗的黑龍。
+* Stage 4: Skies over Aengmore
+** 在飛行船上與Harpy與Tel'Arin的頭目二連戰。
+** 與Tel'Arin的戰鬥若超過一定時間會無視選項直接進入5A。
+* Stage 5A: Forest of Despair
+** 
+* Stage 5B: Riddle of Aensun
+** 
+* Stage 5C: Forest Bridge
+** 隊伍有精靈時才能前往，通關後可以跳過Stage 6的蠍獅戰鬥。
+* Stage 6: Battle of Strong Oak
+** 
+* Stage 7: The Grove of Destruction
+** 
+* Stage 8A: Forest Labyrinth
+** 
+* Stage 8B: Rescue at the Gnome Village
+** 
+* Bonus Stage: The Cave of Rafael
+** 持續下墜的無底洞關卡。
+** B30F可以取得傳說之劍，B50F可以進入樓下的隱藏關卡。
+* Bonus Stage: Hidden Treasures
+** 充滿大量寶物的洞窟，洞窟深處有紅龍看守。
+* Stage 9A: Land of Fire
+** 充滿岩漿的地圖，可以拿冰劍。
+* Stage 9B: Lost World
+** 充滿冰的地圖，可以拿火炎劍。
+* Stage 9C: Secret Underworld
+** 隊伍有矮人時才能前往。
+** 尾段與雙子闇精靈的戰鬥中如果只擊倒Tel'Arin的話，Tel Eleron會在最終關將Nagpa殺死。
+* Stage 10-1: Gateway
+** 
+* Stage 10-2: Overtures
+** 
+* Stage 10-3: The Arena
+** 
+* Stage 10-4: Battle Royal
+** 
+* Stage 10-5: The Arena Revisited
+** 
+* Stage 10-6: Inner Heart, Dark Heart
+** 於浮游城頂端與Synn的最終決戰。
+
+==地獄神龍：秘影編年史==
+* 推出時間：2013年
+* 英文標題：Dungeons &amp; Dragons: Chronicles of Mystara
+* 日文標題：ダンジョンズ＆ドラゴンズ ミスタラ英雄戦記
+** 一二代的PS3移植版，實裝了成就系統、關卡選擇系統、平滑作畫以及作為收集要素的畫像。
+
+== 回應 ==
+{{pcomment|section=1}}
+
+== 備註 ==
+<references />
+[[category:Capcom]]
+[[category:動作遊戲]]
