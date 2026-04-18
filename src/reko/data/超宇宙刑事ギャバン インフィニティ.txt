@@ -603,3 +603,4 @@
 <references />
 {{Metal Hero}}
 [[分類:金屬英雄系列]]
+{{PROJECT R.E.D.}}
