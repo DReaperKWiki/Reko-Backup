@@ -323,6 +323,8 @@
 |-
 | 27 || Gang Wolf Nightmare<br>（ギャングウルフナイトメア） || 狼 || 不明 || 擅長集體行動，武器除了鋒利的爪和牙齒外還有裝備在左臂的機槍 || 被奇克改變而強化的Wolf Nightmare
 |-
+| 31 || Zeztz Darkness Nightmare<br>（ゼッツダークネスナイトメア） || Zeztz || Zero || 能引起各種不幸事象作攻擊<br>還能生成出Darkness Capsem並使用其固有能力 || 讓莫自小一直遭遇不幸事故的元凶<br><s>偽裝真差，一看就知道是塗成黑色的Zeztz Physicam Impact / Barrier Capsem裡面的惡夢使者</s>
+|-
 | エージェント美浪 || Cat Nightmare<br>（キャットナイトメア） || [[貓]] || 万津美浪 || 顯露出強烈的狩獵本能，身手敏捷，擅長利銳利的爪攻擊 || 於本篇第29話被奇克強行與夢的主人融為一體<s>變成貓娘美浪</s>，若被擊破就會把宿主也一併殺死
 |}
 {{hidef|}}
@@ -640,6 +642,8 @@
 | {{color|white|purple|Extra<br>（エクストラ）}} || 司「特別」之夢的Capsem<br>會讓使用者的所有能力都到達過盛的程度 ||
 |-
 | 27 || {{color|white|magenta|Punish<br>（パニッシュ）}} || 司「懲罰」之夢的Capsem<br>會讓使用者能發揮出可改變惡夢的強大力量 ||
+|-
+| 31 || {{color|white|black|Darkness<br>（ダークネス）}} || 自Zero的惡夢中誕生，擁有否定Zeztz將之歸於無的惡夢力量的Capsem ||
 <!-- |-
 | 29 || {{color|white|grey|コード}} || ? || -->
 |-
