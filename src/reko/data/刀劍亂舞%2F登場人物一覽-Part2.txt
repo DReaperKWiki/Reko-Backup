@@ -1325,6 +1325,12 @@ https://static.wikia.nocookie.net/touken-ranbu/images/2/23/Nenekirimaru-Kiwame.p
 * <s>ㄋㄟㄋㄟ切丸</s><ref>日文空耳</ref>
 * 圖錄發售前的推估[https://images.plurk.com/4NUYWdJ8mybMDJkdLp5OUl.jpg 身高謎?]比較，<s>假如前者正確的[https://images.plurk.com/4GyROmrhbR4Mya21GHn5p1.jpg 名場面]</s>
 
+=== 柏太刀 ===
+https://static.wikia.nocookie.net/touken-ranbu/images/8/86/Kashiwadachi.png
+* 繪：村カルキ。CV：岩中睦樹。
+* 刀帳編號：256番。身高：169&nbsp;cm。
+* 2026/4/21以限定鍛刀實裝，鍛刀時間為3:00:00，指定配方為All 700。
+
 ==  薙刀（なぎなた）  ==
 * 頂端為單刃刀的長柄武器。
 ** 依刀刃形狀可大略分為「巴形」與「靜形」但並沒有很明確的定義，名稱分別來自古代女武者巴御前與靜御前；目前遊戲分別將這兩種制式都以集合體刀劍男士的形態實裝。

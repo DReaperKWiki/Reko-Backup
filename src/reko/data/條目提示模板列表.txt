@@ -155,3 +155,5 @@
 
 
 <noinclude>[[分類:條目提示模板|*]]</noinclude>
+
+[[分類:Komica]]
