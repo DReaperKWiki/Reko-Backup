@@ -17,6 +17,7 @@
 ** 賣點是可以蓄力發射的「波動炮」以及攻守兼用的子機「Force」以及「Bit」
 *** 途中會有POW裝甲運送各種對玩家有利的強化道具，分別為速度提升、飛彈、Force專用的強化道具以及Bit
 * 與[[KONAMI]]的《[[GRADIUS系列|GRADIUS]]》系列及Taito的《[[Darius系列|Darius]]》系列並稱為「橫向2D STG御三家」
+* 現今負責延續遊戲的製作公司分別為Tozai Games以及Granzella
 
 ==名詞==
 ===R戰機===
