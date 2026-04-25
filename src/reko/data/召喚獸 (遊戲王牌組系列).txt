@@ -34,9 +34,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[檔案:Aleister the Invoker.png|250px]]
+卡圖1=[[檔案:Aleister the Invoker.png|250px|right]]
 |-| 
-卡圖2=[[檔案:Aleister the Invoker 2nd.png|250px]]
+卡圖2=[[檔案:Aleister the Invoker 2nd.png|250px|right]]
 </tabber>
 }}
 
@@ -135,6 +135,12 @@
 
 === 召喚獸 柯邱托斯（{{ruby|召喚獣|しょうかんじゅう}}コキュートス）   ===
 [[檔案:Invoked Cocytus.png|250px|right]]
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; font-size: 24px; color:#00008B;">
+冥界の檻よ！
+
+氷獄より我が元へ来たれ！！<ref>動畫《Yu-Gi-Oh!_CARD_GAME_THE_CHRONICLES》中，阿萊斯特所喊出的召喚詞</ref>
+
+</div>
 * 水屬性的召喚獸，具備效果抗性和強大的守備力，特色是可以在守備狀態下進行攻擊<s>超重武者系列：嫩！</s>
 ** 不過因為水屬性同樣不是常見的強勢屬性(ry
 ** 雖然實卡不強，但[[遊戯王_Duel_Links|Duel Links]]中因卡池比實卡小，沒有效果能夠移除此卡，加上防禦力高和稀有度低，此卡因而變成無解，結果在2020年被列成禁卡，到2023年還未解禁
@@ -187,9 +193,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[檔案:Invoked Mechaba.png|250px]]
+卡圖1=[[檔案:Invoked Mechaba.png|250px|right]]
 |-| 
-卡圖2=[[檔案:Invoked Mechaba 2nd.png|250px]]
+卡圖2=[[檔案:Invoked Mechaba 2nd.png|250px|right]]
 </tabber>
 }}
 
@@ -280,7 +286,7 @@
 ** 同時三隻融合怪獸都有著除外墓地的自身能發動的效果，與此前<s>用完就棄</s>的本家融合怪獸設計特色截然不同。
 
 * 擁有雙方主要階段可以復活等級6以下的怪獸到自己場上的能力，但拉出來的怪獸效果會無效化。
-** 存在於墓地時還可以進行墓地、場上的人肉《[[相關魔陷#奇蹟融合（ミラクル・フュージョン）|奇跡融合]]》，通過除外融合素材進行本家的融合召喚。
+** 存在於墓地時還可以進行墓地、場上的人肉《[[E‧HERO/相關魔陷#奇蹟融合（ミラクル・フュージョン）|奇跡融合]]》，通過除外融合素材進行本家的融合召喚。
 * 「ソラト／Sorath」是近代神秘學裡的太陽惡魔，並且經常與啟示錄裡的666之獸聯繫在一起。
 ==== 卡片資訊 ====
 * 融合／效果怪獸<br>光屬性／炎族／等級6／攻擊力1600／守備力2600
@@ -370,9 +376,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[檔案:Invocation.png|250px]]
+卡圖1=[[檔案:Invocation.png|250px|right]]
 |-| 
-卡圖2=[[檔案:Invocation 2nd.png|250px]]
+卡圖2=[[檔案:Invocation 2nd.png|250px|right]]
 </tabber>
 }}
 
