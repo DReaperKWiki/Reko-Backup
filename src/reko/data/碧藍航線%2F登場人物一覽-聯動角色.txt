@@ -181,8 +181,8 @@
 * 順帶一提角色的幸運值全取自臀圍。<s>因此除了瑪莉蘿絲外其他角色的幸運值也非常高</s>
 * 目前實裝最多聯動角色的合作作品之一：
 ** 第一次實裝後<s>出乎意外地</s>於2023年4月27日再度於陸、日、英及台服復刻活動，並新增兩個聯動角色和所有角色的專屬裝備。
-*** <s>以這個勢頭來看萊莎系列活動也有機會再來一次了，結果2025年7月真的連同新的系列作品再來一次</s>
-** 2026年4月17日則以新活動形式實裝六位新角色，全部稀有度為SSR。<s>究竟之後本系列會否突破20位聯動角色這點還請各位看下去</s>
+*** <s>以這個勢頭來看萊莎系列活動也有機會復刻，結果2025年7月真的連同新的系列作品再來一次</s>
+** 2026年4月17日以新活動形式實裝六位新角色，全部稀有度為SSR。<s>究竟之後本系列會否突破20位聯動角色還請拭目以待</s>
 === 瑪莉蘿絲（マリー・ローズ/Marie Rose） ===
 [[File:DOAXVV Marie Rose.png|x200px]]
 * 圖鑑編號：C061，艦種：驅逐，SSR。
@@ -214,22 +214,22 @@
 [[File:DOAXVV Tamaki.png|x200px]]
 * 圖鑑編號：C069，艦種：戰巡，SSR。
 === 伊莉絲（エリーゼ/Elise） ===
-<!--[[File:DOAXVV Elise.png|x200px]]-->
+[[File:DOAXVV Elise.png|x200px]]
 * 圖鑑編號：C990，艦種：空母，SSR。
 === 雫（しずく/Shizuku） ===
-<!--[[File:DOAXVV Shizuku.png|x200px]]-->
+[[File:DOAXVV Shizuku.png|x200px]]
 * 圖鑑編號：C991，艦種：戰艦，SSR。
 === 香迪（シャンディ/Shandy） ===
-<!--[[File:DOAXVV Shandy.png|x200px]]-->
+[[File:DOAXVV Shandy.png|x200px]]
 * 圖鑑編號：C992，艦種：重巡，SSR。
 === 筑紫（つくし/Tsukushi） ===
-<!--[[File:DOAXVV Tsukushi.png|x200px]]-->
+[[File:DOAXVV Tsukushi.png|x200px]]
 * 圖鑑編號：C993，艦種：驅逐，SSR。
 === 千乃（ゆきの/Yukino） ===
-<!--[[File:DOAXVV Yukino.png|x200px]]-->
+[[File:DOAXVV Yukino.png|x200px]]
 * 圖鑑編號：C994，艦種：輕巡，SSR。
 === 派蒂（パティ/Patty） ===
-<!--[[File:DOAXVV Patty.png|x200px]]-->
+[[File:DOAXVV Patty.png|x200px]]
 * 圖鑑編號：C995，艦種：潛水，SSR。
 
 == [[偶像大師]] ==

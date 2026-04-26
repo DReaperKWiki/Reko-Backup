@@ -16,6 +16,8 @@
 主視覺圖2=[[檔案:ZEZTZ_Post02.jpg|300px]]
 |-|
 主視覺圖3=[[檔案:ZEZTZ_Post03.jpg|300px]]
+|-|
+主視覺圖4=[[檔案:ZEZTZ_Post04.jpg|300px]]
 </tabber>
 }}
 
@@ -172,7 +174,7 @@
 * <s>會用硬來的方式把莫K到入夢</s>
 
 ===== Lord Three（ロードスリー） =====
-* THREE以Extra Capsem搭配Lord Invoker「擬裝」而成的姿態
+* 以Extra Capsem搭配Lord Invoker「擬裝」而成的姿態
 ** 能力上屬平均型，所有數值都遠超另外兩位Lord
 ** 相比下面兩位Lord在左肩多一片[[披風]]，能把Capsem的固有能力擴散到四週提升自己在領域內的支配力
 
@@ -182,6 +184,9 @@
 ** 左肩甲裡填充了能減輕著裝者精神和肉體的負荷的特殊凝膠，使其能發揮出超越Nox Knight的表現
 
 * 必殺技：エクストラエクスキューション、バーディクトエクストラエクスキューション
+<!-- ===== Lord Three Booster（ロードスリーブースター） =====
+* 以Lord Booster Capsem搭配Lord Invoker「擬裝」而成的姿態
+* <s>偽裝真差，一看就知道是拿Zeztz Plasma Booster來[[殺肉]]</s> -->
 
 ==== 宮本紅霸【演：平川結月】 ====
 * 第18話起登場，奈砂香高中時的同班同學暨[[籃球]]部戰友，現為記者
@@ -206,7 +211,7 @@
 {{hidef|}}
 
 ===== Lord Six（ロードシックス） =====
-* 紅霸以Panic Capsem搭配Lord Invoker「擬裝」而成的姿態
+* 以Panic Capsem搭配Lord Invoker「擬裝」而成的姿態
 ** 能力數值上著重於敏捷性（走力和跳躍力）
 ** 必殺技：パニックエクスキューション、バーディクトパニックエクスキューション
 
@@ -232,7 +237,7 @@
 ** [https://www.tv-asahi.co.jp/zeztz/news/0016/ <s>本人表示是從6晉升上5（無誤）</s>]
 
 ===== Lord Five（ロードファイブ） =====
-* FIVE以Shock Capsem搭配Lord Invoker「擬裝」而成的姿態
+* 以Shock Capsem搭配Lord Invoker「擬裝」而成的姿態
 ** 能力數值上著重於打擊能力（拳力和腳力）
 
 * 必殺技：ショックエクスキューション、バーディクトショックエクスキューション
@@ -542,6 +547,8 @@
 | 22 || Catastrom<br>（カタストロム） || rowspan="2"|Dual Mare || Pulverize! Rider!<br>Zeztz! Zeztz! Zeztz!<br>Catastrom! || 身上的強化被膜以粒子狀的暗黑物質構成，顯現出Catastrophe Gore Nightmare的力量同時勾起變身者內心深處的破壞衝動<br>全身的能力增強路會不斷提供次元流體，強化肉體同時猛烈地填補劇烈的消耗<br>能利用超視覺看穿目標核心的力場=崩壞的起點，並運起足以讓變身者自毀的破壞力[[一拳超人|一擊將之粉碎]] || カタストロム・クラッシャー || 使用時似乎有著「必須要把目標粉碎」的制約，在完成目標後或中途放棄的場合都會逆火反彈解除變身
 |-
 | 30 || Orderm<br>（オルデルム） || Anatomise! Rider!<br>Zeztz! Zeztz! Zeztz!<br>Orderm! || 全身的能力增強路會不斷提供次元流體，讓身體能迎合給予自己的指令最佳化<br>上半身的特殊再現裝置會詳細分析被改變的夢境事象和空間，之後在攻擊的同時利用固有能力分解及重新構築夢境或接觸到的目標將之還元成本來的樣子，並會維持其秩序防止它再被竄改 || オルデルム・エンダー || 自Catastrom變化時[[仮面ライダーカブト|Catastrom的外裝甲會全數排除]]
+<!-- |-
+| 33 || Exdream<br>（エクスドリーム） || Exdreamrise || Absolute! Rider!<br>Zeztz! Zeztz! Zeztz! Zeztz!<br>Exdream! || ? || ? || -->
 |-
 | HBV || Impact Zeroider<br>（インパクトゼロイダー） || Zeztz & Code Zeroider || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Special! || ? || ? || <s>偽裝真差，一看就知道是四肢加上Code Zeroider皮套+嘴巴換成Plasma Booster的Physicam Impact</s>
 |}
@@ -564,6 +571,8 @@
 | 18 || Gun Shadow<br>（ガンシャドウ） || Gun || Wahahahahaha!<br>Ri-Ri-Ri-Rider! Nox! Nox! Nox!<br>Gun! || 右前臂變成シャドウアームガンロウジョン，能發射子彈 || ガンリデンプション || 
 |-
 | 29 || Wolf Shadow<br>（ウルフシャドウ） || Wolf || Wahahahahaha!<br>Ri-Ri-Ri-Rider! Nox! Nox! Nox!<br>Wolf! || 右前臂變成シャドウアームウルフロウジョン，外形鋒利擅於斬擊 || ウルフリデンプション ||
+<!-- |-
+| ? || Midnight Shadow<br>（ミッドナイトシャドウ） || ? || ? || ? || ? || -->
 |}
 {{hidef|}}
 
@@ -645,7 +654,7 @@
 |-
 | 31 || {{color|white|black|Darkness<br>（ダークネス）}} || 自Zero的惡夢中誕生，擁有否定Zeztz將之歸於無的惡夢力量的Capsem ||
 <!-- |-
-| 29 || {{color|white|grey|コード}} || ? || -->
+| 33 || {{color|yellow|red|Exdreamrise<br>（エクスドリームライズ）}} || ? || -->
 |-
 | HBV || {{color|black|#f0f0f0|Zeztz & Code Zeroider<br>（ゼッツ&コードゼロイダー）}} || ? || 由灌注了Code Zeroider力量的[[棒球]]變成
 |}
@@ -747,7 +756,7 @@
 *** 裝入Dual Mare Capsem：アルティメット・オーバー・フィニッシュ
 ** <s>明明是超長一把的大砲，DX玩具卻縮小成比較大的手槍</s>
 
-==== Nox Knight ====
+==== Nox Knight, Nox ====
 * Knight Invoker（ナイトインヴォーカー）
 ** CODE對Zeztz Driver進行逆向工程後以得到的數據研發的「Invoke Knight系統（インヴォークナイトシステム）」發動器，透過裝填擁有不同的Capsem能在擬裝後使用對應的固有能力
 *** 外殼同樣以グドナイト製造，其獨特形狀能承受Capsem強大的旋轉力、把力量還元到內置的次元力產生器「ナイトラウンダー」裡讓出力變得穩定
@@ -766,14 +775,14 @@
 ** 當賢政還是CODE特務的時期由CODE給予的行動通信終端
 ** 機能與Zeztz Phone基本相同，白色外殼則是以CODE研發的特殊輕量金屬製造
 ** <s>偽裝真差，一看就知道是塗成白色的Zeztz Phone</s>
+<br>
 
-==== Nox ====
 * Nox Driver（ノクスドライバー）
 ** 由女士給予諾克斯，基於Lady Gauntlet（レディガントレット）研發、透過裝填擁有不同的Capsem讓變身者得到不同惡夢使者的力量、強化變身者的變身器
 *** 外殼以特異礦物「ルナビム」製造，會與被關在Capsem內的惡夢之力共鳴並增幅還流，讓次元力發生器「リベレーションジェネレータム」能全力全開
 ** 把Capsem裝入中央的カプセムソケット後按下位於上方的スピナトリガム解鎖，之後以逆時針方向旋轉變身器本體就能執行變身或發動必殺技的程序
 
-=== Lord ===
+==== Lord ====
 * Lord Invoker（ロードインヴォーカー）
 ** Knight Invoker的發展強化型「Invoke Lord系統（インヴォークロードシステム）」的發動器，外殼同樣以グドナイト製造，在堅持泛用及量產性之上大幅提升了出力
 ** 把Capsem裝入中央的カプセムソケット後按下位於左上方的インヴォークイジェクター，再轉動該Capsem生成克里福德環讓次元力產生器從中提取部分多次元能量
