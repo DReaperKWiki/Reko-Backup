@@ -206,7 +206,7 @@ PC
 |-
 |銀翼殺手Blackout 2022||2017年9月||CygamesPictures||網路動畫||1||CygamesPictures首部獨立製作的動畫
 |-
-|強風吹拂 || 2018年10月 || Production I.G || rowspan="13" |TV動畫 || 23 ||
+|強風吹拂 || 2018年10月 || Production I.G || rowspan="15" |TV動畫 || 23 ||
 |-
 |獵獸神兵 || 2019年7月 || MAPPA || 12 ||
 |-
@@ -234,6 +234,8 @@ PC
 |涅庫羅諾美子的宇宙恐怖秀 || 2025年7月 || Studio五組 || 12 ||
 |-
 |ワールド イズ ダンシング || 2026年7月 || CygamesPictures ||  || 
+|-
+|神樂鉢 || 2027年4月 || Cypic<ref>2026年4月6日後CygamesPictures變更名稱</ref> ||  || 
 |-
 |愛麗絲與特蕾絲的虛幻工廠 || 2023年9月15日 || MAPPA || 劇場版 ||  ||
 |-
