@@ -5120,6 +5120,19 @@
 ! [[山中老人 (Fate)|阿茲拉伊爾]]
 | 冠位戴冠戰:Assassin
 | 山中老人年輕時期的姿態。冠位戴冠戰以「蒼藍的阿茲拉伊爾」名義作為冠位試練從者出場。<br>有專屬立繪與專屬戰鬥模組，CV為金本涼輔，繪師為Ryota-H。職階為Assassin。
+|-
+! [[無名的Assassin (Fate)‎‎|無名的Assassin]]
+| rowspan=4|期間限定活動《剽滅十字前線 安條克》
+| 習得歷代哈桑技藝的狂信者，於Fate/strange Fake作為偽Assassin出場。<br>有專屬立繪，模組為大幽靈。
+|-
+! [[Jack the Ripper (Fate/strange Fake)|開膛手傑克]]
+| Berserker職階的開膛手傑克，於Fate/strange Fake作為偽Berserker出場。<br>由於開膛手傑克的真相眾說紛紜，而具有能夠擬態成其他人事物的能力。<br>但在本作卻因為開膛手傑克的模樣在這個世界已經被固定的緣故導致其只能擬態為與Assassin版本同樣的小女孩樣貌，立繪也是直接沿用。
+|-
+! [[Alexandre Dumas (Fate)|大仲馬]]
+| 法國著名作家，一生創作超過150部小說和25部劇作，於Fate/strange Fake作為偽Caster出場。
+|-
+! 黑獅子
+| 有專屬立繪與專屬戰鬥模組，職階為Avenger。<br><s>[[黃金卿]]</s>
 |}
 
 == 其他從者 ==
