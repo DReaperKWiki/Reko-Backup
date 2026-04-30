@@ -209,8 +209,7 @@
 * '''{{ruby|童女歌頌的浮華帝政|Laus St. Claudias}}'''
 * '''{{ruby|終幕的薔薇劃破星夜|Fax Caelestis}}'''
 
-==== <s>其他</s> ====
-** <s>'''[[AQUARION|空間轉移]]'''：A－ Element能力，經Aquarion的增幅後可以令一整部機體瞬間移動</s>
+
 
 === 寶具 ===
 {| class="wikitable" style="margin: 1em auto 1em auto;"
