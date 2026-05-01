@@ -143,6 +143,13 @@ File:Dharc the Dark Charmer.jpg
 檔案:Lyna_the_Light_Charmer_2nd.png
 檔案:Dharc_the_Dark_Charmer_2nd.png
 </gallery>
+<gallery widths="200px" heights="200px">
+檔案:Aussa the Earth Charmer 3rd.jpg
+檔案:Eria the Water Charmer 3rd.jpg
+檔案:Hiita the Fire Charmer 3rd.jpg
+檔案:Wynn the Wind Charmer 3rd.jpg
+</gallery>
+
 * 作為該系列核心的靈使怪獸。
 * 最基本的怪獸群，效果均為反轉後強奪對手怪獸控制權。
 
@@ -242,6 +249,7 @@ File:Dharc the Dark Charmer, Gloomy.jpg
 *# 連接召喚而來的這張卡，被戰鬥或對手的卡牌效果破壞的場合才能發動。將牌組中1隻守備力1500以下的○屬性怪獸加入手牌。
 
 ==== 四花繚亂的靈使（四花繚乱の霊使い） ====
+[[檔案:Four Charmers in Profusion.jpg|250px|right]]
 * 收錄於補充包1304(BLZD)。
 
 * 作為LINK-4的連接怪獸，召喚條件只需要怪獸2隻以上即可。
@@ -252,6 +260,7 @@ File:Dharc the Dark Charmer, Gloomy.jpg
 *** <s>沒有限制不能用作儀式召喚，所以……</s>
 
 * 卡圖依然是四位最初的靈使齊聚的畫面<s>，光闇繼續被孤立</s>
+* 設定圖相關資訊：[[檔案:G-q qC-bQAAdNev.jpg|300px|none]]
 ===== 卡片資訊 =====
 * 連接／效果怪獸<br>魔法使族／↙←→↘／攻擊力1850／LINK-4
 ** 連接素材：至少2隻怪獸    
@@ -262,6 +271,7 @@ File:Dharc the Dark Charmer, Gloomy.jpg
 
 === 融合怪獸 ===
 ==== 大輪的靈使（大輪の霊使い） ====
+[[檔案:Charmers of the Grand Circle.jpg|250px|right]]
 * 收錄於CH02「THE CHRONICLES DECK 精霊術の使い手」。
 * 本家第一隻融合怪獸，召喚條件要求包含【靈使】【憑依裝著】怪獸至少2隻即可。
 ** 擁有融合召喚成功的場合就能根據融合素材屬性的數量選擇處理效果，分別為：增加800攻擊力、從牌組檢索【憑依】魔陷、返回場上1張卡、從墓地復活1隻魔法使族怪獸。
