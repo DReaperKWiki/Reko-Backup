@@ -3,8 +3,14 @@
 {|class="wikitable" style="margin:auto;"
 |本條目是一個仍在編輯中的詞條，歡迎各位慈黨加以補完。
 |}
+{| align="right" border="1"
+|-
+|<gallery widths="250px" heights="250px">
+檔案:藤島慈_立繪.png|在校生
+檔案:畢業慈.jpg|畢業生
+</gallery>
+|}
 
-[[檔案:藤島慈_立繪.png|250px|right]]
 == 解說 ==
 * 《[[LoveLive! 蓮之空女學院學園偶像俱樂部]]》的主要角色
 * 代表色：{{color||#C8C2C6| 天使白 }}（エンジェルホワイト）
