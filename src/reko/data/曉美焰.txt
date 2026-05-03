@@ -1,8 +1,10 @@
 {{h0|暁美ほむら/曉美焰{{censored|/Homulilly}}}}
 
-{| class="wikitable" style="margin: 1.5em auto;" 
+{| class="wikitable" style="margin: 1.5em auto;text-align:center" 
 |-
 | 以下含有部分的劇情，沒看過原作又不想被'''[[世界|時間暫停]]加上[[Emiya (Fate/stay night)|無限之軍武製]]'''打爆的請不要繼續看下去。 
+|-
+| '''本條目並無發布虛淵警報的必要'''
 |}
 
 [[File:img4854.png|thumb|right]]
