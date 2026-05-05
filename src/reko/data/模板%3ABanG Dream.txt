@@ -11,7 +11,7 @@
 | groupstyle = background: hotpink; text-align: center; vertical-align: middle;
 |liststyle  = text-align: left;
 |group1 = TV動畫
-| list1 = [[BanG Dream! (無印)|BanG Dream!]]・[[BanG Dream!It's MyGO!!!!!]]・[[BanG Dream!Ave Mujica]]・バンドリ！ ゆめ∞みた
+| list1 = [[BanG Dream! (無印)|BanG Dream!]]・[[BanG Dream!It's MyGO!!!!!]]・[[BanG Dream!Ave Mujica]]・[[BanG Dream! YUME∞MITA]]
 |group2 = 迷你動畫
 |list2 = [[BanG Dream!Pastel Life| Pastel Life]]・[[BanG Dream!ガルパ☆ピコ|ガルパ☆ピコ]]
 |group3 = 劇場版動畫

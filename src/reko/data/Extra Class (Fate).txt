@@ -107,7 +107,7 @@
 |-
 | [[Hēraklēs (Fate)|阿爾喀德斯]] || [[Fate/strange Fake]] || 歐洲：希臘神話 ||希臘神祇|| 實際上的職階是[[Archer (Fate)|Archer]]，但經由黑泥改造後，性質變得比起Archer更近似Avenger
 |-
-| [[The Count of Monte Cristo (Fate)|愛德蒙‧唐泰斯]] || rowspan="23" | Fate/Grand Order ||歐洲：《基度山恩仇記》 || 陷害他、將他打入牢獄的人 || 世界上最著名的復仇鬼
+| [[The Count of Monte Cristo (Fate)|愛德蒙‧唐泰斯]] || rowspan="26" | Fate/Grand Order ||歐洲：《基度山恩仇記》 || 陷害他、將他打入牢獄的人 || 世界上最著名的復仇鬼
 |-
 | [[Jeanne d'Arc (Fate)|貞德〔Alter〕]] ||歐洲：英法百年戰爭 || 法國人民 || 原為吉爾．德．雷向聖杯許願後的產物，原本是不存在的可能性、後來調整靈基，由Ruler改為Avenger
 |-
@@ -142,6 +142,12 @@
 || [[Marie Antoinette (Fate)|瑪麗‧安東尼［Alter］]]  || 法國：史實 || 法國 || 
 |-
 || [[The Count of Monte Cristo (Fate)|基督山伯爵]] || 歐洲：《基度山恩仇記》 || 陷害他、將他打入牢獄的人 || 為在巴黎展開復仇行動的時期
+|-
+|| [[Báthory Erzsébet (Fate)|終焉的伊莉莎白]]  || TYPE-MOON原創 ||  || {{censored|從者宇宙的伊莉莎白}}
+|-
+|| [[藤堂平助 (Fate)|藤堂平助]]  || 日本：幕末時代 || 新選組 || {{censored|修復靈基的過程中加裝了機巧義肢補全缺失的手腳}}
+|-
+|| [[John Lackland (Fate)|失地王約翰]]  || 歐洲：金雀花王朝 ||  || {{censored|靈基外殼聚合了歷史上的暴君、愚王}}
 |-
 || [[Britomart (Fate)|布里托瑪爾提［Alter］]]  || 文學：《仙后》 ||  || 並非身為妖精騎士的二代目，而是真正的初代布里托瑪爾提
 |-
