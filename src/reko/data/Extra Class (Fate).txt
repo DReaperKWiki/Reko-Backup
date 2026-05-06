@@ -1,5 +1,4 @@
 {{h0| Extra Class（特殊職階/エクストラ クラス）}}
-{{synchro|New Komica wiki (仮)|2024年04月30日 15:44}}
 
 {| class="wikitable" style="margin: 1em auto 1em auto;"
 |-
