@@ -82,7 +82,7 @@
 
 === 寶具 ===
 {{Fate Noble Phantasm
-	|image=		
+	|image=		https://i.meee.com.tw/FFTof6o.gif
 	|color=		#FF1493
 	|bgcolor=	pink
 	|name=		讓枯木再度開花吧
