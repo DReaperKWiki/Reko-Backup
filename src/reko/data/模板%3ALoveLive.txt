@@ -1,0 +1,53 @@
+<noinclude>{{documentation}}
+</noinclude>{{Navbox
+|listclass=hlist
+|name   = LoveLive
+|title  = [[LoveLive!]]系列
+| state = uncollapsed
+| titlestyle  = background: orange; text-align: center; vertical-align: middle;
+| groupstyle = background: orange; text-align: center; vertical-align: middle;
+|group1 = 作品
+|list1  = [[LoveLive!(無印)|LoveLive!/無印]]（μ's）・[[LoveLive! Sunshine!!|Sunshine!!]]/[[幻日的夜羽]]（Aqours、Saint Snow）・[[LoveLive! 虹咲學園學園偶像同好會|虹咲學園學園偶像同好會]]・[[LoveLive! Superstar!!|Superstar!!]]（Liella!）・[[LoveLive！School Idol Musical|School Idol Musical]]・[[LoveLive! 蓮之空女學院學園偶像俱樂部|蓮之空女學院學園偶像俱樂部]]・[[IKIZULIVE！LOVELIVE! BLUEBIRD|BLUEBIRD]]
+|group2 = 角色
+|list2 = {{Navbox|child|
+| titlestyle  = background: orange; text-align: center; vertical-align: middle;
+| groupstyle = background: orange; text-align: center; vertical-align: middle;
+|group1 = μ's
+|list1 = [[高坂穗乃果|穗乃果]]・[[絢瀨繪里|繪里]]・[[南小鳥|小鳥]]・[[園田海未|海未]]・[[星空凜|凜]]・[[西木野真姬|真姬]]・[[東條希|希]]・[[小泉花陽|花陽]]・[[矢澤妮可|妮可]]
+|group2 = Aqours、Saint Snow
+|list2 = [[高海千歌|千歌]]・[[櫻內梨子|梨子]]・[[松浦果南|果南]]・[[黑澤黛雅|黛雅]]・[[渡邊曜|曜]]・[[津島善子|善子]]・[[國木田花丸|花丸]]・[[小原鞠莉|鞠莉]]・[[黑澤露比|露比]]・[[鹿角聖良|聖良]]・[[鹿角理亞|理亞]]
+|group3 = 虹咲學園學園偶像同好會
+|list3 = [[上原步夢|步夢]]・[[中須霞|霞]]・[[櫻坂雫|雫]]・[[朝香果林|果林]]・[[宮下愛|愛]]・[[近江彼方|彼方]]・[[優木雪菜|雪菜]]・[[艾瑪‧薇蒂|艾瑪]]・[[天王寺璃奈|璃奈]]・[[三船栞子|栞子]]・[[米雅‧泰勒|米雅]]・[[鐘嵐珠|嵐珠]]・[[高咲侑|侑（LLAS的「你」）]]
+|group4 = Liella!
+|list4 = [[澁谷香音|香音]]・[[唐可可|可可]]・[[嵐千砂都|千砂都]]・[[平安名菫|菫]]・[[葉月戀|戀]]・[[櫻小路希奈子|希奈子]]・[[米女芽衣|芽衣]]・[[若菜四季|四季]]・[[鬼塚夏美|夏美]]・[[葳恩·瑪格麗特|瑪格麗特]]・[[鬼塚冬毬|冬毬]] 
+|group5 = 蓮之空女學院學園偶像俱樂部
+|list5 = 
+{{Navbox|child|
+| titlestyle  = background: orange; text-align: center; vertical-align: middle;
+| groupstyle = background: orange; text-align: center; vertical-align: middle;
+|group1 =101期
+|list1  = [[大賀美沙知|沙知]]
+|group2 =102期
+|list2  = [[乙宗梢|梢]]・[[夕霧綴理|綴理]]・[[藤島慈|慈]]
+|group3 =103期
+|list3  = [[日野下花帆|花帆]]・[[村野沙耶香|沙耶香]]・[[大澤瑠璃乃|瑠璃乃]]
+|group4 =104期
+|list4  = [[百生吟子|吟子]]・[[徒町小鈴|小鈴]]・[[安養寺姬芽|姬芽]]
+|group5 =105期
+|list5  =[[塞拉斯・柳田・利林費爾德|塞拉斯]]・[[桂城泉|泉]]
+|group6 =106期
+|list6  = [[錦上舞香|舞香]]・[[令澤葵|葵]]・[[紫輪美音|美音]]
+}}
+|group6 = いきづらい部
+|list6 = [[高橋波爾卡|波爾卡]]・[[麻布麻衣|麻衣]]・[[五桐玲|玲]]・[[駒形花火|花火]]・[[金澤奇跡|奇跡]]・[[調布乃理子|乃理子]]・[[春宮悠可里|悠可里]]・[[此花輝夜|輝夜]]・[[山田真綠|真綠]]・[[佐佐木翔音|翔音]]
+|group7 = 其他
+|list7 = [[LoveLive! 學園偶像祭/轉入生一覽|SIF轉入生]]・[[AiScReam]]
+}}
+|group3 = 音樂
+|list3 = [[LoveLive!/音樂作品|μ's]]・[[LoveLive! Sunshine!!/音樂作品|Aqours、Saint Snow]]・[[LoveLive! 虹咲學園學園偶像同好會/音樂作品|虹咲學園學園偶像同好會]]（[[繚乱！ビクトリーロード]]）・[[LoveLive! Superstar!!/音樂作品|Liella!]]・[[LoveLive! 蓮之空女學院學園偶像俱樂部/音樂作品|蓮之空女學院學園偶像俱樂部]]・[[IKIZULIVE！LOVELIVE! BLUEBIRD/音樂作品|いきづらい部]]・[[LoveLive!/跨企劃音樂作品|跨企劃]]
+|group4 = 遊戲
+|list4 = [[LoveLive! 學園偶像祭]]・[[LoveLive! 學園偶像祭 ALL STARS]]・[[LoveLive! 官方卡片遊戲]]
+|group5 = 其他
+|list5 = [[LoveLive!/系列傳統、慣例一覽|系列傳統、慣例一覽]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

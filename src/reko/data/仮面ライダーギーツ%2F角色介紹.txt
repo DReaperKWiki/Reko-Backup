@@ -1061,6 +1061,8 @@
 ! 初登場話數 !! 形態名稱 !! 使用Raise Buckle !! 音效 !! 必殺技 !! 備註
 |-
 | 34 || Armed Claw<br>（アームドクロー） || Claw || Armed Claw<br>Ready Fight! || クローストライク ||
+|-
+| Girls Remix || Ninja Form<br>（ニンジャフォーム）|| Ninja ||Ninja!<br>Ready Fight! || ニンジャストライク || <s>借老弟的帶扣來用</s>
 |}
 
 ==== 假面騎士Gya-Go（仮面ライダーギャーゴ） ====

@@ -95,7 +95,7 @@
 |group6 = [[仮面ライダーガヴ/角色介紹|<span style="color:black">Gavv</span>]]
 |list6= [[井上生真|ショウマ]]・[[辛木田絆斗]]・[[Rakia Amarga|ラキア・アマルガ]]・[[酸賀研造]]・[[Lango Stomach|ランゴ・ストマック]]
 |group7 = [[仮面ライダーゼッツ/角色介紹|<span style="color:black">Zeztz</span>]]
-|list7=[[万津莫]] ・[[諾克斯|ノクス]]・[[奇克|ジーク]]
+|list7=[[萬津莫|万津莫]] ・[[諾克斯|ノクス]]・[[奇克|ジーク]]
 }}
 |group4 =其他
 |list4= 
