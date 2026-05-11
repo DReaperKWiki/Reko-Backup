@@ -1,0 +1,372 @@
+== 四代本篇 ==
+
+=== 教學戰役（英格蘭，電腦版） ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+|1
+|Intro Tutorial
+|
+|}
+
+=== 教學戰役（法蘭西，主機版） ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+| rowspan="5" |The Rise of a King
+|Rebellion in Normandy
+|
+|-
+|The Battle of Val-es-Dunes
+|
+|-
+|A Township in Brittany
+|
+|-
+|The Siege of Dinan
+|
+|-
+|The Norman Invasion
+|
+|}
+
+=== 諾曼人/The Normans（英格蘭） ===
+ At the start of the Norman Campaign, William of Normandy sets forth on the hard-fought road to conquer England and become its new king. What follows is an epic story of succession, family conflict, anarchy, and rebellion.
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+| rowspan="2" |征服
+Conquest
+|The Battle of Hastings
+|1066 黑斯廷斯戰役
+|-
+|North to York
+|1069 北上約克
+|-
+| rowspan="3" |佔領
+Possession
+|The Fall of Bayeux
+|1105 巴約陷落
+|-
+|The Battle of Tinchebray
+|1106 坦什布賴戰役
+|-
+|The Battle of Brémule
+|1119 布雷穆勒戰役
+|-
+| rowspan="2" |無政府狀態
+The Anarchy
+|First Battle of Lincoln
+|1141 第一次林肯戰役
+|-
+|The Siege of Wallingford
+|1153 瓦靈福德圍城戰
+|-
+| rowspan="3" |叛亂
+Rebellion
+|The Siege of Dover
+|1216 多佛圍城戰
+|-
+|The Siege of Rochester
+|1215 羅徹斯特圍城戰
+|-
+|Second Battle of Lincoln
+|1217 第二次林肯戰役
+|}
+
+=== 莫斯科的崛起/The Rise of Moscow（羅斯） ===
+ The story of Moscow's rise begins at a humble outpost on the Moskva River and ends with the emergence of a new superpower. Playing as the Rus and their iconic leaders, players will battle the relentless brutality of the Mongol invasion, unite allies and foes, and force a change of fortune – from subjugation to independence.
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+|要塞到城市
+Fort to City
+|Rebuilding Moscow
+|1238 重建莫斯科
+|-
+| rowspan="2" |城市到國家
+City to State
+|Tribute
+|1375 進貢
+|-
+|The Battle of Kulikovo
+|1380 庫里科沃戰役
+|-
+| rowspan="3" |國家到帝國
+State to Empire
+|Hold Against the Horde
+|1382 抵抗金帳汗國
+|-
+|Fall of the Novgorod Republic
+|1478 諾夫哥羅德共和國之殤
+|-
+|Great Stand on the Ugra River
+|1480 烏格拉河對峙戰
+|-
+| rowspan="2" |帝國到超級大國
+Empire to Superpower
+|Moscow versus Lithuania
+|1515 莫斯科對立陶宛
+|-
+|The Siege of Kazan
+|1552 喀山圍城戰
+|}
+
+=== 百年戰爭/The Hundred Years War（法蘭西） ===
+ Ravaged by years of English raiding, France must gather its might to resist the onslaught. Over the course of a century, this fragile country evolves by virtue of chivalric knighthood, the fierce determination of a peasant girl named Jeanne d'Arc, and the explosive force of cannon fire. During the 100 Years War campaign, players will defend France, turn the tide of war, and forge the foundations of the French nation.
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+| rowspan="2" |騎士精神
+Chivalry
+|The Combat of the Thirty
+|1351 三十人之戰
+|-
+|The Siege of Paris
+|1360 巴黎圍城戰
+|-
+| rowspan="2" |紛擾
+Disorder
+|France in Chaos
+|1364 動盪法蘭西
+|-
+|The Battle of Pontvallain
+|1370 彭瓦揚戰役
+|-
+| rowspan="2" |背水一戰
+Desperation
+|The Siege of Orléans
+|1429 奧爾良圍城戰
+|-
+|The Battle of Patay
+|1429 帕泰戰役
+|-
+| rowspan="2" |位居上風
+Ascendancy
+|Retake Normandy
+|1448 奪回諾曼第
+|-
+|The Battle of Formigny
+|1450 福爾米尼戰役
+|}
+
+=== 蒙古帝國/The Mongol Empire（蒙古） ===
+ Under the unifying rule of Genghis Khan, warring Mongolian tribes came together and forged the largest contiguous land empire the world has ever known. What the Mongols lacked in resources, they made up for with tactics, martial skills, and adaptation. The Mongol campaign takes players through the thunderous rise of this awe-inspiring empire.
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+| rowspan="3" |震驚與敬畏
+Shock and Awe
+|The Battle of the Kalka River
+|1223 迦勒迦河戰役
+|-
+|The Great Wall
+|1213 長城
+|-
+|The Battle of Zhongdu
+|1215 中都戰役
+|-
+| rowspan="3" |征服
+Conquest
+|The Siege of Kiev
+|1240 基輔圍城戰
+|-
+|The Battle of Liegnitz
+|1241 里格尼茨戰役
+|-
+|The Battle of Mohi
+|1241 蒂薩河戰役
+|-
+| rowspan="3" |統治
+Domination
+|The Song Fortress
+|1267 大宋咽喉
+|-
+|Blockade at Lumen Shan
+|1268 鹿門山之障
+|-
+|The Fall of Xiangyang
+|1273 襄陽城破
+|}
+
+=== 戰爭藝術/Art of War ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+| rowspan="6" |Training
+|Early Economy
+|
+|-
+|Late Economy
+|
+|-
+|Basic Combat
+|
+|-
+|Early Siege
+|
+|-
+|Late Siege
+|
+|-
+|Advanced Combat
+|
+|-
+| rowspan="2" |Civilization
+|Ottomans
+|
+|-
+|Malians
+|
+|}
+
+== 《蘇丹的崛起》 ==
+
+=== 蘇丹崛起/The Sultans Ascend（阿拔斯王朝、阿尤布王朝） ===
+ Jump in and celebrate the successful strategies and victories of prominent Muslim leaders in each chapter: Tughtekin, Nur al-Din, Shirkuh, Saladin, Qutuz, Baibars, Shajar al-Durr, and Barsbay.
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+|入侵
+Invasion
+|The Defense of Tyre
+|1111 泰爾保衛戰
+|-
+| rowspan="3" |薩拉丁
+Saladin
+|Into Egypt
+|1163 進入埃及
+|-
+|Raiders of the Red Sea
+|1183 紅海突襲者
+|-
+|The Horns of Hattin
+|1187 海丁之角
+|-
+| rowspan="3" |從奴隸到蘇丹
+From Slaves to Sultans
+|The Battle of Mansurah
+|1250 曼蘇拉之戰
+|-
+|The Battle of Ayn Jalut
+|1260 艾因賈魯特戰役
+|-
+|The Siege of Acre
+|1291 阿克里攻城戰
+|-
+|地中海海盜
+Pirates of the Mediterranean
+|The Invasion of Cyprus
+|1426 入侵塞浦路斯
+|}
+
+== 《十字騎士與玫瑰騎士》 ==
+
+=== 歷史戰役/Historical Battles（聖殿騎士團、蘭開斯特家族） ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+|1
+|Montgisard
+|1177 蒙吉薩
+|-
+|2
+|Safed
+|1266 薩法德
+|-
+|3
+|Agincourt
+|1415 阿金庫爾
+|-
+|4
+|Towton
+|1461 陶頓
+|}
+
+== 《東方王朝》 ==
+
+=== 煉獄模式/The Crucible ===
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+|1
+|Contested Coastline
+|
+|-
+|2
+|Daimyo Dynamics
+|
+|-
+|3
+|Forest Lords
+|
+|-
+|4
+|Watch Your Steppe
+|
+|}
+
+== 《岳飛傳》 ==
+=== 岳飛傳/Yue Fei's Legacy（中國） ===
+ Live the legacy of Yue Fei as he leads the Song Dynasty forces in a fight for survival against the ruthless Jin Dynasty invaders with his fellow commander, Han Shizhong, in a bold campaign. Strike back after the northern Chinese heartland falls and rally shattered armies into an impassioned stand for your country’s survival against a seemingly unstoppable enemy.
+{| class="wikitable" style="margin: 1.5em auto;" 
+!關卡
+!原文
+!標題
+|-
+| rowspan="3" |星火希冀
+Kindling Hope
+|Escape to Yingtianfu
+|1127 逃往應天府
+|-
+|Defense of Jiankang
+|1129 建康保衛戰
+|-
+|Battle of Huangtiandang
+|1130 黃天蕩之戰
+|-
+| rowspan="3" |力挽狂瀾
+Turning the Tide
+|Southern Rebels
+|1131 南方叛軍
+|-
+|Siege of De'an
+|1132 德安圍城戰
+|-
+|Northern Expedition
+|1134 北伐
+|-
+| rowspan="2" |碧血忠魂
+The Ultimate Sacrifice
+|Central Plains
+|1135 中原
+|-
+|Battle of Yancheng
+|1140 郾城之戰
+|}{{AoE}}
+
+== 備註 ==
+<references/>
+
+[[分類:世紀帝國]]
+[[分類:未整理條目]]
