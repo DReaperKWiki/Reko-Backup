@@ -1262,7 +1262,7 @@
 [[File:Dbd_chara_k_fnaf-anim.png|x200px]]
 * 出處：遊戲{{wp|佛萊迪餐館之五夜驚魂系列|《佛萊迪餐館之五夜驚魂3》 (Five Nights at Freddy's 3)|lang=zh-tw}}
 * 原名：{{censored|威廉・阿夫頓  (William Afton)}}
-* 暱稱：無？
+* 暱稱：彈簧陷阱(Springtrap)
 * 武器：
 * 能力：
 ** 
@@ -1271,7 +1271,6 @@
 ** 
 ** 
 * 斬殺動作：{{censored|}}
-
 
 === 克拉蘇‎‎ The Krasue ===
 [[File:Dbd_chara_k_krasue.png|x200px|人類型態]] [[File:Dbd_chara_k_krasue2.png|x200px|飛頭蠻型態]]
