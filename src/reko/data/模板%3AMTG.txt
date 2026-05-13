@@ -1,0 +1,31 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = MTG
+|title  = [[魔法風雲會]]
+|titlestyle  = background: lightblue; text-align: center; vertical-align: middle;
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|groupstyle = background: #c9c9c9; text-align: center; width: 10%;
+|belowstyle = text-align: center;
+|oddstyle   = background: #ececec;
+|evenstyle  = background: #f9f9f9;
+|state      = expanded
+|group1 = 時空
+|list1  = [[多明納里亞]]・[[瑞斯]]・[[瑪凱迪亞]]・[[山德拉]]・[[非瑞克西亞]]・[[新非瑞克西亞|新非瑞克西亞(秘羅地)]]・[[神河]]・[[拉尼卡]]・[[洛溫及闇影荒原]]・[[阿拉若]]・[[贊迪卡]]・[[依尼翠]]・[[塞洛斯]]・[[韃契]]・[[翡歐拉]]・[[冥想時空]]・[[卡拉德許]]・[[阿芒凱]]・[[依夏蘭]]・[[艾卓]]・[[依克黎]]・[[凱德海姆]]・[[阿凱維沃]]・[[新卡佩納]]・[[賽費爾]]・[[蜃夢]]・[[瑞格沙]]・[[烏格薩]]・[[維林]]・[[光雷驛]]・[[斑隆洛]]・[[暮悲邸]]
+|group2 = 鵬洛客
+|list2 = {{Navbox|child|
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|groupstyle = background: #c9c9c9; text-align: center; width: 15%;
+|belowstyle = text-align: center;
+|oddstyle   = background: #ececec;
+|evenstyle  = background: #f9f9f9;
+|group1 = 守護者
+|list1 = [[傑斯‧貝連|傑斯]]・[[茜卓‧納拉|茜卓]]・[[基定‧尤拉|基定]]・[[妮莎‧瑞文|妮莎]]・[[莉蓮娜‧維斯|莉蓮娜]]・[[金鬃阿耶尼|阿耶尼]]・[[泰菲力·亞柯撒|泰菲力]]・[[卡婭‧卡希爾|卡婭]]
+|group2 = 舊世代
+|list2 = [[銀魔像卡恩|卡恩]]・[[尼可波拉斯]]・[[達肯]]・[[蓋雅朵妮‧迪哈達|迪哈達]]・[[妃雅麗茲]]・[[娜希麗]]・[[索霖‧馬可夫|索霖]]・[[撒拉]]・[[剎特]]・[[靈龍烏金|烏金]]・[[克撒]]・[[風華領主]]
+|group3 = 新世代
+|list3 = [[艾紫培‧提瑞|艾紫培]]・[[艾米娜圖]]・[[安戈斯]]・[[雅琳‧珂德|雅琳]]・[[安梭苛]]・[[巴席利‧柯特|巴席利]]・[[凱利斯]]・[[戴克‧費登|戴克]]・[[達雷迪]]・[[達夫黎‧肯恩|達夫黎]]・[[多密‧雷德|多密]]・[[多溫‧班恩|多溫]]・[[召獸使賈路|賈路]]・[[格蕊斯]]・[[華特莉]]・[[賈瑞‧卡薩隆|賈瑞]]・[[潔絲卡]]・[[漆月魁渡|魁渡]]・[[克蜜娜]]・[[奇奧拉]]・[[錘族的寇斯|寇斯]]・[[盧卡]]・[[娜爾施]]・[[尼科‧阿理斯|尼科]]・[[歐尼希茲]]・[[甌柯]]・[[拉爾‧查雷克|拉爾]]・[[羅婉‧肯理斯|羅婉]]・[[莎希莉‧萊伊|莎希莉]]・[[撒姆特]]・[[薩坎沃|薩坎]]・[[多美代]]・[[泰佑‧維拉達|泰佑]]・[[泰茲瑞]]・[[提勃]]・[[泰瓦‧科爾|泰瓦]]・[[凡瑟]]・[[薇薇安‧瑞德|薇薇安]]・[[瓦絲卡]]・[[飄萍]]・[[威爾‧肯理斯|威爾]]・[[芮恩]]・[[謝納戈斯]]・[[姜暘谷]]・[[沐燕靈]]
+}}
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

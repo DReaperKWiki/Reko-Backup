@@ -1,0 +1,12 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = KanColle
+|title  = [[艦隊Collection]]
+|group1 = 艦娘介紹
+|list1  = [[艦隊Collection/登場人物一覽-Part1|驅逐艦（神風級等）]]・[[艦隊Collection/登場人物一覽-Part2|驅逐艦（朝潮級等）]]・[[艦隊Collection/登場人物一覽-Part3|巡洋艦]]・[[艦隊Collection/登場人物一覽-Part4|戰艦/潛艦/海防艦/特務艦]]・[[艦隊Collection/登場人物一覽-Part5|空母/水上機母艦]]・[[艦隊Collection/登場人物一覽-Part6|海外艦]]・[[艦隊Collection/登場敵艦一覽|深海棲艦]]
+|group2 = 延伸平台作品
+|list2 = [[艦これArcade]]・[[艦隊Collection (動畫版)]]
+|group3 = 相關創作
+|list3 = [[艦隊Collection/延伸創作列表|延伸物和雜學]]・[[成句/ぽい|ぽい]]・[[黒い艦これ漫画]]・[[艦隊Collection/海外艦宿舍系列|海外艦宿舍系列]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

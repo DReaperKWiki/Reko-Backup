@@ -1,4 +1,5 @@
-[[檔案:Reiko_amemiya.webp|550px|置中]]
+<div class="plainlinks" style="text-align:center;">[//{{SERVERNAME}}/wiki/File:Reiko_amemiya_smaller.webp https://rekowiki.org/w/images/8/82/Reiko_amemiya_smaller.webp#fake.png]</div>
+
 <div style='text-align: center;'>'''Hello World. 歡迎你來到Reko Wiki，一個自由的繼承者的國度。'''</div>
 == 歡迎辭 ==
 

@@ -43,4 +43,4 @@
 | below      = <references />
 }}
 
-<noinclude>[[分類:賽馬娘 Pretty Derby|模板]]</noinclude>
+<noinclude>[[分類:特定主題使用模板]][[分類:賽馬娘 Pretty Derby|模板]]</noinclude>
