@@ -35,7 +35,7 @@
 '''多樣生命聖域'''：[[非靈長生存圈 通古斯聖域|非靈長生存圈 通古斯・聖域]] <br>
 '''Unknown Record'''：[[死想顯現界域 Traum|死想顯現界域 Traum -某個幻想的生與死-]] <br>
 '''Lostbelt No.7'''：[[黃金樹海紀行 Nahui Mictlan|黃金樹海紀行 太陽紀．米克特蘭 -統御惑星的存在-]] <br>
-'''[[人理終著點|終章]]{{censored|（Lostbelt No.0）}}'''：[[人理終著點|{{censored|人理詐稱天球　馬利斯．迦勒底亞斯}}]]
+'''終章{{censored|（Lostbelt No.0）}}'''：[[人理終著點|{{censored|人理詐稱天球 馬利斯．迦勒底亞斯}}]]
 |group4 = 奏章 Ordeal Call
 |list4  = '''序章'''：Ordeal Call <br>
 '''奏章I'''：[[虛數羅針內界 平面之月|虛數羅針內界 紙之月]] <br>

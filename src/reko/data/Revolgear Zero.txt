@@ -197,6 +197,13 @@
 * 自機造型變更
 ** 大師難度全破一次
 
+*TYPE-3 ~ TYPE-8機體解禁
+**TYPE-1、TYPE-2達成上述結局後偶數次依序解禁
+
+* 任務模式EX任務
+** 任務模式所有30個任務全破
+*** 須注意EX任務為高難度任務
+
 ==參考資料 ==
 
 * [https://store.steampowered.com/app/3941820/Revolgear_Zero/ 官網(Steam)]

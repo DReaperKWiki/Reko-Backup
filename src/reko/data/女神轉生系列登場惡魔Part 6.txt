@@ -1437,7 +1437,14 @@ D2（屍鬼）：宝石ちょうだい？、お願いがあるの→遊んでく
 |Type=魔人
 |Ali=DARK-NEUTRAL
 |Picture=
-[[檔案:EnNoOzuno SMTif.png|200px]]
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1En-no-Ozuno.png|真Ⅰ
+檔案:SMTifEn-no-Ozuno.gif|真if
+檔案:SMT4FEn-no-Ozuno.png|真ⅣF
+檔案:D2En-no-Ozuno.png|D2
+</gallery>
+</div>
 |Faction=萬能、電擊
 |Skill=真if：邪気の左手
 真ⅣF：ソウルドレイン、前鬼の斧、後鬼の水壁、孔雀の呪法<br>
