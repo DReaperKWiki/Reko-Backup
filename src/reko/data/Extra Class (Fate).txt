@@ -64,6 +64,8 @@
 |-
 |[[壱与 (Fate)|壹與]] || 日本：邪馬台 || 暗之巫女 || <s>暴力女Ruler6號，跟同鄉比起來這邊是用踢的</s>
 |-
+|[[Tezcatlipoca (Fate)|特斯卡特利波卡]] || 拉丁美洲：阿茲特克神話 || 主神 ||
+|-
 |[[Johanna (Fate)|女教皇瓊安]] || 歐洲：天主教 || {{censored|虛構的}}天主教教皇 || <s>暴力女Ruler7號，靈一靈二不只會拿手杖毆人還會變身成天翔十字鳳</s>
 |-
 |[[Mélusine (Fate)|美露莘]] || TYPE-MOON原創 || <s>襲向人理君的暴力</s> || 夏季泳裝仕樣<br><s>暴力女Ruler8號，據她所言，能當上Ruler的理由是她要求（物理）人理君讓自己擔任</s>
@@ -79,6 +81,9 @@
 |-
 | [[伊吹童子 (Fate)|伊吹童子]] || 日本：平安時期 || 大明神 || 
 |}
+
+*除了上述這些成員以外，曾明確提及具有Ruler適性的還有[[BB (Fate)|BB]]，但她想隨心所欲而會拒絕以這個職階為基礎的召喚。
+**此外，如果Ruler有冠位的話，那就會是[[Sir Galahad (Fate)|加拉哈德]]。
 
 =={{anchor|Avenger}} Avenger（復仇者/アベンジャー）==
 [[File:Avenger卡面.jpg|250px|right]]
@@ -146,7 +151,7 @@
 |-
 || [[藤堂平助 (Fate)|藤堂平助]]  || 日本：幕末時代 || 新選組 || {{censored|修復靈基的過程中加裝了機巧義肢補全缺失的手腳}}
 |-
-|| [[John Lackland (Fate)|失地王約翰]]  || 歐洲：金雀花王朝 ||  || {{censored|靈基外殼聚合了歷史上的暴君、愚王}}
+|| [[John Lackland (Fate)|失地王約翰]]  || 歐洲：金雀花王朝 || 故事 || 準確來說是作者和詩人對所有英雄、國王和神作出的改編對世界本身帶來的影響<br>{{censored|靈基外殼聚合了歷史上的暴君、愚王}}
 |-
 || [[Britomart (Fate)|布里托瑪爾提［Alter］]]  || 文學：《仙后》 ||  || 並非身為妖精騎士的二代目，而是真正的初代布里托瑪爾提
 |-
@@ -166,7 +171,7 @@
 |-
 | [[Louis XVII of France (Fate)|路易十七]] || Fate/Requiem || 法國：史實 || 法國 || 
 |}
-* 除了上述這些成員以外，曾明確提及具有Avenger適性的還有[[茶茶 (Fate)|茶茶]]<ref>曾在《帝都聖杯奇譚》中以「Avenger・淀」的名義出場，<s>本來以為只是搞笑劇情限定的職階，但卻</s>在之後實裝的魔王信長口中得知茶茶的確具有Avenger的適性。</ref>、[[Caenis (Fate)|凱妮絲]]和[[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞]]。
+* 除了上述這些成員以外，曾明確提及具有Avenger適性的還有[[茶茶 (Fate)|茶茶]]<ref>曾在《帝都聖杯奇譚》中以「Avenger・淀」的名義出場，<s>本來以為只是搞笑劇情限定的職階，但卻</s>在之後實裝的魔王信長口中得知茶茶的確具有Avenger的適性。</ref>、[[Caenis (Fate)|凱妮絲]]、[[Grand Duchess Anastasia Nikolaevna of Russia (Fate)|安娜塔西亞]]和[[Louhi (Fate)|婁希]]<ref>活動《ポホヨラのクリスマス・イブ 夢見るサンタとくるみ割り人形》第2幕前篇「シトナイ：『クラスは間違いなくバーサーカー。キャスターやアヴェンジャーじゃない。』」。</ref>
 ** 此外，戈爾貢曾表示[[Quetzalcoatl (Fate)|魁札爾科亞特爾]]也擁有Avenger的資質，[[Watcher (Fate/strange fake)|亞哈船長]]（暫定）也稱自己若被召喚出來會是Avenger。
 
 =={{anchor|Saver}} Saver（救世主/セイヴァー） ==
