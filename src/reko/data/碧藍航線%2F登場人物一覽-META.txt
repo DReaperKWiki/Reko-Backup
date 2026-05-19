@@ -394,7 +394,17 @@
 ==={{anchor|Akagi_META}}[[碧藍航線/登場人物一覽-重櫻#Akagi|赤城]](META)（あかぎ(META)/Akagi META）===
 [[檔案:Akagi META.png|x200px]]
 * 於活動「絳染む丹華の詠歌」劇情中初次登場。
+<!--
+==={{anchor|Elbe_META}}[[碧藍航線/登場人物一覽-鐵血#Elbe|易北]](META)（エルベ(META)/Elbe META）===
+[[檔案:Elbe META.png|x200px]]
+* 圖鑑編號：M0XX，艦種：輕母，SSR。
+* 於活動「聖印前の同盟」中登場，以限時建造及和關卡打撈出來的形式實裝。
 
+==={{anchor|Königsberg_META}}[[碧藍航線/登場人物一覽-鐵血#Königsberg|柯尼斯堡]](META)（ケーニヒスベルク(META)/Königsberg META）===
+[[檔案:Königsberg META.png|x200px]]
+* 圖鑑編號：M0XX，艦種：輕巡，SSR。
+* 在2026年6月的META信標戰中作為解析報酬實裝。
+-->
 <!--
 ==={{censored|黑標槍（標槍META？）}}===
 * {{censored|僅於設定集有圖片的黑化標槍，其餘一切未明。}}
