@@ -78,7 +78,8 @@
 * 另外在本作的說明書更是交代了Bydo的真正來歷（見上述Bydo一欄）
 * 除了推出在SFC上面，北美方面有推出GBA版本，由DSI Games/Raylight Studios負責移植
 ** 但GBA版移植度不如原本的SFC版本，很多內容也與SFC版有極大差別，此外BGM方面稍有劣化，部分演出（例如第一關開頭的出擊演出）也被刪減
-* 久違地在2025年12月宣布預定於2026年5月由ININ Games與TOZAI Games推出重製版《Dimensions III》
+* 久違地於2026年5月19日由ININ Games與TOZAI Games推出重製版《Dimensions III》，但本次製作方改成KRITZELKRATZ 3000
+** 結果可能因為趕工的緣故，本作推出不久就馬上大翻車：Force憑空蒸發、判定做壞等BUG和調整失誤滿天飛，令本次重製評價大打負評
 
 ===R-TYPE Δ（DELTA）===
 * 初出年分：1998年11月19日

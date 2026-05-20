@@ -1,0 +1,450 @@
+{{h0|Poppy Playtime / 波比的遊玩時間}}
+
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+|-
+|這是一個編輯中的條目，歡迎有興趣的編輯者補充。
+|-
+|以下含有部分劇透，如果不想{{censored|被造成玩具}}的話請不要繼續看下去。
+|}
+{{Grotesque}}
+[[檔案:PoppyPlaytime Logo.png|縮圖|右|Poppy Playtime]]
+
+= 解說 =
+* 由美國[[獨立遊戲]]開發商Mob Entertainment所開發及發行的第1人稱生存恐怖遊戲，於2021年10月12日發售。
+* 本作以章節形式每章獨立發售
+** 第一章「'''A Tight Squeeze'''」：2021年10月12日
+** 第二章「'''Fly in a Web'''」：2022年5月2日
+** 第三章「'''Deep Sleep'''」：2024年1月30日
+** 第四章「'''Safe Haven'''」：2025年1月30日
+** 第五章「'''Broken Things'''」：2026年2月18日
+* 本作亦推出不對稱對戰遊戲《Project: Playtime》的延伸作。
+* 是繼《[[Five Nights at Freddy's|佛萊迪餐館之五夜驚魂]]》後，另一部獨立遊戲以可愛玩具/人偶轉化成恐怖元素路線大獲成功。
+** 除了上述兩部外，另一部獨立遊戲《Bendy and the Ink Machine》亦是同類型作品中的佼佼者。
+* 本作亦受另一款獨立遊戲《[[Garten of Banban]]》<s>抄襲</s>借鑑
+** 本來有傳言《Garten of Banban》是因為《Poppy Playtime》第三章一直延遲發售招來不滿，而故意製作的作品，而且以極快速度從首次發行日期的2023年1月6日至《Poppy Playtime》第三章發售期間已經<s>粗製濫造</s>推出六個章節。{{ref|不過實際上跳過了第五章}}
+* 另外當時Mob Entertainment宣佈製作本作的NFT{{ref|非同質化代幣}}也招來玩家不滿。
+* {{twitter|mobgamesstudios|1788610816310489298|2024年10月5日宣佈本作電影化，由傳奇電影公司負責}}
+
+= 遊戲玩法 =
+* 本作以第1人稱探索進行，利用一種叫做GrabPack的工具進行解謎。
+** 在遭遇帶敵意的玩具攻擊時，亦需利用GrabPack協助擊退它們。
+* 除了一般解謎外，本作亦能收集散落各處的VHS錄影帶，了解本作遊戲的背景<s>，如同一眾同類型遊戲以Lore作為熱門賣點</s>
+
+= 劇情 =
+[[檔案:PoppyPlaytime Prologue.jpg|縮圖|右]]
+:主角是Playtime Co.的前員工，一天收到一個神秘包裹，當中有一盒{{youtube|Dn66Yx5OCfw|附有由介紹Playtime Co.暢銷玩具Poppy Playtime的影片及奇怪影像剪接而成的VHS錄影帶}}，
+:以及已經在十年前失蹤的Playtime Co.工作人員們寫給主角的一封信，提及他們依然在此，並要求主角回到Playtime Co.工廠「找花」。
+:回到廢棄的玩具工廠的主角，在籍由GrabPack的協助下，解開電力並探入工廠。
+:但是同時遭到展示在工廠大廳中央的Huggy Wuggy追殺，在一輪逃跑中擺脫了Huggy Wuggy，並在VHS曾閃過的地方，發現了被鎖在櫃中Poppy。
+:在釋放了Poppy後，在她協助下，主角繼續深入探索工廠，並從過程中了解到Playtime Co.的秘密和十年前被稱為「歡樂時刻（Hour of Joy）」的事件後，所有工作人員消失的真相…
+
+= 主要人物 =
+=== 主角 ===
+* 名字不詳，玩家操作的角色。
+* Playtime Co.的前員工，於「歡樂時刻」的事件發生前已離職，但在十年後收到了本應已經消失的工作人員寄來的信而回到Playtime Co.玩具工廠。
+* 回到工廠的主角在GrabPack的協助下探入探索已廢棄的工廠，並遭到如同怪物的Huggy Wuggy攻擊。
+* 在擺脫Huggy Wuggy後，於一間神秘房間的玻璃箱中，找到被鎖上的Poppy，並在Poppy協助下，深入工廠更深處…
+* {{censored|從受到Catnap的紅色氣體影響時的幻覺推測，主角在離職前屬於職位相當高的員工，因此非常清楚在Playtime Co.背後的人體實驗。}}
+** {{censored|似乎本來有某種方式能阻止人體實驗繼續或是「歡樂時刻」發生，但主角最後卻沒有出現，招致慘劇。}}
+** {{censored|有玩家推測，主角可能是Playtime Co.生產部主管}}
+*** {{censored|在玩具工廠有五條主管各自名字的滑道，但只有生產部主管那一條沒有了名字。}}
+* {{censored|經過一連串冒險，在The Prototype的誤導下，炸毀了工廠的庇護所，掉到工廠最高級別保安設施，再次遇上了Huggy Wuggy……}}
+
+=== Poppy Playtime ===
+[[檔案:Poppy Playtime Doll.png|縮圖|右|Poppy Playtime]]
+: {{censored|實驗編號：不明}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}}
+* 1950年Playtime Co.最初生產的的玩具。
+* 本作中泛指於主角在工廠中遇到的個體。
+** 一般稱為Poppy，在一眾玩具中少數不用進食便能生存的個體。
+* 原本鎖在一間神秘房間的玻璃箱中，被主角找到後甦醒。
+** {{censored|最初遊戲推出時只是單純的玻璃箱，但後續更新時，裡面充斥和Catnap的紅色氣體相似的氣體。}}
+* 因為主角把她從箱中解救出來，所以作為感謝而助主角逃出工廠，但途中遭到Mommy Long Legs挾持帶走。
+* 主角成功擊退Mommy救回Poppy、解開The Game Station的各種機關，成功啟動能逃離工廠的小火車後，卻回心轉意，要求主角留下，並把火車的軌道設為往工廠更深處邁進。
+* 隨後主角在Playcare中遭受Kissy Missy攻擊時出現阻止，並表達自己不是主角的敵人。
+** 會強行留下主角的原因是希望讓主角協助她阻止Prototype。
+* 成功驅散紅霧，讓主角繼續深入工廠後，向主角展示了「歡樂時刻」發生一刻的VHS。
+* {{censored|在Kissy Missy被Prototype襲擊後回去找回她，往後便一直待在Kissy Missy身邊。}}
+* {{censored|因Prototype的陰謀而誤協助炸毀了庇難所，得知Ollie是Prototype偽裝並一直掌控她的一切行動後崩潰，不顧眾人逃走。}}
+* {{censored|玩家普遍推測她是Elliot Ludwig的養女製作而成。}}
+
+=== Prototype ===
+[[檔案:Poppy Playtime Prototype Hand.png|縮圖|右|Prototype]]
+: {{censored|實驗編號：1006}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}}
+* 盤鋸於Playtime Co.底層的未知個體。
+** 外觀不明，只露出一隻由金屬尖刺組成的右手
+*** {{censored|根據Catnap崇拜的原型雕像推測，有玩家認為他的身體是由眾多玩具組成的集合體。}}
+** 有著相當高的智慧{{censored|，且具有駭入電腦、改變並模仿其他人聲線的能力。}}
+*** {{censored|以此偽裝Olie一直假裝協作Poppy。}}
+* {{censored|Playtime Co.的「歡樂時刻」始作俑者，被Catnap專稱為神，但亦有一部份玩具反對他的做法，只認為他是無差別殺戮}}
+* {{censored|不斷收集各種巨大玩具殘骸。}}
+* {{censored|目的不明，雖然Poppy指如果主角試圖離開工廠，Prototype便會殺了主角。但數次出現在沒有還擊之力的主角前亦沒有加害於主角。}}
+* {{censored|主角在監獄尋路時，偶爾遇不疑似本體──一個類似巨大蜘蛛足的身影。}}
+
+== 第一章'''A Tight Squeeze'''初次登場 ==
+=== Huggy Wuggy ===
+[[檔案:Poppy Playtime Huggy Wuggy Monster.png|縮圖|右|Huggy Wuggy]]
+: {{censored|實驗編號：1170}}
+: {{censored|誕生年份：1990年}}
+: {{censored|實驗個體：不明}} 
+* 1984年Playtime Co.創造的玩具，Wuggies系列的初代產品，全身披著藍色絨毛的玩具
+* 是Playtime Co.中最受歡迎的玩具。
+** 隨後先後推出Kissy Missy及Mini Huggies。
+* 本作中泛指於Playtime Co.工廠大廳中央樹立著指示揮手動作的巨大Huggy Wuggy。
+* 主角進入工廠時第一個玩具<s>，高達八成玩家會用GrabPack和他拍手</s>，亦從手中拿到鎖匙。
+* 當主角恢復動力室的電力後回到大廳時，Huggy Wuggy會從原本的展示位置消失了。
+* 爾後，會在暗處觀察主角，並未有主動攻擊主角；但是在主角準備前往禁區時，化為怪物的Huggy Wuggy便會從走廊冒出追逐玩家。
+* 玩家需要從運輸帶逃走，並在深處將一個箱子拉下來破壞了傳送帶，令追趕過來的Huggy Wuggy墜落工廠底層，生死不明。
+** {{censored|在第二章的解包中，似乎原本會出現Huggy Wuggy潛入通風口然後消失的場景。}}
+* 從「RESTRICTED disappearance 06-18-1992.mp4」影片中得知，他在1992年6月6日一度在晚上逃出了工廠，殺死並吃掉途人，但在某間房屋前停下來沒有離開，最後被公司的保安部重回收。
+* {{censored|原本是被訓練為導賞團保安的馴服個體，但在Protoype影響下，襲擊所有出現的人類。}}
+* {{censored|第四章最終，在主角掉到最高保安級別的區域時，斷了左手包著綁帶的它再次出現在主角前。}}
+
+== 第二章'''Fly in a Web'''初次登場 ==
+=== Mommy Long Legs ===
+[[檔案:Poppy Playtime Mommy Long Legs Monster.png|縮圖|右|Mommy Long Legs]]
+: {{censored|實驗編號：1222}}
+: {{censored|誕生年份：1991}}
+: {{censored|實驗個體：Marie Payne}} 
+* 1991年Playtime Co.創造的玩具，Long Legs系列的初代產品，以可伸縮四肢為賣點的粉紅色塑膠玩具。
+** 隨後先後於1992年推出丈夫Daddy Long Legs及1993年推出兒子Baby Long Legs。
+* 本作中泛指主角在The Game Station遇到的巨大個體，以The Game Station一帶為自己地盤。
+* 非常喜歡小孩，但極端憎恨大人
+* 和Prototype關係非常差
+* 在主角深入工廠時，挾持Poppy，要求主角贏得三場挑戰，作為回報，她將給主角火車的代碼，並威脅如果不遵守規則就會殺死主角。
+** {{censored|但是過程中不斷修改遊戲規則，試圖阻止主角通關，並把無法阻止主角的玩具們處決。}}
+* {{censored|在第三場挑戰中，由於出口被封閉，主角被迫打破規則逃生而惹怒了她，並要求主角參加最後一場遊戲「捉迷藏」，由她追捕主角。}}
+* {{censored|追至工廠區域時，她的手被工業磨床卡住並被碾死。死前一直咒罵主角如此對待自己、讓自己成為「他」的一部份。}}
+* {{censored|其屍體隨後被Prototype撿走。}}
+
+=== Kissy Missy ===
+[[檔案:Poppy Playtime Kissy Missy Monster.png|縮圖|右|Kissy Missy]]
+: {{censored|實驗編號：不明}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}} 
+* 繼Huggy Wuggy後，Playtime Co.創造的Wuggies系列第二代產品，粉紅色女性版本的Huggy Wuggy
+** 設定上是Huggy Wuggy的情侶
+* 本作中泛指主角在The Game Station遇到的巨大個體。
+* 主角在工廠中無路可進時，主動替主角打開機關，讓主角前進。其後便離去，並無襲擊主角。
+* 主角到達Playcare的Home Sweet Home時，她會在其中一間房間屈膝坐在床上觀看一幅小女孩照片，沒有理會接近的主角。
+* 但是在主角離開Home Sweet Home時，突然攻擊主角，但被Poppy阻止，隨後便和Poppy一同行動。
+* 當Poppy準備引領主角往工廠更底層時，由她操控操作桿{{censored|，但準備和主角及Poppy會合時，似乎遭到The Prototype攻擊重傷。}}
+* {{censored|在Poppy救助後，一直在庇護所休養，直到庇護所被炸毀時一直保護Poppy。為救助因爆炸而掉落的主角時，雙手不堪負荷被扯斷。}}
+* 雖然沒有特別展露敵意，但她的嘴和Huggy Wuggy一樣滿佈尖牙。
+
+=== Bunzo Bunny ===
+: {{censored|實驗編號：不明}}
+: {{censored|誕生年份：1991年}}
+: {{censored|實驗個體：不明}}
+* 誕生時間不明的吉祥物玩具， 手持銅鑼的黃色兔子玩偶
+* 本作中泛指主角在Mommy Long Legs的三場挑戰中的第一場「Musical Memory」出現的個體。
+* 他會懸吊在關卡的圓形平台頂，隨著時間慢慢降下，主角必須依照螢幕上依序出現的顏色或圖案順序，正確敲擊按鈕。
+** 當敲擊正確，Bunzo會被拉回至頂端，反之則會快速下降。
+** 如果沒有及時敲擊出正確順序，Bunzo便會跳下來殺死主角。
+** 遊戲會進行五局{{censored|，進行第五局時顏色和圖案只會不斷亂閃，須及時敲擊環繞舞台的感嘆號緊急停止按鈕終結遊戲。}}
+* {{censored|玩家通關後，隨後被Mommy Long Legs殺死。}}
+
+=== Mini Huggies ===
+: {{censored|實驗編號：不明}}
+: {{censored|誕生年份：1991年}}
+: {{censored|實驗個體：不明}}
+* 迷你版異色Huggy Wuggy，包括紅、藍、黃、綠
+* 本作中泛指主角在Mommy Long Legs的三場挑戰中的第二場「Wack-A-Wuggy」出現的個體們。
+* 玩家在進行類似打「地鼠」的挑戰時，他們會不斷從洞口，需要把他們全部推回洞中，否則會被他們殺死。
+* {{censored|玩家通關後，隨後被Mommy Long Legs殺死。}}
+
+=== PJ Pug-a-Pillar ===
+: {{censored|實驗編號：不明}}
+: {{censored|誕生年份：1991年}}
+: {{censored|實驗個體：不明}}
+* 1980年代Playtime Co.創造的玩具，Swap-imals系列的初代產品，賣點為外表將兩種不同動物混合形成。
+** 除了PJ Pug-a-Pillar外，另有產品Cat-Bee。
+* 本作中泛指主角在Mommy Long Legs的三場挑戰中的第三場「Musical Statues」出現的個體。
+* 主角在類似「一二三木頭人」 的挑戰時，會從後追逐主角。
+** 主角只能在燈光關閉且播放音樂時移動，一旦被PJ Pug-a-Pillar追上，或是燈光亮起時移動，便會強制被PJ Pug-a-Pillar殺死。
+** {{censored|但是終點被擋住，主角只能從上方一扇破爛的窗戶逃出，卻因此被Mommy判定為犯規。<s>根本是故意陷害主角吧</s>}}
+** 其移動速度和他與玩家的距離成正比，所以能夠完全不奔跑下通關。
+
+== 第三章'''Deep Sleep'''初次登場 ==
+
+=== Ollie ===
+* 主角被Catnap丟到垃圾場後，利用電話主動聯繫主角逃生並提供協助的神秘角色。
+** 他一再強調主角主角和Poppy一起行動的話，一定能拯救「很多人」。
+* 有著一口{{censored|在「歡樂時刻」後理論上不可能存在的}}小男孩聲音，受到Poppy信任。
+** Poppy表示和Ollie互有聯絡，而且亦信任Ollie
+* 對Playtime Co.的所有設施似乎有非常熟知的認識，並提供情報給相關鑰匙讓主角重新充填Gas Production Zonme的電力。
+** 似乎透過監視鏡頭一直觀察主角的行動。
+* {{censored|在初登塌時其身分眾說紛紜。}}
+** {{censored|由於他的名字正好是Playtime Co.創辦人Elliot Ludwig的名字易位{{ref|{{censored|Elliot→toille→T(he) Ollie}}}}，因此有玩家推測他和Elliot可能有關聯。}}
+** {{censored|Prototype一度展示能自由切換聲調的能力，因此有推斷是Prototype偽裝假意協助主角。}} 
+** {{censored|初期版本中，由於在Catnap戰後沒有再度說話，有人推斷真身是在安全區一戰中過度充電的那台機器的AI。不過後來更新中追加了勝利後對話，推翻這說法。}}
+* {{censored|實際身分<s>果不其然</s>是The Prototype偽裝，在主角被他慫恿炸毀地基並與Poppy會合後，露出了真面目。}}
+** {{censored|據The Prototype所言，很早以前的確有Ollie這個人存在。}}
+*** {{censored|因此有玩家推測，現時尙布公布實驗材料的Huggy Wuggy可能就是Ollie。}}
+* <s>從聲音以致行動都令人聯想到FNAF中的Gregory</s>
+
+=== Catnap ===
+[[檔案:Poppy Playtime Catnap Monster.png|縮圖|右|Catnap]]
+: {{censored|實驗編號：1188}}
+: {{censored|誕生年份：1990年}}
+: {{censored|實驗個體：Theodore Grambell}}
+* Playtime Co.創造的玩具，Smiling Critters系列產品之一，創造年份不明。外表是張開大大笑容的擬人化小動物，賣點為拉動尾巴後，會從嘴巴的洞釋發分別具有獨特味道的氣體，能<s>像嗑了藥一樣</s>幫助入眠和放鬆。
+** Catnap的造型是紫色貓，戴著月亮的頸鍊
+** 玩具介紹文提到他能讓其他讓小動物們平靜下來，並確保他和他的朋友們一直保持充足睡眠來開始新一天遊玩，最喜歡看著朋友們睡熟。
+** {{censored|在一眾Smiling Critters系列產品中，惟有Catnap的氣體不知為何從原本指定的薰衣草氣體變成不明的紅色氣體，促使不少吸入氣體的兒童陷入劇烈惡夢，故全數被回收，並且在往後從系列產品宣傳中移除。}}
+* 本作中泛指主角在Playcare遭遇到的巨大四足個體，Playcare是他以及他的手下們的地盤。
+** 他的口中會持續放出令吸入者陷入幻覺的紅色氣體。
+** {{censored|因為曾拯救仍為人類時期的他，}}非常敬仰Prototype，視他為神。
+*** 其中一條Playcare外側的道路上，主角能見他正崇拜由他自己製作、以玩具{{censored|和人骨上半身}}組成的Prototype雕像。
+* 在主角剛進入Playcare後，多次<s>藏頭露尾</s>讓自己的身姿在主角面前掠過，並多次留下警告主角離開的字句。
+* {{censored|似乎亦是他切斷Gas Production Zone電力，阻止主角把紅色氣體排走。}}
+* 主角闖入Counselor's Office時，直接襲擊主角，奪走主角的防毒面具，讓主角陷入幻覺中。
+* 主角準備重新恢復Gas Production Zone電力時，再次襲擊主角，展開了一場追逐戰，並在一個原本用作抵禦Catnap的安全區進行防守戰。
+** {{censored|在180秒內，一邊替電力裝置充電，並利用熱氣驅走驅散紅色氣體和從地面襲來的Catnap，並適時拉動天花的活門，阻止Catnap偷襲。}}
+** {{censored|電力裝置充電完畢後，利用綠色右手吸收過大功率的電力，打在Catnap身上。}}
+* {{censored|Catnap受到過大功率電擊後庵庵一息，此時Prototype疑似向他伸出援手，但實際上把Catnap殺死，帶走了他的屍體。}}
+* {{censored|原本的用途是讓Home Sweet Home的孤兒入眠，並且防止孤兒從孤兒院逃走。}}
+
+=== Miss Delight ===
+[[檔案:Poppy Playtime Miss Delight Monster.png|縮圖|右|Miss Delight]]
+* 由Playtime Co.設計，在Palycare中的學校擔任老師的個體們，原本存在大量數目。
+* 本作中泛指主角在學校中遇到、惟一生存下來的個體。
+* {{censored|在「歡樂時刻」後，在學校避難的工作人員、Miss Delight和她相同外觀的其他個體們一同被{{censored|疑似Prototype指示下的Catnap}}反鎖在學校中。}}
+** {{censored|Miss Delight因為聽到反鎖門外的呼吸聲，認定是敵人，而利用筆和尺子製作了她的長錘狀武器「Barb」。}}
+* {{censored|由於{{ruby|糧食|工作人員}}幾乎耗盡，其他個體切斷了生還下來那位Miss Delight的食物來源。}}
+* {{censored|Miss Delight逐漸變得瘋狂，並且視「Barb」為生物，並和她對話。}}
+** {{censored|Miss Delight認為「Barb」告訴她，只要裝作一動也不動，其他人便會以為她死了。她利用這個方式襲擊其他Miss Delight個體，用以治飢。}}
+* {{censored|直至某天，學校的大門解鎖，Miss Delight因為在外面發現Catnap，認定是他將自己和其他人反鎖在學校。}}
+* {{censored|Catnap並沒攻擊她，並且和她達成休戰協議，攻擊所有闖入學校的個體。}}
+** {{censored|雖然Miss Delight一度追問孩子們的下落，但只從Prototype知道似乎都由Prototype保護著，並認為Prototype會分開她和孩子們，是知道她會宰了孩子們來吃。}}
+* 主角闖入學校後，多次以廣播警告主角離開學校。
+* 在主角啟動後備電源後，突然闖入並破壞電源，隨後展開追逐戰。
+** 第三章玩家們的惡夢，必須操作主角一直盯著她，讓她不會動，同時用電池解開閘門逃出學校。
+** 但是，只要主角視線離開了她（包括被牆壁擋著，或遠離她）便會高速奔跑並攻擊主角。
+*** 在更新前，燈光熄滅的時候同樣會行動。
+* {{censored|在主角逃到捲閘前，不管有沒有盯著她，依然會追趕主角，直到主角拉下捲閘，被捲閘壓死。}}
+
+=== DogDays ===
+: {{censored|實驗編號：不明}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}}
+* Playtime Co.創造的玩具，Smiling Critters系列產品之一，形像是橙色的狗，戴著太陽的頸鍊。是一眾Smiling Critters的隊長。
+* 本作中泛指主角在Playhouse遇到的巨大個體。
+* 因為反對Prototype、認為他只單純渴望屠殺而被Catnap牢禁在Playhouse的監牢中，只餘下上半身。
+** 似乎和Poppy同一陣營，並稱主角為「Poppy的天使」。
+** 從他的話推測，除了自己和Catnap外，其他的Smiling Critters巨大個體已死亡，其他Mini Critters懼怕重蹈覆轍，而選擇跟隨Catnap。
+** 另外，他亦警告Catnap的線眼一直在暗處例窺主角，催促主角盡快離開。
+* {{censored|交談途中，大量Mini Critters湧現，並從DogDays身體底部吞噬掉DogDays的內臟，並操控他的身體，攻擊主角。}}
+* {{censored|在一輪逃亡後，主角把他鎖在Playhouse後，生死不明。}}
+
+=== Mini Critters ===
+* 盤鋸於Playhouse中的迷你版Smiling Critters，因為自保和糧食而自願跟隨Catnap和Prototype。
+* 會從洞穴中爬出來攻擊主角，需及時用GrabPack的橙色手的子彈驅趕。
+* {{censored|在DogDays和主角交談途中，湧現大量Mini Critters，搶奪了DogDays身體，攻擊主角。}}
+
+== 第四章'''Safe Haven'''初次登場 ==
+
+=== Doey the Doughman ===
+{{Infobox
+| bodystyle = width:350px;
+| image = 
+<tabber> 
+|-| 
+平常 =[[File:Poppy Playtime Doey the Doughman.png|200px]]
+|-| 
+攻擊時 =[[File:Poppy Playtime Doey the Doughman_Enemy.png|200px]]
+</tabber>
+}}
+: {{censored|實驗編號：1322}}
+: {{censored|誕生年份：不明（但會在1993年以後）}}
+: {{censored|實驗個體：Jack Ayers（1322A）、Kevin Barnes（1322B）、Matthew Hallard（1322C）}}
+* Project Doey的泥膠狀實驗品，因為本身是不定型體，所以身體能自由變形及穿過狹縫。
+** {{censored|為了能讓達900磅的泥膠身體運作，而使用三個實驗個體揉合在一個個體的特殊體。身上的三隻相握的手便是暗示這個情況}}
+*** {{censored|實驗個體1322A Jack Ayers，持續抱著悲觀，在1993年1月22日參觀玩具工廠期間，不慎掉進泥膠工場的攪拌機後，意外成為實驗人選。}}
+**** {{censored|並不是原定人選，推測因為要給他的雙親一個交代，及其圓滿家庭和年幼能作為下述兩位實驗個體中和劑而被指定為實驗人選。}}
+*** {{censored|實驗個體1322B Kevin Barnes，非常暴躁發生衝突，極具攻擊性，難與他人社交。原本是寄宿在PlayCare的孤兒，因前述性格問題而被隔離。但因為體能反應測試及心理承受能中表現傑出而被Harley Sawyer指定為實驗人選。}}
+*** {{censored|實驗個體1322C Matthew Hallard，擁有卓悅領導能力，極具個人氣質，但缺乏安全感，會自我責怪無法拯救雙親，在15歲失去雙親成了孤兒被送到PlayCare，因個性而受到眾人歡迎。因其自主及領導性被選定為實驗人選。}}
+* {{censored|在Jack的父母被工廠私底下邀來聲稱見他們的兒子時，因過去被歉騙的Kevin盛怒下誤殺了他們，使同一身體目睹的Jack和Matthew再次受到心靈創傷，導致Jack作為中和劑的用途失效。}}
+** {{censored|同時，似乎也導致三個人格無法互相配合，形成類似解離性人格，三者的記憶似乎無法互通。}}
+* 一般聽從Poppy和Ollie指示行動。
+* {{censored|一般是由Matthew主導，盛怒時Kevin容易掌管人格。}}
+* 保護地底的庇護所，因為Ollie向他表示主角能幫助他們而幫助主角，視庇護所的玩具們是朋友。
+** {{censored|雖然一度能離開地底，但因為要照顧玩具們而選擇回到庇護所。}}
+* 在主角被Yarnaby追趕時，偷偷暗示逃生路線，並在Pianosaurus要攻擊主角時指牠肢解。
+* 弱點是冷凍，會被凝固無法動彈。
+* {{censored|在主角經Ollie指示炸毀地基時，因原型的調虎離山之計，把他支走，導致遭殃的庇護所，庇護所的玩具們死亡。Doey中的Matthew陷入崩潰，被盛怒的Kevin掌控了主導權，指頁主角和Poppy的錯而要殺死主角，身體變異成由多在手臂支撐的蜥蝪形外表，口中露出三個人臉。}}
+** {{censored|其中兩個悲哀人臉分別代表Jack和Matthew，盛怒的臉是Kelvin}}
+* {{censored|在地底施工現場被主角以冷凍氣體凍結並以切割機傷害，最終死於油壓機下，臨終前Kevin依然咒罵所有人，Jack和Matthew則向主角道歉。}}
+
+=== Harley Sawyer ===
+[[File:Poppy Playtime Harley Sawyer_Body.png|縮圖|右|Harley Sawyer分身]]
+* 製造各種實驗品的首席科學家，如今身體被Leith Pierre改造成生體系統，器官被分別置入不同維生機器，能以鏡頭和揚聲器在整個監獄地區觀察和發聲。
+* 製造了大量電視機頭的機械身體作為分身行動。
+* {{censored|阻擋在為了獲得Omni-Hand的主角面前，並多次放出實驗品襲擊主角，最終被主角破壞所有維生器官死亡。}}
+
+=== Yarnaby ===
+: {{censored|實驗編號：1166}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}}
+* Harley Sawyer的實驗品，雖然外表上嘴的開合是橫向，但實際是整個臉縱向左右分開。
+* 在Harley指示下在監獄中追縱並襲擊主角。
+** 對聲音相當敏感，遭遇時必須躱避，否則會被追趕殺死。
+* {{censored|在主角從前往No Man Place時掉落機關並被燒死，掉進深淵。}}
+
+=== Pianosaurus ===
+: {{censored|實驗編號：1163}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}}
+* 口和牙齒由鋼琴鍵組成。
+* {{censored|本要襲擊闖入它的地盤的主角時隨即被Doey肢解}}
+** {{censored|<s>明明在初期預告數次露面，但出場不到一分鐘便發便當，連主戰也沒有的可憐角色。</s>}}
+
+=== Nightmare Critters ===
+
+== Project: Playtime初次登場 ==
+
+=== Boxy Boo ===
+[[檔案:Poppy Playtime Boxy Boo Monster.png|縮圖|右|Boxy Boo]]
+: {{censored|實驗編號：1160（擬似）}}
+: {{censored|誕生年份：不明}}
+: {{censored|實驗個體：不明}}
+* 1966年代Playtime Co.創造的玩具，概念類似驚嚇箱。
+* 似乎人氣不足，在90年代便沒有再生產。
+* 本作中泛指在Project: Playtime登場的巨大個體，也似乎是Bigger Bodies Initiative第一個成功個體。
+** 其製仿目的主要目的是取代勞動力，避免人事意外的法律訴訟及提高工作效率。
+
+=== Elliot Ludwig ===
+* Playtime Co.的創辦人兼管理人，於1930年創立公司。
+* 他是一位富有創造力及遠見的天才，全心投入為孩子們帶來歡樂的工作。
+* 但過度投入工作關係，於1930年和妻子Molly Ludwig離婚。
+* 即使養女於1960死亡後亦未動搖他的工作。
+** 但在這之後，他似乎投入於某種能令死者復活的罌粟花（Poppy Flower）中。
+** 在他的辦公室中，能找到浸泡在罌粟液的死老鼠
+* 在女兒去世一段時間後，他在Playtime Co.創立了孤兒院Playcare。
+* 直至他去世時，有報導指在他的莊園發現了缺失器官和骨頭的兒童屍體。
+** 鄰居亦聲稱Elliot在過去十數年間總會在「晚上奇怪時間」回家，但日出時便離開。
+** 儘管受到指責，但公司上下依然支持他，並否認各種指控，保證他的清白。
+
+=== Eddie M.N. Ritterman ===
+* Playtime Co.的研究主管，知悉公司的秘密研究
+
+=== Leith Pierre ===
+* Playtime Co.的開發主管，知悉公司的秘密研究
+* 他亦負責擔任《Project: Playtime》的玩家教學角色
+
+=== Stella Greyber ===
+* Playtime Co.的Playcare主管，但似乎不知悉公司的秘密研究
+** 在一段領養孩童的訪問中，她透露只知一位將被領養的孩子正接受「測試」，但自稱不知測試內容是甚麼。
+* Game Station中所有遊玩設施的教學聲音皆是她的聲音。
+* 由於她和Poppy Playtime的CV是同一人，一度被認為是同一人，被對方認為「幾乎是換了一個人」。
+
+** 但後來因為她曾在一段生前錄音提到Mommy Long Legs，故不符合Poppy Playtime誕生的時間。
+
+=== Rowan Stoll ===
+* Playtime Co.的資訊科技主管，但不知悉公司的秘密研究。
+* 非常關心公司的聲譽，所以會盡力調查公司內有意無意影響公司聲譽的事。
+* 但知道公司的真相後，便對公司失去信心，把竭力將秘密公諸於世。
+* 原本挺害怕Leith Pierre，隨著知道公司秘密後，這份恐懼更是急速增長。
+* {{censored|在公司得悉他知道真相後，試圖暗殺他，其中之一是破壞了他的汽車。}}
+* {{censored|在1991年6月15日，他在錄下影片警告來調查人員注意Playtime Co.黑暗一面後，便繼續調查公司秘密，最終在劇院後台被Boxy Boo吃掉，死亡。}}
+
+=== Harley Sawyer ===
+* Playtime Co.的高級主管，一般被稱為「博士」，主導公司秘密研究。
+* 大部份巨大玩具皆出自她的手。
+
+=== Claire Harper ===
+* Playtime Co.的員工，負責照顧Playcare的孤兒們。
+* 會對照顧的孤兒展示強烈、慈母般的保護態度
+* 其中一位孤兒Marie Payne因為受到男孩們長期霸淩及Catnap的紅霧影響而變得偏執時，她對Marie保證不會再讓她受到傷害。
+
+=== Thomas Clarke ===
+* Playtime Co.的兒科醫生。
+* 曾一度照料試圖逃離Game Station的Theodore Grambell，亦見過原型，但不知對方的真面目。
+* 1991年，他被診斷患有末期肺癌{{censored|，於是同意參加他並不知道真實情況的Bigger Bodies Initiative計劃}}。
+* {{censored|實驗編號：1199，被造成Bron的材料。}}
+* {{censored|但實驗似乎失敗，他無法適應新的身體且十分恐懼自己的改變。}}
+* {{censored|由於成果不如預期，他被研究人員放到和其他實驗品玩具同一房間。但是房間中其他的玩具意識到他不是孤兒且是Playtime Co.員工。最後，在被一眾玩具包圍下，被Boxy Boo吃掉。}}
+* {{censored|後來，他的屍骸被研究人員發現，大部份器官受損。研究人員對他進行緊急手術後，將他安置到另一個房間，生死不明。}}
+
+=== Marie Payne ===
+* Playcare孤兒院的小女生。
+* 似乎在孤兒院中遭到男孩們霸淩
+* 因為某一夜在Home Sweet Home中Catnap釋放的紅色煙霧而做惡夢，夢到無色的怪物，變得逐漸偏執。
+* {{censored|實驗編號：1222，被造成Mommy Long Legs的材料。}}
+* {{censored|似乎因為受到Claire Harper照顧，所以被造成玩具後，展示出強烈的母性。}}
+
+=== Theodore Grambell ===
+* Playcare孤兒院的小男生。
+* 在孤兒院中的員工評價中非常差，因為他聲稱和一名「假想朋友」交流，對方經常慫恿他破壞Playtime Co.
+** {{censored|根據ARG的線索，那位「假想朋友」正是原型。}}
+* 某天晚上，因為「假想朋友」的慫恿，偷走了一個GrabPack，打開Playcare的維修門，似乎打算讓更多孩子逃走。
+* 但是不懂操作GrabPack的他不慎觸電而亡，{{censored|似乎是由原型把他帶回給員工。}}雖然一度被帶到Thomas搶救，但失敗告終{{censored|，並讓Thomas知道了原型的存在}}。
+* {{censored|似乎在原型引導下，他的屍體被用作實驗。}}
+* {{censored|實驗編號：1188，被造成Catnap的材料。}}
+
+=== Makayla Hyssop ===
+* Playcare孤兒院的小女生。
+* {{censored|實驗編號不明，被造成Candy Cat的材料。}}
+
+=== Kelvin ===
+* Playcare孤兒院的小男生。
+* {{censored|實驗編號：1322，被造成不明玩具的材料。}}
+
+= 名詞 = 
+
+== Playtime Co. ==
+* 於1930年由Elliot Ludwig創辦的玩具公司，但是於1995年8月8日發生的意外而倒閉。
+* 其玩具Huggy Wuggy是一眾系列中最受歡迎的玩具。
+* {{censored|在某一年起{{ref|玩家推測是其養女死亡的1960年後}}，公司開始秘密利用他們的玩具進行實驗：籍由某種罌粟花讓屍體復活。}}
+** {{censored|雖然最初利用老鼠作實驗對象時失敗，但Elliot Ludwig或Harley Sawyer其中一人認為如果用更大的個體會成功，因此開始了「Bigger Bodies Initiative」。}}
+* 往後，Playtime Co.更在自己的工廠建立了PlayCare收容孤兒{{censored|，用作實驗。}}
+* {{censored|在Bigger Bodies Initiative成功後，開始用巨大化的玩具取代員工，例如用Huggy Wuggy取代保安、Mommy Long Legs取代The Game Station孩童管理。}}
+* 在{{censored|Bigger Bodies Initiative成功的}}某段時間開始，公司對員工的態度越來越惡劣。例如只允許員工不休息超過五分鐘。
+** 儘管在員工安全規則強調「玩具生產中有使用有毒或有害材料是捏造且誇大的內容」，但遊戲中文件指出不少員工因接觸有毒和危害的材料而產生幻覺或精神失常。
+** {{censored|對員工投訴那些巨大玩具問題時加以忽視，試圖淡化巨大玩具存在的一事。}}
+
+=== The Game Station ===
+* Playtime Co.提供孩子們玩樂{{censored|以及觀察適合實驗材料}}的遊戲設施
+** 由於建在地底，所以做了一些假窗戶試圖營造心理健康環境。
+* Mommy Long Legs過去在這裡保護兒童。
+* {{censored|研究人員會在上層觀測兒童並尋找合適實驗材料送走}}
+* 設有一個迷你火車站接載孩童出入公司大堂或孤兒院
+
+=== PlayCare ===
+* Playtime Co.收容孤兒{{censored|作為實驗材料}}的建築群設施
+* 設立在地底的巨大空間，籍由燈光和佈景版營造一個自然環境。
+* PlayCare中包括一所學校、讓孤兒遊玩的遊玩屋、讓孤兒獲得心愛玩具的玩具店、孤兒休息的地方「Home Sweet Home」及讓孤兒尋求輔導的輔導員辦公室。
+
+== GrabPack ==
+* Playtime Co.開發的玩具之一，是一個有一對伸縮手的背包，玩家遊戲中探索及解謎所需工具
+* 一對伸縮手能通電籍而形成電路
+* 在第三章時，主角的GrabPack替換為GrabPack2.0，除了可以自由切換右手外，亦有噴射功能，避免跌死
+* 左手固定為藍色，右手在遊戲中多次替換。
+** 紅色右手：沒特別作用，主要用作開門和抓物
+** 綠色右手：能貯藏電力
+** 紫色右手：能按在特定地板後進行高跳
+** 橙色右手：能射出類似照明彈的子彈照亮環境和驅趕Mini Critters
+** 萬能右手（Omni-Hand）：進階的紅色右手，有著最高權限，能開啟所有的門
+
+== Bigger Bodies Initiative ==
+* Harley Sawyer提出的計劃{{censored|，利用孤兒造成巨大玩具的計劃}}。
+
+== 歡樂時刻（Hour of Joy） ==
+* 1995年8月8日在Playtime Co.發生的事，這件事以後，所有員工失踪，公司徹底倒閉。
+* {{censored|當天，在原型的誘導下，巨大玩具們突然失控，將所有工廠員工屠殺。}}
+* {{censored|員工的屍體被巨大玩具們當成食物噬食外，其他被原型收到工廠深層。}}
+* {{censored|發生意外一刻孩子們的狀況不明，但按Miss Delight轉述原型的對話推斷，似乎全部被藏在一個不會和員工接觸的地方。}}
+** {{censored|但是，亦有玩家推測，實際上孩子們亦慘遭原型毒手。}}
+
+= 相關 =
+
+= 回應 =
+{{pcomment}}
+
+= 備註 =
+<references/>
+
+[[分類:遊戲]]

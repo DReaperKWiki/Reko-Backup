@@ -494,6 +494,31 @@ Ruler、Avenger、Aler Ego<br>
 |{{youtube|2twNijeyE9M|PV}}<br>主題曲：Proof<br>作曲：芳賀敬太<br>旁白CV：[[赤羽根健治]]（卡多克）
 |}
 
+== ？？？ ==
+{| class="wikitable sortable" style="margin:auto;"
+|-
+! scope="col" |
+! scope="col" | 章節名/副標題
+! scope="col" | 原文
+! scope="col" | 
+! scope="col" | 負責作者
+! scope="col" | PV及主題曲
+|-
+! 序章
+| AFTER TIME的開始
+| アフタータイムのはじまり
+|
+| {{censored|奈須蘑菇？}}
+|
+|-
+!
+| 鄉愁永巡刻盤 往昔．迦勒底
+| 郷愁永巡刻盤 パスト･カルデア
+|
+|
+|
+|}
+
 == Fate/Grand Order Arcade ==
 [[檔案:Fate_Grand_Order_arcade_logo.webp|500px|center]]
 {|class="wikitable" style="margin:1.5em auto;"width="36%"
