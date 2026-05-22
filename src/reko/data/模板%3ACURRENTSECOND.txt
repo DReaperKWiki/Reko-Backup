@@ -1,0 +1,5 @@
+{{<includeonly>safesubst:</includeonly>#time:s}}
+<noinclude>
+* 讀秒用，可用作偽隨機參數
+[[Category:模板]][[Category:計算模板]]
+</noinclude>

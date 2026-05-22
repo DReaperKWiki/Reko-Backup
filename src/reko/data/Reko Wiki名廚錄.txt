@@ -1,4 +1,4 @@
-{{h0|Komica Wiki/Reko Wiki名廚錄}}
+{{h0|Komica Wiki/Reko Wiki名廚<s>墓碑</s>錄}}
 {{Controversial}}
 {| class="wikitable" style="margin: 1.5em auto; text-align:center;" 
 |-
@@ -319,6 +319,7 @@ https://web.archive.org/web/20240512052326/http://web.archive.org/screenshot/htt
 |Zej818<br>FATE<br>Yhgy<br>POc<br>
 ||Yp<br>hf<br>
 |}
+* 附錄：此廚有在巴哈姆特專版出沒，帳號S97578
 
 == STG廚/Browl  ==
 * 危害程度：{{color||red|高}}

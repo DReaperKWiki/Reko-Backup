@@ -472,6 +472,9 @@
 <br>
 
 * '''[[蔚藍檔案]]'''
+** 宣佈將推出的角色：
+*** 天童アリス(女僕?)
+<br>
 
 == 其他相關 ==
 * 機甲少女
@@ -484,6 +487,7 @@
 == 外部連結 ==
 * [https://bandai-hobby.net/site/30minutes_sisters/ 官網]
 * {{twitter|30msisters|name=官方推特}}
+* [https://www.youtube.com/@30MINUTES_CHANNEL 官方Youtube頻道]
 
 == 回應 ==
 {{pcomment|section=1}}
