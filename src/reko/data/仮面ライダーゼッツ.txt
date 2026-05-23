@@ -148,12 +148,14 @@
 |-
 | 33 || {{color|yellow|red|Exdreamrise<br>（エクスドリームライズ）}} || 莫在夢中自行研發、具備把所有Capsem的固有能力都融為一體的「實現夢的力量」的Capsem<br>中央的<s>Color Timer本體</s>超次元讀取裝置能讀取並記錄對象人物夢中的記憶，反映出連目標人物也不自覺的心理最深層<br>外側的スパイラルトーラス在旋轉時會產生出克里福德環，即使獨立運用也有著不輸變身器的出力性能 ||
 |-
+| 34 || {{color|white|red|Code: Somnia<br>（コード：ソムニア）}} || 會使所有人類的夢融為一體，藉由能隨意改變夢的定律的力量可在夢中篡改人們的記憶和感覺與內心、以此支配及管制人們的Capsem<br>但能力對接受過夢中學習的人們無效 || 中央部分不是平面連環圖，而是立體的缺角紅色月亮
+|-
 | HBV || {{color|black|#f0f0f0|Zeztz & Code Zeroider<br>（ゼッツ&コードゼロイダー）}} || ? || 由灌注了Code Zeroider力量的[[棒球]]變成
 |}
 
 === Nox使用的Capsem ===
 * 外觀與一般的Capsem截然不同，內容物也明言是個別惡夢使者的惡夢
-* 裝入Nox Driver或Lady Gauntlet使用時會從中間掰開成兩半，自裡面輪流抽出多次元能量及惡夢使者的力量同時賦予變身者
+* 裝入Nox Driver、Lady Gauntlet或夢現Driver使用時會從中間掰開成兩半，自裡面輪流抽出多次元能量及惡夢使者的力量同時賦予變身者
 
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
 |-
@@ -166,6 +168,10 @@
 | 24 || {{color|white|black|Chaos<br>（カオス）}} || 封印各種惡夢的Capsem<br>會讓使用者能自由召喚不同的惡夢使者 ||
 |-
 | 29 || {{color|black|yellow|Wolf<br>（ウルフ）}} || 封印Wolf Nightmare的惡夢的Capsem ||
+<!-- |-
+| ? || {{color|blue|yellow|Midnight Shadow<br>（ミッドナイトシャドウ）}} || ? ||  -->
+|-
+| 劇場版 || Daydream<br>（デイドリーム） || ? || 
 |}
 {{hidef|}}
 

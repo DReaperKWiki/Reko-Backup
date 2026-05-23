@@ -335,6 +335,7 @@
 ** 蒐集要素大幅強化，蒐集進度多寡及有無救出所有家人會影響後續關卡及結局
 * 於2022年推出重製版《Pac-Man World Re-Pac（パックマンワールド リ・パック）》
 ** 遊戲玩法大幅更動，頭目也追加些許攻擊，過場劇情演出大幅強化{{censored|同時追加結局分岐}}
+** <s>然而過場劇情的語音改成原創語言令不少玩過原版的玩家詬病<ref>原版1代的過場劇情的語音為英文</ref>，可能是下述2代重製直接改用英文語音的主因</s>
 
 === Pac-Man: Adventures in Time ===
 * 發售日期：2000年10月23日
@@ -524,8 +525,8 @@
 
 === PAC-MAN: Snack Breaks ===
 * 播出日期：2026年5月22日
-** 由Cartuna Production製作的網路動畫，預定每個月公開一集
-** Pac-Man離開家鄉闖蕩大城市的故事
+** 由Cartuna Production製作的網路動畫，短篇日常性質，預定每個月公開一集
+** Pac-Man離開家鄉來到大城市過新生活的日常故事
 
 ===[https://www.youtube.com/watch?v=v2NFl86LX3Q Bloodhound Gang - Mope]===
 * Bloodhound Gang的RAP歌曲，使用了大量其他歌曲的Sound Sample
