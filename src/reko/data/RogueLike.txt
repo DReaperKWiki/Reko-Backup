@@ -175,7 +175,7 @@
 |SUNSOFT
 |SUNSOFT重啟遊戲製作的企劃之一，為睽違已久的正統續作，但本次玩法從最初的[[Metroidvania]]轉型成RogueLike
 |-
-| rowspan="3" |2025
+| rowspan="5" |2025
 |Metal Bringer
 （機兵大亂戰）
 |ALPHAWING Inc.
@@ -191,14 +191,13 @@
 |Panik Arcade
 |恐怖氣氛的RogueLike式老虎機（拉霸機）遊戲<br>玩家唯一的任務就是玩老虎機贏取大量金幣來存進ATM還債<br>每一場遊戲都會有一定的回合數，只要在回合結束以前達到門檻就可進入下一場遊戲，每次剩餘的回合數可兌換4張幸運草禮券<br>幸運草禮券可以購買對自己有利的護符
 |-
-| rowspan="2" |預定2025、2026
 |Bubble Bobble : Sugar Dungeon<br>（泡泡龍：砂糖地下迷宮）
 |Taito
-|[[泡泡龍]]系列首款RogueLite向遊戲
+|[[泡泡龍]]系列首款RogueLite向遊戲<br>預定於2026年8月20日推出《Boost》加強版（Switch與PS5日版也會同步推出）
 |-
-|Ratatan
+|Ratatan<br>（啦嗒噹）
 |Ratata Arts
-|為《戰鼓啪打碰》製作團隊另起爐灶後的新作<br>除了保留前述的玩法外多加了RogueLike要素
+|為《戰鼓啪打碰》製作團隊另起爐灶後的新作<br>除了保留上述的玩法外多加了RogueLike要素
 |}
 
 == 關聯 ==

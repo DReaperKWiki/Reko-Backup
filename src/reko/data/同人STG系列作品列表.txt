@@ -112,9 +112,10 @@
 {{hidef}}
 
 ===[http://web.archive.org/web/20040203051524/http://village.infoweb.ne.jp:80/~twin/start.html TwinkleSoft(閃亮計劃)] ===
-* Excess Fraction
-** 特色為以擦彈的方式累積Bomb能量
-** 試飛員セレス駕駛古代宇宙獨行戰機「煉術士」(アルケミスト) 拯救地球、對抗月球迷之波動的故事
+{{hideh| Excess Fraction}}
+* 特色為以擦彈的方式累積Bomb能量
+** 故事是試飛員セレス駕駛古代宇宙獨行戰機「煉術士」(アルケミスト) 對抗月球迷之波動來拯救地球
+{{hidef}}
 * [[Rally Raid]]
 * [[Barrage Tribe]]
 
@@ -147,10 +148,10 @@
 {{hidef}}
 
 ===[http://photonsystem.com/ PhotonSystem(フォトンシステム)] ===
-* {{hideh|[http://photonsystem.com/nonet.php Nonet]}}
+{{hideh|[http://photonsystem.com/nonet.php Nonet]}}
 * 縱解謎STG，有火、風、水三種屬性可選且有相剋關係
-*NSTA(Nine-Spell-Three-Attribute)/九術三屬性
-**須取得道具才強化魔法(↑或↓)，越強的魔法耗能越高
+* NSTA(Nine-Spell-Three-Attribute)/九術三屬性
+** 須取得道具才強化魔法(↑或↓)，越強的魔法耗能越高
 {| class="wikitable" style="margin: 0 auto;" 
 |-
 ! '''魔法''' !! '''LV1'''!! '''LV2'''!! '''LV3'''
@@ -160,11 +161,6 @@
 | 風 ||サンダー/雷||ウィンドミル/風車||エアスラッシュ/空氣斬
 |-
 | 水 ||スプラッシュ/水花||バブル/泡泡||ブリザード/暴風雪
-* 故事：
- 自然會使用魔法的遙遠世界故事
- 在某個國家男人婆四季(シキ)感到感到無聊而溜出城堡
- 彷彿被魔力強大的她，所吸引的敵人接連逼近……！
-
 |}
 {{hidef}}
 * [[Nonet Overture]]
@@ -772,8 +768,9 @@
 ===[https://inatsuka.com/ 森の中の猫の小屋]→[https://x.com/inatsuka 稲塚 春]===
 {{hideh|不給糖就毀滅/お菓子くれなかったから街破壊しちゃうよっ！}}
 * 採升級欄機制、根據拿到的可樂餅數（或位置）來決定需要的強化
-** Rank夠高(到8)才能遇見真Bossブラッカー･クラン
+** Rank夠高(到8)才能遇見真Boss黑暗聖誕/ブラッカー･クラン
 {{hidef}}
+* [[Danmakai:Red Forbidden Fruit]]
 
 {{hidef}}
 

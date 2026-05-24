@@ -150,6 +150,8 @@
 |-
 | 34 || {{color|white|red|Code: Somnia<br>（コード：ソムニア）}} || 會使所有人類的夢融為一體，藉由能隨意改變夢的定律的力量可在夢中篡改人們的記憶和感覺與內心、以此支配及管制人們的Capsem<br>但能力對接受過夢中學習的人們無效 || 中央部分不是平面連環圖，而是立體的缺角紅色月亮
 |-
+| 36 || {{color|yellow|purple|Lord Booster<br>（ロードブースター）}} || 透過吸收「反抗的精神」讓使用者的所有能力都到達過盛程度的Capsem || Extra Capsem吸收了諾克斯的{{ruby|反抗精神|正義之心}}後進化而成<s>其實早在第20話便已登場</s>{{ref|朝日官網的Lord Invoker頁面{{twitter|ju_jaaaa|2017768936293732609|最初公開時裡面的Lord Invoker照片中安裝的是Lord Booster Capsem}}<s>官方提早洩漏</s>，直到後來才修改成Shock Capsem}}
+|-
 | HBV || {{color|black|#f0f0f0|Zeztz & Code Zeroider<br>（ゼッツ&コードゼロイダー）}} || ? || 由灌注了Code Zeroider力量的[[棒球]]變成
 |}
 

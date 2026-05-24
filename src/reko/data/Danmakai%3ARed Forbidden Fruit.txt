@@ -1,0 +1,214 @@
+{{h0|Danmakai:Red Forbidden Fruit/弾魔界:レッド・フォービドゥン・フルーツ/彈魔界:紅色的禁忌果實}}
+
+{| class="wikitable" style="margin: 1.5em auto;" 
+|-
+| style = "text-align: center; " | 本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。 
+|}
+[[File:GNE2k0zaIAIfBx1.png|600px|right]]
+
+== 概要 ==
+
+* 由森の中の猫の小屋所開發的魔界彈幕射擊遊戲
+** 實為星天歌(2006)的續作，[https://ina.fanbox.cc/posts/57048 設定上仍有一些變更]
+
+=== 系統 ===
+
+* 通常的連射射擊及綁火力、能量制的爆發攻擊(Buster Attack)
+** 打倒敵人會出現寶石道具、隨著收集可提昇能量、得分和等級
+** 等級昇高彈幕會變強(上限為16)
+** 關卡敵人偏少、相對發出的彈幕很厚
+** 頭目前半發出無名彈幕、下一段才來有命名的彈幕招式
+
+== 故事 ==
+
+ 魔界陷入危機……
+ 兩位惡魔少女艾爾戴特和戴安娜踏上旅程，誓言擊敗最終的邪惡勢力
+
+== 登場人物 ==
+
+=== 自機 ===
+[[File:Danmakai001.png|450px]]
+
+* '''紅蝙蝠的吸血鬼少女 艾爾戴特・普利塔'''/エルディッド＝プリスタージュ/Eldied=Pristage
+** S:鮮血魔槍/ブラッディランス/Bloody Rance:命中後攻擊也稍稍持續的強力直向射擊
+** B:蝙蝠惡夢/レッドオーバー・ミッドナイト/Red Over Midnight:攻擊自己周圍，發動中移動速度上升
+** (63C):暗夜奔跑的吸血鬼/ナイトフライトリンクス/Night Fright Lynx:慢速蝙蝠彈外加魔槍
+* 母親是魅魔，父親是吸血鬼的混血惡魔
+** 能將吞噬血液具象化為使魔的特殊能力、造就貪吃的特質
+** <s>就像蕾米和幽幽子(貪吃)的混合</s>
+
+* '''蝴蝶與絲帶的惡魔 戴安娜・瑪庫艾'''/ダイアナ＝マスター＝クルーエル/Diana=Muster=Cruel
+** S:藍色的郡蝶/ブルーバタリオン/Blue Batallion:覆蓋前方大範圍的廣角射擊
+** B:紫色魔彈/アメジスト・トピード/Amethyst Topedo:向前丟幾顆爆炸的寶石
+** (64C):閃耀的紫色電蝶/ジュエルドバタフライ/Jeweled Butterflies:四方向的爆彈
+* 與艾爾戴特之間有著一段奇特而複雜關係的神秘惡魔
+** 興趣是收集裝飾品，尤其是絲帶
+*** 儘管他的房間裡堆滿了各種各樣的絲帶，雖然看不太出來
+** <s>外型和夏露娜很像又很容易搞混</s>
+
+* '''可愛的黑貓 安潔莉卡・普利塔'''/アンジェリカ＝プリスタージュ/Angelica=Pristage
+** S:白夢的碎片/アンジェリックフェザー/Angelic Feather:追蹤敵人的導引射擊
+** B:純潔的風/ホワイトウインド/White Wind:放出覆蓋大範圍的波動
+** (65C):白夢之繭/ホワイトコクーン/White Cocoon:高密度的全範圍彈
+* 艾爾戴特撿來<s>穿著是黑</s>的貓
+** 結局會去找可可亞玩
+
+=== 頭目 ===
+[[File:Danmakai002.png|800px]]
+
+* '''森林的大蛇 夏露娜・娜嘎'''/シャルナ=ナーガ/Shallna=Naga
+{{hideh|招式}}
+* (1):毒蛇之牙:Snake Bite:毒液(散射)
+* (2N):跳舞吧！青大將:Green Die Show:日本錦蛇(長條蛇形彈)
+* (3H):跳舞吧！赤膽蛇:Red Die Show:虎斑頸槽蛇(長條ry)、亂射牙彈
+* (4L):跳舞吧！黑曼巴/ブラックマン:Black Die Show:少量長條ry、牙彈幕
+* (55C):大魔界蛇:ヨルムンガンドル/Jormungandr:耶夢加德(四方光束蛇和追尾彈)
+{{hidef}}
+* 星天歌就有登場過，一條生活在森林裡的巨蛇
+** 本身並不管理森林，但它的家族世世代代都是森林的守護者
+** 喜歡騷擾過往的行人，常常找些蹩腳的藉口擋路
+** 專用曲:{{youtube|mVw39m1w0dg|びっくりスネークショー}}、{{youtube|QFL6VfBC9mY|手の上の闇(星天歌)}}
+
+* '''毒沼的孤獨少女 魅東 闇'''/魅東 ヤミ/Miazuma Yami
+{{hideh|招式}}
+* (5):不淨的波紋:Dirty Ripple:反彈彈幕
+* (6N):瘴氣的波紋:Miasma's Ripple:反彈彈幕x3
+* (7H):病毒監獄:Poison Prison:長條彈幕加散射
+* (8L):紫色的戀慕:Purple Stalker:大型追尾彈
+* (56C):侵犯世界的接吻:Illnessick Kiss:包圍式彈幕
+{{hidef}}
+* 沒朋友、很想找人玩
+** <s>兼任本作的看版娘</s>
+** 專用曲:{{youtube|WnOsweJweLk|君は僕の友達じゃない}}
+
+* '''園丁甜瓜妖精 甜香'''/テンカ/Tenka
+{{hideh|招式}}
+* (9):魔界產・赤甜瓜:Dangerous Cantaloupe:移動散播的彈幕
+* (10N):甜瓜炸彈:Melon Bomb:散播大彈並爆出小子彈
+* (11H):甜瓜炸彈・公主式:Princess Melon Bomb:上者的五角形版本
+* (12H):香甜的甜瓜田:Sweet Green Garden:散播種子、長出彎曲雷射
+* (13L):妖精們的桃色甜瓜田:Fairies Sweet Garden:上者的桃色版本
+* (39EX):彈幕小番茄:Bullets Mini Tomatoes:種出會落下的番茄彈
+* (40EX):酸彈黃瓜甜瓜:Acidulous Sandiita:播種風暴
+* (57C):菜田收穫節:Halloween Garden:甜瓜田雷射及南瓜兵的增援
+{{hidef}}
+* 宅邸的園丁、試圖驅逐來找碴的主角們
+** <s>甜瓜(乳量)</s>
+** 專用曲:{{youtube|_UwG4r5yLRs|脱法メロン}}
+
+* '''兔耳女僕 愛米・愛米潔'''/アルミ=アルミラージ/Almi=Almiraj
+{{hideh|招式}}
+* (27):魔兔之歌:Gold Song:全向高速彈
+* (60):銀兔之歌:Silver Song:疊合的慢速彈
+{{hidef}}
+* {{censored|把坦布蕾帶進席赫宅邸內的特務、身份暴露後遭到剝削}}<s>蓓特莉絲的玩具</s>
+** <s>[https://x.com/Inatsuka/status/1315583208197509123 兼任本作的宣傳版娘]</s>
+
+* '''炎之貓耳女僕 可可亞・比滋肯'''/ココア＝ビスケット/Cocoa=Biscuit
+{{hideh|招式}}
+* (14):赤貓的三角:Burning Cat Triangle:滾動並發出火花
+* (15H):赤貓女僕三角踢:Nekomimi Maid Triangle:對自機加速滾動
+* (16):壁踢星星：Wall Beating Asbestos:向側邊撞牆
+* (17H):鬥神降臨・肉球亂舞:Orange God Paw Dance:召喚巨大貓神
+* (T18L):半夜的貓咪集會:Midnight Tapetums:八隻雷射眼貓咪
+* (43EX):貓的強襲:Burning Play Cat:對自機追尾滾動
+* (44EX):飛馳的貓車:The Rolling Cats:與貓神合作的滾動
+* (58C):炎之貓惡魔Lovely Radiant:Demon Cat Lovely Radiant:加速性的燃燒彈幕
+{{hidef}}
+* 席赫宅邸的女僕
+** 專用曲:{{youtube|EKNuSuYAgnM|ネコ・メイド・ナイト}}
+
+* '''花之白羽惡魔 拜莉耶・席赫'''/ベリエル＝シルバーハート/Beliel=Silverheart
+{{hideh|招式}}
+* (19):魔界的紫花槍:Lupinus Spear:散播彈幕、不須攻擊本體
+* (20):貪婪的黃昏大地:Underground Lupinus:落地後才有攻擊判定的上昇彈
+* (21):白翼的白三葉草:Heaven's Clover:佈滿四葉草的陣中攻擊
+* (22H):白翼和紫三葉草:Clover Garden:佈滿的軌道有變化
+* (23):除雪的水仙花:Freeze Break Freesia:兩個開花子機
+* (24H):天衣無縫的香雪蘭:Star Innocency Freesia:一次四個開花子機
+* (25H):鐘錶機關的百日花:Clockwork Zinnia:全範圍彈幕(偏慢)
+* (26L):機械裝置的紅色百日花:Clockwork Red Zinnia:上者的密集版本
+* (41EX):白色小花冠:Rapunzel Crown:發出會慢慢爆開的花
+* (42EX):懷鄉之銀蓮花:Anemone Nostalgia:移動式的密集彈幕
+* (59C):薔薇的奇蹟:Miracle Rainbow Rose:七色的開花彈幕
+{{hidef}}
+* 宅邸的主人、容許坦布蕾使用庭院
+** 專用曲:{{youtube|_sYN9dA9-Qw|白羽根の悪魔}}
+
+* '''禁忌與蘋果的大惡魔 坦布蕾-巴賽克'''/タブーレスバスケット/Tabooless-Basket
+{{hideh|招式}}
+* (28):惡魔爪:Demon's Claw:兩側發出爪子般的彎曲雷射
+* (29L):大惡魔的爪:Devil's Claw:爪子增至四個
+* (30):蒼之轟炸:Glasya-Labolas:發出爆炸的槍彈
+* (31L):紅蓮的魔界焦土:Catastrophe Revaria:上者加上對自機散射x2
+* (32):嗜血的錨鏈:Hungry Devil Anker:七條反射到自機的錨鏈
+* (33L):沙的果實:Stalking Devil Anker:對自機的追尾錨鏈
+* (34):埋葬的棺材:Premature Buria:雷射、大形彈、散彈
+* (35):擁抱的牢籠:Pandora Box:觸手(雷射、帶有追尾彈)
+* (T36):少女啊，在籠子裡睡吧:Diabolos Basket:注意藍彈的耐久戰
+* (T37L):少女啊，在我的愛中沉睡吧:Diabolos Love Basket:注ry、籠子會轉動
+* (B38):覺醒吧！禁斷的果實:The Red Forbidden Fruit:召喚果實、越久越強
+* (61C):大惡魔機槍:Tabooless Machinegun:一段敵機散射、二段藍槍彈、三段火箭彈
+{{hidef}}
+* 種植禁忌果實污染大地的元兇<s>致敬巴蕾塔的槍彈小紅帽</s>
+** 聲稱要對魔界復仇，{{censored|失敗後認同艾爾戴特的實力並試圖挖角她當魔王}}
+** 專用曲:{{youtube|7CdApfu_nQ0|リンゴ持ってる奴は大体ヤバい}}、{{youtube|qTt9WgmE4us|甘い林檎のディアボロス}}
+
+* '''在天空中飛舞的白色惡魔 蓓特莉絲・席赫'''/ベアトリーチェ＝シルバーハート/Beatrice=Silverheart
+{{hideh|招式}}
+* (45):仰望白色魔天樓:Diamonds Skyscraper:紫花槍強化版
+* (46):戀人的季節:Champagne　Gold　Rain:降雪般的慢速彈
+* (47):天之國與豆之塔:Jack the Giant Skyer:碗豆雨和落下的金蛋
+* (48):戰場的聖誕夜:Deicide Interceptor:拉遠不須低速移動來應對
+* (49):夢想中的棉花糖:Dreaming CottonCandy:到達自機當前位置再爆發
+* (50):煉獄山的天使:Purgatory Angel:彎曲的彈陣
+* (51):幻想空魚:Sky Fish:長條彈
+* (52):天空之花:Silver Heart:五角子機陣
+* (T53):無限接近透明的藍天:Almost Transparent Blue Sky:白彈幕構成的耐久戰
+* (B54):彈幕新世界:Ars Nova:召喚大量子彈的通道
+* (62C):海星怪獸:Tiamat:召喚大ry、並散播彈幕
+{{hidef}}
+* 拜莉耶的妹妹，有著天使般的外表
+** 專用曲:{{youtube|oYOe6RZ1nxI|天空の支配者}}
+
+{| class="wikitable" style="margin: 0 auto;" 
+|-
+! '''Stage''' !! '''Boss'''
+|-
+| 01<br>Snake Forest/蛇之森 || 夏露娜・娜嘎
+|-
+| 02<br>Alone In The Miasma/獨自一人身處瘴氣之中 || 魅東 闇
+|-
+| 03<br>Melon Taste Gardener/瓜味園丁 || 甜香
+|-
+| 04<br>Burning NekoMaid/燃燒的貓女僕 || 可可亞・比滋肯
+|-
+| 05<br>Devil's Flower Garden/魔鬼花園 || 拜莉耶・席赫
+|-
+| Fi<br>The Red Forbidden Fruit/紅色的禁忌果實 || 坦布蕾-巴賽克
+|-
+| Ex<br>Bullets Over The Sky/天空彈幕 || 蓓特莉絲・席赫
+|}
+
+== 隱藏要素 ==
+
+* 挑戰模式:通關Normal以上並解鎖
+** 有著頭目們的最強招式以及主角們自己的招式
+
+* 安潔莉卡:不接關下通關
+
+* [https://www.gamespark.jp/article/2022/10/13/123371.html 盜版反制模式]
+** 四面後可樂餅妖精亂入關卡加強難度(頭目登場時消滅)
+
+== 參考資料 ==
+
+* [https://store.steampowered.com/app/1388230/DANMAKAI_Red_Forbidden_Fruit/ Steam官網]
+** [[同人STG系列作品列表]]
+
+== 回應 ==
+<comments />
+
+== 備註 ==
+<references/>
+
+[[分類:遊戲]]
