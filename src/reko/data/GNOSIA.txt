@@ -481,10 +481,16 @@
 * 沙是姓氏，明是名字，發音是Sha-ming。名字的來歷是著名漫畫家沙村廣明。
 
 == 主題曲 ==
+=== TV動畫 ===
 * OP「化けの皮」
 ** 作詞：Misumi／作曲：Giga & TeddyLoid／演唱：[[Kobo Kanaeru]]＆[[VOCALOID|重音テト]]
-* ED「Loo% Who%」
+
+* ED1「Loo% Who%」
 ** 作詞＆作曲：TK／演唱：凛として時雨
+
+* ED2「FLOOR KILLER」
+** 作詞＆作曲＆演唱：梅田サイファー
+** 與ED1根據不同集數的劇情穿插使用
 
 == 回應 ==
 {{pcomment|section=1}}

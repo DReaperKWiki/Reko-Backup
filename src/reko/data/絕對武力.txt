@@ -210,6 +210,7 @@
 |「裂網行動」新增部隊。
 |}
 {{hidef}}
+* 另外，遊戲文件中還存在有穿著類似於紅色高棉/越共的武裝力量人員的廢案設定圖。
 
 == 武器 ==
 * 「{{ruby|這不只是一把武器，而是對話題材。|This isn't just a weapon, it's a conversation piece.}}」
