@@ -141,6 +141,7 @@ IJSOZTJLOZSTLOZITSOLZTJIOSLZJTO
 ===Tetris The Grand Master 4: Absolute Eye===
 * 系列唯三家用機作品，'''[[PS3大學長|睽違20年的新作]]'''，2025年4月4日於Steam推出，通稱TGM4、AE
 ** 最初原本預計在2010年推出，當時的副標題為《The Masters of Round》，但系列領銜製作人三原一郎表示由於非官方的仿作太多（尤其海外），令自己相當困擾，而只好先擱置雪藏，幾乎形同[[腰斬]]，之後的2015年再次出現難得的場測以及2024年9月宣布將會推出新作等消息，讓玩家認為TGM4有復活的可能，直至2024年末官方宣布TGM4正式復活，算是圓了不少玩家的遺憾
+** 於2026年6月4日發行Switch版
 * 本次系統再次翻新，IRS系統可讓玩家先行旋轉方塊2次，ARS系統獨有的EXTRA鍵可直接讓Sonic Drop變Hard Drop，另外可以在選項調整斜向輸入與否已讓遊玩體驗更加活性化
 * 方塊的移動模式也沿用自Ace，旋轉系統同樣沿用自Ti但在部分模式也有一些小區別
 ** 隨機系統方面，SRS除了KONOHA採用IRM以外其他模式採用7bags，ARS除了SHIRANUI採用7bags以外其他模式採用IRM

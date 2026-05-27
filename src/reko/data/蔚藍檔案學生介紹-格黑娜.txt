@@ -382,7 +382,7 @@
 
 ==== 淺黃無月(浅黄ムツキ) ====
 * CV：[[大久保瑠美]]（日）/侯小菲（中）/장미（韓）
-* '''班級：'''2年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（正月）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（正月）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''2年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（正月、禮服）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（正月、禮服）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（禮服）；'''職業：'''打手
 * 室長；愛惡作劇的小惡魔，民間譯名多為「睦月」。
 * 與亞瑠從小一起長大，很了解其本性卻經常戲弄對方。
 * 雖然喜歡惡作劇但還是分得清玩笑與惡意的界線，對於夾帶惡意傷害同伴的人會殺意全開。
@@ -394,7 +394,9 @@
 ** 倍率乍看之下不高，但機槍的攻擊力基值高，實際傷害並不差。加上技能只有2費，CP值驚人。
 *** 除了各種關卡清理雜兵以外，還是戰術大賽戶外地形強豪之一，運氣好的話開場EX技就能把對面後排瞬間清空，防禦裝備的徽章也提供了優秀生存能力。
 *** 缺點是本身與技能範圍之間空隙過大，如果走太前的話反而有可能打空
-* 禮服版是常駐三星。
+* 禮服版是常駐三星，EX技是對單體攻擊。
+** 基本技能是一定時間攻擊圓形範圍內敵人並給予爆傷抵抗降低，子技能是給予我方後排攻擊力上升
+** <s>技能組非常露骨的是在給大決戰神秘裝甲葛夫萊做球</s>
 * <s>知名迷因「[https://youtu.be/GfKkSmQrVJw?si=BeJuJwfnpzfmldLK California Gurls舞]」的[[風評被害|被害者（讚賞意味）]]</s>
 * <s>用下巴對鏡頭的戽斗臉表情堪稱經典，甚至有老師還把這表情當成驅鼠用圖片或是當成迷因素材並與上者混用</s>
 ** 實際上該圖像是有玩家逛東京丸井的VR商場時無意間拍攝出來
@@ -433,7 +435,7 @@
 
 ==== 伊草遙香(伊草ハルカ) ====
 * CV：石飛恵里花（日）/劉可慧（中）/정혜원（韓）
-* '''班級：'''1年級；'''武器：'''霰彈槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（正月）；'''職業：'''坦克、輔助（正月）
+* '''班級：'''1年級；'''武器：'''霰彈槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（正月）；'''職業：'''坦克、輔助（正月）、打手（禮服）
 * 一般社員；有著強烈自卑傾向，對於會正視自己的人(如亞瑠或老師)有著強烈忠誠心。
 ** 過去曾受到亞瑠幫助而決定跟隨，會敬愛的稱對方為「亞瑠大人」，其他便利屋成員則用職務敬稱。
 ** 但時常擅自揣摩上意做出失控行徑，可說是團隊裡的麻煩製造者和實質上最危險的存在。
@@ -452,7 +454,9 @@
 *** 但對上一般數值的敵人效果實際折算很低，對少數有特別設定高暴擊抗性或高暴擊傷害抗性的總力王才算堪用。
 ** 子技能是和陽葵一樣的費用回復力強化。
 ** 和服是臨時購買，因遷就價格無法挑選尺寸導致裙子特別短。
-* 禮服版是常駐三星。
+* 禮服版是常駐三星，EX技是對單體能無視一定防禦值的攻擊，同時會自殘。
+** 基本技能是一定時間增加自身攻擊力並回血，恢復量依自身血量比例做調整
+** 子技能是受傷時獲得一個有時限和冷卻時間的「饒不了你」，每持有一個「饒不了你」會增加自身爆傷量，最多能重複獲得3個
 
 === 美食研究會 ===
 * 由四名學生以吃遍全城美食為目標組成的社團，格言：「{{ruby|吃，或死|Eat or Die}}」。通稱「[[金庸|四大餓人]]」<s>、[[基頭四|「飢頭四」]]</s>。
@@ -535,7 +539,7 @@
 ** 具有潔癖，在社團劇情裡提到身上會帶著新內褲
 * 《美食、餅乾與救護》風華不在廚房時，直接告訴茱莉食用油放在入口處架子深處<s>妳居然會知道放哪啊？</s>
 ** 只需看鞋印就能分辨風華的腳印。<s>妳也是變態啊。</s>
-** 為了保護羽留奈而承受美禰攻擊便倒下，隨後羽留奈發現已無勝算就立刻投降。
+** 承受美禰攻擊倒下後羽留奈發現已無勝算就立刻投降。
 * 原版是常駐二星，EX技是4費沒有附加效果的圓形範圍攻擊，威力CP值也一般。
 ** 基本技和子技能都是普攻概率加攻，同時觸發時上限很高。
 ** 容易入手的範圍爆炸打手，也沒有地形弱點，是前期開荒推圖時的常客，也可以當成爆炸隊萬用組使用。

@@ -494,7 +494,7 @@ Ruler、Avenger、Aler Ego<br>
 |{{youtube|2twNijeyE9M|PV}}<br>主題曲：Proof<br>作曲：芳賀敬太<br>旁白CV：[[赤羽根健治]]（卡多克）
 |}
 
-== ？？？ ==
+== {{youtube|xn1A_JeUl2A|one second aftertime}} ==
 {| class="wikitable sortable" style="margin:auto;"
 |-
 ! scope="col" |
@@ -505,13 +505,13 @@ Ruler、Avenger、Aler Ego<br>
 ! scope="col" | PV及主題曲
 |-
 ! 序章
-| AFTER TIME的開始
+| aftertime的開始
 | アフタータイムのはじまり
 |
 | {{censored|奈須蘑菇？}}
 |
 |-
-!
+! ？？？編 
 | 鄉愁永巡刻盤 往昔．迦勒底
 | 郷愁永巡刻盤 パスト･カルデア
 |

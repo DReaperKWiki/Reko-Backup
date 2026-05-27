@@ -288,15 +288,20 @@
 * 圖鑑編號：M057，艦種：戰艦，SSR。
 * 於活動「春色旅籠Online」中登場，透過限時建造或關卡打撈入手。
 
-=== {{anchor|Erebus_META}}[[碧藍航線/登場人物一覽-皇家#Erebus|黑暗界]](META)（エレバス(META)/Erebus META） ===
-[[檔案:Erebus META.png|x200px]]
-* 圖鑑編號：M027，艦種：重炮，SR。
-* 於2023年12月至2024年1月的「世界巡游」作為報酬登場。
+==={{anchor|Elbe_META}}[[碧藍航線/登場人物一覽-鐵血#Elbe|易北]](META)（エルベ(META)/Elbe META）===
+[[檔案:Elbe META.png|x200px]]
+* 圖鑑編號：M060，艦種：輕母，SSR。
+* 於活動「聖印前の同盟」中登場，以限時建造及和關卡打撈出來的形式實裝。
 
 === {{anchor|Glorious_META}}[[碧藍航線/登場人物一覽-皇家#Glorious|光榮]](META)（グロリアス(META)/Glorious META） ===
 [[檔案:Glorious META.png|x200px]]
 * 圖鑑編號：M048，艦種：空母，SSR。
 * 於活動「高い塔の薔薇」中登場，透過限時建造或關卡打撈入手。
+
+=== {{anchor|Erebus_META}}[[碧藍航線/登場人物一覽-皇家#Erebus|黑暗界]](META)（エレバス(META)/Erebus META） ===
+[[檔案:Erebus META.png|x200px]]
+* 圖鑑編號：M027，艦種：重炮，SR。
+* 於2023年12月至2024年1月的「世界巡游」作為報酬登場。
 
 == 搖曳之火（揺灯の力）==
 === {{anchor|Pamiat_Merkuria_META}}[[碧藍航線/登場人物一覽-北方聯合#Pamiat_Merkuria|水星紀念]](META)（パーミャチ・メルクーリヤ(META)/Pamiat Merkuria META） ===
@@ -395,11 +400,6 @@
 [[檔案:Akagi META.png|x200px]]
 * 於活動「絳染む丹華の詠歌」劇情中初次登場。
 <!--
-==={{anchor|Elbe_META}}[[碧藍航線/登場人物一覽-鐵血#Elbe|易北]](META)（エルベ(META)/Elbe META）===
-[[檔案:Elbe META.png|x200px]]
-* 圖鑑編號：M0XX，艦種：輕母，SSR。
-* 於活動「聖印前の同盟」中登場，以限時建造及和關卡打撈出來的形式實裝。
-
 ==={{anchor|Königsberg_META}}[[碧藍航線/登場人物一覽-鐵血#Königsberg|柯尼斯堡]](META)（ケーニヒスベルク(META)/Königsberg META）===
 [[檔案:Königsberg META.png|x200px]]
 * 圖鑑編號：M0XX，艦種：輕巡，SSR。

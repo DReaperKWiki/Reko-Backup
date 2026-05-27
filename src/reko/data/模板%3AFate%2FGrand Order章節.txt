@@ -43,8 +43,11 @@
 '''奏章Ⅱ'''：[[不可逆廢棄孔 本我|不可逆廢棄孔 伊底]]<br>
 '''奏章Ⅲ'''：[[新霊長後継戦 アーキタイプ･インセプション|新靈長後繼戰 Archetype．Inception]]<br>
 '''奏章Ⅳ'''：[[人類裁決法廷 トリニティ・メタトロニオス|人類裁決法庭 三位一體．梅塔特隆尼奧斯]]
-|group5 = 活動
-|list5 = [[Fate/Grand Order活動一覽]] / [[Fate/Grand Order 大型活動分頁]]
+|group5 = one second aftertime
+|list5 = '''序章'''：aftertime的開始<br>
+'''？？？篇'''：鄉愁永巡刻盤 往昔．迦勒底<br>
+|group6 = 活動
+|list6 = [[Fate/Grand Order活動一覽]] / [[Fate/Grand Order 大型活動分頁]]
 }}
 
 <noinclude>[[分類:特定主題使用模板]]</noinclude>

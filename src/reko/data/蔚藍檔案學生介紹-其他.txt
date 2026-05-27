@@ -915,7 +915,7 @@
 ==== 霞澤美優(霞沢ミユ) ====
 * CV：[[後藤邑子]]（日）/小兔布塔（中）/김채하（韓）
 * '''班級：'''1年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）；'''職業：'''輔助、打手（泳裝）
-* RABBIT 4。擔任狙擊手。
+* RABBIT 4。擔任<s>[[朝比奈實玖瑠|SOS團副副團長兼吉祥物]]</s>狙擊手。
 ** {{censored|1-Vol.Final攻略第三聖所守護者白&黑時，陽奈對美優能在颱風級別的風速影響下與超出狙擊槍有效射程兩倍以上距離的位置也能精準射擊之事感到讚嘆。}}
 * 反抗的理由是「不想被同一隊伍的其他同伴遺忘」。
 * 雖然職務表現良好，但本人對自己過低的存在感有重度自卑情結，就連同隊三名隊友都時常察覺不到她的存在。
@@ -1571,6 +1571,7 @@
 * 直接使用郵輪當做校舍，某次活動所在的郵輪便是該學校財產。
 * 晄輪大祭的起源即是源於該校在船上舉辦的體育節活動。
 * 《夏日天空的約定》小遊戲裡從兔女郎裝雜魚口中得知有懲戒用海底禁閉室
+* 2-Vol.Ex2提及曾為了抗議聯邦總學生會，在深夜時利用甲板滾動砲彈進行抗爭。<s>又是一所瘋學校...</s>
 * 2026年4月生放送公布的7th PV中公布了疑似該校的校徽與部分可能在日後實裝的學生
 
 === 七囚人 ===
