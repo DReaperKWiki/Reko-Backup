@@ -16,9 +16,9 @@
 *種族：兔子
 *性別：女
 *出道年份：2005年
-*生日：10月31日
+*生日：10月31日{{zodiac|10|31}}
 *CV：（日）[[竹內順子]]
-** （英）Jenny Yokobori (Hello Kitty and Friends Supercute Adventures ）（My Melody & Kuromi) ／Diana Garnet (Kuromi's Pretty Journey)
+** （英）Jenny Yokobori (Hello Kitty and Friends Supercute Adventures ）（My Melody & Kuromi) ／Diana Garnet (Kuromi's Pretty Journey)<ref>同時也負責英語版的歌曲</ref>
 ** （港）謝潔貞（OMM）
 *設計師：山口裕子→小林久美子→りーも
 *為Sanrio旗下少數被定義為反派角色的吉祥物
