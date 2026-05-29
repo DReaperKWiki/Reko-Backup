@@ -11,6 +11,7 @@
 ==簡介==
 * 由日本同人團體「四ツ羽根」製作的同人2D STG
 ** 標題名Crimzon Clover取自現實中的植物「絳三葉（Crimson Clover）」
+** 主導本作的製作人Clover-TAC同時也是彈幕向2D STG的高手玩家，也曾經是《虫姫さま ふたり》的世界紀錄衛冕者，此外也有當過大多彈幕向2D STG的測試員
 * 本作又分最初於コミックマーケット79（C79）推出的初版、NESiCA×Live街機版（2013年4月25日推出，與冒険企画局共同製作）、之後逆移植至Steam的World Ignition（2014年6月4日推出，與冒険企画局共同製作）以及後來再加強且又移植至Switch的World EXplosion（2020年10月29日推出，'''若先前有在Steam購買過World Ignition的玩家可無償購買升級'''）
 ** 初版有Simple難度，而後Simple難度於NESiCA×Live街機版、World Ignition以及World EXplosion直接整併至初學者（Novice）模式
 ** 初版大多隱藏要素以及特點需要利用途中蒐集的星星徽章去遊戲商店「Limited Shop」購買解禁（包含Type-Z）
