@@ -46,15 +46,15 @@
 * 以下介紹主要系列和相關定番
 
 ===Animator vs. Animation/火柴人 VS 動畫師===
-* 通稱AvA，最初創作和最主要的系列，圍繞{{color|#a303fc||動畫師（Alan本人）}}和他{{color|#505050||筆}}{{color|#000000||下}}{{color|#FF0000||造}}{{color|#FF6600||物}}在電腦界面裡<s>打破[[第四面牆]]的家庭喧嘩</s>的衝突展開的連續劇
+* 通稱AvA，最初創作和最主要的系列，圍繞一名{{color|#a303fc||動畫師（Alan本人）}}和他{{color|#505050||筆}}{{color|#000000||下}}{{color|#FF0000||造}}{{color|#FF6600||物}}在電腦界面裡<s>打破[[第四面牆]]的家庭喧嘩</s>的衝突展開的連續劇
 ** 需要注意的是和衍生系列不同，'''第一個A代表的是{{ruby|Animator|動畫師}}而非{{ruby|Animation|火柴人}}'''
 ** {{censored|<s>一個火柴人引發的血案、滑鼠游標和前三個兒子間的父子喧嘩、互聯網歷史上最強家庭糾紛、Alan電腦受害史</s>}}
-** 從AvA4開始，{{censored|隨著Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和爆破Alan電腦的定番還是會有的</s>
+** 從AvA4開始，{{censored|隨著Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的早期公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和爆破Alan電腦的定番還是會有的</s>
 * AvA5最初被分拆為EP1~4發佈，不過後來Alan重整系列，將整個AvA5四部曲定義為AvAS2，原本的AvA5 EP1~4隨之升格為AvA5~8
 ** 與之相應，AvA1~4被整體定義為S1，原定分為七部曲的AvA6則變成了S3
 * 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS2才開始有意識地佈置長線伏筆，[[吃書]]早期設定自然難免
-* 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本被打回去重寫了一遍</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
-** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴要在水裡泡至少半年}}</s>
+* 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本似乎經歷了大幅度的改動</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
+** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴要在水裡泡大半年}}，AvA13更是從最初說好的26年二月一路跳票到五月底快六月……</s>
 
 {{hideh|點擊展開}}
 {|width="100%" class="wikitable" 
@@ -65,11 +65,11 @@
 |-
 | 1 || Animator vs. Animation<br>火柴人 VS 動畫師 || 2006/6/3 (Newgrounds)<br>2007/5/14 (Youtube) || ''{{color|#a303fc||動畫師}}和他的{{color|#505050||動畫}}陷入一場生死搏鬥，戰場？Flash軟體界面。{{color|#a303fc||動畫師}}畫出這個{{color|#505050||火柴人}}只為了折磨他，而{{color|#505050||火柴人}}將使用他能找到的一切——畫筆工具、橡皮工具等等報復他的施虐者。智謀對上力量，誰會贏？請各位看官拭目以待。''{{ref|原影片簡介翻譯，以下斜體皆同}}<br>各種意義上的一切的開始，<s>長子</s>{{color|#505050||victim}}初登場，一度靠分身群毆把游標打得落至下風，{{censored|但最後還是被Alan抓到機會直接關掉檔案而未被保存<s>以至於AvA11出來前的十八年間很多二創都要設法解釋他是怎麼活下來的</s>}}|| [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1Bp4y1q7xU bilibili]
 |-
-| 2 || Animator vs. Animation II<br>火柴人 VS 動畫師 2 || 2006/11/4 (Atom)<br>2007/3/15 (Newgrounds)<br>2007/5/14 (Youtube) || ''尋求挑戰的{{color|#a303fc||動畫師}}決定創造一個更難擊敗的火柴人，但他對自己到底給了這個小傢伙多少力量幾乎一無所知，{{color|#000000||天選之子}}萬歲！''<br><s>Alan老馬實錄</s>，<s>次子</s>{{color|#000000||The Chosen One (TCO)}}初登場，舞台從前作的Flash 8界面內擴展到桌面上，附帶各種桌面圖標為捍衛電腦安危車輪大戰TCO的創意場面<s>雖然最後還是要靠殺軟救場</s><br>題外話：由於Alan未經多想便直接在影片中暴露了自己的AIM賬號，直接導致他一打開AIM就會被滿滿當當的垃圾信息刷屏而從此放棄使用該平台<s>可見保護個資安全有多麼重要</s> || [https://www.youtube.com/watch?v=nxM1cnphLpw youtube]<br>[https://www.bilibili.com/video/BV1nk4y1m7uq bilibili]
+| 2 || Animator vs. Animation II<br>火柴人 VS 動畫師 2 || 2006/11/4 (Atomfiles)<br>2007/3/15 (Newgrounds)<br>2007/5/14 (Youtube) || ''尋求挑戰的{{color|#a303fc||動畫師}}決定創造一個更難擊敗的火柴人，但他對自己到底給了這個小傢伙多少力量幾乎一無所知，{{color|#000000||天選之子}}萬歲！''<br><s>Alan老馬實錄</s>，<s>次子</s>{{color|#000000||The Chosen One (TCO)}}初登場，舞台從前作的Flash 8界面內擴展到桌面上，附帶各種桌面圖標為捍衛電腦安危車輪大戰TCO的創意場面<s>雖然最後還是要靠殺軟救場</s><br>題外話：由於Alan未經多想便直接在影片中暴露了自己的AIM賬號，直接導致他一打開AIM就會被滿滿當當的垃圾信息刷屏而從此放棄使用該平台<s>可見保護個資安全有多麼重要</s> || [https://www.youtube.com/watch?v=nxM1cnphLpw youtube]<br>[https://www.bilibili.com/video/BV1nk4y1m7uq bilibili]
 |-
-| 3 || Animator vs. Animation III<br>火柴人 VS 動畫師 3 || 2010/10/4 (Atom)<br>2011/10/2 (Youtube) || ''第二集裡的{{color|#000000||「天選之子」}}被{{color|#a303fc||動畫師}}當成彈窗廣告屏蔽插件困在IE瀏覽器里。這段動畫描述了他如何逃到Microsoft Word、空當接龍、掃雷乃至於電腦桌面上的經歷。''<br>AvA2的直接續集，為了遏制逃脫束縛的TCO，Alan在這集中造出了<s>三子</s>{{color|#FF0000||The Dark Lord (TDL)}}{{censored|殊不知他這一畫就搞出了個系列最大亂源，<s>甚至差點讓整個互聯網陷入危機</s>}}<br>{{censored|如前所述，由於Alan當時沒有繼續製作續集的打算，為不留餘地直接爆破了（劇中）自己的電腦，當然後來的事嘛……}} || [https://www.youtube.com/watch?v=PCtr04cnx5A youtube]<br>[https://www.bilibili.com/video/BV1o54y1S7tY bilibili]
+| 3 || Animator vs. Animation III<br>火柴人 VS 動畫師 3 || 2010/10/4 (Atomfiles)<br>2011/10/2 (Youtube) || ''第二集裡的{{color|#000000||「天選之子」}}被{{color|#a303fc||動畫師}}當成彈窗廣告屏蔽插件困在IE瀏覽器里。這段動畫描述了他如何逃到Microsoft Word、空當接龍、掃雷乃至於電腦桌面上的經歷。''<br>AvA2的直接續集，為了遏制逃脫束縛的TCO，Alan在這集中造出了<s>三子</s>{{color|#FF0000||The Dark Lord (TDL)}}{{censored|殊不知他這一畫就搞出了個系列最大亂源，<s>甚至差點讓整個互聯網陷入危機</s>}}<br>{{censored|如前所述，由於Alan當時沒有繼續製作續集的打算，為不留餘地直接爆破了（劇中）自己的電腦，當然後來的事嘛……}} || [https://www.youtube.com/watch?v=PCtr04cnx5A youtube]<br>[https://www.bilibili.com/video/BV1o54y1S7tY bilibili]
 |-
-| 4 || Animator vs. Animation IV<br>火柴人 VS 動畫師 4 || 2014/10/2 || ''一個{{color|#FF6600||火柴人}}和創造他的{{color|#a303fc||動畫師}}之間的戰鬥。本集中，現實中的{{color|#a303fc||動畫師}}終於出鏡和他的電腦顯示器互動。這個{{color|#FF6600||火柴人}}激烈反抗著他的創造者，駭入他的臉書賬戶讓他社死、通過USB線進入他的iPhone、以及自行繪製動畫形象來破壞動畫軟體界面。''<br><s>末子</s>{{color|#FF6600||The Second Coming (TSC)}}和他的{{color|#66cc00||四}}{{color|#33ccff||色}}{{color|#ffcc00||夥}}{{color|#cc0000||伴}}們初登場，成為此後大多數影片中的主角陣<s>雖然本集中四色其實沒多少戲份和描寫</s><br>時隔四年後的正統續作，此時Alan已從學校畢業且有家室要供養，故以眾籌方式籌集資金製作，參與眾籌者多數以臉書好友身份在劇中出現，其中一人「Darren Schwartz」更是作為出資最多者得到了直接的客串戲份 || [https://www.youtube.com/watch?v=VufDd-QL1c0 youtube]<br>[https://www.bilibili.com/video/BV1if4y1X7iH bilibili]
+| 4 || Animator vs. Animation IV<br>火柴人 VS 動畫師 4 || 2014/10/2 || ''一個{{color|#FF6600||火柴人}}和創造他的{{color|#a303fc||動畫師}}之間的戰鬥。本集中，現實中的{{color|#a303fc||動畫師}}終於出鏡和他的電腦顯示器互動。這個{{color|#FF6600||火柴人}}激烈反抗著他的創造者，駭入他的臉書賬戶讓他社死、通過USB線進入他的iPhone、以及自行繪製動畫形象來破壞動畫軟體界面。''<br><s>末子</s>{{color|#FF6600||The Second Coming (TSC)}}和他的{{color|#66cc00||四}}{{color|#33ccff||色}}{{color|#ffcc00||夥}}{{color|#cc0000||伴}}們初登場，成為此後大多數影片中的主角陣<s>雖然本集中四色其實沒多少戲份和描寫</s><br>時隔四年後的正統續作，此時Alan已從學校畢業且有家室要供養，故以眾籌方式籌集資金製作，支持者多數以臉書好友身份出鏡，其中一人「Darren Schwartz」更是作為出資最多者得到了直接的客串戲份 || [https://www.youtube.com/watch?v=VufDd-QL1c0 youtube]<br>[https://www.bilibili.com/video/BV1if4y1X7iH bilibili]
 |-
 ! colspan="5"|<center><s>Animator vs. Animation V</s> '''Season 2'''</center>
 |-
@@ -89,7 +89,9 @@
 |-
 | 11 || Victim<br>受害者 || 2024/12/14 || ''作為一切開端的{{color|#505050||那個火柴人}}。''<br>{{censored|整集都是vic的回憶，看過之後只會想問Alan你吃錯什麼藥要這樣對待你家長子（劇情中和劇本外雙重含義），<s>雖然也有人在意的是「那TCO和TSC是不是還要再繼續被關一年」</s><br>場面極大的揭開了整個AvA/外聯網的世設一角<s>難怪製作週期長達兩年</s>，在背景中給出了Purple一家的起源和暗示覺醒TSC能力的真實面目<br><s>Alan發刀太狠，觀眾不是為vic的遭遇胃痛就是為自己的二創設定被狠狠背刺而哀嚎，完全無法料想按目前的情況，之後到底要怎麼給vic一個救贖或好結局</s>}} || [https://www.youtube.com/watch?v=2eHozBXlEpw youtube]<br>[https://www.bilibili.com/video/BV1XBBEYVEWx bilibili]
 |-
-| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到{{color|#a303fc||動畫師}}面前的{{color|#505050||那個火柴人}}。''<br><s>這個標題配縮略圖中央大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|vic通過Yellow的記憶得到召喚游標的方式，以欺詐和脅迫的手段逼迫Alan為自己改名為「{{ruby|H4CK3R|駭客}}」並因此獲得<s>大號</s>超能力，隨後徑直飛往ALANSPC展開其復仇戰<br><s>本集最慘：被強制改名為「{{ruby|NO ONE|無名氏}}」後失去全部超能力不說還徑直掉進水裡、大概要到下一集才能爬上岸的TCO</s>}}<br>整體相當壓抑的一集，<s>氣氛全靠Green的臀部鏡頭提起來的（大誤）</s> || [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
+| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到{{color|#a303fc||動畫師}}面前的{{color|#505050||那個火柴人}}。''<br><s>這個標題配縮略圖中央大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|vic通過Yellow的記憶得到召喚游標的方式，以欺詐和脅迫的手段逼迫Alan為自己改名為「{{ruby|H4CK3R|駭客}}」並因此獲得<s>大號</s>超能力，隨後徑直飛往ALANSPC展開其復仇戰<br><s>本集最慘：被強制改名為「{{ruby|NO ONE|無名氏}}」後[[才能喪失|失去全部超能力]]不說還徑直掉進水裡、到下一集才被撈上岸的TCO</s>}}<br>整體相當壓抑的一集，氣氛全靠<s>Green的臀部鏡頭</s> 紅綠藍智取三僱傭兵提起來的|| [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
+|-
+| 13 || The Machine<br>機器 || 2026/5/30 || ''把它啟動，看它發揮。'' ||[https://www.youtube.com/watch?v=l6WeJ9JqDfU youtube]<br>[bilibili]
 |}
 {{hidef}}
 
