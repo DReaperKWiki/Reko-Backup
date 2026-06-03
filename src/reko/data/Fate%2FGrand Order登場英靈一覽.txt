@@ -4171,6 +4171,18 @@
 | rowspan=2|獅心王理查的么弟。
 |-
 | [[小市真琴]]
+|-
+! rowspan="2"|470
+| [[Urðr (Fate)|終末的Archer]]
+| rowspan="2"|Archer
+| rowspan="2"|天
+| rowspan="2"|
+| rowspan="2"|飯田ぽち
+| rowspan="2"|[[羊宮妃那]]
+| rowspan="2"|
+| rowspan="2"|自1.5部以來時隔多年再次出現隱藏真名的從者<s>雖然曾說過不會再搞了但因為劇中時間被倒轉了所以(ry</s>
+|-
+| [[Urðr (Fate)|{{censored|烏爾德}}]]
 |}
 
 
