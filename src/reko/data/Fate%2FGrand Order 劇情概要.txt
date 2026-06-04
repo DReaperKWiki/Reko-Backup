@@ -508,7 +508,7 @@ Ruler、Avenger、Aler Ego<br>
 你們不知道到底做了什麼<br>
 你們看不見自己到底在哪裡<br>
 因此<br><br>
-過去的惡被遺忘<br>
+[[Urðr (Fate)|過去的惡]]被遺忘<br>
 {{color|purple|white|正確的記憶錯漏百出}}{{ref|紫字會被上一段文字重疊遮擋，朗讀CV疑似是[[諸星堇]]（[[Lilith (Fate)|莉莉絲]]）}}<br><br>
 繁華的惡謳歌{{ruby|活著|現在}}<br>
 {{color|purple|white|自作聰明的詩人盡是蠢貨}}<br><br>
@@ -518,7 +518,7 @@ Ruler、Avenger、Aler Ego<br>
 那是不純的創造之{{ruby|理|しかえし}}{{ref|しかえし可能指復仇或重做}}<br>
 簡直像是欠缺自由，被自由創造出來的我的構造<br><br>
 {{color|blue|white|你一定能為我阻止這個企圖}}<br>
-{{color|blue|white|三柱的命運、背信{{ref|也有認為是背神或廢棄}}的七天，將那些全部打倒}}<br>
+{{color|blue|white|三柱的命運、背信的七天，將那些全部打倒}}<br>
 {{color|blue|white|希望你、再一次、不論多少次、不停地拯救下去}}<br><br>
 {{color|blue|white|但是，請別就為拯救了世界而得意}}<br>
 {{color|blue|white|畢竟從最初以來，一切就是為此製作出來}}<br><br>
@@ -535,23 +535,22 @@ Ruler、Avenger、Aler Ego<br>
 ! scope="col" |
 ! scope="col" | 章節名/副標題
 ! scope="col" | 原文
-! scope="col" | 
 ! scope="col" | 負責作者
 ! scope="col" | PV及主題曲
 |-
 ! 序章
 | aftertime的開始
 | アフタータイムのはじまり
-|
 | {{censored|奈須蘑菇？}}
 |
 |-
-! ？？？編 
-| 鄉愁永巡刻盤 往昔．迦勒底
+! rowspan="4"| {{censored|命運三女神}}編 <br>{{censored|運命の三女神}}編
+! colspan="4"| 命運操控者訴說 衪們願不再受限制{{ref|運命の操り手は語った。 彼らに制限はないように と}}
+|-
+| [[鄉愁永巡刻盤 過去．迦勒底]]
 | 郷愁永巡刻盤 パスト･カルデア
-|
-|
-|
+| {{censored|櫻井光？}}
+| {{youtube|OMrBD64d3pA|PV}}<br>主題曲：命を選べるか<br>主唱：Nona*<br>旁白CV：羊宮妃那（[[Urðr (Fate)|烏爾德]]）
 |}
 
 == Fate/Grand Order Arcade ==
