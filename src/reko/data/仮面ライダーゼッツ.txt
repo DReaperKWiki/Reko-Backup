@@ -170,8 +170,10 @@
 | 24 || {{color|white|black|Chaos<br>（カオス）}} || 封印各種惡夢的Capsem<br>會讓使用者能自由召喚不同的惡夢使者 ||
 |-
 | 29 || {{color|black|yellow|Wolf<br>（ウルフ）}} || 封印Wolf Nightmare的惡夢的Capsem ||
-<!-- |-
-| ? || {{color|blue|yellow|Midnight Shadow<br>（ミッドナイトシャドウ）}} || ? ||  -->
+|-
+| rowspan="2"|38 || {{color|blue|yellow|Midnight Shadow<br>（ミッドナイトシャドウ）}} || 封印Midnight Shadow Nightmare的惡夢的Capsem<br>不會自動掰開兩半，用於變身前要先自行掰成兩半再裝入變身器 || 
+|-
+| {{color|white|black|Phantom<br>（ファントム）}} || 封印Phantom Gore Nightmare的幻影之力的Capsem<br>會讓使用者能使出[[幻術|幻惑]]攻擊 ||
 |-
 | 劇場版 || Daydream<br>（デイドリーム） || ? || 
 |}
