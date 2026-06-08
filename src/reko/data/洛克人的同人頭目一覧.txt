@@ -421,6 +421,39 @@
 ***[https://youtu.be/-100YVX5Fgo?si=uRqJjO4YlTsGqJjj Ost]
 **[https://megamanfanon.fandom.com/wiki/Rock_Man_New_Menace megamanfanon]
 
+==W==
+*製作:JDE173901(2026)
+** 特色:
+*** 視覺貼近11、可選兩個補助道具，也有收集CD及抓補敵人的要素
+*** Weaseletta源自過去官方投稿活動的角色、恐怖泰迪為感染程式
+*** Exe的Serenade在這裡是洛克人殺手、武器是Serenade Tone/夜曲調
+
+{| class="wikitable" style="margin: 0 auto;" 
+! '''頭目/WVN''' !! '''武器'''!! '''簡介'''
+|-
+| 01<br>Tremor Man/震動人||Tremor Pulse/震動脈衝||[專用曲]<br>用於工業採礦和地震監測
+|-
+| 02<br>Beam Man/光束人||Wrecking Beam/破擊光束||[https://www.youtube.com/watch?v=-x5ArykrKcI Lofty Livewire]<br>用於監控和分配能源
+|-
+| 03<br>Arctic Man/北極人||Shattered Diamond/破碎鑽石||[專用曲]<br>冰凍人的代理、外觀有重新設計好幾次<br><s>阻擋視線的戰場</s>
+|-
+| 04<br>Ninja Man/忍者人||Silhouette Kunai/剪影苦無||[https://www.youtube.com/watch?v=1C3G1Q0sfS4 Deft Dishonor]<br>原本用於諜報，被安排在機器人博物館擔任解說員<br><s>Exe影子人的誤稱</s>
+|-
+| 05<br>Detonate Man/引爆人||Mine Sweepr/地雷掃地機||[https://www.youtube.com/watch?v=UDNzQy6IGFE Armament Arcade]<br>用於安全有效地探測和拆除地雷
+|-
+| 06<br>Cinder Lady/燒燼女<s>灰姑娘</s>||Coal Ignition/煤點火||[https://www.youtube.com/watch?v=d7iI8Emqdug Conveyor Crematorium]<br>30台中唯一的老式的垃圾處理焚燒用女性機器人
+|-
+| 07<br>Maelstrom Woman/漩渦女||Maelstrom Absorber/漩渦吸收器||[專用曲]<br>用於操控水流的能力，監控、引導並保護航行於波濤洶湧海域的船隻<br><s>意外的人氣角色</s>
+|-
+| 08<br>Gladiator Man/角鬥人||Buckler Barrage/圓盾掩||[專用曲]<br>非為了殘酷搏鬥的戰鬥機器人<br>DEMO版的造型不同
+|}
+*相剋:TR→BE→AR→NI→GL→DE→MA→CI→TR
+
+===要素===
+===其它資料===
+* [https://megamanw.com/ 官網]
+** [https://www.youtube.com/@jumpdashevade6920/videos Jump Dash Evade]
+
 ==回應 ==
 <comments />
 
