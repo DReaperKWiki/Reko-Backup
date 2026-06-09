@@ -593,16 +593,17 @@ SJ/DSJ（頭目戰）：食材調達、暴飲暴食
 |Edition=真‧女神轉生
 }}
 
-*CV：西村太佑（DSJ）
-*希臘神話中的死亡、業力、正義之神，會對妄語之人投下詛咒，被認為是羅馬冥王歐卡斯的原型
-**系列作中繼承了歐卡斯的豬手龍身的外貌，初登場到現在依舊是始終如一
-**除了SJ/DSJ以及4/4F外僅在沒有介紹的系列初期作品中登場<s>因此除了他們明說是「套希臘的名，行羅馬之實」外，很難查證巨人社在其他時候到底套的是本尊還是樓下那位</s>
-*if中盤據在飽食界，是校長變異後的樣子，主角需要拿到大月老師的ミクロプラズマ縮小身體並進入其體內解決問題<s>阿巴頓if版</s>
-**校長被哈薩瑪稱為「最無法原諒的人」
-*SJ/DSJ中為「買い漁る国」セクター・カリーナ的頭目，會發出念作「ブォーノ」的叫聲，附身於エルブス号的等離子力場上，並不斷吞食一切，借此增長力量，一度吸走了バガブー
-**在莫斯提馬提供結晶並研發出「オーガスバスター」後成功一步步將之逼進絕境<s>好窩囊的頭目</s>
-**對「吃」有著很強烈的執著，將人類視為脫離地球的生產與消亡節奏的欲望集合，也因此整個區域就如同代表消費文化的購物商場
-***頭目戰中也會吃下自己召喚的片耳豚
+* CV：西村太佑（DSJ）
+* 希臘神話中的死亡、業力、正義之神，會對妄語之人投下詛咒，被認為是羅馬冥王歐卡斯的原型
+** 系列作中繼承了歐卡斯的豬手龍身的外貌，初登場到現在依舊是始終如一
+** 除了SJ/DSJ以及4/4F外僅在沒有介紹的系列初期作品中登場<s>因此除了他們明說是「套希臘的名，行羅馬之實」外，很難查證巨人社在其他時候到底套的是本尊還是樓下那位</s>
+* if中盤據在飽食界，是校長變異後的樣子，主角需要拿到大月老師的ミクロプラズマ縮小身體並進入其體內解決問題<s>阿巴頓if版</s>
+** 校長被哈薩瑪稱為「最無法原諒的人」
+* SJ/DSJ中為「買い漁る国」セクター・カリーナ的頭目，會發出念作「ブォーノ（buono，義大利語「好吃」）」的叫聲，附身於エルブス号的等離子力場上，並不斷吞食一切，借此增長力量，一度吸走了バガブー
+** 在莫斯提馬提供結晶並研發出「オーガスバスター」後成功一步步將之逼進絕境<s>好窩囊的頭目</s>
+** 對「吃」有著很強烈的執著，將人類視為脫離地球的生產與消亡節奏的欲望集合，也因此整個區域就如同代表消費文化的購物商場
+*** 頭目戰中也會吃下自己召喚的片耳豚
+** 除了「ブォーノ」外，神情亢奮或者食指大動時也會喊出「ブオナペディー（bon appétit，法語「我開動了」）！」<s>你咋什麼話都會</s>
 <br>
 
 {{MTdata
@@ -3112,7 +3113,8 @@ D2：決意の証、月白の剣
 （幫手雪人仔）
 |Type=妖精
 |Ali=NEUTRAL-NEUTRAL
-|Picture=[[檔案:D2Jackfrost.png|200px]]
+|Picture=
+[[檔案:D2Jackfrost.png|200px]]
 |Faction=凍結
 |Skill=マハフロストン
 |Edition=Dx2 真・女神轉生 Liberation
@@ -3123,6 +3125,7 @@ D2：決意の証、月白の剣
 |Type=妖精
 |Ali=NEUTRAL-NEUTRAL
 |Picture=
+[[檔案:D2Jackfrost.png|200px]]
 |Faction=冰凍
 |Skill=祝福の受け渡し、祝福の雪像、屈強なる来訪者
 |Edition=Dx2 真・女神轉生 Liberation
@@ -3908,6 +3911,12 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 |Type=夜魔
 |Ali=CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Vampire.png|真Ⅰ
+檔案:SMT2Vampire.png|真Ⅱ
+</gallery>
+</div>
 |Faction=
 |Skill=
 |Edition=舊約・女神轉生
@@ -3937,6 +3946,12 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 |Type=妖獸
 |Ali=NEUTRAL
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Manticore.png|真Ⅰ
+檔案:SMT2Manticore.png|真Ⅱ
+</gallery>
+</div>
 |Faction=狀態異常
 |Skill=
 |Edition=舊約‧女神轉生
@@ -3988,6 +4003,7 @@ NEUTRAL-CHAOS
 |Type=邪龍
 |Ali=CHAOS
 |Picture=
+[[檔案:SMT1Serpent.png|200px]]
 |Faction=
 |Skill=
 |Edition=舊約・女神轉生
@@ -4031,6 +4047,7 @@ NEUTRAL-CHAOS
 |Type=邪鬼
 |Ali=NEUTRAL
 |Picture=
+[[檔案:SMT1Orc.png|200px]]
 |Faction=
 |Skill=
 |Edition=舊約‧女神轉生
@@ -4108,7 +4125,8 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （美露莘）
 |Type=魔獣
 |Ali=NEUTRAL-NEUTRAL 
-|Picture=[[檔案:SMTifMelusine.gif|200px]]
+|Picture=
+[[檔案:SMTifMelusine.gif|200px]]
 |Faction=狀態異常
 |Skill=-
 |Edition=真・女神轉生
@@ -4117,20 +4135,6 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 *Mélusine，出沒於河流或聖泉中的女妖，通常被描繪成一個從腰部以下是蛇或魚的女人，有時也被描繪成翅膀、兩條尾巴或兩者兼而有之
 **最早出自「Jean d'Arras」的《Roman de Mélusine》，或稱《Chronique de Melusine》，是獻給巴爾公爵（Duke of Bar）夫人用作教育孩子的長篇散文
 *真if中是男主人公在學校的頭目
-<br>
-
-{{MTdata
-|Name=ワイバーン
-（雙足飛龍）
-|Type=邪龍
-|Ali=DARK-CHAOS
-|Picture
-|Faction=物理
-|Skill=-
-|Edition=舊約・女神轉生
-}}
-
-*只有兩隻腳的飛龍，尾巴上有刺，經常出現在貴族的紋章上
 <br>
 
 {{MTdata
@@ -4155,7 +4159,8 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （Wyrm）
 |Type=邪龍
 |Ali=DARK-CHAOS 
-|Picture
+|Picture=
+[[檔案:SMT1Wyrm.png|200px]]
 |Faction=-
 |Skill=-
 |Edition=舊約・女神轉生
@@ -4171,13 +4176,29 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （蠕蟲）
 |Type=邪龍
 |Ali=DARK-CHAOS 
-|Picture
+|Picture=
+[[檔案:SMT1Worm.png|200px]]
 |Faction=狀態異常
 |Skill=
 |Edition=真・女神轉生
 }}
 
 *部分歐洲人將沒有腳也不會飛的龍也稱之為蠕蟲，通常具有多種能力，甚至在被砍成兩半後也能生成新個體
+<br>
+
+{{MTdata
+|Name=ワイバーン
+（雙足飛龍）
+|Type=邪龍
+|Ali=DARK-CHAOS
+|Picture=
+[[檔案:SMT1Wyvern.png|200px]]
+|Faction=物理
+|Skill=-
+|Edition=舊約・女神轉生
+}}
+
+*只有兩隻腳的飛龍，尾巴上有刺，經常出現在貴族的紋章上
 <br>
 
 {{MTdata
@@ -4343,6 +4364,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 |Type=妖獸
 |Ali=NEUTRAL
 |Picture=
+[[檔案:SMT1Kraken.png|200px]]
 |Faction=
 |Skill=
 |Edition=真‧女神轉生
@@ -4609,6 +4631,7 @@ DARK-NATURAL
 |Type=邪鬼
 |Ali=LAW
 |Picture=
+[[檔案:SMT1Barbegazi.png|200px]]
 |Faction=
 |Skill=
 |Edition=真‧女神轉生

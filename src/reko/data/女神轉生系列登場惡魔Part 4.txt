@@ -735,7 +735,8 @@ P3R：生命の炎
 （溫迪哥）
 |Type=邪鬼
 |Ali=NEUTRAL
-|Picture
+|Picture=
+[[檔案:SMT1Wendigo.png|200px]]
 |Faction=凍結
 |Skill=-
 |Edition=舊約‧女神轉生Ⅱ
@@ -752,6 +753,7 @@ P3R：生命の炎
 |Type=幽鬼
 |Ali=CHAOS
 |Picture=
+[[檔案:SMT1Baykok.png|200px]]
 |Faction=
 |Skill=
 |Edition=真‧女神轉生
@@ -766,6 +768,7 @@ P3R：生命の炎
 |Type=妖魔
 |Ali=
 |Picture=
+[[檔案:SMT2Haokah.png|200px]]
 |Faction=電擊
 |Skill=
 |Edition=真‧女神轉生Ⅱ
@@ -775,7 +778,6 @@ P3R：生命の炎
 *傳說中在別人覺得熱時會覺得冷，而在別人覺得冷時又會覺得熱<s>自帶哆啦A夢的相反霜</s>
 <br>
 
-（；；
 {{MTdata
 |Name=ラ・リョローナ
 （哭泣女/憂羅娜）
@@ -822,7 +824,12 @@ P3R：生命の炎
 （特斯卡特利波卡/煙鏡神）
 |Type=邪神、狂神
 |Ali=LAW、NEUTRAL
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT2Tezcatlipoca.png|真Ⅱ
+</gallery>
+</div>
 |Faction=咒殺
 |Skill=D2：二の葦の生贄、闇夜の瘴煙
 D2（異世界）：生贄の選別、ティトラカワン、ヨワリ・エエカトル
@@ -901,7 +908,13 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 （伊察姆納）
 |Type=龍神、龍王
 |Ali=CHAOS
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Itzamna.png|真Ⅰ
+檔案:SMT2Itzamna.png|真Ⅱ
+</gallery>
+</div>
 |Faction=火焰
 |Skill=-
 |Edition=真‧女神轉生
@@ -972,7 +985,8 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 
 === 澳洲原住民傳說 ===
 {{MTdata
-|Name=モコイ<br>（莫可伊/邪靈）
+|Name=モコイ
+（莫可伊/邪靈）
 |Type=夜魔
 |Ali=NEUTRAL-CHAOS
 |Picture
