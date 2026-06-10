@@ -304,13 +304,17 @@
 |-
 |'65 小川寬興 || 倍賞千恵子〈[https://youtu.be/ieT9F1Oza4M さよならはダンスの後に]〉 || 著作糾紛經JASRAC調解
 |-
-|| '86 Metallica || 〈[https://youtu.be/6xjJ2XIbGRk Master of Puppets]〉|| rowspan="2"| '93 〈[[毀滅戰士|DOOM]]〉✎[https://www.youtube.com/results?search_query=at+doom%27s+gate At Doom's Gate(E1M1)]|| 
+|| '86 Metallica || 〈[https://youtu.be/6xjJ2XIbGRk Master of Puppets]〉|| rowspan="2"| '93 〈[[毀滅戰士|DOOM]]〉✾[https://www.youtube.com/results?search_query=at+doom%27s+gate At Doom's Gate(E1M1)]|| 
 |-
 || '87 D.R.I ||〈[https://youtu.be/PXIuSHT4YoE Hooked]〉|| 另一有力曲源
 |-
 |'36 Carl Orff〈Carmina Burana/布蘭詩歌〉||〈[https://www.youtube.com/results?search_query=o+fortuna O Fortuna]〉[https://youtu.be/AP_CSQgBPpQ MV版]||rowspan = "2" | '99 Enigma✾〈[https://youtu.be/F48mtaFOccg Modern Crusaders]〉<br>2018〈[[JOJO第五部登場人物一覽|JOJO5-黃金之風-]]〉✂[https://youtu.be/27xgkx92-ZM ED2]||間奏
 |-
 || 175X 約翰·賽巴斯契·巴赫? ||〈[https://www.youtube.com/results?search_query=BWV+565 BWV+565]/BWV 565 d小調觸技曲與賦格〉|| 尾聲
+|-
+||'11 〈尋常小学唱歌（一）〉||岡野貞一〈[https://youtu.be/2EIN7DLUBSs 桃太郎の歌]〉|| rowspan="2"|'87〈新桃太郎〉✾金智娟－[https://youtu.be/7zZWS01pUC4 千年神話]|| 間奏
+|-
+|| '87 Limahl<br>〈Never Ending Story/大魔域〉 || [https://youtu.be/2WN0T-Ee3q4 Never Ending Story] || 前奏、主節奏
 |-
 |}
 </center>
@@ -1564,7 +1568,7 @@
 |-
 ||1874 Georges Bizet〈Carmen/卡門〉||〈[https://youtu.be/KJ_HHRJf0xg Habanera]〉||2001 TVB〈尋秦記〉❏[https://youtu.be/t-G_yo0ZanA?si=wmpizZOiEBSsMDkm&t=13 烏廷芳齊國獻舞]||<s>畢竟是現代人寫的[[穿越作品]]</s>
 |-
-||'11 〈尋常小学唱歌（一）〉||岡野貞一〈[https://youtu.be/2EIN7DLUBSs 桃太郎の歌]〉||〈金簫客〉☻劉燕燕－[https://youtu.be/TuKFkwE-yQw 小俠龍捲風]<br>'87〈新桃太郎〉✎金智娟－[https://youtu.be/7zZWS01pUC4 千年神話]<br>湖池屋〈Pinky〉☻[https://youtu.be/r8dVNvfilt4 廣告歌]||<s>與後來的特攝劇〈小俠龍捲風〉純粹撞名</s>
+||'11 〈尋常小学唱歌（一）〉||岡野貞一〈[https://youtu.be/2EIN7DLUBSs 桃太郎の歌]〉||〈金簫客〉☻劉燕燕－[https://youtu.be/TuKFkwE-yQw 小俠龍捲風]<br>湖池屋〈Pinky〉☻[https://youtu.be/r8dVNvfilt4 廣告歌]||<s>與後來的特攝劇〈小俠龍捲風〉純粹撞名</s>
 |-
 || '21 〈あたらしい童謠(一)〉||草川信〈[https://youtu.be/ZzsoDb9ShWE 夕燒け小燒け]〉||《金光》☻三小貓合唱團－[https://youtu.be/067GGxT357A 少年進行曲]||
 |-
@@ -2159,7 +2163,7 @@
 |-
 || 1892 Пётр Ильич Чайковский<br>〈Щелкунчик/胡桃鉗〉|| 〈[https://www.youtube.com/results?search_query=Dance+of+the+Sugar+Plum+Fairy танец Феи Дра]/糖梅仙子之舞〉|| '43 迪士尼〈幻想曲〉<br>'90〈Home Alone〉 || 鬼祟潛行+靜謐場面用
 |-
-||1899 Римский-Корсаков<br>〈Сказка о царе Салтане/蘇丹沙皇的故事〉 ||〈Николай Андреевич Римский-Корсаков〉<br>[https://youtu.be/9ZsGEhTGL6g 大黃蜂的飛行]||黃俊雄〈封神榜〉✂飆車場面<br>《霹靂》✂[https://youtu.be/9fKpEyAzaqE&t=74 混沌大覺虎頭蜂]<br>'91 周星馳《新精武門II漫畫威龍/摩登武聖》✎[https://youtu.be/5xvlaQhXJT8&t=1119 承認攪後庭花] || 急速危機場面常用
+||1899 Римский-Корсаков<br>〈Сказка о царе Салтане/蘇丹沙皇的故事〉 ||〈Николай Андреевич Римский-Корсаков〉<br>[https://youtu.be/9ZsGEhTGL6g 大黃蜂的飛行]||黃俊雄〈封神榜〉✂飆車場面<br>《霹靂》✂[https://youtu.be/9fKpEyAzaqE&t=74 混沌大覺虎頭蜂]<br>'83 TVB〈神鵰俠侶〉✂[https://youtu.be/UmittWeiwek&t=202 周伯通使用玉蜂]<br>'91 周星馳《新精武門II漫畫威龍/摩登武聖》✎[https://youtu.be/5xvlaQhXJT8&t=1119 承認攪後庭花] || 急速危機場面常用
 |-
 ||'16 Gerardo Matos Rodríguez||《[https://youtu.be/2cjowfgjVrk La Cumparsita]/化妝遊行》||《金光》✂[https://youtu.be/5bJDMm9mS-Mt=721 秦大條&阿溜]、[https://youtu.be/EEowHYHKjAE&t=31 小我先生]||西洋風/丑角常用，探戈名曲
 |-

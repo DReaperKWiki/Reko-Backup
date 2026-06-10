@@ -80,6 +80,8 @@
 |[[Gilgamesh (Fate)|少當家]] || rowspan="2"| Fate/Samurai Remnant || 西亞：吉爾伽美什史詩 || 烏魯克賢王 || <s>完全沒在做跟Ruler相關的事，只是個商店老闆兼隱藏BOSS</s>
 |-
 | [[伊吹童子 (Fate)|伊吹童子]] || 日本：平安時期 || 大明神 || 
+|-
+|[[Pale Rider (Fate)|蒼白騎士]] || Fate/strange Fake || 歐洲：新約聖經 || 支撐{{ruby|死之世界|椿的夢境|}}的骨幹 || Fate/Grand Order合作活動限定{{censored|，似乎因為雪原市聖杯戰爭的基礎發生了扭曲，原作的位置被理查替代，加上似乎因為Avenger的約翰被召喚而觸發了它以Ruler職階現界}}
 |}
 
 *除了上述這些成員以外，曾明確提及具有Ruler適性的還有[[BB (Fate)|BB]]，但她想隨心所欲而會拒絕以這個職階為基礎的召喚。
@@ -305,9 +307,9 @@ Archetype:Earth = [[File:MoonCancer卡面愛爾奎特.jpg|250px]]
 |[[Ciel (月姬)|謎之代行者C.I.E.L]]<br>[[Ciel (月姬)|請教教我吧！希耶爾老師]]<br>[[Ciel (月姬)|星之希耶爾]]
 |三個不同世界（泛人類史、平行世界、從者宇宙）的希耶爾重疊在同一靈基的存在<br><s>明明也是月姬要角，但抽中時沒有卡面特殊演出</s>
 |-
-| [[岸波白野|岸波白野﹙男﹚]]  || rowspan="2" |Fate/Extra || 
+| [[岸波白野|岸波白野﹙男﹚]]  || rowspan="2" |Fate/Extra || rowspan="2" | 月世界之王，可以說本身就是月球的從者
 |-
-| [[岸波白野|岸波白野﹙女﹚]]  || 
+| [[岸波白野|岸波白野﹙女﹚]]  
 |}
 
 == {{anchor|Beast}}Beast（獸/ビースト） ==
@@ -395,7 +397,7 @@ Archetype:Earth = [[File:MoonCancer卡面愛爾奎特.jpg|250px]]
 |-
 | [[Jacques de Molay (Fate/Grand Order)|雅克·德·莫萊]]  || 歐洲：十字軍 || 莎布·尼古拉絲 || 在型月世界中本來是男性，但是Foreigner職階的莫萊被性轉成女性
 |-
-| [[T·V·柯楊斯卡雅|闇之柯楊斯卡雅]] || TYPE-MOON原創 || 無 ||
+| [[T·V·柯楊斯卡雅|闇之柯楊斯卡雅]] || TYPE-MOON原創 || 無 ||構成本體概念之一是掉落至通古斯的隕石
 |-
 | [[Kukulcan (Fate)|庫庫爾坎]] || 瑪雅神話<br/>TYPE-MOON原創<br/>[[黄金樹海紀行 四巡環‧米克特蘭冥界|異聞帶米克特蘭冥界]] || 無 || {{censored|真正身份是[[ORT]]的核心}} 
 |-
@@ -403,7 +405,7 @@ Archetype:Earth = [[File:MoonCancer卡面愛爾奎特.jpg|250px]]
 |-
 | [[Cnoc_na_Riabh_(Fate)|諾克娜蕾雅．雅菈安杜]] || TYPE-MOON原創 || 無 || 
 |-
-| [[Wandjina_(Fate)|萬第納]] || 澳洲：莫萬俊 || 無 || 
+| [[Wandjina_(Fate)|萬第納]] || 澳洲：莫萬俊 || 無 || 本體本身是來自宇宙的生命體
 |-
 | [[蒼崎青子‎]] || TYPE-MOON原創 || 無 || 根據召喚語音，本來的職階是Traveler，不過設定上魔法是天外法則，因此有適性也並不奇怪
 |-
@@ -411,7 +413,7 @@ Archetype:Earth = [[File:MoonCancer卡面愛爾奎特.jpg|250px]]
 |
 |TYPE-MOON原創<br />從者宇宙
 |無
-|
+|和XX情況相似，因為來自蒼輝銀河而定義為Foreigner
 |-
 | [[Euclid (Fate)|歐幾里得]] || Fate/Requiem || 埃及：希臘化時代 || 哈斯塔 || 依照繪里世的認知是整個馬賽克市唯一的Foreigner。
 |}
@@ -437,8 +439,10 @@ Archetype:Earth = [[File:MoonCancer卡面愛爾奎特.jpg|250px]]
 ** <s>說是這麼說但其實只要套一層皮就能當，後面登場的Pretender理由也一個比一個隨便</s>
 * 擁有偽裝其他職階的能力
 * 原本設定上其實是專為奧伯龍打造的專屬職階<s>，不過還不到半年就……</s>
+** 結果在終章序{{censored|實裝的所羅門真實身份與卡圖非常相似，而且現在的他正是'''依靠偽裝成就偉業的存在'''，所以有很多網友懷疑原定唯一的Pretender本應是所羅門。}}
 * <s>不是某首[https://youtu.be/TQ8WlA2GXbk 同名的歌]</s>
 * {{censored|在所長關2中確認本職階是由迦勒底亞斯的內部所製造出的{{ruby|金型|職階}}，通過該關卡便會開啟Pretender的職階星盤。}}
+
 === 職階固有技能 ===
 === 列表 ===
 {| class="wikitable sortable" style="margin: 1em auto 1em auto;"
@@ -463,7 +467,7 @@ Archetype:Earth = [[File:MoonCancer卡面愛爾奎特.jpg|250px]]
 |-
 | [[Abigail Williams (Fate)|艾比蓋兒．威廉斯〔聖誕〕]]  || 美國：殖民時期 ||  || 
 |-
-| [[Dante Alighieri (Fate)|但丁．阿利吉耶里]]  ||  ||  || 
+| [[Dante Alighieri (Fate)|但丁．阿利吉耶里]]  ||  ||  || 偽裝的是筆下《神曲》的但丁
 |-
 | [[愛爾奎特‧布倫史塔德|Phantas-Moon]] || Carnival Phantasm || TYPE-MOON原創 || || <s>魔法少女需要隱瞞真正身分所以是Pretender很理所當然</s>
 |}

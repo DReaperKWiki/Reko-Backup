@@ -1776,7 +1776,8 @@ D2：契約の祝福、必罰の刻印
 （勒穆瑞斯）
 |Type=邪靈
 |Ali=CHAOS
-|Picture
+|Picture=
+[[檔案:SMT1Lemures.png|200px]]
 |Faction=-
 |Skill=-
 |Edition=舊約‧女神轉生Ⅱ
@@ -4331,7 +4332,8 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （精靈）
 |Type=妖精
 |Ali=NEUTRAL-NEUTRAL 
-|Picture
+|Picture=
+[[檔案:SMT1Elf.png|200px]]
 |Faction=衝擊
 |Skill=-
 |Edition=舊約・女神轉生
@@ -4504,7 +4506,8 @@ DARK-NATURAL
 （吸血花妖）
 |Type=妖樹
 |Ali=DARK-LAW
-|Picture
+|Picture=
+[[檔案:SMT2Alraune.png|200px]]
 |Faction=狀態異常
 |Skill=D2：甘美な囁き
 |Edition=數位惡魔物語 女神轉生
@@ -4555,6 +4558,7 @@ DARK-NATURAL
 |Type=夜魔
 |Ali=CHAOS
 |Picture=
+[[檔案:SMT1Imp.png|200px]]
 |Faction=
 |Skill=
 |Edition=真・女神轉生
@@ -4569,6 +4573,7 @@ DARK-NATURAL
 |Type=妖精
 |Ali=NEUTRAL
 |Picture=
+[[檔案:SMT1Hobgoblin.png|200px]]
 |Faction=
 |Skill=
 |Edition=真・女神轉生
