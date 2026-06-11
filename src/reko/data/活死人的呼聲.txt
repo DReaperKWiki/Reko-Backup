@@ -1,8 +1,8 @@
 {{h0|活死人的呼聲／リビングデッドの{{Ruby|呼|よ}}び{{Ruby|声|ごえ}}／Call of the Haunted}}
 
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
-| 此條目部分卡片尚未有正式的日文名稱、中文譯名，名稱僅供參考
-|}
+|這是一個編輯中的條目，歡迎有興趣的決鬥者加以補完。
+|} 
 
 == 簡介 ==
 * 一般俗稱「墓呼」，不過「活呼」、「死呼」等簡稱都有人使用。
