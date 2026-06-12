@@ -45,7 +45,7 @@
 '''奏章Ⅳ'''：[[人類裁決法廷 トリニティ・メタトロニオス|人類裁決法庭 三位一體．梅塔特隆尼奧斯]]
 |group5 = one second aftertime
 |list5 = '''序章'''：aftertime的開始<br>
-'''？？？篇'''：鄉愁永巡刻盤 往昔．迦勒底<br>
+'''命運三女神篇'''：[[鄉愁永巡刻盤 過去．迦勒底]]<br>
 |group6 = 活動
 |list6 = [[Fate/Grand Order活動一覽]] / [[Fate/Grand Order 大型活動分頁]]
 }}

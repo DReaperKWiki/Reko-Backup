@@ -283,8 +283,8 @@
                 |image=     https://i.meee.com.tw/F1bR7PW.gif
 		|color=     yellow
 		|bgcolor=   brown
-		|name=      誕生之時已至，以此修正萬象
-		|pronounce= Ars Almadel Salomonis
+		|name=      <s>光輪色波紋疾走</s><br/>誕生之時已至，以此修正萬象
+		|pronounce= <s>Goetia Beam</s><br/>Ars Almadel Salomonis
 		|rank=      EX
 		|type=      對人寶具
 		|range=     0

@@ -53,7 +53,64 @@
 </blockquote>
 
 == 系列作品 ==
-* 系列作時間順序： χ→Bbs→0.2→Ⅰ→358/2days（前半）{{ref|部份劇情時間點和I及COM重疊}}→Com→358/2days（後半）{{ref|部份劇情時間點和Ⅱ重疊}}→Ⅱ→Coded→3D→Ⅲ→Melody of Memory
+{| class="wikitable" style="margin: 1.5em auto;" 
+|+
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+!
+|-
+! rowspan="3" |系列作時間順序
+| rowspan="3" |χ
+| rowspan="3" |→
+| rowspan="3" |Bbs
+| rowspan="3" |→
+|→
+| colspan="3" |Ⅰ
+|→
+| rowspan="2" |Com
+| rowspan="2" |→
+| colspan="3" rowspan="2" |Ⅱ
+| rowspan="3" |→
+| rowspan="3" |Coded
+| rowspan="3" |→
+| rowspan="3" |3D
+| rowspan="3" |→
+| rowspan="3" |Ⅲ
+| rowspan="3" |→
+| rowspan="3" |Melody of Memory
+| rowspan="3" |→
+| rowspan="3" |Ⅳ
+|-
+| colspan="3" |0.2
+| colspan="2" |↓
+|-
+| colspan="2" |
+| colspan="6" |358/2days
+| colspan="2" |↑
+|}
+*
 === 整數作品 ===
 
 ==== [PS2]キングダム ハーツ ====

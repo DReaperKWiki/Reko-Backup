@@ -970,7 +970,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/4/46/Nikkou.png
 
 === 一文字則宗 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/5/59/Ichimonji_Norimunein.png
-* 繪：lack。CV：[[關俊彥]]。演：内藤大希 (舞台劇ー心伝)、綾凰華 (舞台劇ー禺伝)。
+* 繪：lack。CV：[[關俊彥]]。演：小越勇輝 (音樂劇)/内藤大希 (舞台劇ー心伝)/綾凰華 (舞台劇ー禺伝)。
 * 刀帳編號：198番。刀派：福岡一文字。身高：171&nbsp;cm。
 * 第八把五花太刀，也是目前唯一一位五花的集合體刀劍男士。
 * 2021/1/19更新後實裝，能在期間限定任務《特命調査 慶応甲府》達成優評定後作為特別報酬入手，以及入手後再次攻略時於大砲及最終BOSS點隨機掉落。
@@ -1001,7 +1001,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/5/59/Ichimonji_Norimunein.
 
 === 姬鶴一文字（姫鶴一文字） ===
 https://static.wikia.nocookie.net/touken-ranbu/images/0/03/Himetsuru_Ichimonjiin.png
-* 繪：須田彩加。CV：[[西山宏太朗]]。演：澄輝さやと (舞台劇ー禺伝)。
+* 繪：須田彩加。CV：[[西山宏太朗]]。演：明石陸 (音樂劇)/澄輝さやと (舞台劇ー禺伝)。
 * 刀帳編號：202番。刀派：福岡一文字。身高：183&nbsp;cm。
 * 2021/8/10更新後實裝，並在8/11開放限定鍛刀，鍛刀時間為3:20:00，指定配方為'''All 500'''。
 ** <s>雖然放鶴丸當近侍時的出貨朗報不少，但更多時候往往是鶴丸本人跳出來，鍛不到的還是(ry</s>

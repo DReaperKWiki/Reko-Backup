@@ -544,7 +544,7 @@ Ruler、Avenger、Aler Ego<br>
 | {{censored|奈須蘑菇？}}
 |
 |-
-! rowspan="4"| {{censored|命運三女神}}編 <br>{{censored|運命の三女神}}編
+! rowspan="4"| 命運三女神編 <br>運命の三女神編
 ! colspan="4"| 命運操控者訴說 衪們願不再受限制{{ref|運命の操り手は語った。 彼らに制限はないように と}}
 |-
 | [[鄉愁永巡刻盤 過去．迦勒底]]

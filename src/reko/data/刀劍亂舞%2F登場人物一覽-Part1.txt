@@ -1602,7 +1602,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A
 === 南泉一文字 ===
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%8D%97%E6%B3%89%E4%B8%80%E6%96%87%E5%AD%97&src=nansen.jpg
 https://static.wikia.nocookie.net/touken-ranbu/images/8/8f/Nansen-Kiwamein.png
-* 繪：三杜シノヴ（ニトロプラス）。CV：河西健吾。演：武本悠佑 (音樂劇)/谷水力 (舞台劇)/汐月しゅう (舞台劇ー禺伝)。
+* 繪：三杜シノヴ（ニトロプラス）。CV：河西健吾。演：武本悠佑 (音樂劇)/桜井一 (音樂劇ー月夜一縷)/谷水力 (舞台劇)/汐月しゅう (舞台劇ー禺伝)。
 * 刀帳編號：154番→155番。刀派：福岡一文字。身高：174&nbsp;cm。
 ** 最早實裝時沒有標示刀派，直到一年多後同派的山鳥毛實裝時才一併把他的刀派補了上去。
 * 2018/4/24實裝，只能在期間限定活動《江戶城潜入調査》從第四個寶物庫中120個寶箱中隨機開到。
