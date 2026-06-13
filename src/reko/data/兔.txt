@@ -68,7 +68,7 @@
 |本作女主角，方城市的新任警員。
 |-
 |My Melody
-|rowspan="9"|Sanrio
+|rowspan="10"|Sanrio
 |以粉紅色為代表色，原型為小紅帽。
 |-
 |[[Kuromi]]
@@ -95,8 +95,11 @@
 |Sugerbunnies
 |台譯蜜糖邦尼，出身於雙胞兔國度「BUNNIES Field」，雙胞胎天才甜點師兄弟
 |-
+|Cheeristails
+|由上述的Marron Cream、Usahana、Wish Me Mell和Bonbonribbon組成的Sanrio第二個團體組合，可以譯成「喝彩美尾」？
+|-
 |露比
-|寶石寵物
+|寶石寵物 @ Sanrio
 |代表「勇氣」的紅寶石寵物
 |-
 |[[Cuddles]]
