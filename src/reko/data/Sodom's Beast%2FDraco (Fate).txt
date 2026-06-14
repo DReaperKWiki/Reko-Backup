@@ -1,5 +1,5 @@
 {{h0|索多瑪之獸/德拉科}}
-{{synchro|New Komica wiki (仮)|2023年12月29日 15:50}}
+
 
 {|class="wikitable" style="margin:1.5em auto;"
 |-
@@ -403,3 +403,4 @@
 [[分類:TYPE-MOON]]
 [[分類:Fate/Grand Order]]
 [[分類:Beast (Fate)]]
+[[分類:Saberface]]
