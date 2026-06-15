@@ -84,6 +84,9 @@ I'm on it.
 *** 現實中則是在倒下後不久突然[[死者甦醒|復活]]，以修復好的變身器+新造的Capsem變身成Zeztz Exdream擊破了要襲擊伙伴們的惡夢使者解救裡面的人們
 ** 之後藉著Exdream的力量從現實世界直接進入夢境世界拯救寧夢，並在決戰中擊破了變身Dawn的奇克
 
+* 於第34話因為THREE以平民的性命威脅被迫交出Zeztz Exdream Driver與Exdreamrise Capsem，之後一段時間都陷入無法變身只能以Capsem的力量戰鬥的狀態，直到第37話Zero另外製作了另一條Zeztz Driver交給他
+** 到第38話趁著THREE親自與諾克斯交手的機會<s>再次</s>突襲CODE位於夢境裡的總部，奪回裝備並破壞停止了Code: Somnia的運作，然而用作啟動Code: Somnia的Caspem卻在破壞裝置前一瞬憑空消失
+
 == 變身假面騎士 ==
 === 假面騎士Zeztz（仮面ライダーゼッツ） === 
 <gallery widths="200px" heights="200px">
@@ -123,7 +126,6 @@ I'm on it.
 | 11 || Paradigm Wonder<br>（パラダイムワンダー） || Wonder || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Wonder! || 能自由改變身體的[[超人力霸王系列|大]]小{{ref|大概因此所有數據都是計測不能<s>（推測）</s>}}<br>ゼッツゲイムライン在全力運作時會發出紫色的光輝 || ワンダーバニッシュ<br>ワンダーオーバーバニッシュ || 
 |-
 | 13 || Paradigm Gravity<br>（パラダイムグラビティ） || Gravity || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Gravity! || 雙臂的グラビガントレム能自由控制重力和反重力，可藉此飛出大氣層前往宇宙<br>使出必殺技時透過以超重力干涉能製造出擬似黑洞<s>然後連自己也會被吸進去</s> || グラビティバニッシュ<br>グラビティオーバーバニッシュ ||
-|-
 |-
 | HBV || Impact Zeroider<br>（インパクトゼロイダー） || Zeztz & Code Zeroider || Good Morning! Rider!<br>Ze-Ze-Zeztz!<br>Special! || ? || ? || <s>偽裝真差，一看就知道是四肢加上Code Zeroider皮套+嘴巴換成Plasma Booster的Physicam Impact</s>
 |}
@@ -185,6 +187,7 @@ I'm on it.
 * 必殺技：オルデルム・エンダー 
 
 * 比起過往最終形態登場前的過渡形態階段，本形態在未嘗過一敗的情況下主角便已獲得最終形態，是十分罕見的現象
+** <s>在下面的Exdream被封號期間倒是有機會登場</s>
 
 ===== Exdream（エクスドリーム） =====
 * '''「Absolute! Rider!<br>　Zeztz! Zeztz! Zeztz! Zeztz!<br>　Exdream!」'''
@@ -197,6 +200,18 @@ I'm on it.
 ** 能力上除了定番的操縱和改變夢境內容外，還能選擇並固定自己想要實現的夢境、回溯已發生的夢境事象使其回歸於無<s>變成[[夢結局]]，以《[[JOJO的奇妙冒險]]》的方式簡單說明的話是就是[[喬魯諾‧喬巴拿#黃金體驗鎮魂曲（ゴールド・エクスペリエンス・レクイエム/Gold Experience Requiem/G. E. R）|黃鎮]]+[[法尼．瓦倫泰#替身|D4C]]的混合體</s>
 
 * 必殺技：ライズグレートバニッシュ
+
+* <s>由於設定得IMBA又不方便讓其吃癟滾地板，因此常被劇情殺限制該形態的登場</s>
+
+==== 特殊形態 ====
+<gallery widths="200px" heights="200px">
+檔案:仮面ライダーゼッツ エージェンドリーム.jpg|エージェンドリーム
+|
+</gallery>
+
+===== エージェンドリーム =====
+* 劇場版登場，以Capsem搭配ゼッツエージェンドリームドライバー變身而成
+* <s>偽裝真差，一看就知道是[[五十嵐元太#假面騎士Destream（仮面ライダーデストリーム）|Destream]]的底服+[[一之瀬寶太郎#假面騎士Platina Gotchard（仮面ライダープラチナガッチャード）|Platina Gotchard]]的手臂+[[冰室幻德#假面騎士Rogue（仮面ライダーローグ）|Rogue]]的手掌</s>
 
 == 其他/相關梗 ==
 * 名字由夜（{{ruby|yoru|よろ}}）+貘（{{ruby|baku|ばく}}）組成
