@@ -177,76 +177,96 @@
 ===DiverDiva===
 * 『'''SUPER NOVA'''』
 ** 第1單曲，2020年2月12日發售。
-** {{color|pink||SUPER NOVA}}
-** {{color|blue||Love Triangle}}
+** '''{{color|pink||SUPER NOVA}}'''
+** '''{{color|blue||Love Triangle}}'''
 
 * 『'''THE SECRET NiGHT'''』
 ** 第2單曲，2021年5月26日發售。
-** {{color|purple||THE SECRET NiGHT}}
-** {{color|orange||Fly into the sky}}
+** '''{{color|purple||THE SECRET NiGHT}}'''
+** '''{{color|orange||Fly into the sky}}'''
 
 * 『'''Shadow Effect'''』
 ** 第3單曲，2022年10月5日發售。
-** {{color|red||Shadow Effect}}
-** Kiss the Sun
+** '''{{color|red||Shadow Effect}}'''
+** '''Kiss the Sun'''
+
+* 『''' '''』
+** 第4單曲，2026年9月9日發售。
+** ''' '''
+** ''' '''
 
 ===A・ZU・NA===
 * 『'''Dream Land! Dream World!'''』
 ** 第1單曲，2020年2月12日發售。
-** {{color|red||Dream Land! Dream World!}}
+** '''{{color|red||Dream Land! Dream World!}}'''
 *** 動畫二期第6話A・ZU・NA在學園偶像祭前夜表演的安可曲。
-** {{color|orange||Cheer for you!!}}
+** '''{{color|orange||Cheer for you!!}}'''
 
 * 『'''Maze Town'''』
 ** 第2單曲，2021年5月26日發售。
-** {{color|pink||Maze Town}}
+** '''{{color|pink||Maze Town}}'''
 *** <s>梅子湯、妹子湯</s> 
-** {{color|purple||フォルクロア ～歓喜の歌～}}
+** '''{{color|purple||フォルクロア ～歓喜の歌～}}'''
 
 * 『'''Blue! '''』
 ** 第3單曲，2022年11月2日發售。
-** {{color|green||Blue!}}
-** Dancing in the Light
+** '''{{color|green||Blue!}}'''
+** '''Dancing in the Light'''
+
+* 『''' '''』
+** 第4單曲，2026年8月26日發售。
+** ''' '''
+** ''' '''
 
 ===QU4RTZ===
 * 『'''Sing & Smile!!'''』
 ** 第1單曲，2020年2月12日發售。
-** {{color|blue||Sing & Smile!!}}
-** {{color|purple||Beautiful Moonlight}}
+** '''{{color|blue||Sing & Smile!!}}'''
+** '''{{color|purple||Beautiful Moonlight}}'''
 
 * 『'''Swinging!'''』
 ** 第2單曲，2021年5月26日發售。
-** {{color|blue||Swinging!}}
-** {{color|green||Not Sad}}
+** '''{{color|blue||Swinging!}}'''
+** '''{{color|green||Not Sad}}'''
 
 * 『'''PASTEL'''』
 ** 第3單曲，2022年11月23日發售。
-** {{color|orange||PASTEL}}
-** ミチノサキ
+** '''{{color|orange||PASTEL}}'''
+** '''ミチノサキ'''
+
+* 『''' '''』
+** 第4單曲，2026年9月23日發售。
+** ''' '''
+** ''' '''
 
 ===R3BIRTH===
 *『'''MONSTER GIRLS'''』
 ** 第1單曲，2021年10月6日發售。
 ** 在小組名出來之前常用<s>魔爪女孩</s>MONSTER GIRLS來代稱鐘米栞三人組。
-** {{color|purple||MONSTER GIRLS}}（3人）
+** '''{{color|purple||MONSTER GIRLS}}'''（3人）
 *** 日語爲主<s>的韓風歌曲</s>，並有少量英語與普通話。
 *** 有將近一年的時間是R3唯一的小隊曲。
 ***<s>{{bili|bv=1b34y1U7Yc|2=辣炒米粉}}</s>
 *** <s>Monster Energy非公式應援曲（大誤）</s>
-** {{color|orange||翠いカナリア}}（三船栞子）
+** '''{{color|orange||翠いカナリア}}'''（三船栞子）
 *** 二期最終回表演的曲子之一。
-** {{color|green||I’m Still…}}（ミア・テイラー ↺ 鐘嵐珠{{ref||R3換歌}}）
+** '''{{color|green||I’m Still…}}'''（ミア・テイラー ↺ 鐘嵐珠{{ref||R3換歌}}）
 ***英語爲主，並有少量日語。
-** {{color|purple||Queendom}}（鐘嵐珠 ↺ 三船栞子{{ref||R3換歌}}）
+** '''{{color|purple||Queendom}}'''（鐘嵐珠 ↺ 三船栞子{{ref||R3換歌}}）
 ***'''是的，我是最棒的'''
-***日語爲主，並有少量普通話與粵語。
+***日語為主，並有少量普通話與粵語。
 *** 動畫2期8話嵐珠在學園偶像祭最終日的開場表演。
 
 *『'''Vroom Vroom'''』
 ** 第2單曲，2022年9月28日發售。
-** {{color|orange||Vroom Vroom}}
+** '''{{color|orange||Vroom Vroom}}'''
 *** Vroom為高速運轉的引擎聲
-** バブルオーバー！
+** '''バブルオーバー！'''
+
+* 『''' '''』
+** 第3單曲，2026年10月7日發售。
+** ''' '''
+** ''' '''
 
 ==動畫相關==
 ===第1期===
@@ -474,7 +494,7 @@
 ** '''CORO CORO ラブリーTIME!!!'''（三年級）
 
 <!--
-=== 完結編 第3章 ===
+=== 完結編 最終章 ===
 -->
 
 == 遊戲相關 ==
@@ -587,6 +607,7 @@
 ** 2025年11月19日發售
 ** '''YES! to Tomorrow'''
 ** '''think of you'''
+*** 在8th是穿著制服演出
 
 * 『'''Bravo!'''』（鐘嵐珠）
 ** 2025年12月24日發售

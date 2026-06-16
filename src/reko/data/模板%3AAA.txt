@@ -1,0 +1,8 @@
+<!--
+-->{{#if: {{{1|}}}<!--
+---->|{{#ifeq: {{{2|}}} |inline<!--
+------>|{{#tag:span|{{{1}}}| style="font-family: Saitamaar, Mona, monapo, "Ume P Gothic", "MS PGothic Ex+", MS-PGothic, "MS PGothic", "ＭＳ Ｐゴシック", Osaka-AA, "mona-gothic-jisx0208.1990-0", "VL PGothic", "Droid Serif", monospace; {{{style|}}}"}}<!--
+------>|{{#tag:pre|{{{1}}}| style="font-family: Saitamaar, Mona, monapo, "Ume P Gothic", "MS PGothic Ex+", MS-PGothic, "MS PGothic", "ＭＳ Ｐゴシック", Osaka-AA, "mona-gothic-jisx0208.1990-0", "VL PGothic", "Droid Serif", monospace; overflow-x: auto; white-space: pre; line-height: 1;{{{style|}}}"}}<!--
+---->}}<!--
+---->|{{t errmsg|AA}}<!--
+-->}}<noinclude>{{documentation}}</noinclude>

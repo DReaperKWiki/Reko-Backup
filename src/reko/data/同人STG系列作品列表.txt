@@ -258,7 +258,7 @@
 {{hideh| Green Wind/綠風}}
 *射擊擊破得銀幣、相對自動儲能的斬擊擊破(還能消彈)則是金幣
 **其它則是關卡中找出隱藏的寶箱(之後的作品會沿用)
-**真Boss條件須不續關
+**[https://web.archive.org/web/20111014232745/http://xxgameroom.blog102.fc2.com/blog-date-200909.html 真Boss伊瓦的出道作]，條件須不續關
 {{hidef}}
 
 {{hideh|Eden's Edge/伊甸之刃}}
@@ -277,19 +277,25 @@
 ***Ridmie/莉徳米:上記的綠風主角、炸彈改為爆彈型
 **須無中彈通關出現的地獄難度真Bossスプーン有針對炸彈(Guard)的對策
 {{hidef}}
-<!--
-{{hideh|Eden's Eclipse/伊甸之蝕}}
-*以伊甸之盾登場的三面フォーク和真Bossスプーン為主角
-**自機:
-***スウィーティ・スプーン/Sweety Spoon
-***ソルティ・フォーク/Salty Fork
-**{{censored|相對上作的四位主角皆作為頭目登場、還補完全名?}}
-***{{censored|ナナシー・ダークスター/Nanathy DarkStar}}
-***{{censored|メイプル・イーウィルリーフ/Maple EvilLeaf}}
-***{{censored|リドミィ・フィアーウィンド/Ridmie FearWind}}
-***{{censored|イヴ・ブラクアップル/Eve BlackApple}}
+
+{{hideh|[https://store.steampowered.com/app/4616580 Eden's Eclipse/伊甸日蝕]}}
+* 採用高火力的特殊射擊/Special Shot，Guard獨立一個單位不影響殘機
+** Boss戰新增Break量表、作為消彈機制
+*** 真Boss條件須地獄難度通關
+** 自機:
+*** 史文迪・思潘/スウィーティ・スプーン/Sweety Spoon:上記的伊甸之盾真Boss，微散的直向、S為導向散射，炸彈是湯匙爆彈
+*** 索爾蒂・賓可/ソルティ・フォーク/Salty Fork:上記的伊甸之盾三面，直向、S為叉子雷射，炸彈是雷射突刺<br><s>AI圖的乳量被灌大</s>
+*** 佩巴・奈夫/ペッパー・ナイフ/Pepper Knife:隱藏機，集中、尋引射擊，S為散射，炸彈是周圍斬擊
+*** 拉瓦・伊甸/ラヴ・エデン/Love Eden:隱藏機，上記的伊甸之刃終頭目、伊瓦的姐姐，散射、S為集中光束，炸彈是周圍力場
+** 相對上作的四位主角皆作為頭目登場
+*** 闇星的娜娜許/ナナシー・ダークスター/Nanathy DarkStar
+*** 惡葉的梅芙/メイプル・イーウィルリーフ/Maple EvilLeaf
+*** 懼風的莉徳米/リドミィ・フィアーウィンド/Ridmie FearWind
+*** 黑果的伊瓦/イヴ・ブラクアップル/Eve BlackApple
+*** 終局日蝕/エクリプス・ドゥルーエンド/Eclipse TrueEnd
+*** 恐怖日蝕/テラー・エクリプス/Terror Eclipse
+* [https://rekowiki.org/w/images/a/a8/EEclipse.png 圖集]、[https://rekowiki.org/w/images/e/ed/EEclipseC.png 角色圖集]
 {{hidef}}
--->
 
 {{hideh|Blue Wish/藍色願望系列}}
 *主打戰鬥機的彈幕遊戲,有低速炸彈
