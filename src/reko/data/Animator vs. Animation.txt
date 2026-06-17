@@ -15,28 +15,29 @@
 ** 這給予他可以自由發揮創意製作動畫的機會，同時接觸到（當時尚未被Adobe收購的）Macromedia Flash 8這一強大的動畫製作軟體和可以上傳並發佈自製動畫的Flash門戶網站[[Flash Game|Newgrounds]]
 ** 第一部較長規模的Flash動畫《Pink Army》發佈後收獲頗豐，在眾多好評的鼓舞下Alan開始著手製作下一部作品，也即是最初的《Animator vs. Animation》（下稱AvA1）
 * 經過三個月的製作，AvA1於2006年6月3日首發于Newgrounds上，憑藉優秀的創意和表現力，發佈第二日便直衝平台榜二
-** Alan自此一炮走紅，並收到大量網站主希望轉載這部作品的請求，<s>當然包括對岸的4399在內，在版權意識並不明朗的千禧之初，不分地域的無端轉載者更是一抓一大把</s>
-** 更有甚者試圖用75美金從當時年僅'''17歲'''且家境不算富裕的Alan手中買斷作品版權<s>，Alan差點就簽下買斷合同</s>，'''幸得貴人及時阻止'''才得以保住自己的作品<s>和未來的動畫師生涯</s>
+** Alan自此一炮走紅，並收到大量網站主希望轉載這部作品的請求，<s>當然包括對岸的諸多Flash網站在內，在版權意識並不明朗的千禧之初，不分地域的無端轉載者更是一抓一大把</s>
+** 更有甚者試圖用75美金從當時年僅'''17歲'''且家境不算富裕的Alan手中買斷作品版權<s>，Alan還差點就簽下買斷合同</s>，'''幸得貴人及時阻止'''才得以保住自己的作品<s>和未來的動畫師生涯</s>
 *** 這位貴人就是Albino Blacksheep<ref>一家主營Flash動畫的網站</ref>的老闆Steven Lerner。後來Alan糊里糊塗地被臭名昭著的強盜網站EBaum's World耍猴時<ref>用一筆250美金的掩口費要他向那邊老闆Eric Bauman寫一份對要求對面撤下無端轉載自己作品的「道歉聲明」</ref>，即使Lerner初時覺得被出賣，仍然肯想辦法為Alan解困
 *** <s>[https://ericbaumanexplains.ytmnd.com/ 案件][https://ebaumalansrevenge.ytmnd.com/ 重演](笑)，此事也成為Alan在維基百科上為數不多的記載出場，還有人做了GMOD動畫短片解釋整起事件經緯</s>
-* 此後Alan得到網站Atomfiles<ref>一家主打短篇動畫發佈和分享的網站，其母公司2012年被Comedy Central併購後改稱CC Studios至今</ref>的<s>正規正經的</s>資助，於同年11月發佈續集《AvA2》，成為一代人的童年回憶
+* 此後Alan得到網站Atomfiles<ref>一家主打短篇動畫發佈和分享的網站，其母公司2012年被Comedy Central併購後改稱CC Studios至今</ref>的<s>正規正經的</s>資助，於同年11月發佈續集AvA2，成為一代人的童年回憶
 * 於次年（2007年）攜兩部作品入駐當時正逐漸成為主流平台的Youtube，<s>同時和早已無端轉載作品到Youtube上獲利的一眾盜搬狗開打版權戰，歷時數年才取得完全勝利</s>
-* 在強烈要求續集的粉絲呼籲下，於2010年發佈<s>各種意義上手筆超大的</s>《AvA3》{{censored|並為了不給自己留下任何製作續集的機會在其中把自己電腦炸到藍屏}}，為系列畫上{{censored|暫時的}}句點
+* 在強烈要求續集的粉絲呼籲下，於2010年發佈<s>各種意義上手筆超大的</s>AvA3{{censored|並為了不給自己留下任何製作續集的機會以電腦藍屏收尾}}，為系列畫上{{censored|暫時的}}句點
 * 此後Alan專心於學業，不再有意向製作續集
-** 從學校畢業后起初打算進入皮克斯工作，但實習生申請接連被拒了兩年，於是改變主意想先在較小的當地動畫公司內任職
-** 這時聽從另一名貴人、慧眼識金的大學導師Tom Richner建議，重新拾起年輕時的創作系列，在2014年通過眾籌製作並發佈《AvA4》，從此走向個人事業的真正巔峰
-*** 在AvA4的劇情基礎上製作的衍生作《Animation vs. Minecraft》更是紅到發紫，令Alan堅定了靠創作謀生的信念
+** 從學校畢業后起初打算進入皮克斯工作，但實習生申請接連被拒了兩年，於是改變主意想先在較小的動畫公司內任職
+** 這時聽從另一名貴人、慧眼識金的大學導師Tom Richner建議，重新拾起年輕時的創作系列，在2014年通過眾籌製作並發佈AvA4，從此走向個人事業的真正巔峰
+*** 在AvA4的劇情基礎上製作的衍生作Animation vs. Minecraft更是紅到發紫，令Alan堅定了靠創作謀生的信念
 * 其動畫作品中的人物動態全部是逐幀繪製而成，幾秒鐘的動畫背後可能是數小時的工作量，因此早期影片更新速度相當緩慢
-** 由於創意愈發複雜，需求的工作量越來越大，後來組建了自己的動畫團隊，招攬著名火柴人動畫師oxob3000、Shuriken255、Hatena360等成員參與製作。本人如今已極少親自作畫<ref>但有時工期趕不及還是會親身下場救火，如AvM33後半的群體戰鬥場面</ref>，基本上僅負責AvA和AvM等主要系列的編導工作
-** 一部分新近的人氣系列（《Animation vs. Education》等）更是由團隊主導製作
+** 由於創意愈發複雜和想向定期更新方向發展，需求的工作量越來越大，在Animation vs. YouTube發佈前後組建了自己的動畫團隊，招攬著名火柴人動畫師oxob3000、Terkoiz、Shuriken255、Hatena360等成員參與製作。本人如今已極少親自作畫<ref>但有時工期趕不及還是會親身下場救火，如AvM33後半的群體戰鬥場面</ref>，基本上僅負責AvA和AvM等主線系列的編導工作
+** 一部分較近期的人氣旁支系列（Animation vs. Education和Actual Shorts系列等）更是由團隊成員主導製作
 * 除火柴人動畫外亦出品過動畫製作教程、在Minecraft中復刻[[吉卜力工作室|吉卜力]]作品地圖等內容
 ** 有一和好友DJ Welch一起<s>不務正業打電動</s>運營的分頻道「Animators VS Games」，除遊戲實況外還會發佈二人一同觀看主頻道新作的反應影片
-*** 遊戲實況的封面圖常有火柴人出來客串，其中不乏疑似設定補充的細節<ref>如TCO、TDL、vic和Mitsi的面部塗鴉造型等<s>不過更多還是四色招惹TDL或vic開飛碟轟炸TCO和TSC之類的謎場面</s></ref>
-* 07年曾與人合作{{ref|合作方為'''時年14歲'''的遊戲創作者Charles Yeh，<s>這群Flash創作者都是什麼少年怪物？！</s>}}推出一部基於前兩部動畫內容改編的Flash遊戲《Animator vs. Animation Game》，讓玩家扮演動畫師的游標用各種工具制服火柴人
-** {{censored|但火柴人打不死，反倒是游標會有生命限制<s>一定程度上還原了作中Alan容易老馬的部分</s>，除默認的vic外更有需要對抗TCO的高難度關卡}}
-* 於25年初公佈正規官方遊戲《Animation VERSUS》（下称AnV）正在開發中的情報，並於同年三月底開啟Kickstarter眾籌，五小時內便<s>在各路熱情觀眾的狂暴注資下</s>完成13萬美金的基本籌款目標<s>順便把團隊成員的下巴都驚掉</s>，到眾籌活動結束時總共籌得<s>1{{ruby|柴萬|stickillion}}<ref>由主力開發者Muno慶祝眾籌大獲成功時提出，1 stickillion = 998416</ref></s>將近一百萬美金。目前暫定於28年6月發售
-** 為類《Rivals of Aether》的像素風格鬥遊戲，但將以[[任天堂明星大亂鬥]]為代表的平台格鬥和[[快打旋風]]、[[聖騎士之戰]]等知名傳統格鬥的要素結合一處
-** 同時亦有可以聯機協作的[[RogueLike|肉鴿]]模式和擁有專門的動畫過場、與動畫主系列同一舞台的單機劇情模式<s>大家紛紛推測是不是要致敬任鬥的亞空使者</s>
+*** 遊戲實況的縮略圖常有火柴人出來客串，其中一些細節常被觀眾拿去當設定補充<ref>如TCO、TDL、vic和Mitsi的面部塗鴉造型等，不過鑒於縮略圖<s>更多還是四色招惹TDL或vic開飛碟轟炸TCO和TSC之類的謎場面，同時</s>是由AVG頻道團隊內的專門畫師繪製，或許認為這些圖只是官方同人性質是最貼切的</ref>
+*** 但隨著AVG逐漸專注於主頻道反應影片和官方遊戲（下述）資訊，遊戲實況則是又開了個分頻道AVG+來發佈，<s>封面圖也沒有火柴人了</s>
+* 2007年曾與人合作{{ref|合作方為'''時年14歲'''的遊戲創作者Charles Yeh，<s>這群Flash創作者都是什麼少年怪物？！</s>}}推出一部基於前兩部動畫內容改編的Flash遊戲，讓玩家扮演動畫師的游標用各種繪圖工具制服火柴人
+** {{censored|但火柴人打不死，反倒是游標會有生命限制<s>一定程度上還原了作中Alan容易老馬的部分</s>，除默認難度的vic外更有需要對抗TCO的高難度關卡}}
+* 於2025年初公佈正規官方遊戲《Animation VERSUS》（下称AVS）正在開發中的情報，並於同年三月底開啟Kickstarter眾籌，五小時內便<s>在各路熱情觀眾的狂暴注資下</s>完成13萬美金的基本籌款目標<s>順便把團隊成員的下巴都驚掉</s>，到眾籌活動結束時總共籌得<s>1{{ruby|柴萬|stickillion}}<ref>由主力開發者Muno慶祝眾籌大獲成功時提出，1 stickillion = 998416</ref></s>將近一百萬美金。目前暫定於28年6月發售
+** 為類《Rivals of Aether》的像素風橫版格鬥遊戲，但結合以[[任天堂明星大亂鬥]]為代表的平台格鬥和[[快打旋風]]、[[聖騎士之戰]]等知名傳統格鬥的要素，同時亦有可以聯機協作的[[RogueLike|肉鴿]]模式和擁有專門的動畫過場、與動畫主系列同一舞台的劇情模式
+** 初期可用角色陣容為六色，而TCO、TDL、vic、KO和兩名遊戲原創角色則作為眾籌達標獎勵陸續宣佈實裝
 
 ==動畫系列==
 * 除按官方給出的系列劃分外，可分為正劇（Full-length episodes，多為前後劇情存在強關聯、時長較長的連續劇)和短篇（Shorts，前後關聯較鬆散或沒有關聯、時長較短的單元劇）兩大類
@@ -48,13 +49,14 @@
 ===Animator vs. Animation/火柴人 VS 動畫師===
 * 通稱AvA，最初創作和最主要的系列，圍繞一名{{color|#a303fc||動畫師（Alan本人）}}和他{{color|#505050||筆}}{{color|#000000||下}}{{color|#FF0000||造}}{{color|#FF6600||物}}在電腦界面裡<s>打破[[第四面牆]]的家庭喧嘩</s>的衝突展開的連續劇
 ** 需要注意的是和衍生系列不同，'''第一個A代表的是{{ruby|Animator|動畫師}}而非{{ruby|Animation|火柴人}}'''
-** {{censored|<s>一個火柴人引發的血案、滑鼠游標和前三個兒子間的父子喧嘩、互聯網歷史上最強家庭糾紛、Alan電腦受害史</s>}}
-** 從AvA4開始，{{censored|隨著Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的早期公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和爆破Alan電腦的定番還是會有的</s>
+** {{censored|<s>一個火柴人引發的血案、滑鼠游標和三個兒子間的父子喧嘩、互聯網歷史上最強家庭糾紛、Alan電腦受害史</s>}}
+** 從AvA4開始，{{censored|隨著Alan和<s>末子</s>TSC<s>終於</s>達成和解，}}後續劇情逐漸脫離火柴人在電腦里反抗游標暴行的早期公式，更著重於他們在電腦/互聯網內外的恩怨衝突，<s>當然游標的動作戲和爆破Alan電腦的定番還是會有的……大概</s>
+** <s>到最新幾集已經變成火柴人超能力大戰的形狀了，Animation vs. Animation。Alan的存在感越來越低（悲）</s>
 * AvA5最初被分拆為EP1~4發佈，不過後來Alan重整系列，將整個AvA5四部曲定義為AvAS2，原本的AvA5 EP1~4隨之升格為AvA5~8
 ** 與之相應，AvA1~4被整體定義為S1，原定分為七部曲的AvA6則變成了S3
-* 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS2才開始有意識地佈置長線伏筆，[[吃書]]早期設定自然難免
+* 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS3才開始有意識地佈置伏筆<s>和回收當年無意間埋下的坑</s>，[[吃書]]自然難免
 * 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本似乎經歷了大幅度的改動</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
-** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在25年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴要在水裡泡大半年}}，AvA13更是從最初說好的26年二月一路跳票到五月底快六月……</s>
+** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在2025年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴要在水裡泡大半年}}</s>，AvA13更是從最初說好的2026年二月一路跳票到五月底快六月……
 
 {{hideh|點擊展開}}
 {|width="100%" class="wikitable" 
@@ -63,7 +65,7 @@
 |-
 ! colspan="5"|<center>'''Season 1'''</center>
 |-
-| 1 || Animator vs. Animation<br>火柴人 VS 動畫師 || 2006/6/3 (Newgrounds)<br>2007/5/14 (Youtube) || ''{{color|#a303fc||動畫師}}和他的{{color|#505050||動畫}}陷入一場生死搏鬥，戰場？Flash軟體界面。{{color|#a303fc||動畫師}}畫出這個{{color|#505050||火柴人}}只為了折磨他，而{{color|#505050||火柴人}}將使用他能找到的一切——畫筆工具、橡皮工具等等報復他的施虐者。智謀對上力量，誰會贏？請各位看官拭目以待。''{{ref|原影片簡介翻譯，以下斜體皆同}}<br>各種意義上的一切的開始，<s>長子</s>{{color|#505050||victim}}初登場，一度靠分身群毆把游標打得落至下風，{{censored|但最後還是被Alan抓到機會直接關掉檔案而未被保存<s>以至於AvA11出來前的十八年間很多二創都要設法解釋他是怎麼活下來的</s>}}|| [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1Bp4y1q7xU bilibili]
+| 1 || Animator vs. Animation<br>火柴人 VS 動畫師 || 2006/6/3 (Newgrounds)<br>2007/5/14 (Youtube) || ''{{color|#a303fc||動畫師}}和他的{{color|#505050||動畫}}陷入一場生死搏鬥，戰場？Flash軟體界面。{{color|#a303fc||動畫師}}畫出這個{{color|#505050||火柴人}}只為了折磨他，而{{color|#505050||火柴人}}將使用他能找到的一切——畫筆工具、橡皮工具等等報復他的施虐者。智謀對上力量，誰會贏？請各位看官拭目以待。''{{ref|原影片簡介翻譯，以下斜體皆同}}<br>各種意義上的一切的開始，<s>長子</s>{{color|#505050||victim}}初登場，一度靠分身群毆把游標打得落至下風，{{censored|但最後還是被Alan抓到機會直接關掉檔案，在未保存的狀況下消失<s>以至於AvA11出來前的十七年間很多二創都要設法解釋他是怎麼活下來的</s>}}|| [https://youtu.be/3hgrw7QQpnE youtube]<br>[https://www.bilibili.com/video/BV1Bp4y1q7xU bilibili]
 |-
 | 2 || Animator vs. Animation II<br>火柴人 VS 動畫師 2 || 2006/11/4 (Atomfiles)<br>2007/3/15 (Newgrounds)<br>2007/5/14 (Youtube) || ''尋求挑戰的{{color|#a303fc||動畫師}}決定創造一個更難擊敗的火柴人，但他對自己到底給了這個小傢伙多少力量幾乎一無所知，{{color|#000000||天選之子}}萬歲！''<br><s>Alan老馬實錄</s>，<s>次子</s>{{color|#000000||The Chosen One (TCO)}}初登場，舞台從前作的Flash 8界面內擴展到桌面上，附帶各種桌面圖標為捍衛電腦安危車輪大戰TCO的創意場面<s>雖然最後還是要靠殺軟救場</s><br>題外話：由於Alan未經多想便直接在影片中暴露了自己的AIM賬號，直接導致他一打開AIM就會被滿滿當當的垃圾信息刷屏而從此放棄使用該平台<s>可見保護個資安全有多麼重要</s> || [https://www.youtube.com/watch?v=nxM1cnphLpw youtube]<br>[https://www.bilibili.com/video/BV1nk4y1m7uq bilibili]
 |-
@@ -89,9 +91,9 @@
 |-
 | 11 || Victim<br>受害者 || 2024/12/14 || ''作為一切開端的{{color|#505050||那個火柴人}}。''<br>{{censored|整集都是vic的回憶，看過之後只會想問Alan你吃錯什麼藥要這樣對待你家長子（劇情中和劇本外雙重含義），<s>雖然也有人在意的是「那TCO和TSC是不是還要再繼續被關一年」</s><br>場面極大的揭開了整個AvA/外聯網的世設一角<s>難怪製作週期長達兩年</s>，在背景中給出了Purple一家的起源和暗示覺醒TSC能力的真實面目<br><s>Alan發刀太狠，觀眾不是為vic的遭遇胃痛就是為自己的二創設定被狠狠背刺而哀嚎，完全無法料想按目前的情況，之後到底要怎麼給vic一個救贖或好結局</s>}} || [https://www.youtube.com/watch?v=2eHozBXlEpw youtube]<br>[https://www.bilibili.com/video/BV1XBBEYVEWx bilibili]
 |-
-| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到{{color|#a303fc||動畫師}}面前的{{color|#505050||那個火柴人}}。''<br><s>這個標題配縮略圖中央大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|vic通過Yellow的記憶得到召喚游標的方式，以欺詐和脅迫的手段逼迫Alan為自己改名為「{{ruby|H4CK3R|駭客}}」並因此獲得<s>大號</s>超能力，隨後徑直飛往ALANSPC展開其復仇戰<br><s>本集最慘：被強制改名為「{{ruby|NO ONE|無名氏}}」後[[才能喪失|失去全部超能力]]不說還徑直掉進水裡、到下一集才被撈上岸的TCO</s>}}<br>整體相當壓抑的一集，氣氛全靠<s>Green的臀部鏡頭</s> 紅綠藍智取三僱傭兵提起來的|| [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
+| 12 || Hacker<br>駭客 || 2025/9/13 || ''回到{{color|#a303fc||動畫師}}面前的{{color|#505050||那個火柴人}}。''<br><s>這個標題配縮略圖中央大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|vic通過Yellow的記憶得到召喚游標的方式，以欺詐脅迫的手段逼迫Alan為自己改名為「{{ruby|H4CK3R|駭客}}」並因此獲得<s>大號</s>超能力，隨後徑直飛往ALANSPC展開其復仇戰<br><s>本集最慘：被強制改名為「{{ruby|NO ONE|無名氏}}」後[[才能喪失|失去全部超能力]]不說還徑直掉進水裡、到下一集才被撈上岸的TCO</s>}}<br>整體相當壓抑的一集，氣氛全靠<s>Green的臀部鏡頭</s>紅綠藍智取三僱傭兵提起來的|| [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
 |-
-| 13 || The Machine<br>機器 || 2026/5/30 || ''把它啟動，看它發揮。''<br>{{censored|「神功大成」的H4CK3R與TDL回到了公司，得TDL建議而（竄改及）利用TSC的復活能力復活Mitsi，但卻被TDL從中作梗封印Mitsi的內心，<br>然而無意中得知TDL正是殺妻仇人、自己報錯仇的H4CK3R一怒之下<s>拆了公司也要</s>跟TDL大打出手，最終敗下而不領TDL的情之後被其就地斬殺<br>臨死前無意間解除Mitsi的封印，但它也被「復活」成聽命於TDL的傀儡，公司一時間變成了人間煉獄，為TDL所掌控}}<br>{{censored|<s>這下真的打到「大道都抹滅了（物理）」，也證明了Hazard當初手搓核彈、選拔第一名的超絕含金量<br>等了差不多一年最終換來「H4CK3R自建'''全3D'''大儀器」、「H4CK3R與TDL'''從殺陣到拆樓'''的史詩級打鬥」，讓粉絲們紛紛直呼值得</s>}} ||[https://www.youtube.com/watch?v=l6WeJ9JqDfU youtube]<br>[https://www.bilibili.com/video/BV1CfVV67EqU bilibili]
+| 13 || The Machine<br>機器 || 2026/5/30 || ''把它啟動，看它發揮。''<br>{{censored|書接前回，H43與TDL<s>還有查無此柴到'''一度被忘記畫到畫面上'''<ref>無誤，Skim放出的分鏡稿裡某個鏡頭能看到NO，'''但成片的同一個鏡頭裡就沒有了'''</ref>的NO</s>回到公司，在TDL建議下造出一台能<s>榨橙汁</s>激發TSC的復活能力的機器而成功復活Mitsi，但被復活的卻只是一具無反應的空殼……？<br>機器的'''全3D'''組裝動畫到H43與TDL'''殺陣到拆樓'''的史詩級打鬥<s>真的打到大道磨滅了（物理）</s>的一套精彩鏡頭讓觀眾們紛紛直呼值得，但下一幕開始就是他媽的H34被[[腰斬]]→傀儡化→和TDL在公司內[[開無雙|無雙]]大屠殺的[[槍彈辯駁系列|絕望]]過山車……<s>教練這不是我要看的四大空心頭首次同屏出演</s>}}<br>{{censored|<s>爫宀耂和水果電池不用多說，NO僅有的幾個鏡頭也沒牌面到一度引發官方OOC爭議<ref>{{censored|懇求五年前就已決裂的TDL為自己解開手銬，在屠殺過程中伏在地上瑟瑟發抖、之後更為核爆求生把自己關進先前羈押TSC的牢籠並拉下鐵板}}</ref>，除了TDL包括觀眾在內誰都不開心的世界誕生了，輪到大家為之後到底要怎麼給TDL洗白或至少讓他在結局後還活著哀嚎了</s>}}<br><s>往好處想，至少這集證實了Sign作為僱傭兵試訓排位第一的含金量{{censored|有核彈他是真的會扔啊}}</s> ||[https://www.youtube.com/watch?v=l6WeJ9JqDfU youtube]<br>[https://www.bilibili.com/video/BV1CfVV67EqU bilibili]
 |}
 {{hidef}}
 
@@ -572,13 +574,13 @@
 |-
 | Black Friday Weekend Special || 2023/11/24 || 火柴幫鬥舞，影片最後Alan出聲為自己網店的黑五促銷打宣傳 || [https://www.youtube.com/shorts/P2z7NkwhVGk youtube]
 |-
-| Animation VERSUS! - Reveal Trailer - Kickstarter || 2025/03/26 || ''請在[https://www.kickstarter.com/projects/animationversus/animation-versus Kickstarter]上支持我們！''<br>開發中的官方遊戲《Animation VERSUS》的眾籌活動宣傳片，前半段是六色被吸入遊戲內試玩一波後由於'''沒錢續關'''憤而跑去開眾籌，後半段則是Alan、主力開發者Muno<Ref name="Muno">以作品品質出色著称的《Rivals of Aether》Mod開發者，其開發的AvA角色Mod備受Alan和DJ賞識而被邀請來主持AnV的開發工作</ref>和DJ介紹遊戲內容<br>本分類下極少數有被B站代理搬運的影片之一，<s>前半段有人吐槽被吸入遊戲內的演出大概會讓KO連續PTSD，到後半段則是冒出來一堆「什麼真的在做遊戲？！」的後知後覺</s> || [https://www.youtube.com/watch?v=K4lvfmbMkcw youtube]<br>[https://www.bilibili.com/video/BV1gcZMYtEdB bilibili]
+| Animation VERSUS! - Reveal Trailer - Kickstarter || 2025/03/26 || ''請在[https://www.kickstarter.com/projects/animationversus/animation-versus Kickstarter]上支持我們！''<br>開發中的官方遊戲《Animation VERSUS》的眾籌活動宣傳片，前半段是六色被吸入遊戲內試玩一波後由於'''沒錢續關'''憤而跑去開眾籌，後半段則是Alan、主力開發者Muno<ref>以作品品質出色著称的《Rivals of Aether》Mod開發者，其開發的AvA角色Mod備受Alan和DJ賞識而被邀請來主持AVS的開發工作</ref>和DJ介紹遊戲內容<br>本分類下少數有被B站代理搬運的影片之一，<s>前半段被吸入遊戲內的演出大概會讓KO連續PTSD，後半段則是冒出來一堆「什麼真的在做遊戲？！」的後知後覺</s> || [https://www.youtube.com/watch?v=K4lvfmbMkcw youtube]<br>[https://www.bilibili.com/video/BV1gcZMYtEdB bilibili]
 |-
-| ABTV - All Livestream Bumpers || 2025/04/05 || 極少數有被B站代理搬運的影片之二，24小時輪播直播「ABTV」的中插轉場動畫合集<br><s>珍貴的Yellow出浴鏡頭、TSC復刻迪〇尼頻道經典魔杖畫台標、各種單集角色限時返場、任何黑底畫面上都可以冒出來一個大大的ABTV字樣</s> || [https://www.youtube.com/watch?v=UCbl3TV_UCA youtube]<br>[https://www.bilibili.com/video/BV1q8RdYAE2E bilibili]
+| ABTV - All Livestream Bumpers || 2025/04/05 || 少數有被B站代理搬運的影片之二，24小時輪播直播「ABTV」的中插轉場動畫合集<br><s>珍貴的Yellow出浴鏡頭、TSC復刻迪〇尼頻道經典魔杖畫台標、各種單集角色限時返場、任何黑底畫面上都可以冒出來一個大大的ABTV字樣</s> || [https://www.youtube.com/watch?v=UCbl3TV_UCA youtube]<br>[https://www.bilibili.com/video/BV1q8RdYAE2E bilibili]
 |-
-| Introducing... || 2025/12/06 || 首個以實物定格動畫形式製作的相關影片，給網店新推出的鉤織DIY套組做的行銷<br>以「火柴人短片-毛線火柴人」的名義、刪除露出店鋪二維碼的片段後在B站發佈，<s>雖然這玩意怎麼看都不是AS系列吧</s> || [https://www.youtube.com/watch?v=VQXTekh3Dz8 youtube]<br>[https://www.bilibili.com/video/BV1RU2RBcECP bilibili]
+| Introducing... || 2025/12/06 || <s>開始不再是少數</s>有被B站代理搬運的影片之三，首個以實物定格動畫形式製作的相關影片，給網店新推出的鉤織DIY套組做的行銷<br>以「火柴人短片-毛線火柴人」的名義、刪除露出店鋪二維碼的片段後在B站發佈，<s>AS98.5，雖然這玩意怎麼看都不是AS系列吧</s> || [https://www.youtube.com/watch?v=VQXTekh3Dz8 youtube]<br>[https://www.bilibili.com/video/BV1RU2RBcECP bilibili]
 |-
-| Animation vs. School - K-1 Missing Addend || 2026/03/15 || 沒有任何事前宣傳下悄悄在新副頻道「Animation vs. School」上發佈的實驗性'''幼教'''短片<s>，基本上就是學齡前版本的AvE</s>，內容是飢腸轆轆的TSC為了得到食物<s>和屏幕前的小朋友(笑)一起</s>學習如何用積木/掰手指/畫正字做加法填空題<br><s>基本上大家的第一反應都是「這哪來的超高質量同人」，編者剛看到討論時更一度以為AvA13遲遲不更新把海外觀眾群都逼出集體幻覺了</s> || [https://www.youtube.com/watch?v=2tXUtkAOua4 youtube]
+| Animation vs. School - K-1 Missing Addend || 2026/03/15 || 有被B站代理搬運的影片之四，沒有任何事前宣傳下悄悄在新分頻道「Animation vs. School」上發佈的實驗性'''幼教'''短片<s>，基本上就是學齡前版本的AvE</s>，內容是飢腸轆轆的TSC為了得到食物<s>和屏幕前的小朋友(笑)一起</s>學習如何用積木/掰手指/畫正字做加法填空題<br><s>基本上大家的第一反應都是「這哪來的超高質量同人」，編者剛看到討論時更一度以為AvA13遲遲不更新把海外觀眾群都逼出集體幻覺了</s> || [https://www.youtube.com/watch?v=2tXUtkAOua4 youtube]<br>[https://www.bilibili.com/video/BV1tiwjzSEZr bilibili]
 |-
 | Would you look at that... || 2026/03/21 ||實物定格動畫，鉤織DIY套組行銷第二彈<br>可能是通篇廣告加上AS系列已告一段落的關係，這次並沒有被代理搬運<s>不然大概會變成毛線火柴人2/AS102</s> || [https://www.youtube.com/shorts/4l4rcxxDtPY youtube]
 |}

@@ -1,0 +1,35 @@
+==描述==
+表示顏色塊用的模板
+
+==語法==
+在某處輸入{{((}}{{PAGENAME}}{{))}}。
+:{|class="wikitable" style=""
+|-
+! 欄位 !! 必要性 !! 預設值 !! 作用 !! 備註
+|-
+| 匿名參數1 || 選用 || gray || 顏色塊的顏色 ||
+|-
+| 匿名參數2 || 選用 || round || 顏色塊的形狀 || {{code|round}} 圓角方形、{{code|sqare}} 方形 {{code|circle}} 圓形。
+|-
+| 匿名參數3 || 選用 || 1 || 邊框寬度 || 單位為px
+|}
+
+==範例==
+{| class="wikitable"
+|-
+! 語法 !! 範例 !! 說明
+|-
+| <code><nowiki>{{Color block|red}}紅色</nowiki></code> 
+| {{Color block|red}}紅色
+| 一般使用
+|-
+| <code><nowiki>{{Color block|blue|circle}}藍色</nowiki></code></code>
+| {{Color block|blue|circle}}藍色
+| 圓形顏色塊
+|-
+| <code><nowiki>{{Color block|purple|square}}紫色</nowiki></code>
+| {{Color block|purple|square|0}}紫色
+| 圓形無框顏色塊
+|}
+
+<includeonly>[[Category:模板]][[Category:格式模板‎]]</includeonly><noinclude>[[Category:模板文件]]</noinclude>
