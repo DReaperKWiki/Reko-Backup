@@ -8,13 +8,13 @@
 
 <gallery widths="250px" heights="250px">
 檔案:特別週.png|校服造型
-檔案:特別週 决胜服.png|勝負服裝
-檔案:特別週 泳裝.png|勝負服裝（泳裝）
-檔案:特別週 總大將.png|勝負服裝（日之本第一總大將）
+檔案:特別週 决胜服.png|勝負服（スペシャルドリーマー）
+檔案:特別週 泳裝.png|勝負服（ほっぴん♪ビタミンハート）
+檔案:特別週 總大將.png|勝負服（日之本一の総大将）
 </gallery>
 
 == 基本資料 ==
-* [[Cygames]]作品《[[賽馬娘Pretty Derby]]》中登場的賽馬娘之一，也是遊戲的看板娘。
+* [[Cygames]]作品《[[賽馬娘 Pretty Derby]]》中登場的賽馬娘之一，也是遊戲的看板娘。
 * CV：[[和氣杏未]]
 * 身高：158cm
 * 體重：微減（比賽前容易緊張）
@@ -92,6 +92,8 @@ UPDSC 30105 SpecialWeek.jpg|私たちと夢、掴みましょう！（SSR）
 *** 不過依舊要看運氣便是了<s>，あげまぜん！（營養補給+3）</s>
 ** 如上述般特別週其實從未說過這句對白，但在遊戲1周年追加育成事件裡真的說出來了<s>，あげまぜん！（はちみつパン）</s>
 *** 該事件還是'''東海帝皇的育成事件'''，且一開始同樣加入了帝皇的妄想<s>，公式化</s>
+
+* <s>雖然貴為看板娘，但隨著馬娘數量越來越多，戲份以及在遊戲開機畫面的位置也變得越來越邊緣化</s>
 
 == 原型 ==
 <div lang="ja" align="center" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #9033ff; font-size: 24px; text-shadow: #9033ff 0px 0px 2px;">「王道を歩み続ける強さ。」</div>

@@ -4059,12 +4059,12 @@ NEUTRAL-CHAOS
 <br>
 
 {{MTdata
-|Name=オーク
+|Name=オーガ
 （食人魔）
 |Type=邪鬼
 |Ali=NEUTRAL
 |Picture=
-[[檔案:SMT1Orc.png|200px]]
+[[檔案:SMT2Ogre.png|200px]]
 |Faction=
 |Skill=
 |Edition=舊約‧女神轉生

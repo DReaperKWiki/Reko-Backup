@@ -528,6 +528,21 @@ P5R：顧問官
 <br>
 
 {{MTdata
+|Name=オーク
+（獸人）
+|Type=邪鬼
+|Ali=
+|Picture=
+[[檔案:SMT1Orc.png|200px]]
+|Faction=物理
+|Skill=-
+|Edition=舊約・女神轉生
+}}
+
+* 就是托爾金老大爺發揚光大的他們
+<br>
+
+{{MTdata
 |Name=バルログ
 （炎魔）
 |Type=Last Bible Ⅲ：カルマン
