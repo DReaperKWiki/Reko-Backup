@@ -1196,7 +1196,8 @@ GUNNER is an entry-level model specialized in ranged combat thus allowing users 
 
 {{MD Title
 |no=22
-|subno=1?
+|subno=1
+|color=#ff6f00
 |title=BUSTER DOLL GUNNER MIDNIGHT FANG
 |subtitle=BUSTER DOLL 砲手 午夜之牙 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} ガンナー ミッドナイト ファング)
 |contentHeader={{#tag:div|{{Glow Text|black|
@@ -1237,7 +1238,8 @@ KNIGHT is an entry-level model specialized in clase combat thus allowing users t
 
 {{MD Title
 |no=23
-|subno=1?
+|subno=1
+|color=#ff6f00
 |title=BUSTER DOLL GUNNER MIDNIGHT CRAW
 |subtitle=BUSTER DOLL 騎士 黑暗之爪 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} ナイト ミッドナイト クロー)
 |contentHeader={{#tag:div|{{Glow Text|black|
@@ -1263,12 +1265,12 @@ TYPE:KNIGHT<br />
 TYPE:TANK<br />
 The third model in a new series featuring the completely remodeled Machinika Block2-M body.<br />
 Its layered armor system allows for parts to be easily swapped for various fighting styles or be further expanded upon. <br />
- TANK features the same inner armor as GUNNER, and focuses on heavy armor and high fire power.
+TANK features the same inner armor as GUNNER, and focuses on heavy armor and high fire power.
 }} }}
 |content={{#tag:div|
 * '''商品代號'''：KP684
 * '''發售時間'''：2024年5月
-* '''膚色'''：未定
+* '''膚色'''：{{MD Skin Color|A}}
 *服裝為藍黑與白色的水手服點綴亮綠色與桃紅透明件，帶有尖而細長的黑色獸耳耳機。
 *武裝為黑色<s>洞洞</s>重鎧與{{ruby|圓桶炮|シリンダーキャノン}}，搭配電鋸般的<s>洞洞</s>{{ruby|鎧甲披風|アーマーケープ}}。
 *於壽屋官方商店購入的特典為紫褐色的騎士髮型，以及無印刷的空白臉三張。
@@ -1277,7 +1279,8 @@ Its layered armor system allows for parts to be easily swapped for various fight
 
 {{MD Title
 |no=24
-|subno=1?
+|subno=1
+|color=#ff6f00
 |title=BUSTER DOLL TANK MIDNIGHT FANG
 |subtitle=BUSTER DOLL 坦克 夜之獠牙 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} タンク ミッドナイト ファング)
 |contentHeader={{#tag:div|{{Glow Text|black|
@@ -1308,13 +1311,29 @@ PALADIN features the same inner armor as the previously released KNIGHT, and foc
 |content={{#tag:div|
 * '''商品代號'''：KP685
 * '''發售時間'''：2024年6月
-* '''膚色'''：未定
+* '''膚色'''：{{MD Skin Color|A}}
 * 又音譯為「帕拉丁」<s>，不是某靴子的品牌</s>。
 * 配色為黑白的西式制服配上紅色領帶，以及淡金色的大馬尾，帶有白色貓耳耳機。
 ** <s>官方宣傳照不知為何讓人想起大傑</s>
 * 武裝為銀紫色與白色裝甲，金色飛翼造型，持有一把<s>洞洞</s>大劍（{{ruby|變種劍|バスタードソード}}）與兩側透明紅的披風。
 * 於壽屋官方商店購入的特典為淡金色的坦克髮型，與無印刷的空白臉三張。
 |style=border:black 1px solid}} |border=1}}
+
+{{MD Title
+|no=25
+|subno=1
+|color=#ff6f00
+|title=BUSTER DOLL PALADIN
+|subtitle=BUSTER DOLL 聖騎士 黑暗之爪 ({{ruby|BUSTER|バスター}} {{ruby|DOLL|ドール}} パラディン DARKNESS CLAW)
+|contentHeader={{#tag:div|{{Glow Text|black|
+TYPE:PALADIN
+}} }}
+|content={{#tag:div|
+* '''商品代號'''：KP782
+* '''發售時間'''：2025年3月
+* '''膚色'''：{{MD Skin Color|C}}
+* 帕拉丁換色版本，同樣素體模式拿掉手套和襪子的配色設計
+}} }}
 
 ==== PUNI★MOFU ====
 * 由BLADE設計
@@ -1330,6 +1349,8 @@ PALADIN features the same inner armor as the previously released KNIGHT, and foc
 ** 外傳謠言是因為繪師BLADE不滿[[konami|K社]]的做法，憤而轉向跟女神裝置原班人馬合作
 ** 其實早在過去武裝神姬請BLADE設計的角色，並著有漫畫《武裝神姬2036》，商品化之後都除了松鼠型外其他都失去了畫師該有的風格
 *** 難得這個系列把BLADE角色的味道發揮得淋漓盡致
+* 繼朱羅系列之後第二個出2/1比例模型的系列。
+* 繼Chaos & Pretty之後，成了後續魔改造玩家的新寵兒，各種如一頭身等等奇奇怪怪的惡搞都有。
 
 ===== PUNI★MOFU 貓貓 =====
 {{MD Title
@@ -1375,11 +1396,30 @@ TYPE:KURO NEKO<br />
 
 }} }}
 
+{{MD Title
+|no=26
+|subno=2
+|title=PUNI★MOFU RACING MAO with Honda Z50J-1 Monkey
+|subtitle=PUNI☆MOFU 賽車貓貓 with 本田猴 Z50J-1 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} レーシングマオ with Honda Z50J-1 モンキー
+|contentHeader={{#tag:div|
+TYPE:KURO NEKO<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP???
+* '''發售時間'''：2026年11月
+* '''膚色'''：?
+* 簡稱「賽車貓貓」，與本田、青島社合作的的限定商品。
+* 內建青島社「1/12 ホンダ Z50J-1 モンキー '78（1/12 本田猴 Z50J-1 '78）」組裝模型。
+
+}} }}
+
+
+
 ===== PUNI★MOFU 兔兔 =====
 {{MD Title
 |no=27
 |color=#ff69b4
-|title=PUNI★MOFU TU
+|title=PUNI★MOFU RACING TU with Honda Z50J-1 Monkey
 |subtitle=PUNI★MOFU 兔兔 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|兎|トゥ}})
 |contentHeader={{#tag:div|
 TYPE:USAGI<br />
@@ -1412,6 +1452,23 @@ TYPE:YUKI USAGI<br />
 * '''膚色'''：{{MD Skin Color|B}}
 * 兔兔的換色版本
 * 配色為淺藍色、白色
+
+}} }}
+
+{{MD Title
+|no=26
+|subno=2
+|title=PUNI★MOFU ?
+|subtitle=PUNI☆MOFU 賽車兔兔 with 本田猴 Z50J-1 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} レーシングマオ with Honda Z50J-1 モンキー
+|contentHeader={{#tag:div|
+TYPE:KURO NEKO<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP???
+* '''發售時間'''：2026年11月
+* '''膚色'''：?
+* 簡稱「賽車兔兔」，與本田、青島社合作的的限定商品。
+* 內建青島社「1/12 ホンダ Z50J-1 モンキー '78（1/12 本田猴 Z50J-1 '78）」組裝模型。
 
 }} }}
 ===== PUNI★MOFU 狼 =====
@@ -1483,6 +1540,40 @@ TYPE:KIN FUKUROU<br />
 * '''膚色'''：{{MD Skin Color|E}}
 * 鴞的換色版本
 * 配色為淺藍色、白色，膚色採用顏色更深的膚色E
+
+}} }}
+
+===== PUNI★MOFU 龍龍 =====
+{{MD Title
+|no=??
+|color=
+|title=PUNI★MOFU LONG
+|subtitle=PUNI★MOFU 龍龍 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|龍|ロン}})
+|contentHeader={{#tag:div|
+TYPE:?<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP858
+* '''發售時間'''：2026年09月
+* '''膚色'''：{{MD Skin Color|A}}
+* 出自於中國神話動物的龍
+* 如果把{{ruby|龍|ロン}}、{{ruby|麟|リン}}取片假名第一個字接在一起就成了[[蘿莉|蘿莉（ロリ）]]<s>，看起來非常故意</s>。
+}} }}
+
+===== PUNI★MOFU 麟麟 =====
+{{MD Title
+|no= ??
+|color=
+|title=PUNI★MOFU LIN
+|subtitle=PUNI★MOFU 麟麟 ({{ruby|PUNI|プニ}}★{{ruby|MOFU|モフ}} {{ruby|麟|リン}})
+|contentHeader={{#tag:div|
+TYPE:?<br />
+}}
+|content={{#tag:div|
+* '''商品代號'''：KP???
+* '''發售時間'''：2026年09月
+* '''膚色'''：?
+* 出自於中國神話動物的麟麟
 
 }} }}
 

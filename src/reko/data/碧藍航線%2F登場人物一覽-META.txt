@@ -211,6 +211,16 @@
 * 圖鑑編號：M047，艦種：驅逐，SR。
 * 於2025年6月至7月的「世界巡游」作為報酬登場。
 
+=== {{anchor|Carabiniere_META}}[[碧藍航線/登場人物一覽-撒丁帝國#Carabiniere|龍騎兵]](META)（カラビニエーレ(META)/Carabiniere META） ===
+[[檔案:Carabiniere META.png|x200px]]
+* 圖鑑編號：M056，艦種：驅逐，SR。
+* 於2026年2月至3月的「世界巡游」作為報酬登場。
+
+==={{anchor|Bristol_META}}[[碧藍航線/登場人物一覽-白鷹#Bristol|布里斯托爾]](META)（ブリストル(META)/Bristol META）===
+[[檔案:Bristol META.png|x200px]]
+* 圖鑑編號：M062，艦種：驅逐，SSR。
+* 在2026年6月的META信標戰中作為解析報酬實裝。
+
 === {{anchor|La_Galissonnière_META}}[[碧藍航線/登場人物一覽-自由鳶尾&維希教廷#La_Galissonnière|拉·加利索尼埃]](META)（クイーン・エリザベス(META)/La Galissonnière META） ===
 [[檔案:La Galissonnière META.png|x200px]]
 * 圖鑑編號：M020，艦種：重巡，SSR。
@@ -404,12 +414,6 @@
 ==={{anchor|Akagi_META}}[[碧藍航線/登場人物一覽-重櫻#Akagi|赤城]](META)（あかぎ(META)/Akagi META）===
 [[檔案:Akagi META.png|x200px]]
 * 於活動「絳染む丹華の詠歌」劇情中初次登場。
-<!--
-==={{anchor|Bristol_META}}[[碧藍航線/登場人物一覽-白鷹#Bristol|布里斯托爾]](META)（ブリストル(META)/Bristol META）===
-[[檔案:Bristol META.png|x200px]]
-* 圖鑑編號：M062，艦種：驅逐，SSR。
-* 在2026年6月的META信標戰中作為解析報酬實裝。
--->
 <!--
 ==={{censored|黑標槍（標槍META？）}}===
 * {{censored|僅於設定集有圖片的黑化標槍，其餘一切未明。}}
