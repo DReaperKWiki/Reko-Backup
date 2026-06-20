@@ -37,8 +37,7 @@
 |rowspan="2"|以「Z系列」為印象的世界觀
 |-
 !第4世界
-|[[機動戰士鋼彈00]]
-Code Geass 反叛的魯路修<br>Code Geass 反叛的魯路修 R2{{ref||Ch2P11}}<br>Code Geass 亡國的阿基德{{ref|第2章Part1追加|Ch2P1}}<br>Code Geass 雙貌的OZ{{ref||Ch2P1}}
+|[[機動戰士鋼彈00]]<br>Code Geass 反叛的魯路修<br>Code Geass 反叛的魯路修 R2{{ref||Ch2P11}}<br>Code Geass 亡國的阿基德{{ref|第2章Part1追加|Ch2P1}}<br>Code Geass 雙貌的OZ{{ref||Ch2P1}}
 |-
 !rowspan="2"|世界4<br>（ワールド04）
 !第5世界
@@ -218,6 +217,10 @@ Code Geass 反叛的魯路修<br>Code Geass 反叛的魯路修 R2{{ref||Ch2P11}}
 |◎新世紀福音戰士 ANIMA
 |2026年4月
 |僅武裝參戰，以新劇場版的機體招式形式出現。機體暫不會參戰。
+|-
+|ULTRAMAN
+|2026年6月
+|常駐參戰<br>與《進化戰記》、《Gridman》、《惡魔人》和《無敵鐵金剛凱薩》共演，與主線無關的獨立劇情
 |}
 
 === 交換駕駛員（クロッシング・パイロット） ===
@@ -339,7 +342,7 @@ Code Geass 反叛的魯路修<br>Code Geass 反叛的魯路修 R2{{ref||Ch2P11}}
 |盧恩龍<br>月之輪庫羅斯
 |古鐵巨人<br>南部響介
 |賽巴斯塔(精靈附身Ver.）<br>安藤正樹
-|
+|G雙界皇帝<br>吾妻吼太
 |
 |
 |

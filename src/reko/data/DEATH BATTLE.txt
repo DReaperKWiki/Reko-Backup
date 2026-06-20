@@ -583,17 +583,19 @@
 |-
 | 204 ||  黑崎一護vs浦飯幽助  <br>( 死神VS幽遊白書）|| 靈異相關高中生對決 <br> ‘26始戰 || {{censored| 勝方：一護 }} || {{youtube|oZ3ET4NYxsw|youtube}}
 |-
-| 205 || 賽魯vs金屬索尼克<br>( 七龍珠VS索尼克）||瘋狂科學家的作品對決<s>真可惜不是蟑螂對蟻王（梅利艾姆）</s><br>DevilArtemis最後參與的DB動畫，而且兩個角色皆由他配音
+| 205 || 賽魯vs金屬索尼克<br>( 七龍珠VS索尼克）||瘋狂科學家的作品對決<br><s>真可惜不是蟑螂對蟻王（梅利艾姆）</s><br>DevilArtemis最後參與的DB動畫，而且兩個角色皆由他配音
 || {{censored| 勝方：金屬索尼克}} ||  {{youtube|qSLfaMncl_w|youtube}} 
 |-
-| 206 || 爆豪vs雷茨<br>(我的英雄學院VS錬鋸人）||
+| 206 || 爆豪vs雷茨<br>(我的英雄學院VS錬鋸人）||操控爆炸的超能力者的對決
 || {{censored| 勝方：爆豪}} ||  {{youtube|RcaAXvAAWbo|youtube}} 
 |-
-| 207 || Gru vs Megamind <br>(Despicable Me VS Megamind）||
-|| {{censored| 勝方：Gru}} ||  {{youtube|_7FCmmFi8VU|youtube}} 
+| 207 || 格魯 vs 麥克邁 <br>(神偷奶爸 VS 麥克邁：超能壞蛋）||2010年代兒童電影超級反派主角對決
+|| {{censored| 勝方：格魯<br><s>又名：制作組疑似和麥克邁（毛百萬）有仇的一集</s>}} ||  {{youtube|_7FCmmFi8VU|youtube}} 
 |-
-| 208|| 虎杖悠仁vs傳治<br>(咒術回戰VS錬鋸人）||
-|| {{censored| 勝方：}} ||  {{youtube| |youtube}} 
+| 208|| 虎杖悠仁vs傳治<br>(咒術回戰VS錬鋸人）||2020年代少年漫畫，被什麼東西強行附身主角對決
+|| {{censored| 勝方：傳治<br><s>所以你們統合戰力的標準是什麼，使人很混亂啊</s>}} ||  {{youtube|S4my56JWZJE|youtube}} 
+|-
+|  ||THE SENTRY VS SUPERBOY-PRIME( VS ）|| 有扭曲現實能力的反英雄對決<br> || {{censored| 勝方： }} || {{youtube| |youtube}}
 |-
 |}
 
@@ -602,7 +604,7 @@
 |-
 ! 集數 !! 標題 !! 解說 !! 賽果（注意有捏！） !! 影片連結 
 |-
-|  ||  VS  <br>( VS ）|| <br> ‘25始戰 || {{censored| 勝方： }} || {{youtube| |youtube}}
+|  ||THE SENTRY VS SUPERBOY-PRIME<br>( VS ）|| <br> ‘25始戰 || {{censored| 勝方： }} || {{youtube| |youtube}}
 |-
 | ?? || || {{censored| 勝方：}} ||  {{youtube| |youtube}} 
 |}

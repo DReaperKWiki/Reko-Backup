@@ -3381,6 +3381,20 @@ D2：萬能、恢復
 <br>
 
 {{MTdata
+|Name=ラクチャランゴ
+（Rakcharango）
+|Type=魔獸
+|Ali=NEUTRAL
+|Picture
+|Faction=-
+|Skill=-
+|Edition=數位惡魔物語 女神轉生Ⅱ
+}}
+
+* 藏傳佛教中閻王的侍者
+<br>
+
+{{MTdata
 |Name=ガキ
 （小鬼/餓鬼）
 |Type=幽鬼
