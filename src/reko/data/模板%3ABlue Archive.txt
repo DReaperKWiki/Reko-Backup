@@ -1,0 +1,35 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|titlestyle  = background: lightblue; text-align: center; vertical-align: middle;
+|bodystyle  = background: lightblue;
+|liststyle  = text-align: left;
+|groupstyle = background: #f9f9f9; text-align: center; width: 10%;
+|belowstyle = text-align: center;
+|oddstyle   = background: #ececec ;
+|evenstyle  = background: lightblue;
+|state      = expanded
+|name   = Blue Archive
+|title  = [[蔚藍檔案]]
+|group1 = 登場人物
+|list1  = 
+{{Navbox subgroup
+|listclass=hlist
+|titlestyle  = background: lightblue; text-align: center; vertical-align: middle;
+|bodystyle  = background: lightblue;
+|liststyle  = text-align: left;
+|groupstyle = background: #f9f9f9; text-align: center; width: 10%;
+|belowstyle = text-align: center;
+|oddstyle   = background: #ececec ;
+|evenstyle  = background: lightblue;
+|state      = expanded
+|group1 =學校分類
+|list1  = [[蔚藍檔案學生介紹-阿拜多斯|阿拜多斯]]・[[蔚藍檔案學生介紹-千年|千年]]・[[蔚藍檔案學生介紹-三一|三一]]・[[蔚藍檔案學生介紹-格黑娜|格黑娜]]・[[蔚藍檔案學生介紹-百鬼夜行|百鬼夜行]]・[[蔚藍檔案學生介紹-其他|其他]]
+|group2 =非學校人士
+|list2  = [[蔚藍檔案/市民一覽|市民與其他勢力]]
+}}
+|group2 = 其他資料
+|list2  =
+|group3 = 分支條目
+|list3  =  [[蔚藍檔案 THE ANIMATION]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
