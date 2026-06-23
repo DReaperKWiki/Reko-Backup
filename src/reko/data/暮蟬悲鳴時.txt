@@ -1,12 +1,14 @@
 {{h0| 暮蟬{{color|red||悲}}鳴時{{ref|台灣角川版譯名}}/{{censored|{{color|white||ひぐらしの}}{{color|red||な}}{{color|white||く頃に}}}}/暮蟬鳴{{color|red||泣}}時{{ref|台灣青文版譯名}}/{{censored|{{color|white||蟬在叫人}}{{color|red||壞}}{{color|white||掉}}}}}}
 
-{| class="wikitable" style="margin:1.5em auto;"
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
 |-
 |以下含有部分的劇情，沒看過原著又不想被'''[[鬼隱]]'''請不要繼續看下去。
 |-
 |主要角色捏它請見角色條目。
 |-
 |以下可能有引人不快的[[獵奇]]敘述或內容，請各位閱讀者三思
+|-
+|[https://x.com/higu_anime/status/2068667853247823909 2026/6/21 '''新作TV动画制作决定''']
 |}
 
 {{Originality}}
