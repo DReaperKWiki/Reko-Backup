@@ -5,8 +5,15 @@
 |-
 |<s>糟糕了！</s>本條目是一個編輯中的條目，歡迎<s>凜喵和</s>有興趣<s>三餐都吃'''白米飯'''</s>的島民加以補完。
 |}
-
 [[檔案:Hanayo img.png|250px|right]]
+<div lang="ja" align="center" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #005926; font-size: 18px; text-shadow: #c48d6c 0px 0px 2px;">
+ありがとうって あふれ出してくる<br>
+夢が少しずつ　ちかづいて<br>
+ありがとうって あふれ出してくる<br>
+嬉しくて 嬉しくて 幸せすぎると<br>
+泣けちゃうの...ごめんね</div>
+<div lang="ja" align="right">（{{youtube|j0XA2EsmYrE|《なわとび》}}）</div>
+
 
 == 解說 ==
 * 《[[LoveLive!(無印)]]》的主要人物

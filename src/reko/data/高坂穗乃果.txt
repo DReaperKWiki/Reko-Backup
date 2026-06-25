@@ -4,7 +4,7 @@
 |-
 |本條目是一個編輯中的詞條，歡迎有興趣的<s>ほの[[チャージマン研！|キチ]]、小鳥和</s>[[島民]]加以補完。
 |}
-[[檔案:Kosaka Honoka (Idol 2).webp|300px|right]]
+[[檔案:Kosaka Honoka (Idol 2).webp|250px|right]]
 <div lang="ja" align="center" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #ff9914; font-size: 18px; text-shadow: #c48d6c 0px 0px 2px;">
 光が見たかった 胸に宿る光<br>  
 いまその時だと気がつく<br>  
@@ -12,8 +12,9 @@
 光がふりそそぐ 皆に宿る光<br>  
 えがお信じて進もうか</div>
 <div lang="ja" align="right">（{{youtube|bRZKLT4KWIc|《閃光Resolution》}}）</div>
+
 ==解說==
-*《[[LoveLive!]]》(無印)的主角兼LoveLive!企劃的看板娘
+*《[[LoveLive!(無印)]]》的主角兼LoveLive!企劃的看板娘
 *CV：[[新田惠海]]（日本）/何璐怡（香港）<s>不是[[平澤唯]]二世</s>
 *生日：8月3日（獅子座）
 *身高：157 cm
