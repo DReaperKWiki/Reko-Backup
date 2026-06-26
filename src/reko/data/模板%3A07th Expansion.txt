@@ -1,0 +1,28 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = 07th Expansion
+|title  = [[07th Expansion]]
+|group1 = 暮蟬悲鳴時
+|list1 = {{Navbox|child
+    |group1 = 作品
+    |list1  = [[暮蟬悲鳴時]]
+    |group2 = 角色
+    |list2  = [[暮蟬悲鳴時/角色列表]]（[[前原圭一]]・[[龍宮禮奈]]・[[園崎魅音]]・[[園崎詩音]]・[[北條沙都子]]・[[古手梨花]]・[[羽入]]）
+    |group3 = 成句
+    |list3  = [[成句/他‧轉‧學‧了]]・[[成句/嘘だッ！]]・[[成句/好想帶回家！]]・[[成句/男人變態有什麼錯]]・[[成句/我來陪妳玩玩吧，鉈女！]]
+    |group4 = 用語
+    |list4  = [[鬼隱]]・[[雛見澤症候群]]
+}}
+|group2 = 海貓悲鳴時
+|list2 = {{Navbox|child
+    |group1 = 作品
+    |list1  = [[海貓悲鳴時]]
+    |group2 = 角色
+    |list2  = [[海貓悲鳴時/角色列表]]（[[右代宮樓座]]・[[右代宮緣壽]]・[[櫻太郎]]・[[貝倫卡絲泰露|ベルンカステル]]）
+    |group3 = 成句
+    |list3  = [[成句/沒有愛，就看不見]]
+}}
+|group3 = 彼岸花綻放之夜
+|list3 = [[彼岸花綻放之夜]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

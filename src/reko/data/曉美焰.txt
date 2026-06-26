@@ -1,4 +1,4 @@
-{{h0|暁美ほむら/曉美焰{{censored|/Homulilly}}}}
+{{h0|暁美ほむら/曉美焰{{censored|/Homulilly<s>/焰魔</s>}}}}
 
 {| class="wikitable" style="margin: 1.5em auto;text-align:center" 
 |-
@@ -253,7 +253,7 @@
 * [http://www.wa-gunnet.co.jp/product_info.php?cPath=2&products_id=742  和QB才是真正主角？（見M92FS）]
 
 == 回應 ==
-[[{{TALKPAGENAME}}]]
+{{pcomment|section=1}}
 
 == 備註 ==
 <references/>

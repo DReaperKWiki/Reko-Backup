@@ -29,7 +29,7 @@
 |group1 =初始~2星
 |list1  = [[賽馬娘 Pretty Derby/登場人物介紹-初始賽馬娘|初始]]・[[賽馬娘 Pretty Derby/登場人物介紹-1星賽馬娘|1星]]・ [[賽馬娘 Pretty Derby/登場人物介紹-2星賽馬娘|2星]]
 |group2 =[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘|{{color|white||3星賽馬娘}}]]
-|list2  = [[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part1|初期~URA]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part2|青春盃~巔峰盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part3|偶像盃~女神盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part4|凱旋門盃/U.A.F./大豊食祭]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part5|機械盃/傳說盃/無人島/溫泉盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part6|育馬者盃/]]
+|list2  = [[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part1|初期~URA]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part2|青春盃~巔峰盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part3|偶像盃~女神盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part4|凱旋門盃/U.A.F./大豊食祭]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part5|機械盃/傳說盃/無人島/溫泉盃]]・[[賽馬娘 Pretty Derby/登場人物介紹-3星賽馬娘-Part6|育馬者盃/拉麵盃/]]
 }}
 |group2 =[[賽馬娘 Pretty Derby/登場人物介紹-賽馬娘(未開放育成)|{{color|white||未開放育成}}]]
 |list2  =[[賽馬娘 Pretty Derby/登場人物介紹-對手賽馬娘|對手]]・[[賽馬娘 Pretty Derby/登場人物介紹-其他賽馬娘|其他]]
