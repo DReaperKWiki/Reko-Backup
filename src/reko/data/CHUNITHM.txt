@@ -554,13 +554,20 @@
 === YOUNITHM(MASTER 15+/ULTIMA 15+) ===
 * 《LINKED GATE X-VERSE》資料夾解禁的曲目，定位上為X-VERSE的ED兼{{censored|表面}}最終BOSS曲。
 ** 成功挑戰並解禁曲目後會入手會跟隨第一次問題的結果<ref>日本版限定，海外版直接刪除問題</ref>給予其中一首其他音樂遊戲的曲目，玩家能夠透過全國及店內對戰方式將該曲目傳導給其他玩家。
-** 當集齊11首後其ULTIMA譜面會在新增的《LINKED GATE RE:VERSE》資料夾供玩家挑戰解禁，不同的是該資料夾'''初期只限店內聯機'''解禁，難度在未解禁前標為「X」。
+*** 及後11首曲目可以透過全國對戰點數或本地聯機解禁。<!--<ref>海外版只限聯機點數解禁。</ref>-->
+** 當集齊11首後其ULTIMA譜面會在新增的《LINKED GATE RE:VERSE》資料夾供玩家挑戰解禁，不同的是該資料夾'''初期只限店內聯機'''解禁<ref>和LINKED VERSE一樣解禁限制隨時間進展放寬，現時日本版已經能夠線上聯機解禁</ref>，難度在未解禁前標為「X」。
 *** 譜面為MASTER的強化版兼夾大量的初見殺配置，初日連即使能進入KOP決賽的玩家也陷入苦戰。
-* 即使解禁之後還未完結，而當同場的四位玩家成功完走該譜面的時候......
-{{hideh|Another LINKED GATE Appeared....}}
-* 最後一個《FINAL. Linked GATE UNIVERSE》資料夾會出現在成功挑戰的玩家們前，挑戰曲目為「Melodiniq」的ULTIMA譜面，難度為現時點最高的'''16'''。
-** 和《LINKED GATE RE:VERSE》一樣初期只能只限店內聯機解禁，但最大問題是譜面除了比之前的更難外更'''夾雜了之前只限WORLD'S END出現的DAMAGE NOTE'''，亦因此在初日仍然未有人成功解禁。
-{{hidef|}}
+* 即使解禁之後還未完結，頭一星期內當同場的四位玩家成功完走該譜面的時候就能挑戰下面的曲目。
+
+=== Melodiniq(MASTER 15+/ULTIMA 16) ===
+{|class="wikitable" style="margin:auto;text-align:center;background:black;color:white;"
+|-
+|Linked GATE UNIVERSE Opened.<br>Show me your CHUNITHM.
+|}
+* 《X-VERSE-X》另一首{{censored|真正的}}最終BOSS曲，所有譜面為所屬等級的最高難易度和該版本的最高譜面定數，當中ULTIMA譜面難度為現時點最高的'''16'''。
+** 和上面的ULTIMA譜面一樣初期只能只限店內聯機解禁，但最大問題是譜面除了比之前的更難外更'''夾雜了之前只限WORLD'S END出現的DAMAGE NOTE'''，加上在LINKED VERSE模式曲目中段起除譜面外其他資訊會突然消失，而且之後更出現'''在邊界外面有配置的音符'''配置。
+*** 因為其譜面數一數二的難易度加上難讀配置，在初日仍然未有人成功解禁直至第二天才出現解禁的玩家。
+* 該曲的作曲家為onoken，順帶一提他在本作所有主要版本中有提供曲目。
 
 ==知名譜面製作人==
 ===譜面-100號===

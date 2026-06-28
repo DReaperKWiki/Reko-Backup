@@ -156,6 +156,8 @@
 | 36 || {{color|yellow|purple|Lord Booster<br>（ロードブースター）}} || 透過吸收「反抗的精神」讓使用者的所有能力都到達過盛程度的Capsem || Extra Capsem吸收了諾克斯的{{ruby|反抗精神|正義之心}}後進化而成<s>其實早在第20話便已登場</s>{{ref|朝日官網的Lord Invoker頁面{{twitter|ju_jaaaa|2017768936293732609|最初公開時裡面的Lord Invoker照片中安裝的是Lord Booster Capsem}}<s>官方提早洩漏</s>，直到後來才修改成Shock Capsem}}
 |-
 | HBV || {{color|black|#f0f0f0|Zeztz & Code Zeroider<br>（ゼッツ&コードゼロイダー）}} || ? || 由灌注了Code Zeroider力量的[[棒球]]變成
+|-
+| 劇場版 || {{color|red|#f0f0f0|Agent<br>（エージェント）}} || 灌注了CODE特務們的夢之力的Capsem ||
 |}
 
 === Nox使用的Capsem ===
