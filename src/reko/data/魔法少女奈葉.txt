@@ -1,7 +1,7 @@
 <!--@convert-with https://mwzhx.github.io/komicawiki-backup/index-browser.html
 convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少女リリカルなのは }}
 
-{| class="wikitable" style="margin:auto;"
+{| class="wikitable" style="margin: 1.5em auto;text-align:center"
 |-
 | 以下含有部分的劇情，沒過接觸原著又不想被'''[[SLB]]'''轟炸到請不要繼續看下去。
 |-
@@ -736,7 +736,7 @@ convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少
 ** Force時期，蒂亞娜的輔佐官是機人姊妹之一的溫蒂
 ** 外傳Innocent第二部中和昴是同學，似乎是為了配合奈葉等人的年齡，年紀比原作還小，也因為年紀太小而誤認個性、外表、喜好和穿著過於男性化的昴是男生，因此被昴在玩BD時，即使面對奈葉和維塔也毫不動搖的身影吸引而喜歡上她（異性的意味），結果在得知真相時直呼要昴還她純情。
 
-* エリオ・モンディアル（艾利歐・曼迪爾）
+* エ<s>[https://dic.pixiv.net/a/エロオ・モンデヤル ロ]</s>リオ・モンディアル（艾利歐・曼迪爾）
 ** CV：[[井上麻里奈]]
 ** 機動六課Lightning分隊的3號隊員
 ** 初登場：StrikerS
@@ -986,7 +986,6 @@ convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少
 == 相關資料網站 ==
 
 * [http://zh.wikipedia.org/w/index.php?title=魔法少女奈葉&variant=zh-tw 中文WIKI]
-* [http://wiki.nanohas.com/ 中文NanohaWIKI]
 * [http://nanoha.julynet.jp/ 日文NanohaWIKI]
 * [http://nanoha.wikia.com/wiki/ 英文NanohaWIKI]
 

@@ -21,7 +21,7 @@
 * 登場時為19歲，臀圍87cm，腿長約108cm
 * 身高174CM（喬魯諾淚目…）
 * 第三部主角承太郎的女兒
-**血統覆雜，四分之一的日本人（承太郎的父親），八分之一的英國人（喬瑟夫），八分之一的義大利人（絲吉Q），還有裔別不明的母親的血統
+**血統複雜，四分之一的日本人（承太郎的父親），八分之一的英國人（喬瑟夫），八分之一的義大利人（絲吉Q），還有裔別不明的母親的血統（僅可確定為美國國籍）
 ** 左手臂有蝴蝶與小刀刺青，是旅行的紀念
 * 家族
 ** 父：[[空條承太郎|空条承太郎]]
@@ -103,21 +103,23 @@
 * 以前曾經當過飆車族，並對男友羅密歐隱瞞這件事
 * 由於徐倫的太妹打扮，她在一次的意外中被人當成竊盜犯與偷車犯因而留下前科；本人對這件事十分在意，也不喜歡被人拿出來提
 * 新世界登場的她名字是艾琳，這和荒木老師的作品《神奇的艾琳》的主角同名
-{{anchor| son }}<br>{{collapse top|{{censored|<b>先聲/雛形：空条丞太(CLAMP同人二創)</b>}}|}}
+{{anchor| son }}<br>{{collapse top|{{censored|<big><big><big>🥚</big></big></big><b>先聲/雛形：空条丞太(CLAMP同人二創)</b>}}|}}
 {| class="wikitable" style="margin:1.5em auto;"
 |-
-| <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #000000; font-size: 48px;"><br><center>{{Glow Text|yellow|<i>うわあああぁぁぁ~～~～！！！！</i>|scale=2|fontColor=Green|flash=1}}</p></center></div>
+| <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #000000; font-size: 48px;"><br><center>{{Glow Text|lime|<i>うわあああぁぁぁ~～~～！！！！</i>|scale=1.5|fontColor=Beige|flash=1}}</p></center></div>
 |-
-| 花京院！おめぇが産んたのか?!この卵！/ Kakyoin, Did You Lay this Egg!?
+| 花京院！おめぇが産んたのか?!この卵！/ <b>Kakyoin, Did You Lay this Egg!?</b>
 |-
 |}
 * (時為)業界知名同人團體CLAMP於93年推出的[[BL]]同人本《ジョジョの奇妙な新婚生活》所設定：承太郎與花京院的孩子。
-* 擁有承太郎的體格外型與花京院的配色(綠+紅)、細節(前髮)，當然也有替身「<b>チャーミーグリーン/魅惑の緑</b>」←從現實的洗碗精品牌命名(無誤)
-** 替身造型也如同白金之星主體+綠色法皇線狀化性能(少年體格時期有綠色法皇護甲)，但以'''若葉標誌'''(半黃半綠的箭頭型)為主要徽印
+* 擁有承太郎的體格外型與花京院的配色(綠+紅)、細節(前髮)。
+** 當然也有替身「<b>チャーミーグリーン/魅惑の緑</b>」←從現實的洗碗精品牌命名(無誤)
+*** 替身造型也如同白金之星主體+綠色法皇線狀化性能(少年體格時期有綠色法皇護甲)，但以'''若葉標誌'''(半黃半綠的箭頭型)為主要徽印
 ** 吼聲為『ウリャウリャ』
-* 雖然是很喧賓奪主的二創，但荒木老師不以為冒犯，甚至部分認可了，於是空条丞太也在Clamp相關OVA動畫《CLAMP in Wonderland》[https://youtu.be/aLWrZ8BtN_w&t=208 壓軸登場]，並且包括幼兒型態與少年體格型態，但沒有明確宣示角色名。
+* 雖然是很喧賓奪主的二創，但荒木老師不以為冒犯，甚至部分認可了，於是空条丞太也在Clamp相關OVA動畫《CLAMP in Wonderland》[https://youtu.be/aLWrZ8BtN_w&t=208 壓軸登場]，並且包括幼兒型態與少年體格型態，但沒有明確宣示角色名。<s>比官方第六部動畫影集更早27年</s>
 ** 似乎是因此為徐倫選定主色為綠色，為石之自由設定了同樣的線狀化性能(但連本體都能線狀化)，又加上了<b>似乎有肥皂味</b>的半致敬設定…
 *** <s>以及回音Act1的蛋型態</s>
+** <s>但在二創就反應兩極，即使是較早推動LGBTQ+平權化的歐美網域，也未能全盤接受 Jouta Kujo，有部分將其設定為『神父要[[新世界的神|前往新世界]]』的笑哏，也有些設定為徐倫的半個兄弟…</s>
 
 {{collapse bottom}}
 
