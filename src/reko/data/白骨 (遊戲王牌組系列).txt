@@ -25,9 +25,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[File:白骨.jpg|250px]]
+卡圖1=[[File:白骨.jpg|250px|right]]
 |-| 
-卡圖2（Rush Duel）=[[檔案:Skull_Servant_(Rush_Duel).jpg|250px]]
+卡圖2（Rush Duel）=[[檔案:Skull_Servant_(Rush_Duel).jpg|250px|right]]
 </tabber>
 }}
 
@@ -227,6 +227,7 @@
 {{-}}
 
 === {{ruby|融合募兵|ゆうごうぼへい}} ===
+[[File:Fusion_Draft.png|250px|right]]
 * 《融合徴兵》的平價互換版，《同步超車》的融合版本。
 * 卡圖是《白骨》去找老同學《岩漿人》和《格鬥戰士亞爾迪梅塔》來組成搭檔（還拿路過的《怪獸蛋》跟《史汀格》當例子），但他們似乎都忘了《白骨》。
 ==== 卡片資訊 ====
