@@ -4175,14 +4175,34 @@
 ! rowspan="2"|470
 | [[Urðr (Fate)|終末的Archer]]
 | rowspan="2"|Archer
-| rowspan="2"|天
-| rowspan="2"|
+| rowspan="3"|天
+| rowspan="5"|
 | rowspan="2"|飯田ぽち
 | rowspan="2"|[[羊宮妃那]]
 | rowspan="2"|
 | rowspan="2"|自1.5部以來時隔多年再次出現隱藏真名的從者<s>雖然曾說過不會再搞了但因為劇中時間被倒轉了所以(ry</s>
 |-
 | [[Urðr (Fate)|{{censored|烏爾德}}]]
+|-
+! 471
+| [[Ascalaphus (Fate)|阿斯卡拉福斯]]
+| Alter Ego
+| 浪人
+| 榊原優希
+| rowspan="3"|三田誠
+| 冥河之神阿刻戎和仙女俄耳甫涅之子，後來因為他向黑帝斯告密，導致珀耳塞福涅無法離開冥界，因而觸怒狄蜜特而被變成雕鴞。
+|-
+! 472
+| rowspan="2"|[[Gray (TYPE-MOON)|格蕾〔Lily〕]]
+| Saber
+| 
+| rowspan="2"|坂本みねぢ
+| rowspan="2"|[[上田麗奈]]<br>[[小野大輔]]（亞德）
+| rowspan="2"|期間限定活動贈送角色。
+|-
+! 473
+| Lancer
+|
 |}
 
 
