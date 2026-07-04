@@ -1,5 +1,13 @@
 {{h0| 新機動戰記鋼彈W/新機動戦記ガンダムW}}
 
+{| class="wikitable"  style="margin:1.5em auto;text-align:center;"
+| colspan="2" |'''任務…了解（自爆）'''
+|-
+| colspan="2" |本條目內含劇情內容，沒看過原著<s>又不希望被'''無端地突然自爆'''</s>者請不要繼續看下去。
+|-
+|上一部：[[機動武鬥傳G鋼彈]] || 下一部：[[機動新世紀鋼彈X]]
+|}
+
 {{Infobox
 | bodystyle = width:350px;
 | image = 

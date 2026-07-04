@@ -1,6 +1,8 @@
 {{h0|法尼‧瓦倫泰（ファニー・ヴァレンタイン/Funny Valentine）}}
 
-{| class="wikitable" style="margin:1.5em auto;"
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+|-
+| [https://youtu.be/jsjdjWGDvFk My Heart and Actions are Utterly Unclouded], [https://youtu.be/dzgNPjOOITo They are all Those of Justice.]
 |-
 |以下含有部分劇情，沒看過原著<s>又不想{{censored|被丟到與平行世界的自己相撞、或被無限迴轉的給埋進地裡而}}死</s>的話請不要繼續看下去。
 |}
@@ -11,7 +13,7 @@
 
 == 解說 ==
 *  [[荒木飛呂彥]]的漫畫《[[JOJO的奇妙冒險]]》第七部《飆馬野郎》的{{censored|表}}反派BOSS兼黑幕
-* 時任美國第23任總統{{ref|現實中的第23任美國總統是班傑明・哈里森}}
+* 時任美國第23任總統{{ref|順帶一提，現實中的第23任美國總統是班傑明・哈里森}}
 ** 在故事的最後提到他在國內的支持率達91%
 
 == 稱呼 ==
@@ -27,6 +29,7 @@
 
 * [[聲優|CV]]：
 ** 加瀨康之（PS3遊戲《All Star Battle》、PS3/4遊戲《Eyes of Heaven》）
+** <s>[[喬瑟夫‧喬斯達|二喬]]</s>[[杉田智和]]（動畫版）
 
 * 家族：
 ** 妻子：絲嘉麗‧瓦倫泰
@@ -126,7 +129,7 @@
 ** 歌曲最早出自音樂劇{{wp|Babes_in_Arms|《Babes in Arms》|lang=en}}，由{{youtube|RAFgijNcy-8|女演員「米茲·格林（Mitzi Green）」演唱}}
 ** 自面世以來被至少600位歌手於逾1300張專輯中重新演繹，當中有名者如由{{youtube|QuMzUXPEPRM|切特·貝克（Chet Baker）翻唱的版本}}，在2015年與Mitzi Green的原版一併收錄入國家錄像資料庫（National Recording Registry）
 
-* 故事初期曾用一支鉛筆平範如何一口氣喝當啤酒，喝的方式跟[[空條承太郎]]在看守所居留時一樣
+* 故事初期曾用一支鉛筆示範如何一口氣喝光啤酒，喝的方式跟[[空條承太郎]]在看守所居留時一樣
 
 * 作為其替身能力初登場的「費城槍擊案」事件，是被稱為'''不論用任何方式去解讀都會有不合理的地方'''<s>超越[[迪亞波羅#替身|It just works]]</s>的系列懸案
 
@@ -151,7 +154,7 @@
 ** 鹹豬手露西前的問題發言
 
 == 相關連結 ==
-* [[JOJO]]
+* [[JOJO的奇妙冒險]]
 ** [[JOJO第七部登場人物一覽]]
 *** [[傑洛‧齊貝林‏‎]]
 *** [[喬尼‧喬斯達‏‎‏‎‏‎]]
