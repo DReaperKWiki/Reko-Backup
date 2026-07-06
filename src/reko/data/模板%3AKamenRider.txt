@@ -111,16 +111,16 @@
 |list3= [[仮面ライダーBLACK SUN#主要人物|南光太郎・秋月信彥]]
 }}
 }}
-|group6 = [[假面騎士製作人員列表|<span style="color:black">製作人員</span>]]
+|group6 = [[假面騎士系列/製作人員列表|<span style="color:black">製作人員</span>]]
 |list6 =  
 {{Navbox|child|
   |groupstyle = background:#80C0C0;
 |titlestyle  = background: #CFAC84; text-align: center; vertical-align: middle;
-|group1 = [[假面騎士製作人員列表#編劇|<span style="color:black">編劇</span>]]
+|group1 = [[假面騎士系列/製作人員列表#編劇|<span style="color:black">編劇</span>]]
 |list1 = [[井上敏樹]]・[[小林靖子]]・[[米村正二]]・[[高橋悠也]]
-|group2 = [[假面騎士製作人員列表#監督|<span style="color:black">監督</span>]]
+|group2 = [[假面騎士系列/製作人員列表#監督|<span style="color:black">監督</span>]]
 |list2 =[[坂本浩一]]・[[諸田敏]]・[[上堀內佳壽也]]・[[杉原輝昭]]
-|group3 = [[假面騎士製作人員列表#皮套演員|<span style="color:black">皮套演員</span>]]
+|group3 = [[假面騎士系列/製作人員列表#皮套演員|<span style="color:black">皮套演員</span>]]
 |list3 = [[高岩成二]]・[[岡元次郎]]・[[永德]]・[[蜂須賀祐一]] 
 }}
 |group7 = [[假面騎士系列/遊戲作品一覽|<span style="color:black">遊戲作品</span>]]
