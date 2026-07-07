@@ -1,5 +1,4 @@
-<!--@convert-with https://mwzhx.github.io/komicawiki-backup/index-browser.html
-convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少女リリカルなのは }}
+{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少女リリカルなのは }}
 
 {| class="wikitable" style="margin: 1.5em auto;text-align:center"
 |-
@@ -7,6 +6,7 @@ convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少
 |-
 | 這是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
 |}
+[[檔案:Nanohalogo.jpg|300px|center]]
 
 == 解說 ==
 
@@ -141,15 +141,11 @@ convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少
 ** 時間點位在A's約3個月後。
 ** 故事以A's Portable-The Gears of Destiny內容為原型改編而成，細節和劇情與遊戲相比有眾多改動
 ** 如兩姐妹並非機器人、新增原創角色伊莉斯等等，部分武裝設定由Force逆流，如奈葉的Strike Cannon，<s>該改名為機動少女奈葉了，用的根本就是EVA的陽電子炮...</s>
-** <s>各種打臉情節 (無誤)</s>
-** 待補完……
-
-[[檔案:Img11151.jpg|300x422px]]
-
-<s>ACE的由來</s><ref>圖片轉載如有問題請告知</ref><ref>實際設定上，疾風才是三人裡最貧的</ref>
-
+** <s>各種打臉情節</s>
 * EXCEEDS
 * EXCEEDS Gun Blaze Vengeance
+** {{censored|<s>主角的妹妹[[三話便當效應|第一集就...]]</s>}}
+** 待補完……
 
 == 角色 ==
 
@@ -968,20 +964,6 @@ convert from html-->{{h0| 魔法少女奈葉/<s>魔砲少女奈葉</s>/魔法少
 * [[神秘經典]]
 * [[夜天的襲胸王]]
 * [[白色惡魔]]
-
-== 惡搞圖集錦 ==
-
-* [[夜天的襲胸王]]
-
-[[File:Img174.jpg|150px]]
-
-* 與高町奈葉以及菲特共稱「時空局三神器」、「時空局三腐女」、「時空局三大地圖兵器」...等。
-
-[[File:Img172.jpg|150px]]
-
-* 混亂的男女關係
-
-[[File:Img175.jpg|150px]]
 
 == 相關資料網站 ==
 
