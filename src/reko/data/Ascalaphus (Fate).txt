@@ -64,7 +64,7 @@
 {| class="wikitable" style="margin: 0 auto"
 	{{Fate Noble Phantasm Head}}
 	{{Fate寶具列
-		|image=     
+		|image=     https://i.meee.com.tw/uA05XED.gif
 		|color=     gray
 		|bgcolor=   black
 		|name=      我は告げる、逃れられぬ絶望を

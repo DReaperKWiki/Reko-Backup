@@ -158,10 +158,10 @@
 		|bgcolor= 
 		|name= 汝，收割星之血刃
 		|pronounce= Adamas Chronos Erinys
-		|rank= 
-		|type= 
-		|range= 
-		|maxcaught= ?
+		|rank= A+
+		|type= 對艦寶具
+		|range= 10~70
+		|maxcaught= 80人
 		|explain= 
 	}}
 |}
@@ -199,6 +199,7 @@
 * 赫拉 — 妹妹。
 * 波賽頓 — 弟弟。
 * 黑帝斯 — 弟弟，後來擄走愛女珀耳塞福涅。
+** <s>在珀耳塞福涅的形象公開之後大概要背負戀童癖的罵名很長一段時間</s>
 * [[Zeus (Fate)|宙斯]] — 弟弟。
 * 赫斯提亞 — 大姐。
 * 阿芙蘿黛蒂 — 侄女。
