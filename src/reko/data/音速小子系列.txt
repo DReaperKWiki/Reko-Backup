@@ -122,7 +122,7 @@
 |- 
 | [https://youtu.be/VuPtIzUoGyo Sonic the Hedgehog 2] || 1992/11/21 || 塔爾斯初次登場，導入旋衝。 ||
 |-
-| [https://youtu.be/IjEAj47L26Q Sonic the Hedgehog CD] || 1993/9/23 || SEGA CD || 艾咪與金屬索尼克初次登場，自本作起可以儲存關卡紀錄。<br>首款有片頭曲及片尾曲的遊戲，日版與歐版的片頭曲《Sonic‐You Can Do Anything》及片尾曲《Cosmic Eternity -Believe in Yourself》由宇德敬子演唱，北美版的主題曲《Sonic Boom》由Pastiche演唱<br>主題為時空旅行，關卡中會有Past／Future時空立牌，接觸後並持續以最快速度衝刺後可穿梭到過去／未來<br>因此本作出現的寶石名為Time Stones而非Chaos Emerald|| 動畫方面找了東映製作，手機/PC版移植後則動用了本來的賽璐珞畫而不是沿用調整後的64色畫面，《Sonic Jam》亦收錄了此版本的開頭畫面<ref>受當時MD性能所限，MD只可以從256色中抽取64色作畫面輸出</ref><br>日歐版與北美版的樂曲有差別，日後的移植版的日歐版主題曲因為版權問題而只收錄無人聲版（Origins除外）
+| [https://youtu.be/IjEAj47L26Q Sonic the Hedgehog CD] || 1993/9/23 || SEGA CD || 艾咪與金屬索尼克初次登場，自本作起可以儲存關卡紀錄。<br>首款有片頭曲及片尾曲的遊戲，日版與歐版的片頭曲《Sonic‐You Can Do Anything》及片尾曲《Cosmic Eternity -Believe in Yourself》由宇德敬子演唱，北美版的主題曲《Sonic Boom》由Pastiche演唱<br>主題為時空旅行，關卡中會有Past／Future時空立牌，接觸後並持續以最快速度衝刺後可穿梭到過去／未來<br>因此本作出現的寶石名為Time Stones而非Chaos Emerald|| 動畫方面找了東映製作，手機/PC版移植後則動用了本來的賽璐珞畫而不是沿用調整後的64色畫面，《Sonic Jam》亦收錄了此版本的開頭畫面<ref>受當時MD性能所限，MD只可以從256色中抽取64色作畫面輸出</ref><br>日歐版與北美版的樂曲有差別，日後的移植版的日歐版主題曲因為版權問題而只收錄無人聲版（除《起源》以外）
 |-
 | [https://youtu.be/8eA5MeiZe5g Sonic the Hedgehog 3] || 1994/2/2 || rowspan="2"|MD || 納克魯斯初次登場<br>首次導入存檔欄位選擇，另外可選擇不要存檔進行遊戲的模式 || 值得注意的是美國已故明星麥可·傑克森有監修本作音樂製作，但後來因為大人的事情<ref>一大部分玩家認為當時麥可·傑克森已被捲入兒童性侵醜聞</ref>，沒有標註在本作的製作名單中，日後的PC移植版以及後來推出的《起源》的部分關卡的BGM也被撤換成新編版
 |-
