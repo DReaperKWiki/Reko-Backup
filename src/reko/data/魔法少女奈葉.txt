@@ -711,8 +711,8 @@
 ** 機動六課Stars分隊的4號隊員<s>，[[龍宮禮奈|鉈女]]，[[古河渚|維斯的嫁]]</s>
 ** 初登場：StrikerS
 ** 出生日期：新曆59年（StrikerS-16歲、Vivid-20歲、Force-22歲）
-** 魔力光顏色：橙色
-** Device：Cross Mirage（交鳴幻境）<s>、鉈</s>
+** 魔力光顏色：{{color|orange||橙色}}<s>大{{color|orange||橘}}已定</s>
+** Device：Cross Mirage（交鳴幻境）<s>、柴刀</s>
 ** 慣用手：左右
 ** <s>百合對象：昴‧中島、高町奈葉</s>
 ** 幼年失去雙親，由哥哥養育長大
