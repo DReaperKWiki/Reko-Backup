@@ -1,4 +1,4 @@
-{{H0|学園アイドルマスター/學園偶像大師}}
+{{H0|学園アイドルマスター/學園偶像大師<s>/[[LoveLive!|school IDOLM@STER project]]</s>}}
 {| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"
 |-
 |以下含有部分的劇情，沒接觸過原作<s>又不想被不可原諒(指炸豬排去皮)</s>的話請不要繼續看下去。
@@ -14,7 +14,7 @@
 *[[RogueLike]]角色養成型遊戲，透過調整隨機獲得的技能牌組，最終完成偶像的培養<s>，殺戮尖塔的玩法</s>。
 *偶像們需要培養的數值分成三大項：Vocal(Vo)、Dance(Da)、Visual(Vi)，每位偶像各自的初始值與成長值有所差異。
 *玩家的製作人等級（Producer Level, PLv）提升後，可以解放更多強力的技能牌，提升偶像培養的成績
-*目前設有「定期公演『初』」與「N.I.A」兩大章節(育成模式)，玩法有些許不同
+*目前設有「定期公演『初』」與「N.I.A」與「H.I.F」三大章節(育成模式)，玩法有些許不同
 **定期公演『初』中包含角色個人劇情1–10章，設有Regular、Pro、Master三個難度
 **N.I.A（Next Idol Audition）包含角色個人劇情11–20章，整體難度較高
 
