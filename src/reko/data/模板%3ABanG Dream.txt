@@ -18,7 +18,7 @@
 |list3 = [[BanG Dream!FILM LIVE|FILM LIVE]]・[[BanG Dream!Episode of Roselia|Episode of Roselia]]・[[BanG Dream!Poppin'Dream!|Poppin'Dream!]]
 }}
 | group2 = 登場角色
-| list2 = [[BanG Dream!/登場角色介紹-主要樂團|主要樂團]]・[[BanG Dream!/登場角色介紹-其他樂團|其他樂團]]・[[BanG_Dream!/登場角色介紹-其他人物|其他人物]]
+| list2 = [[BanG Dream!/登場角色介紹-主要樂團|主要樂團]]・[[BanG Dream!/登場角色介紹-其他樂團|其他樂團]]・[[BanG_Dream!/登場角色介紹-其他人物|其他人物]]（[[薇歐拉 (BanG Dream)|薇歐拉]]）
 | group3 = 角色條目
 | list3 =
 {{Navbox|child|
@@ -44,6 +44,10 @@
 | list9 = [[三角初華]]・[[若葉睦]]・[[八幡海鈴]]・[[祐天寺若麥]]・[[豊川祥子]]
 |group10 = 夢限大MewType
 | list10 = [[仲町阿拉蕾]]・[[宮永野乃花]]・[[峰月律]]・[[藤都子]]・[[千石由乃]]
+|group11 = millsage
+| list11 = [[汐見螢]]・[[伊澤棗]]・[[琴平凪]]・[[濱崎茉幌]]・[[和泉朋花]]
+|group12 = 一家Dumb Rock!
+| list12 =[[須賀蕾葉]]・[[馬橋心玖]]・[[矢倉蓬咲]]・[[梅里千櫻梨]]・[[四宮寧月]]
 }}
 |group4 = 音樂
 |list4 = [[BanG Dream!/曲目一覽|曲目一覽]]
