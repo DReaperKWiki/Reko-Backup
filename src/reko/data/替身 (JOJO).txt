@@ -354,7 +354,7 @@
 |-
 | 紫煙(Purple Haze) || 美國歌手Jimi Hendrix歌曲 || Purple Smoke || 潘納柯特．福葛 || A || B || E || E || C || B || 製造使生物潰爛的病菌，但病菌會在光照下急速消滅，另外病菌是可以用血清破解的 
 |-
-| 鏡中人(Man In The Mirror) || 美國歌手Michael Jackson歌曲《<br>[[https://youtu.be/PivWY9wn5ps Man In The Mirror]》 || Mirror Man{{ref|英國樂團The Human League歌曲}} || 伊魯索 || C || E || C || D || B(鏡中世界數百公尺) || C || 以鏡子為入口，把指定的人或物拉入鏡中世界 
+| 鏡中人(Man In The Mirror) || 美國歌手Michael Jackson歌曲《<br>[https://youtu.be/PivWY9wn5ps Man In The Mirror]》 || Mirror Man{{ref|英國樂團The Human League歌曲}} || 伊魯索 || C || E || C || D || B(鏡中世界數百公尺) || C || 以鏡子為入口，把指定的人或物拉入鏡中世界 
 |-
 | 總統先生(Mister President) || 德國樂團 || ? || Coco Jumbo（烏龜） || E || E || E || A || E || E || 在體內創造特殊房間，置入「鑰匙」後可進入其中藏匿，然而無法抵禦替身效果 
 |-
@@ -601,6 +601,9 @@
 | 200個氣球（200 Balloons） || 美國音樂家Prince的歌曲 || 寧波 || ? || ? || ? || ? || ? || ? || 讓本體觸碰的物體像氣球一樣膨脹、漂浮，最後破裂。
 |-
 | 西區女孩（West End Girl） || 英國樂團寵物店男孩的歌曲 || 基·韋斯特 || ? || ? || ? || ? || ? || ? || 躲藏在縫隙中的扁平替身，有著許多小手掌能壓碎接觸到的目標
+|-
+| 至近距離（Point Blank） || 美國歌手Bruce Springsteen的歌曲 || 蒙德拉 || ? || ? || ? || ? || ? || ? || 會出現在目標腳下的貼紙形替身，受影響的目標無法替自己或其他目標撕下貼紙。<br>能力是在目標背後生成死者的幻影，並挖掘出目標心裡的陰影嘲諷目標，一旦目標回頭就會遭受亡靈的攻擊。
+
 |}
 
 === 外傳漫畫 ===
