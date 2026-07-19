@@ -32,6 +32,7 @@
 * コードギアス 反逆のルルーシュ
 * ゆるキャン△
 * ゴシックは魔法乙女〜さっさと契約しなさい!〜
+* [[魔法少女奈葉|魔法少女リリカルなのは]] EXCEEDS Gun Blaze Vengeance
 {{HideF}}
 {| class="wikitable" style="margin: 0 auto;text-align:center;"
 |-
