@@ -757,7 +757,7 @@
 |<s>光束</s>水槍
 |發動寶具的最後將聖劍的能量充入水槍將敵人轟飛
 |-
-|145 [[Gilgamesh (Fate)|吉爾伽美什]]（Caster）
+|[[Gilgamesh (Fate)|吉爾伽美什]]（Caster）
 |金色大斧
 |書
 |
@@ -786,7 +786,7 @@
 |和泉守兼定（日本刀）
 |發動寶具時開左手槍
 |-
-| rowspan="3" |179 阿爾托莉亞‧潘德拉貢（Rider泳裝Alter）
+| rowspan="3" | 阿爾托莉亞‧潘德拉貢（Rider泳裝Alter）
 |Excalibur Morgan的充氣棒
 |克拉克手槍
 |靈基初始時
@@ -847,7 +847,7 @@
 |綠刃日本刀
 |靈基一、二破時，對照了Berserker信長（泳裝）
 |-
-|300 [[Vritra (Fate)|弗栗多]]
+| [[Vritra (Fate)|弗栗多]]
 | colspan=2 align="center"|金剛杵
 |可變型金剛杵，靈基滿破時正式雙持
 |-
@@ -855,7 +855,7 @@
 | colspan=2 align="center"|日本刀
 |
 |-
-|311 [[Baobhan sith (Fate)|妖精騎士崔斯坦<br />芭班．希]]
+| [[Baobhan sith (Fate)|妖精騎士崔斯坦<br />芭班．希]]
 |釘
 |鎚
 |發動寶具「痛幻的哭奏」時
@@ -863,6 +863,12 @@
 | [[Mélusine_(Fate)|妖精騎士蘭斯洛特<br />美露莘]]
 | colspan=2 align="center"|妖精劍Arondight
 |為美露莘從自己的外皮精製而成，並將其砸向對手的單純寶具。
+|-
+|塔里昂
+|長劍Urfael 
+|秘鐵鐵鎚Túrann
+|中土世界：魔多之影<br>中土世界：戰爭之影
+|與凱勒布理鵬的怨靈共享一體
 |-
 |古月聖
 | colspan=2 align="center"|扇子
