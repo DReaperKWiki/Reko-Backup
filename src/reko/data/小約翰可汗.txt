@@ -277,12 +277,18 @@
 |51
 |[https://www.bilibili.com/video/BV1c2421A7iB/ 现代柏林墙在哪个国家？]
 |<center>'''{{wp|賽普勒斯}}（賽普路斯）、{{wp|北賽普勒斯}}'''<br>{{wp|馬卡里奧斯三世}}<br>{{wp|賽普勒斯問題}}</center>
-|
+|<s>最注目的是可汗給大英帝國的一堆封號</s>
 |-
 |52
 |[https://www.bilibili.com/video/BV1CgfHYQEda/ 谁是抽象界的天赋选手？]
 |<center>'''{{wp|土庫曼}}（土庫曼斯坦）'''<br>{{wp|薩帕爾穆拉特·尼亞佐夫}}</center>
+|《大獨裁者落難記》阿辣丁的原型之一
+|-
+|53
+|[https://www.bilibili.com/video/BV1xdNt6TEP3 搞强拆能惹多大祸？]
+|<center>'''{{wp|千里達及托巴哥}}'''<br>1990年穆斯林起義</center>
 |
+|-
 |}
 {{hidef}}
 
@@ -974,6 +980,31 @@
 |[https://www.bilibili.com/video/BV1sfkYBgEAN/ 带英的“钩子文学”究竟是什么？]
 |英國[https://en.wikipedia.org/wiki/Thorpe_affair 索普事件]
 |<s>《狠人》66集挖的坑過了一年半多才終於填上</s>
+|-
+|47
+|[https://www.bilibili.com/video/BV1us67BhEGQ/ 三 日 凌 空 佐 治 亚]
+|[https://en.wikipedia.org/wiki/Three_governors_controversy 喬治亞州三州長事件]
+|
+|-
+|48
+|[https://www.bilibili.com/video/BV129Fhz2Es2/ “世界上最糟糕的音乐节”在哪？]
+|[https://en.wikipedia.org/wiki/Erie_Canal_Soda_Pop_Festival 公牛島音樂節]
+|
+|-
+|49
+|[https://www.bilibili.com/video/BV1LePvzQEDb/ 全球最大机场——但是倒闭了]
+|[https://en.wikipedia.org/wiki/Montr%C3%A9al%E2%80%93Mirabel_International_Airport 蒙特婁米拉貝爾機場]
+|本集也因為故事發生地的關係順帶解說了加拿大法語區的歷史淵源。<br>機場關閉後反而因為遺留在當地的硬體器材條件絕佳而成為了現成的機場取景地、賽車場、私人商務機基地、飛行學校等等不同用途，算是種塞翁失馬。
+|-
+|50
+|[https://www.bilibili.com/video/BV1WYwkzmE1z/ 什么奥运能把城市办破产？]
+|{{wp|1976年夏季奧林匹克運動會|1976年蒙特婁奧運會}}
+|上集的主題延伸，結合兩集便能解釋蒙特婁為何與如何曾一度破產。
+|-
+|51
+|[https://www.bilibili.com/video/BV1jCJs6UE9S/ 美国“杰斐逊州”在哪里？]
+|美國{{wp|傑斐遜州|傑佛遜州}}
+|一直處在研議中的「真．第51州」，在二戰前夕曾一度要正式建制，但因珍珠港事件和美國介入二戰而無奈中斷。
 |-
 |}
 {{hidef}}
