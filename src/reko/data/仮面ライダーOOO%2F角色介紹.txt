@@ -675,7 +675,7 @@ Strain Doom（以Medagabryu的火箭砲模式發射破壞砲）
 |コンドル
 |Ankh附身狀態下的火野映司變身成的TaJaDol聯組，三個用於變身的核心硬幣全都變成彩虹色，變身後的造型配色融入了Ankh（Greeed）態的元素<br>變身音效為兩人共同聲演
 |
-|《復活のコアメダル》登場，又稱真·結婚{{censored|（實際上是冥婚）}}鳥<br>{{censored|逆タジャドルコンボ（最終話ver.）}}
+|《復活のコアメダル》登場，又稱真·{{ruby|結|{{censored|冥}}}}婚鳥<br>{{censored|逆タジャドルコンボ（最終話ver.）}}
 |}
 
 ====派生形態====
@@ -803,7 +803,7 @@ Strain Doom（以Medagabryu的火箭砲模式發射破壞砲）
 * 能使用插入Birth Driver X的O-MEDAL能力召喚武裝，劇中曾使用カニアーム
 * <s>假面騎士Birth ビカソコンボ</s>
 
-===假面騎士Posidon===
+===假面騎士Poseidon===
 
 ===假面騎士Aqua===
 

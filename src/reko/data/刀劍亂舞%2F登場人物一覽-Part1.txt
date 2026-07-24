@@ -789,7 +789,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E7%89%A9%E5%90%89%E8%B2%9E%E5%AE%9
 * <s>那雪透<ref>《高校星歌劇》的角色，聲優同一人、其外表氣質與個性也幾乎一模一樣。</ref></s>
 
 === 堀川國廣（堀川国広） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/741919_orig.jpg
+https://static.wikia.nocookie.net/touken-ranbu/images/d/d1/Horikawa.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%A0%80%E5%B7%9D%E5%9B%BD%E5%BA%83%20%E6%A5%B5/::ref/%E5%A0%80%E5%B7%9D%E5%9B%BD%E5%BA%83%E6%A5%B5.jpg
 * 繪：白峰。CV：[[榎木淳彌|榎木淳弥]]。演：小越勇輝 (音樂劇ー幕末天狼傳)/阪本奨悟 (音樂劇ー結びの響、始まりの音、幕末天狼傳2020)/小西詠斗 (舞台劇ー維伝、映画)。
 * 刀帳編號：99番→100番。刀派：堀川。身高：[[一米六 (身高)|160&nbsp;cm]]。
@@ -824,9 +824,9 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%A0%80%E5%B7%9D%E5%9B%BD%E5%BA%83%20%E6%
 * <s>[https://i.imgur.com/Z6BOeGd.jpg 長得跟胖丁很像]</s>
 
 === 浦島虎徹 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/439987131.png
+https://static.wikia.nocookie.net/touken-ranbu/images/0/0a/Urashima.png
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E6%B5%A6%E5%B3%B6%E8%99%8E%E5%BE%B9+%E6%A5%B5&src=%E6%B5%A6%E5%B3%B6%E8%99%8E%E5%BE%B9%E3%83%BB%E6%A5%B5.png
-* 繪：新井テル子。CV：福島潤。演：糸川耀士郎 (音樂劇)。
+* 繪：新井テル子。CV：福島潤。演：糸川耀士郎 (音樂劇)/竹中凌平 (舞台劇)。
 * 刀帳編號：103番→104番。刀派：虎徹。身高：157&nbsp;cm。
 * 2015/3/17更新後實裝，當時唯一的入手途徑為地圖中隨機出現的強敵「檢非違使」機率掉落。
 ** 2016/1/4-1/13期間和2016/3/15更新後已經可以鍛刀入手。
@@ -1083,7 +1083,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E4%BA%80%E7%94%B2%E8%B2%9E%E5%AE%97%20%E6%
 * <s>光屬性的變態</s>
 
 === 宗三左文字 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/4235571_orig.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%AE%97%E4%B8%89%E5%B7%A6%E6%96%87%E5%AD%97/::ref/%E5%AE%97%E4%B8%89%E5%B7%A6%E6%96%87%E5%AD%97.jpg
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%AE%97%E4%B8%89%E5%B7%A6%E6%96%87%E5%AD%97+%E6%A5%B5&src=souzasamonjikiwame.png
 * 繪：鈴木次郎。CV：泰勇気。演：佐々木喜英 (舞台劇)。
 * 刀帳編號：81番→82番。刀派：左文字。身高：179&nbsp;cm。
@@ -1209,7 +1209,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%A4%A7%E5%92%8C%E5%AE%88%E5%AE%89%E5%AE%
 * <s>男士高中生之一</s>
 
 === 歌仙兼定 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/9406512_orig.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A/::ref/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A02.jpg
 https://cdn.wikiwiki.jp/to/w/toulove/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A%20%E6%A5%B5/::ref/kasen-kiwame.jpg
 * 繪：ホームラン・拳。CV：[[石川界人]]。演：和田琢磨 (舞台劇)/七海ひろき (舞台劇ー禺伝)<ref>{{censored|也就是之前飾演舞台劇細川伽羅奢（細川ガラシャ）的演員。}}</ref>。
 * 刀帳編號：89番→90番。刀派：兼定。身高：175&nbsp;cm。
@@ -1254,7 +1254,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E6%AD%8C%E4%BB%99%E5%85%BC%E5%AE%9A%20%E6%
 * {{censored|<s>有不少人想成為他刀下的第37個亡魂</s>}}
 
 === 和泉守兼定 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/892627426.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%92%8C%E6%B3%89%E5%AE%88%E5%85%BC%E5%AE%9A/::ref/%E5%92%8C%E6%B3%89%E5%AE%88%E5%85%BC%E5%AE%9A%28%E6%89%93%E5%88%80%29.jpg
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%92%8C%E6%B3%89%E5%AE%88%E5%85%BC%E5%AE%9A+%E6%A5%B5&src=%E5%92%8C%E6%B3%89%E5%AE%88%E5%85%BC%E5%AE%9A%E3%83%BB%E6%A5%B5.jpg
 * 繪：白峰。CV：[[木村良平]]。演：有澤樟太郎 (音樂劇)/田淵累生 (舞台劇)。
 * 刀帳編號：91番→92番。刀派：兼定。身高：186&nbsp;cm。
@@ -1291,7 +1291,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%92%8C%E6%B3%89%E5%AE%88%E5%85%B
 * <s>男士高中生之一</s>
 
 === 陸奧守吉行（陸奥守吉行） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/2171911_orig.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E9%99%B8%E5%A5%A5%E5%AE%88%E5%90%89%E8%A1%8C/::ref/%E9%99%B8%E5%A5%A5%E5%AE%88%E5%90%89%E8%A1%8C02.jpg
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%99%B8%E5%A5%A5%E5%AE%88%E5%90%89%E8%A1%8C+%E6%A5%B5&src=%E9%99%B8%E5%A5%A5%E5%AE%88%E5%90%89%E8%A1%8C%E6%A5%B5.png
 * 繪：Digital Hearts（煮たか）。CV：濱健人<ref>同時也負責監修動畫版中陸奧守吉行的土佐腔台詞。</ref>。演：田村心 (音樂劇)/蒼木陣 (舞台劇)/中村歌昇 (歌舞伎劇)。
 * 刀帳編號：93番→94番。身高：174&nbsp;cm。
@@ -1332,7 +1332,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%99%B8%E5%A5%A5%E5%AE%88%E5%90%8
 * <s>男士高中生之一</s>
 
 === 山姥切國廣（山姥切国広） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/1591929_orig.png
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%83/::ref/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%8302.jpg
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%83%20%E6%A5%B5/::ref/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20%28354%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC.png
 * 繪：⑪。CV：[[前野智昭]]。演：加藤大悟 (音樂劇)/荒牧慶彥 (舞台劇、映画)。
 * 刀帳編號：95番→96番。刀派：堀川。身高：172&nbsp;cm。
@@ -1380,7 +1380,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%
 * <s>男士高中生之一</s>
 
 === 蜂須賀虎徹 ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/4798684_orig.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E8%9C%82%E9%A0%88%E8%B3%80%E8%99%8E%E5%BE%B9/::ref/%E8%9C%82%E9%A0%88%E8%B3%80%E8%99%8E%E5%BE%B902.jpg
 https://cdn.wikiwiki.jp/to/w/toulove/%E8%9C%82%E9%A0%88%E8%B3%80%E8%99%8E%E5%BE%B9%20%E6%A5%B5/::ref/%E8%9C%82%E9%A0%88%E8%B3%80%E8%99%8E%E5%BE%B9%E6%A5%B5.png
 * 繪：新井テル子。CV：[[興津和幸]]。演：高橋健介 (音樂劇)/後藤大 (舞台劇)。
 * 刀帳編號：101番→102番。刀派：虎徹。身高：176&nbsp;cm。
@@ -1430,7 +1430,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E8%9C%82%E9%A0%88%E8%B3%80%E8%99%8E%E5%BE%
 ** <s>真劍也是虎神降世，不過相對浦島的水屬性他似乎是聖屬性的</s>
 
 === 長曾禰虎徹（長曽祢虎徹） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/9521430_orig.png
+https://cdn.wikiwiki.jp/to/w/toulove/%E9%95%B7%E6%9B%BD%E7%A5%A2%E8%99%8E%E5%BE%B9/::ref/%E9%95%B7%E6%9B%BD%E7%A5%A2%E8%99%8E%E5%BE%B902.jpg
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%95%B7%E6%9B%BD%E7%A5%A2%E8%99%8E%E5%BE%B9+%E6%A5%B5&src=01%E9%95%B7%E6%9B%BD%E7%A5%A2%E6%A5%B5%E5%88%80%E5%B8%B3_0.png
 * 繪：新井テル子。CV：新垣樽助。演：伊万里有 (音樂劇)/松田岳 (舞台劇)。
 * 刀帳編號：105番→106番。刀派：虎徹{{censored|…？}}。身高：187&nbsp;cm。
@@ -1469,7 +1469,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%95%B7%E6%9B%BD%E7%A5%A2%E8%99%8
 * <s>[[Tiger and Bunny|鏑木・T・虎徹]]</s>
 
 === 大俱利伽羅（大倶利伽羅） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/937684141.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%A4%A7%E5%80%B6%E5%88%A9%E4%BC%BD%E7%BE%85/::ref/%E5%A4%A7%E5%80%B6%E5%88%A9%E4%BC%BD%E7%BE%85%28%E6%89%93%E5%88%80%29.jpg
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%A4%A7%E5%80%B6%E5%88%A9%E4%BC%BD%E7%BE%85+%E6%A5%B5&src=%E3%81%8B%E3%82%89%E3%81%A1%E3%82%83%E3%82%93.jpg
 * 繪：小宮国春。CV：[[古川慎]]。演：財木琢磨 (音樂劇ー三百年の子守唄)/牧島輝 (音樂劇ー三百年の子守唄2019、静かの海のパライソ、春風桃李巵)/猪野広樹 (舞台劇)/彩凪翔 (舞台劇ー禺伝)。
 * 刀帳編號：116番→117番。刀派：広光。身高：175&nbsp;cm。
@@ -1509,7 +1509,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%A4%A7%E5%80%B6%E5%88%A9%E4%BC%B
 * <s>[[拳皇/系列原創人物列表-Part 1#K'（K Dash，ケイ・ダッシュ）　－超越K的人－|K']]</s>
 
 === 壓切長谷部（へし切長谷部） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/4271786.png
+https://cdn.wikiwiki.jp/to/w/toulove/%E3%81%B8%E3%81%97%E5%88%87%E9%95%B7%E8%B0%B7%E9%83%A8/::ref/%E3%81%B8%E3%81%97%E5%88%87%E9%95%B7%E8%B0%B7%E9%83%A802.jpg
 https://wikiwiki.jp/toulove/?plugin=ref&page=%E3%81%B8%E3%81%97%E5%88%87%E9%95%B7%E8%B0%B7%E9%83%A8+%E6%A5%B5&src=%E3%81%B8%E3%81%97%E5%88%87%E9%95%B7%E8%B0%B7%E9%83%A8%E3%80%90%E6%A5%B5%E3%80%91.png
 * 繪：小宮国春。CV：新垣樽助。演：木原瑠生 (音樂劇)/和田雅成 (舞台劇、映画)。
 * 刀帳編號：118番→119番。身高：178&nbsp;cm。
@@ -1561,8 +1561,8 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E3%81%B8%E3%81%97%E5%88%87%E9%95%B
 * <s>《花丸》中附加了話癆屬性，到了電影版雪之卷幾乎都在忙於本丸的文書工作，和本科一同變成本丸的經理部門人員</s>
 
 === 同田貫正國（同田貫正国） ===
-http://toulovefantranlatetw.weebly.com/uploads/4/5/9/9/45992881/128357863.jpg
-https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A3%E5%9B%BD+%E6%A5%B5&src=%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A3%E5%9B%BD%E6%A5%B5.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A3%E5%9B%BD/::ref/%E3%81%A9%E3%81%86%E3%81%A0%E3%81%AC%E3%81%8D%E6%AD%A3%E5%9B%BD.jpg
+https://cdn.wikiwiki.jp/to/w/toulove/%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A3%E5%9B%BD%20%E6%A5%B5/::ref/%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A3%E5%9B%BD%E6%A5%B5.jpg
 * 繪：ＡＫＩＲＡ。CV：櫻井トオル。演：武子直輝 (舞台劇)/中村鷹之資 (歌舞伎劇)。
 * 刀帳編號：128番→129番。身高：169&nbsp;cm。
 * 「同田貫」之名其實是一系列刀的總稱，並不單指一把。
@@ -1602,7 +1602,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%90%8C%E7%94%B0%E8%B2%AB%E6%AD%A
 * <s>男士高中生之一</s>
 
 === 南泉一文字 ===
-https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%8D%97%E6%B3%89%E4%B8%80%E6%96%87%E5%AD%97&src=nansen.jpg
+https://i.ibb.co/Bh2dDcY/TR-Nansenin.png
 https://static.wikia.nocookie.net/touken-ranbu/images/8/8f/Nansen-Kiwamein.png
 * 繪：三杜シノヴ（ニトロプラス）。CV：河西健吾。演：武本悠佑 (音樂劇)/桜井一 (音樂劇ー月夜一縷)/谷水力 (舞台劇)/汐月しゅう (舞台劇ー禺伝)。
 * 刀帳編號：154番→155番。刀派：福岡一文字。身高：174&nbsp;cm。

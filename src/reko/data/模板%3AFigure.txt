@@ -1,0 +1,26 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = Figure
+|title  = [[Figure]]
+|group1 = 知名廠商
+|list1  = [[Good Smile Company|GOOD SMILE COMPANY]]・[[Max Factory]]・[[Alter]]・[[壽屋]]・BANDAI相關（[[BANPRESTO]]・[[Megahouse]]）・[[NATIVE (公司)|NATIVE]]・[[海洋堂]]・[[Toy'sworks]]・[[Volks]]
+|group2 = 系列
+|list2 = {{Navbox|child
+    |style =  left:-0.25em;position: relative;
+    |group1 = 可動模型（11cm以內）
+    |list1  = [[黏土人]]（GSC）・[[口袋人]]（壽屋）・<s>[[ナノリッチ]]（Griffon）</s>・ぷちりっつ（BANDAI）・DESKTOP ARMY（Megahouse）
+    |group2 = 可動模型
+    |list2  = [[Figma]]（Max Factory）・パルフォム（Phat!）・[[S.H.Figuarts]]・PLUMPMOA
+    |group3 = 比例模型
+    |list3  = [[EXQ]]（BANPRESTO）・ARTFX J（壽屋）・ワンホビセレクション（GSC）・<s>モエコレPLUS（Volks）</s>
+    |group4 = GK模型
+    |list4  = CharaGumin（Volks）
+    |group5 = 其他
+    |list5  = Funko POP！
+    |below = 畫<s>刪除線</s>的部份表示該系列已不再推出新的作品。
+}}
+|group3 = 其他相關 
+|list3 = [[魔改造]]・[[邪神像]]・[[殺肉]]
+}}
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
