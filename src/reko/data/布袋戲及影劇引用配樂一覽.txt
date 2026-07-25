@@ -963,7 +963,7 @@
 |-
 || (待查) ||《霹靂》✂圓宿薄 ||
 |-
-| rowspan="2" | '93 戴樂民〈大迷信〉 || [https://youtu.be/R5eOzf9EB3w 布施結緣]<br>[https://youtu.be/d7fk49sWirI 身心自在]|| 《金光》✂[https://youtu.be/7xlADAbb1FU?t=40 俏如來初現]<br>《王者》✂賣詩卷郎<br>'96 TVB〈笑傲江湖〉[https://youtu.be/Uk0taxtZyRM&t=122 獨孤九劍訓練場景] ||
+| rowspan="2" | '93 戴樂民〈大迷信〉 || [https://youtu.be/R5eOzf9EB3w 布施結緣]<br>[https://youtu.be/d7fk49sWirI 身心自在]|| 《金光》✂[https://youtu.be/7xlADAbb1FU?t=40 俏如來初現]<br>《王者》✂賣詩卷郎<br>'96 TVB〈笑傲江湖〉[https://youtu.be/daXYYlDxQSI&t=38 風清揚傳授劍法] ||
 |-
 ||[https://youtu.be/ub3UV5P5DB0 教化以樂] || 96TVB〈笑傲江湖〉✂[https://youtu.be/Uk0taxtZyRM 風清揚思過崖談華山劍法] || 
 |-
@@ -1136,7 +1136,7 @@
 |-
 ! 年份/作者/原所屬作品 !! (歌手)/曲名!!(年份/頻道名)〈編入劇集名〉使用方式、人物/場景!!備註
 |-
-| rowspan="3" |'82 Ennio Morricone<br>〈Marco Polo/馬可波羅東遊記〉||[https://youtu.be/SJWwacmjbRg La grande marcia di Kublai]||《霹靂》✂[https://youtu.be/yzBzZUZGUUs 幽靈馬車(中期)]、<br>《金光》✎[https://youtu.be/RKgHpOmWSlI 兩極無罡]<br>'83台視〈倚天屠龍記〉[https://youtu.be/SI5Wf4ZD5rw&t=327 場景曲]||RPG〈[[霹靂奇俠傳]]〉收錄改編版未使用
+| rowspan="3" |'82 Ennio Morricone<br>〈Marco Polo/馬可波羅東遊記〉||[https://youtu.be/SJWwacmjbRg La grande marcia di Kublai]||《霹靂》✂[https://youtu.be/yzBzZUZGUUs 幽靈馬車(中期)]、<br>《金光》✎[https://youtu.be/RKgHpOmWSlI 兩極無罡]<br>'83台視〈倚天屠龍記〉[https://youtu.be/SI5Wf4ZD5rw&t=327 場景曲]<br>'94亞視〈碧血青天楊家將〉✂[https://youtu.be/AZKD3oYRqm4&t=111 EP1開場戰爭]||RPG〈[[霹靂奇俠傳]]〉收錄改編版未使用
 |-
 ||[https://youtu.be/W1QeIK0IWWk La leggenda della Grande Muraglia] || 悲壯場面曲 || 
 |-
@@ -1437,13 +1437,15 @@
 |-
 ||[https://youtu.be/9tBODimLGEc 夢裡相思] || 柔情場面用 ||
 |-
-| rowspan="2"|'94 Jeff Danna〈Kung Fu: The Legend Continues〉 || 〈Posse〉 || 《天宇》✉刀劍談OP || 
+| rowspan="3"|'94 Jeff Danna<br>〈Kung Fu: The Legend Continues〉 || 〈[https://youtu.be/7iaWtp-r5dY Posse]〉 || 《天宇》✉[https://youtu.be/oEcvI4xipGc 刀劍談OP]|| 
 |-
-||[https://youtu.be/YuerONDXOlg The Tomb/Searching For Tan] || 《神魔》✉白髮夕陽君 || 
+|| 〈[https://youtu.be/ghy6yMHrUEo Theme From Kung Fu]〉||'96 TVB〈笑傲江湖〉[https://youtu.be/uryTiLbSE50&t=8 江湖草莽群聚]||
+|-
+||〈[https://youtu.be/YuerONDXOlg The Tomb/Searching For Tan]〉 || 《神魔》✉白髮夕陽君 || 
 |-
 ||'94 陳復明〈新月格格〉 || 葉歡〈[https://youtu.be/6SJ_BtUTjDY 且留新月共今宵]〉 || 《天宇》❏周游山巔修真道述千理 ||首句摘自〈[https://youtu.be/6qwKi0bfR1U&pp=ygUM5peX5q2j6aOE6aOE 旗正飄飄]〉
 |-
-||'94 台視〈倚天屠龍記〉 || 周華健〈[https://youtu.be/X5lZX3sf7IY 刀劍如夢]〉 || 《霹靂》✎[https://youtu.be/f26icp9-D5k 刀劍入江湖] || 
+||'94 台視〈倚天屠龍記〉 || 周華健〈[https://youtu.be/X5lZX3sf7IY 刀劍如夢]〉 || 《霹靂》✎[https://youtu.be/f26icp9-D5k 刀劍入江湖] || 另有[https://youtu.be/Ew_Patk8WzE 八三夭版]
 |-
 ||2001 Norman Orenstein〈RoboCop: Prime Directives〉 || [https://youtu.be/ZufCoZuZTNI Clash of the Titans] || 《天宇》✂[https://youtu.be/ooubeLGg9J0 朱能秋對定江煙] || 
 |-
@@ -2750,7 +2752,7 @@ Sweetbox 〈[https://youtu.be/qCWlsut-oF0 SUPERSTAR]〉、<br>S.H.E〈[https://y
 |-
 ||[https://youtu.be/FjcENbEvaew Sacral Nirvana] || 《天宇》✉[https://youtu.be/84onpp1eUMc&t=62 惜英王雷絹]|| 
 |-
-| rowspan="4"|<center>喜多嶋 修</center> ||〈曼荼羅〉[https://youtu.be/cyljVthzkgI 西方淨土] ||《天宇》✂[https://youtu.be/HdYKyZGZ7XM 三色天羅]<br>《霹靂》✂號世陰令首次調派<br>'96 TVB《笑傲江湖》✂[https://youtu.be/eMzLcFRh8io&t=186 岳不群文戲] || 
+| rowspan="4"|<center>喜多嶋 修</center> ||〈曼荼羅〉[https://youtu.be/cyljVthzkgI 西方淨土] ||《天宇》✂[https://youtu.be/HdYKyZGZ7XM 三色天羅]<br>《霹靂》✂號世陰令首次調派<br>'96 TVB《笑傲江湖》✂[https://youtu.be/eMzLcFRh8io&t=186 文戲對話] || 
 |-
 || [https://youtu.be/gx5s20YVYLU Circle of Fire] || 《天宇》✂影中仙 || 
 |-
@@ -4175,7 +4177,7 @@ Sweetbox 〈[https://youtu.be/qCWlsut-oF0 SUPERSTAR]〉、<br>S.H.E〈[https://y
 |-
 ||[https://youtu.be/uEo7ye7kQWk OST8] || 《天宇》(待查) || 
 |-
-| rowspan="2" |蔡志展、林宏佳、羅啟瑞、楊斯雄<br>'94 智冠〈倚天屠龍記〉||[https://youtu.be/0PwdVJ1l8xk 主題曲]、[https://youtu.be/KYFqzrEZA1k 配樂2]<br>[https://youtu.be/BZu0S0pCRGo PC版主旋律]||《天宇》✂楓紅林少主<br>《霹靂》✎[https://youtu.be/v99KhIZeI0M 江湖血路OP]、✎[https://youtu.be/rNUJmBGAh-M 瑤琴巧韻]||收錄於〈高福順影集配樂大全二〉
+| rowspan="2" |蔡志展、林宏佳、羅啟瑞、楊斯雄<br>'94 智冠〈倚天屠龍記〉||[https://youtu.be/0PwdVJ1l8xk 主題曲]、[https://youtu.be/KYFqzrEZA1k 配樂2]<br>[https://youtu.be/BZu0S0pCRGo PC版主旋律]||《天宇》✂楓紅林少主<br>《霹靂》✎[https://youtu.be/v99KhIZeI0M 江湖血路OP]、<br>✎[https://youtu.be/rNUJmBGAh-M 瑤琴巧韻]、✎[https://youtu.be/CyJs7yX5-yA 紫凰琴獨奏]||收錄於〈高福順影集配樂大全二〉
 |-
 |[https://youtu.be/4ORS7hAoPws 配樂1]|| 《天宇》✂赤錦少||同曲前半用於〈[[金庸群俠傳]]〉武當派場景
 |-
