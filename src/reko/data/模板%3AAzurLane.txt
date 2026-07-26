@@ -1,0 +1,27 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|titlestyle = background: #63B8FF;color: #FFF;
+|groupstyle = background: #63B8FF;color: #FFF;
+|name   = AzurLane
+|title  = [[碧藍航線|{{color|white||碧藍航線}}]]
+|group1 = 登場人物
+|list1  = 
+{{Navbox|child|
+|titlestyle = background: #63B8FF;color: #FFF;
+|groupstyle = background: #63B8FF;color: #FFF;
+|name   = 陣營細分
+|group1 = 碧藍航線
+|list1  =[[碧藍航線/登場人物一覽-白鷹|白鷹]]・[[碧藍航線/登場人物一覽-皇家|皇家]]・[[碧藍航線/登場人物一覽-自由鳶尾&維希教廷|自由鳶尾]]・[[碧藍航線/登場人物一覽-東煌|東煌]]・[[碧藍航線/登場人物一覽-北方聯合|北方聯合]]
+|group2 = 赤色中軸
+|list2  =[[碧藍航線/登場人物一覽-鐵血|鐵血]]・[[碧藍航線/登場人物一覽-重櫻|重櫻]]・[[碧藍航線/登場人物一覽-自由鳶尾&維希教廷|維希教廷]]・[[碧藍航線/登場人物一覽-撒丁帝國|撒丁帝國]]
+|group3 = 其他陣營
+|list3  = [[碧藍航線/登場人物一覽-META|META艦船]]・[[碧藍航線/登場人物一覽-聯動角色|聯動角色]]・[[碧藍航線/登場人物一覽-其他陣營#Faction_Bulin|布里]]・[[碧藍航線/登場人物一覽-其他陣營#Faction_Tempesta|颶風]]・[[碧藍航線/登場人物一覽-其他陣營#Faction_Kingdom_of_Tulipa|郁金王國]]・[[碧藍航線/登場人物一覽-其他陣營#Faction_Liga_de_Pedrería|晶環聯盟]]・[[碧藍航線/登場人物一覽-其他陣營#其他|其他人物]]
+|group4 = 敵對勢力
+|list4  = [[碧藍航線/登場敵方角色一覽|塞壬]]
+}}
+|group2 = 資料
+|list2  = [[碧藍航線/畫師一覽|畫師一覽]]・[[碧藍航線/聲優陣一覽|聲優陣一覽]]
+|group3 = 動畫作品
+|list3  = [[碧藍航線 THE ANIMATION]]・[[碧藍航線 微速前進！|微速前進！]]・[[碧藍航線 Queen's Orders|Queen's Orders]]
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

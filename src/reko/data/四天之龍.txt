@@ -1,4 +1,4 @@
-{{h0|四天之龍（{{ruby|四天の龍|してんのりゅう}}）<br>四次元之龍（4つの{{ruby|次元|じげん}}のドラゴン）}}
+{{h0|四天之龍（{{ruby|四天の龍|してんのりゅう}}／Four Heavenly Dragons）<br>四次元之龍（4つの{{ruby|次元|じげん}}のドラゴン／Four Dimensional Dragons）}}
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
 |這是一個中的條目，歡迎有興趣的決鬥者加以補完。
 |}
@@ -29,9 +29,9 @@
 | image = 
 <tabber> 
 |-| 
-異色眼龍=[[檔案:Odd-Eyes Dragon.png|250px]]
+異色眼龍=[[檔案:Odd-Eyes Dragon.png|250px|right]]
 |-| 
-異色眼靈擺龍=[[檔案:Odd-Eyes Pendulum Dragon.png|250px]]
+異色眼靈擺龍=[[檔案:Odd-Eyes Pendulum Dragon.png|250px|right]]
 </tabber>
 }}
 * 持有者：[[榊遊矢]]
@@ -49,9 +49,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[檔案:Dark Rebellion Xyz Dragon.png|250px]]
+卡圖1=[[檔案:Dark Rebellion Xyz Dragon.png|250px|right]]
 |-| 
-卡圖2=[[檔案:Dark Rebellion Xyz Dragon 2nd.png|250px]]
+卡圖2=[[檔案:Dark Rebellion Xyz Dragon 2nd.png|250px|right]]
 </tabber>
 }}
 
@@ -136,6 +136,7 @@
 {{-}}
 
 ==== 四天之龍 黑暗叛亂超量龍（{{ruby|四天|してん}}の{{ruby|龍|りゅう}}ダーク・リベリオン・エクシーズ・ドラゴン） ====
+[[檔案:Dark Rebellion Xyz Dragon of the Four Heavenly Dragon.jpg|250px|right]]
 * 收錄於「LIMIT OVER COLLECTION—THE RIVALS—」，《黑暗叛亂超量龍》的重製升級版。
 ===== 卡片資訊 =====
 * 超量/效果怪獸<br>階級4/闇屬性/龍族/攻擊力2500/守備力2000
@@ -157,9 +158,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[檔案:Clear Wing Synchro Dragon.png|250px]]
+卡圖1=[[檔案:Clear Wing Synchro Dragon.png|250px|right]]
 |-| 
-卡圖2=[[檔案:Clear Wing Synchro Dragon 2nd.png|250px]]
+卡圖2=[[檔案:Clear Wing Synchro Dragon 2nd.png|250px|right]]
 </tabber>
 }}
 
@@ -259,6 +260,7 @@
 {{-}}
 
 ==== 四天之龍 澄淨翼同步龍（{{ruby|四天|してん}}の{{ruby|龍|りゅう}}クリアウィング・シンクロ・ドラゴン） ====
+[[檔案:Clear_Wing_Synchro_Dragon,_Four_Heavenly_Dragons.png|250px|right]]
 * 收錄於「LIMIT OVER COLLECTION—THE RIVALS」<s>還是輪不到[[DD (遊戲王牌組系列)#DDD 死偉王 地獄末日（DDD（ティーディーディー）死偉王（しいおう）ヘル・アーマゲドン）|《DDD 死偉王 地獄末日》]]</s>。
 
 * 上場時可以炸掉對面1隻效果怪獸，然後'''永久'''吸收其攻擊力，攻擊性能遠勝原版。
@@ -284,9 +286,9 @@
 | image = 
 <tabber> 
 |-| 
-卡圖1=[[檔案:Starving Venom Fusion Dragon.png|250px]]
+卡圖1=[[檔案:Starving Venom Fusion Dragon.png|250px|right]]
 |-| 
-卡圖2=[[檔案:Starving Venom Fusion Dragon 2nd.png|250px]]
+卡圖2=[[檔案:Starving Venom Fusion Dragon 2nd.png|250px|right]]
 </tabber>
 }}
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: 	#9400D3; font-size:24px; ">
@@ -394,6 +396,8 @@
 * 從命名來看，概念上應該是《飢餓劇毒融合龍》與《澄淨翼同步龍》的合體型態，且主體是毒龍。
 ** 在一眾冠上【霸王】之名的混色靈擺怪獸當中，這是第一隻完全沒有《異色眼靈擺龍》要素的成員。
 ** <s>上面的《澄淨翼同步龍》已經破頂進化成《水晶翼超越同步龍》了，這位的進化方向反而是跟它融合。</s>
+
+* 靈擺效果堪稱捕食計數器自動放置器，搭配《捕食植物 龍魔星花》可有效壓制對方場上怪獸效果發動，還能抑止同步、超量卡組的展開。
 ===== 卡片資訊 =====
 * 融合／靈擺／效果怪獸<br>等級10／闇屬性／龍族／攻擊力3300／守備力2500
 ** 融合怪獸＋「澄淨翼」怪獸
@@ -406,9 +410,11 @@
 {{-}}
 
 ==== 四天之龍 飢餓劇毒融合龍（{{ruby|四天|してん}}の{{ruby|龍|りゅう}}スターヴ・ヴェノム・フュージョン・ドラゴン） ====
+[[檔案:Starving_Venom_Fusion_Dragon,_Four_Heavenly_Dragons.png|250px|right]]
 * 收錄於「LIMIT OVER COLLECTION—THE RIVALS」<s>[[DD (遊戲王牌組系列)#DDD 死偉王 地獄末日（DDD（ティーディーディー）死偉王（しいおう）ヘル・アーマゲドン）|《DDD 死偉王 地獄末日》：怎麼不是我？]]</s>
 
 * 在一眾強化版重製卡當中，只有這傢伙稱不上強化，反而轉型為輔助。
+** 多作為超融合組件使用，主要是用來妨礙對面進攻，亦或是用來在對面回合出《捕食植物 龍魔星花》；而在對面是闇屬性卡組時更可以用來干擾其展開。
 ===== 卡片資訊 =====
 * 融合／效果怪獸<br>等級8／闇屬性／龍族／攻擊力2800／守備力2000
 ** 場上的闇屬性怪獸×2
