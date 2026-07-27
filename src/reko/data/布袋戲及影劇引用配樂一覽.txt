@@ -1738,7 +1738,7 @@
 |-
 || '64 박재란/朴載蘭 || 박춘석/朴椿石(朴俊碩)<br>〈[https://youtu.be/4x6obVonvls 안개낀차이나타운/朦朧的唐人街]〉||《金光》☻黃俊雄－[https://youtu.be/dJnnSeFp1Dk 泣壯士](史艷文退化) ||'64韓國電影〈빨간마후라/紅巾特攻隊〉插曲?<br>另有台灣發日語演歌〈[https://youtu.be/CnQFPE6vuUg 姑娘よ、もう泣かないで]〉/〈[https://youtu.be/sygQHHDGdj8 乙女の涙]〉<br>姚蘇蓉〈[https://youtu.be/pA4CE2w0jFo 心聲淚痕]〉、憶如〈[https://youtu.be/4MOea60tmiY 心聲]〉、<br>鄭錦昌〈[https://youtu.be/a0K-QLcfTeQ 心聲淚痕]〉、方伊琪〈[https://youtu.be/K1PNBs9KKA4 台前幕後]〉、譚炳文〈[https://youtu.be/0GJ1hQfYiGs 你輕呼我]〉、<br>郭金發〈[https://youtu.be/Ja9O8m76c4U 可憐的小姑娘]〉、文鶯〈[https://youtu.be/xpM4pcoK_Tk 懷念]〉、西卿〈[https://youtu.be/_dfQlw3tmY8 可憐的愛人]〉、<br>林慶鐘+許秀枝〈[https://youtu.be/86N6sXEqAtk 省都夜曲]〉、邱淑君〈[https://youtu.be/ERrrA8c8_B4 你甘有想我]〉、<br>龍燕玲〈[https://youtu.be/GYwi9oAkRUw 心內痛苦無人知]〉、蔡秋鳳〈[https://youtu.be/9owfzlm0fnc 只有愛你]〉<br>林玉英〈[https://youtu.be/353oxuvngbg 誰知我心]〉
 |-
-||Micheal Jackson||〈[https://youtu.be/sOnqjkJTMaA Thriller]〉||《霹靂》✂[https://youtu.be/ry8h0dvhLCk 飄行屍]||
+|| Micheal Jackson ||〈[https://youtu.be/sOnqjkJTMaA Thriller]〉||《霹靂》✂[https://youtu.be/ry8h0dvhLCk 飄行屍]||
 |-
 ||'85 Paul Hardcastle||〈[https://youtu.be/gQ6mdLwWn_M 19]〉||《金光》✂[https://youtu.be/SrOML9It0Us?t=1387 獨角赤蛟]<br>《霹靂》✂[https://youtu.be/cnd-wcRmYJk?t=3 摩天客]<br>《天宇》✂白骨鳥||
 |-
@@ -2014,11 +2014,11 @@
 |-
 || 2000 中島みゆき||〈[https://youtu.be/v2SlpjCz7uE 地上の星]〉||《天宇》✂冉七初現||使用〈女子十二樂坊〉[https://youtu.be/QjLNlEaDkPA 曲源]
 |-
-|| '87 The Human League||〈[https://youtu.be/HnjLlDY_xww Love Action (I Believe In Love)]〉||黃文擇〈美猴王〉✂花果山場景||
+| rowspan="2" | Human League || [https://youtu.be/hwW0pUr-Yv0 The Things That Dreams Are Made Of] || ❏[https://youtu.be/yQKaL1OlBLk 丑角現代話題喜劇場景]|| 三家均通用
+|-
+||〈[https://youtu.be/HnjLlDY_xww Love Action (I Believe In Love)]〉||黃文擇〈美猴王〉✂花果山場景||
 |-
 ||'81 包美聖 || 靳鐵章〈[https://youtu.be/PWBjwXw6bgA 樵歌]〉 || ❏[https://youtu.be/yQKaL1OlBLk 早期鄉野情境用] || 
-|-
-||'81 Human League || [https://youtu.be/hwW0pUr-Yv0 The Things That Dreams Are Made Of] || ❏[https://youtu.be/yQKaL1OlBLk 丑角現代話題喜劇場景]|| 三家均通用
 |-
 ||'81 Aneka || Bob Heatlie〈[https://youtu.be/YyTruRHZsFQ Japanese Boy]〉 || 華視《連環泡－中國電視史》✂[https://youtu.be/7RkGVW-gS_s&t=96 廣告推銷篇]<br>2002〈俠盜獵車手－罪惡都市〉[https://youtu.be/41N4oi4Qmw8 FLASH電台版]||[https://youtu.be/zG1NM9ZBoU0 歐陸翻唱集錦]<br>另有山口由佳乃〈[https://youtu.be/8zWgtA5VHHA チャイニーズボーイ]〉、<br>高凌風〈[https://youtu.be/6zcPFxkozwY 臉紅的時候]〉、楊美蓮〈[https://youtu.be/GjQhpZkjp1A 過來人]〉、<br>朱敏〈[https://youtu.be/wKoOqS5ivyU 說出來]?〉、S.H.E〈[https://youtu.be/Eu-U_YpPxx8 對號入座]〉
 |-
@@ -2109,6 +2109,8 @@
 || '95 Jodeci  || 〈[https://youtu.be/oYwL-FzFDKQ Freak'N You]〉||2018〈[[JOJO第五部登場人物一覽|JOJO5-黃金之風-]]〉✂[https://youtu.be/mcYecVs4OVs ED1]||
 |-
 || 2001 KinKi Kids || 〈[https://youtu.be/SIxbyvy8594 ボクの背中には羽根がある]〉|| 2005 三立〈綠光森林〉☻Sweety－[https://youtu.be/-mnNUyQESwQ 勇敢的幸福]||
+|-
+|| '77 Queen || [https://youtu.be/ipDEXJHEfTI We will rock you] || 2000 〈Ready to Rumble/玩命摔角王〉❏ED ||
 |-
 |}
 </center>

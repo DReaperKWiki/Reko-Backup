@@ -1,0 +1,63 @@
+{{h0|[[艦隊Collection]]/霧之艦隊登場人物一覽}}
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+|本條目請有追蒼鋼或玩過當年活動的<s>骨灰級</s>提督們幫忙補完。
+|-
+|艦隊Collection登場人物一覽：[[艦隊Collection/登場人物一覽-Part1|Part 1]]、[[艦隊Collection/登場人物一覽-Part2|Part 2]]、[[艦隊Collection/登場人物一覽-Part3|Part 3]]、[[艦隊Collection/登場人物一覽-Part4|Part 4]]、[[艦隊Collection/登場人物一覽-Part5|Part 5]]、[[艦隊Collection/登場人物一覽-Part6|Part 6]]
+|-
+|[[艦隊Collection/登場敵艦一覽]]、[[艦隊Collection/霧之艦隊登場人物一覽|霧之艦隊登場人物一覽]]
+|}
+
+== 霧之艦隊 ==
+
+* 2013年聖誕節《蒼藍鋼鐵戰艦》合作活動「迎撃！霧の艦隊」的期間限定艦娘，活動結束後收回。<s>然後就再也沒有聯動了</s>
+* 海域擊破後不會直接獎勵，只會脫離敵編成，需要另外解任務才會加入並解鎖下一關。
+* 除了海霧黑科技的超高數值外，還會使用特殊攻擊「超重力炮」造成全體傷害，受擊時也會有克萊因力場的特效。
+
+=== 我方船艦 ===
+
+==== 伊歐娜（イオナ，Iona） ====
+[[檔案:KC Iona.png|225x225像素]]
+
+* 圖鑑編號：???，伊400型潜水艦。需要解前置任務才能入手並開啟E-1。
+
+==== 高雄（タカオ，Takao） ====
+[[檔案:KC Takao mist.png|225x225像素]][[檔案:KC Takao mist full.png|290x290像素]]
+
+* 圖鑑編號：???，高雄型重巡洋艦。E-1Boss與第二個解鎖的我方船艦。
+* <s>傲嬌重巡</s>
+
+==== 榛名（ハルナ，Haruna） ====
+[[檔案:KC Haruna mist.png|225x225像素]][[檔案:KC Haruna mist full.png|290x290像素]]
+
+* 圖鑑編號：???，金剛型戰艦。E-2Boss與第三個(ry
+
+=== 敵方船艦 ===
+
+==== 長良型輕巡洋艦（ナガラ，Nagara） ====
+[[檔案:KC Nagara mist.png|300x300像素]]
+
+* E-1、E-2、E-3道中與Boss隨伴艦。
+* 缺乏心智模型，在原著與艦收的定位都是雜魚，但還是會用超重力炮。
+* <s>虛化ㄉ…嗯？</s>
+
+==== 霧島（キリシマ，Kirishima） ====
+[[檔案:KC Kirishima mist.png|290x290像素]]
+
+* E-2道中與Boss隨伴艦。
+
+==== 摩耶（マヤ，Maya） ====
+[[檔案:KC Maya mist.png|290x290像素]]
+
+* E-2、E-3道中與Boss隨伴艦。
+
+==== 金剛（コンゴウ，Kongou） ====
+[[檔案:KC Kongou mist.png|300x300像素]]
+
+* E-3最終Boss。
+{{KanColle}}
+
+== 備註 ==
+<references />
+
+[[Category:艦隊Collection]]
+[[category:角色列表]]
