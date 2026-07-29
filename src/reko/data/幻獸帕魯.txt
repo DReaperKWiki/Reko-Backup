@@ -1,0 +1,51 @@
+{{h0|幻獸帕魯（Palworld/パルワールド）/<s>Pokémon With Guns</s>}}
+{|class="wikitable" style="margin:1.5em auto;text-align:center;"
+|-
+{{stub row|本條目需要補充，歡迎各方{{ruby|玩家|<s>帕魯</s>}}們幫忙。}}
+|-
+|}
+
+{{Controversial}}
+{{Orga}}
+
+== 介紹 ==
+* 由日本開發商Pocket Pair推出的開放世界遊戲。於2024年1月19日催出搶先體驗版，再於2026年7月10日推出正式版《幻獸帕魯 1.0》。
+** 專屬<s>對標</s>的TCG由[[武士道]]自2026年開始營運。
+* <s>偽裝真差，一看就是[[寶可夢]]</s>
+** 事實上2024年9月開始任天堂即以專利侵權開始一系列訴訟，Pocketpair也為此修改了不少動作模組。
+
+== 遊戲系統 ==
+* <s>請參考本家的介紹(誤)</s>
+* 玩家在探索帕魯群島之時也需要管理飢餓值，蒐集材料並製作工具以及武裝來搭建自己的基地。
+== 敵對組織及角色介紹 ==
+=== 雷恩盜獵團(Rayne Syndicate/レイン密猟団) ===
+以盜獵帕魯而聞名的組織。
+=== 帕魯保護團體(Free Pal Alliance/パル愛護団体) ===
+=== 永炎同心會(Brothers of the Eternal Pyre/永炎の同志) ===
+=== 自衛隊(PIDF/パルパゴス島自警団) ===
+=== 帕魯基因研究部隊(Pal Genetic Research Unit/パル遺伝子研究部隊) ===
+=== 月花衆(Moonflower Clan/月花衆) ===
+=== 天墜之民(Feybreak Warriors/天落の民) ===
+=== 蒼天的盟約(Azure Covenant/蒼天の盟約) ===
+=== 澤娜拉(Zenara/ゼナーラ) ===
+
+
+== 相關作品 ==
+
+== 相關條目 ==
+* [[幻獸帕魯-帕魯圖鑑]]
+* <s>[[寶可夢]]</s>
+* <s>[[賽爾號]]</s>
+* <s>[[原創風行]]</s>
+
+==連結==
+*[https://pocketpair.jp/palworld 官網]
+*{{twitter|Palworld_EN|3=英文公式Twitter}}
+*{{twitter|Palworld_JP|3=日文公式Twitter}}
+== 回應 ==
+{{pcomment|section=1}}
+
+==備註==
+<references/>
+
+[[分類:Steam]][[分類:遊戲]]
