@@ -1,4 +1,4 @@
-{{h0|仮面ライダー{{ruby|剣|ブレイド<s>/平成梗王</s>}}}}
+{{h0|仮面ライダー{{ruby|剣|ブレイド}}<s>/平成梗王</s>}}
 {| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
 | colspan="2" |本條目內含劇透，沒看過原著又不想<s>變得'''[[オンドゥル語|說話不清]]'''或</s>'''被蜘蛛Undead支配'''的話請不要隨意反白。
 |-
