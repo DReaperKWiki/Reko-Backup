@@ -22,15 +22,15 @@
 |-
 | Weiß Schwarz || 2008年- || 通稱黑與白，元美官方譯名「黑白雙翼」<br>武士道最長壽的TCG企劃，時至今日依舊營運中<br>主要以跟各種IP的聯動爲主，也奠定了武士道TCG的聯動模式<br>後續另有推出名為✞blau(2022-2026年)和Rose(2025年起)的姊妹品牌，
 |-
-| ✞ChaosTCG{{color|red||※}} || 2009年-2019年 || 
+| ✞ChaosTCG || 2009年-2019年 || 
 |-
 | [[卡片戰鬥先導者]] || 2011年- || 武士道首個原創TCG企劃，也是旗下第二長壽的TCG遊戲，目前依舊營運中 
 |-
-| ✞未來卡搭檔對戰{{color|red||※}}(?) || 2013年-2020年 || 雖然已於2020年8月11日發行完最後一個補充包「Revival Buddies」後停止營運，但官方仍尋找機會令其重新復活<br>2023年以「ND」(New Drive)為名在泰國重啟發售<br>2025年推出週年紀念卡包，並<s>疑似是借殼復活</s>和[[卡片戰鬥先導者]]推出聯動卡
+| ✞未來卡搭檔對戰(?) || 2013年-2020年 || 雖然已於2020年8月11日發行完最後一個補充包「Revival Buddies」後停止營運，但官方仍尋找機會令其重新復活<br>2023年以「ND」(New Drive)為名在泰國重啟發售<br>2025年推出週年紀念卡包，並<s>疑似是借殼復活</s>和[[卡片戰鬥先導者]]推出聯動卡
 |-
-| ✞LoveLive! School Idol Collection{{color|red||※}} || 2016年-2021年 || 以[[LoveLive!]]系列人物為原型推出的TCG企劃<br>收錄角色只截止到Aqours，在2019年1月後停止推出新牌組但仍舉辦店賽；續作推出後正式<s>拔管</s>停止營運
+| ✞LoveLive! School Idol Collection || 2016年-2021年 || 以[[LoveLive!]]系列人物為原型推出的TCG企劃<br>收錄角色只截止到Aqours，在2019年1月後停止推出新牌組但仍舉辦店賽；續作推出後正式<s>拔管</s>停止營運
 |-
-| ✞Luck & Logic{{color|red||※}} || 2015年-2018年 || 
+| ✞Luck & Logic || 2015年-2018年 || 
 |-
 | ✞ReBIRTH for you || 2020-2026年 || 卡圖主打Q版人物，不論是原創還是聯動<br>2026年7月22日宣布預定2026年10月結束營運。
 |-
@@ -279,7 +279,7 @@
 |-
 | 劇場版「BanG Dream! It's MyGO!!!!!」 || 2024年9月27日<br>2024年11月8日 ||  || [[總集篇]]，分成前編和後編
 |-
-| BanG Dream! Ave Mujica prima aurora || 2026年秋預定 ||  || Ave Mujica的續篇
+| BanG Dream! Ave Mujica prima aurora || 2026年10月16日預定 ||  || Ave Mujica的續篇(後日談)
 |-
 | BanG Dream! 少女樂團派對！☆PICO || 2018年7月5日 ||rowspan="2" | DMM.Futureworks<br>W-Toon Studio<br>三次元 || rowspan="4" | 短篇動畫 || 26 || <s>官方有病的</s>泡麵日常番，講述各個樂團的互動故事<br>由於是泡麵番，除三次元外還有DMM.Futureworks參與製作
 |-
@@ -289,7 +289,7 @@
 |-
 | 元祖！BanG Dream Chan || 2025年10月2日 || AtoriE || 52(預定) || 
 |-
-| バンドリ！ ゆめ∞みた || 2026年7月預定 || rowspan="2" |ニチカライン（NICHICALINE）<ref>三次元新成立子品牌</ref> || rowspan="2" |TV動畫 ||  || 
+| バンドリ！ ゆめ∞みた || 2026年7月2日 || rowspan="2" |ニチカライン（NICHICALINE）<ref>三次元新成立子品牌</ref> || rowspan="2" |TV動畫 ||  || 
 |-
 | ZERO RISE || 202X年X月預定 ||  ||  
 |-
@@ -309,7 +309,6 @@
 |-
 | D_CIDE TRAUMEREI THE ANIMATION || 2021年7月10日 || 三次元 || 13 || 武士道在營運期間推出，與同名手遊同期推出的動畫
 |}
-
 
 == 回應 ==
 {{pcomment|section=1}}

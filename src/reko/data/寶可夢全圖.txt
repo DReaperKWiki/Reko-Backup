@@ -1,0 +1,1662 @@
+<!-- 本頁採用的寶可夢圖片大部分來自於{{twitter|CentroLeaks|1624089741791571978}}，據說是Pokemon Home的拆包資料，有Mega進化、地區型態卻漏掉超極巨化，不是每個寶可夢都存在所有型態的圖片（銀伴戰獸就缺少其他型態）。 -->
+{{h0|寶可夢全圖}}
+{| class="wikitable" style="margin:1.5em auto;text-align:center;"
+| style="" | 本條目圖片基本上傳完成；Mega進化、地區型態和超極巨化的寶可夢細節參見[[寶可夢-特殊型態PM介紹]]
+|-
+{{Pokemon Gen row}}
+|}
+
+* 本頁收錄至今為止登場並且編入全國圖鑑的寶可夢圖片。
+** 如果要看指定範圍寶可夢圖片資料，請點選章節標題連結。
+== 寶可夢的蛋 ==
+[[File:Pokemon_0000_9th_style.png]]
+== [[寶可夢第一世代列表1~99|第一世代(0001~0099)]] ==
+=== 御三家(0001~0009)===
+<gallery>
+Pokemon_0001_9th_style.png             |0001 妙蛙種子
+Pokemon_0002_9th_style.png             |0002 妙蛙草
+Pokemon_0003_9th_style.png             |0003 妙蛙花
+Pokemon_0003(Mega)_9th_style.png       |0003 妙蛙花(Mega進化)
+Venusaur-gigantamax.png                |0003 妙蛙花(超極巨化)
+Pokemon_0004_9th_style.png             |0004 小火龍
+Pokemon_0005_9th_style.png             |0005 火恐龍
+Pokemon_0006_9th_style.png             |0006 噴火龍
+Pokemon_0006(MegaX)_9th_style.png      |0006 噴火龍(Mega進化X)
+Pokemon_0006(MegaY)_9th_style.png      |0006 噴火龍(Mega進化Y)
+Charizard-gigantamax.png               |0006 噴火龍(超極巨化)
+Pokemon_0007_9th_style.png             |0007 傑尼龜
+Pokemon_0008_9th_style.png             |0008 卡咪龜
+Pokemon_0009_9th_style.png             |0009 水箭龜
+Pokemon_0009(Mega)_9th_style.png       |0009 水箭龜(Mega進化)
+Blastoise-gigantamax.png               |0009 水箭龜(超極巨化)
+</gallery>
+=== 一般寶可夢(0010~0024)===
+<gallery>
+Pokemon_0010_9th_style.png             |0010 綠毛蟲
+Pokemon_0011_9th_style.png             |0011 鐵甲蛹
+Pokemon_0012_9th_style.png             |0012 巴大蝶
+Butterfree-gigantamax.png              |0012 巴大蝶(超極巨化)
+Pokemon_0013_9th_style.png             |0013 獨角蟲
+Pokemon_0014_9th_style.png             |0014 鐵殼蛹
+Pokemon_0015_9th_style.png             |0015 大針蜂
+Pokemon_0015(Mega)_9th_style.png       |0015 大針蜂(Mega進化)
+Pokemon_0016_9th_style.png             |0016 波波
+Pokemon_0017_9th_style.png             |0017 比比鳥
+Pokemon_0018_9th_style.png             |0018 大比鳥
+Pokemon_0018(Mega)_9th_style.png       |0018 大比鳥(Mega進化)
+Pokemon_0019_9th_style.png             |0019 小拉達
+Pokemon_0019(Alola)_9th_style.png      |0019 小拉達(阿羅拉的樣子)
+Pokemon_0020_9th_style.png             |0020 拉達
+Pokemon_0020(Alola)_9th_style.png      |0020 拉達(阿羅拉的樣子)
+Pokemon_0021_9th_style.png             |0021 烈雀
+Pokemon_0022_9th_style.png             |0022 大嘴雀
+Pokemon_0023_9th_style.png             |0023 阿柏蛇
+Pokemon_0024_9th_style.png             |0024 阿柏怪
+</gallery>
+=== 皮卡丘一家(0025、0026)===
+因為含有大量戴著帽子的的皮卡丘，故獨立一章
+<gallery>
+Pokemon_0025_9th_style.png              |0025 [[皮卡丘]]
+Pikachu-gigantamax.png                  |0025 皮卡丘(超極巨化)
+</gallery>
+<gallery>
+Spr_6o_025Co.png|0025 扮裝皮卡丘
+Spr 6o 025Po.png|0025 偶像皮卡丘
+Spr 6o 025Ph.png|0025 博士皮卡丘
+Spr 6o 025Li.png|0025 面罩摔角手皮卡丘
+Spr 6o 025Be.png|0025 貴婦皮卡丘
+Spr 6o 025Ro.png|0025 重搖滾皮卡丘
+</gallery>
+<gallery>
+Pokemon_0025(Original_cap)_9th_style.png|0025 戴著帽子的皮卡丘(初始帽子)
+Pokemon_0025(Hoenn_cap)_9th_style.png   |0025 戴著帽子的皮卡丘(豐緣帽子)
+Pokemon_0025(Sinnoh_cap)_9th_style.png  |0025 戴著帽子的皮卡丘(神奧帽子)
+Pokemon_0025(Unova_cap)_9th_style.png   |0025 戴著帽子的皮卡丘(合眾帽子)
+Pokemon_0025(Kalos_cap)_9th_style.png   |0025 戴著帽子的皮卡丘(卡洛斯帽子)
+Pokemon_0025(Alola_cap)_9th_style.png   |0025 戴著帽子的皮卡丘(阿羅拉帽子)
+Pokemon_0025(Partner_cap)_9th_style.png |0025 戴著帽子的皮卡丘(就決定是你了之帽子)
+Pokemon_0025(World_cap)_9th_style.png   |0025 戴著帽子的皮卡丘(世界帽子)
+</gallery>
+<gallery>
+Pokemon_0026_9th_style.png              |0026 雷丘
+Pokemon_0026(Alola)_9th_style.png       |0026 雷丘(阿羅拉的樣子)
+Pokemon_0026(MegaX)_9th_style.png       |0026 雷丘(超級進化X)
+Pokemon_0026(MegaY)_9th_style.png       |0026 雷丘(超級進化Y)
+</gallery>
+
+=== 一般寶可夢(0027~0099)===
+<gallery>
+Pokemon_0027_9th_style.png             |0027 穿山鼠
+Pokemon_0027(Alola)_9th_style.png      |0027 穿山鼠(阿羅拉的樣子)
+Pokemon_0028_9th_style.png             |0028 穿山王
+Pokemon_0028(Alola)_9th_style.png      |0028 穿山王(阿羅拉的樣子)
+Pokemon_0029_9th_style.png             |0029 尼多蘭
+Pokemon_0030_9th_style.png             |0030 尼多娜
+Pokemon_0031_9th_style.png             |0031 尼多后
+Pokemon_0032_9th_style.png             |0032 尼多朗
+Pokemon_0033_9th_style.png             |0033 尼多力諾
+Pokemon_0034_9th_style.png             |0034 尼多王
+Pokemon_0035_9th_style.png             |0035 皮皮
+Pokemon_0036_9th_style.png             |0036 皮可西
+Pokemon_0036(Mega)_9th_style.png       |0036 皮可西(Mega進化)
+Pokemon_0037_9th_style.png             |0037 六尾
+Pokemon_0037(Alola)_9th_style.png      |0037 六尾(阿羅拉的樣子)
+Pokemon_0038_9th_style.png             |0038 九尾
+Pokemon_0038(Alola)_9th_style.png      |0038 九尾(阿羅拉的樣子)
+Pokemon_0039_9th_style.png             |0039 胖丁
+Pokemon_0040_9th_style.png             |0040 胖可丁
+Pokemon_0041_9th_style.png             |0041 超音蝠
+Pokemon_0042_9th_style.png             |0042 大嘴蝠
+Pokemon_0043_9th_style.png             |0043 走路草
+Pokemon_0044_9th_style.png             |0044 臭臭花
+Pokemon_0045_9th_style.png             |0045 霸王花
+Pokemon_0046_9th_style.png             |0046 派拉斯
+Pokemon_0047_9th_style.png             |0047 派拉斯特
+Pokemon_0048_9th_style.png             |0048 毛球
+Pokemon_0049_9th_style.png             |0049 摩魯蛾
+Pokemon_0050_9th_style.png             |0050 地鼠
+Pokemon_0050(Alola)_9th_style.png      |0050 地鼠(阿羅拉的樣子)
+Pokemon_0051_9th_style.png             |0051 三地鼠
+Pokemon_0051(Alola)_9th_style.png      |0051 三地鼠(阿羅拉的樣子)
+Pokemon_0052_9th_style.png             |0052 [[喵喵]]
+Meowth-gigantamax.png                  |0052 喵喵(超極巨化)
+Pokemon_0052(Alola)_9th_style.png      |0052 喵喵(阿羅拉的樣子)
+Pokemon_0052(Galar)_9th_style.png      |0052 喵喵(伽勒爾的樣子)
+Pokemon_0053_9th_style.png             |0053 貓老大
+Pokemon_0053(Alola)_9th_style.png      |0053 貓老大(阿羅拉的樣子)
+Pokemon_0054_9th_style.png             |0054 可達鴨
+Pokemon_0055_9th_style.png             |0055 哥達鴨
+Pokemon_0056_9th_style.png             |0056 猴怪
+Pokemon_0057_9th_style.png             |0057 火爆猴
+Pokemon_0058_9th_style.png             |0058 卡蒂狗
+Pokemon_0058(Hisui)_9th_style.png      |0058 卡蒂狗(洗翠的樣子)
+Pokemon_0059_9th_style.png             |0059 風速狗
+Pokemon_0059(Hisui)_9th_style.png      |0059 風速狗(洗翠的樣子)
+Pokemon_0060_9th_style.png             |0060 蚊香蝌蚪
+Pokemon_0061_9th_style.png             |0061 蚊香君
+Pokemon_0062_9th_style.png             |0062 蚊香泳士
+Pokemon_0063_9th_style.png             |0063 凱西
+Pokemon_0064_9th_style.png             |0064 勇基拉
+Pokemon_0065_9th_style.png             |0065 胡地
+Pokemon_0065(Mega)_9th_style.png       |0065 胡地(Mega進化)
+Pokemon_0066_9th_style.png             |0066 腕力
+Pokemon_0067_9th_style.png             |0067 豪力
+Pokemon_0068_9th_style.png             |0068 怪力
+Machamp-gigantamax.png                 |0068 怪力(超極巨化)
+Pokemon_0069_9th_style.png             |0069 喇叭芽
+Pokemon_0070_9th_style.png             |0070 口呆花
+Pokemon_0071_9th_style.png             |0071 大食花
+Pokemon_0071(Mega)_9th_style.png       |0071 大食花(Mega進化)
+Pokemon_0072_9th_style.png             |0072 瑪瑙水母
+Pokemon_0073_9th_style.png             |0073 毒刺水母
+Pokemon_0074_9th_style.png             |0074 小拳石
+Pokemon_0074(Alola)_9th_style.png      |0074 小拳石(阿羅拉的樣子)
+Pokemon_0075_9th_style.png             |0075 隆隆石
+Pokemon_0075(Alola)_9th_style.png      |0075 隆隆石(阿羅拉的樣子)
+Pokemon_0076_9th_style.png             |0076 隆隆岩
+Pokemon_0076(Alola)_9th_style.png      |0076 隆隆岩(阿羅拉的樣子)
+
+Pokemon_0077_9th_style.png             |0077 小火馬
+Pokemon_0077(Galar)_9th_style.png      |0077 小火馬(伽勒爾的樣子)
+Pokemon_0078_9th_style.png             |0078 烈焰馬
+Pokemon_0078(Galar)_9th_style.png      |0078 烈焰馬(伽勒爾的樣子)
+
+Pokemon_0079_9th_style.png             |0079 呆呆獸
+Pokemon_0079(Galar)_9th_style.png      |0079 呆呆獸(伽勒爾的樣子)
+Pokemon_0080_9th_style.png             |0080 呆殼獸
+Pokemon_0080(Mega)_9th_style.png       |0080 呆殼獸(Mega進化)
+Pokemon_0080(Galar)_9th_style.png      |0080 呆殼獸(伽勒爾的樣子)
+
+Pokemon_0081_9th_style.png             |0081 小磁怪
+Pokemon_0082_9th_style.png             |0082 三合一磁怪
+Pokemon_0083_9th_style.png             |0083 大蔥鴨
+Pokemon_0083(Galar)_9th_style.png      |0083 大蔥鴨(伽勒爾的樣子)
+Pokemon_0084_9th_style.png             |0084 嘟嘟
+Pokemon_0085_9th_style.png             |0085 嘟嘟利
+Pokemon_0086_9th_style.png             |0086 小海獅
+Pokemon_0087_9th_style.png             |0087 白海獅
+Pokemon_0088_9th_style.png             |0088 臭泥
+Pokemon_0088(Alola)_9th_style.png      |0088 臭泥(阿羅拉的樣子)
+Pokemon_0089_9th_style.png             |0089 臭臭泥
+Pokemon_0089(Alola)_9th_style.png      |0089 臭臭泥(阿羅拉的樣子)
+Pokemon_0090_9th_style.png             |0090 大舌貝
+Pokemon_0091_9th_style.png             |0091 刺甲貝
+Pokemon_0092_9th_style.png             |0092 鬼斯
+Pokemon_0093_9th_style.png             |0093 鬼斯通
+Pokemon_0094_9th_style.png             |0094 耿鬼
+Pokemon_0094(Mega)_9th_style.png       |0094 耿鬼(Mega進化)
+Gengar-gigantamax.png                  |0094 耿鬼(超極巨化)
+Pokemon_0095_9th_style.png             |0095 大岩蛇
+Pokemon_0096_9th_style.png             |0096 催眠貘
+Pokemon_0097_9th_style.png             |0097 引夢貘人
+Pokemon_0098_9th_style.png             |0098 大鉗蟹
+Pokemon_0099_9th_style.png             |0099 巨鉗蟹
+Kingler-gigantamax.png                 |0099 巨鉗蟹(超極巨化)
+</gallery>
+
+== [[寶可夢第一世代列表100~151|第一世代(0100~0151)]] ==
+===一般寶可夢(0100~0143)===
+<gallery>
+Pokemon_0100_9th_style.png            |0100 霹靂電球
+Pokemon_0100(Hisui)_9th_style.png     |0100 霹靂電球(洗翠的樣子)
+Pokemon_0101_9th_style.png            |0101 頑皮雷彈
+Pokemon_0101(Hisui)_9th_style.png     |0101 頑皮雷彈(洗翠的樣子)
+Pokemon_0102_9th_style.png            |0102 蛋蛋
+Pokemon_0103_9th_style.png            |0103 椰蛋樹
+Pokemon_0103(Alola)_9th_style.png     |0103 椰蛋樹(阿羅拉的樣子)
+Pokemon_0104_9th_style.png            |0104 卡拉卡拉
+Pokemon_0105_9th_style.png            |0105 嘎啦嘎啦
+Pokemon_0105(Alola)_9th_style.png     |0105 嘎啦嘎啦(阿羅拉的樣子)
+Pokemon_0106_9th_style.png            |0106 飛腿郎
+Pokemon_0107_9th_style.png            |0107 快拳郎
+Pokemon_0108_9th_style.png            |0108 大舌頭
+Pokemon_0109_9th_style.png            |0109 瓦斯彈
+Pokemon_0110_9th_style.png            |0110 雙彈瓦斯
+Pokemon_0110(Galar)_9th_style.png     |0110 雙彈瓦斯(伽勒爾的樣子)
+Pokemon_0111_9th_style.png            |0111 獨角犀牛
+Pokemon_0112_9th_style.png            |0112 鑽角犀獸
+Pokemon_0113_9th_style.png            |0113 吉利蛋
+Pokemon_0114_9th_style.png            |0114 蔓藤怪
+Pokemon_0115_9th_style.png            |0115 袋獸
+Pokemon_0115(Mega)_9th_style.png      |0115 袋獸(Mega進化)
+Pokemon_0116_9th_style.png            |0116 墨海馬
+Pokemon_0117_9th_style.png            |0117 海刺龍
+Pokemon_0118_9th_style.png            |0118 角金魚
+Pokemon_0119_9th_style.png            |0119 金魚王
+Pokemon_0120_9th_style.png            |0120 海星星
+Pokemon_0121_9th_style.png            |0121 寶石海星
+Pokemon_0121(Mega)_9th_style.png      |0121 寶石海星(Mega進化)
+Pokemon_0122_9th_style.png            |0122 魔牆人偶
+Pokemon_0122(Galar)_9th_style.png     |0122 魔牆人偶(伽勒爾的樣子)
+Pokemon_0123_9th_style.png            |0123 飛天螳螂
+Pokemon_0124_9th_style.png            |0124 迷唇姐
+Pokemon_0125_9th_style.png            |0125 電擊獸
+Pokemon_0126_9th_style.png            |0126 鴨嘴火獸
+Pokemon_0127_9th_style.png            |0127 凱羅斯
+Pokemon_0127(Mega)_9th_style.png      |0127 凱羅斯(Mega進化)
+Pokemon_0128_9th_style.png            |0128 肯泰羅
+Pokemon_0128(Combat)_9th_style.png    |0128 肯泰羅(帕底亞的樣子-鬥戰種)
+Pokemon_0128(Blaze)_9th_style.png     |0128 肯泰羅(帕底亞的樣子-火熾種)
+Pokemon_0128(Aqua)_9th_style.png      |0128 肯泰羅(帕底亞的樣子-水瀾種)
+Pokemon_0129_9th_style.png            |0129 [[鯉魚王]]
+Pokemon_0130_9th_style.png            |0130 暴鯉龍
+Pokemon_0130(Mega)_9th_style.png      |0130 暴鯉龍(Mega進化)
+Pokemon_0131_9th_style.png            |0131 拉普拉斯
+Lapras-gigantamax.png                 |0131 拉普拉斯(超極巨化)
+Pokemon_0132_9th_style.png            |0132 百變怪
+Pokemon_0133_9th_style.png            |0133 [[伊布]]
+Eevee-gigantamax.png                  |0133 伊布(超極巨化)
+Pokemon_0134_9th_style.png            |0134 水伊布
+Pokemon_0135_9th_style.png            |0135 雷伊布
+Pokemon_0136_9th_style.png            |0136 火伊布
+Pokemon_0137_9th_style.png            |0137 多邊獸
+Pokemon_0138_9th_style.png            |0138 菊石獸
+Pokemon_0139_9th_style.png            |0139 多刺菊石獸
+Pokemon_0140_9th_style.png            |0140 化石盔
+Pokemon_0141_9th_style.png            |0141 鐮刀盔
+Pokemon_0142_9th_style.png            |0142 化石翼龍
+Pokemon_0142(Mega)_9th_style.png      |0142 化石翼龍(Mega進化)
+Pokemon_0143_9th_style.png            |0143 卡比獸
+Snorlax-gigantamax.png                |0143 卡比獸(超極巨化)
+</gallery>
+
+===三神鳥寶可夢、迷你龍一家、超夢、夢幻(0144~0151)===
+<gallery>
+Pokemon_0144_9th_style.png            |0144 急凍鳥
+Pokemon_0144(Galar)_9th_style.png     |0144 急凍鳥(伽勒爾的樣子)
+Pokemon_0145_9th_style.png            |0145 閃電鳥
+Pokemon_0145(Galar)_9th_style.png     |0145 閃電鳥(伽勒爾的樣子)
+Pokemon_0146_9th_style.png            |0146 火焰鳥
+Pokemon_0146(Galar)_9th_style.png     |0146 火焰鳥(伽勒爾的樣子)
+
+Pokemon_0147_9th_style.png            |0147 迷你龍
+Pokemon_0148_9th_style.png            |0148 哈克龍
+Pokemon_0149_9th_style.png            |0149 快龍
+Pokemon_0149(Mega)_9th_style.png      |0149 快龍(Mega進化)
+
+
+Pokemon_0150_9th_style.png            |0150 超夢
+Pokemon_0150(MegaX)_9th_style.png     |0150 超夢(Mega進化X)
+Pokemon_0150(MegaY)_9th_style.png     |0150 超夢(Mega進化Y)
+Pokemon_0151_9th_style.png            |0151 夢幻
+</gallery>
+
+== [[寶可夢列表-第二世代|第二世代(0152~0251)]] ==
+=== 御三家(0152~0160)===
+<gallery>
+Pokemon_0152_9th_style.png        |0152 菊草葉
+Pokemon_0153_9th_style.png        |0153 月桂葉
+Pokemon_0154_9th_style.png        |0154 大竺葵
+Pokemon_0154(Mega)_9th_style.png  |0154 大竺葵(Mega進化)
+Pokemon_0155_9th_style.png        |0155 火球鼠
+Pokemon_0156_9th_style.png        |0156 火岩鼠
+Pokemon_0157_9th_style.png        |0157 火爆獸
+Pokemon_0157(Hisui)_9th_style.png |0157 火爆獸(洗翠的樣子)
+Pokemon_0158_9th_style.png        |0158 小鋸鱷
+Pokemon_0159_9th_style.png        |0159 藍鱷
+Pokemon_0160_9th_style.png        |0160 大力鱷
+Pokemon_0160(Mega)_9th_style.png  |0160 大力鱷(Mega進化)
+</gallery>
+
+=== 一般寶可夢(0161~0200)===
+<gallery>
+Pokemon_0161_9th_style.png        |0161 尾立
+Pokemon_0162_9th_style.png        |0162 大尾立
+Pokemon_0163_9th_style.png        |0163 咕咕
+Pokemon_0164_9th_style.png        |0164 貓頭夜鷹
+Pokemon_0165_9th_style.png        |0165 芭瓢蟲
+Pokemon_0166_9th_style.png        |0166 安瓢蟲
+Pokemon_0167_9th_style.png        |0167 圓絲蛛
+Pokemon_0168_9th_style.png        |0168 阿利多斯
+Pokemon_0169_9th_style.png        |0169 叉字蝠
+Pokemon_0170_9th_style.png        |0170 燈籠魚
+Pokemon_0171_9th_style.png        |0171 電燈怪
+Pokemon_0172_9th_style.png        |0172 皮丘
+Pokemon_0173_9th_style.png        |0173 皮寶寶
+Pokemon_0174_9th_style.png        |0174 寶寶丁
+Pokemon_0175_9th_style.png        |0175 波克比
+Pokemon_0176_9th_style.png        |0176 波克基古
+Pokemon_0177_9th_style.png        |0177 天然雀
+Pokemon_0178_9th_style.png        |0178 天然鳥
+Pokemon_0179_9th_style.png        |0179 咩利羊
+Pokemon_0180_9th_style.png        |0180 茸茸羊
+Pokemon_0181_9th_style.png        |0181 電龍
+Pokemon_0181(Mega)_9th_style.png  |0181 電龍(Mega進化)
+Pokemon_0182_9th_style.png        |0182 美麗花
+Pokemon_0183_9th_style.png        |0183 瑪力露
+Pokemon_0184_9th_style.png        |0184 瑪力露麗
+Pokemon_0185_9th_style.png        |0185 樹才怪
+Pokemon_0186_9th_style.png        |0186 蚊香蛙皇
+Pokemon_0187_9th_style.png        |0187 毽子草
+Pokemon_0188_9th_style.png        |0188 毽子花
+Pokemon_0189_9th_style.png        |0189 毽子棉
+Pokemon_0190_9th_style.png        |0190 長尾怪手
+Pokemon_0191_9th_style.png        |0191 向日種子
+Pokemon_0192_9th_style.png        |0192 向日花怪
+Pokemon_0193_9th_style.png        |0193 蜻蜻蜓
+Pokemon_0194_9th_style.png        |0194 烏波
+Pokemon_0194(Paldea)_9th_style.png|0194 烏波(帕底亞的樣子)
+Pokemon_0195_9th_style.png        |0195 沼王
+Pokemon_0196_9th_style.png        |0196 太陽伊布
+Pokemon_0197_9th_style.png        |0197 月亮伊布
+Pokemon_0198_9th_style.png        |0198 黑暗鴉
+Pokemon_0199_9th_style.png        |0199 呆呆王
+Pokemon_0199(Galar)_9th_style.png |0199 呆呆王(伽勒爾的樣子)
+Pokemon_0200_9th_style.png        |0200 夢妖
+</gallery>
+=== 未知圖騰(0201)===
+<gallery>
+Pokemon_0201(A)_9th_style.png     |0201 未知圖騰(A)
+Pokemon_0201(B)_9th_style.png     |0201 未知圖騰(B)
+Pokemon_0201(C)_9th_style.png     |0201 未知圖騰(C)
+Pokemon_0201(D)_9th_style.png     |0201 未知圖騰(D)
+Pokemon_0201(E)_9th_style.png     |0201 未知圖騰(E)
+Pokemon_0201(F)_9th_style.png     |0201 未知圖騰(F)
+Pokemon_0201(G)_9th_style.png     |0201 未知圖騰(G)
+Pokemon_0201(H)_9th_style.png     |0201 未知圖騰(H)
+Pokemon_0201(I)_9th_style.png     |0201 未知圖騰(I)
+Pokemon_0201(J)_9th_style.png     |0201 未知圖騰(J)
+Pokemon_0201(K)_9th_style.png     |0201 未知圖騰(K)
+Pokemon_0201(L)_9th_style.png     |0201 未知圖騰(L)
+Pokemon_0201(M)_9th_style.png     |0201 未知圖騰(M)
+Pokemon_0201(N)_9th_style.png     |0201 未知圖騰(N)
+Pokemon_0201(O)_9th_style.png     |0201 未知圖騰(O)
+Pokemon_0201(P)_9th_style.png     |0201 未知圖騰(P)
+Pokemon_0201(Q)_9th_style.png     |0201 未知圖騰(Q)
+Pokemon_0201(R)_9th_style.png     |0201 未知圖騰(R)
+Pokemon_0201(S)_9th_style.png     |0201 未知圖騰(S)
+Pokemon_0201(T)_9th_style.png     |0201 未知圖騰(T)
+Pokemon_0201(U)_9th_style.png     |0201 未知圖騰(U)
+Pokemon_0201(V)_9th_style.png     |0201 未知圖騰(V)
+Pokemon_0201(W)_9th_style.png     |0201 未知圖騰(W)
+Pokemon_0201(X)_9th_style.png     |0201 未知圖騰(X)
+Pokemon_0201(Y)_9th_style.png     |0201 未知圖騰(Y)
+Pokemon_0201(Z)_9th_style.png     |0201 未知圖騰(Z)
+Pokemon_0201(EX)_9th_style.png    |0201 未知圖騰(!)
+Pokemon_0201(QU)_9th_style.png    |0201 未知圖騰(?)
+</gallery>
+=== 一般寶可夢(0202~0242)===
+<gallery>
+Pokemon_0202_9th_style.png        |0202 果然翁
+Pokemon_0203_9th_style.png        |0203 麒麟奇
+Pokemon_0204_9th_style.png        |0204 榛果球
+Pokemon_0205_9th_style.png        |0205 佛烈托斯
+Pokemon_0206_9th_style.png        |0206 土龍弟弟
+Pokemon_0207_9th_style.png        |0207 天蠍
+Pokemon_0208_9th_style.png        |0208 大鋼蛇
+Pokemon_0208(Mega)_9th_style.png  |0208 大鋼蛇(Mega進化)
+Pokemon_0209_9th_style.png        |0209 布魯
+Pokemon_0210_9th_style.png        |0210 布魯皇
+Pokemon_0211_9th_style.png        |0211 千針魚
+Pokemon_0211(Hisui)_9th_style.png |0211 千針魚(洗翠的樣子)
+Pokemon_0212_9th_style.png        |0212 巨鉗螳螂
+Pokemon_0212(Mega)_9th_style.png  |0212 巨鉗螳螂(Mega進化)
+Pokemon_0213_9th_style.png        |0213 壺壺
+Pokemon_0214_9th_style.png        |0214 赫拉克羅斯
+Pokemon_0214(Mega)_9th_style.png  |0214 赫拉克羅斯(Mega進化)
+Pokemon_0215_9th_style.png        |0215 狃拉
+Pokemon_0215(Hisui)_9th_style.png |0215 狃拉(洗翠的樣子)
+Pokemon_0216_9th_style.png        |0216 熊寶寶
+Pokemon_0217_9th_style.png        |0217 圈圈熊
+Pokemon_0218_9th_style.png        |0218 熔岩蟲
+Pokemon_0219_9th_style.png        |0219 熔岩蝸牛
+Pokemon_0220_9th_style.png        |0220 小山豬
+Pokemon_0221_9th_style.png        |0221 長毛豬
+Pokemon_0222_9th_style.png        |0222 太陽珊瑚
+Pokemon_0222(Galar)_9th_style.png |0222 太陽珊瑚(伽勒爾的樣子)
+Pokemon_0223_9th_style.png        |0223 鐵炮魚
+Pokemon_0224_9th_style.png        |0224 章魚桶
+Pokemon_0225_9th_style.png        |0225 信使鳥
+Pokemon_0226_9th_style.png        |0226 巨翅飛魚
+Pokemon_0227_9th_style.png        |0227 盔甲鳥
+Pokemon_0227(Mega)_9th_style.png  |0227 盔甲鳥(Mega進化)
+Pokemon_0228_9th_style.png        |0228 戴魯比
+Pokemon_0229_9th_style.png        |0229 黑魯加
+Pokemon_0229(Mega)_9th_style.png  |0229 黑魯加(Mega進化)
+Pokemon_0230_9th_style.png        |0230 刺龍王
+Pokemon_0231_9th_style.png        |0231 小小象
+Pokemon_0232_9th_style.png        |0232 頓甲
+Pokemon_0233_9th_style.png        |0233 多邊獸Ⅱ
+Pokemon_0234_9th_style.png        |0234 驚角鹿
+Pokemon_0235_9th_style.png        |0235 圖圖犬
+Pokemon_0236_9th_style.png        |0236 無畏小子
+Pokemon_0237_9th_style.png        |0237 戰舞郎
+Pokemon_0238_9th_style.png        |0238 迷唇娃
+Pokemon_0239_9th_style.png        |0239 電擊怪
+Pokemon_0240_9th_style.png        |0240 鴨嘴寶寶
+Pokemon_0241_9th_style.png        |0241 大奶罐
+Pokemon_0242_9th_style.png        |0242 幸福蛋
+</gallery>
+
+===鳳王親衛隊、由基拉一家、洛奇亞、鳳王、時拉比(0243~0251)===
+<gallery>
+Pokemon_0243_9th_style.png        |0243 雷公
+Pokemon_0244_9th_style.png        |0244 炎帝
+Pokemon_0245_9th_style.png        |0245 水君
+Pokemon_0246_9th_style.png        |0246 幼基拉斯
+Pokemon_0247_9th_style.png        |0247 沙基拉斯
+Pokemon_0248_9th_style.png        |0248 班基拉斯
+Pokemon_0248(Mega)_9th_style.png  |0248 班基拉斯(Mega進化)
+Pokemon_0249_9th_style.png        |0249 洛奇亞
+Pokemon_0250_9th_style.png        |0250 鳳王
+Pokemon_0251_9th_style.png        |0251 時拉比
+</gallery>
+
+== [[寶可夢列表-第三世代|第三世代(0252~0386)]] ==
+=== 御三家(0252~0260) ===
+<gallery>
+Pokemon_0252_9th_style.png           |0252 木守宮
+Pokemon_0253_9th_style.png           |0253 森林蜥蜴
+Pokemon_0254_9th_style.png           |0254 蜥蜴王
+Pokemon_0254(Mega)_9th_style.png     |0254 蜥蜴王(Mega進化)
+Pokemon_0255_9th_style.png           |0255 火稚雞
+Pokemon_0256_9th_style.png           |0256 力壯雞
+Pokemon_0257_9th_style.png           |0257 火焰雞
+Pokemon_0257(Mega)_9th_style.png     |0257 火焰雞(Mega進化)
+Pokemon_0258_9th_style.png           |0258 水躍魚
+Pokemon_0259_9th_style.png           |0259 沼躍魚
+Pokemon_0260_9th_style.png           |0260 巨沼怪
+Pokemon_0260(Mega)_9th_style.png     |0260 巨沼怪(Mega進化)
+</gallery>
+=== 一般寶可夢(0261~0376) ===
+<gallery>
+Pokemon_0261_9th_style.png           |0261 土狼犬
+Pokemon_0262_9th_style.png           |0262 大狼犬
+Pokemon_0263_9th_style.png           |0263 蛇紋熊
+Pokemon_0263(Galar)_9th_style.png    |0263 蛇紋熊(伽勒爾的樣子)
+Pokemon_0264_9th_style.png           |0264 直衝熊
+Pokemon_0264(Galar)_9th_style.png    |0264 直衝熊(伽勒爾的樣子)
+Pokemon_0265_9th_style.png           |0265 刺尾蟲
+Pokemon_0266_9th_style.png           |0266 甲殼繭
+Pokemon_0267_9th_style.png           |0267 狩獵鳳蝶
+Pokemon_0268_9th_style.png           |0268 盾甲繭
+Pokemon_0269_9th_style.png           |0269 毒粉蛾
+Pokemon_0270_9th_style.png           |0270 蓮葉童子
+Pokemon_0271_9th_style.png           |0271 蓮帽小童
+Pokemon_0272_9th_style.png           |0272 樂天河童
+Pokemon_0273_9th_style.png           |0273 橡實果
+Pokemon_0274_9th_style.png           |0274 長鼻葉
+Pokemon_0275_9th_style.png           |0275 狡猾天狗
+Pokemon_0276_9th_style.png           |0276 傲骨燕
+Pokemon_0277_9th_style.png           |0277 大王燕
+Pokemon_0278_9th_style.png           |0278 長翅鷗
+Pokemon_0279_9th_style.png           |0279 大嘴鷗
+Pokemon_0280_9th_style.png           |0280 拉魯拉絲
+Pokemon_0281_9th_style.png           |0281 奇魯莉安
+Pokemon_0282_9th_style.png           |0282 沙奈朵
+Pokemon_0282(Mega)_9th_style.png     |0282 沙奈朵(Mega進化)
+Pokemon_0283_9th_style.png           |0283 溜溜糖球
+Pokemon_0284_9th_style.png           |0284 雨翅蛾
+Pokemon_0285_9th_style.png           |0285 蘑蘑菇
+Pokemon_0286_9th_style.png           |0286 斗笠菇
+Pokemon_0287_9th_style.png           |0287 懶人獺
+Pokemon_0288_9th_style.png           |0288 過動猿
+Pokemon_0289_9th_style.png           |0289 請假王
+Pokemon_0290_9th_style.png           |0290 土居忍士
+Pokemon_0291_9th_style.png           |0291 鐵面忍者
+Pokemon_0292_9th_style.png           |0292 脫殼忍者
+Pokemon_0293_9th_style.png           |0293 咕妞妞
+Pokemon_0294_9th_style.png           |0294 吼爆彈
+Pokemon_0295_9th_style.png           |0295 爆音怪
+Pokemon_0296_9th_style.png           |0296 幕下力士
+Pokemon_0297_9th_style.png           |0297 鐵掌力士
+Pokemon_0298_9th_style.png           |0298 露力麗
+Pokemon_0299_9th_style.png           |0299 朝北鼻
+Pokemon_0300_9th_style.png           |0300 向尾喵
+Pokemon_0301_9th_style.png           |0301 優雅貓
+Pokemon_0302_9th_style.png           |0302 勾魂眼
+Pokemon_0302(Mega)_9th_style.png     |0302 勾魂眼(Mega進化)
+Pokemon_0303_9th_style.png           |0303 大嘴娃
+Pokemon_0303(Mega)_9th_style.png     |0303 大嘴娃(Mega進化)
+Pokemon_0304_9th_style.png           |0304 可可多拉
+Pokemon_0305_9th_style.png           |0305 可多拉
+Pokemon_0306_9th_style.png           |0306 波士可多拉
+Pokemon_0306(Mega)_9th_style.png     |0306 波士可多拉(Mega進化)
+Pokemon_0307_9th_style.png           |0307 瑪沙那
+Pokemon_0308_9th_style.png           |0308 恰雷姆
+Pokemon_0308(Mega)_9th_style.png     |0308 恰雷姆(Mega進化)
+Pokemon_0309_9th_style.png           |0309 落雷獸
+Pokemon_0310_9th_style.png           |0310 雷電獸
+Pokemon_0310(Mega)_9th_style.png     |0310 雷電獸(Mega進化)
+Pokemon_0311_9th_style.png           |0311 正電拍拍
+Pokemon_0312_9th_style.png           |0312 負電拍拍
+Pokemon_0313_9th_style.png           |0313 電螢蟲
+Pokemon_0314_9th_style.png           |0314 甜甜螢
+Pokemon_0315_9th_style.png           |0315 毒薔薇
+Pokemon_0316_9th_style.png           |0316 溶食獸
+Pokemon_0317_9th_style.png           |0317 吞食獸
+Pokemon_0318_9th_style.png           |0318 利牙魚
+Pokemon_0319_9th_style.png           |0319 巨牙鯊
+Pokemon_0319(Mega)_9th_style.png     |0319 巨牙鯊(Mega進化)
+Pokemon_0320_9th_style.png           |0320 吼吼鯨
+Pokemon_0321_9th_style.png           |0321 吼鯨王
+Pokemon_0322_9th_style.png           |0322 呆火駝
+Pokemon_0323_9th_style.png           |0323 噴火駝
+Pokemon_0323(Mega)_9th_style.png     |0323 噴火駝(Mega進化)
+Pokemon_0324_9th_style.png           |0324 煤炭龜
+Pokemon_0325_9th_style.png           |0325 跳跳豬
+Pokemon_0326_9th_style.png           |0326 噗噗豬
+Pokemon_0327_9th_style.png           |0327 晃晃斑
+Pokemon_0328_9th_style.png           |0328 大顎蟻
+Pokemon_0329_9th_style.png           |0329 超音波幼蟲
+Pokemon_0330_9th_style.png           |0330 沙漠蜻蜓
+Pokemon_0331_9th_style.png           |0331 刺球仙人掌
+Pokemon_0332_9th_style.png           |0332 夢歌仙人掌
+Pokemon_0333_9th_style.png           |0333 青綿鳥
+Pokemon_0334_9th_style.png           |0334 七夕青鳥
+Pokemon_0334(Mega)_9th_style.png     |0334 七夕青鳥(Mega進化)
+Pokemon_0335_9th_style.png           |0335 貓鼬斬
+Pokemon_0336_9th_style.png           |0336 飯匙蛇
+Pokemon_0337_9th_style.png           |0337 月石
+Pokemon_0338_9th_style.png           |0338 太陽岩
+Pokemon_0339_9th_style.png           |0339 泥泥鰍
+Pokemon_0340_9th_style.png           |0340 鯰魚王
+Pokemon_0341_9th_style.png           |0341 龍蝦小兵
+Pokemon_0342_9th_style.png           |0342 鐵螯龍蝦
+Pokemon_0343_9th_style.png           |0343 天秤偶
+Pokemon_0344_9th_style.png           |0344 念力土偶
+Pokemon_0345_9th_style.png           |0345 觸手百合
+Pokemon_0346_9th_style.png           |0346 搖籃百合
+Pokemon_0347_9th_style.png           |0347 太古羽蟲
+Pokemon_0348_9th_style.png           |0348 太古盔甲
+Pokemon_0349_9th_style.png           |0349 醜醜魚
+Pokemon_0350_9th_style.png           |0350 美納斯
+Pokemon_0351_9th_style.png           |0351 飄浮泡泡
+Pokemon_0351(Sunny)_9th_style.png    |0351 飄浮泡泡(太陽的樣子)
+Pokemon_0351(Rainy)_9th_style.png    |0351 飄浮泡泡(雨水的樣子)
+Pokemon_0351(Snowy)_9th_style.png    |0351 飄浮泡泡(雪雲的樣子)
+Pokemon_0352_9th_style.png           |0352 變隱龍
+Pokemon_0353_9th_style.png           |0353 怨影娃娃
+Pokemon_0354_9th_style.png           |0354 詛咒娃娃
+Pokemon_0354(Mega)_9th_style.png     |0354 詛咒娃娃(Mega進化)
+Pokemon_0355_9th_style.png           |0355 夜巡靈
+Pokemon_0356_9th_style.png           |0356 彷徨夜靈
+Pokemon_0357_9th_style.png           |0357 熱帶龍
+Pokemon_0358_9th_style.png           |0358 風鈴鈴
+Pokemon_0358(Mega)_9th_style.png     |0358 風鈴鈴(Mega進化)
+Pokemon_0359_9th_style.png           |0359 阿勃梭魯
+Pokemon_0359(Mega)_9th_style.png     |0359 阿勃梭魯(Mega進化)
+Pokemon_0360_9th_style.png           |0360 小果然
+Pokemon_0361_9th_style.png           |0361 雪童子
+Pokemon_0362_9th_style.png           |0362 冰鬼護
+Pokemon_0362(Mega)_9th_style.png     |0362 冰鬼護(Mega進化)
+Pokemon_0363_9th_style.png           |0363 海豹球
+Pokemon_0364_9th_style.png           |0364 海魔獅
+Pokemon_0365_9th_style.png           |0365 帝牙海獅
+Pokemon_0366_9th_style.png           |0366 珍珠貝
+Pokemon_0367_9th_style.png           |0367 獵斑魚
+Pokemon_0368_9th_style.png           |0368 櫻花魚
+Pokemon_0369_9th_style.png           |0369 古空棘魚
+Pokemon_0370_9th_style.png           |0370 愛心魚
+Pokemon_0371_9th_style.png           |0371 寶貝龍
+Pokemon_0372_9th_style.png           |0372 甲殼龍
+Pokemon_0373_9th_style.png           |0373 暴飛龍
+Pokemon_0373(Mega)_9th_style.png     |0373 暴飛龍(Mega進化)
+Pokemon_0374_9th_style.png           |0374 鐵啞鈴
+Pokemon_0375_9th_style.png           |0375 金屬怪
+Pokemon_0376_9th_style.png           |0376 巨金怪
+Pokemon_0376(Mega)_9th_style.png     |0376 巨金怪(Mega進化)
+</gallery>
+
+===傳說、幻之寶可夢(0377~0386)===
+<gallery>
+Pokemon_0377_9th_style.png            |0377 雷吉洛克
+Pokemon_0378_9th_style.png            |0378 雷吉艾斯
+Pokemon_0379_9th_style.png            |0379 雷吉斯奇魯
+Pokemon_0380_9th_style.png            |0380 拉帝亞斯
+Pokemon_0380(Mega)_9th_style.png      |0380 拉帝亞斯(Mega進化)
+Pokemon_0381_9th_style.png            |0381 拉帝歐斯
+Pokemon_0381(Mega)_9th_style.png      |0381 拉帝歐斯(Mega進化)
+Pokemon_0382_9th_style.png            |0382 蓋歐卡
+Pokemon_0382(Primal)_9th_style.png    |0382 蓋歐卡(原始回歸)
+Pokemon_0383_9th_style.png            |0383 固拉多
+Pokemon_0383(Primal)_9th_style.png    |0383 固拉多(原始回歸)
+Pokemon_0384_9th_style.png            |0384 烈空坐
+Pokemon_0384(Mega)_9th_style.png      |0384 烈空坐(Mega進化)
+Pokemon_0385_9th_style.png            |0385 基拉祈
+Pokemon_0386_9th_style.png            |0386 代歐奇希斯(普通形態)
+Pokemon_0386(Attack)_9th_style.png    |0386 代歐奇希斯(攻擊形態)
+Pokemon_0386(Defense)_9th_style.png   |0386 代歐奇希斯(防禦形態)
+Pokemon_0386(Speed)_9th_style.png     |0386 代歐奇希斯(速度形態)
+</gallery>
+
+== [[寶可夢列表-第四世代|第四世代(0387~0493)]] ==
+=== 御三家(0387~0395) ===
+<gallery>
+Pokemon_0387_9th_style.png        |0387 草苗龜
+Pokemon_0388_9th_style.png        |0388 樹林龜
+Pokemon_0389_9th_style.png        |0389 土台龜
+Pokemon_0390_9th_style.png        |0390 小火焰猴
+Pokemon_0391_9th_style.png        |0391 猛火猴
+Pokemon_0392_9th_style.png        |0392 烈焰猴
+Pokemon_0393_9th_style.png        |0393 波加曼
+Pokemon_0394_9th_style.png        |0394 波皇子
+Pokemon_0395_9th_style.png        |0395 帝王拿波
+</gallery>
+=== 存在於神奧圖鑑的一般寶可夢(0396~0461) ===
+<gallery>
+Pokemon_0396_9th_style.png           |0396 姆克兒
+Pokemon_0397_9th_style.png           |0397 姆克鳥
+Pokemon_0398_9th_style.png           |0398 姆克鷹
+Pokemon_0398(Mega)_9th_style.png     |0398 姆克鷹(Mega進化)
+Pokemon_0399_9th_style.png           |0399 大牙狸
+Pokemon_0400_9th_style.png           |0400 大尾狸
+Pokemon_0401_9th_style.png           |0401 圓法師
+Pokemon_0402_9th_style.png           |0402 音箱蟀
+Pokemon_0403_9th_style.png           |0403 小貓怪
+Pokemon_0404_9th_style.png           |0404 勒克貓
+Pokemon_0405_9th_style.png           |0405 倫琴貓
+Pokemon_0406_9th_style.png           |0406 含羞苞
+Pokemon_0407_9th_style.png           |0407 羅絲雷朵
+Pokemon_0408_9th_style.png           |0408 頭蓋龍
+Pokemon_0409_9th_style.png           |0409 戰槌龍
+Pokemon_0410_9th_style.png           |0410 盾甲龍
+Pokemon_0411_9th_style.png           |0411 護城龍
+Pokemon_0412(Plant)_9th_style.png    |0412 結草兒(草木蓑衣)
+Pokemon_0412(Sandy)_9th_style.png    |0412 結草兒(砂土蓑衣)
+Pokemon_0412(Trash)_9th_style.png    |0412 結草兒(垃圾蓑衣)
+Pokemon_0413(Plant)_9th_style.png    |0413 結草貴婦(草木蓑衣)
+Pokemon_0413(Sandy)_9th_style.png    |0413 結草貴婦(砂土蓑衣)
+Pokemon_0413(Trash)_9th_style.png    |0413 結草貴婦(垃圾蓑衣)
+Pokemon_0414_9th_style.png           |0414 紳士蛾
+Pokemon_0415_9th_style.png           |0415 三蜜蜂
+Pokemon_0416_9th_style.png           |0416 蜂女王
+Pokemon_0417_9th_style.png           |0417 帕奇利茲
+Pokemon_0418_9th_style.png           |0418 泳圈鼬
+Pokemon_0419_9th_style.png           |0419 浮潛鼬
+Pokemon_0420_9th_style.png           |0420 櫻花寶
+Pokemon_0421(Overcast)_9th_style.png |0421 櫻花兒(陰天型態)
+Pokemon_0421(Sunshine)_9th_style.png |0421 櫻花兒(晴天型態)
+Pokemon_0422(West)_9th_style.png     |0422 無殼海兔(西海)
+Pokemon_0422(East)_9th_style.png     |0422 無殼海兔(東海)
+Pokemon_0423(West)_9th_style.png     |0423 海兔獸(西海)
+Pokemon_0423(East)_9th_style.png     |0423 海兔獸(東海)
+Pokemon_0424_9th_style.png           |0424 雙尾怪手
+Pokemon_0425_9th_style.png           |0425 飄飄球
+Pokemon_0426_9th_style.png           |0426 隨風球
+Pokemon_0427_9th_style.png           |0427 捲捲耳
+Pokemon_0428_9th_style.png           |0428 長耳兔
+Pokemon_0428(Mega)_9th_style.png     |0428 長耳兔(Mega進化)
+Pokemon_0429_9th_style.png           |0429 夢妖魔
+Pokemon_0430_9th_style.png           |0430 烏鴉頭頭
+Pokemon_0431_9th_style.png           |0431 魅力喵
+Pokemon_0432_9th_style.png           |0432 東施喵
+Pokemon_0433_9th_style.png           |0433 鈴鐺響
+Pokemon_0434_9th_style.png           |0434 臭鼬噗
+Pokemon_0435_9th_style.png           |0435 坦克臭鼬
+Pokemon_0436_9th_style.png           |0436 銅鏡怪
+Pokemon_0437_9th_style.png           |0437 青銅鐘
+Pokemon_0438_9th_style.png           |0438 盆才怪
+Pokemon_0439_9th_style.png           |0439 魔尼尼
+Pokemon_0440_9th_style.png           |0440 小福蛋
+Pokemon_0441_9th_style.png           |0441 聒噪鳥
+Pokemon_0442_9th_style.png           |0442 花岩怪
+Pokemon_0443_9th_style.png           |0443 圓陸鯊
+Pokemon_0444_9th_style.png           |0444 尖牙陸鯊
+Pokemon_0445_9th_style.png           |0445 烈咬陸鯊
+Pokemon_0445(Mega)_9th_style.png     |0445 烈咬陸鯊(Mega進化)
+Pokemon_0446_9th_style.png           |0446 小卡比獸
+Pokemon_0447_9th_style.png           |0447 利歐路
+Pokemon_0448_9th_style.png           |0448 路卡利歐
+Pokemon_0448(Mega)_9th_style.png     |0448 路卡利歐(Mega進化)
+Pokemon_0449_9th_style.png           |0449 沙河馬
+Pokemon_0450_9th_style.png           |0450 河馬獸
+Pokemon_0451_9th_style.png           |0451 鉗尾蠍
+Pokemon_0452_9th_style.png           |0452 龍王蠍
+Pokemon_0453_9th_style.png           |0453 不良蛙
+Pokemon_0454_9th_style.png           |0454 毒骷蛙
+Pokemon_0455_9th_style.png           |0455 尖牙籠
+Pokemon_0456_9th_style.png           |0456 螢光魚
+Pokemon_0457_9th_style.png           |0457 霓虹魚
+Pokemon_0458_9th_style.png           |0458 小球飛魚
+Pokemon_0459_9th_style.png           |0459 雪笠怪
+Pokemon_0460_9th_style.png           |0460 暴雪王
+Pokemon_0460(Mega)_9th_style.png     |0460 暴雪王(Mega進化)
+Pokemon_0461_9th_style.png           |0461 瑪狃拉
+</gallery>
+
+=== 神奧圖鑑外的一般寶可夢(0462~0479) ===
+<gallery>
+Pokemon_0462_9th_style.png           |0462 自爆磁怪
+Pokemon_0463_9th_style.png           |0463 大舌舔
+Pokemon_0464_9th_style.png           |0464 超甲狂犀
+Pokemon_0465_9th_style.png           |0465 巨蔓藤
+Pokemon_0466_9th_style.png           |0466 電擊魔獸
+Pokemon_0467_9th_style.png           |0467 鴨嘴炎獸
+Pokemon_0468_9th_style.png           |0468 波克基斯
+Pokemon_0469_9th_style.png           |0469 遠古巨蜓
+Pokemon_0470_9th_style.png           |0470 葉伊布
+Pokemon_0471_9th_style.png           |0471 冰伊布
+Pokemon_0472_9th_style.png           |0472 天蠍王
+Pokemon_0473_9th_style.png           |0473 象牙豬
+Pokemon_0474_9th_style.png           |0474 多邊獸Ｚ
+Pokemon_0475_9th_style.png           |0475 艾路雷朵
+Pokemon_0475(Mega)_9th_style.png     |0475 艾路雷朵(Mega進化)
+Pokemon_0476_9th_style.png           |0476 大朝北鼻
+Pokemon_0477_9th_style.png           |0477 黑夜魔靈
+Pokemon_0478_9th_style.png           |0478 雪妖女
+Pokemon_0478(Mega)_9th_style.png     |0478 雪妖女(Mega進化)
+Pokemon_0479_9th_style.png           |0479 洛托姆
+Pokemon_0479(Heat)_9th_style.png     |0479 加熱洛托姆
+Pokemon_0479(Wash)_9th_style.png     |0479 清洗洛托姆
+Pokemon_0479(Frost)_9th_style.png    |0479 結冰洛托姆
+Pokemon_0479(Fan)_9th_style.png      |0479 旋轉洛托姆
+Pokemon_0479(Mow)_9th_style.png      |0479 切割洛托姆
+</gallery>
+
+===傳說、幻之寶可夢(除了阿爾宙斯)(0480~0492)===
+<gallery>
+Pokemon_0480_9th_style.png           |0480 由克希
+Pokemon_0481_9th_style.png           |0481 艾姆利多
+Pokemon_0482_9th_style.png           |0482 亞克諾姆
+Pokemon_0483_9th_style.png           |0483 帝牙盧卡
+Pokemon_0483(Origin)_9th_style.png   |0483 帝牙盧卡(起源形態)
+Pokemon_0484_9th_style.png           |0484 帕路奇亞
+Pokemon_0484(Origin)_9th_style.png   |0484 帕路奇亞(起源形態)
+Pokemon_0485_9th_style.png           |0485 席多藍恩
+Pokemon_0486_9th_style.png           |0486 雷吉奇卡斯
+Pokemon_0487_9th_style.png           |0487 騎拉帝納
+Pokemon_0487(Origin)_9th_style.png   |0487 騎拉帝納(起源形態)
+Pokemon_0488_9th_style.png           |0488 克雷色利亞
+Pokemon_0489_9th_style.png           |0489 霏歐納
+Pokemon_0490_9th_style.png           |0490 瑪納霏
+Pokemon_0491_9th_style.png           |0491 達克萊伊
+Pokemon_0492_9th_style.png           |0492 謝米(地上型態)
+Pokemon_0492(Sky)_9th_style.png      |0492 謝米(天空型態)
+</gallery>
+
+=== 阿爾宙斯(0493) ===
+一般屬性的阿爾宙斯裝備石板後可以變成其他17個屬性，所以專門列出。
+<gallery>
+Pokemon_0493_9th_style.png           |0493 阿爾宙斯
+Pokemon_0493(Fighting)_9th_style.png |0493 阿爾宙斯(裝備拳頭石板或格鬥Z，變成格鬥屬性)
+Pokemon_0493(Flying)_9th_style.png   |0493 阿爾宙斯(裝備藍天石板或飛行Z，變成飛行屬性)
+Pokemon_0493(Poison)_9th_style.png   |0493 阿爾宙斯(裝備劇毒石板或毒Z，變成毒屬性)
+Pokemon_0493(Ground)_9th_style.png   |0493 阿爾宙斯(裝備大地石板或地面Z，變成地面屬性)
+Pokemon_0493(Rock)_9th_style.png     |0493 阿爾宙斯(裝備岩石石板或岩石Z，變成岩石屬性)
+Pokemon_0493(Bug)_9th_style.png      |0493 阿爾宙斯(裝備玉蟲石板或蟲Z，變成蟲屬性)
+Pokemon_0493(Ghost)_9th_style.png    |0493 阿爾宙斯(裝備妖怪石板或幽靈Z，變成幽靈屬性)
+Pokemon_0493(Steel)_9th_style.png    |0493 阿爾宙斯(裝備鋼鐵石板或鋼Z，變成鋼屬性)
+Pokemon_0493(Fire)_9th_style.png     |0493 阿爾宙斯(裝備火球石板或火Z，變成火屬性)
+Pokemon_0493(Water)_9th_style.png    |0493 阿爾宙斯(裝備水滴石板或水Z，變成水屬性)
+Pokemon_0493(Grass)_9th_style.png    |0493 阿爾宙斯(裝備碧綠石板或草Z，變成草屬性)
+Pokemon_0493(Electric)_9th_style.png |0493 阿爾宙斯(裝備雷電石板或電Z，變成電屬性)
+Pokemon_0493(Psychic)_9th_style.png  |0493 阿爾宙斯(裝備神奇石板或超能力Z，變成超能力屬性)
+Pokemon_0493(Ice)_9th_style.png      |0493 阿爾宙斯(裝備冰柱石板或冰Z，變成冰屬性)
+Pokemon_0493(Dragon)_9th_style.png   |0493 阿爾宙斯(裝備龍之石板或龍Z，變成龍屬性)
+Pokemon_0493(Dark)_9th_style.png     |0493 阿爾宙斯(裝備惡顏石板或惡Z，變成惡屬性)
+Pokemon_0493(Fairy)_9th_style.png    |0493 阿爾宙斯(裝備妖精石板或妖精Z，變成妖精屬性)
+</gallery>
+
+== [[寶可夢列表-第五世代|第五世代(0494~0649)]] ==
+=== 比克提尼 (0494) ===
+<gallery>
+Pokemon_0494_9th_style.png          |0494 比克提尼
+</gallery>
+=== 御三家(0495~0503) ===
+<gallery>
+Pokemon_0495_9th_style.png         |0495 藤藤蛇
+Pokemon_0496_9th_style.png         |0496 青藤蛇
+Pokemon_0497_9th_style.png         |0497 君主蛇
+Pokemon_0498_9th_style.png         |0498 暖暖豬
+Pokemon_0499_9th_style.png         |0499 炒炒豬
+Pokemon_0500_9th_style.png         |0500 炎武王
+Pokemon_0500(Mega)_9th_style.png   |0500 炎武王(Mega進化)
+Pokemon_0501_9th_style.png         |0501 水水獺
+Pokemon_0502_9th_style.png         |0502 雙刃丸
+Pokemon_0503_9th_style.png         |0503 大劍鬼
+Pokemon_0503(Hisui)_9th_style.png  |0503 大劍鬼(洗翠的樣子)
+</gallery>
+
+=== 一般寶可夢(0504~0584) ===
+<gallery>
+Pokemon_0504_9th_style.png                 |0504 探探鼠
+Pokemon_0505_9th_style.png                 |0505 步哨鼠
+Pokemon_0506_9th_style.png                 |0506 小約克
+Pokemon_0507_9th_style.png                 |0507 哈約克
+Pokemon_0508_9th_style.png                 |0508 長毛狗
+Pokemon_0509_9th_style.png                 |0509 扒手貓
+Pokemon_0510_9th_style.png                 |0510 酷豹
+Pokemon_0511_9th_style.png                 |0511 花椰猴
+Pokemon_0512_9th_style.png                 |0512 花椰猿
+Pokemon_0513_9th_style.png                 |0513 爆香猴
+Pokemon_0514_9th_style.png                 |0514 爆香猿
+Pokemon_0515_9th_style.png                 |0515 冷水猴
+Pokemon_0516_9th_style.png                 |0516 冷水猿
+Pokemon_0517_9th_style.png                 |0517 食夢夢
+Pokemon_0518_9th_style.png                 |0518 夢夢蝕
+Pokemon_0519_9th_style.png                 |0519 豆豆鴿
+Pokemon_0520_9th_style.png                 |0520 咕咕鴿
+Pokemon_0521(male)_9th_style.png           |0521 高傲雉雞(雄性的樣子)
+Pokemon_0521(female)_9th_style.png         |0521 高傲雉雞(雌性的樣子)
+Pokemon_0522_9th_style.png                 |0522 斑斑馬
+Pokemon_0523_9th_style.png                 |0523 雷電斑馬
+Pokemon_0524_9th_style.png                 |0524 石丸子
+Pokemon_0525_9th_style.png                 |0525 地幔岩
+Pokemon_0526_9th_style.png                 |0526 龐岩怪
+Pokemon_0527_9th_style.png                 |0527 滾滾蝙蝠
+Pokemon_0528_9th_style.png                 |0528 心蝙蝠
+Pokemon_0529_9th_style.png                 |0529 螺釘地鼠
+Pokemon_0530_9th_style.png                 |0530 龍頭地鼠
+Pokemon_0530(Mega)_9th_style.png           |0530 龍頭地鼠(Mega進化)
+Pokemon_0531_9th_style.png                 |0531 差不多娃娃
+Pokemon_0531(Mega)_9th_style.png           |0531 差不多娃娃(Mega進化)
+Pokemon_0532_9th_style.png                 |0532 搬運小匠
+Pokemon_0533_9th_style.png                 |0533 鐵骨土人
+Pokemon_0534_9th_style.png                 |0534 修建老匠
+Pokemon_0535_9th_style.png                 |0535 圓蝌蚪
+Pokemon_0536_9th_style.png                 |0536 藍蟾蜍
+Pokemon_0537_9th_style.png                 |0537 蟾蜍王
+Pokemon_0538_9th_style.png                 |0538 投摔鬼
+Pokemon_0539_9th_style.png                 |0539 打擊鬼
+Pokemon_0540_9th_style.png                 |0540 蟲寶包
+Pokemon_0541_9th_style.png                 |0541 寶包繭
+Pokemon_0542_9th_style.png                 |0542 保母蟲
+Pokemon_0543_9th_style.png                 |0543 百足蜈蚣
+Pokemon_0544_9th_style.png                 |0544 車輪毬
+Pokemon_0545_9th_style.png                 |0545 蜈蚣王
+Pokemon_0545(Mega)_9th_style.png           |0545 蜈蚣王(Mega進化)
+Pokemon_0546_9th_style.png                 |0546 木棉球
+Pokemon_0547_9th_style.png                 |0547 風妖精
+Pokemon_0548_9th_style.png                 |0548 百合根娃娃
+Pokemon_0549_9th_style.png                 |0549 裙兒小姐
+Pokemon_0549(Hisui)_9th_style.png          |0549 裙兒小姐(洗翠的樣子)
+Pokemon_0550(Red)_9th_style.png            |0550 野蠻鱸魚(紅條紋的樣子)
+Pokemon_0550(Blue)_9th_style.png           |0550 野蠻鱸魚(藍條紋的樣子)
+Pokemon_0550(White)_9th_style.png          |0550 野蠻鱸魚(白條紋的樣子)
+Pokemon_0551_9th_style.png                 |0551 黑眼鱷
+Pokemon_0552_9th_style.png                 |0552 混混鱷
+Pokemon_0553_9th_style.png                 |0553 流氓鱷
+Pokemon_0554_9th_style.png                 |0554 火紅不倒翁
+Pokemon_0554(Galar)_9th_style.png          |0554 火紅不倒翁(伽勒爾的樣子)
+Pokemon_0555_9th_style.png                 |0555 達摩狒狒
+Pokemon_0555(Galar)_9th_style.png          |0555 達摩狒狒(伽勒爾的樣子)
+Pokemon_0555(Zen_Mode)_9th_style.png       |0555 達摩狒狒(達摩模式)
+Pokemon_0555(Galar_Zen_Mode)_9th_style.png |0555 達摩狒狒(伽勒爾的樣子，達摩模式)
+Pokemon_0556_9th_style.png                 |0556 沙鈴仙人掌
+Pokemon_0557_9th_style.png                 |0557 石居蟹
+Pokemon_0558_9th_style.png                 |0558 岩殿居蟹
+Pokemon_0559_9th_style.png                 |0559 滑滑小子
+Pokemon_0560_9th_style.png                 |0560 頭巾混混
+Pokemon_0560(Mega)_9th_style.png           |0560 頭巾混混(Mega進化)
+Pokemon_0561_9th_style.png                 |0561 象徵鳥
+Pokemon_0562_9th_style.png                 |0562 哭哭面具
+Pokemon_0562(Galar)_9th_style.png          |0562 哭哭面具(伽勒爾的樣子)
+Pokemon_0563_9th_style.png                 |0563 死神棺
+Pokemon_0564_9th_style.png                 |0564 原蓋海龜
+Pokemon_0565_9th_style.png                 |0565 肋骨海龜
+Pokemon_0566_9th_style.png                 |0566 始祖小鳥
+Pokemon_0567_9th_style.png                 |0567 始祖大鳥
+Pokemon_0568_9th_style.png                 |0568 破破袋
+Pokemon_0569_9th_style.png                 |0569 灰塵山
+Garbodor-gigantamax.png                    |0569 灰塵山(超極巨化)
+Pokemon_0570_9th_style.png                 |0570 索羅亞
+Pokemon_0570(Hisui)_9th_style.png          |0570 索羅亞(洗翠的樣子)
+Pokemon_0571_9th_style.png                 |0571 索羅亞克
+Pokemon_0571(Hisui)_9th_style.png          |0571 索羅亞克(洗翠的樣子)
+Pokemon_0572_9th_style.png                 |0572 泡沫栗鼠
+Pokemon_0573_9th_style.png                 |0573 奇諾栗鼠
+Pokemon_0574_9th_style.png                 |0574 哥德寶寶
+Pokemon_0575_9th_style.png                 |0575 哥德小童
+Pokemon_0576_9th_style.png                 |0576 哥德小姐
+Pokemon_0577_9th_style.png                 |0577 單卵細胞球
+Pokemon_0578_9th_style.png                 |0578 雙卵細胞球
+Pokemon_0579_9th_style.png                 |0579 人造細胞卵
+Pokemon_0580_9th_style.png                 |0580 鴨寶寶
+Pokemon_0581_9th_style.png                 |0581 舞天鵝
+Pokemon_0582_9th_style.png                 |0582 迷你冰
+Pokemon_0583_9th_style.png                 |0583 多多冰
+Pokemon_0584_9th_style.png                 |0584 雙倍多多冰
+</gallery>
+
+=== 四季鹿一家(0585~0586) ===
+四季鹿一家依照季節(第五世代)或存檔時的所在位置(第九世代)來切換形態，第六、七世代則固定為春天的樣子
+<gallery>
+Pokemon_0585(Spring)_9th_style.png         |0585 四季鹿(春天的樣子)
+Pokemon_0585(Summer)_9th_style.png         |0585 四季鹿(夏天的樣子)
+Pokemon_0585(Autumn)_9th_style.png         |0585 四季鹿(秋天的樣子)
+Pokemon_0585(Winter)_9th_style.png         |0585 四季鹿(冬天的樣子)
+</gallery>
+<gallery>
+Pokemon_0586(Spring)_9th_style.png         |0586 萌芽鹿(春天的樣子)
+Pokemon_0586(Summer)_9th_style.png         |0586 萌芽鹿(夏天的樣子)
+Pokemon_0586(Autumn)_9th_style.png         |0586 萌芽鹿(秋天的樣子)
+Pokemon_0586(Winter)_9th_style.png         |0586 萌芽鹿(冬天的樣子)
+</gallery>
+
+=== 一般寶可夢(0587~0637) ===
+<gallery>
+Pokemon_0587_9th_style.png                 |0587 電飛鼠
+Pokemon_0588_9th_style.png                 |0588 蓋蓋蟲
+Pokemon_0589_9th_style.png                 |0589 騎士蝸牛
+Pokemon_0590_9th_style.png                 |0590 哎呀球菇
+Pokemon_0591_9th_style.png                 |0591 敗露球菇
+Pokemon_0592(male)_9th_style.png           |0592 輕飄飄(雄性的樣子)
+Pokemon_0592(female)_9th_style.png         |0592 輕飄飄(雌性的樣子)
+Pokemon_0593(male)_9th_style.png           |0593 胖嘟嘟(雄性的樣子)
+Pokemon_0593(female)_9th_style.png         |0593 胖嘟嘟(雌性的樣子)
+Pokemon_0594_9th_style.png                 |0594 保母曼波
+Pokemon_0595_9th_style.png                 |0595 電電蟲
+Pokemon_0596_9th_style.png                 |0596 電蜘蛛
+Pokemon_0597_9th_style.png                 |0597 種子鐵球
+Pokemon_0598_9th_style.png                 |0598 堅果啞鈴
+Pokemon_0599_9th_style.png                 |0599 齒輪兒
+Pokemon_0600_9th_style.png                 |0600 齒輪組
+Pokemon_0601_9th_style.png                 |0601 齒輪怪
+Pokemon_0602_9th_style.png                 |0602 麻麻小魚
+Pokemon_0603_9th_style.png                 |0603 麻麻鰻
+Pokemon_0604_9th_style.png                 |0604 麻麻鰻魚王
+Pokemon_0604(Mega)_9th_style.png           |0604 麻麻鰻魚王(Mega進化)
+Pokemon_0605_9th_style.png                 |0605 小灰怪
+Pokemon_0606_9th_style.png                 |0606 大宇怪
+Pokemon_0607_9th_style.png                 |0607 燭光靈
+Pokemon_0608_9th_style.png                 |0608 燈火幽靈
+Pokemon_0609_9th_style.png                 |0609 水晶燈火靈
+Pokemon_0609(Mega)_9th_style.png           |0609 水晶燈火靈(Mega進化)
+Pokemon_0610_9th_style.png                 |0610 牙牙
+Pokemon_0611_9th_style.png                 |0611 斧牙龍
+Pokemon_0612_9th_style.png                 |0612 雙斧戰龍
+Pokemon_0613_9th_style.png                 |0613 噴嚏熊
+Pokemon_0614_9th_style.png                 |0614 凍原熊
+Pokemon_0615_9th_style.png                 |0615 幾何雪花
+Pokemon_0616_9th_style.png                 |0616 小嘴蝸
+Pokemon_0617_9th_style.png                 |0617 敏捷蟲
+Pokemon_0618_9th_style.png                 |0618 泥巴魚
+Pokemon_0618(Galar)_9th_style.png          |0618 泥巴魚(伽勒爾的樣子)
+Pokemon_0619_9th_style.png                 |0619 功夫鼬
+Pokemon_0620_9th_style.png                 |0620 師父鼬
+Pokemon_0621_9th_style.png                 |0621 赤面龍
+Pokemon_0622_9th_style.png                 |0622 泥偶小人
+Pokemon_0623_9th_style.png                 |0623 泥偶巨人
+Pokemon_0623(Mega)_9th_style.png           |0623 泥偶巨人(Mega進化)
+Pokemon_0624_9th_style.png                 |0624 駒刀小兵
+Pokemon_0625_9th_style.png                 |0625 劈斬司令
+Pokemon_0626_9th_style.png                 |0626 爆炸頭水牛
+Pokemon_0627_9th_style.png                 |0627 毛頭小鷹
+Pokemon_0628_9th_style.png                 |0628 勇士雄鷹
+Pokemon_0628(Hisui)_9th_style.png          |0628 勇士雄鷹(洗翠的樣子)
+Pokemon_0629_9th_style.png                 |0629 禿鷹丫頭
+Pokemon_0630_9th_style.png                 |0630 禿鷹娜
+Pokemon_0631_9th_style.png                 |0631 熔蟻獸
+Pokemon_0632_9th_style.png                 |0632 鐵蟻
+Pokemon_0633_9th_style.png                 |0633 單首龍
+Pokemon_0634_9th_style.png                 |0634 雙首暴龍
+Pokemon_0635_9th_style.png                 |0635 三首惡龍
+Pokemon_0636_9th_style.png                 |0636 燃燒蟲
+Pokemon_0637_9th_style.png                 |0637 火神蛾
+</gallery>
+
+=== 傳說、幻之寶可夢(0638~0649) ===
+<gallery>
+Pokemon_0638_9th_style.png                 |0638 勾帕路翁
+Pokemon_0639_9th_style.png                 |0639 代拉基翁
+Pokemon_0640_9th_style.png                 |0640 畢力吉翁
+Pokemon_0641_9th_style.png                 |0641 龍捲雲
+Pokemon_0641(Therian)_9th_style.png        |0641 龍捲雲(靈獸型態)
+Pokemon_0642_9th_style.png                 |0642 雷電雲
+Pokemon_0642(Therian)_9th_style.png        |0642 雷電雲(靈獸型態)
+Pokemon_0643_9th_style.png                 |0643 萊希拉姆
+Pokemon_0644_9th_style.png                 |0644 捷克羅姆
+Pokemon_0645_9th_style.png                 |0645 土地雲
+Pokemon_0645(Therian)_9th_style.png        |0645 土地雲(靈獸型態)
+Pokemon_0646_9th_style.png                 |0646 酋雷姆
+Pokemon_0646(White)_9th_style.png          |0646 焰白酋雷姆
+Pokemon_0646(Black)_9th_style.png          |0646 闇黑酋雷姆
+Pokemon_0647_9th_style.png                 |0647 凱路迪歐(平常的樣子)
+Pokemon_0647(Resolution)_9th_style.png     |0647 凱路迪歐(覺悟的樣子)
+Pokemon_0648_9th_style.png                 |0648 美洛耶塔(歌聲形態)
+Pokemon_0648(Pirouette)_9th_style.png      |0648 美洛耶塔(舞步形態)
+Pokemon_0649_9th_style.png                 |0649 蓋諾賽克特
+Pokemon_0649(DouseDrive)_9th_style.png     |0649 蓋諾賽克特(攜帶水流卡帶)
+Pokemon_0649(ShockDrive)_9th_style.png     |0649 蓋諾賽克特(攜帶閃電卡帶)
+Pokemon_0649(BurnDrive)_9th_style.png      |0649 蓋諾賽克特(攜帶火焰卡帶)
+Pokemon_0649(ChillDrive)_9th_style.png     |0649 蓋諾賽克特(攜帶冰凍卡帶)
+</gallery>
+
+== [[寶可夢列表-第六世代|第六世代(0650~0721)]] ==
+===御三家(0650~0658)===
+<gallery>
+Pokemon_0650_9th_style.png      |0650 哈力栗
+Pokemon_0651_9th_style.png      |0651 胖胖哈力
+Pokemon_0652_9th_style.png      |0652 布里卡隆
+Pokemon_0652(Mega)_9th_style.png|0652 布里卡隆(Mega進化)
+Pokemon_0653_9th_style.png      |0653 火狐狸
+Pokemon_0654_9th_style.png      |0654 長尾火狐
+Pokemon_0655_9th_style.png      |0655 妖火紅狐
+Pokemon_0655(Mega)_9th_style.png|0655 妖火紅狐(Mega進化)
+Pokemon_0656_9th_style.png      |0656 呱呱泡蛙
+Pokemon_0657_9th_style.png      |0657 呱頭蛙
+Pokemon_0658_9th_style.png      |0658 甲賀忍蛙
+Pokemon_0658(Ash)_9th_style.png |0658 甲賀忍蛙(小智版)
+Pokemon_0658(Mega)_9th_style.png|0658 甲賀忍蛙(Mega進化)
+</gallery>
+
+=== 一般寶可夢(0659~0663) ===
+<gallery>
+Pokemon_0659_9th_style.png      |0659 掘掘兔
+Pokemon_0660_9th_style.png      |0660 掘地兔
+Pokemon_0661_9th_style.png      |0661 小箭雀
+Pokemon_0662_9th_style.png      |0662 火箭雀
+Pokemon_0663_9th_style.png      |0663 烈箭鷹
+</gallery>
+
+=== 粉蝶蟲一家(0664~0666) ===
+彩粉蝶多達20種花色（其中18個是地區限定(3DS主機的地區或[[精靈寶可夢GO]]的手機GPS位置)，球球花紋僅能由官方活動贈送取得，而幻彩花紋則是一次GTS活動或是第九世代的《朱‧紫》）
+<gallery>
+Pokemon_0664_9th_style.png        |0664 粉蝶蟲
+Pokemon_0665_9th_style.png        |0665 粉蝶蛹
+</gallery>
+<gallery perrow=5>
+Pokemon_0666(Icy Snow)_9th_style.png   |0666 彩粉蝶(冰雪花紋)
+Pokemon_0666(Polar)_9th_style.png      |0666 彩粉蝶(雪國花紋)
+Pokemon_0666(Tundra)_9th_style.png     |0666 彩粉蝶(雪原花紋)
+Pokemon_0666(Continental)_9th_style.png|0666 彩粉蝶(大陸花紋)
+Pokemon_0666(Garden)_9th_style.png     |0666 彩粉蝶(庭園花紋)
+Pokemon_0666(Elegant)_9th_style.png    |0666 彩粉蝶(高雅花紋)
+Pokemon_0666(Meadow)_9th_style.png     |0666 彩粉蝶(花園花紋)
+Pokemon_0666(Modern)_9th_style.png     |0666 彩粉蝶(摩登花紋)
+Pokemon_0666(Marine)_9th_style.png     |0666 彩粉蝶(大海花紋)
+Pokemon_0666(Archipelago)_9th_style.png|0666 彩粉蝶(群島花紋)
+Pokemon_0666(HighPlains)_9th_style.png |0666 彩粉蝶(荒野花紋)
+Pokemon_0666(Sandstorm)_9th_style.png  |0666 彩粉蝶(沙塵花紋)
+Pokemon_0666(River)_9th_style.png      |0666 彩粉蝶(大河花紋)
+Pokemon_0666(Monsoon)_9th_style.png    |0666 彩粉蝶(驟雨花紋)
+Pokemon_0666(Savanna)_9th_style.png    |0666 彩粉蝶(熱帶草原花紋)
+Pokemon_0666(Sun)_9th_style.png        |0666 彩粉蝶(太陽花紋)
+Pokemon_0666(Ocean)_9th_style.png      |0666 彩粉蝶(大洋花紋)
+Pokemon_0666(Jungle)_9th_style.png     |0666 彩粉蝶(熱帶雨林花紋)
+Pokemon_0666(Poké_Ball)_9th_style.png  |0666 彩粉蝶(球球花紋)
+Pokemon_0666(Fancy)_9th_style.png      |0666 彩粉蝶(幻彩花紋)
+</gallery>
+
+=== 小獅獅一家(0667~0668) ===
+單純在兩個多圖系列中間而已
+<gallery>
+Pokemon_0667_9th_style.png         |0667 小獅獅
+Pokemon_0668(male)_9th_style.png   |0668 火炎獅(雄性的樣子)
+Pokemon_0668(female)_9th_style.png |0668 火炎獅(雌性的樣子)
+Pokemon_0668(Mega)_9th_style.png   |0668 火炎獅(Mega進化)
+</gallery>
+
+=== 花蓓蓓一家(0669~0671) ===
+花蓓蓓一家每一階段都有5種花色外加永恆之花(至今無法獲得的特殊形態)花葉蒂就有16張圖
+<gallery>
+Pokemon_0669_9th_style.png           |0669 花蓓蓓(紅花)
+Pokemon_0669(Yellow)_9th_style.png   |0669 花蓓蓓(黃花)
+Pokemon_0669(Orange)_9th_style.png   |0669 花蓓蓓(橙花)
+Pokemon_0669(Blue)_9th_style.png     |0669 花蓓蓓(藍花)
+Pokemon_0669(White)_9th_style.png    |0669 花蓓蓓(白花)
+</gallery>
+<gallery>
+Pokemon_0670_9th_style.png           |0670 花葉蒂(紅花)
+Pokemon_0670(Yellow)_9th_style.png   |0670 花葉蒂(黃花)
+Pokemon_0670(Orange)_9th_style.png   |0670 花葉蒂(橙花)
+Pokemon_0670(Blue)_9th_style.png     |0670 花葉蒂(藍花)
+Pokemon_0670(White)_9th_style.png    |0670 花葉蒂(白花)
+Pokemon_0670(AZ)_9th_style.png       |0670 花葉蒂(永恆之花)
+Pokemon_0670(Mega)_9th_style.png     |0670 花葉蒂(Mega進化)
+</gallery>
+<gallery>
+Pokemon_0671_9th_style.png           |0671 花潔夫人(紅花)
+Pokemon_0671(Yellow)_9th_style.png   |0671 花潔夫人(黃花)
+Pokemon_0671(Orange)_9th_style.png   |0671 花潔夫人(橙花)
+Pokemon_0671(Blue)_9th_style.png     |0671 花潔夫人(藍花)
+Pokemon_0671(White)_9th_style.png    |0671 花潔夫人(白花)
+</gallery>
+
+=== 坐騎小羊一家、頑皮熊貓一家(0672~0675) ===
+<gallery>
+Pokemon_0672_9th_style.png |0672 坐騎小羊
+Pokemon_0673_9th_style.png |0673 坐騎山羊
+Pokemon_0674_9th_style.png |0674 頑皮熊貓
+Pokemon_0675_9th_style.png |0675 流氓熊貓
+</gallery>
+
+=== 多麗米亞(0676) ===
+多麗米亞可以藉由理髮來暫時從野生的樣子修剪成其他造型，[[Pokemon GO]]則是可以上傳到Home而保持抓到時的造型。
+<gallery perrow=5>
+Pokemon_0676_9th_style.png             |0676 多麗米亞(野生的樣子)
+Pokemon_0676(Heart)_9th_style.png      |0676 多麗米亞(心形造型)
+Pokemon_0676(Star)_9th_style.png       |0676 多麗米亞(星形造型)
+Pokemon_0676(Diamond)_9th_style.png    |0676 多麗米亞(菱形造型)
+Pokemon_0676(Deputante)_9th_style.png  |0676 多麗米亞(淑女造型)
+Pokemon_0676(Matron)_9th_style.png     |0676 多麗米亞(貴婦造型)
+Pokemon_0676(Dandy)_9th_style.png      |0676 多麗米亞(紳士造型)
+Pokemon_0676(LaReine)_9th_style.png    |0676 多麗米亞(女王造型)
+Pokemon_0676(Kabuki)_9th_style.png     |0676 多麗米亞(歌舞伎造型)
+Pokemon_0676(Pharaoh)_9th_style.png    |0676 多麗米亞(國王造型)
+</gallery>
+
+=== 一般寶可夢(0677~0715) ===
+<gallery>
+Pokemon_0677_9th_style.png               |0677 妙喵
+Pokemon_0678(male)_9th_style.png         |0678 超能妙喵(雄性的樣子)
+Pokemon_0678(female)_9th_style.png       |0678 超能妙喵(雌性的樣子)
+Pokemon_0678(Mega)_9th_style.png         |0678 超能妙喵(Mega進化)
+Pokemon_0679_9th_style.png               |0679 獨劍鞘
+Pokemon_0680_9th_style.png               |0680 雙劍鞘
+Pokemon_0681(Shield)_9th_style.png       |0681 堅盾劍怪(盾牌形態)
+Pokemon_0681(Blade)_9th_style.png        |0681 堅盾劍怪(刀劍形態)
+Pokemon_0682_9th_style.png               |0682 粉香香
+Pokemon_0683_9th_style.png               |0683 芳香精
+Pokemon_0684_9th_style.png               |0684 綿綿泡芙
+Pokemon_0685_9th_style.png               |0685 胖甜妮
+Pokemon_0686_9th_style.png               |0686 好啦魷
+Pokemon_0687_9th_style.png               |0687 烏賊王
+Pokemon_0687(Mega)_9th_style.png         |0687 烏賊王(Mega進化)
+Pokemon_0688_9th_style.png               |0688 龜腳腳
+Pokemon_0689_9th_style.png               |0689 龜足巨鎧
+Pokemon_0689(Mega)_9th_style.png         |0689 龜足巨鎧(Mega進化)
+Pokemon_0690_9th_style.png               |0690 垃垃藻
+Pokemon_0691_9th_style.png               |0691 毒藻龍
+Pokemon_0691(Mega)_9th_style.png         |0691 毒藻龍(Mega進化)
+Pokemon_0692_9th_style.png               |0692 鐵臂槍蝦
+Pokemon_0693_9th_style.png               |0693 鋼炮臂蝦
+Pokemon_0694_9th_style.png               |0694 傘電蜥
+Pokemon_0695_9th_style.png               |0695 光電傘蜥
+Pokemon_0696_9th_style.png               |0696 寶寶暴龍
+Pokemon_0697_9th_style.png               |0697 怪顎龍
+Pokemon_0698_9th_style.png               |0698 冰雪龍
+Pokemon_0699_9th_style.png               |0699 冰雪巨龍
+Pokemon_0700_9th_style.png               |0700 仙子伊布
+Pokemon_0701_9th_style.png               |0701 摔角鷹人
+Pokemon_0701(Mega)_9th_style.png         |0701 摔角鷹人(Mega進化)
+Pokemon_0702_9th_style.png               |0702 咚咚鼠
+Pokemon_0703_9th_style.png               |0703 小碎鑽
+Pokemon_0704_9th_style.png               |0704 黏黏寶
+Pokemon_0705_9th_style.png               |0705 黏美兒
+Pokemon_0705(Hisui)_9th_style.png        |0705 黏美兒(洗翠的樣子)
+Pokemon_0706_9th_style.png               |0706 黏美龍
+Pokemon_0706(Hisui)_9th_style.png        |0706 黏美龍(洗翠的樣子)
+Pokemon_0707_9th_style.png               |0707 鑰圈兒
+Pokemon_0708_9th_style.png               |0708 小木靈
+Pokemon_0709_9th_style.png               |0709 朽木妖
+Pokemon_0710_9th_style.png               |0710 南瓜精(普通尺寸)
+Pokemon_0710(Small)_9th_style.png        |0710 南瓜精(小尺寸)
+Pokemon_0710(Large)_9th_style.png        |0710 南瓜精(大尺寸)
+Pokemon_0710(Super)_9th_style.png        |0710 南瓜精(特大尺寸)
+Pokemon_0711_9th_style.png               |0711 南瓜怪人(普通尺寸)
+Pokemon_0711(Small)_9th_style.png        |0711 南瓜怪人(小尺寸)
+Pokemon_0711(Large)_9th_style.png        |0711 南瓜怪人(大尺寸)
+Pokemon_0711(Super)_9th_style.png        |0711 南瓜怪人(特大尺寸)
+Pokemon_0712_9th_style.png               |0712 冰寶
+Pokemon_0713_9th_style.png               |0713 冰岩怪
+Pokemon_0713(Hisui)_9th_style.png        |0713 冰岩怪(洗翠的樣子)
+Pokemon_0714_9th_style.png               |0714 嗡蝠
+Pokemon_0715_9th_style.png               |0715 音波龍
+</gallery>
+
+=== 傳說、幻之寶可夢(0716~0721) ===
+<gallery>
+Pokemon_0716_9th_style.png           |0716 哲爾尼亞斯(活躍模式)
+Pokemon_0716(Neutral)_9th_style.png  |0716 哲爾尼亞斯(放鬆模式)
+Pokemon_0717_9th_style.png           |0717 伊裴爾塔爾
+Pokemon_0718_9th_style.png           |0718 基格爾德(５０％形態)
+Pokemon_0718(10Percent)_9th_style.png|0718 基格爾德(１０％形態)
+Pokemon_0718(Complete)_9th_style.png |0718 基格爾德(完全體形態)
+Pokemon_0719_9th_style.png           |0719 蒂安希
+Pokemon_0719(Mega)_9th_style.png     |0719 蒂安希(Mega進化)
+Pokemon_0720(Confined)_9th_style.png |0720 胡帕(懲戒胡帕)
+Pokemon_0720(Unbound)_9th_style.png  |0720 胡帕(解放胡帕)
+Pokemon_0721_9th_style.png           |0721 波爾凱尼恩
+</gallery>
+
+== [[寶可夢列表-第七世代|第七世代(0722~0809)]] ==
+===御三家(0722~0730)===
+<gallery>
+Pokemon_0722_9th_style.png        |0722 木木梟
+Pokemon_0723_9th_style.png        |0723 投羽梟
+Pokemon_0724_9th_style.png        |0724 狙射樹梟
+Pokemon_0724(Hisui)_9th_style.png |0724 狙射樹梟(洗翠的樣子)
+Pokemon_0725_9th_style.png        |0725 火斑喵
+Pokemon_0726_9th_style.png        |0726 炎熱喵
+Pokemon_0727_9th_style.png        |0727 熾焰咆哮虎
+Pokemon_0728_9th_style.png        |0728 球球海獅
+Pokemon_0729_9th_style.png        |0729 花漾海獅
+Pokemon_0730_9th_style.png        |0730 西獅海壬
+</gallery>
+===一般寶可夢(0731~0773)===
+<gallery>
+Pokemon_0731_9th_style.png              |0731 小篤兒
+Pokemon_0732_9th_style.png              |0732 喇叭啄鳥
+Pokemon_0733_9th_style.png              |0733 銃嘴大鳥
+Pokemon_0734_9th_style.png              |0734 貓鼬少
+Pokemon_0735_9th_style.png              |0735 貓鼬探長
+Pokemon_0736_9th_style.png              |0736 強顎雞母蟲
+Pokemon_0737_9th_style.png              |0737 蟲電寶
+Pokemon_0738_9th_style.png              |0738 鍬農炮蟲
+Pokemon_0739_9th_style.png              |0739 好勝蟹
+Pokemon_0740_9th_style.png              |0740 好勝毛蟹
+Pokemon_0740(Mega)_9th_style.png        |0740 好勝毛蟹(Mega進化)
+Pokemon_0741(Baile)_9th_style.png       |0741 花舞鳥(熱辣熱辣風格)
+Pokemon_0741(Pom-Pom)_9th_style.png     |0741 花舞鳥(啪滋啪滋風格)
+Pokemon_0741(Pa'u)_9th_style.png        |0741 花舞鳥(呼拉呼拉風格)
+Pokemon_0741(Sensu)_9th_style.png       |0741 花舞鳥(輕盈輕盈風格)
+Pokemon_0742_9th_style.png              |0742 萌虻
+Pokemon_0743_9th_style.png              |0743 蝶結萌虻
+Pokemon_0744_9th_style.png              |0744 岩狗狗
+Pokemon_0745(Midday)_9th_style.png      |0745 鬃岩狼人(白晝的樣子)
+Pokemon_0745(Midnight)_9th_style.png    |0745 鬃岩狼人(黑夜的樣子)
+Pokemon_0745(Dusk)_9th_style.png        |0745 鬃岩狼人(黃昏的樣子)
+Pokemon_0746(Solo)_9th_style.png        |0746 弱丁魚(單獨的樣子)
+Pokemon_0746(School)_9th_style.png      |0746 弱丁魚(魚群的樣子)
+Pokemon_0747_9th_style.png              |0747 好壞星
+Pokemon_0748_9th_style.png              |0748 超壞星
+Pokemon_0749_9th_style.png              |0749 泥驢仔
+Pokemon_0750_9th_style.png              |0750 重泥挽馬
+Pokemon_0751_9th_style.png              |0751 滴蛛
+Pokemon_0752_9th_style.png              |0752 滴蛛霸
+Pokemon_0753_9th_style.png              |0753 偽螳草
+Pokemon_0754_9th_style.png              |0754 蘭螳花
+Pokemon_0755_9th_style.png              |0755 睡睡菇
+Pokemon_0756_9th_style.png              |0756 燈罩夜菇
+Pokemon_0757_9th_style.png              |0757 夜盜火蜥
+Pokemon_0758_9th_style.png              |0758 焰后蜥
+Pokemon_0759_9th_style.png              |0759 童偶熊
+Pokemon_0760_9th_style.png              |0760 穿著熊
+Pokemon_0761_9th_style.png              |0761 甜竹竹
+Pokemon_0762_9th_style.png              |0762 甜舞妮
+Pokemon_0763_9th_style.png              |0763 甜冷美后
+Pokemon_0764_9th_style.png              |0764 花療環環
+Pokemon_0765_9th_style.png              |0765 智揮猩
+Pokemon_0766_9th_style.png              |0766 投擲猴
+Pokemon_0767_9th_style.png              |0767 膽小蟲
+Pokemon_0768_9th_style.png              |0768 具甲武者
+Pokemon_0769_9th_style.png              |0769 沙丘娃
+Pokemon_0770_9th_style.png              |0770 噬沙堡爺
+Pokemon_0771_9th_style.png              |0771 拳海參
+Pokemon_0772_9th_style.png              |0772 屬性：空
+Pokemon_0773_9th_style.png              |0773 銀伴戰獸
+</gallery>
+
+===小隕星(0774)===
+<gallery>
+Pokemon_0774_9th_style.png                |774 小隕星(流星的樣子)
+Pokemon_0774(Red_Core)_9th_style.png      |774 小隕星(紅色核心)
+Pokemon_0774(Orange_Core)_9th_style.png   |774 小隕星(橙色核心)
+Pokemon_0774(Yellow_Core)_9th_style.png   |774 小隕星(黃色核心)
+Pokemon_0774(Green_Core)_9th_style.png    |774 小隕星(綠色核心)
+Pokemon_0774(Blue_Core)_9th_style.png     |774 小隕星(淺藍色核心)
+Pokemon_0774(Indigo_Core)_9th_style.png   |774 小隕星(藍色核心)
+Pokemon_0774(Violet_Core)_9th_style.png   |774 小隕星(紫色核心)
+</gallery>
+===一般寶可夢(0775~0784)===
+<gallery>
+Pokemon_0775_9th_style.png           |0775 樹枕尾熊
+Pokemon_0776_9th_style.png           |0776 爆焰龜獸
+Pokemon_0777_9th_style.png           |0777 托戈德瑪爾
+Pokemon_0778_9th_style.png           |0778 謎擬Ｑ
+Pokemon_0779_9th_style.png           |0779 磨牙彩皮魚
+Pokemon_0780_9th_style.png           |0780 老翁龍
+Pokemon_0780(Mega)_9th_style.png     |0780 老翁龍(Mega進化)
+Pokemon_0781_9th_style.png           |0781 破破舵輪
+Pokemon_0782_9th_style.png           |0782 心鱗寶
+Pokemon_0783_9th_style.png           |0783 鱗甲龍
+Pokemon_0784_9th_style.png           |0784 杖尾鱗甲龍
+</gallery>
+
+===傳說寶可夢、究極異獸、幻之寶可夢(0785~0809)===
+<gallery>
+Pokemon_0785_9th_style.png                 |0785 卡璞・鳴鳴
+Pokemon_0786_9th_style.png                 |0786 卡璞・蝶蝶
+Pokemon_0787_9th_style.png                 |0787 卡璞・哞哞
+Pokemon_0788_9th_style.png                 |0788 卡璞・鰭鰭
+Pokemon_0789_9th_style.png                 |0789 科斯莫古
+Pokemon_0790_9th_style.png                 |0790 科斯莫姆
+Pokemon_0791_9th_style.png                 |0791 索爾迦雷歐
+Pokemon_0792_9th_style.png                 |0792 露奈雅拉
+Pokemon_0793_9th_style.png                 |0793 虛吾伊德
+Pokemon_0794_9th_style.png                 |0794 爆肌蚊
+Pokemon_0795_9th_style.png                 |0795 費洛美螂
+Pokemon_0796_9th_style.png                 |0796 電束木
+Pokemon_0797_9th_style.png                 |0797 鐵火輝夜
+Pokemon_0798_9th_style.png                 |0798 紙御劍
+Pokemon_0799_9th_style.png                 |0799 惡食大王
+Pokemon_0800_9th_style.png                 |0800 奈克洛茲瑪(通常形態)
+Pokemon_0800(Dusk Mane)_9th_style.png      |0800 奈克洛茲瑪(黃昏之鬃)
+Pokemon_0800(Dawn Wings)_9th_style.png     |0800 奈克洛茲瑪(拂曉之翼)
+Pokemon_0800(Ultra)_9th_style.png          |0800 奈克洛茲瑪(究極奈克洛茲瑪)
+Pokemon_0801_9th_style.png                 |0801 瑪機雅娜(現在的顏色)
+Pokemon_0801(500_years_ago)_9th_style.png  |0801 瑪機雅娜(500年前的顏色)
+Pokemon_0802_9th_style.png                 |0802 瑪夏多
+Pokemon_0803_9th_style.png                 |0803 毒貝比
+Pokemon_0804_9th_style.png                 |0804 四顎針龍
+Pokemon_0805_9th_style.png                 |0805 壘磊石
+Pokemon_0806_9th_style.png                 |0806 砰頭小丑
+Pokemon_0807_9th_style.png                 |0807 捷拉奧拉
+Pokemon_0808_9th_style.png                 |0808 美錄坦
+Pokemon_0809_9th_style.png                 |0809 美錄梅塔
+Melmetal-gigantamax.png                    |0809 美錄梅塔(超極巨化)
+</gallery>
+
+== [[寶可夢列表-第八世代|第八世代(0810~0905)]] ==
+===御三家(0810~0818)===
+<gallery>
+Pokemon_0810_9th_style.png      |0810 敲音猴
+Pokemon_0811_9th_style.png      |0811 啪咚猴
+Pokemon_0812_9th_style.png      |0812 轟擂金剛猩
+Rillaboom-gigantamax.png        |0812 轟擂金剛猩(超極巨化)
+Pokemon_0813_9th_style.png      |0813 炎兔兒
+Pokemon_0814_9th_style.png      |0814 騰蹴小將
+Pokemon_0815_9th_style.png      |0815 閃焰王牌
+Cinderace-gigantamax.png        |0815 閃焰王牌(超極巨化)
+Pokemon_0816_9th_style.png      |0816 淚眼蜥
+Pokemon_0817_9th_style.png      |0817 變澀蜥
+Pokemon_0818_9th_style.png      |0818 千面避役
+Inteleon-gigantamax.png         |0818 千面避役(超極巨化)
+</gallery>
+===一般寶可夢(0819~0867)===
+<gallery>
+Pokemon_0819_9th_style.png            |0819 貪心栗鼠
+Pokemon_0820_9th_style.png            |0820 藏飽栗鼠
+Pokemon_0821_9th_style.png            |0821 稚山雀
+Pokemon_0822_9th_style.png            |0822 藍鴉
+Pokemon_0823_9th_style.png            |0823 鋼鎧鴉
+Corviknight-gigantamax.png            |0823 鋼鎧鴉(超極巨化)
+Pokemon_0824_9th_style.png            |0824 索偵蟲
+Pokemon_0825_9th_style.png            |0825 天罩蟲
+Pokemon_0826_9th_style.png            |0826 以歐路普
+Orbeetle-gigantamax.png               |0826 以歐路普(超極巨化)
+Pokemon_0827_9th_style.png            |0827 偷兒狐
+Pokemon_0828_9th_style.png            |0828 狐大盜
+Pokemon_0829_9th_style.png            |0829 幼棉棉
+Pokemon_0830_9th_style.png            |0830 白蓬蓬
+Pokemon_0831_9th_style.png            |0831 毛辮羊
+Pokemon_0832_9th_style.png            |0832 毛毛角羊
+Pokemon_0833_9th_style.png            |0833 咬咬龜
+Pokemon_0834_9th_style.png            |0834 暴噬龜
+Drednaw-gigantamax.png                |0834 暴噬龜(超極巨化)
+Pokemon_0835_9th_style.png            |0835 來電汪
+Pokemon_0836_9th_style.png            |0836 逐電犬
+Pokemon_0837_9th_style.png            |0837 小炭仔
+Pokemon_0838_9th_style.png            |0838 大炭車
+Pokemon_0839_9th_style.png            |0839 巨炭山
+Coalossal-gigantamax.png              |0839 巨炭山(超極巨化)
+Pokemon_0840_9th_style.png            |0840 啃果蟲
+Pokemon_0841_9th_style.png            |0841 蘋裹龍
+Appletun-gigantamax.png               |0841 蘋裹龍(超極巨化)
+Pokemon_0842_9th_style.png            |0842 豐蜜龍
+Appletun-gigantamax.png               |0842 豐蜜龍(超極巨化)
+Pokemon_0843_9th_style.png            |0843 沙包蛇
+Pokemon_0844_9th_style.png            |0844 沙螺蟒
+Sandaconda-gigantamax.png             |0844 沙螺蟒(超極巨化)
+Pokemon_0845_9th_style.png            |0845 古月鳥
+Pokemon_0845(Gulping)_9th_style.png   |0845 古月鳥(一口吞的樣子)
+Pokemon_0845(Gorging)_9th_style.png   |0845 古月鳥(大口吞的樣子)
+Pokemon_0846_9th_style.png            |0846 刺梭魚
+Pokemon_0847_9th_style.png            |0847 戽斗尖梭
+Pokemon_0848_9th_style.png            |0848 毒電嬰
+Pokemon_0849_9th_style.png            |0849 顫弦蠑螈(高調的樣子)
+Pokemon_0849(Low-key)_9th_style.png   |0849 顫弦蠑螈(低調的樣子)
+Toxtricity-gigantamax.png             |0849 顫弦蠑螈(超極巨化)
+Pokemon_0850_9th_style.png            |0850 燒火蚣
+Pokemon_0851_9th_style.png            |0851 焚焰蚣
+Centiskorch-gigantamax.png            |0851 焚焰蚣(超極巨化)
+Pokemon_0852_9th_style.png            |0852 拳拳蛸
+Pokemon_0853_9th_style.png            |0853 八爪武師
+Pokemon_0854_9th_style.png            |0854 來悲茶
+Pokemon_0855_9th_style.png            |0855 怖思壺
+Pokemon_0856_9th_style.png            |0856 迷布莉姆
+Pokemon_0857_9th_style.png            |0857 提布莉姆
+Pokemon_0858_9th_style.png            |0858 布莉姆溫
+Hatterene-gigantamax.png              |0858 布莉姆溫(超極巨化)
+Pokemon_0859_9th_style.png            |0859 搗蛋小妖
+Pokemon_0860_9th_style.png            |0860 詐唬魔
+Pokemon_0861_9th_style.png            |0861 長毛巨魔
+Grimmsnarl-gigantamax.png             |0861 長毛巨魔(超極巨化)
+Pokemon_0862_9th_style.png            |0862 堵攔熊
+Pokemon_0863_9th_style.png            |0863 喵頭目
+Pokemon_0864_9th_style.png            |0864 魔靈珊瑚
+Pokemon_0865_9th_style.png            |0865 蔥遊兵
+Pokemon_0866_9th_style.png            |0866 踏冰人偶
+Pokemon_0867_9th_style.png            |0867 死神板
+</gallery>
+===霜奶仙一家(0868~0869)===
+<gallery>
+Pokemon_0868_9th_style.png                |0868 小仙奶
+Pokemon_0869_9th_style.png                |0869 霜奶仙(奶香香草)
+Pokemon_0869(Ruby_Cream)_9th_style.png    |0869 霜奶仙(奶香紅鑽)
+Pokemon_0869(Matcha_Cream)_9th_style.png  |0869 霜奶仙(奶香抹茶)
+Pokemon_0869(Mint_Cream)_9th_style.png    |0869 霜奶仙(奶香薄荷)
+Pokemon_0869(Lemon_Cream)_9th_style.png   |0869 霜奶仙(奶香檸檬)
+Pokemon_0869(Salted_Cream)_9th_style.png  |0869 霜奶仙(奶香雪鹽)
+Pokemon_0869(Ruby_Swirl)_9th_style.png    |0869 霜奶仙(紅鑽綜合)
+Pokemon_0869(Caramel_Swirl)_9th_style.png |0869 霜奶仙(焦糖綜合)
+Pokemon_0869(Rainbow_Swirl)_9th_style.png |0869 霜奶仙(三色綜合)
+Alcremie-gigantamax.png                   |0869 霜奶仙(超極巨化)
+</gallery>
+===一般寶可夢(0870~0887)===
+<gallery>
+Pokemon_0870_9th_style.png                |0870 列陣兵
+Pokemon_0870(Mega)_9th_style.png          |0870 列陣兵(Mega進化)
+Pokemon_0871_9th_style.png                |0871 啪嚓海膽
+Pokemon_0872_9th_style.png                |0872 雪吞蟲
+Pokemon_0873_9th_style.png                |0873 雪絨蛾
+Pokemon_0874_9th_style.png                |0874 巨石丁
+Pokemon_0875_9th_style.png                |0875 冰砌鵝(結凍頭)
+Pokemon_0875(Thawed)_9th_style.png        |0875 冰砌鵝(解凍頭)
+Pokemon_0876(male)_9th_style.png          |0876 愛管侍(雄性的樣子)
+Pokemon_0876(female)_9th_style.png        |0876 愛管侍(雌性的樣子)
+Pokemon_0877_9th_style.png                |0877 莫魯貝可(滿腹花紋)
+Pokemon_0877(Hangry)_9th_style.png        |0877 莫魯貝可(空腹花紋)
+Pokemon_0878_9th_style.png                |0878 銅象
+Pokemon_0879_9th_style.png                |0879 大王銅象
+Copperajah-gigantamax.png                 |0879 大王銅象(超極巨化)
+Pokemon_0880_9th_style.png                |0880 雷鳥龍
+Pokemon_0881_9th_style.png                |0881 雷鳥海獸
+Pokemon_0882_9th_style.png                |0882 鰓魚龍
+Pokemon_0883_9th_style.png                |0883 鰓魚海獸
+Pokemon_0884_9th_style.png                |0884 鋁鋼龍
+Duraludon-gigantamax.png                  |0884 鋁鋼龍(超極巨化)
+Pokemon_0885_9th_style.png                |0885 多龍梅西亞
+Pokemon_0886_9th_style.png                |0886 多龍奇
+Pokemon_0887_9th_style.png                |0887 多龍巴魯托
+</gallery>
+
+===傳說、幻之寶可夢(0888~0898)===
+<gallery>
+Pokemon_0888(Hero)_9th_style.png          |0888 蒼響(百戰勇者)
+Pokemon_0888_9th_style.png                |0888 蒼響(劍之王)
+Pokemon_0889(Hero)_9th_style.png          |0889 藏瑪然特(百戰勇者)
+Pokemon_0889_9th_style.png                |0889 藏瑪然特(盾之王)
+Pokemon_0890_9th_style.png                |0890 無極汰那
+<!--- 因為實際圖示跟一般的無極汰那相同，故省略之 Pokemon_0890(Eternamax)_9th_style.png     |0890 無極汰那(無極巨化無極汰那) ---->
+Eternatus-eternamax.png |0890 無極汰那(無極巨化)
+Pokemon_0891_9th_style.png                |0891 熊徒弟
+Pokemon_0892_9th_style.png                |0892 武道熊師
+Urshifu-gigantamax-single-strike.png      |0892 武道熊師(超極巨化，一擊流)
+Urshifu-gigantamax-rapid-strike.png       |0892 武道熊師(超極巨化，連擊流)
+Pokemon_0893_9th_style.png                |0893 薩戮德
+Pokemon_0893(Dada)_9th_style.png          |0893 薩戮德(阿爸)
+Pokemon_0894_9th_style.png                |0894 雷吉艾勒奇
+Pokemon_0895_9th_style.png                |0895 雷吉鐸拉戈
+Pokemon_0896_9th_style.png                |0896 雪暴馬
+Pokemon_0897_9th_style.png                |0897 靈幽馬
+Pokemon_0898_9th_style.png                |0898 蕾冠王
+Pokemon_0898(Ice Rider)_9th_style.png     |0898 蕾冠王(騎白馬的樣子)
+Pokemon_0898(Shadow Rider)_9th_style.png  |0898 蕾冠王(騎黑馬的樣子)
+</gallery>
+
+===《傳說‧阿爾宙斯》新增的寶可夢(0899~0905)===
+<gallery>
+Pokemon_0899_9th_style.png             |0899 詭角鹿
+Pokemon_0900_9th_style.png             |0900 劈斧螳螂
+Pokemon_0901_9th_style.png             |0901 月月熊
+Pokemon_0901_Bloodmoon_9th_style.png   |0901 月月熊(赫月)
+Pokemon_0902(male)_9th_style.png       |0902 幽尾玄魚(雄性的樣子)
+Pokemon_0902(female)_9th_style.png     |0902 幽尾玄魚(雌性的樣子)
+Pokemon_0903_9th_style.png             |0903 大狃拉
+Pokemon_0904_9th_style.png             |0904 萬針魚
+Pokemon_0905_9th_style.png             |0905 眷戀雲
+Pokemon_0905(Therian)_9th_style.png    |0905 眷戀雲(靈獸型態)
+</gallery>
+
+== [[寶可夢列表-第九世代|第九世代(0906~1010)]] ==
+===御三家(0906~0914)===
+<gallery>
+Pokemon_0906_9th_style.png |0906 新葉喵
+Pokemon_0907_9th_style.png |0907 蒂蕾喵
+Pokemon_0908_9th_style.png |0908 魔幻假面喵
+Pokemon_0909_9th_style.png |0909 呆火鱷
+Pokemon_0910_9th_style.png |0910 炙燙鱷
+Pokemon_0911_9th_style.png |0911 骨紋巨聲鱷
+Pokemon_0912_9th_style.png |0912 潤水鴨
+Pokemon_0913_9th_style.png |0913 涌躍鴨
+Pokemon_0914_9th_style.png |0914 狂歡浪舞鴨
+</gallery>
+===一般寶可夢(0915~0983)===
+<gallery>
+Pokemon_0915_9th_style.png        |0915 愛吃豚
+Pokemon 0916 male 9th style.png   |0916 飄香豚(雄性的樣子)
+Pokemon 0916 female 9th style.png |0916 飄香豚(雌性的樣子)
+Pokemon_0917_9th_style.png        |0917 團珠蛛
+Pokemon_0918_9th_style.png        |0918 操陷蛛
+Pokemon_0919_9th_style.png        |0919 豆蟋蟀
+Pokemon_0920_9th_style.png        |0920 烈腿蝗
+Pokemon_0921_9th_style.png        |0921 布撥
+Pokemon_0922_9th_style.png        |0922 布土撥
+Pokemon_0923_9th_style.png        |0923 巴布土撥
+Pokemon_0924_9th_style.png        |0924 一對鼠
+Pokemon 0925 Family of Four 9th style.png  |0925 一家鼠(四隻家庭)
+Pokemon 0925 Family of Three 9th style.png |0925 一家鼠(三隻家庭)
+Pokemon_0926_9th_style.png         |0926 狗仔包
+Pokemon_0927_9th_style.png         |0927 麻花犬
+Pokemon_0928_9th_style.png         |0928 迷你芙
+Pokemon_0929_9th_style.png         |0929 奧利紐
+Pokemon_0930_9th_style.png         |0930 奧利瓦
+Pokemon 0931 green 9th style.png   |0931 怒鸚哥(綠羽毛)
+Pokemon 0931 blue 9th style.png    |0931 怒鸚哥(藍羽毛)
+Pokemon 0931 yellow 9th style.png  |0931 怒鸚哥(黃羽毛)
+Pokemon 0931 white 9th style.png   |0931 怒鸚哥(白羽毛)
+Pokemon_0932_9th_style.png         |0932 鹽石寶
+Pokemon_0933_9th_style.png         |0933 鹽石壘
+Pokemon_0934_9th_style.png         |0934 鹽石巨靈
+Pokemon_0935_9th_style.png         |0935 炭小侍
+Pokemon_0936_9th_style.png         |0936 紅蓮鎧騎
+Pokemon_0937_9th_style.png         |0937 蒼炎刃鬼
+Pokemon_0938_9th_style.png         |0938 光蚪仔
+Pokemon_0939_9th_style.png         |0939 電肚蛙
+Pokemon_0940_9th_style.png         |0940 電海燕
+Pokemon_0941_9th_style.png         |0941 大電海燕
+Pokemon_0942_9th_style.png         |0942 偶叫獒
+Pokemon_0943_9th_style.png         |0943 獒教父
+Pokemon_0944_9th_style.png         |0944 滋汁鼴
+Pokemon_0945_9th_style.png         |0945 塗標客
+Pokemon_0946_9th_style.png         |0946 納噬草
+Pokemon_0947_9th_style.png         |0947 怖納噬草
+Pokemon_0948_9th_style.png         |0948 原野水母
+Pokemon_0949_9th_style.png         |0949 陸地水母
+Pokemon_0950_9th_style.png         |0950 毛崖蟹
+Pokemon_0951_9th_style.png         |0951 熱辣娃
+Pokemon_0952_9th_style.png         |0952 狠辣椒
+Pokemon_0952(Mega)_9th_style.png   |0952 狠辣椒(Mega進化)
+Pokemon_0953_9th_style.png         |0953 蟲滾泥
+Pokemon_0954_9th_style.png         |0954 蟲甲聖
+Pokemon_0955_9th_style.png         |0955 飄飄雛
+Pokemon_0956_9th_style.png         |0956 超能艷鴕
+Pokemon_0957_9th_style.png         |0957 小鍛匠
+Pokemon_0958_9th_style.png         |0958 巧鍛匠
+Pokemon_0959_9th_style.png         |0959 巨鍛匠
+Pokemon_0960_9th_style.png         |0960 海地鼠
+Pokemon_0961_9th_style.png         |0961 三海地鼠
+Pokemon_0962_9th_style.png         |0962 下石鳥
+Pokemon_0963_9th_style.png         |0963 波普海豚
+Pokemon_0964_zero_9th_style.png    |0964 海豚俠(平凡形態)
+Pokemon_0964_hero_9th_style.png    |0964 海豚俠(全能形態)
+Pokemon_0965_9th_style.png         |0965 噗隆隆
+Pokemon_0966_9th_style.png         |0966 普隆隆姆
+Pokemon_0967_9th_style.png         |0967 摩托蜥
+Pokemon_0968_9th_style.png         |0968 拖拖蚓
+Pokemon_0969_9th_style.png         |0969 晶光芽
+Pokemon_0970_9th_style.png         |0970 晶光花
+Pokemon_0970(Mega)_9th_style.png   |0970 晶光花(Mega)
+Pokemon_0971_9th_style.png         |0971 墓仔狗
+Pokemon_0972_9th_style.png         |0972 墓揚犬
+Pokemon_0973_9th_style.png         |0973 纏紅鶴
+Pokemon_0974_9th_style.png         |0974 走鯨
+Pokemon_0975_9th_style.png         |0975 浩大鯨
+Pokemon_0976_9th_style.png         |0976 輕身鱈
+Pokemon_0977_9th_style.png         |0977 吃吼霸
+Pokemon 0978 curly 9th style.png   |0978 米立龍(上弓姿勢)
+Pokemon 0978 droopy 9th style.png  |0978 米立龍(下垂姿勢)
+Pokemon 0978 stretchy 9th style.png|0978 米立龍(平挺姿勢)
+Pokemon_0979_9th_style.png         |0979 棄世猴
+Pokemon_0980_9th_style.png         |0980 土王
+Pokemon_0981_9th_style.png         |0981 奇麒麟
+Pokemon_0982_9th_style.png         |0982 土龍節節
+Pokemon_0983_9th_style.png         |0983 仆斬將軍
+</gallery>
+
+===悖謬寶可夢(0986~0995)===
+<gallery>
+Pokemon_0984_9th_style.png |0984 雄偉牙
+Pokemon_0985_9th_style.png |0985 吼叫尾
+Pokemon_0986_9th_style.png |0986 猛惡菇
+Pokemon_0987_9th_style.png |0987 振翼髮
+Pokemon_0988_9th_style.png |0988 爬地翅
+Pokemon_0989_9th_style.png |0989 沙鐵皮
+Pokemon_0990_9th_style.png |0990 鐵轍跡
+Pokemon_0991_9th_style.png |0991 鐵包袱
+Pokemon_0992_9th_style.png |0992 鐵臂膀
+Pokemon_0993_9th_style.png |0993 鐵脖頸
+Pokemon_0994_9th_style.png |0994 鐵毒蛾
+Pokemon_0995_9th_style.png |0995 鐵荊棘
+</gallery>
+===600族、索財靈一家(0996~0995)===
+<gallery>
+Pokemon_0996_9th_style.png        |0996 涼脊龍
+Pokemon_0997_9th_style.png        |0997 凍脊龍
+Pokemon_0998_9th_style.png        |0998 戟脊龍
+Pokemon 0999 chest 9th style.png  |0999 索財靈(寶箱形態)
+Pokemon 0999 roaming 9th style.png|0999 索財靈(徒步形態)
+Pokemon_1000_9th_style.png        |1000 賽富豪
+</gallery>
+
+===災厄寶可夢(1001~1004)===
+<gallery>
+Pokemon_1001_9th_style.png|1001 古簡蝸
+Pokemon_1002_9th_style.png|1002 古劍豹
+Pokemon_1003_9th_style.png|1003 古鼎鹿
+Pokemon_1004_9th_style.png|1004 古玉魚
+</gallery>
+===悖謬寶可夢(1005~1010)===
+<gallery>
+Pokemon_1005_9th_style.png          |1005 轟鳴月
+Pokemon_1006_9th_style.png          |1006 鐵武者
+Pokemon 1007 apex 9th style.png     |1007 故勒頓(完全形態)
+Pokemon 1007 limited 9th style.png  |1007 故勒頓(制限形態)
+Pokemon 1008 ultimate 9th style.png |1008 密勒頓(完整模式)
+Pokemon 1008 low-power 9th style.png|1008 密勒頓(受限模式)
+Pokemon_1009_9th_style.png          |1009 波盪水
+Pokemon_1010_9th_style.png          |1010 鐵斑葉
+</gallery>
+===北上鄉的寶可夢(1011~1017)===
+本區收錄《寶可夢朱／紫 零之秘寶》前篇：碧之假面新增的寶可夢
+<gallery>
+Pokemon_1011_9th_style.png                  |1011 裹蜜蟲
+Pokemon_1012_9th_style.png                  |1012 斯魔茶
+Pokemon_1013_9th_style.png                  |1013 來悲粗茶
+Pokemon_1014_9th_style.png                  |1014 夠讚狗
+Pokemon_1015_9th_style.png                  |1015 願增猿
+Pokemon_1016_9th_style.png                  |1016 吉雉雞
+Pokemon_1017_9th_style.png                  |1017 厄鬼椪(碧草面具)
+Pokemon_1017_Wellspring_Mask_9th_style.png  |1017 厄鬼椪(水井面具)
+Pokemon_1017_Hearthflame_Mask_9th_style.png |1017 厄鬼椪(火灶面具)
+Pokemon_1017_Cornerstone_Mask_9th_style.png |1017 厄鬼椪(礫石面具)
+</gallery>
+===既有寶可夢進化型、悖謬寶可夢、傳說的寶可夢、幻之寶可夢(1018~1025)===
+本區收錄《寶可夢朱／紫 零之秘寶》後篇：藍之圓盤新增的寶可夢
+<gallery>
+Pokemon_1018_9th_style.png |1018 鋁鋼橋龍
+Pokemon_1019_9th_style.png |1019 蜜集大蛇
+Pokemon_1020_9th_style.png |1020 破空焰
+Pokemon_1021_9th_style.png |1021 猛雷鼓
+Pokemon_1022_9th_style.png |1022 鐵磐岩
+Pokemon_1023_9th_style.png |1023 鐵頭殼
+Pokemon_1024_9th_style.png |1024 太樂巴戈斯
+Pokemon_1025_9th_style.png |1025 桃歹郎
+</gallery>
+
+== 相關條目 ==
+{{模板:Pokemon}}
+[[分類:神奇寶貝系列]]

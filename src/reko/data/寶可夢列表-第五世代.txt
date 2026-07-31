@@ -227,7 +227,7 @@
 |number= 500
 |name= 炎武王
 |category= 大火豬
-|image= [[檔案:メガエンブオー.webp|150px]]
+|image= [[檔案:Pokemon 0500(Mega) 9th style.png]]
 |form= 超級炎武王
 |height= 1.8
 |weight= 180.3
@@ -1004,7 +1004,7 @@
 |number= 530
 |name= 龍頭地鼠
 |category= 地底
-|image= [[檔案:超級龍頭地鼠.webp|150px]]
+|image= [[檔案:Pokemon 0530(Mega) 9th style.png]]
 |form= 超級龍頭地鼠
 |height= 0.9
 |weight= 60.0
@@ -1404,7 +1404,7 @@
 |number= 545
 |name= 蜈蚣王
 |category= 巨蜈蚣
-|image= [[檔案:超級蜈蚣王.webp|150px]]
+|image= [[檔案:Pokemon 0545(Mega) 9th style.png]]
 |form= 超級蜈蚣王
 |height= 3.2
 |weight= 230.5
@@ -1979,7 +1979,7 @@
 |number= 560
 |name= 頭巾混混
 |category= 惡黨
-|image= [[檔案:超級頭巾混混.webp|150px]]
+|image= [[檔案:Pokemon 0560(Mega) 9th style.png]]
 |form= 超級頭巾混混
 |height= 1.1
 |weight= 31.0
@@ -3140,7 +3140,7 @@ Pokemon_0586(Winter)_9th_style.png         |冬天的樣子
 |number= 604
 |name= 麻麻鰻魚王
 |category= 電魚
-|image= [[檔案:メガシビルドン.webp|150px]]
+|image= [[檔案:Pokemon 0604(Mega) 9th style.png]]
 |form= 超級麻麻鰻魚王
 |height= 3.0
 |weight= 180.0
@@ -3295,7 +3295,7 @@ Pokemon_0586(Winter)_9th_style.png         |冬天的樣子
 |number= 609
 ||name= 水晶燈火靈
 |category= 引誘
-|image= [[檔案:超級水晶燈火靈.webp|150px]]
+|image= [[檔案:Pokemon 0609(Mega) 9th style.png]]
 |form= 超級水晶燈火靈
 |height= 2.5m
 |weight= 69.6kg
@@ -3699,7 +3699,7 @@ Pokemon_0586(Winter)_9th_style.png         |冬天的樣子
 |number= 623
 |name= 泥偶巨人
 |category= 魔像
-|image= [[檔案:メガゴルーグ.webp|150px]]
+|image= [[檔案:Pokemon 0623(Mega) 9th style.png]]
 |form= 超級泥偶巨人
 |height= 4.0
 |weight= 330.0

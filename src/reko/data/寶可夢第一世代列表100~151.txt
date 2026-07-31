@@ -842,8 +842,7 @@
 |number= 121
 |name= 寶石海星
 |category= 謎
-|image= 
-[[檔案:超級寶石海星.webp|150px]]
+|image= [[檔案:Pokemon 0121(Mega) 9th style.png ]]
 |form= 超級寶石海星
 |height= 2.3
 |weight= 80.0
@@ -2156,7 +2155,7 @@
 |number= 149
 |name= 快龍
 |category= 龍
-|image= [[檔案:超級快龍.webp|150px]]
+|image= [[檔案:Pokemon 0149(Mega) 9th style.png]]
 |form= 超級快龍
 |height= 2.2
 |weight= 290.0

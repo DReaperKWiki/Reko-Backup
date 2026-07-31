@@ -1239,6 +1239,14 @@
 |2025.8
 |デッキビルドパック　ファントム・リベンジャーズ<br>Deck Build Pack： Phantom Revengers<br>（DBPR）<br>牌組構築包 幻影復仇者
 | 【[[無形百臂]]】<br>【[[糾罪巧]]】<br>【[[殺手旋律]]】
+|-
+|2026.9
+|デッキビルドパック -グロリアス・ヴィクターズ- <br>Deck Build Pack：Glorious Victors<br>（DBGV）<br>牌組構築包 光榮勝利者
+| 【[[光歸 ]]】<br>【[[升月]]】<br>【[[異解△]]】
+|2026.
+|
+| 
+|-
 |}
 
 === TERMINAL WORLD===
@@ -1364,5 +1372,6 @@
 
 == 備註 ==
 <references/>
+{{Yugioh}}
 {{YugiohOCG}}
 [[分類:遊☆戯☆王 決鬥怪獸|*]]

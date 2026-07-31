@@ -709,7 +709,7 @@
 |number= 740
 |name= 好勝毛蟹
 |category= 毛蟹
-|image= [[檔案:メガケケンカニ.webp|150px]]
+|image= [[檔案:Pokemon 0740(Mega) 9th style.png]]
 |form= 超級好勝毛蟹
 |height= 2.6
 |weight= 180.0
@@ -2419,7 +2419,7 @@ Pokemon_0774(Violet_Core)_9th_style.png|50px|紫色核心
 |number= 780
 |name= 老翁龍
 |category= 悠游
-|image= [[檔案:超級老翁龍.webp|150px]]
+|image= [[檔案:Pokemon 0780(Mega) 9th style.png|150px]]
 |form= 超級老翁龍
 |height= 3.0
 |weight= 185.0

@@ -3289,7 +3289,7 @@
 |number= 358
 |name= 風鈴鈴
 |category= 風鈴
-|image= [[檔案:メガチリーン.png|150px]]
+|image= [[檔案:Pokemon 0358(Mega) 9th style.png]]
 |form= 超級風鈴鈴
 |height= 1.2
 |weight= 8.0
