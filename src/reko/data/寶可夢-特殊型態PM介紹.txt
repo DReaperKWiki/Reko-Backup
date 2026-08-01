@@ -201,114 +201,114 @@
 |#0036
 |皮可西
 |[[File:Pokemon_0036_9th_style.png|100px]]
-|[[檔案:超級皮可西.webp|100px]]
+|[[檔案:Pokemon_0036(Mega)_9th_style.png|100px]]
 |#0026
 |雷丘X
 | rowspan="2" |[[File:Pokemon_0026_9th_style.png|100px]]
-|[[檔案:メガライチュウX.webp|100px]]
+|[[檔案:Pokemon_0026(MegaX)_9th_style.png|100px]]
 |-
 |#0071
 |大食花
 |[[File:Pokemon_0071_9th_style.png|100px]]
-|[[檔案:超級大食花.webp|100px]]
+|[[檔案:Pokemon_0071(Mega)_9th_style.png|100px]]
 |#0026
 |雷丘Y
-|[[檔案:メガライチュウY.webp|100px]]
+|[[檔案:Pokemon_0026(MegaY)_9th_style.png|100px]]
 |-
 |#0121
 |寶石海星
 |[[File:Pokemon_0121_9th_style.png|100px]]
-|[[檔案:超級寶石海星.webp|100px]]
+|[[檔案:Pokemon_0121(Mega)_9th_style.png|100px]]
 |#0358
 |風鈴鈴
 |[[File:Pokemon_0358_9th_style.png|100px]]
-|[[檔案:メガチリーン.png|100px]]
+|[[檔案:Pokemon_0358(Mega)_9th_style.png|100px]]
 |-
 |#0149
 |快龍
 |[[File:Pokemon_0149_9th_style.png|100px]]
-|[[檔案:超級快龍.webp|100px]]
+|[[檔案:Pokemon_0149(Mega)_9th_style.png|100px]]
 |#0359
 |阿勃梭魯Z
 |[[File:Pokemon_0359_9th_style.png|100px]]
-|[[檔案:メガアブソルZ.webp|100px]]
+|[[檔案:メガアブソルZ.webp|100px]]<!-- [[File:Pokemon_0359(MegaZ)_9th_style.png|100px]] -->
 |-
 |#0154
 |大竺葵
 |[[File:Pokemon_0154_9th_style.png|100px]]
-|[[檔案:超級大竺葵.webp|100px]]
+|[[檔案:Pokemon_0154(Mega)_9th_style.png|100px]]
 |#0398
 |姆克鷹
 |[[File:Pokemon_0398_9th_style.png|100px]]
-|[[檔案:メガムクホーク.webp|100px]]
+|[[檔案:Pokemon_0398(Mega)_9th_style.png|100px]]
 |-
 |#0160
 |大力鱷
 |[[File:Pokemon_0160_9th_style.png|100px]]
-|[[檔案:メガオーダイル.png|100px]]
+|[[檔案:Pokemon_0160(Mega)_9th_style.png|100px]]
 |#0445
 |烈咬陸鯊Z
 |[[File:Pokemon_0445_9th_style.png|100px]]
-|
+|[[檔案:メガガブリアスZ.png|100px]]<!-- [[File:Pokemon_0445(MegaZ)_9th_style.png|100px]] -->
 |-
 |#0227
 |盔甲鳥
 |[[File:Pokemon_0227_9th_style.png|100px]]
-|[[檔案:超級盔甲鳥.webp|100px]]
+|[[檔案:Pokemon_0227(Mega)_9th_style.png|100px]]
 |#0448
 |路卡利歐Z
 |[[File:Pokemon_0448_9th_style.png|100px]]
-|[[檔案:メガルカリオZ.webp|100px]]
+|[[檔案:メガルカリオZ.webp|100px]] <!-- [[File:Pokemon_0448(MegaZ)_9th_style.png|100px]] -->
 |-
 |#0478
 |雪妖女
 |[[File:Pokemon_0478_9th_style.png|100px]]
-|[[檔案:超級雪妖女.webp|100px]]
+|[[檔案:Pokemon_0478(Mega)_9th_style.png|100px]]
 |#0485
 |席多藍恩
 |[[File:Pokemon_0485_9th_style.png|100px]]
-|[[檔案:メガヒードラン.webp|100px]]
+|[[檔案:メガヒードラン.webp|100px]]<!-- [[File:Pokemon_0485(Mega)_9th_style.png|100px]] -->
 |-
 |#0500
 |炎武王
 |[[File:Pokemon_0500_9th_style.png|100px]]
-|[[檔案:メガエンブオー.webp|100px]]
+|[[檔案:Pokemon_0500(Mega)_9th_style.png|100px]]
 |#0491
 |達克萊伊
 |[[File:Pokemon_0491_9th_style.png|100px]]
-|[[檔案:メガダークライ.webp|100px]]
+|[[檔案:メガダークライ.webp|100px]]<!-- [[File:Pokemon_0491(Mega)_9th_style.png|100px]] -->
 |-
 |#0530
 |龍頭地鼠
 |[[File:Pokemon_0530_9th_style.png|100px]]
-|[[檔案:超級龍頭地鼠.webp|100px]]
+|[[檔案:Pokemon_0530(Mega)_9th_style.png|100px]]
 |#0623
 |泥偶巨人
 |[[File:Pokemon_0623_9th_style.png|100px]]
-|[[檔案:メガゴルーグ.webp|100px]]
+|[[檔案:Pokemon_0623(Mega)_9th_style.png|100px]]
 |-
 |#0545
 |蜈蚣王
 |[[File:Pokemon_0545_9th_style.png|100px]]
-|[[檔案:超級蜈蚣王.webp|100px]]
+|[[檔案:Pokemon_0545(Mega)_9th_style.png|100px]]
 |#0678
 |超能妙喵
 |[[File:Pokemon_0678(male)_9th_style.png|100px|雄性的樣子]]<br>[[File:Pokemon_0678(female)_9th_style.png|100px|雌性的樣子]]
-|[[檔案:メガニャオニクス.webp|100px]]
+|[[檔案:Pokemon_0678(Mega)_9th_style.png|100px]]
 |-
 |#0560
 |頭巾混混
 |[[File:Pokemon_0560_9th_style.png|100px]]
-|[[檔案:超級頭巾混混.webp|100px]]
+|[[檔案:Pokemon_0560(Mega)_9th_style.png|100px]]
 |#0740
 |好勝毛蟹
 |[[File:Pokemon_0740_9th_style.png|100px]]
-|[[檔案:メガケケンカニ.webp|100px]]
+|[[檔案:Pokemon_0740(Mega)_9th_style.png|100px]]
 |-
 |#0604
 |麻麻鰻魚王
 |[[File:Pokemon_0604_9th_style.png|100px]]
-|[[檔案:メガシビルドン.webp|100px]]
+|[[檔案:Pokemon_0604(Mega)_9th_style.png|100px]]
 |#0768
 |具甲武者
 |[[File:Pokemon_0768_9th_style.png|100px]]
@@ -317,7 +317,7 @@
 |#0609
 |水晶燈火靈
 |[[File:Pokemon_0609_9th_style.png|100px]]
-|[[檔案:超級水晶燈火靈.webp|100px]]
+|[[檔案:Pokemon_0609(Mega)_9th_style.png|100px]]
 |#0801
 |瑪機雅娜
 |[[File:Pokemon_0801_9th_style.png|100px]]
@@ -326,7 +326,7 @@
 |#0652
 |布里卡隆
 |[[File:Pokemon_0652_9th_style.png|100px]]
-|[[檔案:超級布里卡隆.webp|100px]]
+|[[檔案:Pokemon_0652(Mega)_9th_style.png|100px]]
 |#0807
 |捷拉奧拉
 |[[File:Pokemon_0807_9th_style.png|100px]]
@@ -335,64 +335,64 @@
 |#0655
 |妖火紅狐
 |[[File:Pokemon_0655_9th_style.png|100px]]
-|[[檔案:超級妖火紅狐.webp|100px]]
+|[[檔案:Pokemon_0655(Mega)_9th_style.png|100px]]
 |#0952
 |狠辣椒
 |[[File:Pokemon_0952_9th_style.png|100px]]
-|[[檔案:メガスコヴィラン.webp|100px]]
+|[[檔案:Pokemon_0952(Mega)_9th_style.png|100px]]
 |-
 |#0658
 |甲賀忍蛙
 |[[File:Pokemon_0658_9th_style.png|100px]]
-|[[檔案:メガゲッコウガ.webp|100px]]
+|[[檔案:Pokemon_0658(Mega)_9th_style.png|100px]]
 |#0970
 |晶光花
 |[[File:Pokemon_0970_9th_style.png|100px]]
-|[[檔案:メガキラフロル.webp|100px]]
+|[[檔案:Pokemon_0970(Mega)_9th_style.png|100px]]
 |-
 |#0668
 |火炎獅
 |[[File:Pokemon_0668(male)_9th_style.png|100px|雄性的樣子]]<br>[[File:Pokemon_0668(female)_9th_style.png|100px|雌性的樣子]]
-|[[檔案:超級火炎獅.webp|100px]]
+|[[檔案:Pokemon_0668(Mega)_9th_style.png|100px]]
 | rowspan="3" |#0978
 |米立龍
 (上弓姿勢)
 |[[File:Pokemon_0978_curly_9th_style.png|100px]]
-|
+|<!-- [[File:Pokemon_0978_curly(Mega)_9th_style.png|100px]] -->
 |-
 |#0670
 |花葉蒂
 (永恆之花)
 |[[File:Pokemon 0670(AZ) 9th style.png|100px]]
-|[[檔案:超級花葉蒂.webp|100px]]
+|[[檔案:Pokemon 0670(Mega) 9th style.png|100px]]
 |米立龍
 
 (下垂姿勢)
 |[[File:Pokemon 0978 droopy 9th style.png|100px]]
-|
+|<!-- [[File:Pokemon 0978 droopy(Mega) 9th style.png|100px]] -->
 |-
 |#0687
 |烏賊王
 |[[File:Pokemon_0687_9th_style.png|100px]]
-|[[檔案:メガカラマネロ.webp|100px]]
+|[[檔案:Pokemon_0687(Mega)_9th_style.png|100px]]
 |米立龍
 (平挺姿勢)
 |[[File:Pokemon 0978 stretchy 9th style.png|100px]]
-|[[檔案:メガシャリタツ3.png|100px]]
+|[[檔案:メガシャリタツ3.png|100px]]<!-- [[File:Pokemon 0978 stretchy(Mega) 9th style.png|100px]] -->
 |-
 |#0689
 |龜足巨鎧
 |[[File:Pokemon_0689_9th_style.png|100px]]
-|[[檔案:メガガメノデス.webp|100px]]
+|[[檔案:Pokemon_0689(Mega)_9th_style.png|100px]]
 |#0998
 |戟脊龍
 |[[File:Pokemon_0998_9th_style.png|100px]]
-|[[檔案:メガセグレイブ.png|100px]]
+|[[檔案:メガセグレイブ.png|100px]]<!-- [[File:Pokemon_0998(Mega)_9th_style.png|100px]] -->
 |-
 |#0691
 |毒藻龍
 |[[File:Pokemon_0691_9th_style.png|100px]]
-|[[檔案:超級毒藻龍.webp|100px]]
+|[[檔案:Pokemon_0691(Mega)_9th_style.png|100px]]
 |
 |
 |
@@ -401,7 +401,7 @@
 |#0701
 |摔角鷹人
 |[[File:Pokemon_0701_9th_style.png|100px]]
-|[[檔案:メガルチャブル.webp|100px]]
+|[[檔案:Pokemon_0701(Mega)_9th_style.png|100px]]
 |
 |
 |
@@ -410,7 +410,7 @@
 |#0718
 |基格爾德
 |[[File:Pokemon 0718(Complete) 9th style.png|100px]]
-|[[檔案:超級基格爾德.webp|100px]]
+|[[檔案:超級基格爾德.webp|100px]]<!-- [[File:Pokemon 0718(Mega) 9th style.png|100px]] -->
 |
 |
 |
@@ -419,7 +419,7 @@
 |#0780
 |老翁龍
 |[[File:Pokemon_0780_9th_style.png|100px]]
-|[[檔案:超級老翁龍.webp|100px]]
+|[[檔案:Pokemon_0780(Mega)_9th_style.png|100px]]
 |
 |
 |
@@ -428,7 +428,7 @@
 |#0870
 |列陣兵
 |[[File:Pokemon_0870_9th_style.png|100px]]
-|[[檔案:超級列陣兵.webp|100px]]
+|[[檔案:Pokemon_0870(Mega)_9th_style.png|100px]]
 |
 |
 |
@@ -639,14 +639,16 @@ Pokemon_0194(Paldea)_9th_style.png|0194 烏波
 |}
 
 ==其他==
-===霸主寶可夢===
+==={{ruby|霸主寶可夢|'''ぬし'''ポケモン}}===
 {| class="wikitable" style="margin:auto;text-align:center;"
 | style="" |★編輯提示：請將作為【霸主寶可夢】的PM集中在此介紹。
+|-
+|注：此處所列的霸主寶可夢與SV中的「{{ruby|寶主寶可夢|ヌシポケモン}}」不一樣。
 |}
 *第七世代島嶼巡禮中登場，圍繞著對自身有助益的特殊氣場的特別PM，體型也比原生PM較大。
 **有部分霸主寶可夢是「阿羅拉的樣子」。
-**有部分霸主寶可夢可以在究極日月透過霸主貼紙交換獲得。
-***但是換來的霸主PM將會失去氣場，變成單純比較大隻的特殊PM。
+**有部分霸主寶可夢可以在究極日月透過霸主貼紙交換獲得，但是換來的霸主PM將會失去氣場，變成單純比較大隻的特殊PM。
+
 {| class="wikitable"  style="margin:auto;text-align:center;"
 |+ 霸王寶可夢
 |-

@@ -1021,7 +1021,7 @@ Pokemon_0671(White)_9th_style.png    |白花
 {{Pokemon_Data
 |number= 677
 |name= 妙喵
-|category= 自製
+|category= 自制
 |image= [[File:Pokemon_0677_9th_style.png]]
 |form= -
 |height= 0.3

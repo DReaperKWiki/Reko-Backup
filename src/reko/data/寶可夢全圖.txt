@@ -80,8 +80,8 @@ Pokemon_0025(World_cap)_9th_style.png   |0025 戴著帽子的皮卡丘(世界帽
 <gallery>
 Pokemon_0026_9th_style.png              |0026 雷丘
 Pokemon_0026(Alola)_9th_style.png       |0026 雷丘(阿羅拉的樣子)
-Pokemon_0026(MegaX)_9th_style.png       |0026 雷丘(超級進化X)
-Pokemon_0026(MegaY)_9th_style.png       |0026 雷丘(超級進化Y)
+Pokemon_0026(MegaX)_9th_style.png       |0026 雷丘(Mega進化X)
+Pokemon_0026(MegaY)_9th_style.png       |0026 雷丘(Mega進化Y)
 </gallery>
 
 === 一般寶可夢(0027~0099)===
@@ -1569,7 +1569,7 @@ Pokemon_0967_9th_style.png         |0967 摩托蜥
 Pokemon_0968_9th_style.png         |0968 拖拖蚓
 Pokemon_0969_9th_style.png         |0969 晶光芽
 Pokemon_0970_9th_style.png         |0970 晶光花
-Pokemon_0970(Mega)_9th_style.png   |0970 晶光花(Mega)
+Pokemon_0970(Mega)_9th_style.png   |0970 晶光花(Mega進化)
 Pokemon_0971_9th_style.png         |0971 墓仔狗
 Pokemon_0972_9th_style.png         |0972 墓揚犬
 Pokemon_0973_9th_style.png         |0973 纏紅鶴

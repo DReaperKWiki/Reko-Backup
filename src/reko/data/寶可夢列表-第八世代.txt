@@ -1904,6 +1904,7 @@
 
 * 造型捏他自牛奶王冠。
 * <s>小鮮奶</s>
+* 和進化型一樣只有雌性
 
 === #869 霜奶仙（マホイップ/Alcremie）===
 {| class="wikitable" style="margin: 0 auto; text-align: center"
