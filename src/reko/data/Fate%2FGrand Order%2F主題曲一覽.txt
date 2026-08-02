@@ -471,7 +471,7 @@
 * 海道霸皇義元的決戰中使用了改篇版的本版歌曲，武田信玄與上杉謙信的寶具BGM也是由此曲改編
 * <s>改篇BGM《七星神威　～赤と白のシンフォニア～》後來成了萬用的決鬥BGM</s>
 
-=== {{youtube|hxxBOnjpCTc|{{ruby|Reson8te|レゾネイト}}（feat. 六花）}} ===
+=== {{youtube|YMA1nxTnaLg|{{ruby|Reson8te|レゾネイト}}（feat. 六花）}} ===
 {| class="wikitable" style="margin-right: 1em auto 1em auto;"
 |-
 ! 主唱
@@ -710,6 +710,23 @@
 | 馬瀬みさき
 |}
 * 2026年活動《迦勒底的花神節 你的花朵綻放之時》主題曲。
+
+=== Hello, new wonder!! ===
+{| class="wikitable" style="margin-right: 1em auto 1em auto;"
+|-
+! 主唱
+| ASCA
+|-
+! 作詞
+| 栗原暁（Jazzin’park）、西田圭稀
+|-
+! 作曲
+| 久保田真悟（Jazzin’park）、栗原暁（Jazzin’park）
+|-
+! 編曲
+| 久保田真悟（Jazzin’park）
+|}
+* 2026年活動《在春天結束時等待您》主題曲。
 
 == Fate/Grand Order Arcade ==
 === 空白 ===
