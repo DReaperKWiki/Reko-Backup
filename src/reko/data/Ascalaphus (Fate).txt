@@ -80,7 +80,7 @@
 		|explain=   技能『預兆的凶鳥』的逆轉解釋。<br>換言之，並非預知凶兆，而是因為阿斯卡拉福斯已經宣告，所以凶兆才會降臨的命運改變寶具。<br>聽聞那番話語之人，將因心臟病發或種種厄運，瞬間陷入死亡的危機。
 }}
 {{Fate寶具列
-		|image=     
+		|image=     https://i.meee.com.tw/QTPQiFa.gif
 		|color=     gray
 		|bgcolor=   black
 		|name=      吞噬而來吧，冥府之河

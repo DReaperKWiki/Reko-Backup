@@ -4195,7 +4195,7 @@
 ! 472
 | rowspan="2"|[[Gray (TYPE-MOON)|格蕾〔Lily〕]]
 | Saber
-| rowspan="2"|人
+| rowspan="5"|人
 | rowspan="2"|坂本みねぢ
 | rowspan="2"|[[上田麗奈]]<br>[[小野大輔]]（亞德）
 | rowspan="2"|期間限定活動「在春天的盡頭等待你」贈送角色。
@@ -4205,7 +4205,6 @@
 |-
 ! rowspan="3"|474
 | [[山中老人 (Fate)|哈桑‧薩巴赫〔阿茲拉伊爾〕]]
-| rowspan="3"|
 | rowspan="3"|Assassin<br />{{color|gold||'''Grand Assassin'''}}
 | rowspan="3"|Ryota-H
 | rowspan="3"|[[金本涼輔]]
@@ -4214,7 +4213,7 @@
 |-
 | [[山中老人 (Fate) |阿茲拉伊爾]]
 |-
-| [[山中老人 (Fate)|西多拉．阿茲拉伊爾]]
+| [[山中老人 (Fate)|錫德拉．阿茲拉伊爾]]
 |-
 |}
 

@@ -190,7 +190,7 @@
 === '''超COOOOOOOOOOL'''的寶具 ===
 ==== <span style="color: #660077">身為超COOOOOOOOOOL的Caster時 ====
 {{Fate Noble Phantasm
-	|image=		https://i.imgur.com/uLphevh.gif
+	|image=	https://i.meee.com.tw/Vqp56Pi.gif
 	|color=		#EEEEEE
 	|bgcolor=	#660077
 	|name=		螺湮城教本
@@ -208,7 +208,7 @@
 {| class="wikitable" style="margin: 1em auto 1em auto;"
 	{{Fate Noble Phantasm Head}}
 	{{Fate Noble Phantasm Row
-		|image=		https://i.imgur.com/kfpXp1G.gif
+		|image=	https://i.meee.com.tw/qiRd0Qb.gif
 		|color=		#006400
 		|bgcolor=	#F5F5F5
 		|name=		集於聖旗之下咆哮
@@ -245,7 +245,7 @@
 	|range=		不明
 	|maxcaught=	不明
 	|explain=	
-	}} 
+	}}
 
 === '''超COOOOOOOOOOL'''的Fate/Grand Order專屬概念禮裝 ===
 * <span style="color: #660077">Caster
