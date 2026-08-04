@@ -1,6 +1,6 @@
-
 {{h0|無雙☆群星大會串（無双☆スターズ/Warriors All-Stars）/無雙全明星}}
-{| class="table"
+
+{|class="wikitable" style="margin:1.5em auto;"
 |\ 無双☆スターズ！/
 |-
 |本條目内含劇透，沒玩過遊戲又不想被開無雙的話請不要繼續看下去。

@@ -860,14 +860,21 @@ D2：貪欲の支配者、欲望の両手、強欲の代償、欲喰らう白き
 |Type=惡魔召喚師：古姬
 真TCG：古妃
 |Ali=DARK-CHAOS
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSInaruna1form.png|第一型態
+檔案:DSInaruna2form.png|第二型態
+</gallery>
+</div>
 |Faction=萬能
 |Skill=第一型態：無情の舞、外法幻花陣
 第二型態：恨みの慟哭、嘆きの咆哮、絶滅覇拳
-|Edition=惡魔召喚師
+|Edition=真・女神轉生：惡魔召喚師
 }}
 
 * 生前為支配古代日本的巫女，後在現世懷著悲憤及憎惡而復活
+** 雖說是原創惡魔，但設計和背景上參照了伊南娜的設定
 * <s>對戰的時候那音樂輕快得以為在看城市獵人</s>
 <br>
 

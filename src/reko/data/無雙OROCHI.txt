@@ -59,7 +59,7 @@
 |-
 |無雙OROCHI 2 Hyper || Wii U || 2012年12月8日
 |-
-|rowspan="5"|無雙OROCHI 2 Ultimate || PS3 ||rowspan="2"| 2013年9月26日
+|rowspan="6"|無雙OROCHI 2 Ultimate || PS3 ||rowspan="2"| 2013年9月26日
 |-
 | PS Vita
 |-
@@ -68,6 +68,8 @@
 | Xbox One || 2014年9月4日
 |-
 | Switch || 2017年11月9日
+|-
+| Steam || 2022年7月12日
 |-
 |rowspan="4"|無雙OROCHI 3 || PS4 ||rowspan="3"| 2018年9月27日
 |-

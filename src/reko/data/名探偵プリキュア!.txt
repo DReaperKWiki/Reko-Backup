@@ -1,4 +1,4 @@
-{{h0|{{ruby|名探偵|めいたんてい}}プリキュア！／Meitantei Precure!<ref>前述日文的羅馬拼音名</ref>／Star Detective Precure!<ref>公式英文名</ref>／名偵探光之美少女！<s>/[[HUGっと!プリキュア|HUGっと!プリキュア2（仮）]]/[[偵探歌劇 少女福爾摩斯|探偵オペラ プリティホームズ]]</s>}}
+{{h0|{{ruby|名探偵|めいたんてい}}プリキュア！／Meitantei Precure!<ref>前述日文的羅馬拼音名</ref>／Star Detective Precure!<ref>公式英文名</ref>／名偵探光之美少女！<s>/[[HUGっと!プリキュア|HUGっと!プリキュア2（仮）]]/[[偵探歌劇 少女福爾摩斯|探偵オペラ プリティホームズ]]/[[風都探偵|風都探偵プリキュア！]]</s>}}
 
 {| class="wikitable" style="font-size:small; margin:1.5em auto; text-align:center;"
 |-
@@ -626,6 +626,7 @@
 ** <s>[[名偵探柯南]]</s>
 * <s>[[假面騎士系列]]</s>
 ** <s>[[仮面ライダーダブル]]</s>
+*** <s>[[風都探偵]]</s>
 * <s>[[未来戦隊タイムレンジャー]]</s>
 * <s>[[庫洛魔法使]]</s>
 <!-- * <s>神風怪盜貞德</s> -->
