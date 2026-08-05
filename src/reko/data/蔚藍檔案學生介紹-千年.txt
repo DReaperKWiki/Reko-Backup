@@ -45,7 +45,7 @@
 
 ==== 調月莉央(調月リオ) ====
 * CV：[[Lynn]]（日）/（中）/김푸름（韓）
-* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（臨戰）；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（臨戰）；'''職業：'''輔助、打手（臨戰）
+* '''班級：'''3年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（臨戰）／'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（臨戰）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（臨戰）｜'''職業：'''輔助、打手（臨戰）
 * 會長，控管千年的{{wp|一九八四|{{ruby|大姐頭|Big Sister}}}}，擁有一支龐大的AMAS機器兵團，只有陽葵級別的駭客才有能耐奪取操控權限。
 ** <s>在劇情裡表現得像是千年公敵，全校叫得出名的學生除了季之外都和她做對</s>。
 *** 對自己不受歡迎之事也有自覺，看似無所謂，其實很渴望他人認同，也對沒有人能理解自己感覺很受傷。
@@ -122,7 +122,7 @@
 
 ==== 早瀨優香(早瀬ユウカ) ====
 * CV:春花らん（日）/小敢（中）/신나리（韓）
-* '''班級：'''2年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（體育服）；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（體育服）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''坦克
+* '''班級：'''2年級｜'''武器：'''衝鋒槍｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（體育服）／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（體育服）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''坦克
 * 會計，有著適合職務的強大計算能力。
 ** 即使時刻替C&C與工程師部收拾善後、被內鬼侵吞大筆資金也能撐住千年財務不至於破產，營運能力可能遠超老師們的想像。
 ** 不過因過度重視數字計算有時會顯得不近人情，本人也有自覺。
@@ -176,7 +176,7 @@
 
 ==== 生鹽乃愛(生塩ノア) ====
 * CV:[[鈴代紗弓]]（日）/陳雨（中）/채림（韓）
-* '''班級：'''2年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#DA8D34|3=貫穿}}（睡衣）；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（睡衣）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''輔助、打手（睡衣）
+* '''班級：'''2年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#DA8D34|3=貫穿}}（睡衣）／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（睡衣）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''輔助、打手（睡衣）
 * 書記，有著適合職務的強大記憶力。
 ** 能夠記住曾經審核過的各種專利申請文件，甚至單靠設計圖推測成品的型態和機能。
 ** 個人劇情中更顯示她對老師的觀察紀錄可以重述其一舉一動且精準到秒，讓老師顯得非常的不自在。
@@ -210,7 +210,7 @@
 
 ==== 黑崎小雪(黒崎コユキ) ====
 * CV：乾夏寧（日）/曾彤（中）/김보나（韓）
-* '''班級：'''1年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（睡衣）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（睡衣）；'''職業：'''打手、輔助（睡衣）
+* '''班級：'''1年級｜'''武器：'''機槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（睡衣）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（睡衣）｜'''職業：'''打手、輔助（睡衣）
 * 原研討會成員兼問題學生，代號「白兔」。
 * 對密碼有著神奇的直覺，不管是物理型還是數位型的密碼鎖都能輕易破解，但本人沒有意識到其天賦價值。
 * 道德觀極為低下，曾經搞過把資料庫整個格式化的惡劣事蹟。
@@ -250,7 +250,7 @@
 
 ==== 各務千尋（各務チヒロ） ====
 * CV：山村響（日）/烤梨（中）/김현지（韓）
-* '''班級：'''3年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''打手
+* '''班級：'''3年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>｜'''職業：'''打手
 * 副部長，因部長兼職其他社團，現在是實質上的部長。
 * 以優秀的駭客專業協助千年、他校和企業網路安全系統的開發與維護。
 ** 就駭客技術來說遠勝小玉、真紀、晴三人，即使三者聯手也沒法勝過。
@@ -269,7 +269,7 @@
 
 ==== 音瀬小玉（音瀬コタマ） ====
 * CV：高川みな（日）/嚴嚴子（中）/이은조（韓）
-* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（露營）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（露營）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（露營）；'''職業：'''輔助
+* '''班級：'''3年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（露營）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（露營）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（露營）｜'''職業：'''輔助
 * 典型的網路宅，現實世界不擅長與他人對話，到網路上就會變得多話。
 ** 平時面無表情，實際上感情豐富，還意外的很有獻身精神。
 * 喜歡監聽他人對話，連老師也會被偷裝竊聽器和GPS，雖然因此被訓話仍死性不改。
@@ -289,7 +289,7 @@
 
 ==== 小塗真紀（小塗マキ） ====
 * CV：[[三上枝織]]（日）/金娜（中）/변혜숙（韓）
-* '''班級：'''1年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}(露營)；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}(露營)；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（露營）；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''機槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}(露營)／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}(露營)｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（露營）｜'''職業：'''打手
 * 喜歡塗鴉的調皮少女，現時貝里塔斯的徽章就是由她設計。
 ** 會不分場所到處塗鴉，個人劇情中就曾經因此被關進派出所要老師過去撈人。
 * 《電腦新春行進曲》將髮型由糰子頭換成雙麻花辮之後人氣暴增，明明沒有實裝其討論度和二創圖數量卻超過了晴和小玉。
@@ -305,14 +305,14 @@
 *** 基本技降防的角色很多，真紀的強度在一眾同行中僅次於月夜，但月夜僅適用於中型敵人，因此真紀常做為降防掛件四處打工。
 ** 對單特化型的打手，由於能在商店換，基本上人手一隻兼滿練，在攻略室外薇娜戰時是最經濟實惠的輸出角。
 *** {{censored|1-Vol.Final攻略色彩版薇娜時被編排進與之交戰的對策部隊，並提醒星野要注意薇娜吐出的雷射，可以說是大蛇殺手設定的逆流。}}
-* 露營版是常駐三星，EX技是無視護盾對單體輸出，技能組設計非常露骨的在針對蓋布拉<s>但是實裝時間點是蓋布拉戰結束後</s>
+* 露營版是常駐三星，EX技是無視護盾對單體輸出，技能組設計非常露骨的在針對蓋布拉<s>但是實裝時間點卻是總力戰結束後</s>
 ** 普技是每45秒替自己上爆發特效、子技是增加我方所有學生的暴傷
 ** <s>天降JK，然而真正輸出的是露營道具</s>
 * <s>阿卡林（奇普托斯的樣子）</s>
 
 ==== 小鈎晴（小鈎ハレ） ====
 * CV：貝原怜奈（日）/秦文靜（中）/이달래（韓）
-* '''班級：'''2年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（露營）；'''職業：'''輔助
+* '''班級：'''2年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（露營）｜'''職業：'''輔助
 * 在千年學生中也是屈指可數的天才，為千年開發出許多先進機器，圍繞在身邊的無人機「雅典娜」便是她的傑作。
 ** 駭客能力仍然在陽葵和千尋之下。
 * 跟屬性相近的陽葵相比在社交上比較接近正常人。
@@ -339,7 +339,7 @@
 
 ==== 明星陽葵（明星ヒマリ） ====
 * CV：[[野上尤加奈|ゆかな]]（日）/王夢雅（中）/김채린（韓）
-* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''輔助、T.S（臨戰）
+* '''班級：'''3年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（臨戰）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>｜'''職業：'''輔助、T.S（臨戰）
 * 原貝里塔斯部長，因莉央要求任職特異現象搜查部部長。民間譯名為「日鞠」，通稱輪椅、otto。
 ** 因不明原因不良於行，平日全靠一張高科技輪椅代步。
 *** 從個人劇情中可知雙腳不是完全不能動，會用輪椅代步有很大可能只是為了保存體能。
@@ -397,7 +397,7 @@
 
 ==== 和泉元英美（和泉元エイミ） ====
 * CV：松永あかね（日）/梁瑞雪（中）/문지영（韓）
-* '''班級：'''1年級；'''武器：'''霰彈槍、狙擊槍（臨戰）；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（泳裝）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）；'''職業：'''坦克、輔助（泳裝）、打手（臨戰）
+* '''班級：'''1年級｜'''武器：'''霰彈槍、狙擊槍（臨戰）｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（泳裝）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）｜'''職業：'''坦克、輔助（泳裝）、打手（臨戰）
 * 部份翻譯為「艾米」。平時不常說話，總是像發呆那樣站在一邊，讓人猜不透她究竟在想些什麼。
 * 效率廚(無誤)，對研討會指派的任務傾向以最快速的方式完成。
 ** 從身上還貼著膏藥這點來看，她所謂的「效率」說穿了就是無腦突擊...<s>難怪是高防肉坦</s>
@@ -468,7 +468,7 @@
 
 ==== 白石詠葉(白石ウタハ) ====
 * CV：青地希望（日）/張若瑜（中）/손선영（韓）
-* '''班級：'''3年級；'''武器：'''<s>砲臺</s> 衝鋒槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（應援團）；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（應援團）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（應援團）；'''職業：'''打手
+* '''班級：'''3年級｜'''武器：'''<s>砲臺</s> 衝鋒槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（應援團）／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（應援團）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（應援團）｜'''職業：'''打手
 * 部長，部份譯名為「歌原」。
 ** 行動力強盛，對作為{{Ruby|巨匠|Maestro}}的身份執念深厚。
 ** 專精於硬體工程，主力是自製的全天後二足步行戰鬥用椅子「雷醬」和「雷醬二型」。
@@ -493,7 +493,7 @@
 
 ==== 貓塚響(猫塚ヒビキ) ====
 * CV：[[名塚佳織]]（日）/小N（中）/박시윤（韓）
-* '''班級：'''1年級；'''武器：'''迫擊砲；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（應援團）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（應援團）；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''迫擊砲｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（應援團）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（應援團）｜'''職業：'''打手
 * 有著優秀的工學才能，製作出各種各樣的發明，只是都會夾帶一兩個很奇怪的功能。
 ** 多半是自爆，有時是意味不明的藍牙或NFC機能。
 * 有Cosplay的興趣，會採購布料自行製作服裝，也因此負責應援團服裝的製作。
@@ -515,7 +515,7 @@
 
 ==== 豐見亞都梨(豊見コトリ) ====
 * CV：篠原なるみ（日）/竹子（中）/비주언（韓）
-* '''班級：'''1年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（應援團）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（應援團）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''輔助、打手（應援團）
+* '''班級：'''1年級｜'''武器：'''機槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（應援團）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（應援團）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''輔助、打手（應援團）
 * 專精於機械工程學，同時對天文學和歷史也有很豐富的知識，民間譯名多為「[[南小鳥|小鳥]]」或「[[五河琴里|琴里]]」。
 * 喜歡對遇到的各種現象或他人的提問進行說明，然而說明的內容往往過度冗長甚至跑題而顯得聒噪又煩人。
 ** 意外的是，被提問自己的個人情報時反而會害羞到無法回答。
@@ -540,7 +540,7 @@
 
 ==== 美甘寧瑠(美甘ネル) ====
 * CV：[[小清水亞美]]（日）/二嬌（中）/김보민（韓）
-* '''班級：'''3年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（兔女郎）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）、{{color|1=#6633CC|3=彈力裝甲}}(制服)；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、坦克（兔女郎）
+* '''班級：'''3年級｜'''武器：'''衝鋒槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（兔女郎）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）、{{color|1=#6633CC|3=彈力裝甲}}（制服）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手、坦克（兔女郎）
 * 領隊，代號[[機動戰士鋼彈00|{{ruby|00|Double O}}]]，外號「[[Artoria Pendragon (Fate)#寶具|誓約勝利的象徵]]」。通稱尼祿。
 * 千年最強戰力，擁有能跟弦生打成平手的強大實力，在狹窄空間近身作戰幾乎無人能敵，1-Vol.2-2裡有不少個人秀場。
 * 1-Vol.2-1對愛麗絲產生興趣便親自試探，以近身作戰的方式壓制對方，逼使其使用近乎同歸於盡的近距離炮擊才被擊退，那一戰散發出的殺氣令愛麗絲凡看到女僕裝就會害怕。
@@ -586,7 +586,7 @@
 
 ==== 一之瀬明日奈（一之瀬アスナ） ====
 * CV：[[長谷川育美]]（日）/梁爽（中）/김한나（韓）
-* '''班級：'''3年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（制服）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（制服）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、輔助（兔女郎、制服）
+* '''班級：'''3年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（制服）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（制服）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手、輔助（兔女郎、制服）
 * 代號01（[[仮面ライダーゼロワン|Zero One]]）。C&C的二把手，規定上如果寧瑠不在的話就會由她來管事。
 * 擁有野獸般的直覺，1-Vol.2單憑直覺就突破貝里塔斯和工程部的攔截，把桃井和綠剛好堵在路上<s>，然後正面吃了愛麗絲一發炮擊再起不能</s>。
 ** 執行任務時完全按照本能行動，集體行動時大伙也是讓她自由發揮，總是做出大量令人難以理解的行為，但每次都能取得好成果。
@@ -616,7 +616,7 @@
 
 ==== 角楯花凜（角楯カリン） ====
 * CV：[[沼倉愛美]]（日）/喵醬（中）/박하진（韓）
-* '''班級：'''2年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（兔女郎）、{{color|1=#ED2C3D|3=爆炸}}（制服）；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（兔女郎）；'''職業：'''打手
+* '''班級：'''2年級｜'''武器：'''狙擊槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（兔女郎）、{{color|1=#ED2C3D|3=爆炸}}（制服）／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（兔女郎）｜'''職業：'''打手
 * 代號02([[飛電或人#假面騎士Zero-Two（仮面ライダーゼロツー）|Zero Two]])。在C&C成員中相對接近常識人的存在，擔任寧瑠和朱音的暴走抑制器，然而她鬧起來也不比另外兩人好到哪裡去...
 * 擅長遠距離火力壓制，1-Vol.2就以長距離射擊把桃井和綠給壓制的不敢前進。
 ** 遭到詠葉和響的聯合反制，雖然藉著將詠葉當作肉盾讓響投鼠忌器一度扳回優勢，但隨著響改用照明彈干擾射線而無瑕壓制桃綠兩人。
@@ -638,7 +638,7 @@
 
 ==== 室笠朱音（室笠アカネ） ====
 * CV：原由実（日）/鍾可（中）/김이안（韓）
-* '''班級：'''2年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（兔女郎）、{{color|1=#ED2C3D|3=爆炸}}（制服）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（兔女郎、制服）；'''職業：'''輔助、打手（兔女郎、制服）
+* '''班級：'''2年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#2D96D2|3=神秘}}（兔女郎）、{{color|1=#ED2C3D|3=爆炸}}（制服）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（兔女郎）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（兔女郎、制服）｜'''職業：'''輔助、打手（兔女郎、制服）
 * 代號03([[仮面ライダーアウトサイダーズ#假面騎士Zero-Three（仮面ライダーゼロスリー）|Zero Three]])。部份翻譯為「茜」。
 ** 成員中唯一明示具有女僕本職能力，也就是打掃和料理技能，精確地說原本就是女僕而理所當然入部。
 ** C&C真正管事的人，1-Vol.2由她負責與優香聯繫，寧瑠在遊戲間打電動也是她去把人抓回來。
@@ -658,7 +658,7 @@
 
 ==== 飛鳥馬季（飛鳥馬トキ） ====
 * CV：[[石川由依]]（日）/溯浔（中）/김연우（韓）
-* '''班級：'''1年級；'''武器：'''突擊步槍、手槍（臨戰）；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（臨戰）；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（兔女郎、臨戰）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、輔助（臨戰）
+* '''班級：'''1年級｜'''武器：'''突擊步槍、手槍（臨戰）｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（臨戰）／'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（兔女郎、臨戰）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手、輔助（臨戰）
 * 代號04(Zero Four)，部份翻譯為「時」，直屬莉央的貼身女僕兼護衛。
 ** 其實是莉央為了避免寧瑠抗命而準備的反制底牌，身上不僅搭載了特殊武裝，在允許下還可以進一步使用集中埃里都全計算能力以及電力的[[鋼鐵人#知名的裝甲|<s>寧瑠殲滅者</s>]]動力裝甲「阿比．舒<ref>其名源自於古巴比倫王，漢摩拉比之孫。</ref>」，藉著幾乎預知未來程度的計算能力彈開或迴避攻擊達到刀槍不入的效果。1-Vol.2-2後期攻克要塞都市埃里都的最大阻礙。
 *** 在C&C眾人的配合下被寧瑠扔進大幅加速的電梯裡，在無法迴避的狹窄環境下戰敗，但此舉也令寧瑠身受重傷而退場。
@@ -680,7 +680,7 @@
 ** 結果太引人注意，讓一起來幫忙的老師有點尷尬。
 * 原版還沒有任何興趣，臨戰版<s>八成受到遊戲開發部的影響</s>培養出了看直播與漫畫、玩遊戲等「暫定」的興趣。
 ** <s>與臨戰版莉央的專用家具互動展現出興趣培養的成果，完全把自己的主子摁在地上輾。</s>
-* 遊戲裡是第一個擁有三種SD模組的單一角色。
+* 遊戲裡第一個擁有三種SD模組的單一角色。
 ** 據說是原繪師偏好長裙造型，金用河卻比較相中短裙造型，妥協之下卻是兩種造型都裝進遊戲裡。
 ** 根據劇情中的表現大概可以分成：平時穿著長裙，戰鬥時脫掉一部分變成中短裙（裡頭事先穿好了阿比•舒的操作服），裝備阿比•舒時再把剩下的部分脫掉。
 * 原版是限定三星。EX技是裝備動力裝甲阿比•舒並提升攻擊、命中以及迴避數值，後續EX技更改為無視部分防禦的直線大範圍砲擊（使用3次將解除阿比•舒）。
@@ -695,7 +695,7 @@
 *** 擁有能量時使用EX技會分別給予單一我方解除弱化／單一敵人暈眩。
 ** 被動技是同時增加攻擊力和治療力，子技能是攻擊重甲敵人會追加傷害。
 ** <s>完美女僕轉職成完美特務</s>
-** 作為補師使用會有回復量不足與無法恢復自己的問題，現階段只能作為鋼鐵大陸攻略戰的凱瑟對策角或霍德的多刀隊伍中，鐵桶巨蟹登場後也能作為解除弱化的對策角上場。
+** 作為補師使用會有回復量不足與無法恢復自己的問題，現階段作為鋼鐵大陸攻略戰的凱瑟對策角或霍德的多刀隊伍中，鐵桶巨蟹登場後也能作為解除弱化的對策角上場。
 * 由於原版和兔女郎造型兩邊實裝的時間太過相近（相差64天），一度把蔚藍檔案和飛鳥馬季這兩者在X(原推特)上衝上日推話題第一與第五，成為蔚藍檔案當時的人氣王。
 
 === 遊戲開發部 ===
@@ -710,7 +710,7 @@
 
 ==== 花岡柚子(花岡ユズ) ====
 * CV：寺澤百花（日）/宅會（中）/장미（韓）
-* '''班級：'''1年級；'''武器：'''榴彈發射器；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（女僕）、{{color|1=#2D96D2|3=神秘}}（臨戰）；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（女僕）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（女僕、臨戰）；'''職業：'''打手、輔助（臨戰）
+* '''班級：'''1年級｜'''武器：'''榴彈發射器｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（女僕）、{{color|1=#2D96D2|3=神秘}}（臨戰）／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#6633CC|3=彈力裝甲}}（女僕）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（女僕、臨戰）｜'''職業：'''打手、輔助（臨戰）
 * 部長，負責遊戲程序。
 ** 患有社交恐懼症，害怕和其他人打交道，平常習慣躲在<s>柚子[[廚|櫥]]</s>置物櫃裡面。
 *** 原由是製作的遊戲《{{ruby|神話·傳說·編年史|Tales Saga Chronicle}}》原型上傳到網上後遭到猛烈差評和人身攻擊，導致選擇躲在置物櫃裡試圖逃避這一切。
@@ -744,7 +744,7 @@
 
 ==== 才羽桃井(才羽モモイ) ====
 * CV：[[德井青空]]（日）/蘇枕袖（中）/정해은（韓）
-* '''班級：'''1年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#6633CC|3=振動}}（女僕）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#6633CC|3=振動}}（女僕）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 才羽雙子姊姊，負責遊戲劇本，性格活潑，是遊戲開發部的{{ruby|氣氛營造者|Mood Maker}}。
 ** 鬼點子多，有時需要小綠幫忙踩刹車避免暴走。
 *** 社團實質上的骨幹，其他成員都是圍繞著她來行動{{censored|，1-Vol.2-2受傷昏迷後遊戲開發部馬上就陷入群龍無首的境況}}
@@ -775,7 +775,7 @@
 
 ==== 才羽綠(才羽ミドリ) ====
 * CV：高田憂希（日）/閻麼麼（中）/천송이（韓）
-* '''班級：'''1年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#6633CC|3=振動}}（女僕）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''狙擊槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#6633CC|3=振動}}（女僕）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 才羽雙子妹妹，負責遊戲插畫和視覺設計。相對於姊姊較為冷靜、內向。
 ** 擔任姐姐暴走時的煞車，但有時候自己提出的方案卻更為激進。
 ** 兩人合作時默契極佳，共同作戰時即使跟C&C的精英抗衡也不落下風
@@ -843,7 +843,7 @@
 
 ==== 天童Kei(天童ケイ){{anchor| Kei_GDD }} ==== 
 * CV：[[田中美海]]（日）/四白（中）/김가령（韓）
-* '''班級：'''1年級；'''武器：'''軌道砲；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{Color|darkcyan|3=複合裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''輔助
+* '''班級：'''1年級｜'''武器：'''軌道砲｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{Color|darkcyan|3=複合裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''輔助
 * 無名祭司在製造愛麗絲時留下的AI，啟動「無名諸神的王女」AL-1S用的鑰匙人格。
 ** 「Kei」是桃井唸錯Key而得到的稱呼，愛麗絲在Vol.2之後背棄了做為毀滅兵器AL-1S的存在理由與命運，失去本身意義的Key也無奈接受這個新名號。
 *** 1-Vol.Ex-3與馬爾庫特再次對峙並互報家門時由愛麗絲親自冠上姓氏「天童」。
@@ -948,7 +948,7 @@
 
 ==== 乙花堇(乙花スミレ) ====
 * CV：[[今井麻美]]（日）/昱頭（中）/김채하（韓）
-* '''班級：'''2年級；'''武器：'''霰彈槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（打工）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（打工）；'''職業：'''打手、輔助（打工）
+* '''班級：'''2年級｜'''武器：'''霰彈槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（打工）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（打工）｜'''職業：'''打手、輔助（打工）
 * 領隊。堅信「世界上所有事都可以用運動解決」；在理科生眾多的千年中罕見的肌肉笨蛋。
 ** 曾經為了補上在學科考試期間沒進行的訓練量而加重訓練強度，卻不慎把自己搞出脫水症狀。
 * 對老師的稱呼是「{{ruby|訓練師|トレーナー}}」。
@@ -973,7 +973,7 @@
 
 ==== 野正莉(野正 レイ) ====
 * CV：稻垣好 (日)/?（中）/김서현（韓）
-* '''班級：'''1年級；'''武器：'''火箭砲；'''攻擊類型：'''{{color|1=#6633CC|3=振動}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''火箭砲｜'''攻擊類型：'''{{color|1=#6633CC|3=振動}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 原本是千年棒球社備受矚目的新社員，認知到自己能力仍有不足所以來訓練部求教。
 ** 理由是想打出令自己非常滿意的全壘打而入社<s>，然後就被堇給操得死去活來</s>。
 * 《Pray-Ball！～瞄準滿壘全壘打！～》支持的球隊是已經189連敗的柯基勇士隊，結尾利用電波訊號成功抓到犯人，抓捕過程中造成勇士隊4棒打者受傷。

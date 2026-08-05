@@ -34,7 +34,7 @@
 
 ==== 天地仁耶(天地ニヤ) ====
 * CV：[[植田佳奈]]（日）/？（中）/성예원（韓）
-* '''班級：'''3年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#6633CC|3=振動}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''打手
+* '''班級：'''3年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#6633CC|3=振動}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>｜'''職業：'''打手
 * 部長，於活動《不忍之心》初登場。擅長權謀術數的愉悅犯，以將肇事人倒過來耍得團團轉為樂。
 ** 為了試探夏萊，在百鬼夜行與格黑娜的交流會期間故意唆使妖怪劇團綁架客串飾演「和樂公主」的伊吹，演變成處理不當就會變成外交問題的事態
 *** 雖然在忍術研究部和伊呂波的合作下順利落幕，事後被老師用可怕的表情說教了很久。
@@ -52,7 +52,7 @@
 
 ==== 桑上佳穗(桑上カホ) ====
 * CV：松井恵理子（日）/徐慧（中）/안영미（韓）
-* '''班級：'''3年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''3年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 副部長，兼任觀光文化產業宣傳支援部戰略領隊。
 ** 因為[[偶像大師_閃耀色彩#小宮果穂|某個偶像]]的關係，民間版多譯為「果穗」。
 * 相對於仁耶較為正經、認真，比仁耶更常接手處理學生相關事務，學生評價「比部長更像部長」。
@@ -65,7 +65,7 @@
 
 ==== 和樂知世(和楽チセ) ====
 * CV：嶋村侑（日）/紫蘇九月（中）/김한나（韓）
-* '''班級：'''2年級；'''武器：'''榴彈發射器；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、輔助（泳裝）
+* '''班級：'''2年級｜'''武器：'''榴彈發射器｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手、輔助（泳裝）
 * 有些電波和天然的成員，說話步調也明顯慢上一截。
 ** 雖說平常看起來很溫和，在戰場上也是會說出「總之先燒了再說」這種有違平日形象的話。
 * 百鬼夜行知名公演項目「和樂公主」主角，在自治區內有著近似於偶像的高人氣，本人則完全沒有自覺。
@@ -112,7 +112,7 @@
 
 ==== 御稜名草(御稜ナグサ) ====
 * CV：佐倉薰（日）/？（中）/박송（韓）
-* '''班級：'''3年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#6633CC|3=振動}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）；'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手、輔助（泳裝）
+* '''班級：'''3年級｜'''武器：'''狙擊槍｜'''攻擊類型：'''{{color|1=#6633CC|3=振動}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）／'''裝甲類型：'''{{color|1=#6633CC|3=彈力裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手、輔助（泳裝）
 * 副委員長，面對外人總是堅稱自己只是角色扮演。
 ** 三千留對其的形容為：「和菖蒲相反的陰角，兩個人合在一起就是陰與陽」。
 ** {{censored|角色扮演甚麼的看起來很像幹話，其實是對自己沒自信、覺得單純是躲在青梅竹馬菖蒲光輝下扮演「可靠副會長」的無用之人。隨著受到越來越多人認同、越擔心偽裝被人看穿，恐懼心逐漸增加。}}
@@ -153,7 +153,7 @@
 
 ==== 勘解由小路紫(勘解由小路ユカリ) ====
 * CV：村上まなつ/諾亞（中）/이세레나（韓）
-* '''班級：'''1年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#6633CC|3=振動}}、{{color|1=#DA8D34|3=貫穿}}(泳裝)；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}(泳裝)；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''狙擊槍｜'''攻擊類型：'''{{color|1=#6633CC|3=振動}}、{{color|1=#DA8D34|3=貫穿}}(泳裝)／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}(泳裝)｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 自稱「百花繚亂紛爭調停委員會引以為傲的一年級最強菁～英」<s>小春的既視感</s>。部份翻譯為「由加里」<s>，若和三一的梓搞混則敬請見諒</s>。
 ** 第一人稱為「{{ruby|小女子|みども}}」，性格樂天，對大部分的挫折皆不屈不撓。
 ** 家世顯赫出身高貴，家族在百鬼夜行中有極高聲望，因此出門在外通常不願意自報姓氏。
@@ -176,7 +176,7 @@
 
 ==== 不破蓮華(不破レンゲ) ====
 * CV：小市真琴（日）/井琉（中）/송하림（韓）
-* '''班級：'''2年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#6633CC|3=振動}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''2年級｜'''武器：'''狙擊槍｜'''攻擊類型：'''{{color|1=#6633CC|3=振動}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 突擊隊長，積極追尋自己的「青春」，與桔梗是自幼相識的青梅竹馬。
 ** 對百花繚亂毫無作為感到失望，認為繼續待著是在浪費青春，進而尋找新社團。
 ** 雖然一開始目標是文科社團，可是參加了許多社團後都感覺相性太差所以沒挺過入社體驗<s>小球藻觀察部哪來的全國大賽</s>，最後加入了修行部。
@@ -199,7 +199,7 @@
 
 ==== 桐生桔梗(桐生キキョウ) ====
 * CV：[[小松未可子]]（日）/陳璽月（中）/유영（韓）
-* '''班級：'''2年級；'''武器：'''狙擊槍；'''攻擊類型：'''{{color|1=#6633CC|3=振動}}；'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）；'''職業：'''輔助
+* '''班級：'''2年級｜'''武器：'''狙擊槍｜'''攻擊類型：'''{{color|1=#6633CC|3=振動}}／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）｜'''職業：'''輔助
 * 參謀，性格相對比較穩重，與蓮華是自小一起長大的青梅竹馬。
 ** 由於久等不見菖蒲回歸{{censored|以及名草突然無聲回歸並交還信物，感覺留守的自己遭到背叛}}，認為現行百花繚亂已經失去存在意義和價值，向陰陽部申請了解散令。
 ** 面對希望重建百花繚亂的紫口出惡言並將其痛毆一頓，想讓有其他地方可以回去的她知難而退<s>不愧是姓桐生的</s>。
@@ -243,7 +243,7 @@
 
 ==== 春日椿(春日ツバキ) ====
 * CV：白砂沙帆（日）/麼耶咩咩咩（中）/손정민（韓）
-* '''班級：'''2年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（導遊）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（導遊）；'''職業：'''坦克、輔助（導遊）
+* '''班級：'''2年級｜'''武器：'''衝鋒槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（導遊）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（導遊）｜'''職業：'''坦克、輔助（導遊）
 * 部長，修行目標是「良好的睡眠」，別名「睡美人」。
 ** 不管何時何地都能輕易入睡，甚至能站著睡覺，就算睡著了也能閃開敵人攻擊。
 ** 擁有相當驚人的[[巨乳|上圍]]。
@@ -264,7 +264,7 @@
 
 ==== 水羽三森(水羽ミモリ) ====
 * CV：[[田中理恵]]（日）/狐小吉（中）/류지아（韓）
-* '''班級：'''2年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）；'''職業：'''輔助
+* '''班級：'''2年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）｜'''職業：'''輔助
 * 副部長，修行目標是「完美的大和撫子」，和椿是兒時玩伴。
 ** 因小時候閱讀的少女漫畫而定下了上述修行目標，與其目標相應擁有優秀的家事和料理能力。
 *** 在個人劇情中散發出強大的人妻氣場，值得一看。
@@ -280,7 +280,7 @@
 
 ==== 勇美楓(勇美カエデ) ====
 * CV：[[加藤英美里]]（日）/寫川（中）/강규리（韓）
-* '''班級：'''1年級；'''武器：'''手槍；'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''輔助
+* '''班級：'''1年級｜'''武器：'''手槍｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>｜'''職業：'''輔助
 * 在鄉下地方長大，機緣下遇到了椿和三森之後加入，並訂下修行目標「出色的淑女」。
 ** 然而現在仍然是滿滿的孩子氣，從外人看來幾乎不會和「出色的淑女」這個形容詞連在一塊。
 *** 唯一例外大概是僅142cm低身高卻有著醒目的胸圍。<s>所謂的巨乳蘿莉，陽奈表示不滿。</s>
@@ -300,7 +300,7 @@
 
 ==== 河和靜子(河和シズコ) ====
 * CV：森永千才（日）/幽若乃（中）/김가령（韓）
-* '''班級：'''2年級；'''武器：'''霰彈槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>；'''職業：'''輔助
+* '''班級：'''2年級｜'''武器：'''霰彈槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>｜'''職業：'''輔助
 * 委員長，同時也是自治區內知名飲茶店「{{ruby|百夜堂|ももよどう}}」的店主兼看板娘。
 * 在店內以「冒失鬼接待服務」聞名，熟客都知道是演技。同時處理節慶營運和百夜堂經營兩方面都有著職業級經營手腕。
 **<s>只有穿上泳裝才看得到數錢數到發情的一面</s>
@@ -312,7 +312,7 @@
 
 ==== 朝比奈菲娜(朝比奈フィーナ) ====
 * CV：木戸衣吹（日）/蘇子蕪（中）/박이서（韓）
-* '''班級：'''1年級；'''武器：'''機槍；'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（導遊）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（導遊）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（導遊）；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''機槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（導遊）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（導遊）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（導遊）｜'''職業：'''打手
 * 受電影影響憧憬任俠精神的少女，對老師的稱呼是「頭目」。
 ** 雖說從電影學來的任俠知識與實際上有不少偏差，但本人開朗又樂於助人的性格某種程度上已經滿足了所謂的「任俠精神」。
 * 想找朋友一起買衣服時總是被躲開，理由是「她買的衣服胸部露出度太高」。
@@ -333,7 +333,7 @@
 
 ==== 里浜海花(里浜ウミカ) ====
 * CV：新田ひより/卡羅卡（中）/강한별（韓）
-* '''班級：'''1年級；'''武器：'''突擊步槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 一談到「祭典」就會異常亢奮。
 ** 擔任靜子的輔佐，但實務經驗遠不如靜子，對突發事故的處理能力遠遠不足。
 *** 有些自信心不足，靜子不在的話就會依靠老師。在老師的勸慰下還是鼓起勇氣面對諸多事務，最後也成功度過難關。
@@ -352,7 +352,7 @@
 
 ==== 久田伊樹菜(久田イズナ) ====
 * CV：[[阿澄佳奈]]（日）/Z君（中）/김예림（韓）
-* '''班級：'''1年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''打手
+* '''班級：'''1年級｜'''武器：'''衝鋒槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
 * 有著狐狸耳朵和尾巴，通稱小狐狸、忍忍。民間譯名多用「泉奈」。
 ** 尾巴還可以當成道具箱使用...
 ** <s>舌頭伸縮自如，使用時還會發出[[星海爭霸|蟲族]]的音效。</s>
@@ -375,7 +375,7 @@
 
 ==== 千鳥三千留(千鳥ミチル) ====
 * CV：[[水橋香織]]（日）/億仁（中）/손선영（韓）
-* '''班級：'''3年級；'''武器：'''霰彈槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（禮服）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（禮服）；'''職業：'''打手、治癒師（禮服）
+* '''班級：'''3年級｜'''武器：'''霰彈槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#ED2C3D|3=爆炸}}（禮服）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（禮服）｜'''職業：'''打手、治癒師（禮服）
 * 部長，部份翻譯為「滿」。
 * 重度忍者宅，為了推廣「忍者」在網上創立了頻道「少女忍法帖ミチルっち」，但點擊率低得可憐，留言趨近於零。
 ** 對於周遭幾乎無人認同自身愛好的環境感到不安，常以自信過剩的形象偽裝，成為部長後更是如此。
@@ -398,7 +398,7 @@
 
 ==== 大野月夜(大野ツクヨ) ====
 * CV：後藤彩佐（日）/荻秋（中）/원에스더（韓）
-* '''班級：'''1年級；'''武器：'''衝鋒槍；'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#DA8D34|3=貫穿}}（禮服）；'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}；'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>；'''職業：'''坦克
+* '''班級：'''1年級｜'''武器：'''衝鋒槍｜'''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}、{{color|1=#DA8D34|3=貫穿}}（禮服）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''坦克
 * 經由三千留的勸誘加入，民間翻譯為「月詠」。
 * 目前已實裝角色中身高最高(180cm)，但本人對此並不感到自信。
 ** 事實上，這反而給她在童年時期的社交帶來麻煩，直到現在還是很怕生。
@@ -410,9 +410,9 @@
 ** 本人表示是因為從小身高太高，演戲時總被安排扮演樹木，對此已經非常有心得。
 *** 和老師道別時也特意變裝成樹木，搞得老師疑神疑鬼的四下搜尋了許久才終於確定她已經離開。
 ** 官方單篇漫畫倒是向老師秀出「{{ruby|新．替身之術|<s>金蟬脫殼</s>}}」
-* 原版是常駐三星，EX技是3費<s>變成樹</s>以自身降攻為代價，在受傷時回血。回血量大於受傷量時就能越打越多血。
+* 原版是常駐三星，EX技是3費<s>變成樹</s>以自身降攻為代價在受傷時回血，回血量大於受傷量就能越打越多血，日服2026年8月起可用戰術考試幣換碎片。
 ** 降攻效果可以用瑪麗或千夏等EX技解除，回血效果同時有時間和次數限制，哪邊先到都會解除。
-** 回血效果一定要<b>受傷</b>才會發動，回避攻擊或用掩體抵擋時不會回血，護盾擋傷初期也不行，後來改版開放。
+** 回血效果一定要<b>受傷</b>才會發動，回避攻擊或用掩體抵擋時不會回血，護盾擋傷初期也不行，後來隨更新開放。
 *** 但<b>月夜是裝備徽章的迴避坦，</b>這個明顯是做給防禦坦的能力反而錯置了其戰力價值。
 ** 基本技對中型目標的降防比率很高，子技可以在自身吃群控時回血，因左述兩點在對壽司戰隊、泳裝若藻或PVP時仍然有使用價值。
 * 禮服版是常駐三星。EX技是4費移動至指定地點並獲得掩體+攻速強化。
