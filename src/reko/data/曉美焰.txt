@@ -1,4 +1,4 @@
-{{h0|暁美ほむら/曉美焰{{censored|/Homulilly<s>/焰魔</s>}}}}
+{{h0|暁美ほむら/曉美焰{{censored|/Homulilly<s>/{{censored|焰魔}}</s>}}}}
 
 {| class="wikitable" style="margin: 1.5em auto;text-align:center" 
 |-
