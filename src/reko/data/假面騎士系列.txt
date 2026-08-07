@@ -794,11 +794,11 @@
 ** Geats：以Desire Driver變身的假面騎士可以完全通用，除此以外者則各自有自己的變身道具而不能相容
 ** Gotchard：不論敵我雙方都是使用封印Chemy的卡片
 ** Gavv：Valen、Bake與Bitter Gavv都能通用幾乎所有Gavv能使用的Gochizo；Vrastum Gear的DX玩具能兼用部分前四者使用的Gochizo，劇中不明；Vrastum Gear專用的杯裝Gochizo只有Gavv與Bitter Gavv的DX玩具能兼容，劇中不明
-** <!--Zeztz：Zeztz與Nox、以及後續的Nox變體所使用的騎士系統基本一致-->
+** Zeztz：Zeztz與Nox、以及後續的Nox變體所使用的騎士系統基本一致
 
 * 主角騎士最終強化形態初登場關聯劇情：
 ** 出現完封之前所有形態的強敵（Saber、Revice、Gavv）
-** 主角失去變身能力（Zero-One）
+** 主角失去變身能力（Zero-One、Zetez）
 ** 例外：
 *** Geats（以上皆非）
 *** Gotchard（「主角因故無法變身之前的形態」+「主角失去變身能力」的變體，主角失去變身基礎形態及其直系強化形態的能力）
@@ -808,7 +808,7 @@
 *** <s>偷懶程度從最終魔王一直加重到第三乃至第二騎士，像[[櫻井景和#Bujin Sword|Tycoon Bujin Sword]]或[[黑鋼スパナ#Valvarad黑鋼（ヴァルバラド黒鋼）|Valvarad黑鋼]]這類身體全都改自過往前輩皮套的例子也越來越多</s>
 
 * 過往罕見<s>得每幾部才能看到一個</s>的女性騎士成為定番、甚至自初期起便成為常駐角色，登場人數也較以往明顯變多<s>戰鬥力也越來越猛</s>
-** 目前只有《Saber》（初期）和《Gavv》（全篇）沒有出現女性騎士
+** 目前只有《Saber》（初期）和《Gavv》以及《Zetez》沒有出現女性騎士
 
 * 父親不再是邪惡的假面騎士<s>（？）</s>
 ** 《Zero-One》、《Saber》、《Revice》雖然有父子對決但都並非反派，《Geats》則沒有父子對決{{censored|（雖然技術上Geats vs Glare的確是）}}、《Gotchard》甚至出現是主角群[[助拳人]]的父親角色
@@ -933,7 +933,7 @@
 |-
 | Gavv || <s>被打掉外甲的素體形態</s> || Poppin Gummy Form<br>初期的Gochizo形態（略） || Bushel Form || Caking Form || Blizzard Sorbel Form || - || Over Mode<br>Master Mode || - || Hexenheim Form || Amazingummy Form<ref>於本篇終盤（非最終話）登場的1話限定形態</ref>
 |-
-| Zeztz || ? || Physicam Impact<br>初期形態（略） || ? || Plasma<br>↓<br>Plasma Booster || ? || ? || ? || - || ? || ?
+| Zeztz || ? || Physicam Impact<br>初期形態（略） || ? || Plasma<br>↓<br>Plasma Booster || Catastrom<br>↓<br>Orderm ||  || Exdream || - || Agendream || ?
 |}
 {{hidef}}
 

@@ -191,13 +191,27 @@
 |}
 {{hidef}}
 
-==== 大型機台遊戲 ====
+==== 街機遊戲 ====
 {{hideh|點擊展開}}
 {|class="wikitable"  style="margin:1.5em auto;"
 !作品名稱
 !開發商
 !苦主
 !被「致敬」的東西
+|-
+|EZ2DJ<br>EZ2AC
+|AmuseWorld<br>3S ENTERTAINMENT<br>Square Pixels
+|Beatmania
+|按鍵配置和玩法除了主要照抄初代Beatmania的5鍵+刮盤以外，多了踏板，後期版本甚至連特效鍵也會變成譜面專用鍵<br>因為玩法過於相像，不意外在2001年被Konami控告，這個官司足足打了7年之後，Konami勝訴，該系列機台因此在日本街機市場受到限制（禁止於街機聽稼動），此次官司也令AmuseWorld的財務受到嚴重影響，最後倒閉，原團隊後來分別成立了3S ENTERTAINMENT及Square Pixels，街機方面歷經改名為EZ2AC之後才好轉<br><br>同時也有PC版《EZ2ON》，與街機版不同的是少了刮盤和踏板兩個按鍵配置，街機版於《EZ2AC FINAL：EX》正式收攤之後目前以PC版《EZ2ON REBOOT：R 》延續其命脈<br><br><s>至於其衍生作《EZ2Dancer》<ref>DDR+Dance Maniax玩法的街機音樂遊戲</ref>系列則是直接被腰斬</s><br>EZ2ON的誕生也促成了另一款韓國音樂遊戲DJMAX的誕生
+|-
+|Pump It Up
+|Andamiro
+|Rowspan = "2"|Dance Dance Revolution
+|簡稱PIU<br>玩法相像，但踏板配置變成斜向四方+中間踏板，後期的長押箭頭長押時也會算COMBO（類似上面EZ2AC、EZ2ON及DJMAX）<br>同樣被Konami（以侵害相關專利為由）控告，不過Andamiro也以同樣理由控告Konami，最後在2002年雙方達成和解，令Pump It Up延續下去，甚至慢慢進軍日本市場
+|-
+|In The Groove
+|Roxor
+|簡稱ITG<br>由於是用DDR模擬引擎Stepmania製作，所以無論玩法跟踏板配置直接從原作複製貼上，不過追加了多種譜面特效、炸彈、連踏、3鍵/4鍵同時踏等額外要素，此外機台'''也能兼用Konami本家的DDR機台改裝使用'''<br>當然也不意外被Konami控告，之後Konami和Roxor雙方在2006年和解，Konami也因此吸收了ITG的版權及控制權<s>，可能是造成DDR後續作品的一部分高難度譜面走向極端（鬼畜）化的原因</s><br>開發團隊後來跑去向Andamiro獲得授權製作了《Pump It Up Pro》以及《Pump It Up Infinity》，數年之後更是製作了《StepmaniaX》<s>然後前Konami老東家NAOKI也在那邊合作得很開心的樣子</s>
 |-
 |Office 女人天下（오피스 여인천하）
 |Danbi

@@ -9,7 +9,7 @@
 |-
 | style = "text-align: center; "  | 本條目的所屬作品以各原文+中文譯名為主，不確定曲名則留空白或片段
 |-
-| style = "text-align: center; "  | 引用方式如：全曲✉<ref>'''原封不動整曲全用'''✉，將已發行音樂曲目之完整內容作為素材使用，於文戲段落較長而曲目時間較短時常見</ref>、剪輯✂<ref>將已發行音樂曲目'''剪為較短、有跳段的版本✂'''，於原曲較長或曲風變化較多時常見</ref>、採譜❏<ref>從'''既存樂曲、有人聲歌曲採用❏其曲譜'''，但使用不同樂器演奏的版本作為素材，或採用原歌曲同專輯內無人聲伴唱的曲源為素材</ref>、翻唱☻<ref>將既存歌曲或樂曲'''填詞後由歌手配唱成歌曲☻'''，由於歌壇翻唱發片行為在業界另有內規不受一般聽眾追究影響，<b>本表僅收錄『影劇歌曲非原創，實為翻唱歌曲』</b>的情況，同曲由其他歌手發行無關於影劇的翻唱曲則列於備註</ref>、改編✎<ref>曲調的'''部分音符、音程升降經過改動✎'''後重新演奏，但可辨認出與原曲相似的同一音程結構</ref>、混成✾<ref>以兩首以上可辨識的原曲'''混合編成'''✾，因案例絕少且取材橫跨不同領域，另列一類以彙整</ref>等，於備註欄詳述情況。 
+| style = "text-align: center; "  | 引用方式如：全曲✉<ref>'''原封不動整曲全用'''✉，將已發行音樂曲目之完整內容作為素材使用，於文戲段落較長而曲目時間較短時常見</ref>、剪輯✂<ref>將已發行音樂曲目'''剪為較短、有跳段的版本✂'''，於原曲較長或曲風變化較多時常見</ref>、採譜❏<ref>從'''既存樂曲、有人聲歌曲採用❏其曲譜'''，但使用不同樂器演奏的版本作為素材，或採用原歌曲同專輯內無人聲伴唱的曲源為素材</ref>、翻唱☻<ref>將既存歌曲或樂曲'''填詞後由歌手配唱成歌曲☻'''，由於歌壇翻唱發片行為在業界另有內規不受一般聽眾追究影響，<b>本表僅收錄『'''影劇內歌曲非原創/非首創，實為翻唱歌曲'''』</b>的情況，同曲由其他歌手發行無關於影劇的翻唱曲則酌情列於備註</ref>、改編✎<ref>曲調的'''部分音符、音程升降經過改動✎'''後重新演奏，但可辨認出與原曲相似的同一音程結構，且與原曲有明確先後時序</ref>、混成✾<ref>以兩首以上可辨識的原曲'''混合編成'''✾，因案例絕少且取材橫跨不同領域，另列一類以彙整</ref>等，於備註欄詳述情況。 
 |}
 [[檔案:Music Piracy.jpg|縮圖|160x160像素|劇伴泥棒犯科帳]]
 
@@ -1448,6 +1448,8 @@
 |-
 ||[https://youtu.be/9tBODimLGEc 夢裡相思] || 柔情場面用 ||
 |-
+|| 96' 陳進興〈一簾幽夢〉|| 許茹芸〈[https://youtu.be/jCf5ixKDO5A 我有一簾幽夢]〉|| '96 TVB〈笑傲江湖〉❏[https://youtu.be/y6spVIheXfc&t=414 令狐沖接任掌門後夢話] ||
+|-
 | rowspan="3"|'94 Jeff Danna<br>〈Kung Fu: The Legend Continues〉 || 〈[https://youtu.be/7iaWtp-r5dY Posse]〉 || 《天宇》✉[https://youtu.be/oEcvI4xipGc 刀劍談OP]|| 
 |-
 || 〈[https://youtu.be/ghy6yMHrUEo Theme From Kung Fu]〉||'96 TVB〈笑傲江湖〉[https://youtu.be/uryTiLbSE50&t=8 江湖草莽六人行]||
@@ -2429,7 +2431,7 @@ Sweetbox 〈[https://youtu.be/qCWlsut-oF0 SUPERSTAR]〉、<br>S.H.E〈[https://y
 |-
 || [https://youtu.be/wBV6ZO713l4 春萌え ～せせらぎ清浄～] ||  '97 TVB〈苗翠花〉✂場景曲
 |-
-| rowspan="12" |喜多郎||[https://youtu.be/OBW6zHqHxmo Orochi]||《天宇》✂[https://youtu.be/CkOD5ZUh7Hw 驚天九龍ED]、✂[https://youtu.be/r7-Nl8rIhe4 砍命瘋馬武曲]<br>'96 TVB〈笑傲江湖〉✂[https://youtu.be/O26ME6qPyqY&t=431 桃谷四仙推舉令狐沖]||
+| rowspan="12" |喜多郎||[https://youtu.be/w6gJzdtyZSs 大蛇]||《天宇》✂[https://youtu.be/CkOD5ZUh7Hw 驚天九龍ED3]、✂[https://youtu.be/r7-Nl8rIhe4 砍命瘋馬武曲]<br>'96 TVB〈笑傲江湖〉✂[https://youtu.be/O26ME6qPyqY&t=431 桃谷四仙推舉令狐沖] || 另有[https://youtu.be/OBW6zHqHxmo Live版]
 |-
 ||[https://youtu.be/ZeGBv5gXTGE 太始] ||'90 亞視〈中華英雄〉悲情曲|| 
 |-
