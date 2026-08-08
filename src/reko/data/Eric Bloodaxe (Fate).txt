@@ -89,7 +89,7 @@
 		|bgcolor=	white
 		|name=		血染的加冕式
 		|pronounce=	Bloodbath Crown
-		|rank=		B
+		|rank=		B → B++{{ref|FGO寶具強化後的等級}}
 		|type=		對人(自身)寶具
 		|range=		0
 		|maxcaught=	1人
