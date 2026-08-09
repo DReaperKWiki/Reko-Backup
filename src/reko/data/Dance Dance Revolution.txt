@@ -1,0 +1,574 @@
+{{h0|Dance Dance Revolution<ref>日版、美版名稱</ref>/Dancing Stage<ref>歐版名稱</ref>/熱舞革命<ref>中文圈直譯</ref>/勁爆熱舞<ref>中文坊間名稱</ref>/跳舞機<ref>中文圈俗稱</ref>}}
+{| class="wikitable" style="margin:1.5em auto; text-align:center;"
+|-
+|本條目歡迎各位島民繼續補充
+|-
+|}
+
+==簡介==
+*由[[KONAMI]]的音樂遊戲部門BEMANI推出的音樂遊戲
+** 最初主導為前田尚紀（NAOKI），後來則分別交由田口康裕（TAG）及淺見祐一（U1-ASAMi）主導
+*與按鍵和刮盤為主的Beatmania不同，本做主打「遊戲為型的有氧運動」，以類似跳舞的腳踩按鍵來遊玩，因此也俗稱「跳舞機」
+
+==基本玩法==
+* 音符和判定框分別以⬅️⬇️⬆️➡️四個箭頭表示，只要音符與判定框重合就得馬上踏下相對應的踏板
+** 判定以踩中時機分別為MARVELOUS!!!、PERFECT!!!、GREAT!!、GOOD、BOO/ALMOST、MISS
+*** 只要有連續以GREAT以上踩中音符就會算COMBO，反之GOOD以下就會中斷（2013版開始放寬至GOOD也會計算）
+*** 2013開始則是將BOO/ALMOST與MISS統合
+** 除了單踏以外，有時音符也會同時出現兩個，此時需同時踩兩個相對應的踏板
+** MAX開始導入FREEZE長踏音符，必須完整踩住才算O.K，反之太早放開一下子（約半秒左右）會判定為N.G
+*** FREEZE在判定為GOOD和BOO/ALMOST也會算在內
+** 玩家的能量條會視判定作增減，基本上判定為GREAT以上就會增加能量，反之BOO以下會扣減，GOOD則不變（2013版放寬至GOOD判定也能增加能量）
+*** 除了簡單模式以外，任何模式只要能量條歸零就直接關門GAME OVER（後續代數也會以E評價來顯示）
+*** 而後的作品進入EXTRA STAGE時，能量條會變成4 LIFE，此時GOOD判定以下會強制扣能量，無法回復；One More Extra Stage/Encore Extra Stage則是只有1能量的RISKY，GOOD判定以下直接關門
+* 關卡結算畫面會根據玩家表現作出評價：從最低至最高為E > D > C > B > A > S (AA) > SS (AAA)
+** X開始如果以FULL COMBO完成譜面會有特殊演出，結算畫面也會有FULL COMBO標示
+* 除了單人遊玩的4踏板以外，也有單人8踏板的DOUBLE以及雙人單踏板的VERSUS，最初版本甚至有兩邊譜面不同的COUPLE
+
+==系列列表==
+===舊框體===
+* 該世代框體總共推出12+3代（包括最初代～X3 vs 2nd MIX以及過渡性質的2013、2014）
+* 最初至4代需踩踏板輸入特定指令才可解鎖多種譜面特效以及其他難度的譜面（後者有逐漸簡化的趨勢）
+** 2代之前的難度選擇只影響可選歌曲，且部分譜面也會不同
+
+{{hideh|代數一覽（點擊展開）}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!名稱
+!稼動日期
+!曲目總數
+!備註
+|-
+|Dance Dance Revolution
+|1998年9月26日（無印）<br>1998年11月18日（IR版）<br>1999年8月（北美版、亞洲版）
+|9（無印）<br>11（IR版）<br>13+1（北美版、亞洲版）
+|最初作，本作版權曲多於原創歌曲<br>分為無印版和IR版（網路排名版），兩者之間有極大差異：<br>無印沒有MANIAC譜面，IR版才追加<br>無印版無論有沒有踩中音符皆沒有判定特效，IR版才追加<br>此外因為版權問題，後來的北美版和亞洲版的收錄歌曲會有一些差異<br>而後有移植至PS，並新增ARRANGE模式：除了上述的判定以外，多了一個只要踩空就會出現的OUCH判定，也會扣能量
+|-
+|Dance Dance Revolution 2nd MIX
+|1998年11月18日（無印）<br>1999年4月28日（LINK版）
+|38
+|第二作，BASIC和ANOTHER譜面選擇簡化：可在難度選擇畫面裡面預先選擇（踏⬆️或⬇️兩次選擇，MANIAC譜面則需要另外輸入⬅️⬅️⬅️➡️➡️➡️⬅️➡️指令）<br>LINK版本可直接選擇全歌曲模式，此外首次可允許兩邊不同譜面難度，另外可以透過PS記憶卡存取於家用版自訂的譜面遊玩<br>初代以來的EXTRA STAGE刪除
+|-
+|Dancing Stage
+|1999年1月
+|16
+|歐洲發行版本<br>系統沿用2代，收錄曲目則有初代和2代歌曲
+|-
+|Dance Dance Revolution 2nd MIX CLUB VERSION
+|1999年5月6日（第一版）<br>1999年7月27日（第二版）
+|13（第一版）<br>42（第二版）<br>'''未計算上者的曲目'''
+|可與Beatmania IIDX連動的版本<br>第二版首次有變速譜面
+|-
+|Dancing Stage featuring TRUE KiSS DESTiNATiON
+|1999年7月27日
+|11
+|與小至哲哉及吉田麻美創立的TRUE KiSS DESTiNATiON<ref>後改名KISS DESTINATION，最後於2001年解散</ref>的聯名作，除了兩首KONAMI自家的原創曲以外其餘歌曲都是前者的歌曲<br>首次畫面以60FPS為主，此外獨家收錄SUPER MANIAC以及家用版才有的FREE譜面，並且首次導入特效選項（選歌以前才可使用）
+|-
+|Dance Dance Revolution Solo BASS MIX
+|1999年8月19日
+|22
+|如機台齊名，本次以單人+6踏板為主<br>6踏板配置除了原本的⬅️⬇️⬆️➡️以外新增兩個分別為↖️↗️的踏板，因此部分高難度譜面甚至也會出現3鍵或4鍵同時踏的音符<br>雖說是SOLO機，但兩台框體可聯機<br>本作首次導入多首歌曲合一的MEGAMIX歌曲，算是後來NONSTOP模式的雛形
+|-
+|Dance Dance Revolution 3rd MIX
+|1999年10月30日（無印）<br>2000年4月1日（韓版）<br>2000年6月21日（加強版）
+|72（日版、韓版）<br>65（亞洲版）<br>81（韓版第二版）<br>88（加強版）
+|本作開始主機板更換成搭載數位音源輸出版的System 573<br>播報員語音換新直至5th Mix<br>3代模式只能玩當代收錄曲，不過可在標題畫面輸入⬅️⬅️➡️➡️切換成2nd MIX模式遊玩前兩代的歌曲<br>通常可選的譜面難度變成BASIC和ANOTHER，MANIAC除了2代模式以外必須在標題畫面輸入⬅️⬅️⬅️➡️➡️➡️⬅️➡️切換成Step Step Revolution（SSR）模式才可遊玩（加強版直接統合）<br>首次實裝單人雙踏板的DOUBLE模式以及從COUPLE變種的獨家UNISON模式<br>加強版部分歌曲因為版權問題而刪除<br>韓版兩個版本新增韓國本土版權曲
+|-
+|Dance Dance Revolution Solo 2000
+|1999年12月16日
+|45（日版）<br>40（亞洲版）
+|SOLO系列第2作，除了原本的6鍵以外，新增歷代經典的4鍵以及本作原創的↖️⬇️↗️3鍵<br>本次開始導入代幣制度：能遊玩哪些歌曲<ref>基本上一般歌曲只需花費1代幣，MEGAMIX則是2代幣</ref>、允許失敗次數視當前代幣投入數為準
+|-
+|Dancing Stage featuring DREAMS COME TRUE
+|1999年12月25日
+|13
+|與吉田美和及中川正人創立的日本偶像團體「美夢成真（DREAMS COME TRUE）」的聯名作<br>'''少數沒有KONAMI自家原創歌曲的代數'''<br>首次可選擇音符樣式
+|-
+|Dance Dance Revolution 4thMIX
+|2000年8月24日（無印）<br>2000年12月28日（加強版）
+|136（日版）<br>126（亞洲版）<br>150（加強版）
+|與SOLO機台同步推出，因此所有歌曲皆有SOLO機台獨有的6鍵譜面版本<br>歌曲選擇介面翻新、首次導入歌曲類別切換的選項、評分系統刷新、ANOTHER難度跟進TRUE KiSS DESTiNATiON更名為TRICK難度<br>首次導入SOLO以來的BATTLE譜面<br>加強版可以直接遊玩全部歌曲
+|-
+|Dancing Stage EuroMIX
+|2000年8月
+|28（算入KONAMI INTERNET CHALLENGE則有34）
+|歐洲發行版本第2作<br>以3代為基底，同時追加環球音樂授權的版權曲
+|-
+|Dance Dance Revolution USA
+|2000年10月
+|26
+|主打美國本土歌曲的特別版
+|-
+|Dancing Stage featuring Disney's RAVE
+|2000年11月30日
+|25
+|與迪士尼的聯名作，此外也有收錄Avex發行的Eurobeat歌曲<br>家用版新增魔法對戰模式：兩邊不時會產生妨害特效<br>MANIAC譜面選擇方式為歷代最複雜：<br>街機版需切換到業務模式並同時踏住2P的⬅️➡️鍵、按住Service和Test鍵，直到左上顯示MANIAC MODE ON即可解禁<br>家用版日版更複雜：選取畫面中須分別在Mickey Mouse March (Eurobeat Version) 停留1秒、Chim-Chim-Cher-ee停留2秒、Macho Duck停留1秒、ELECTRICAL PARADE (Retro Future MIX) 停留1秒、IT'S A SMALL WORLD停留2秒、 I Want You Back停留1秒之後同時踏下⬅️➡️鍵踩可解禁，之後的歐、美版則是完全簡化成需通過該曲及可解禁<br>歐版因為版權問題，其中兩首版權曲改為KONAMI自家原創歌曲
+|-
+|Dance Dance Revolution 5thMIX
+|2001年5月2日
+|122
+|選曲介面再度翻新、首次一開始即可全曲遊玩、（非譜面方面的）難度選擇取消<br>首次譜面有停頓特效，並且首次收錄3分鐘左右的完整曲<br>因版權問題，1～3代以來的大多版全曲全數刪除，取而代之新增IIDX以及Dance ManiaX移植而來的歌曲，此外NONSTOP模式刪除<br><br>PS家用版最終作，之後的代數皆往PS2發展
+|-
+|DDRMAX -Dance Dance Revolution 6thMIX-
+|2001年11月24日
+|42
+|選曲介面方面譜面難度數值廢止、新增難度雷達<br>首次導入FREEZE長踏音符，並且音符樣式些許改變（尾端從凹陷改為凸起）、判定新增MARVELOUS<br>播報員語音再次更改，由Londell "Taz" Hicks配音<br>家用版3代～5代部分歌曲逆流回本代，同時EXTRA STAGE機制復活<br>因應主機板負荷，初代以來的跳舞娃娃角色全數刪除
+|-
+|DDRMAX2 -Dance Dance Revolution 7thMIX-
+|2002年5月1日
+|135
+|譜面難度數值改回來並與雷達共存、追加更高難度的CHALLENGE難度<br>部分歷代KONAMI原創歌曲以投票方式復活
+|-
+|Dancing Stage EuroMIX2
+|2002年8月
+|68
+|歐洲發行版本第3作<br>以MAX2為基底，並新增數首限定版權曲<br>此外原版的鬼模式（CHALLENGE譜面專屬模式）刪除
+|-
+|Dance Dance Revolution EXTREME
+|2002年12月25日
+|240
+|第一款集大成：<br>大多歷代版權曲復活、新增其他KONAMI自家原創歌曲之餘MAX兩作的家用版限定曲全數逆流<br>NONSTOP模式回歸、CHALLENGE模式新增獨家的EX SCORE計算方式<br>新增入門的BEGINNER譜面<br>本作原本預定為系列最終作
+|-
+|Dancing Stage Fusion
+|2005年
+|49
+|歐洲發行的PS2家用版遊戲的逆移植街機版
+|-
+|Dance Dance Revolution SuperNOVA
+|2006年4月28日（歐版）<br>2006年5月15日（美版）<br>2006年7月12日（日版、亞洲版）
+|304
+|睽違4年的新作，首發於歐洲<br>主機板更新為BEMANI Python 2，首次支援網路排名，並且日版與亞洲版同時支援KONAMI本家的ID卡系統「e-amusement pass」<br>介面再度大翻新，跳舞娃娃回歸，並且部分歌曲會有專屬MV<br>譜面難度名稱部分更改：TRICK改為HARD、MANIAC改成EXPERT
+|-
+|Dance Dance Revolution SuperNOVA2
+|2007年8月22日（日版）<br>2008年1月18日（美版）
+|357
+|Disney's RAVE的卡路里消耗計算系統逆流，BEMANI街機以來的大部分系統（如解禁方面）大強化<br>「e-amusement pass」系統擴大至美版也可使用<br>主系列以來首次有日本流行歌曲的版權曲<br>分數計算系統再度刷新
+|-
+|Dance Dance Revolution X
+|2008年12月24日（日版）<br>2009年6月3日（美版）<br>2009年6月9日（歐版）
+|392（日版）<br>388（歐、美版）
+|主機板更新為Bemani PC Type 4 system<br>標題名稱從本作開始一律統一為Dance Dance Revolution<br>框體方面雖有新框體，但可兼容舊框體<br>播報員語音改由美國搖滾樂團Ozomatli的成員Justin與Wil-Dog擔綱<br>大部分過往BEMANI歌曲刪除，Dancemania版權曲以X-edit版重新編譜<br>難度數值刷新，最高等級提高到20，並且新增SHOCK音符：一踩到直接算MISS，同時譜面會全隱1秒左右，跳過會算COMBO<br>NAOKI最後主導的代數
+|-
+|Dance Dance Revolution X2
+|2010年7月7日（日版）<br>2010年12月31日（美版）<br>2011年5月13日（歐版）
+|454（日版）<br>452（歐版）
+|選曲畫面再度刷新（類似UNIVERSE的風格），導入PASELI電子收費功能<s>但台港澳用不到</s><br>新曲大量追加：包括大多日本流行樂以及動漫歌曲以及IIDX的BEMANI原創歌曲、部分Dancemania版權曲的X-edit新修譜面，不過部分在SuperNOVA2之前的版權曲刪除<br>首次有難度指數19的譜面<br>本傳最後在家用機推出的作品（家用版只有歐美版本），此後直至GRAND PRIX之前就無任何家用機作品
+|-
+|Dance Dance Revolution X3 VS 2ndMIX
+|2011年11月16日
+|527
+|除了新增大量BEMANI本家原創曲以外，因應2nd MIX復刻，歷代Dancemania版權曲全數回歸<br>本作獨家的2ndMIX模式則是忠實重現該代的介面以及玩法，同時HD化
+|-
+|}
+{{hidef}}
+
+===新框體===
+* 從2013/2014開始至今採用的框體：體積比舊框體大，主顏色為白色
+{{hideh|代數一覽（點擊展開）}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!名稱
+!稼動日期
+!曲目總數
+!備註
+|-
+|Dance Dance Revolution
+|2013年3月14日（2013）<br>2014年5月12日（2014）
+|610（2013）<br>682（2014）
+|本作開始框體方面逐漸轉往新框體<br>本作開始追加樂曲採用更新制<br>2014版選曲畫面大幅刷新並將難度指數顯示簡化（不再有幾隻腳計算）<br>音符判定大改（見上面玩法一欄）<br>結算畫面的卡路里消耗計算系統明確化：會計算玩家當前消耗的卡路里相當於甚麼食物的熱量<br>NAOKI最後提供自創曲目的代數，之後NAOKI離社
+|-
+|Dance Dance Revolution A
+|2016年3月30日（日版、亞洲版）<br>2016年4月4日（韓版）<br>2016年7月6日（美版）<br>2017年12月15日（歐版）
+|820（日版、韓版、亞洲版）<br>784（美版）<br>630（歐版，大會模式則有667）
+|
+|-
+|Dance Dance Revolution A20
+|2019年3月20日（金框體）<br>2019年7月24日（日版、亞洲版）<br>2019年8月1日（韓版）<br>2019年9月24日（美版）
+|908（金框體）<br>892（日版更新檔、亞洲版）<br>888（歐版）<br>884（美版）
+|20周年紀念作<br>首次分兩版本：金框體與原框體，金框體比原框體體積更大之餘，先行加入段位認定模式
+|-
+|Dance Dance Revolution A20
+|2020年7月1日（金框體）<br>2020年7月6日（日版、亞洲版、韓版、美版）<br>2022年1月14日（歐版）
+|1003（美版以外）<br>965（美版）
+|上者的改版
+|-
+|Dance Dance Revolution A3
+|2022年3月17日（金框體）<br>2022年6月22日（原框體）
+|1196
+|系列最後支援舊框體的遊戲
+|-
+|Dance Dance Revolution WORLD
+|2024年6月12日
+|（更新中）
+|不再有兩框體區分，直接統一更新<br>大多UI完全刷新、播報員語音再次更換（目前尚未透露實際聲優）
+|-
+|}
+{{hidef}}
+
+===家用版===
+* 需要注意的是，有一部分版權曲或是BEMANI自家原創曲皆會在部分代數先行出現，之後才會逆流回主系列
+====日本方面====
+{{hideh|代數一覽（點擊展開）}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!名稱
+!推出日期
+!推出平台
+!曲目總數
+!備註
+|-
+|おはスタ Dance Dance Revolution
+|2000年9月14日
+|rowspan = "3"|PS
+|12
+|與日本晨間兒童綜藝節目《おはスタ》聯名的兒童向DDR遊戲<br>除了收錄おはスタ精選歌曲以外也有收錄4首BEMANI原創歌曲
+|-
+|Dance Dance Revolution BEST HITS
+|2000年12月21日
+|29
+|以3代為基底，收錄初代自3代以來的共29首精選曲目
+|-
+|Dance Dance Revolution EXTRAMIX
+|2001年6月7日
+|50
+|以4thMIX PLUS為基底，收錄SOLO BASS MIX、SOLO 2000以及4thMIX PLUS三代的精選曲目（只有《PETIT LOVE》是來自Dance ManiaX的），但播報員語音則沿用SOLO的<br>此外也收錄前次未收錄的廢案譜面
+|-
+|Dance Dance Revolution Party Collection
+|2003年12月11日
+|rowspan = "3"|PS2
+|47
+|以EXTREME為基底，收錄自EXTREME以來的精選曲目<br>可利用本作的紀錄檔來解禁MAX、MAX2及EXTREME家用版的隱藏曲
+|-
+|DDR FESTIVAL -Dance Dance Revolution-
+|2004年11月18日
+|66
+|以美版EXTREME為基底，新增美版及歐版版權曲以及家用版首次加入日本動漫歌曲和日本流行歌曲各2首（但都是翻唱）<br>此外首次支援PS2攝影周邊EyeToy並有活用該周邊的獨家模式
+|-
+|Dance Dance Revolution STR!KE
+|2006年2月16日
+|52
+|北美方面DDR EXTREME2的日本版<br>收錄來自EXTREME2及UltraMix的曲目，也可與同平台的BEMANI相關音樂遊戲連動（主要在解禁方面）<br>同樣有支援EyeToy
+|-
+|Dance Dance Revolution ディズニーダンシングミュージアム
+|2000年11月30日
+|N64
+|22
+|BEMANI唯一推出在N64的遊戲<br>與同樣獲得迪士尼授權的Disney's Rave完全不同一款遊戲，本作同樣走兒童向
+|-
+|Dance Dance Revolution with MARIO（日版）<br>Dance Dance Revolution Mario Mix（美版）
+|2005年7月14日（日版）<br>2005年10月24日（美版）
+|GC
+|29
+|詳見[[瑪利歐系列]]
+|-
+|Dance Dance Revolution HOTTEST PARTY
+|2007年10月25日（日版）<br>2007年9月25日（美版）
+|rowspan = "3"|Wii
+|50
+|Xbox平台以外首款以16:9畫面比例顯示的DDR遊戲<br>上述的花彩特效沿用，但可以調整是否開啟<br>新增Wii主機的獨家玩法<br>跳舞毯除了可使用同捆包附贈的以外，也可使用上面附贈的跳舞毯<br>
+|-
+|ダンスダンスレボリューション フルフル♪パーティー
+|2008年12月18日
+|50
+|北美方面HOTTEST PARTY2的日本版<br>差別在於部分版權曲替換
+|-
+|Dance Dance Revolution MUSIC FIT
+|2010年1月28日
+|52
+|北美方面HOTTEST PARTY3的日本版<br>差別在於部分（ry<br>另有收錄支援Wii平衡板的獨家模式
+|-
+|Dance Dance Revolution 2ndMIX Dreamcast Edition
+|2000年2月17日
+|rowspan = "2"|DC
+|47
+|二代的Dreamcast特別版<br>也有收錄三代的歌曲<br>本作無法與街機版連動
+|-
+|Dance Dance Revolution CLUB VERSION Dreamcast Edition
+|2000年4月27日
+|52
+|PS平台的CLUB VERSION的Dreamcast特別版
+|-
+|Dance Dance Revolution GRAND PRIX
+|2021年11月8日
+|PC
+|
+|自DDR X家用版之後久違的家用版，推出於KONAMI自家遊戲平台「コナステ」<br>原本測試版本為DanceDanceRevolution V，為網頁遊戲
+|}
+{{hidef|}}
+
+====海外方面====
+{{hideh|代數一覽（點擊展開）}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!名稱
+!推出日期
+!推出平台
+!曲目總數
+!備註
+|-
+|Dance Dance Revolution KONAMIX
+|2002年5月
+|PS
+|52
+|以4thMIX為基底，收錄自5thMIX以來的精選曲目
+|-
+|Dance Dance Revolution EXTREME2
+|2005年9月27日
+|PS2
+|74
+|北美方面的EXTREME續篇<br>追加任務模式以及商店系統（可賺取點數解禁樂曲）<br>本作支援網路連線以及EyeToy周邊
+|-
+|Dancing Stage Party Edition
+|2002年11月22日
+|PS
+|51
+|5thMIX歐洲家用版，但系統方面以4thMIX為基底
+|-
+|Dancing Stage Megamix
+|2003年5月30日
+|PS2
+|28
+|MAX2歐洲家用版
+|-
+|Dance Dance Revolution ULTRAMIX<br>Dancing Stage Unleashed
+|2003年11月18日（美版）<br>2004年3月12日（歐版）
+|rowspan = "4"|Xbox
+|51+DLC 30（美版）44+DLC 30
+|首次支援4人遊玩以及DLC<br>對應Xbox LIVE
+|-
+|Dance Dance Revolution ULTRAMIX 2<br>Dancing Stage Unleashed 2
+|2004年11月18日（美版）<br>2005年5月13日（歐版）
+|70+DLC 60（美版）<br>
+|首次也是唯一收錄'''單人16鍵（4踏板）'''的QUAD MODE<br>對應Xbox LIVE
+|-
+|Dance Dance Revolution ULTRAMIX 3<br>Dancing Stage Unleashed 3
+|2005年11月（美版）<br>2006年3月17日（歐版）
+|71+DLC 77（美版）<br>73+DLC 87（歐版）
+|
+|-
+|Dance Dance Revolution ULTRAMIX 4
+|2006年11月14日
+|76+DLC 87（美版）
+|
+|-
+|Dance Dance Revolution UNIVERSE
+|2007年3月2日
+|rowspan = "3"|X360
+|78+DLC 10
+|首次有成就系統
+|-
+|Dance Dance Revolution UNIVERSE 2
+|2007年12月4日
+|75+DLC 10
+|獨家收錄冒險模式<br>支援日語介面，因此可用日本版X360遊玩
+|-
+|Dance Dance Revolution UNIVERSE 3
+|2008年10月27日（無印）<br>2009年5月7日（中文曲特別版）
+|69+DLC33
+|支援日語介面，因此可用日本版X360遊玩<br>另有販售收錄中文歌曲的中文曲特別版
+|-
+|Dance Dance Revolution/DanceDanceRevolution hottest party4
+|2010年11月16日（美版）<br>2010年11月16日（歐版）
+|Wii<br>X360<br>PS3
+|56
+|首款跨平台的DDR家用機遊戲<br>三種版本的UI介面完全不同：PS3與X360使用相同介面（但X360版少了對應PS Move的體感模式），Wii版則是自己獨創且同樣有體感模式，兩邊也有對應'''單版8鍵'''（多了↖️↙️↘️↗️四個鍵）的譜面<ref>其實韓國的DDR仿作Techno Motion比本家還要早支援單版8鍵...</ref>
+|-
+|DanceDanceRevolution II / DanceDanceRevolution hottest party5
+|2011年10月11日（美版）<br>2011年11月25日（歐版）
+|Wii
+|83
+|其實不管UI以及選曲，可以當作是X2家用版的Wii版
+|}
+{{hidef|}}
+
+===其他衍生作===
+*這裡紀錄的主要是部分衍生作以及街機、家用機以外的作品
+{{hideh|代數一覽（點擊展開）}}
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!名稱
+!推出日期
+!推出平台
+!曲目總數
+!備註
+|-
+|DAM-DDR<br>Dance Dance Revolution for DAM<br>DanceDanceRevolution Karaoke MIX
+|1999年11月
+|rowspan = "2"|DAM
+|?
+|對應卡拉OK機台DAM系列的DDR遊戲<br>譜面會照著自己選擇的歌曲自動生成，可以邊唱邊跳
+|-
+|DAM-DDR 2<br>Dance Dance Revolution for DAM 2nd<br>DanceDanceRevolution Karaoke MIX 2nd
+|2000年7月
+|?
+|大幅追加其他模式以及譜面難度，此外也收錄DDR專用樂曲
+|-
+|Dance Dance Revolution Kids
+|2000年12月
+|AC
+|11
+|首款低齡兒童向的DDR遊戲<br>本作算是實質上收錄日本動漫及流行樂曲的一代，但因為面向低齡兒童，譜面難度相對極低（大約等於日後的BEGINNER難度）
+|-
+|Dance Dance Revolution GB
+|2000年8月3日
+|rowspan = "5"|GBC
+|17
+|首款掌上機平台的版本，以2ndMIX為基底<br>可使用附贈的DDR按鍵周邊遊玩<ref>未使用該周邊的話，操作方式則變成除了十字鍵以外，A鍵對應➡️、B鍵對應⬆️</ref>
+|-
+|Dance Dance Revolution GB2
+|2000年11月16日
+|20
+|GB系列第2彈<br>以3rdMIX為基底，但也有收錄Solo的樂曲
+|-
+|おはスタ Dance Dance Revolution
+|2000年11月16日
+|8
+|GB系列第3彈<br>おはスタDance Dance Revolution的GBC移植版，同時新增數款獨家小遊戲
+|-
+|Dance Dance Revolution GB3
+|2000年11月16日
+|23
+|GB系列第4彈<br>以4thMIX為基底，但也有收錄3rdMIX及Solo2000的樂曲
+|-
+|Dance Dance Revolution GB Disney Mix
+|2000年11月16日
+|16
+|GB系列最終作<br>Disney's RAVE的GBC移植版
+|-
+|Dancing Karaoke "D Kara"
+|2001年1月16日
+|PC
+|?
+|網路卡拉OK版，但大多歌曲需額外付費下載
+|-
+|Dance Dance Revolution（手機版）
+|2001年2月19日（iアプリ）<br>2009年2月（EZアプリ）
+|手機（iアプリ以及EZアプリ）
+|?
+|首次登上手機平台的系列作
+|-
+|Dance Dance Revolution S
+|2009年2月25日（iOS）<br>2009年12月17日（Windows Mobile）<br>2011年3月25日（Android）
+|iOS<br>Windows<br>Mobile
+|26
+|首次登上智慧型手機平台的系列作<br>新增獨家的搖擺（Shake）模式<br>Windows Mobile版因觸控面板的設計問題無法多點觸控，所以該版本有雙踏的譜面直接簡略
+|-
+|Dance Dance Revolution S+
+|2009年10月5日
+|iOS
+|3+DLC 67
+|上者的加強版<br>全部樂曲接追加搖擺模式的譜面，此外最初樂曲只有3首，其餘67首需要額外付費下載
+|-
+|Dance Dance Revolution Tokimeki MIX
+|2000年9月28日
+|PS
+|7
+|收錄於《純愛手札2 Substories~Memories Ringing On~》，為該作的附屬小遊戲
+|-
+|ダンスダンスレボリューション ふぁみマット
+|2001年8月9日
+|Plug-n-Play
+|12+擴充包39
+|與TAKARA共同製作的ふぁみマット版本<br>由於主打家庭同樂，所以沒有本家的任何核心要素
+|-
+|My First Dance Dance Revolution
+|2006年11月9日
+|Plug-n-Play
+|15+日版5 /美版5
+|另一個Plug-n-Play版本<br>同樣沒有譜面難度選擇，取而代之可選2鍵、3鍵及4鍵三種模式遊玩，此外也有收錄小遊戲
+|-
+|DanceDanceRevolution Classic Mini
+|2024年9月27日
+|兩棲（見後述）
+|（不適用）
+|由瑞起（ZUIKI Inc.）獲得KONAMI授權開發的迷你機台<br>主要收錄初代至3rdMIX，但大部分版權曲因為已經授權到期而沒有音樂<s>所以只能另外播放音樂或是只能透過特殊方式修改</s><br>有HDMI及USB接口，可分別連接至各種螢幕以及支援跳舞毯遊玩，此外機台上面的踏板型控制器為'''可拆式'''，可以直接接到PC上面遊玩DDR GRAND PRIX<s>甚至連Stepmania也能玩</s>
+|}
+{{hidef|}}
+
+==知名曲目==
+===PARANOiA系列===
+* DDR最廣為人知的魔王曲系列
+
+====PARANOiA Revolution====
+*初登場為X3 vs 2ndMIX，需在2ndMIX模式開啟MANIAC難度，並在HARD模式的前兩關達到FULL COMBO後才會出現，該曲通關後即可在X3解禁
+** EXPERT難度的譜面都是致敬歷代魔王曲的譜面
+*** SINGLE EXPERT: Healing-D-Vision (pre-DanceDanceRevolution X) EXPERT→SILVER☆DREAM EXPERT→The legend of MAX EXPERT→Anti-Matter EXPERT→TRIP MACHINE PhoeniX EXPERT→MAX 300 EXPERT→MAX 300 (X-Special) CHALLENGE→Fascination MAXX EXPERT/CHALLENGE→on the bounce EXPERT→Trigger→PARANOiA EXPERT→PARANOiA MAX～DIRTY MIX～ EXPERT→PARANOiA Rebirth EXPERT→PARANOIA EVOLUTION EXPERT→PARANOiA ETERNAL old EXPERT/X-Special CHALLENGE→PARANOIA survivor EXPERT→PARANOIA survivor MAX CHALLENGE→PARANOiA ～HADES～ CHALLENGE→New Decade CHALLENGE→POSSESSION CHALLENGE→MAXX UNLIMITED EXPERT→CANDY☆ EXPERT→BRILLIANT 2U(Orchestra Groove) EXPERT→Fascination ～eternal love mix～ CHALLENGE→Pluto Relinquish CHALLENGE→Valkyrie dimension EXPERT
+*** DOUBLE EXPERT: Healing-D-Vision (pre-DanceDanceRevolution X) EXPERT→SILVER☆DREAM EXPERT→The legend of MAX EXPERT→Anti-Matter EXPERT→TRIP MACHINE PhoeniX EXPERT→POSSESSION EXPERT→MAX 300 EXPERT→Fascination MAXX EXPERT→on the bounce EXPERT→Trigger→PARANOiA Mirror EXPERT→PARANOiA MAX～DIRTY MIX～ EXPERT→PARANOiA Rebirth EXPERT→PARANOIA EVOLUTION Mirror EXPERT→PARANOiA ETERNAL Mirror EXPERT→PARANOIA Survivor EXPERT→PARANOIA Survivor MAX CHALLENGE→PARANOiA ～HADES～ CHALLENGE→New Decade EXPERT→Arrabbiata DIFFICULT→MAXX UNLIMITED EXPERT→CANDY☆ EXPERT→SABER WING (Akira Ishihara Headshot mix) EXPERT→Fascination ～eternal love mix～ EXPERT→Pluto Relinquish EXPERT→Valkyrie dimension EXPERT
+** 至於CHALLENGE譜面則是只有中間會出現PARANOiA的一小段譜面以外其他都是完全譜面，而且更加鬼畜
+
+===MAX系列===
+* 另一個廣為人知的魔王曲系列
+
+===其他===
+====Butterfly====
+*初登場為初代，由瑞典雙人女子組合SMiLE.dk所作
+** 因為該歌曲時常作為初代～5代的主打曲（展示模式也會不時出現），令不少玩家（不管核心玩家、輕玩家<s>甚至雲玩家</s>）有著深刻印象，甚至因此令SMiLE.dk走紅，更令SMiLE.dk一度成為合作對象之一
+**此後也有推出不少Remix版本
+
+====DROP OUT====
+*初登場為Solo 2000，首個高速譜面曲
+** 最高難度的譜面的難點在於前段、後段的連續雙踏以及即將結束以前的高速交互連踏
+* <s>高難度譜面走向極端化的開始</s>
+
+====Dance Dance Revolution====
+*初登場為《EXTREME》，為初代DDR主題曲的混音版本，該作的ONE MORE EXTRA STAGE魔王曲
+**歌曲作者標明DDR ALL STARS即可得知當初EXTREME作為系列最終作的目的
+** 其CHALLENGE譜面更是有不少歷代歌曲的EXPERT譜面的影子：分別為BRILLIANT 2U(Orchestra Groove)→DEAD END→DYNAMITE RAVE→AFRONOVA→END OF THE CENTURY→AM-3P→CELEBRATE NITE→B4U→Dance Dance Revolution
+
+==本作的主要參與人員及團體==
+===Dancemania===
+* EMI Music Japan發行的舞曲系列專輯
+** EXTREME前後最主要的合作對象
+
+===KONAMI相關===
+* 淺見佑一（U1-ASAMI）
+**主要製作PS2家用版部分的樂曲以及NAOKI樂曲的混音版本，A開始擔任聲音導演
+
+* 石川貴之（DJ TAKA）
+** 2ndMIX開始提供IIDX樂曲的移植譜面，SuperNOVA2開始主動提供樂曲
+
+* 藤森崇多（Sota Fujimori） 
+** 5thMIX開始提供樂曲
+
+* 前田尚紀（NAOKI）
+** 初代以來的系列主導，同時也是樂曲提供擔當
+** 2013年離開KONAMI
+
+* 辛島純子（jun）
+** BEMANI的女性音樂家，與NAOKI組成TЁЯRA
+** 而後跟著NAOKI離開KONAMI，最後待在CAPCOM
+
+*BeForU
+** 由小坂りゆ、前原しゆな、代真、Noria組成的女子團體，之後加入有沢みはる、外花りさ、南さやか、福下恵美、立花彩野及西内裕美
+*** 目前除了小坂りゆ、福下恵美、立花彩野及西内裕美以外其他成員皆退伍
+*** 之後小坂りゆ成為自由人，並且也與NAOKI有密切的合作往來
+
+* 平田祥一郎（Shoichiro Hitara）
+** 為家用版4thMIX～SuperNOVA提供樂曲
+** 現在為SUPA LOVE所屬
+
+* 田口康裕（TAG）
+** 從X2開始主導系列直至2014
+
+==造成的社會現象==
+* 因為DDR的成功，令全國有了一定的大流行，甚至出現了一些致敬場面以及山寨品，也有一些電視廣告直接致敬DDR的遊玩畫面
+** 就以台港澳陸來講：大流行時期就有一些山寨廠商嗅到商機，便馬上推出山寨版本，大多都是Plug-n-Play性質的跳舞墊
+*** 而那些內裡幾乎都是用FC（紅白機）主機板魔改而來，且大多品質比起本家都參差不齊 
+** 韓國方面：Andamiro則是推出的作Pump It Up、AmuseWorld則是推出EZ2Dancer，而北美方面則是Roxor的In The Groove，至於這些山寨作的後續發展請詳見[[原創風行]]
+** 日本JALECO方面也有推出過競品作《Stepping Stage》系列，除了兩邊的踏板變成6鍵、螢幕變成3等分以外玩法近乎相同，結果不意外被KONAMI控告，因此只出了3代的街機系列以及合輯性質的家用版《Stepping Selection》
+* 而後也有粉絲為此製作了模擬引擎《Stepmania》，上面的In The Groove，以及後來的Pump It Up Pro、Pump It Up Infinity以及StepmaniaX就是使用該引擎製作
+* 除此之外，有一部分DDR大賽也有較特殊的DDR Freestyle大賽：以低難度譜面為主，但玩家需要以花式舞蹈完成譜面
+
+==相關連結==
+* https://remywiki.com/
+* https://bemaniwiki.com/
+
+==相關條目==
+* [[KONAMI]]
+
+==回應==
+<comments />
+==備註==
+<references/>
+[[分類:遊戲]]
+[[分類:音樂遊戲]]

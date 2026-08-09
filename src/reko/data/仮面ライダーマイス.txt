@@ -112,7 +112,7 @@
 
 === 假面騎士Rid（仮面ライダーリド） ===
 * 以Ride X-Egg 1搭配My-th Driver + <s>[[桐生戰兔#Hazard Form|Hazard Trigger]] </s>Hammer Born <s>[[仮面ライダーギーツ#Raise Buckle （レイズバックル）|Raise]] </s>Buckle（ハンマーボーンバックル）變身的假面騎士
-** 佩戴變身器的方式跟Maou相同；十二支同盟的假面騎士都會在自己的變身器上加裝限制器，唯獨使用Maou Driver的Maou沒有
+** 佩戴變身器的方式跟Maou相同；十二支同盟的假面騎士都會在自己的變身器上加裝控制裝置，唯獨使用Maou Driver的Maou沒有
 
 * <s>[[湯姆與傑利#布奇（Butch）|布奇]]</s>
 
@@ -124,7 +124,7 @@
 * <s>假面騎士[[初音未來]]</s>
 
 === 假面騎士Jyao（仮面ライダージャオ） ===
-* Jyao以Ride X-Egg 4搭配My-th Driver + Bite Born Buckle（バイトボーンバックル）變身的假面騎士
+* Jyao以Ride X-Egg 6搭配My-th Driver + Bite Born Buckle（バイトボーンバックル）變身的假面騎士
 * <s>[[淺倉威#假面騎士王蛇|假面騎士蛇王]]</s>
 
 === 假面騎士Mutn（仮面ライダームトン） ===
@@ -138,16 +138,44 @@
 * 同盟之「{{ruby|戌|[[犬]]}}」，以Ride X-Egg 11搭配My-th Driver + ??? Born Buckle變身的假面騎士
 * <s>假面騎士[[特捜戦隊デカレンジャー#地球署|番犬]]</s>
 
-<!-- == 用語 ==
-=== 世界觀關連 ===
-
+== 用語 ==
+<!-- === 世界觀關連 === -->
 === 裝備關連 ===
-* Ride X-Egg（ライドエグズ）
+<!-- * My-th Driver（マイスドライバー）
+<br> -->
 
-==== My-th ====
-* My-th Driver（マイスドライバー）
+* Ride X-Egg（ライドエグズ）
+** 本作變身道具
+{{hideh|Ride X-Egg一覽（點擊展開）}}
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+|-
+! 初登場話數 !! 名稱 !! 對應動物（表面/背面） !! 變身假面騎士/形態（表面/背面）!! 音效（表面）!! 音效（背面）!! 解說 !! 備註
+|-
+| ? || 1 || 貓<br>老鼠 || Rid<br>My-th || 貓！<br>Kamen Rider! Rid! || Mouse!<br>ネイズミーチーザー！My-th! || ? || [[捏他]]成語「窮鼠齧貓」
+|-
+| ? || 4 || 兔子<br>烏龜 || Datt<br>My-th（タートルフレーム） || 卯！<br>Kamen Rider! Datt! || Turtle!<br>キャメゲンサーイ！My-th タートルフレーム！ || ? || 捏他[[童話]]故事《龜兔賽跑》
+|-
+| ? || 6 || 蛇<br>獴 || Jyao<br>My-th（マングースフレーム） || 巳！<br>Kamen Rider! Jyao! || Mongoose!<br>バナナナナグース！My-th マングースフレーム！ || ? || 捏他沖繩歷史[https://www.ptt.cc/bbs/PokeMon/M.1397386982.A.27F.html 「獴vs波布蛇」]
+|-
+| ? || 8 || 羊<br>狼 || Mutn<br>My-th（ウルフフレーム） || 未！<br>Kamen Rider! Mutn! || Wolf!<br>ヨーキャミングムーン！My-th ウルフフレーム！ || ? || 捏他童話故事《狼和小羊》
+|-
+| ? || 10 || 雞<br>鮭魚 || ケイ<br>My-th（サーモンフレーム） || 酉！<br>仮面ライダー！ケイ！ || Salmon!<br>シャリバー！シャリバー！シャリバー！My-th サーモンフレーム！ || ? || 
+|}
+{{hidef|}}
 <br>
 
+* シードエグズ
+** 只擁有一種動物力量的道具
+{{hideh|シードエグズ一覽（點擊展開）}}
+{| class="wikitable" style="font-size:small; margin:0px auto; text-align:center;">
+|-
+! 初登場話數 !! 名稱 !! 對應動物 !! 音效 !! 解說 !! 備註
+|-
+| ? || ゾウ || 象 || ? || ? || <s>[[成句/偽裝真差，一看就知道是OO|偽裝真差，一看就知道是]][[一之瀬寶太郎#初期Ride Chemy Card組合一覽|Gotchard Gold Mechanichor]]的腳</s>
+|}
+{{hidef|}}
+
+<!-- ==== My-th ====
 * My-th Edge（マイスエッジ）
 <br>
 
@@ -156,19 +184,20 @@
 ** <s>Ride what the (ry</s>
 
 ==== Maou ====
-* Maou Driver（マオウドライバー）
-
-==== Rid ====
-* ハンマーボーンバックル
-
+* Maou Driver（マオウドライバー） -->
 == 音樂 ==
 === 主題曲 ===
-=== 插曲 ===
+* One Shot
+** 作詞：[[藤林聖子]]<br>作曲：T.Kura、JUNE<br>編曲：T.Kura<br>主唱：THE RAMPAGE
 
+<!-- === 插曲 === -->
 == 其他媒體 ==
-=== 電影 ===
+<!-- === 電影 === -->
+
 === 特別篇 ===
-* 十二支十色 -->
+* 十二支十色
+** <s>辣個[[公式が病気|官方發病]]的</s>[[仮面ライダージオウ#特別篇|TTFC]][[仮面ライダーガッチャード#特別篇|補元]][[ナンバーワン戦隊ゴジュウジャー#特別篇|系列]]，預定2026年9月12日起於東映特攝Fanclub上播出
+
 == 連結 ==
 * Reko Wiki條目
 ** [[假面騎士系列]]
