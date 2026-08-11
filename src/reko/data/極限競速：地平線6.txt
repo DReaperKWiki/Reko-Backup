@@ -40,7 +40,7 @@
 ** {{censored|不過跟《地平線5》相比已經算是改善不少。}}
 
 {{hideh|系列賽歷史（點擊展開）}}
-* 粗體字者為系列賽封面車輛。
+* {{Color|Red||紅字}}為系列賽封面車輛。
 {|border="1" class="wikitable" style="font-size:90%;"
 |-
 !標題
@@ -50,18 +50,23 @@
 |-
 |{{ruby|歡迎來到日本|Welcome to Japan}}
 |2026年5月21日~2026年6月18日
-|'''2008 Mazda Furai'''<br>2010 Nissan 370Z
+|{{Color|Red||2008 Mazda Furai}}<br>2010 Nissan 370Z
 |1999 Toyota Altezza RS200 Z Edition<br>2006 Mitsubishi Lancer Evolution IX MR GSR<br>1997 Nissan Skyline GT-R V-Spec<br>1991 Honda CR-X SiR<br>2019 Subaru WRX STI S209<br>2016 Toyota Land Cruiser Arctic Trucks AT37<br>1996 Toyota Starlet Glanza V<br>1974 Toyota Corolla SR5
 |-
 |{{ruby|Horizon歲月|Horizon Decades}}
 |2026年6月18日~2026年7月16日
-|'''1993 Porsche 911 Turbo S Leichtbau'''<br>2018 Lotus Exige Cup 430
+|{{Color|Red||1993 Porsche 911 Turbo S Leichtbau}}<br>2018 Lotus Exige Cup 430
 |1989 Volkswagen Golf Rallye G 60<br>1988 Lamborghini Countach LP5000 Quattrovalvole<br>1998 TVR Cerbera Speed 12<br>1993 Schuppan 962CR<br>2006 Dodge Ram SRT-10<br>2003 Ford F-150 SVT Lightning<br>2017 Mercedes-AMG GT R<br>2017 Saleen S7 LM
 |-
 |{{ruby|義大利異國情調|Italian Exotics}}
 |2026年7月16日~2026年8月13日
-|'''2024 Lamborghini Temerario'''<br>2022 Ferrari 296 GTB
+|{{Color|Red||2024 Lamborghini Temerario}}<br>2022 Ferrari 296 GTB
 |1984 De Tomaso Pantera GT5<br>2004 Maserati MC12<br>2017 Abarth 124 Spider<br>2020 Lamborghini Huracán LP 640-4 Evo<br>[[洛克昂‧史特拉托斯|1982 Lancia 037 Stradale]]<br>2020 Ferrari Roma<br>2022 Lamborghini Huracán LP 640-4 Evo Spyder<br>2021 Pagani Huayra R
+|-
+|{{ruby|Horizon吉祥物派對|Horizon Mascot Party}}
+|2026年8月13日~2026年9月10日
+|{{Color|Red||1970 Honda N600}}<br>1967 Renault 8 Gordini
+|2018 Exomotive Exocet Sport V8 XP-5<br>1969 Datsun 2000 Roadster<br>2024 Chevrolet Camaro ZL1<br>2016 Abarth 695 Biposto<br>1974 Toyota Celica GT<br>1989 Toyota MR2 SC<br>1988 Mitsubishi Starion ESI-R<br>1968 Dodge Dart HEMI Super Stock
 |}
 {{hidef}}
 
