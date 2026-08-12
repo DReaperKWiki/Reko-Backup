@@ -24,7 +24,8 @@
 *** 除了簡單模式以外，任何模式只要能量條歸零就直接關門GAME OVER（後續代數也會以E評價來顯示）
 *** 而後的作品進入EXTRA STAGE時，能量條會變成4 LIFE，此時GOOD判定以下會強制扣能量，無法回復；One More Extra Stage/Encore Extra Stage則是只有1能量的RISKY，GOOD判定以下直接關門
 * 關卡結算畫面會根據玩家表現作出評價：從最低至最高為E、D、C、B、A、S (AA)、SS (AAA)
-** X開始如果以FULL COMBO完成譜面會有特殊演出，結算畫面也會有FULL COMBO標示
+** X2開始如果以FULL COMBO完成譜面會有特殊演出，結算畫面也會有FULL COMBO標示
+*** 除了GREAT以下直接顯示FULL COMBO以外，PERFECT以上判定FULL COMBO會是PERFECT FULL COMBO、MARVELOUS則是MARVELOUS FULL COMBO，2013開始放寬至GREAT以上FULL COMBO顯示GREAT FULL COMBO
 * 除了單人遊玩的4踏板以外，也有單人8踏板的DOUBLE以及雙人單踏板的VERSUS，最初版本甚至有兩邊譜面不同的COUPLE
 
 ==系列列表==
@@ -255,7 +256,7 @@
 |2000年11月30日
 |N64
 |22
-|BEMANI唯一推出在N64的遊戲<br>與同樣獲得迪士尼授權的Disney's Rave完全不同一款遊戲，本作同樣走兒童向
+|BEMANI唯一推出在N64的遊戲<br>與同樣獲得迪士尼授權的Disney's Rave完全不同一款遊戲，本作跟おはスタ與Kids同樣走兒童向
 |-
 |Dance Dance Revolution with MARIO（日版）<br><br>Dance Dance Revolution Mario Mix（美版）
 |2005年7月14日（日版）<br>2005年10月24日（美版）
@@ -409,7 +410,7 @@
 |2000年12月
 |AC
 |11
-|繼家用機的おはスタ之後另一款純低齡兒童向的DDR遊戲，採用KONAMI研發的兒童街機以及代幣機專用的GSAN1主機板<br>本作除了同樣是少數沒有BEMANI自家樂曲的一代以外，也算是實質上首次收錄日本動漫樂曲的一代（但樂曲都是翻唱版），同時因為面向低齡兒童，譜面難度相對極低（大約等於日後的BEGINNER難度）<br>判定也簡化至GREAT > GOOD > FIGHT > POOR 四種，只有GREAT才會算COMBO，此外沒有分數計算，評價只會以玩家當前的判定多寡而定
+|繼家用機的おはスタ之後，另一款純低齡兒童向的DDR遊戲，採用KONAMI研發的兒童街機以及代幣機專用的GSAN1主機板<br>本作除了同樣是少數沒有BEMANI自家樂曲的一代以外，也算是實質上首次收錄日本動漫樂曲的一代（雖然樂曲都是獲得授權的翻唱版本），同時因為本作是面向低齡兒童，譜面難度相對極低（大約等於EXTREME開始就有的BEGINNER難度）<br>系統方面：判定簡化至GREAT > GOOD > FIGHT > POOR 四種，只有GREAT才會算COMBO（且需要踩滿3次以上才會計算），此外沒有分數計算，評價只會以玩家當前的判定多寡而定
 |-
 |Dance Dance Revolution GB
 |2000年8月3日
@@ -520,7 +521,9 @@
 * 初登場於家用版EXTREME，該作的One more EXTRA STAGE魔王曲，BPM 300，作者為2MB（U1-ASAMi）
 ** 可說是MAX300的混音版，樂曲特徵在開頭甚至途中會不時出現上述的英文語音，中間會穿插PARANOiA的一小部分樂段以及初代～2ndMIX的播報員語音，EXPERT以上難度的譜面到了該樂段也會出現一小部分PARANOiA譜面
 ** EXPERT譜面方面除了上述的中間部分，前半兩部分有連續雙踏，其餘就類似MAX300的譜面構成（8分音符居多），最後還會出現提高2倍速的高速BPM+連續8分音符環節
-*** 2014回歸後新修的CHALLENGE譜面的最後高速BPM環節改得更鬼畜：譜面之中除了連續8分音符以外還混有<s>疑似被EGOISM帶壞的</s>16分音符的高速連踏
+* 2014回歸後再次成為該作的ENCORE EXTRA STAGE魔王曲之一，在遊戲中特有的EXTRA STAGE活動「Replicant D-ignition」中以AA或以上評分完成EXPERT或以上難度的「EGOISM 440」後即可挑戰
+**新修的CHALLENGE譜面的最後高速BPM環節改得更鬼畜：譜面之中除了連續8分音符以外還混有<s>疑似被EGOISM 440帶壞的</s>16分音符的高速連踏
+** 在2015年3月26日隨著「Replicant D-ignition」進入第二階段下放到EXTRA STAGE，[[#Over_The_"Period"|而在EXTRA STAGE以AA或以上評分完成或EXPERT以上難度的本曲以後......]]
 
 ====ΔMAX====
 * 原本出自以Stepmania製作的同人版DDR《DDR Forever》，後來被官方正式承認並移植到UNIVERSE3，而後逆移植回X2至今
@@ -553,6 +556,7 @@
 * 初登場於X3 vs 2ndMIX，該作的ENCORE EXTRA STAGE魔王曲之一，EVOLVED系列最終曲，'''唯一非於家用機初登場的系列樂曲'''，作者名2.1MB underground（U1-ASAMi）
 ** 曲風算是London EVOLED的混音版，雖然有著一如往常的分歧譜面，不過最大特別之處在於：初登場至A3之間如果遊玩該曲並通關後，得到的通關訊息為'''PRAY FOR ALL'''而非通常的CLEARED
 ** 主要是因為該曲是作為緬懷於2011年的311大地震受難的災民（音樂不時會聽到疑似與前者有關聯的雜音），'''如果開WAVE特效會無法遊玩及解禁該曲，原因就如同特效名稱'''
+** 此外也是首個BPM有破千的樂曲（後面的瞬間加速環節的BPM達到'''1021'''）
 
 ===其他===
 ====Butterfly====
@@ -606,6 +610,19 @@
 ** 起手就是唐突的BPM480的8分連打初見殺，結尾也是BPM390的8分勁爆尾殺，可謂最兇譜面的代表之一
 ** 在KAC2012的DDR部門中，決賽選曲之一就是本曲的CHALLANGE譜，六名參賽者中竟有兩人在初見殺環節中關店、一人在尾殺環節中關店，在高手如雲的決賽中出現了只有一半參賽者倖存的奇景
 ** 直到配信9年後的2020年2月才出現第一例CHALLANGE譜面AAA通關的紀錄
+
+====EGOISM 440====
+* 初登場於2014，該作的EXTRA STAGE魔王曲，作者名U1 High-Speed（U1-ASAMi），最高BPM如同曲名一般接近440(CHALLENGE以外)及其倍數(CHALLENGE）
+** 需要在遊戲中特有的EXTRA STAGE活動「Replicant D-ignition」中解鎖前5首歌曲，並以AA或以上評分完成EXPERT難度以獲得對應的獎章，之後同樣以前述方法通關此曲就能於該作解禁MAX.(period)
+* CHALLENGE譜面的難度同樣高達LV19，幾乎沒有休息區的高速物量譜面、還有長達16小節的440BPM8分音符尾殺，高難度譜面鬼畜化之始
+
+====Over The "Period"====
+* {{Size|36|[[#MAX.(period)|Why do you need KONAMI ORIGINAL songs?]]<br>Because ...}}
+* 初登場於2014，該作的ENCORE EXTRA STAGE魔王曲之一，作者名TAG underground overlay（TAG）
+* 在遊戲中特有的EXTRA STAGE活動「Replicant D-ignition」的第二階段中，以AA或以上評分完成或EXPERT以上難度的MAX.(period)以後即可挑戰
+** 雖然EXPERT譜的難度只有15，但必須'''PERFECT全連通關'''，打出哪怕一個GREAT都會立即關店
+*** '''\ATTACK PERFECT FULL COMBO!!/'''
+*** 進入譜面的時間只有不到一秒，而且起手就是低速音符壓境，[https://www.nicovideo.jp/watch/sm25883670 初見即關店]的情況極為常見
 
 ==== び ====
 * SDVX移植曲
