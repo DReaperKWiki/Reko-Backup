@@ -1807,7 +1807,13 @@ D2：堕天のグリゴリ、ギロチンブレイズ<br>
 （羅弗寇）
 |Type=魔王
 |Ali=DARK-CHAOS
-|Picture=[[檔案:DSSHLucifuge.png|175px]]
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT2Lucifuge.png|真Ⅱ
+檔案:DSSHLucifuge.png|靈魂駭客
+</gallery>
+</div>
 |Faction=咒殺
 |Skill=光を喰らう闇（真ⅣF、D2）
 DSJ（頭目戰）：ドゥームズデイ、明星の加護<br>
@@ -2357,7 +2363,13 @@ D2：衝擊
 |Type=數位/舊約Ⅱ：妖鬼
 1代：墮天使
 |Ali=真：NEUTRAL-CHAOS
-|Picture=[[檔案:SMTPSXForneus.png|200px]]
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Forneus.png|真Ⅰ
+檔案:SMTPSXForneus.png|真Ⅰ（PSX）
+</gallery>
+</div>
 |Faction=冰凍（真Ⅲ、真Ⅴ/ⅤV）
 DSJ：物理
 |Skill=真Ⅲ：死門の流水

@@ -2106,7 +2106,7 @@
 | 地
 | Fate/EXTRA CCC（廢案）<br>Fate/EXTRA CCC Fox Tail
 | ワダアルコ
-| 潘惠美
+| [[潘惠美]]
 | 奈須きのこ
 | BB的分身、「渴愛」的Alter Ego，「Sakura 5」的其中一位。
 |-
@@ -4176,7 +4176,7 @@
 | [[Urðr (Fate)|終末的Archer]]
 | rowspan="2"|Archer
 | rowspan="3"|天
-| rowspan="8"|
+| rowspan="2"|{{s|幸運女神}}
 | rowspan="2"|飯田ぽち
 | rowspan="2"|[[羊宮妃那]]
 | rowspan="2"|
@@ -4187,6 +4187,7 @@
 ! 471
 | [[Ascalaphus (Fate)|阿斯卡拉福斯]]
 | Alter Ego
+| rowspan="13"|
 | 浪人
 | 榊原優希
 | rowspan="3"|三田誠
@@ -4208,15 +4209,59 @@
 | rowspan="3"|Assassin<br />{{color|gold||'''Grand Assassin'''}}
 | rowspan="3"|Ryota-H
 | rowspan="3"|[[金本涼輔]]
-| rowspan="3"|奈須きのこ
+| rowspan="5"|奈須きのこ
 | rowspan="3"|11周年卡池中實裝，三種名稱分別對應靈基的三種階段。<br>初代的哈桑‧薩巴赫，山中老人年輕時的樣子。<br>冠位戴冠戰以「蒼藍的阿茲拉伊爾」名義作為冠位試練從者出場。
 |-
 | [[山中老人 (Fate) |阿茲拉伊爾]]
 |-
 | [[山中老人 (Fate)|錫德拉．阿茲拉伊爾]]
 |-
+! 475
+| [[舌切り雀の紅閻魔 (Fate)|剪舌麻雀的紅閻魔]]
+| Berserker
+| rowspan="5"|地
+| 原田たけひと
+| [[久野美咲]]
+| rowspan="7"|2026年夏季泳裝活動《迦勒底南海大決戰》卡池登場。
+|-
+! 476
+| [[Kingprotea]]
+| MoonCancer
+| ワダアルコ
+| [[潘惠美]]
+|-
+! 477
+| [[Biscione (Fate)|比修內]]
+| Caster
+| いみぎむる
+| [[市ノ瀬加那]]
+|
+|-
+! 478
+| [[Lilith (Fate)|莉莉絲]]
+| Rider
+| nipi
+| [[諸星堇]]
+| 東出佑一郎
+|-
+! 479
+| [[Kingprotea|Kingprotea〔Alter〕]]
+| Avenger
+| ワダアルコ
+| [[潘惠美]]
+| 奈須きのこ
+|-
+! rowspan="2"|480
+| [[小野小町 (Fate)|小野小町]]
+| rowspan="2"|Archer
+| rowspan="3"|天
+| rowspan="2"|兔ろうと
+| [[木村珠莉]]
+| rowspan="2"|
+|-
+| [[小野小町 (Fate)|小野篁]]
+| 山野井仁
 |}
-
 
 
 === 實裝靈衣 ===

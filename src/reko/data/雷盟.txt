@@ -178,6 +178,7 @@
 {{-}}
 
 === 雷盟—電壓過載（{{ruby|雷盟|ブリッツクリーク}}－オーバーボルテージ） ===
+[[檔案:Blitzclique - Overvoltage.png|250px|right]]
 * 收錄於補充包1306(BETE)。
 * 效果簡單而言就是本家專屬的《[[烙印_(遊戲王牌組系列)#The_Fallen＆The_Virtuous（The_Fallen（ザフォールン）_＆（アンド）_The_Virtuous（ザヴァーチャス））|The Fallen＆The Virtuous]]》，可以炸掉場上任意1張卡，但是會進入本回合不能從手牌特殊召喚效果怪獸的自肅。
 ** 除開本家魔法卡的共通回收能力外，這張卡的優點是沒有一回合一次可以多次炸，缺點就是作為通常魔法無法在對手回合使用，因此比起《The Fallen＆The Virtuous》的干擾性明顯略遜一籌。
