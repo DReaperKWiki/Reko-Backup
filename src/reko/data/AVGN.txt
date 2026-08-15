@@ -9,7 +9,7 @@
 *節目的特色就是AVGN用瘋狂幽默喜劇的方式，通過犀利有趣的暴言以及各種效果演出<s>[[顏藝]]</s>以表現出遊戲有多糞而不讓觀眾覺得影片煩悶。
 **基本上AVGN暴躁的形象只是演技，現實中本人其實是個腼腆的人。
 **另外AVGN在2014年已育有一子，雖是鏡頭前的廢宅{{censored|兼精神分裂病患者}}，但在現實生活中其實相當努力
-**即使後來因為YouTube的社群規範的改變、贊助商的規範等多重因素限制了自身的嘴炮風格，加上同性質的競爭者出現而影響到流量，但也已經盡力維持自己的嘴炮功力和風格
+**即使後來因為YouTube的社群規範的改變、贊助商的規範等多重因素限制了自身的嘴炮風格（尤以自身最經典的髒話滿天飛也被影響），加上同性質的競爭者出現而影響到流量，但也已經盡力維持自己的嘴炮功力和風格
 
 *節目於2004年5月開始在GameTailers網站上連載，直到2006年以「Angry Nintendo Nerd」的名義上傳至Youtube，由於其獨特的風格與對遊戲背景的深厚認知，使他的影片在網絡上爆紅。
 
@@ -146,8 +146,8 @@ EP94重評
 |-
 |EP8|| colspan="2" |Wally Bear and the NO! Gang（NES）|| ||{{youtube|QVS0Uks4ZUw|Youtube}}{{sm|5435493|Nicovideo}}
 |-
-|EP9||Master Chu and the Drunkard Hu||[[古龍|楚留香與胡鐵花]]<ref>無誤，請注意左邊的讀音</ref>（NES）||特別來賓：Shit Pickle
-就題材來說頗意外的台灣製山寨遊戲
+|EP9||Master Chu and the Drunkard Hu||[[古龍|楚留香與胡鐵花]]<ref>無誤，請注意左邊的讀音，因為早期漢化組對遊戲的資訊認知不足，常簡譯成"楚大師與酒鬼胡"，</ref><br>盜帥<ref>中文版名稱</ref>（NES）||特別來賓：Shit Pickle<br>
+就選片而言頗意外的台灣製山寨遊戲(開發商：聖謙企業/Sachen)
 |{{youtube|sayp5lieKuU|Youtube}}{{sm|5527756|Nicovideo}}
 |-
 |EP10||Top Gun||捍衛戰士（NES）

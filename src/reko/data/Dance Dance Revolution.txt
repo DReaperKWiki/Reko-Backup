@@ -70,7 +70,7 @@
 |Dance Dance Revolution Solo BASS MIX
 |1999年8月19日
 |22
-|如機台齊名，本次以單板6鍵為主<br>6鍵配置除了原本的⬅️⬇️⬆️➡️以外新增↖️↗️兩鍵，因此部分高難度譜面甚至也會出現3鍵或4鍵同時踏的音符<br>雖說是SOLO機，但兩台框體可聯機<br>本作首次導入多首歌曲合一的MEGAMIX歌曲，算是後來NONSTOP模式的雛形
+|如同其名，本次以單板6鍵為主<br>6鍵配置除了原本的⬅️⬇️⬆️➡️以外新增↖️↗️兩鍵，因此部分高難度譜面甚至也會出現3鍵或4鍵同時踏的音符<br>雖說是SOLO機，但兩台框體可聯機<br>本作首次導入多首歌曲合一的MEGAMIX歌曲，算是後來NONSTOP模式的雛形
 |-
 |Dance Dance Revolution 3rdMIX
 |1999年10月30日（無印）<br>2000年4月1日（韓版）<br>2000年6月21日（加強版）
@@ -105,7 +105,7 @@
 |Dancing Stage featuring Disney's RAVE<br><br>Dance Dance Revolution Disney's RAVE<br><br>Dance Dance Revolution Disney MIX
 |2000年11月30日
 |25
-|與迪士尼的聯名作，此外也有收錄Avex發行的Eurobeat歌曲<br>家用版新增魔法對戰模式：兩邊不時會產生妨害特效<br>MANIAC譜面選擇方式為歷代最複雜：<br>街機版需切換到業務模式並同時踏住2P的⬅️➡️鍵、按住Service和Test鍵，直到左上顯示MANIAC MODE ON即可解禁<br>家用版日版更複雜：選取畫面中須分別在Mickey Mouse March (Eurobeat Version) 停留1秒、Chim-Chim-Cher-ee停留2秒、Macho Duck停留1秒、ELECTRICAL PARADE (Retro Future MIX) 停留1秒、IT'S A SMALL WORLD停留2秒、 I Want You Back停留1秒之後同時踏下⬅️➡️鍵即可解禁，之後的歐美版則是完全簡化成需通過該曲的TRICK譜面以解禁MANIAC譜面<br>歐美版因為版權問題而刪除其中11首版權曲，取而代之新增6首BEMANI本家原創樂曲
+|與迪士尼的聯名作，收錄的曲目大多都是迪士尼經典歌曲的混音版，同時亦有收錄其他Avex授權的電音樂曲<br>家用版新增魔法對戰模式：兩邊不時會產生妨害特效<br>MANIAC譜面選擇方式為歷代最複雜：<br>街機版需切換到業務模式並同時踏住2P的⬅️➡️鍵、按住Service和Test鍵，直到左上顯示MANIAC MODE ON即可解禁<br>家用版日版更複雜：選取畫面中須分別在Mickey Mouse March (Eurobeat Version) 停留1秒、Chim-Chim-Cher-ee停留2秒、Macho Duck停留1秒、ELECTRICAL PARADE (Retro Future MIX) 停留1秒、IT'S A SMALL WORLD停留2秒、 I Want You Back停留1秒之後同時踏下⬅️➡️鍵即可解禁，之後的歐美版則是改成需通過所有樂曲的TRICK譜面以解禁MANIAC譜面<br>歐美版因為版權問題而刪除其中11首版權曲，取而代之新增6首BEMANI本家原創樂曲
 |-
 |Dance Dance Revolution 5thMIX
 |2001年5月2日
