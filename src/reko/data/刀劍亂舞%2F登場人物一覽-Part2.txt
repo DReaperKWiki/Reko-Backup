@@ -1059,7 +1059,7 @@ https://i.ibb.co/3ydrYN8V/Sasanukiin.png
 ** <s>[https://www.nicovideo.jp/watch/sm40833169 實裝才兩天就有MMD更是刷新紀錄]</s>
 
 === 八丁念佛（八丁念仏） ===
-https://static.wikia.nocookie.net/touken-ranbu/images/3/38/Hacchou_in.png
+https://i.ibb.co/ZpLJMrLV/Hacchou-Nenbutsuin.png
 * 繪：すし。CV：[[千葉翔也]]。
 * 刀帳編號：216番。刀派：古備前。身高：178&nbsp;cm。
 * 2023/1/14更新後作為八週年紀念限定鍛刀實裝，鍛刀時間為3:00:00，指定配方為'''All 700'''。
@@ -1179,13 +1179,19 @@ https://static.wikia.nocookie.net/touken-ranbu/images/5/56/Saburou.png
 https://i.ibb.co/BHxVCS8d/Naminohira-Yukiyasuin.png
 * 繪：ウエハラ蜂。CV：木村太飛。
 * 刀帳編號：258番。刀派：波平。身高：177&nbsp;cm。
-* 2026/6/30更新後作為期間限定活動《連隊戦 ～海辺の陣～》活動收集100,000夜光貝的獎勵實裝，無法透過鍛刀取得。另外繼續累積至<s>4大包平</s>400,000可獲得最多四把，無法經由鍛刀取得。
+* 2026/6/30更新後作為期間限定活動《連隊戦 ～海辺の陣～》活動收集100,000夜光貝的獎勵實裝，另外繼續累積至<s>4大包平</s>400,000可獲得最多四把，無法經由鍛刀取得。
 ** <s>10萬之男第二十七號</s>
 * 鎌倉時代活躍的刀工波平行安所作太刀。作為在薩摩國從鎌倉至明治持續織就傳統的波平一門的集合體所顯現，與同為波平行安作的笹貫有如生於同根卻無法相容的鏡像般的存在。（官方推特介紹）
 ** 與笹貫算是比起之前長曾禰虎徹與源清麿之間的微妙關係更加明確的「範圍重疊的集合體與名物同時存在不同的付喪神」的情況，兩刃的外貌幾乎如同卵雙胞胎般相仿<s>連中傷的顏藝都是一脈相承</s>。
 *** <s>被家裡拋棄性格扭曲的浪蕩長子vs被家裡寄予厚望性格穩重的優秀次子</s>
 *** <s>前男友的擬人化vs坦然接受聯姻的繼承人</s>
 ** <s>只要是他認為審神者不需要聽懂的話都會整句整句的飆薩摩方言。鹿兒島出身的玩家表示：</s>
+
+=== 狐崎為次（狐ヶ崎為次） ===
+https://i.ibb.co/bMgcD0rT/Kitsunegasaki-Tametsuguin.png
+* 繪：すし。CV：木島隆一。
+* 刀帳編號：260番。刀派：青江。身高：178&nbsp;cm。
+* 2026/8/12更新後作為期間限定活動《対百鬼夜行迎撃作戦》活動收集150,000PT的獎勵實裝，另外繼續累積至600,000可獲得最多四把，無法經由鍛刀取得。
 
 == 大太刀（おおたち） ==
 * 又稱[[大劍|野太刀]]，是刃長三尺（90.9cm）以上的超大型太刀。
@@ -1325,7 +1331,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/8/88/Jiroutachi-Kiwame.png
 
 === 禰禰切丸（祢々切丸） ===
 https://i.ibb.co/LdfJ9Jtz/Nenekirimaruin.png
-https://static.wikia.nocookie.net/touken-ranbu/images/2/23/Nenekirimaru-Kiwame.png
+https://i.ibb.co/0pxTLmFt/Nenekirimaru-Kiwamein.png
 * 繪：源覚（ニトロプラス）。CV：松田健一郎。
 * 刀帳編號：162番→163番。身高：205&nbsp;cm。
 * 2018/12/18更新後作為期間限定活動《連隊戦》收集<s>1大包平</s>100,000御歲魂的獎勵實裝，無法透過鍛刀取得，為遊戲開服近四年以來第一把追加的大太刀。
@@ -1473,7 +1479,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E9%9D%99%E5%BD%A2%E8%96%99%E5%88%80%20%E6%
 
 === 蜻蛉切 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/3/30/Tonbokiri.png
-https://static.wikia.nocookie.net/touken-ranbu/images/3/3b/Tonbokiri-Kiwame.png
+https://i.ibb.co/5WyqPt3F/Tonbokiri-Kiwamein.png
 * 繪：源覚（ニトロプラス）。CV：櫻井トオル。演：Spi (音樂劇)。
 * 刀帳編號：65番→66。刀派：村正。身高：198&nbsp;cm。
 * 三名槍之一，原主本多忠勝，以「能夠將落在槍尖的蜻蜓切成兩半」而得名。
@@ -1669,7 +1675,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/3/33/Hakusan_Kiwamein.png
 *** <s>曾經的資源零的執行人搖身一變成為拯救資源的存在</s>
 
 === 七星劍（七星剣） ===
-https://i.ibb.co/VWR6c2QJ/Heishishourinkenin.png
+https://i.ibb.co/GfnNrfD7/Shichiseikenin.png
 * 繪：渓白（ニトロプラス）。CV：川島零士。演：加藤良輔 (舞台劇)。
 * 刀帳編號：206番。身高：170&nbsp;cm。
 * 2022/4/12更新後實裝，為遊戲中第二把劍兼第一把五花等級的劍，同時也是第一個太刀以外刀種的五花角色。無法透過鍛刀取得，只有在期間限定活動《対大侵寇防人作戦》中達成擊破數6千的活動任務，才能於活動結束後領取。若達成擊破數1萬的活動任務則可再多領一把。
@@ -1699,7 +1705,7 @@ https://i.ibb.co/VWR6c2QJ/Heishishourinkenin.png
 *** <s>而且次一回的大規模戰百鬼夜行實裝的新刀九鬼正宗就沒有這種設定，更應證了這種猜想</s>
 
 === 丙子椒林劍（丙子椒林剣） ===
-https://static.wikia.nocookie.net/touken-ranbu/images/b/b2/Heishishourinken.png
+https://i.ibb.co/VWR6c2QJ/Heishishourinkenin.png
 * 繪：渓白（ニトロプラス）。CV：[[羽多野涉]]。
 * 刀帳編號：208番。身高：180&nbsp;cm。
 * 2024/7/2更新後作為期間限定活動《連隊戦 ～海辺の陣～》中收集<s>1大包平</s>100,000夜光貝的獎勵實裝，另外繼續收集至<s>2大包平</s>200,000及<s>3大包平</s>300,000可繼續獲得至最多三把，無法透過鍛刀取得，遊戲中第三把劍兼第二把五花等級的劍。
