@@ -40,7 +40,7 @@
 ==== 小鳥遊星野(小鳥遊ホシノ) ====
 * CV：[[花守由美里]]（日）/劉雯（中）/조경이（韓）
 * '''班級：'''3年級｜'''武器：'''霰彈槍、霰彈槍+手槍（臨戰）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''坦克、輔助（泳裝）、坦克+打手（臨戰）
-** '''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）、{{color|1=#2D96D2|3=神秘}}（臨戰）｜'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）
+** '''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）、{{color|1=#2D96D2|3=神秘}}（臨戰）／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）
 * 對策委員會委員長兼阿拜多斯學生會副會長，[[園崎魅音|自稱大叔]]的[[美少女]](無誤)。
 ** 平常都以懶散、吊兒郎當的態度示人，但能冷靜地看穿局勢並在關鍵時刻行動。
 ** 喜歡海洋生物，特別是鯨魚。老師帶她去水族館時難得出現像普通女孩一般的反應。
@@ -95,7 +95,7 @@
 ** 防禦型EX技是4費走位+設置可動掩體，掩體存在期間攻擊力會強化。
 *** 相對原版和泳裝版失去了自體回復能力，改以架掩體和基本技能的減傷效果來維持生存。
 ** 攻擊型EX技則是6費指定目標為中心的圓形範圍攻擊。
-*** 最可怕的是攻擊型子技能常駐「所有攻擊附帶85%破防」<ref>需滿技，未滿技時穿防率僅65%。</ref><s>，佩洛洛吉拉淚目</s>。
+*** 被動技增加300射程讓她不容易被攻擊，更可怕的是攻擊型子技能常駐「所有攻擊附帶85%破防」<ref>需滿技，未滿技時穿防率僅65%。</ref><s>，佩洛洛吉拉淚目</s>。
 * <s>[[明日方舟/登場幹員列表/術師#伊芙利特（EfreetIfrit/イフリータ）|以前似乎是用火焰噴射器的樣子]]</s>
 * <s>[[不當哥哥了！|緒山真尋(奇普托斯的樣子)]]</s>
 * 在本作仍以「Project MX」作為代稱時由YoStar釋出的預告片（該預告片在YouTube上已經由官方設為不可見）中，有一個學園裡眾人穿體操服訓練的場面裡，星野疑似長有貓耳。
@@ -105,7 +105,7 @@
 ==== 砂狼白子(砂狼シロコ) ====
 * CV：[[小倉唯]]（日）/安雪璃（中）/이다은（韓）
 * '''班級：'''2年級｜'''武器：'''突擊步槍｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）｜'''職業：'''打手
-** '''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（騎行服、泳裝）｜'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（騎行服）
+** '''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（騎行服、泳裝）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（騎行服）
 * 對策委員會行動班長，老師在阿拜多斯遇上的第一名學生，也是遊戲看版娘。<s>（弱）白子</s><ref name=":0">出自官方四格漫畫裡Momotalk互相給對方的辨別稱呼</ref>
 ** {{censored|原本不是阿拜多斯的學生，故事開始一年前因不明原因失去記憶並倒在路邊，被路過的星野和野乃美收留。}}
 *** {{censored|立繪上的圍巾是星野見她衣不蔽體而戴上，也是她最珍視的寶物。穿著校服時不論多熱都一定會戴著圍巾。}}
@@ -149,7 +149,7 @@
 ==== 十六夜野乃美(十六夜ノノミ) ====
 * CV：三浦千幸（日）/幽舞越山（中）/이보희（韓）
 * '''班級：'''2年級｜'''武器：'''機槍｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
-** '''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）｜'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）
+** '''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（泳裝）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（泳裝）
 * 感情豐富且品性善良，讓有着極端性格的對策委員會成員團結一致的精神支柱
 ** 擁有<s>爆殺其他委員會成員的</s>傲人[[巨乳]]，也是少數願意給老師做膝枕的學生之一
 **力氣相當大，平時有用啞鈴來訓練外，扛起機砲射擊時能完全不受後座力影響
@@ -175,7 +175,7 @@
 ==== 黑見茜香(黒見セリカ) ====
 * CV：[[大橋彩香]]（日）/宴寧（中）/김보나（韓）
 * '''班級：'''1年級｜'''武器：'''突擊步槍｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（正月、泳裝）｜'''職業：'''打手、輔助（正月）
-** '''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（正月）、{{color|1=#2D96D2|3=神秘}}（泳裝）｜'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（正月）、{{color|1=#DA8D34|3=重裝甲}}（泳裝）
+** '''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#DA8D34|3=貫穿}}（正月）、{{color|1=#2D96D2|3=神秘}}（泳裝）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#2D96D2|3=特殊裝甲}}（正月）、{{color|1=#DA8D34|3=重裝甲}}（泳裝）
 * 每天前往各種地方打工，對還債一事相對務實的對策委員會會計，其中一個代表性的打工地點是「柴關拉麵」。
 ** 然而也有腦袋不靈光的一面，容易被傳銷詐欺一類的手法欺騙上當而賠錢。
 * 教科書式[[傲嬌]]，因為有貓耳又是傲嬌也暱稱黑貓<s>，[[中野梓|或許也擅長彈吉他，但絕對不能去買醬油]]</s>。
@@ -201,7 +201,7 @@
 
 * CV：原田彩楓（日）/孫艷琦（中）/방시우（韓）
 * '''班級：'''1年級｜ '''武器：'''手槍｜ '''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>｜ '''職業：'''治癒師、T.S.（泳裝）
-** '''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}｜'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}
+** '''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}
 * 對策委員會書記，負責帳務管理、工作接單，作戰中負責後方支援。
 * 雖然平日性情溫和，有時也會被其他成員的荒唐言論或行徑氣到「翻桌(物理)」。
 ** <s>動畫版可能礙於作畫或預算問題沒有翻桌橋段</s>
@@ -227,7 +227,7 @@
 === 學生會 ===
 ==== 被反轉的某人 ====
 * '''班級：'''3年級｜'''武器：'''突擊步槍｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
-** '''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}｜'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}
+** '''攻擊類型：'''{{color|1=#2D96D2|3=神秘}}／'''裝甲類型：'''{{color|1=#2D96D2|3=特殊裝甲}}
 * CV：[[小倉唯]]（日）/安雪璃（中）/이다은（韓）
 * 在1-Vol.Final阻擋老師陣營且外形神似白子的敵人，記名為「白子*Terror」，通稱黑子、大白子<s>或（胖）白子</s><ref name=":0" />。
 ** 身高、頭髮明顯比白子長、身材也更好，此外光環也與白子的非常相似，只是顏色變得漆黑下外型也略有破損。
