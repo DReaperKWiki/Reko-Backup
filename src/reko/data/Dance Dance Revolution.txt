@@ -27,6 +27,7 @@
 ** X2開始如果以FULL COMBO完成譜面會有特殊演出，結算畫面也會有FULL COMBO標示
 *** 除了GREAT以下直接顯示FULL COMBO以外，PERFECT以上判定FULL COMBO會是PERFECT FULL COMBO、MARVELOUS則是MARVELOUS FULL COMBO，2013開始放寬至GREAT以上FULL COMBO顯示GREAT FULL COMBO
 * 除了單人遊玩的4踏板以外，也有單人8踏板的DOUBLE以及雙人單踏板的VERSUS，最初版本甚至有兩邊譜面不同的COUPLE
+* 注意此遊戲是以'''遊戲為型的有氧運動'''，遊玩時請先考量自己的身體狀況、穿著合適的衣服和鞋子及先做熱身運動、並注意體力消耗，體力不支時絕對不要勉強玩下去。
 
 ==系列列表==
 ===舊框體===
@@ -484,7 +485,7 @@
 |2024年9月27日
 |兩棲（見後述）
 |（不適用）
-|由瑞起（ZUIKI Inc.）獲得KONAMI授權開發的迷你機台<br>主要收錄初代至3rdMIX，但大部分版權曲因為已經授權到期而沒有音樂<s>所以只能另外播放音樂或是只能透過特殊方式修改</s><br>有HDMI及USB接口，可分別連接至各種螢幕以及支援跳舞毯遊玩，此外機台上面的踏板型控制器為'''可拆式'''，可以直接接到PC上面遊玩DDR GRAND PRIX<s>甚至連Stepmania也能玩</s>
+|由瑞起（ZUIKI Inc.）獲得KONAMI授權開發的迷你機台<br>主要收錄初代至3rdMIX，但大部分版權曲（尤其Dancemania旗下的版權曲）因為已經授權到期而沒有音樂<ref>選歌時游標移到授權到期的版權曲會顯示「Sorry This song cannot be played」的訊息，雖然還是可以玩但就是沒有音樂</ref><s>所以只能另外播放音樂或是只能透過特殊方式修改</s>，此外還有一些不同點包括：此機收錄的3代無歌詞顯示、Dynamite Rave採用歐版《Dance Dance Revolution X》之後的新編音源、Afronova沒有背景圖片等差異<br>有HDMI及USB接口，可分別連接至各種螢幕以及支援跳舞毯遊玩，此外機台上面的踏板型控制器為'''可拆式'''，可以直接接到PC上面遊玩DDR GRAND PRIX<s>甚至連Stepmania也能玩</s>
 |}
 {{hidef|}}
 

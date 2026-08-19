@@ -170,7 +170,7 @@
 ** 基本技、被動技都是攻速提升，子技會強化連射模式的攻擊力，三者疊加下的DPS很驚人。
 ** 能夠在輕甲賽特戰派上用場，但野外D這個致命傷令她難以攻略高難度階段
 * <s>綠色三號。</s>
-* <s>名言：「It cost 400,000 dollars to fire this weapon for twelve seconds...」</s>
+* <s>名言：「[[絕地要塞|It cost 400,000 dollars to fire this weapon for twelve seconds...]]」</s>
 
 ==== 黑見茜香(黒見セリカ) ====
 * CV：[[大橋彩香]]（日）/宴寧（中）/김보나（韓）
