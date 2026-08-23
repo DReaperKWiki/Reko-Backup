@@ -153,7 +153,18 @@
 {{-}}
 
 ===紅蓮新星龍（スカーレッド・ノヴァ・ドラゴン）===
-[[檔案:Red Nova Dragon.png|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+卡圖1=[[檔案:Red Nova Dragon.png|250px]]
+|-| 
+卡圖2=[[檔案:Red Nova Dragon 2nd.jpg|250px]]
+|-| 
+</tabber>
+}}
+
 <div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #Be1F1f; font-size: 24px; ">
 王者と悪魔、今ここに交わる。
 
