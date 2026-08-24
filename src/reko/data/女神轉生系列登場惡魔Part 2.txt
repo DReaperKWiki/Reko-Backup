@@ -520,6 +520,20 @@ D2：死が奏であう劇場
 <br>
 
 {{MTdata
+|Name=ダゴン
+（達貢）
+|Type=魔王
+|Ali=-
+|Picture=[[檔案:SMTDagon.png|200px]]
+|Faction=D2：凍結
+|Skill=D2：海神の理、リーサルフロード
+|Edition=真・女神轉生
+}}
+
+*非利士民族的海神，被十字教認為是魔鬼，在[[Cthulhu_Mythos|克蘇魯神話]]裡也有出現
+<br>
+
+{{MTdata
 |Name=アシェラト
 （亞舍拉）
 |Type=地母神
@@ -870,6 +884,7 @@ D2：其他
 <gallery mode=slideshow>
 檔案:SMTifAžiDahāka.gif|真if（頭目）
 檔案:SMTifAžiDahākaAlly.gif|真if（仲魔）
+檔案:D2AzhiDahaka.png|D2
 </gallery>
 </div>
 |Faction=火炎、凍結
@@ -1019,7 +1034,7 @@ D2{{ruby|［盾］|物理結界}}：ヤザタの盾<br>
 |Type=真SJ：天女
 惡魔召喚師：妖魔
 |Ali=NEUTRAL-LAW
-|Picture=
+|Picture=[[檔案:DSSHperi.png|200px]]
 |Faction=火焰
 |Skill=D2：蜃気楼の夢、フレイムエーテル、火炎の魔術
 |Edition=真·女神轉生 惡魔召喚師
@@ -1060,20 +1075,6 @@ D2{{ruby|［盾］|物理結界}}：ヤザタの盾<br>
 <br>
 
 {{MTdata
-|Name=ダゴン
-（達貢）
-|Type=魔王
-|Ali=-
-|Picture=[[檔案:SMTDagon.png|200px]]
-|Faction=D2：凍結
-|Skill=D2：海神の理、リーサルフロード
-|Edition=真・女神轉生
-}}
-
-*非利士民族的海神，被十字教認為是魔鬼，在[[Cthulhu_Mythos|克蘇魯神話]]裡也有出現
-<br>
-
-{{MTdata
 |Name=イフリート
 （伊夫列特）
 |Type=妖魔
@@ -1111,8 +1112,19 @@ D2{{ruby|［盾］|物理結界}}：ヤザタの盾<br>
 |Skill=-
 |Edition=數位惡魔物語 女神轉生
 }}
+{{MTdata
+|Name=グーラー
+（女食屍鬼）
+|Type=幽鬼
+|Ali=CHAOS
+|Picture=[[檔案:SMT2Ghulah.png|200px]]
+|Faction=-
+|Skill=-
+|Edition=真．女神轉生Ⅱ
+}}
 
-*阿拉伯神話的怪物，以屍體與幼兒為食
+* 阿拉伯神話的怪物，以屍體與幼兒為食
+** 在阿拉伯民俗，男性食屍鬼稱為ghul，女性則稱為ghulah
 <br>
 
 {{MTdata
@@ -1250,6 +1262,7 @@ LIGHT-CHAOS
 檔案:SMTDSShiva.png|惡魔召喚師
 檔案:DSSHShiva.png|靈魂駭客
 檔案:P1Shiva.png|P1
+檔案:D2ShivaMalice.png|D2（惡意）
 </gallery>
 </div>
 |Faction=萬能、物理、電擊
@@ -1484,7 +1497,13 @@ D2：三面六臂の型；<br>
 真V：破壞神
 |Ali=真Ⅰ：LIGHT
 真V：LIGHT-CHAOS
-|Picture=[[檔案:SMTAsura.png|200px]]
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTAsura.png|真Ⅰ
+檔案:D2AsuraOhMalice.png|D2（惡意）
+</gallery>
+</div>
 |Faction=物理、萬能（真Ⅰ、D2、真Ⅴ/ⅤV）
 火焰（真Ⅰ、真Ⅴ/ⅤV）
 |Skill=P4、P5:不動心
@@ -2424,6 +2443,7 @@ D2（異世界）：光輝なる翼、疾風のガルクロー；<br>
 |Picture=
 <div style="min-width:300px; max-width:300px;">
 <gallery mode=slideshow>
+檔案:SMT2Vetala.png|真Ⅱ
 檔案:SMTDSVetala.png|惡魔召喚師
 檔案:DSSHVetala.png|靈魂駭客
 檔案:NINEVetala.png|真NINE

@@ -651,9 +651,10 @@ D2：ソーラーフレア、神霊の（裁き、聖域、威光、防護）
 |Picture=
 <div style="min-width:300px; max-width:300px;">
 <gallery mode=slideshow>
-檔案:SMTMichael.png|真‧女神轉生
-檔案:SMT2Michael.png|真‧女神轉生Ⅱ
-檔案:SMT4Michael.png|真‧女神轉生Ⅳ
+檔案:SMTMichael.png|真Ⅰ
+檔案:SMT2Michael.png|真Ⅱ
+檔案:SMT4Michael.png|真Ⅳ
+檔案:D2MichaelMalice.png|D2（惡意）
 </gallery>
 </div>
 |Faction=萬能、火焰、破魔
@@ -686,9 +687,9 @@ D2（惡意）：厳酷なる悪意、真紅の裁定、ジニスフレア、（
 |Picture=
 <div style="min-width:300px; max-width:300px;">
 <gallery mode=slideshow>
-檔案:SMTGabriel.png|真‧女神轉生
-檔案:SMT2Gabriel.png|真‧女神轉生Ⅱ
-檔案:SMT4Gabriel.png|真‧女神轉生Ⅳ
+檔案:SMTGabriel.png|真Ⅰ
+檔案:SMT2Gabriel.png|真Ⅱ
+檔案:SMT4Gabriel.png|真Ⅳ
 檔案:P2Gabriel.png|P2罰
 </gallery>
 </div>
@@ -729,9 +730,9 @@ D2：神の伝令、アセンション
 |Picture=
 <div style="min-width:300px; max-width:300px;">
 <gallery mode=slideshow>
-檔案:SMTRaphael.png|真‧女神轉生
-檔案:SMT2Raphael.png|真‧女神轉生Ⅱ
-檔案:SMT4Raphael.png|真‧女神轉生Ⅳ
+檔案:SMTRaphael.png|真Ⅰ
+檔案:SMT2Raphael.png|真Ⅱ
+檔案:SMT4Raphael.png|真Ⅳ
 </gallery>
 </div>
 |Faction=萬能、衝擊、回復
@@ -761,9 +762,9 @@ D2：神の癒し、テイルウインド
 |Picture=
 <div style="min-width:300px; max-width:300px;">
 <gallery mode=slideshow>
-檔案:SMTUriel.png|真‧女神轉生
-檔案:SMT2Uriel.png|真‧女神轉生Ⅱ
-檔案:SMT4Uriel.png|真‧女神轉生Ⅳ
+檔案:SMTUriel.png|真Ⅰ
+檔案:SMT2Uriel.png|真Ⅱ
+檔案:SMT4Uriel.png|真Ⅳ
 </gallery>
 </div>
 |Faction=電擊、物理
@@ -852,6 +853,7 @@ D2：神を見る者、不浄の光剣
 檔案:SMTAniel.png|真Ⅰ
 檔案:SMTPSXAniel.png|真Ⅰ（PSX版）
 檔案:SMT2Aniel.png|真Ⅱ
+檔案:D2HanielMalice.png|D2（惡意）
 </gallery>
 </div>
 |Faction=電擊、破魔
@@ -3728,7 +3730,7 @@ D2{{ruby|［劍］|練気夜星剣}}：星宮の剣気
 （欑楛樹）
 |Type=妖樹
 |Ali=
-|Picture=
+|Picture=[[檔案:DSZaccoum.png|200px]]
 |Faction=火焰
 |Skill=-
 |Edition=
@@ -3742,7 +3744,7 @@ D2{{ruby|［劍］|練気夜星剣}}：星宮の剣気
 （附鬼）
 |Type=悪霊
 |Ali=
-|Picture=
+|Picture=[[檔案:DSSHDybbuk.png|200px]]
 |Faction=狀態異常
 |Skill=-
 |Edition=
@@ -3868,10 +3870,10 @@ P5（第二階段）：光の矢、神意の高潮、<br>
 |Type=邪神
 墮天使
 |Ali=
-|Picture=
+|Picture=[[檔案:DSAbraxas.png|200px]]
 |Faction=
 |Skill=
-|Edition=
+|Edition=真．女神轉生：惡魔召喚師
 }}
 
 * Abraxas（Ἀβράξας/Ἀβρασάξ），僅在「巴西利德派（Basilidians）」體系提及，掌管365個天界及物質界的「執政者（principem/Archon）」
