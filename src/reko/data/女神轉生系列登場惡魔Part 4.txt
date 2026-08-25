@@ -692,7 +692,8 @@ P3R：生命の炎
 （妮米莎/Nemissa）
 |Type=電霊
 |Ali=DARK-NEUTRAL
-|Picture
+|Picture=
+[[檔案:DSSHNemissa3DS.png|200px]]
 |Faction=樂觀：火炎、破魔<br>
 冷靜：冰結、咒殺<br>
 性感：電擊、萬能
@@ -736,6 +737,7 @@ P3R：生命の炎
 |Type=地母神
 |Ali=
 |Picture=
+[[檔案:DSSHDzelarhons.png|200px]]
 |Faction=火焰、恢復
 |Skill=-
 |Edition=
@@ -753,7 +755,12 @@ P3R：生命の炎
 |Type=邪鬼
 |Ali=NEUTRAL
 |Picture=
-[[檔案:SMT1Wendigo.png|200px]]
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Wendigo.png|真Ⅰ
+檔案:DSSHWendigo.png|靈魂駭客
+</gallery>
+</div>
 |Faction=凍結
 |Skill=-
 |Edition=舊約‧女神轉生Ⅱ
@@ -801,6 +808,7 @@ P3R：生命の炎
 |Type=鬼女
 |Ali=
 |Picture=
+[[檔案:DSSHLaLlorona.png|200px]]
 |Faction=
 |Skill=
 |Edition=惡魔召喚師 靈魂駭客
@@ -824,7 +832,8 @@ P3R：生命の炎
 天魔變2：鬼神<br>
 真SJ：魔神
 |Ali=LIGHT-NEAUTRAL 
-|Picture
+|Picture=
+[[檔案:DSSHOmeteotl.png|200px]]
 |Faction=火炎、凍結
 |Skill=-
 |Edition=惡魔召喚師 靈魂駭客
@@ -865,7 +874,8 @@ D2（異世界）：生贄の選別、ティトラカワン、ヨワリ・エエ
 （絲斯米特爾/茲茲米特爾）
 |Type=魔王
 |Ali=DARK-CHAOS
-|Picture
+|Picture=
+[[檔案:DSSHTzitzimitl.png|200px]]
 |Faction=咒殺
 |Skill=D2：暗闇の星、暗黒の予兆→災禍の日蝕
 真ⅤV：日蝕の16t［特殊］
@@ -896,7 +906,7 @@ D2（異世界）：生贄の選別、ティトラカワン、ヨワリ・エエ
 （特拉爾特庫特利）
 |Type=地霊
 |Ali=NEUTRAL-NEUTRAL
-|Picture
+|Picture=
 |Faction=火炎、電擊
 |Skill=D2：大地の生贄
 |Edition=惡魔召喚師 靈魂駭客
@@ -910,12 +920,18 @@ D2（異世界）：生贄の選別、ティトラカワン、ヨワリ・エエ
 （羽蛇神）
 |Type=龍神、龍王
 |Ali=CHAOS
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT2Quetzalcoatl.png|真Ⅱ
+檔案:DSQuetzalcoatl.png|惡魔召喚師
+</gallery>
+</div>
 |Faction=火焰、衝擊
 |Skill=D2：セアカトルの再臨
 D2（異世界）：一の葦の刻、アステカの鼓動<br>
 真ⅤV：豊穣の息吹［特殊］
-|Edition=真‧女神轉生
+|Edition=真‧女神轉生Ⅱ
 }}
 
 *阿茲提克的創造神與風神，人們認為其為太陽化身，以金星為心臟，據說它創造人類並培育人的豐收與文化
@@ -929,6 +945,7 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 |Type=破壊神
 |Ali=
 |Picture=
+[[檔案:DSSHTonatiuh.png|200px]]
 |Faction=火焰
 |Skill=
 |Edition=惡魔召喚師 靈魂駭客
@@ -945,10 +962,10 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 （希烏特庫特利）
 |Type=妖魔
 |Ali=
-|Picture=
+|Picture=[[檔案:DSXiuhtecuhtli.png|200px]]
 |Faction=火焰
 |Skill=-
-|Edition=
+|Edition=真．女神轉生：惡魔召喚師
 }}
 
 * Xiuhtēcuhtli，白晝、時間與火之神
@@ -963,9 +980,10 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 |Type=女神
 |Ali=
 |Picture=
+[[檔案:DSSHTlazolteotl.png|200px]]
 |Faction=冰凍、恢復
 |Skill=-
-|Edition=
+|Edition=惡魔召喚師 靈魂駭客
 }}
 
 * Tlâçolteotl，性、恩澤、生育、罪惡與赦免的女神，因應名字而有著多重的神格
@@ -982,6 +1000,7 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 |Type=神樹
 |Ali=
 |Picture=
+[[檔案:DSSHMayahuel.png|200px]]
 |Faction=恢復
 |Skill=
 |Edition=惡魔召喚師 靈魂駭客
@@ -1018,7 +1037,8 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 （伊休妲）
 |Type=死神
 |Ali=DARK-NEUTRAL 
-|Picture
+|Picture=
+[[檔案:DSIxtab.png|200px]]
 |Faction=萬能、咒殺
 |Skill=D2：ヤシュチェ；
 {{ruby|［劍］|荒縄の蝕剣}}：供物への導き、解放の女神；<br>
@@ -1039,9 +1059,10 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 |Type=邪神
 |Ali=
 |Picture=
+[[檔案:DSPachacamac.png|200px]]
 |Faction=衝擊
 |Skill=-
-|Edition=
+|Edition=真．女神轉生：惡魔召喚師
 }}
 
 * Pachacámac，位於秘魯的「伊奇瑪王國（Ichma kingdom）」在被印加帝國併入之後，信仰轉化而成現今的印加神祇
@@ -1056,9 +1077,10 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 |Type=魔神
 |Ali=
 |Picture=
+[[檔案:DSInti.png|200px]]
 |Faction=火焰、電擊
 |Skill=-
-|Edition=
+|Edition=真．女神轉生：惡魔召喚師
 }}
 
 * inti，印加神話的太陽神
@@ -1075,10 +1097,11 @@ D2（異世界）：一の葦の刻、アステカの鼓動<br>
 |Type=妖魔
 |Ali=
 |Picture=
+[[檔案:DSSHShiwanna.png|200px]]
 |Faction=火焰
 D2：冰凍
 |Skill=D2：雲の民の権能、四隅の地鳴り
-|Edition=
+|Edition=惡魔召喚師 靈魂駭客
 }}
 
 * Shiwanna，在「阿科瑪-普葦布洛（Acoma Pueblo）」部落等的「克雷斯人（Keresan）」所信仰的普葦布洛信仰中，是死者與靈魂化成的「卡奇那（Kachina，普葦布洛信仰的靈體及自然化身統稱）」
@@ -1094,9 +1117,10 @@ D2：冰凍
 |Type=
 |Ali=
 |Picture=
+[[檔案:SMT2ChonChon.png|200px]]
 |Faction=
 |Skill=
-|Edition=
+|Edition=真．女神轉生Ⅱ
 }}
 
 * Chonchon，是南美洲（智利、阿根廷南部）的「馬普切宗教（Mapuche religion）」中的精怪
@@ -1108,6 +1132,7 @@ D2：冰凍
 |Type=幻魔
 |Ali=
 |Picture=
+[[檔案:DSIctinike.png|200px]]
 |Faction=真Ⅳ：火焰
 真ⅣF：物理
 |Skill=
@@ -1150,7 +1175,12 @@ D2：冰凍
 （雞蛇）
 |Type=邪龍
 |Ali=CHAOS
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTNINECockatrice.png|200px
+</gallery>
+</div>
 |Faction=
 |Skill=-
 |Edition=舊約・女神轉生
@@ -1167,7 +1197,8 @@ D2：冰凍
 （莫可伊/邪靈）
 |Type=夜魔
 |Ali=NEUTRAL-CHAOS
-|Picture
+|Picture=
+[[檔案:DSSHMokoi.png|200px]]
 |Faction=電擊
 |Skill=-
 |Edition=惡魔召喚師 靈魂駭客
@@ -1184,7 +1215,8 @@ D2：冰凍
 （虹蛇）
 |Type=龍王
 |Ali=CHAOS
-|Picture
+|Picture=
+[[檔案:DSYurlungur.png|200px]]
 |Faction=冰凍、電擊
 |Skill=-
 |Edition=真・女神轉生
@@ -1203,7 +1235,8 @@ D2：冰凍
 （羅瓦）
 |Type=妖魔、夜魔、邪鬼
 |Ali=CHAOS
-|Picture
+|Picture=
+[[檔案:SMT1Loa.png|200px]]
 |Faction=咒殺、異常狀態
 |Skill=真ⅤV：禁じられた言葉［特殊］
 |Edition=數位惡魔物語 女神轉生
@@ -1219,6 +1252,12 @@ D2：冰凍
 |Type=死神
 |Ali=
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSGuedhe.png|惡魔召喚師
+檔案:DSSHGuedhe.png|靈魂駭客
+</gallery>
+</div>
 |Faction=咒殺
 |Skill=D2：享楽する死神、ダークギフト
 |Edition=
@@ -1235,16 +1274,16 @@ D2：冰凍
 （尚比西蛇靈）
 |Type=龍神
 |Ali=LIGHT-CHAOS 
-|Picture
+|Picture=
+[[檔案:SMT5VNyamiNyami.png|200px]]
 |Faction=凍結
 |Skill=螺旋龍水穿
 |Edition=真・女神轉生Ⅴ Vengeance 
 }}
 
-*Nyami Nyami，非洲讚比西河的守護神，居於鄰近的湯加部落最崇拜的神，半蛇半魚
-*相傳於卡里巴大壩（Kariba Gorge）建築期間發生的連綿水災，就是由祂與妻子被隔離開來的積蓄的憤怨而生，大壩建成後，當地人相信其已經離開人間
-*2012年12月，辛巴威的《星期日郵報（Sunday Mail）》報道卡里巴湖中曾經出現的海蛇UMA，被認為是其身
-*<s>{{ruby|流光水龍鑽|<s>電光毒龍轉</s>}}</s>
+* Nyami Nyami，非洲讚比西河的守護神，居於鄰近的湯加部落最崇拜的神，半蛇半魚
+* 相傳於卡里巴大壩（Kariba Gorge）建築期間發生的連綿水災，就是由祂與妻子被隔離開來的積蓄的憤怨而生，大壩建成後，當地人相信其已經離開人間
+* <s>{{ruby|流光水龍鑽|<s>電光毒龍轉</s>}}</s>
 ** 專技「螺旋龍水穿」是小威力的冰結屬性貫通魔法攻擊，而且消耗極其便宜
 <br>
 
@@ -1253,7 +1292,8 @@ D2：冰凍
 （阿南西）
 |Type=幻魔
 |Ali=LIGHT-NEUTRAL
-|Picture
+|Picture=
+[[檔案:SMT5VAnansi.png|200px]]
 |Faction=咒殺
 |Skill=知恵の解放［特殊］、4のつぎ
 |Edition=真・女神轉生Ⅴ Vengeance
@@ -1272,7 +1312,8 @@ D2：冰凍
 （歐尼可彭）
 |Type=秘神
 |Ali=LIGHT-NEUTRAL 
-|Picture
+|Picture=
+[[檔案:SMT5VOnyankopon.png|200px]]
 |Faction=補助
 |Skill=円満隠居［特殊］、キングオフテイル
 |Edition=真・女神轉生Ⅴ Vengeance
@@ -1298,6 +1339,12 @@ D2：冰凍
 4/4F：狂神
 |Ali=
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSOgun.png|惡魔召喚師
+檔案:DSSHOgun.png|靈魂駭客
+</gallery>
+</div>
 |Faction=4/4F：物理、槍擊
 |Skill=
 |Edition=真・女神轉生：惡魔召喚師
@@ -1373,6 +1420,7 @@ D2：冰凍
 超力兵團/奇譚：蛮力属
 |Ali=惡魔召喚師：LIGHT-CHAOS
 |Picture=
+[[檔案:DSTriglav.png|200px]]
 |Faction=物理
 |Skill=-
 |Edition=真・女神轉生 惡魔召喚師
@@ -1389,6 +1437,7 @@ D2：冰凍
 |Type=妖魔
 |Ali=
 |Picture=
+[[檔案:DSSHVodyanoy.png|200px]]
 |Faction=衝擊
 |Skill=-
 |Edition=
@@ -1422,6 +1471,7 @@ D2：冰凍
 真ⅤV：鬼神
 |Ali=真ⅤV：LIGHT-CHAOS
 |Picture=
+[[檔案:DSSHAttis.png|200px]]
 |Faction=恢復
 |Skill=D2：乱・かすみ斬り
 真ⅤV：松柏之操［特殊］
@@ -1442,6 +1492,12 @@ D2：冰凍
 |Type=地母神
 |Ali=LIGHT-CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSCybele.png|惡魔召喚師
+檔案:SH1Cybele.png|靈魂駭客
+</gallery>
+</div>
 |Faction=火焰
 |Skill=D2：マグナ・マテル
 |Edition=
@@ -1461,11 +1517,17 @@ D2：冰凍
 （莫索保）
 |Type=凶鳥
 |Ali=DARK-LAW
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSMuuShuwuu.png|惡魔召喚師
+檔案:DSSHMuuShuwuu.png|靈魂駭客
+</gallery>
+</div>
 |Faction=衝擊
 |Skill=D2{{ruby|［劍］|練気風鳥剣}}：悪鳥の剣気
 真ⅤV：バイナルボム［特殊］、乙女の間食
-|Edition=惡魔召喚師
+|Edition=真．女神轉生：惡魔召喚師
 }}
 {{MTdata
 |Name=おいわいモー・ショボー
@@ -1473,6 +1535,7 @@ D2：冰凍
 |Type=凶鳥
 |Ali=DARK-LAW
 |Picture=
+[[檔案:D2MuuShuwuu.png|200px]]
 |Faction=衝擊
 |Skill=祝福の探索者、祝福の風圧、自爆・疾風
 |Edition=Dx2 真･女神転生 リベレーション
@@ -1495,6 +1558,7 @@ D2：冰凍
 |Type=夜魔
 |Ali=
 |Picture=
+[[檔案:SMT1Nightmare.png|200px]]
 |Faction=衝擊、狀態異常
 |Skill=
 |Edition=真・女神轉生
