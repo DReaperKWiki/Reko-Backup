@@ -1,5 +1,5 @@
 {{h0|漢女（おとめ{{ref|實際上在日語中和「乙女」一詞同音，但拼法不同，取おと(男)+め(女)而成}}）/女漢子/Amazon/[http://tvtropes.org/pmwiki/pmwiki.php/Main/Tomboy Tomboy]}}
-{{synchro|New Komica wiki (仮)|2024年08月29日 22:43}}
+
 {| class="wikitable" style="margin:1.5em auto;"
 |-
 |本條目是一個編輯中的詞條，歡迎有興趣的朋友加以補完。
@@ -529,6 +529,26 @@
 |黃昏中魔女如是說
 |even if TEMPEST 宵闇にかく語りき魔女
 |作品中唯一的女騎士，擅長射術，劍術也不輸男性。蓄短髮，眼神凌厲。換上男裝後惹得宮女們瘋狂尖叫。
+|}
+
+=== 跨平台IP ===
+{| class="wikitable" style="margin:1.5em auto;"
+|-
+!大名
+!作品
+!原名
+!備註
+|-
+|洞川蓮
+|[[溫泉娘]]
+|温泉むすめ
+|從小被當男孩子養大，對男性苦手，喜歡女孩子。
+|-
+|成瀨詩季
+|style="text-align:center;" colspan="2" rowspan="2" | [[創彩少女庭園]]
+|rowspan="2" | 兩個為雙胞胎。
+|-
+|成瀨拓斗
 |}
 
 === 古典文學 ===
