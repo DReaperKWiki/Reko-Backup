@@ -141,15 +141,16 @@
 * 本作特別値得介紹的BGM：
 ** 土屋昇平創新的曲風成為往後系列的一個新特色，此外亦以男女主角視角推出多人參與編曲的CD「ワンダーワールド」
 ** Good-bye my earth――ZONE A的BGM，實際上是因下面的The world of spirit決定用作最終BGM而誕生
-** The world of spirit――ZONE H及I的BGM，本系列人氣第一的曲子
+** The world of spirit――ZONE H及I的BGM，ZUNTATA人氣第一的曲子
+*** 實質等同BURST系列的主題曲，除了上者，往後的光導 ～第六曲 導き～及{{youtube|a6MwRHR0SL8|Departure}}都有引用本曲旋律
 ** Hello 31337――GT專用曲，由小倉久佳創作，「31337」在Leet語言可解作「ELEET」
 * 本作特別値得介紹的Boss：
 ** IRON FOSSIL（アイアンフォスル）――本作看板魚，原型為腔棘魚，甚至還figma化了，'''但是沒甚麼面子'''
-*** 在次作的官方桌布被弄成[https://darius.jp/dbac/gallery/images/dl/sh3_1024_768.jpg 鯉魚旗]<s>處刑</s>、在愚人節更誕生了很好吃的亞種「ウナギーフォスル」，官方還展示以牠製成[https://app.famitsu.com/20160401_687230/ 貝戮煞便當及供觀光客垂釣]的示意圖，{{censored|在後面CS的Kyokkuho結局有在ED露面}}
+*** 在次作的官方桌布被弄成[https://darius.jp/dbac/gallery/images/dl/sh3_1024_768.jpg 鯉魚旗]<s>處刑</s>、在愚人節更誕生了很好吃的亞種「ウナギーフォスル」，官方還展示以牠製成[https://app.famitsu.com/20160401_687230/ 貝戮煞便當及供觀光客垂釣]的示意圖，{{censored|在後面CS的裡結局Kyokkuho有在ED露面}}
 ** MIRAGE CASTLE（ミラージュキャッスル）――<s>本作萌Boss，</s>原型為刺魨，初登場時因全身重裝備而被批評不像魚，結果脫光後因圓胖又動作可愛而很受玩家喜愛
 *** 在次作與色違版一起<s>脫光</s>以Dual Spin（デュアルスピン）名義出場，官方還製作了[https://darius.jp/dbac/gallery/images/dl/sh5_1024_768.jpg 兩魚扮成牛郎織女的桌布]
 ** <s>THOUSAND KNIVES（サウザンドナイブズ）――Hi-ν鋼彈的魚化</s>
-** DARK HELIOS（ダークヘリオス）――原型為皇帶魚，受到一定傷害後會變成同社另一作「サイバリオン」自機的樣子，有專用BGM「Syvalion arrange MMIX	」及「Syvalion Arrange GOLD	」（AC追加）
+** DARK HELIOS（ダークヘリオス）――原型為皇帶魚，受到一定傷害後會變成同社另一作「サイバリオン」自機的樣子，有專用BGM「Syvalion arrange MMIX」及「Syvalion Arrange GOLD」（AC追加）
 ** GREAT THING（グレートシング）――系列定番的抹香鯨<s>，每次出新作都把牠的登場特寫演出弄得越來越巨型</s>
 
 ===太空戰鬥機：奔雷行動 另一個年代記／ダライアスバースト アナザークロニクル／DARIUSBURST ANOTHER CHRONICLE===
@@ -163,7 +164,7 @@
 *** 不定期配信的大會模式
 ** 此外也有追加大量機體，包括歷代以來的機體以及本作原創機體
 * 本作特別値得介紹的BGM：
-** 組曲 光導――合共六節，其中三節是Boss戰曲
+** 組曲 光導――由[https://ja.wikipedia.org/wiki/REMI_(%E6%AD%8C%E6%89%8B) REMI]演唱的「引導無名戰士之歌」{{ref|{{censored|BURST系列部份結局也有提及「引導」}}}}、合共六節，其中三節是Boss戰曲
 * 本作特別値得介紹的Boss：
 ** VIOLENT RULER（バイオレントルーラー）――紫色的大王具足蟲，如同別名般從設定到系統上都是暴君<s>，常被嫌棄長得醜，而且遊戲面世後現實還真的發現了紫色的大王具足蟲（！？）</s>，專用BGM為「組曲 光導 ～第五曲 暴君～」
 ** MASSIVE WHIP（マッシブウィップ）――クロニクル模式限定的發光魷魚，專用BGM為「Catabolism」，即{{ruby|異化|イカ}}的意思
