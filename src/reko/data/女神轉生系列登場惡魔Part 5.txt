@@ -97,7 +97,13 @@ D2：冰凍
 （厄瑞玻斯）
 |Type=愚者
 |Ali=-
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:P3FErebus.png|P3F
+檔案:P3RErebus.png|P3R
+</gallery>
+</div>
 |Faction=-
 |Skill=闇の抱擁、原初の暗黒
 |Edition=女神異聞錄3 FES
@@ -432,8 +438,9 @@ D2：エレシウスの祝福、ハーベストですわ！、豊穣の加護<br
 |Picture=
 <div style="min-width:300px; max-width:300px;">
 <gallery mode=slideshow>
-檔案:P2Artemis.png|P2
+檔案:SMTNINEArtemis.png|真NINE
 檔案:SMT5Artemis.png|真Ⅴ
+檔案:P2Artemis.png|P2
 </gallery>
 </div>
 |Faction=P2：冰結
@@ -1131,7 +1138,7 @@ P3R：ブラックハウンド、アクセルハウリング<br>
 |Type=數位/舊約Ⅱ：機械
 真Ⅰ（Saga CD）：闘鬼
 |Ali=NEUTRAL
-|Picture
+|Picture=[[檔案:SMTSegaCDTalos.png|200px]]
 |Faction=-
 |Skill=-
 |Edition=數位惡魔物語/舊約‧女神轉生Ⅱ
@@ -1293,7 +1300,7 @@ D2：物理
 （達芙妮）
 |Type=神樹
 |Ali=
-|Picture=
+|Picture=[[檔案:DSDaphne.png|200px]]
 |Faction=異常狀態
 D2：衝擊、破魔
 |Skill=D2：栄光の月桂冠、ダフネの鼓動、ローレルスラップ
@@ -1609,7 +1616,7 @@ D2：冥府の理、ヘルズゲート
 （黛安娜）
 |Type=地母神
 |Ali=LIGHT-CHAOS
-|Picture
+|Picture=[[檔案:DSSHDiana.png|200px]]
 |Faction=物理、回復
 |Skill=-
 |Edition=惡魔召喚師 靈魂駭客
@@ -1719,7 +1726,14 @@ D2：契約の祝福、必罰の刻印
 （阿剌克涅）
 |Type=鬼女
 |Ali=NEUTRAL-CHAOS
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Arachne.png|真Ⅰ
+檔案:DSRaidouCHArachne.png|超力兵團
+檔案:SMT4Arachne.png|真Ⅳ
+</gallery>
+</div>
 |Faction=-
 |Skill=-
 |Edition=真・女神轉生
@@ -1766,7 +1780,7 @@ D2：契約の祝福、必罰の刻印
 （Larvae）
 |Type=邪靈
 |Ali=CHAOS
-|Picture
+|Picture=[[檔案:MT2Larvae.png|200px]]
 |Faction=-
 |Skill=-
 |Edition=舊約‧女神轉生Ⅱ
@@ -1795,7 +1809,7 @@ D2：契約の祝福、必罰の刻印
 （Strix/夜梟）
 |Type=邪靈
 |Ali=CHAOS
-|Picture
+|Picture=[[檔案:DSStrix.png|200px]]
 |Faction=凍結
 |Skill=-
 |Edition=舊約‧女神轉生Ⅱ
@@ -2071,7 +2085,7 @@ D2：トリックスター
 （烏爾德）
 |Type=女神
 |Ali=LIGHT-LAW
-|Picture
+|Picture=[[檔案:SMT2GBAUrðr.gif|200px]]
 |Faction=補助、回復
 |Skill=-
 |Edition=真‧女神轉生（Sega CD）
@@ -2081,7 +2095,7 @@ D2：トリックスター
 （薇兒丹蒂）
 |Type=女神
 |Ali=LIGHT-LAW
-|Picture
+|Picture=[[檔案:SMT2GBAVerðandi.gif|200px]]
 |Faction=補助、回復
 |Skill=-
 |Edition=真‧女神轉生（Sega CD）
@@ -2091,7 +2105,7 @@ D2：トリックスター
 （詩蔻蒂）
 |Type=女神
 |Ali=LIGHT-LAW 
-|Picture
+|Picture=[[檔案:SMT2GBASkuld.gif|200px]]
 |Faction=補助、回復
 |Skill=-
 |Edition=真‧女神轉生（Sega CD）
@@ -2478,16 +2492,15 @@ D2{{ruby|［劍］|練気戦神剣}}：ヴァルハラの剣気
 **<s>5代甚至把軍神復刻的同時將其降至妖魔了</s>
 <br>
 
-（；屬性：；）
 {{MTdata
 |Name=グレンデル
 （格倫戴爾）
 |Type=邪鬼
 |Ali=
-|Picture=
+|Picture=[[檔案:DSGrendel.png|200px]]
 |Faction=物理
 |Skill=-
-|Edition=
+|Edition=真．女神轉生：惡魔召喚師
 }}
 
 * 昂撒史詩《貝奧武夫》中的怪物兼第一個反派，為該隱的後裔之一，與各種精靈、巨人、海獸為伍
@@ -2504,7 +2517,7 @@ D2{{ruby|［劍］|練気戦神剣}}：ヴァルハラの剣気
 （狂獵）
 |Type=夜魔
 |Ali=
-|Picture=
+|Picture=[[檔案:DSSHWildHunt.png|200px]]
 |Faction=物理、槍擊
 |Skill=-
 |Edition=惡魔召喚師 靈魂駭客
