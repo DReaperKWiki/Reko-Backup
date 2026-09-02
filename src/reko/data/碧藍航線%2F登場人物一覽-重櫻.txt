@@ -1317,7 +1317,10 @@
 * 人氣非常高，除主角艦和明石外的少數實裝Live2D的角色。實裝初期不單有CV和換裝「ブランコ様」，性格也是令人討喜的原因。
 * [https://www.pixiv.net/contest/azurlane-wedding 花嫁衣裝競賽]中的優勝設計於2019年2月實裝，為目前少數實裝婚紗換裝的前限定建造艦。
 ** <s>等了這麼久終於常駐了，下一個就是[[#Nagato|幼女大七]]了吧</s>
-
+==== [[Wikipedia:Japanese_destroyer_Amatsukaze_(1939)|天津風（あまつかぜ/IJN Amatsukaze）]] ====
+[[File:IJN Amatsukaze.png|x200px]]
+* 圖鑑編號：754，陽炎型9號艦，SSR。
+* 陸服名字是菡。
 ==== 浦風（うらかぜ/IJN Urakaze） ====
 [[File:IJN Urakaze.png|x200px]]
 * 圖鑑編號：316，陽炎型11號艦，R。

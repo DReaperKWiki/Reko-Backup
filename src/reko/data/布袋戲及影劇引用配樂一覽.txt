@@ -3649,7 +3649,7 @@ Sweetbox 〈[https://youtu.be/qCWlsut-oF0 SUPERSTAR]〉、<br>S.H.E〈[https://y
 |-
 ||'91 渡辺博也〈魔物ハンター妖子〉||[https://youtu.be/cL-ZnmfkD9k&t=434s 漆黒の世界]||鬼祟場面用||
 |-
-| rowspan="21" |'78~ 《[[機動戰士鋼彈系列]]》||荻田光雄〈[[機動戰士鋼彈0083：星塵回憶|0083:星塵回憶]]〉<br>〈[https://youtu.be/ChdY-Qli0Ek ASSAULT WAVES(強襲揚陸波)]〉||[https://youtu.be/gebgeYSISCA 常用劇烈戰鬥曲]<br>《天宇》✂[https://youtu.be/1MULT-kPbnE&t=3360 聖影戰袍上陣]<br>華視〈包青天〉✂[https://youtu.be/YSricJPjnL4&t=54s 狄青戰鬥曲]||
+| rowspan="22" |'78~ 《[[機動戰士鋼彈系列]]》||荻田光雄〈[[機動戰士鋼彈0083：星塵回憶|0083:星塵回憶]]〉<br>〈[https://youtu.be/ChdY-Qli0Ek ASSAULT WAVES(強襲揚陸波)]〉||[https://youtu.be/gebgeYSISCA 常用劇烈戰鬥曲]<br>《天宇》✂[https://youtu.be/1MULT-kPbnE&t=3360 聖影戰袍上陣]<br>華視〈包青天〉✂[https://youtu.be/YSricJPjnL4&t=54s 狄青戰鬥曲]||
 |-
 ||荻田光雄〈0083:星塵回憶〉<br>〈[https://youtu.be/TqzdWc7uxJw Hidden Moon]〉||《霹靂》✂宇宙至尊棺||
 |-
@@ -3669,9 +3669,11 @@ Sweetbox 〈[https://youtu.be/qCWlsut-oF0 SUPERSTAR]〉、<br>S.H.E〈[https://y
 |-
 ||三枝成彰〈[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]〉-[https://youtu.be/-pcukxBkrv8 νガンダム]||《天宇》✂[https://youtu.be/u37CU5BtI6k 殘珠OP]、✂[https://youtu.be/A2eeFRP1Mps&t=134s 千少一武戲]<br>'93〈情定少林寺〉✂[https://youtu.be/sY90_91mV04?t=1944 常用驚變場面]||
 |-
-||三枝成彰〈[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]〉-[https://youtu.be/X20KRhgLNk4 Combat] ||《天宇》✂千少一嚴肅場面 ||
+||逆'-[https://youtu.be/X20KRhgLNk4 Combat] ||《天宇》✂千少一嚴肅場面 ||
 |-
-||三枝成彰〈[[機動戰士鋼彈 逆襲的夏亞|逆襲的夏亞]]〉-[https://youtu.be/BFk7eRiG74A 使命] ||《天宇》✂九世長青戰死 ||
+||逆'-[https://youtu.be/BFk7eRiG74A 使命] ||《天宇》✂九世長青戰死 ||
+|-
+||逆'-[https://youtu.be/ExRyefxEYG4 メインテーマ] || '93〈情定少林寺〉✂[https://youtu.be/ihtFlP3o8nU?t=394 EP20反方文戲過場] ||
 |-
 ||大谷幸〈新機動戰記-鋼彈W〉<br> [https://youtu.be/1V_F2YutykU 不安から焦燥へ]|| 《霹靂》✂方界老童、<br>〈月唐演義〉✂TV版OP、<br>〈世界名鴿大賽〉廣告間奏||只使用前奏
 |-
