@@ -948,7 +948,7 @@
 |【[[先史遺產]]】<br>【[[奇巧人偶]]】<br>【[[英豪 (遊戲王牌組系列)|英豪]]】
 |CPL1
 |コレクターズパック －伝説の決闘者編－<br>Collection Pack Duelist of Legend Version
-|【[[傳說之龍]]】以及杜馬篇相關卡<br>【[[三幻神]]】（太陽神的翼神龍相關）<br>【[[黑羽 (遊戲王牌組系列)|黑羽]]】<br>【[[編號怪獸|CNo.]]】<br>【[[列車 (遊戲王牌組系列)|列車]]】
+|【[[傳說之龍]]】以及杜馬篇相關卡<br>【[[三幻神]]】（拉的翼神龍相關）<br>【[[黑羽 (遊戲王牌組系列)|黑羽]]】<br>【[[編號怪獸|CNo.]]】<br>【[[列車 (遊戲王牌組系列)|列車]]】
 |-
 |CPD1
 |コレクターズパック －運命の決闘者編－<br>Collection Pack Duelist of Destiny Version
@@ -1098,7 +1098,7 @@
 |-
 |DP24
 |デュエリストパック －冥闇のデュエリスト編－<br>決鬥者卡包：冥暗的決鬥者篇
-|主打闇屬性主題的決鬥者牌組強化：<br>馬利克-【[[三幻神|太陽神的翼神龍]]】<br>超能力者鋁場-【[[人造人 (遊戲王牌組系列)|人造人]]】<br>阿波利亞-【[[機皇帝]]】
+|主打闇屬性主題的決鬥者牌組強化：<br>馬利克-【[[太陽神_(遊戲王牌組系列)#拉的翼神龍（ラーの翼神竜（よくしんりゅう））|拉的翼神龍]]】<br>超能力者鋁場-【[[人造人 (遊戲王牌組系列)|人造人]]】<br>阿波利亞-【[[機皇帝]]】
 |DP25
 |デュエリストパック －疾風のデュエリスト編－<br>決鬥者卡包：疾風的決鬥者篇
 |主打風屬性主題的決鬥者牌組強化：<br>遊吾-【[[速度機器人]]】<br>琉璃-【[[抒情歌鴝]]】<br>雪莉-【[[鮮花 (遊戲王牌組系列)|鮮花]]】
@@ -1215,7 +1215,7 @@
 |デッキビルドパック エンシェント・ガーディアンズ－<br>Deck Build Pack：Ancient Guardians<br>（DBAG）<br>牌組構築包 古代守護者
 |【[[熊極北]]】<br>【[[溟界]]】<br>【[[音階和弦]]】
 |2021.8
-|デッキビルドパック グランド・クリエイターズ -<br>Deck Build Pack：Grand Creators<br>（DBGC）<br>牌組構築包 偉大的創造者
+|デッキビルドパック グランド・クリエイターズ<br>Deck Build Pack：Grand Creators<br>（DBGC）<br>牌組構築包 偉大的創造者
 |【[[驅魔修女]]】<br>【[[勇者 (遊戲王牌組系列)|勇者]]】<br>【[[P.U.N.K.]]】
 |-
 |2022.3
@@ -1229,24 +1229,24 @@
 |デッキビルドパック ワイルド・サバイバーズ<br>Deck Build Pack: Wild Survivors<br>（DBWS)<br>牌組構築包 荒野生存者
 |【[[超越龍]]】<br>【[[征戰狂魂]]】<br>【[[料理廚王 (遊戲王牌組系列)|料理廚王]]】
 |2023.8
-| デッキビルドパック ヴァリアント・スマッシャーズ<br>Deck Build Pack：Valiant Smashers<br>（DBVS）<br>牌組構築包 英勇粉碎者
+|デッキビルドパック ヴァリアント・スマッシャーズ<br>Deck Build Pack：Valiant Smashers<br>（DBVS）<br>牌組構築包 英勇粉碎者
 |【[[憶忘靈]]】<br>【[[百夫戰騎]]】<br>【[[玻璃琴化神]]】
 |-
 | colspan="3" |<center>-</center>
 |2024.8
-|デッキビルドパック　クロスオーバー・ブレイカーズ<br>Deck Build Pack：Crossover Breakers<br>（DBCB）<br>牌組構築包 穿越破壞者
+|デッキビルドパック クロスオーバー・ブレイカーズ<br>Deck Build Pack：Crossover Breakers<br>（DBCB）<br>牌組構築包 穿越破壞者
 |【[[龍華]]】<br>【[[M∀LICE]]】<br>【[[雷熱閃魂]]】
 |-
 |2025.3
-|デッキビルドパック ジャスティス・ハンターズ <br>Deck Build Pack：Justice Hunters<br>（DBJH）<br>牌組構築包 正義獵人
+|デッキビルドパック ジャスティス・ハンターズ<br>Deck Build Pack：Justice Hunters<br>（DBJH）<br>牌組構築包 正義獵人
 | 【[[星宿 (遊戲王牌組系列)|星宿]]】<br>【[[K9]]】<br>【[[闇咪]]】
 |2025.8
-|デッキビルドパック　ファントム・リベンジャーズ<br>Deck Build Pack： Phantom Revengers<br>（DBPR）<br>牌組構築包 幻影復仇者
+|デッキビルドパック ファントム・リベンジャーズ<br>Deck Build Pack：Phantom Revengers<br>（DBPR）<br>牌組構築包 幻影復仇者
 | 【[[無形百臂]]】<br>【[[糾罪巧]]】<br>【[[殺手旋律]]】
 |-
 | colspan="3" |<center>-</center>
 |2026.9
-|デッキビルドパック -グロリアス・ヴィクターズ- <br>Deck Build Pack：Glorious Victors<br>（DBGV）<br>牌組構築包 光榮勝利者
+|デッキビルドパック グロリアス・ヴィクターズ<br>Deck Build Pack：Glorious Victors<br>（DBGV）<br>牌組構築包 光榮勝利者
 | 【[[塞尼特 (遊戲王牌組系列)|塞尼特 ]]】<br>【[[盈滿月]]】<br>【[[異解△]]】
 |}
 
