@@ -906,6 +906,9 @@
 * Citrine
 ** 以水晶為主題的戰甲。
 
+* Citrine Prime
+** 同時推出的是散彈槍Steflos Prime和重鐮刀Corufell Prime。
+
 * Kullervo
 ** 第三個只有血沒護盾的戰甲。
 ** 2技是使用後會放出身上的飛刀，刺中敵人便能回血，超出部分會轉化成超量防護<ref>Eximus敵人的白色護盾</ref>。
@@ -974,6 +977,7 @@
 * Narin
 ** 第二套以冰為主題的戰甲。
 ** 名字來源為韓文的Narida(내리다)，其中一個意思是下雪。
+** 同時推出的武器是弓Nunchasa和雙手槍Aksondol
 
 * Brysko
 ** 以偵探主題的戰甲。
