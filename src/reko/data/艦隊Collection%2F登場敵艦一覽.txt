@@ -71,8 +71,9 @@
 * 於25春首次登場，深海<s>花了13年演化</s>的人形基本單位
 * 有著不輸遊戲早期驅逐型尾王的數值：基本型態就有290HP、79點裝甲值以及80點以上的火力，對空與對潛也異常突出，<s>你這是阿拉斯加吧</s>
 ** 共有八個差分，包括三個破甲型態，還有出場動畫與台詞，儼然是姬級的待遇；然而是次活動頻繁作為道中門神與小Boss登場
-** E6尾王甚至一次來五個<s>，不曉得是否哪位提督大德殺了田中狗又搶了田中車還是怎樣</s>
+** E6尾王甚至一次來五個。
 ** <s>也有可能是因為終於湊齊了ラリルレロ所以變成了Metal Gear......</s>
+*26夏甚至實裝了泳裝立繪…
 
 == 輕巡洋艦、重巡洋艦、重雷裝巡洋艦 ==
 
@@ -139,6 +140,22 @@
 [[檔案:LC Mu Class.png|284x284像素]][[檔案:LC Mu Class Chuuha.png|284x284像素]][[檔案:LC Mu Class Damaged.png|284x284像素]]
 
 * 25秋活首次登場，首個擁有類似我方的中破立繪與演出的深海棲艦。
+
+=== 軽巡ウ級 ===
+[[檔案:KC CL U Class.png|266x266px]][[檔案:KC CL U Class Damaged.png|266x266px]]
+
+* 26夏活登場，有中破立繪。
+
+* 雖然只在道中出現過一次但資料庫中仍有削甲立繪。
+
+* 樣貌與高速軽空母首鬼高度相似，推測原型是作為基底的克里夫蘭級。
+
+=== 重巡ヰ級 ===
+[[檔案:KC CA Wi Class.png|200x200px]][[檔案:KC CA Wi Class Damaged.png|205x205px]][[檔案:KC CA Wi Class Broken.png|205x205px]]
+
+* 26夏活登場，有中破立繪。
+* E-5Boss隨伴艦，最終戰會變成壞狀態，能從本隊放開幕魚雷。
+* 從身上的28.3cm L/52三連裝炮推測原型是德意志級裝甲艦。<s>我們沒有倒是深海先實裝新德艦了</s>
 
 == 戰艦 ==
 
@@ -1282,10 +1299,12 @@
 * <s>虛化的內華達</s>
 ** <s>但不知為何裝的是16吋而非14吋砲</s>
 
-===碉堡要塞棲姬===
+=== 碉堡要塞棲姬（トーチカ要塞棲姫） ===
 [[檔案:碉堡要塞棲姬.png‎|350px]][[檔案:碉堡要塞棲姬2.png‎|350px]]
 * 初登場於23年夏活，後段活動從E6P2初次登場後後面所有血條除了E6P3外都會看見他的身影<s>甚至還會開影分身之術，本次活動最血汗的王。</s>
-* 第二型態還多了個{{Wp|哥利亞遙控炸彈}}。
+** 24年與26年夏活也都有出場。
+* 原型應為德軍的岸防工事「大西洋長城」。
+** 第二型態還多了個{{Wp|哥利亞遙控炸彈}}。
 
 ===Schnellboot小鬼群===
 [[檔案:Schnellboot小鬼群.png‎|300px]][[檔案:Schnellboot小鬼群2.png‎|300px]]
@@ -1414,6 +1433,49 @@
 * 2025年秋季活動E-5最終Boss。
 * 跟海月姬與新量產空母棲姬一樣帶有水母特徵。
 * <s>虛化的胡蜂</s>
+
+=== 層間棲艦水鬼長女 ===
+[[檔案:KC Layered Eldest Daughter.png|429x429像素]][[檔案:KC Layered Elderest Daughter Damaged.png|300x300像素]]
+
+* 2026年夏季活動E-2Boss隨伴艦。
+* <s>虛化的南達科他（銀座的樣子）</s>
+** 首次登場於同年三月線下活動立牌。
+** <s>話說你把龍蝦拿走了之後虛化麻薩諸塞要用什麼</s>
+* 「層間」可能指本關地圖：菲律賓聖貝納迪諾海峽中洶湧的暗流。
+
+=== 層間棲艦水鬼次女 ===
+[[檔案:KC Layered Second Daughter.png|300x300像素]][[檔案:KC Layered Second Daughter Damaged.png|300x300像素]]
+
+* 2026年夏季活動E-2、E-3Boss隨伴艦。
+* <s>虛化的印第安納</s>
+
+=== 防空巡新棲姫 ===
+[[檔案:KC New AA Cruiser Princess.png|300x300像素]][[檔案:KC New AA Cruiser Princess Damaged.png|300x300像素]][[檔案:KC New AA Cruiser Princess Broken.png|300x300像素]]
+
+* 2026年夏季活動E-2Boss。
+* <s>虛化的雷諾</s>
+
+=== 高速軽空母首鬼 ===
+[[檔案:KC Fast CVL Head Demon.png|338x338像素]][[檔案:KC Fast CVL Head Demon Damaged.png|338x338像素]][[檔案:KC Fast CVL Head Demon Broken.png|338x338像素]]
+
+* 2026年夏季活動E-3Boss。
+* 前段尾王，也是本次最大難關，道中阻且長加上坦度與Boss相當的次女隨伴艦，即使出動大和武藏也是一場硬仗。
+* <s>虛化的獨立</s>
+
+=== 仏蘭西哀重姫 ===
+[[檔案:KC French Sad Heavy Princess.png|300x300像素]][[檔案:KC French Sad Heavy Princess Damaged.png|300x300像素]][[檔案:KC French Sad Heavy Princess Broken.png|300x300像素]]
+
+* 2026年夏季活動E-4Boss。
+* <s>虛化的阿爾及利亞</s>
+** 對應自沉的結局，一副想要掐死自己的樣子。
+
+=== 仏蘭西空母籠姫 ===
+[[檔案:KC French CV Caged Princess.png|300x300像素]][[檔案:KC French CV Caged Princess Damaged.png|300x300像素]][[檔案:KC French CV Caged Princess Broken.png|300x300像素]]
+
+* 2025年夏季活動E-5最終Boss。
+* <s>虛化的貝亞恩</s>
+** 「籠」應是指她長期處於軟禁下。
+*雖然強度在高速軽空母首鬼之上，但面對本次後段動輒2~3x的倍卡，甚至甲級也能不削甲硬殺。
 
 == 其他 ==
 
