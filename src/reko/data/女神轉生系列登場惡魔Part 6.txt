@@ -167,9 +167,10 @@ P5R：萬能
 |Type=邪神<br>
 P5R：顧問官
 |Ali=-
-|Picture=
+|Picture=[[檔案:P5RAzathoth.png|200px]]
 |Faction=-
-|Skill=P5R：自己再生、降り注ぐ種子、核熱の爆砕、万却たる燐光、万魔の構え、万魔の混沌、無形の守り、流れ込む生気
+|Skill=P5R：自己再生、降り注ぐ種子、核熱の爆砕、
+万却たる燐光、万魔の構え、万魔の混沌、無形の守り、流れ込む生気
 |Edition=偽典．女神轉生
 }}
 
@@ -183,7 +184,7 @@ P5R：顧問官
 （天蛾人）
 |Type=妖蟲/妖獸
 |Ali=DARK-NEUTRAL
-|Picture
+|Picture=
 |Faction=衝擊
 |Skill=真ⅤV：ゲイルチャージ
 |Edition=惡魔召喚師
@@ -303,7 +304,7 @@ P5R：顧問官
 （飆車族/暴走族）
 |Type=怪異
 |Ali=DARK-NEUTRAL
-|Picture
+|Picture=
 |Faction=物理
 |Skill=-
 |Edition=惡魔召喚師 靈魂駭客
@@ -329,7 +330,7 @@ P5R：顧問官
 |Type=超力兵團/奇譚怪人
 阿巴頓王：禍津属
 |Ali=-
-|Picture=
+|Picture=[[檔案:RaidouRedCape.png|200px]]
 |Faction=狀態異常
 |Skill=錯乱の奇声（超力兵團/奇譚（敵方）、阿巴頓王）
 克己弁明（超力兵團/奇譚（頭目戰）、阿巴頓王）<br>
@@ -342,7 +343,7 @@ P5R：顧問官
 |Type=超力兵團/奇譚：超力兵
 阿巴頓王：禍津属
 |Ali=-
-|Picture=
+|Picture=[[檔案:RaidouYomi kugutsu.png|200px]]
 |Faction=物理、槍擊
 |Skill=回し蹴り、白兵格戦［甲］、機銃速射［乙］、機銃乱射［丙］（超力兵團/奇譚（敵方）、阿巴頓王）
 阿巴頓王：メタル弾［甲］、拡散弾［乙］、マグナム弾［丙］
@@ -407,7 +408,7 @@ P5R：顧問官
 （史萊姆/軟泥怪）
 |Type=外道
 |Ali=DARK-CHAOS
-|Picture
+|Picture=
 |Faction=-
 |Skill=-
 |Edition=舊約・女神轉生

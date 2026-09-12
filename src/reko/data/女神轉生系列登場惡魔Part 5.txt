@@ -2727,8 +2727,8 @@ D2：衝擊
 （布麗姬）
 |Type=女神
 |Ali=
-|Picture=
-|Faction=
+|Picture=[[檔案:DSBrigid.png|200px]]
+|Faction=火焰
 |Skill=
 |Edition=真・女神轉生：惡魔召喚師
 }}
@@ -2824,7 +2824,12 @@ D2（異世界）：クランの猛犬、裂棘の魔槍
 |Type=女神
 |Ali=LIGHT-LAW/LIGHT-NEUTRAL
 |Picture=
-[[檔案:SMTDSScathach.png|200px]]
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMTDSScathach.png|惡魔召喚師
+檔案:DSSHScáthach.png|靈魂駭客
+</gallery>
+</div>
 |Faction=衝擊
 |Skill=妖花烈風
 真ⅤV：武芸の師［特殊］、狂旋風［禍靈］
@@ -2883,7 +2888,13 @@ D2（異世界）：クランの猛犬、裂棘の魔槍
 （巴羅爾）
 |Type=魔王
 |Ali=DARK-CHAOS
-|Picture=[[檔案:DSSHBalor.png|200px]]
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSBalor.png|惡魔召喚師
+檔案:DSSHBalor.png|靈魂駭客
+</gallery>
+</div>
 |Faction=火焰
 D2：物理
 |Skill=D2：邪眼のバロール、バロールアイ、不壊の身体、（猛攻、専守）の一瞥
@@ -3327,7 +3338,7 @@ D2：ごーとぅーへる；<br>
 （霜精三角）
 |Type=惡魔之子：妖魔
 |Ali=
-|Picture
+|Picture=[[檔案:DCWFrostTrio.png|200px]]
 |Faction=
 |Skill=惡魔之子：トリオザパンチ
 |Edition=惡魔之子 白之書
@@ -3955,7 +3966,7 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 （貝拉女巫）
 |Type=鬼女
 |Ali=
-|Picture=
+|Picture=[[檔案:SMT2CailleachBheare.png|200px]]
 |Faction=冰凍、狀態異常
 |Skill=
 |Edition=真．女神轉生Ⅱ
@@ -3973,7 +3984,7 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 （女巫）
 |Type=鬼女
 |Ali=
-|Picture=
+|Picture=[[檔案:SMT2Hag.png|200px]]
 |Faction=
 |Skill=
 |Edition=
@@ -4010,7 +4021,7 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 （斯特里戈伊/死催戈）
 |Type=幽鬼
 |Ali=
-|Picture=
+|Picture=[[檔案:DSStrigoii.png|200px]]
 |Faction=物理、狀態異常
 |Skill=-
 |Edition=
@@ -4026,7 +4037,7 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 （Stonka）
 |Type=魔獸
 |Ali=NEUTRAL
-|Picture=
+|Picture=[[檔案:SMT1Stonka.png|200px]]
 |Faction=物理
 |Skill=
 |Edition=舊約‧女神轉生
@@ -4064,6 +4075,12 @@ D2：長靴をはいた剣士、猫妖精の贈り物
 |Ali=NEUTRAL-NEUTRAL
 NEUTRAL-CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSSuccubus.png|惡魔召喚師
+檔案:DSSHSuccubus.png|靈魂駭客
+</gallery>
+</div>
 |Faction=狀態異常
 |Skill=
 |Edition=舊約・女神轉生
@@ -4080,6 +4097,12 @@ NEUTRAL-CHAOS
 |Type=夜魔
 |Ali=NEUTRAL-CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSIncubus.png|惡魔召喚師
+檔案:DSSHIncubus.png|靈魂駭客
+</gallery>
+</div>
 |Faction=狀態異常
 |Skill=
 |Edition=舊約・女神轉生
@@ -4114,6 +4137,12 @@ NEUTRAL-CHAOS
 |Type=邪龍
 |Ali=CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Basilisk.png|真Ⅰ
+檔案:DSBasilisk.png|惡魔召喚師
+</gallery>
+</div>
 |Faction=狀態異常
 |Skill=
 |Edition=舊約・女神轉生
@@ -4128,7 +4157,7 @@ NEUTRAL-CHAOS
 （獅鷲）
 |Type=魔獸
 |Ali=NEUTRAL
-|Picture=
+|Picture=[[檔案:SMT1Gryphon.png|200px]]
 |Faction=物理
 |Skill=
 |Edition=舊約‧女神轉生Ⅱ
@@ -4175,10 +4204,10 @@ NEUTRAL-CHAOS
 =====西歐=====
 {{MTdata
 |Name=ルー・ガルー
-（狼人）
+（狼人/盧．加爾）
 |Type=魔獸
 |Ali=LIGHT-NEUTRAL
-|Picture
+|Picture=[[檔案:SMT5Loup-garou.png|200px]]
 |Faction=物理、電擊
 |Skill=5代：スフレデクレール
 D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
@@ -4207,7 +4236,13 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （貞德）
 |Type=英雄
 |Ali=NEUTRAL-NEUTRAL 
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSJeanne d'Arc.png|惡魔召喚師
+檔案:DSSHJeanne d'Arc.png|靈魂駭客
+</gallery>
+</div>
 |Faction=破魔
 |Skill=D2：オルレアンの祈り
 |Edition=惡魔召喚師 靈魂駭客
@@ -4238,7 +4273,13 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （薇薇爾）
 |Type=龍王
 |Ali=NEUTRAL-NEUTRAL
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSVouivre.png|惡魔召喚師
+檔案:DSSHVouivre.png|靈魂駭客
+</gallery>
+</div>
 |Faction=物理
 |Skill=D2：ガーネットの共鳴
 |Edition=真・女神轉生 惡魔召喚師
@@ -4302,8 +4343,8 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （獨角獸）
 |Type=聖獸
 |Ali=LIGHT-NEUTRAL 
-|Picture
-|Faction=
+|Picture=[[檔案:SMT1Unicorn.png|200px]]
+|Faction
 |Skill=
 |Edition=舊約‧女神轉生Ⅱ
 }}
@@ -4318,7 +4359,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （鬼魅）
 |Type=邪靈、外道
 |Ali=CHAOS
-|Picture
+|Picture=[[檔案:SMT1Phantom.png|200px]]
 |Faction=-
 |Skill=-
 |Edition=舊約‧女神轉生Ⅱ
@@ -4349,7 +4390,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （傑克殺手）
 |Type=外道
 |Ali=DARK-CHAOS
-|Picture
+|Picture=[[檔案:SMT2Jack-the-Ripper.png|200px]]
 |Faction=物理
 |Skill=D2：ロンドンの恐怖
 |Edition=真·女神轉生Ⅱ
@@ -4367,7 +4408,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （長髮傑克）
 |Type=魔獸
 |Ali=DARK-CHAOS
-|Picture
+|Picture=[[檔案:DSHairyJack.png|200px]]
 |Faction=物理
 |Skill=-
 |Edition=惡魔召喚師
@@ -4385,7 +4426,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 |Type=悪霊
 邪鬼（惡魔倖存者、真Ⅴ）
 |Ali=DARK-NEUTRAL
-|Picture
+|Picture=[[檔案:DSMacabre.png|200px]]
 |Faction=咒殺、異常狀態
 |Skill=-
 |Edition=惡魔召喚師
@@ -4404,7 +4445,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （塔拉斯克）
 |Type=邪龍
 |Ali=DARK-CHAOS
-|Picture=
+|Picture=[[檔案:SMT2Tarrasque.png|200px]]
 |Faction=冰凍
 |Skill=-
 |Edition=
@@ -4444,7 +4485,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （山怪/巨怪）
 |Type=妖精
 |Ali=NEUTRAL
-|Picture=
+|Picture=[[檔案:SMT1Troll.png|200px]]
 |Faction=凍結
 |Skill=
 |Edition=舊約‧女神轉生
@@ -4489,7 +4530,7 @@ D2：血に飢えた人狼、グリフデトネール、月夜に潜む影
 （女樹精）
 |Type=妖樹
 |Ali=
-|Picture=
+|Picture=[[檔案:DSSHSkogsrå.png|200px]]
 |Faction=衝擊
 |Skill=
 |Edition=惡魔召喚師 靈魂駭客
@@ -4548,7 +4589,7 @@ D2：善の破壊者、ソウルレヴィ
 英傑<br>
 軍神
 |Ali=NEUTRAL-NEUTRAL
-|Picture
+|Picture=[[檔案:DSSHSiegfried.png|200px]]
 |Faction=物理
 |Skill=真ⅤV：竜血の知恵［特殊］
 D2：武道の素養
@@ -4566,7 +4607,7 @@ D2：武道の素養
 |Type=猛將
 英雄
 |Ali=NEUTRAL-NEUTRAL
-|Picture
+|Picture=[[檔案:DSSHHagen.png|200px]]
 |Faction=物理
 |Skill=D2：ブルグンドの怨嗟、忠義の剣、暗躍する影
 |Edition=惡魔召喚師 靈魂駭客
@@ -4580,7 +4621,7 @@ D2：武道の素養
 （羅蕾萊）
 |Type=妖精
 |Ali=
-|Picture=
+|Picture=[[檔案:DSLorelei.png|200px]]
 |Faction=恢復
 |Skill=-
 |Edition=真．女神轉生 惡魔召喚師
@@ -4597,7 +4638,7 @@ D2：武道の素養
 （榿木王）
 |Type=妖樹
 |Ali=DARK-LAW
-|Picture
+|Picture=[[檔案:DSSHErlkönig.png|200px]]
 |Faction=電擊、回復
 |Skill=D2：黒き森の妖力、ハンノキの王
 |Edition=真‧女神轉生
@@ -4615,7 +4656,13 @@ D2：武道の素養
 |Type=幽鬼、惡靈、外道
 |Ali=DARK-CHAOS
 DARK-NATURAL
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT2Poltergeist.png|真Ⅱ
+檔案:DSSHPoltergeist.png|靈魂駭客
+</gallery>
+</div>
 |Faction=電擊
 |Skill=D2：心霊現象、不可視の悪戯
 |Edition=舊約・女神轉生
@@ -4653,6 +4700,12 @@ DARK-NATURAL
 |Type=幽鬼
 |Ali=DARK-CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSKudlak.png|惡魔召喚師
+檔案:DSSHKudlak.png|靈魂駭客
+</gallery>
+</div>
 |Faction=咒殺、狀態異常
 |Skill=D2{{ruby|［盾］|邪鎧・ツキカズ}}：吸血呪の霊鎧
 真ⅤV：闇の象徴［特殊］
@@ -4663,7 +4716,7 @@ DARK-NATURAL
 （克雷斯尼克）
 |Type=幻魔
 |Ali=LIGHT-NEUTRAL 
-|Picture=
+|Picture=[[檔案:DSKresnik.png|200px]]
 |Faction=物理、破魔
 |Skill=真ⅤV：善なる十字架［特殊］
 |Edition=惡魔召喚師
@@ -4718,6 +4771,12 @@ DARK-NATURAL
 |Type=妖精
 |Ali=NEUTRAL
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Goblin.png|真Ⅰ
+檔案:SMT1PSGoblin.png|真Ⅰ（PSX）
+</gallery>
+</div>
 |Faction=
 |Skill=
 |Edition=舊約・女神轉生
@@ -4737,6 +4796,12 @@ DARK-NATURAL
 |Type=夜魔
 |Ali=
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSSandman.png|惡魔召喚師
+檔案:DSSHSandman.png|靈魂駭客
+</gallery>
+</div>
 |Faction=狀態異常
 |Skill=-
 |Edition=真．女神轉生 惡魔召喚師
@@ -4751,7 +4816,7 @@ DARK-NATURAL
 （狗頭人）
 |Type=地靈
 |Ali=NEUTRAL
-|Picture=
+|Picture=[[檔案:SMT1Kobold.png|200px]]
 |Faction=
 |Skill=
 |Edition=舊約‧女神轉生Ⅱ
@@ -4780,7 +4845,7 @@ DARK-NATURAL
 （帕托利姆帕斯）
 |Type=龍神
 |Ali=
-|Picture=
+|Picture=[[檔案:DSPatrimpas.png|200px]]
 |Faction=電擊、衝擊
 |Skill=-
 |Edition=
@@ -4788,6 +4853,20 @@ DARK-NATURAL
 
 * Potrimpus，普魯士神話的海洋與穀物之神，與雷神「伯庫納斯（Perkūnas）」及冥界之神「佩科爾斯（Peckols）」並作三位主要神衹
 ** 有關記載從1418年開始，條頓騎士團以基督教化清洗有關民俗，就已經難以考究，現存所謂記載只是根據當年記錄抄襲及演化
+<br>
+
+{{MTdata
+|Name=アルプ
+（Alp）
+|Type=夜魔
+|Ali=CHAOS
+|Picture=[[檔案:SMT2Alp.png|200px]]
+|Faction=咒殺
+|Skill=
+|Edition=真‧女神轉生Ⅱ
+}}
+
+*民間傳說的惡魔，一開始是製作工藝品的種族，後來被貶為能引發夜驚的惡魔
 <br>
 
 {{MTdata
@@ -4845,20 +4924,6 @@ DARK-NATURAL
 }}
 
 *象徵四大元素的土元素，掌管地下的寶物與礦產
-<br>
-
-{{MTdata
-|Name=アルプ
-（Alp）
-|Type=夜魔
-|Ali=CHAOS
-|Picture=
-|Faction=咒殺
-|Skill=
-|Edition=真‧女神轉生Ⅱ
-}}
-
-*民間傳說的惡魔，一開始是製作工藝品的種族，後來被貶為能引發夜驚的惡魔
 <br>
 
 ===== 歐陸全土 =====
@@ -4922,7 +4987,7 @@ DARK-NATURAL
 （雙角獸）
 |Type=
 |Ali=
-|Picture=
+|Picture=[[檔案:SMT2Bicorn.png|200px]]
 |Faction=
 |Skill=
 |Edition=
