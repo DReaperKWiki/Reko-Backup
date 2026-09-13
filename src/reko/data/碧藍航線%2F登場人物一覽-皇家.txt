@@ -874,14 +874,20 @@
 === [[Wikipedia:G_and_H-class_destroyer#H_class|H級驅逐艦]] ===
 ==== 勇敢（ハーディ/HMS Hardy） ====
 [[File:HMS Hardy.png|x200px]] 
-* 圖鑑編號：096，H級1號艦，SR。
-==== 獵人（ハンター/HMS Hunter） ====
-[[File:HMS Hunter.png|x200px]] 
-* 圖鑑編號：100，H級8號艦，R。
-* <s>稱號是「卑鄙的外鄉人」，經常在雅南狩獵</s>
+* 圖鑑編號：096，SR。
+==== 勿忙（ヘイスティ/HMS Hasty） ====
+[[File:HMS Hasty.png|x200px]] 
+* 圖鑑編號：757，SR。
 ==== [[Wikipedia:HMS_Hero_(H99)|英雄（ヒーロー/HMS Hero）]] ====
 [[File:HMS Hero.png|x200px]] 
 * 圖鑑編號：585，SR。
+==== 敵對（ホスタイル/HMS Hostile） ====
+[[File:HMS Hostile.png|x200px]] 
+* 圖鑑編號：099，SR。
+==== 獵人（ハンター/HMS Hunter） ====
+[[File:HMS Hunter.png|x200px]] 
+* 圖鑑編號：100，R。
+* <s>稱號是「卑鄙的外鄉人」，經常在雅南狩獵</s>
 
 === [[Wikipedia:I-class_destroyer|I級驅逐艦]] ===
 * 英國皇家海軍於30年代建成以H級為基礎的一級驅逐艦，合共9艘，另有4艘由土耳其海軍下訂的準同型艦。
@@ -1382,6 +1388,11 @@
 * <s>輪チラ</s>
 * <s>其實是プラネテューヌ的女神，擁有女神化的能力</s><ref>雖然和超次元系列的女主角ネプテューヌ同英文名但讀音卻完全不同。</ref>
 * <s>[[為美好的世界獻上祝福！|能淨化不死族，但個性相當殘念又少根筋]]</s>
+
+=== [[Wikipedia:Tiger-class_cruiser|虎級輕巡洋艦]] ===
+==== [[Wikipedia:HMS_Tiger_(C20)|虎（タイガー/HMS Tiger）]] ====
+[[File:HMS Tiger.png|x200px]]
+* 圖鑑編號：754，UR。
 
 === 愛丁堡級輕巡洋艦初期設計方案 ===
 * 英國皇家海軍在設計愛丁堡級輕巡洋艦時曾考慮過其中一個方案：將三聯裝152mm主炮變成四聯裝以將對海火力最大化，其餘設計和南安普頓級看齊。

@@ -120,6 +120,16 @@
 * <s>魯梅的售後服務之一</s>
 ** 主要是因為攻擊模式以及最後40秒左右會致盲一段時間，導致該段時間主力艦隊無法攻擊從而無法達致四輪攻勢，攻擊速度相對慢一點但對中甲單位有非常優勢的弗裏茨·魯梅是在這裡能發揮得很好的單位之一。
 
+==={{anchor|Victorious_META}}[[碧藍航線/登場人物一覽-皇家#Victorious|勝利]](META)（ヴィクトリアス(META)/Victorious META）===
+[[檔案:Victorious META.png|x200px]]
+* 圖鑑編號：M065，艦種：空母，SSR。
+* 於活動「妖異奇譚」中登場，透過限時建造或關卡打撈入手。
+
+==={{anchor|Saratoga_META}}[[碧藍航線/登場人物一覽-白鷹#Saratoga|薩拉托加]](META)（サラトガ(META)/Saratoga META）===
+[[檔案:Saratoga META.png|x200px]]
+* 圖鑑編號：M064，艦種：空母，SSR。
+* 在2026年9月的META信標戰中作為解析報酬實裝。
+
 == 湮燼之核（湮燼の核） ==
 ==={{anchor|Hatakaze_META}}[[碧藍航線/登場人物一覽-重櫻#Hatakaze|旗風]](META)（はたかぜ(META)/Hatakaze META）===
 [[檔案:Hatakaze META.png|x200px]]
@@ -415,8 +425,6 @@
 [[檔案:Akagi META.png|x200px]]
 * 於活動「絳染む丹華の詠歌」劇情中初次登場。
 <!--
-==={{anchor|Saratoga_META}}[[碧藍航線/登場人物一覽-白鷹#Saratoga|薩拉托加]](META)（サラトガ(META)/Saratoga META）===
-[[檔案:Saratoga META.png|x200px]]
 ==={{anchor|Soobrazitelny_META}}[[碧藍航線/登場人物一覽-北方聯合#Soobrazitelny|靈敏]](META)（ソオブラジーテリヌイ(META)/Soobrazitelny META）===
 [[檔案:Soobrazitelny META.png|x200px]]
 -->

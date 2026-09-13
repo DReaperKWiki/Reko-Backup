@@ -733,9 +733,9 @@ XbsX
 |
 |RTS+ADV
 |戯画
-|
-|Don't believe THE TRUTH, Believe YOUR JUSTICE and YOUR HEART. さあ、お前のJINGI……貫いてみせろ！
-|
+|作為著名的遊戲廠商戲畫的最終作，卻是將自己最後的風光徹底葬送的一作；
+|Don't believe THE TRUTH, Believe YOUR JUSTICE and YOUR HEART. さあ、お前のJINKI……貫いてみせろ！
+|別相信真實，相信你的正義和自己的心。來吧，貫徹你的JINGI吧
 |-
 |2024年
 |GEARS of DRAGOON 3 ～竜刻のレガリア～
@@ -744,7 +744,13 @@ XbsX
 |ninetail
 |
 |願わくばクソゲーよ、強くあれ。停滞した時代を動かす颶風であれ
-|
+|願這糞遊戲能夠變得更強，願它成為席捲這個停滯不前的時代的颶風
+|-
+|2025年
+|從缺
+| colspan="4" |這不是錯覺，是真的沒有大賞作品。
+|クソゲーが出ないことは良いことです
+|沒有糞遊戲出現是好事來的
 |}
 
 == 用語 ==
