@@ -763,11 +763,11 @@
 |-
 | rowspan="2"|裡風都的「居民」 || 不明
 |-
-| Knight || 防禦特化，能擋下CJEX+Accel的MD || 不明 || 裡風都融合計畫開始後取代上者的記憶體，因為適格者問題僅有不足50人
+| Knight || 防禦特化，能擋下CJEX+Accel的MD || 不明 || 裡風都融合計畫開始後取代上者的記憶體，因為適格者需求極高的身體素質與精神抗性，僅有不足50人得以使用<br>也因為精神負荷過大，使用者的意識會變得遲鈍
 |-
 | Meganeura || {{censored|美原睦夫}} || 左太陽穴 || 能在空中飛行，背上的翅膀震動時會發出讓對手行動變得遲頓的震動波<br>{{censored|服用雪侍給予的[[強化藥物]]後能生成出大量分身}} || 
 |-
-| Aurora || 万灯雪侍 || {{censored|Gaia Driver→}}Gaia Driver rex || 能放出超高熱和自由進出閉鎖的空間||
+| Aurora || 万灯雪侍 || {{censored|Gaia Driver→}}Gaia Driver rex || 能放出超高熱{{censored|的宇宙電漿}}和自由進出閉鎖的空間<br>{{censored|除了產生<s>光束</s>電漿，也擁有破壞其他記憶體的能力}}||雪侍本人持有第二條記憶體，同時讀取時戰力翻倍
 |-
 | Scream || 五条一葉 || rowspan="2"|Gaia Driver rex || 能伴隨尖叫放出超聲波，右手食指十分鋒利 || 在與Accel對決時先後附加使用Arms, Scissors, Unicorn和Ice Age記憶體的能力
 |-
