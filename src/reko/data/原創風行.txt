@@ -1,7 +1,7 @@
 {{h0|原創風行}}
 {{Controversial}}
 
-{{StructuredQuote | text = ばれちゃ困るのがパクリで、ばれなきゃ困るのがパロディ(如果被發現就麻煩大了，那是抄襲；如果沒被發現就麻煩大了，那是致敬。)| speaker =某匿名使用者| attribution = ニコニコ大百科}}
+{{StructuredQuote | text = {{ruby|如果被發現就麻煩大了，那是抄襲；如果沒被發現就麻煩大了，那是致敬。|ばれちゃ困るのがパクリで、ばれなきゃ困るのがパロディ}}| speaker =某匿名使用者| attribution = ニコニコ大百科}}
 
 ==解說==
 *把別人創作的東西當成是自己的，簡單來說就是'''抄襲'''，可能會構成'''侵權'''的違法行為。
@@ -202,7 +202,7 @@
 |EZ2DJ<br>EZ2AC
 |AmuseWorld<br>3S ENTERTAINMENT<br>Square Pixels
 |Beatmania
-|按鍵配置和玩法除了主要照抄初代Beatmania的5鍵+刮盤以外，多了踏板，後期版本甚至連特效鍵也會變成譜面專用鍵<br>因為玩法過於相像，不意外在2001年被Konami控告，這個官司足足打了7年之後，Konami勝訴，該系列機台因此在日本街機市場受到限制（禁止於街機聽稼動），此次官司也令AmuseWorld的財務受到嚴重影響，最後倒閉，原團隊後來分別成立了3S ENTERTAINMENT及Square Pixels，街機方面歷經改名為EZ2AC之後才好轉<br><br>同時也有PC版《EZ2ON》，與街機版不同的是少了刮盤和踏板兩個按鍵配置，街機版於《EZ2AC FINAL：EX》正式收攤之後目前以PC版《EZ2ON REBOOT：R 》延續其命脈<br><br><s>至於其衍生作《EZ2Dancer》<ref>DDR+Dance Maniax玩法的街機音樂遊戲</ref>系列則是直接被腰斬</s><br>EZ2ON的誕生也促成了另一款韓國音樂遊戲DJMAX的誕生
+|按鍵配置和玩法除了主要照抄初代Beatmania的5鍵+刮盤以外，多了踏板，後期版本甚至連特效鍵也會變成譜面專用鍵<br>因為玩法過於相像，不意外在2001年被Konami控告，這個官司足足打了7年之後，Konami勝訴，該系列機台因此在日本街機市場受到限制（禁止於街機聽稼動）之餘，其他舊作機台也全數遭到銷毀（包括同社的結合DDR+Dance Maniax玩法的街機音樂遊戲《EZ2Dancer》），此次官司也令AmuseWorld的財務受到嚴重影響，最後倒閉，原團隊後來分別成立了3S ENTERTAINMENT及Square Pixels，Square Pixels延續系列命脈並將其改名為《EZ2AC》之後得以繼續在海外市場發展（甚至回歸日本市場），3S ENTERTAINMENT則是推出了《3S : Sabin Sound Star》<ref>玩法除了刮盤換成3顆Percussion大按鍵以外其餘按鍵跟EZ2DJ / EZ2AC沒啥兩樣（保留了前者的5鍵+1踏板）</ref>，然而可能因為太過冷門，只出一作就結束營運，該團隊後來似乎回歸至Square Pixels<br><br>同時也有PC版《EZ2ON》，與街機版不同的是少了刮盤和踏板兩個按鍵配置，街機版於《EZ2AC FINAL：EX》正式收攤之後目前以PC版《EZ2ON REBOOT：R 》延續其命脈<br><br>此外EZ2ON的誕生也促成了另一款韓國音樂遊戲DJMAX的誕生
 |-
 |Pump It Up
 |Andamiro

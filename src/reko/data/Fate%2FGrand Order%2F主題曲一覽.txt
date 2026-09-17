@@ -728,6 +728,23 @@
 |}
 * 2026年活動《在春天結束時等待您》主題曲。
 
+=== {{ruby|灰化|かいか}}の芽 ===
+{| class="wikitable" style="margin-right: 1em auto 1em auto;"
+|-
+! 主唱
+| 國土佳音・松岡大海（こくどかおん/まつおかひろみ）
+|-
+! 作詞
+| 西田圭稀
+|-
+! 作曲
+| 羽岡佳
+|-
+! 編曲
+| 羽岡佳
+|}
+* 2026年活動《去死吧！南瓜農場大屠殺》主題曲。
+
 == Fate/Grand Order Arcade ==
 === 空白 ===
 {| class="wikitable" style="margin-right: 1em auto 1em auto;"
