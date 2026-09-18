@@ -873,8 +873,9 @@
 
 === [[Wikipedia:G_and_H-class_destroyer#H_class|H級驅逐艦]] ===
 ==== 勇敢（ハーディ/HMS Hardy） ====
-[[File:HMS Hardy.png|x200px]] 
-* 圖鑑編號：096，SR。
+[[File:HMS Hardy.png|x200px]][[File:HMS Hardy R.png|x200px]]  
+* 圖鑑編號：096→3096，SR→SSR。
+
 ==== 勿忙（ヘイスティ/HMS Hasty） ====
 [[File:HMS Hasty.png|x200px]] 
 * 圖鑑編號：757，SR。
