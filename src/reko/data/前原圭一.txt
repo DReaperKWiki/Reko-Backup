@@ -53,7 +53,7 @@
 * <s>[[公主抱]]（K1你這個雜碎！）</s>
 ** 梨花：圭一在這種時候還挺[[紳士]]的
 ** 禮奈：被、被抱起來的梨花好可愛呀！我要帶回家♡
-* <s>[https://www.bilibili.com/video/BV1jQ4y1U7xZ 把娃娃送到魅音以外的人手裡]</s><br>[[檔案:娃騙篇.png|800px]]
+* <s>[https://www.bilibili.com/video/BV1rG4y1T7aa 發出禮奈的][[成句/嘘だッ！|聲音]]</s>
 * {{censored|等級極高的戰鬥續行}}
 
 === 武器 ===
@@ -151,11 +151,11 @@
 * [[成句/我來陪妳玩玩吧，鉈女！]]
 
 ==回應==
-[[Talk:{{FULLPAGENAME}}]]
+{{pcomment|talkpage}}
 
 {{07th Expansion}}
 
 ==備註==
 <references />
 
-[[分類:角色]]
+[[分類:角色]][[分類:暮蟬悲鳴時]]

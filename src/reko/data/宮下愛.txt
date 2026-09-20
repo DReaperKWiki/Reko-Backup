@@ -2,8 +2,14 @@
 {|class="wikitable" style="margin:auto;"
 |本條目是一個編輯中的詞條，歡迎有興趣的[[島民]]加以補完。
 |}
-[[檔案:Ai School Uniform.png|300px|right]]
 
+{| align="right" border="1"
+|-
+|<gallery widths="250px" heights="250px">
+檔案:Ai School Uniform.png|AS時代形象圖
+檔案:Miyashita_Ai.png|動畫形象圖
+</gallery>
+|}
 == 解說 ==
 * 《[[LoveLive! 虹咲學園學園偶像同好會]]》的主要角色
 * [[聲優|CV]]：[[村上奈津實]]
