@@ -1,6 +1,6 @@
 {{h0|John-117/Master Chief/士官長}}
 
-{| class="wikitable"
+{| class="wikitable" style="margin: 0 auto;"
 |'''注：2022年翻修的版本已不幸佚失'''，歡迎有興趣的UNSC書記官補充與調整
 |-
 |部分內容含有劇透，不想被<del>重組機變成數據(物理)</del>雷到的超級戰士請謹慎食用

@@ -121,6 +121,14 @@
 ===Metal Slug Tactics／合金彈頭：戰略版===
 * 由Leikir Studio製作，Dotemu及Gamera Games發行，系列作第一款戰棋式SLG遊戲
 
+=== Metal Slug Complete (Metal Slug Anthology) ===
+* 收錄初代到6代，並收錄美術和音樂集
+
+=== METAL SLUG ULTIMATE COLLECTION ===
+* 30周年紀念，由懷舊遊戲專門的M2進行開發，收錄初代到7代，加上Metal Slug Advance和街機初代測試版
+* 另外還追加了歷代軍校模式，還有得分挑戰與限時挑戰
+* 加入快速存檔和快速載入，甚至還能直接倒轉時間
+
 ==角色列表==
 ===正規軍相關===
 ====Marchrius "Marco" Dennis Rossi／マルコ=ロッシ／マルクリウス・デニス・ロッシ／馬可里斯·「馬可」·丹尼斯·羅西====
