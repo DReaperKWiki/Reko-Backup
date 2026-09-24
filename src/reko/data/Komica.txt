@@ -19,7 +19,7 @@
  第三天住在這裏的時候，我開始覺得他們跟普通人沒兩樣
  第七天住在這裏的時候，我覺得自己和島民們都很純樸
 
-== 沒落 ==
+=== 沒落 ===
 * KOMICA是由數個連線版構成，但某些版面由於沒有集中管理或是已經被版主放棄，已經陷入了無人管理的狀態，變成外來種廚及[[聲優廚連續惡意創建及破壞條目事件|聲優廚]]肆意發瘋的收容所而無人阻止。
 ** 2022年爆破事件後，多數版面已經無法進入。
 * KOMICA某些版面有採取畫像認證的方式或是封禁IP的方式來阻擋洗版廚，但地圖砲對拚命換IP的廚無效，還害到海外島民和正常島民使用版面的權益。
@@ -34,7 +34,7 @@
  【悲報】島主最新公告
  雖然不知道還能繼續陪伴大家多久，但管理員會儘量做力所能及的努力。
  如果哪天真的不幸再起不能，相信也還有很多同性質的網站可以接手。
- 天下沒有不散筵席，感謝各位的支持和愛護，祝福 K 島也祝福各位。
+ 天下沒有不散筵席，感謝各位的支持和愛護，祝福 K 島也祝福各位。<ref>擷取自2cat & Komica Official Blog 2026/9/20公告[http://komica.blogspot.com/2026/09/iriskomica1org.html iris.komica1.org 主機故障通報]</ref>
 
 == 參見 ==
 * [http://komica1.org Komica] (部分看板無法進入)
@@ -42,7 +42,7 @@
 * V-Day 事件 [https://www.google.com.tw/search?ie=utf8&oe=utf8&q=ACG%E4%BA%A4%E6%B5%81%E7%B6%B2%E7%AB%992cha%E7%9A%84%E6%BB%85%E4%BA%A1&hl=zh-TW&gws_rd=ssl Google.tw:ACG交流網站2cha的滅亡]
 * [http://komica.dyndns.org/98/index.htm 舊的 Komica 管理室]
 * [http://2cat.or.tl/~ad/0d/fstyle.html? 新的 Komica 管理室]
-* scribe 寫的 [http://pixmicat.openfoundry.org/history.htm History : Pixmicat! in Development]
+* scribe 寫的 [https://pixmicat.github.io/history.htm History : Pixmicat! in Development]
 * 歡樂惡搞板[http://homu.komica.org/up/src/up053.mht 糟糕島]討論串
 
 == 回應 ==
