@@ -121,7 +121,7 @@
 === いきづらい部！ あつまれユニットソング！ vol.1 ===
 * 小隊專輯，2026年11月25日發售
 
-<!--校區分組-->
+< 校區分組 >
 * '''凸凹Quartet'''（CHAKI！）
 ** {{youtube|hymh68WOWbo|歌詞MV}}<s>[[超時空輝耀姬！|輝耀波爾卡]]</s>
 * '''シンメトリー'''（Mi×Nori=Tea）
@@ -131,24 +131,27 @@
 * '''Silent Stella'''（SH1ON）
 ** {{youtube|S0qI04wA4Is|歌詞MV}}，在日本時間0點上傳<s>符合人設</s>
 
-<!--第2回小隊-->
+< 第2回小隊 >
 * '''全力Calling!! I LOVE YOU!!'''（こーるみー!!! ） 
+** {{youtube|KKfbwyWHqSo|歌詞MV}} 
 * '''tap tap tappin'!!'''（既読待ちLovers） 
+** {{youtube|kxw0PkA-GjY|歌詞MV}} 
 * '''未完成なラブレター'''（恋文乙女純情派） 
+** {{youtube|10BnpElSL7k|歌詞MV}} 
 
-<!--おためしペアリング-->
+< おためしペアリング >
 * '''Darling Wanted!'''（麻衣、乃理子） 
-** <s>殘陽2.0，聲優在2nd LIVE的大膽舉動引人注目</s>
 * '''青春ソーダ'''（玲、翔音） 
 * '''POP LOVE'''（奇跡、輝夜） 
 * '''Spinning Parade'''（波爾卡、悠可里） 
 * '''チュリ♡CHUちゅきらり♪'''（花火、真綠） 
+** <s>殘陽2.0，2nd LIVE的大膽演出引人注目</s>
 
-<!-- -->
+< 全員 >
 * '''Tale of Primavera'''
 ** <s>明明是團曲卻收在小隊專裡</s>
 ** 於2nd Live公開，C位是悠可里
-** 化用了大量古典樂的旋律
+** 化用了天鵝湖等多首古典樂的旋律
 ** {{youtube|B3BNuGlX72s|歌詞MV}}
 
 == 翻唱 ==
