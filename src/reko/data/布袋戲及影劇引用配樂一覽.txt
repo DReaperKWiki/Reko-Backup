@@ -5,7 +5,7 @@
 |-
 | style = "text-align: center; "  |『''我們對音樂沒有偏見，只要是戲裡氣氛所需要的，不管是熱門的也好、古典的也好，[[成句/我全都要|都用上，]]<br>這樣才能表現出劇裡的感情。假如用得很恰當，還會產生一種意想不到的滑稽感，增加了歡樂、笑料''』<br>－[https://youtu.be/7YyzksH-UxI?t=870 黃俊雄]，1970
 |-
-| style = "text-align: center; "  | 本條目介紹範圍包含但不限於布袋戲<ref>依既存古本演義小說改編的『古冊戲』或未形成系列的單一劇齣各依<b>『年份_主演_〈劇名〉』</b>列舉，已形成系列的電視劇金光布袋戲品牌如：黃俊雄~黃立綱系列全屬<b>《金光》</b>(包括〈雲州大儒俠〉+〈六合三俠傳〉兩大系譜)、黃文擇系列<b>《霹靂》</b>(〈忠勇小金剛〉起算，包括〈黑河戰記〉)、黃文耀系列<b>《天宇》</b>(〈龍現江湖〉起算)、鄭寶和系列<b>《聖俠》</b>(〈聖俠傳奇之凌霄星訣〉起算)、許清福系列<b>《巨登》</b>（〈戰朝天劫〉起算）、蕭建平系列<b>〈神魔/王者〉</b>、趙金統系列<b>《聖章》</b>、陳俊然~沈明正系列<b>《鐵漢南俠》</b>…等，無明確專屬劇團品牌/系譜的野台金光戲角色或情境標為<b>（野台）</b></ref>，亦歡迎補充其他影劇<ref>部分跨平台多媒體計畫(例如兼有動畫、遊戲的日系創作)依其平台與作曲者列舉之</ref>、廣告<ref>為防同一劇名/劇本可能有不同年份/地區/電視台/後製版本造成混淆，標示<b>『年份+台名/導演、編曲者/〈劇名〉/唱者－曲名』</b>格式</ref>內的案例或趣聞
+| style = "text-align: center; "  | 本條目介紹範圍起始自布袋戲<ref>依既存古本演義小說改編的『古冊戲』或未形成系列的單一劇齣各依<b>『年份_主演_〈劇名〉』</b>列舉，已形成系列的電視劇金光布袋戲品牌如：黃俊雄~黃立綱系列全屬<b>《金光》</b>(包括〈雲州大儒俠〉+〈六合三俠傳〉兩大系譜)、黃文擇系列<b>《霹靂》</b>(〈忠勇小金剛〉起算，包括〈黑河戰記〉)、黃文耀系列<b>《天宇》</b>(〈龍現江湖〉起算)、鄭寶和系列<b>《聖俠》</b>(〈聖俠傳奇之凌霄星訣〉起算)、許清福系列<b>《巨登》</b>（〈戰朝天劫〉起算）、蕭建平系列<b>〈神魔/王者〉</b>、趙金統系列<b>《聖章》</b>、陳俊然~沈明正系列<b>《鐵漢南俠》</b>…等，無明確專屬劇團品牌/系譜的野台金光戲角色或情境標為<b>（野台）</b></ref>，亦歡迎補充其他影劇、媒體<ref>部分跨平台多媒體計畫(例如兼有動畫、歌曲、遊戲的日系商業創作)依其平台與作曲者列舉之</ref>、廣告<ref>為防同一劇名/劇本可能有不同年份/地區/電視台/後製版本造成混淆，標示<b>『年份+台名/導演、編曲者/〈劇名〉/唱者－曲名』</b>格式</ref>內的案例或趣聞
 |-
 | style = "text-align: center; "  | 本條目的所屬作品以各原文+中文譯名為主，不確定曲名則留空白或片段
 |-
@@ -915,7 +915,7 @@
 |-
 || '79 Jerry Goldsmith<br>〈Alien/異形〉|| [https://youtu.be/sz8IjeAS5Yw Acid Test] ||《天宇》✂[https://youtu.be/18OsINIT8TY&t=2154 金覺玄襲擊天皇]|| 驚變、伏擊場面常用
 |-
-||'86 Jerry Goldsmith〈Link 靈猩/恐怖聯結〉 || [https://youtu.be/SssAisI33i8&t=74s Bravo Link] || 《天宇》✉[https://youtu.be/3Sp4yJl-tas?t=3344 六手魔像耍笨場景] || 早期丑角常用
+||'86 Jerry Goldsmith〈Link 靈猩/恐怖聯結〉 || [https://youtu.be/SssAisI33i8&t=74s Bravo Link] || 《天宇》✉[https://youtu.be/3Sp4yJl-tas?t=3344 六手魔像耍笨場景]<br>'95華視〈驚世媳婦〉[https://youtu.be/HT8sVYFWiZA?t=1925 EP32 阿牛入牢施暴] || 早期丑角常用
 |-
 ||'82 Jerry Goldsmith〈First Blood/第一滴血〉|| [https://youtu.be/UrKwNa-X45M Preparations] || 《霹靂》✂雲夢沼澤、童顏未老人 || 
 |-
@@ -2120,7 +2120,9 @@
 |-
 ||'80 REO [[JOJO第一部登場人物一覽#羅伯特‧E‧O‧史比特瓦根|Speedwagon]] ||〈[https://youtu.be/wJzNZ1c5C9c Keep on Loving You]〉||'80《The Last American Virgin》✉[https://youtu.be/dzu1qklqW9w ED]||
 |-
-||'80 [[JOJO第三部登場人物一覽#荷爾．荷斯/ホル．ホース| Daryl Hall & John Oates]] || [https://youtu.be/YOuhYuZLNYw Kiss on My List] || 2010〈She's Out of My League/辣妹愛宅男〉☻Stainer翻唱<br>2015〈You Again / 冤家囍相逢〉☻[https://youtu.be/rHbbIqWZozU 本尊重唱]<br>2017〈Coffee & Kareem〉☻主角翻唱 ||
+| rowspan="2" |'80 [[JOJO第三部登場人物一覽#荷爾．荷斯/ホル．ホース| Daryl Hall & John Oates]] || [https://youtu.be/YOuhYuZLNYw Kiss on My List] || 2010〈She's Out of My League/辣妹愛宅男〉☻Stainer翻唱<br>2015〈You Again / 冤家囍相逢〉☻[https://youtu.be/rHbbIqWZozU 本尊重唱]<br>2017〈Coffee & Kareem〉☻主角翻唱 ||
+|-
+|| [https://youtu.be/EXU2tnKEwwo One on One] || '98~ 廣播電台〈HitFM聯播網〉✎[https://youtu.be/8rw-VjHVLGQ?t=128 順子版台呼7]|| 使用[https://youtu.be/n2dzuNLnR4o 順子翻唱版]曲源
 |-
 || 秋乃華(林楓) || 曾仲影〈秋風秋雨〉|| 《金光》✂[https://youtu.be/2EbxC-6sabM&t=2529 蘭城公主金絲蘭(華視版)]|| 使用林翠萍版[https://youtu.be/4UugGvdfquA 曲源]
 |-
@@ -2140,12 +2142,14 @@
 |-
 ||石川こゆり||'77三木たかし〈{{youtube|OJxm9Lt-w6Y|津軽海峡・冬景色}}〉||《金光》黃鳳儀☻[https://youtu.be/virZ8SDOyvI 你要叫我怎樣對待你] ||經典日語演歌
 |-
-|| '79 Lipps Inc. || 〈[https://youtu.be/Z6dqIYKIBSU Funkytown]〉 || '94 〈破壞之王〉☻[https://youtu.be/URU-EP0s1tg?t=47 抵抗失戀沖喜套餐(放棄她)] 
+|| '79 Lipps Inc. || 〈[https://youtu.be/Z6dqIYKIBSU Funkytown]〉 || '94 〈破壞之王〉☻[https://youtu.be/URU-EP0s1tg?t=47 抵抗失戀沖喜套餐(放棄她)]
 <br>81' 〈History of the World: Part I〉羅馬帝國篇<br>'97〈接觸未來 Contact〉插曲<br>2004 《史瑞克2》抵達遠的要命王國<br>2005〈Roll Bounce 翻滾吧！〉溜冰場景<br>2007〈鼠來寶〉插曲<br>2011 改編電影《Funkytown》<br>2012〈獨裁者 The Dictator〉插曲<br>2019 《Ma 恐怖大媽》派對場景 <br>2022〈小小兵2〉☻St. Vincent 翻唱版 ||
 |-
 ||'76  The Manhattans ||〈[https://youtu.be/wtjro7_R3-4 Kiss and Say Goodbye]〉|| '98~ 廣播電台〈HitFM聯播網〉✎[https://youtu.be/8rw-VjHVLGQ?t=56 順子版台呼3]|| 使用[https://youtu.be/DoGPug1t_hM 順子翻唱版]曲源
 |-
 || '79 Anita Ward || Frederick Knight〈[https://youtu.be/1eRBRL27rCQ Ring My Bell]〉 || '98~ 廣播電台〈HitFM聯播網〉✎[https://youtu.be/sTW_zykF1L8 順子版台呼1/5/6]|| 使用[https://youtu.be/LrmttIby6lQ 順子翻唱版]曲源
+|-
+||'87~ Aerosmith/史密斯飛船 || [https://youtu.be/nf0oXY4nDxE Dude (Looks Like a Lady)] || 1993〈Mrs. Doubtfire / 窈窕奶爸〉☻打掃偷唱歌片段<BR>1993〈Wayne's World 2 / 威恩的世界2〉☻本尊客串現場||  [[JOJO第五部登場人物一覽#納蘭迦．吉爾各（ナランチャ・ギルガ/Narancia_Ghirga）|Volare Via!]]
 |-
 |}
 </center>
@@ -3076,6 +3080,9 @@ Sweetbox 〈[https://youtu.be/qCWlsut-oF0 SUPERSTAR]〉、<br>S.H.E〈[https://y
 || '91 Primrose Music <br> '91 Fabio Frizzi ||〈[https://youtu.be/5L-vYpQ-3BE Mysterious Facts]〉|| '93 〈情定少林寺〉✂[https://youtu.be/GRb9H0DTL5A?t=1485 EP19小蘭犧牲肉體] ||
 |-
 || '91 Primrose Music <br> Carlo Maria Cordio ||〈[https://youtu.be/V67Rzry_kWQ Desolation]〉|| '93 〈情定少林寺〉✂[https://youtu.be/GRb9H0DTL5A?t=3293 EP19收幕] ||
+|-
+|| '84 Richard Burmer<br>〈Mosaid〉 ||〈[https://youtu.be/BjlxJD5jIpI&t=630s Winter On the Wind]〉|| '95 華視〈驚世媳婦〉✂[https://youtu.be/HT8sVYFWiZA?t=292 EP32張金源告慰父母] ||
+
 |-
 |}
 </center>
