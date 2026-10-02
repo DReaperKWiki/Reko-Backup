@@ -151,7 +151,7 @@
 |Dance Dance Revolution X
 |2008年12月24日（日版）<br>2009年6月3日（美版）<br>2009年6月9日（歐版）
 |392（日版）<br>388（歐、美版）
-|主機板更新為Bemani PC Type 4 system<br>標題名稱從本作開始一律統一為Dance Dance Revolution<br>框體方面雖有新框體，但可兼容舊框體<br>播報員語音改由美國搖滾樂團Ozomatli的成員Justin與Wil-Dog擔綱<br>大部分過往BEMANI歌曲刪除，Dancemania版權曲以X-edit版重新編譜<br>難度數值刷新，最高等級提高到20，並且新增SHOCK音符：一踩到直接算MISS，同時譜面會全隱1秒左右，跳過會算COMBO<br>NAOKI最後主導的代數
+|主機板更新為Bemani PC Type 4 system<br>標題名稱從本作開始一律統一為Dance Dance Revolution<br>框體方面雖有新框體，但可兼容舊框體<br>播報員語音改由美國搖滾樂團Ozomatli的成員Justin與Wil-Dog擔綱<br>大部分過往BEMANI歌曲刪除，Dancemania版權曲以X-edit版重新編譜<br>難度數值刷新，最高指數提高到20，並且新增SHOCK音符：一踩到直接算MISS，同時譜面會全隱1秒左右，跳過會算COMBO<br>NAOKI最後主導的代數
 |-
 |Dance Dance Revolution X2
 |2010年7月7日（日版）<br>2010年12月31日（美版）<br>2011年5月13日（歐版）
@@ -296,7 +296,7 @@
 |2021年11月8日
 |PC
 |
-|自DDR X家用版之後久違的家用版，推出於KONAMI自家遊戲平台「コナステ」<br>原本測試版本為DanceDanceRevolution V，為網頁遊戲
+|自DDR X家用版之後久違的家用版，推出於KONAMI自家遊戲平台「コナステ」<br>除了可用鍵盤、手把遊玩以外，也可使用跳舞毯或跳舞踏板遊玩<br>原本測試版本為DanceDanceRevolution V，為網頁遊戲
 |}
 {{hidef|}}
 
