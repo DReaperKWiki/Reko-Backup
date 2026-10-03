@@ -1120,7 +1120,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E5%AE%97%E4%B8%89%E5%B7%A6%E6%96%8
 === 加州清光 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/a/af/Kashuu_Kiyomitsuin.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%8A%A0%E5%B7%9E%E6%B8%85%E5%85%89%20%E6%A5%B5/::ref/%E5%8A%A0%E5%B7%9E%E6%B8%85%E5%85%89_%E6%A5%B5.jpg
-* 繪：汲田。CV：[[增田俊樹]]。演：佐藤流司 (音樂劇)/松田凌 (舞台劇)/尾上左近 (歌舞伎劇)。
+* 繪：汲田。CV：[[增田俊樹]]。演：佐藤流司 (音樂劇)/松田凌 (舞台劇)/尾上左近 (歌舞伎劇)/中野耀司 (滑冰劇)。
 * 刀帳編號：85番→86番。身高：165&nbsp;cm。
 * 可選初始刀之一。名字又稱「加賀清光」。
 * 刀匠為非人<ref>江戶時期最下等的百姓</ref> 出身的「非人清光」，因為非人亦有「河原者」的稱呼法，而自稱「河原之子」。
@@ -1164,7 +1164,7 @@ https://cdn.wikiwiki.jp/to/w/toulove/%E5%8A%A0%E5%B7%9E%E6%B8%85%E5%85%89%20%E6%
 === 大和守安定 ===
 https://static.wikia.nocookie.net/touken-ranbu/images/a/a6/Yamatonokami_Yasusadain.png
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%A4%A7%E5%92%8C%E5%AE%88%E5%AE%89%E5%AE%9A%20%E6%A5%B5/::ref/%E5%A4%A7%E5%92%8C%E5%AE%88%E5%AE%89%E5%AE%9A_%E6%A5%B5.jpg
-* 繪：汲田。CV：[[市來光弘]]。演：鳥越裕貴 (音樂劇)/植田圭輔 (舞台劇)。
+* 繪：汲田。CV：[[市來光弘]]。演：鳥越裕貴 (音樂劇)/植田圭輔 (舞台劇)/佐藤由基 (滑冰劇)。
 * 刀帳編號：87番→88番。身高：165&nbsp;cm。
 * 作為刀來說非常難以上手使用，但性能卻很好。用犯人的屍體試刀時能一刀砍斷3～5具。
 ** 因為很難使用的關係被說是會挑選主人，似乎一直在尋找著喜愛自己的人。（公式介紹）
@@ -1337,7 +1337,7 @@ https://wikiwiki.jp/toulove/?plugin=ref&page=%E9%99%B8%E5%A5%A5%E5%AE%88%E5%90%8
 === 山姥切國廣（山姥切国広） ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%83/::ref/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%8302.jpg
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E5%9B%BD%E5%BA%83%20%E6%A5%B5/::ref/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20%28354%29%20-%20%E3%82%B3%E3%83%94%E3%83%BC.png
-* 繪：⑪。CV：[[前野智昭]]。演：加藤大悟 (音樂劇)/荒牧慶彥 (舞台劇、映画)。
+* 繪：⑪。CV：[[前野智昭]]。演：加藤大悟 (音樂劇)/荒牧慶彥 (舞台劇、映画)/櫛⽥⼀樹 (滑冰劇)。
 * 刀帳編號：95番→96番。刀派：堀川。身高：172&nbsp;cm。
 * 可選初始刀之一。
 * 刀匠國廣根據足利城城主長尾顯長的委託打造的刀，據說乃仿製自從北條氏直那裡拜領來的備前長船長義作刀「山姥切」，因而得名。
@@ -1514,7 +1514,7 @@ https://i.ibb.co/dwnY9zcn/Ookurikara-Kiwamein.png
 === 壓切長谷部（へし切長谷部） ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E3%81%B8%E3%81%97%E5%88%87%E9%95%B7%E8%B0%B7%E9%83%A8/::ref/%E3%81%B8%E3%81%97%E5%88%87%E9%95%B7%E8%B0%B7%E9%83%A802.jpg
 https://i.ibb.co/zVT2VQkd/Heshikiri-Kiwamein.png
-* 繪：小宮国春。CV：新垣樽助。演：木原瑠生 (音樂劇)/和田雅成 (舞台劇、映画)。
+* 繪：小宮国春。CV：新垣樽助。演：木原瑠生 (音樂劇)/和田雅成 (舞台劇、映画)/⽥中刑事 (滑冰劇)。
 * 刀帳編號：118番→119番。身高：178&nbsp;cm。
 * 前主織田信長，後於天正3年（1575年），黑田孝高向織田信長進諫，織田信長賜給了還非織田家臣的黑田孝高（黑田官兵衛）。
 ** 在本丸裡<s>調戲他就</s>會抱怨此事。
@@ -1644,7 +1644,7 @@ https://static.wikia.nocookie.net/touken-ranbu/images/8/8f/Nansen-Kiwamein.png
 === 山姥切長義 ===
 https://cdn.wikiwiki.jp/to/w/toulove/%E5%B1%B1%E5%A7%A5%E5%88%87%E9%95%B7%E7%BE%A9/::ref/%E7%84%A1%E9%A1%8C.jpg
 https://static.wikia.nocookie.net/touken-ranbu/images/b/b4/Yamanbagiri_Chougi-Kiwamein.png
-* 繪：⑪。CV：高梨謙吾。演：水江建太 (音樂劇)/梅津瑞樹 (舞台劇)。
+* 繪：⑪。CV：高梨謙吾。演：水江建太 (音樂劇)/梅津瑞樹 (舞台劇)/吉野晃平 (滑冰劇)。
 * 刀帳編號：158番→159番。身高：173&nbsp;cm。
 ** <s>來自「以下略五十八字」的[[壽限無|捏他]]</s><ref>因為山姥切長義為大磨上無銘，故刀匠國廣打造出仿刀之後在本科刻上了長達六十二字的刀銘「本作長義天正十八年庚寅五月三日ニ九州日向住国広銘打天正十四年七月廿一日小田原参府之時従屋形様被下置也長尾新五郎平朝臣顕長所持」，重要文化財名稱表記常會省略成「刀　銘 本作長義（以下略五十八字）」。</ref>
 ** <s>疑似為了這個梗才導致了原本要實裝豐前江的<s>里民</s>活動時程延期了一個月</s>

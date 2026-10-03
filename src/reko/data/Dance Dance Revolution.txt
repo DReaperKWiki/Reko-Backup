@@ -485,7 +485,13 @@
 |2024年9月27日
 |兩棲（見後述）
 |（不適用）
-|由瑞起（ZUIKI Inc.）獲得KONAMI授權開發的迷你機台<br>主要收錄初代至3rdMIX，但大部分版權曲（尤其Dancemania旗下的版權曲）因為已經授權到期而沒有音樂<ref>選歌時游標移到授權到期的版權曲會顯示「Sorry This song cannot be played」的訊息，雖然還是可以玩但就是沒有音樂</ref><s>所以只能另外播放音樂或是只能透過特殊方式修改</s>，此外還有一些不同點包括：此機收錄的3代無歌詞顯示、Dynamite Rave採用歐版《Dance Dance Revolution X》之後的新編音源、Afronova沒有背景圖片等差異<br>有HDMI及USB接口，可分別連接至各種螢幕以及支援跳舞毯遊玩，此外機台上面的踏板型控制器為'''可拆式'''，可以直接接到PC上面遊玩DDR GRAND PRIX<s>甚至連Stepmania也能玩</s>
+|由瑞起（ZUIKI Inc.）獲得KONAMI授權開發的迷你機台<br>主要收錄初代至3rdMIX，但大部分版權曲（尤其Dancemania旗下的版權曲）因為已經授權到期而沒有音樂<ref>選歌時游標移到授權到期的版權曲會顯示「Sorry This song cannot be played」的訊息，雖然還是可以玩但就是沒有音樂</ref><s>所以只能另外播放音樂或是只能透過特殊方式修改</s>，此外還有一些不同點包括：此機收錄的3rdMIX無歌詞顯示、Dynamite Rave採用歐版X之後的新編音源、Afronova沒有背景圖片等差異<br>有HDMI及USB接口，可分別連接至各種螢幕以及支援跳舞毯遊玩，此外機台上面的踏板型控制器為'''可拆式'''，可以直接接到PC上面遊玩DDR GRAND PRIX<s>甚至連Stepmania也能玩</s>
+|-
+|DanceDanceRevolution STOMP
+|2026年5月7日
+|AC
+|28
+|彩票機版本，目前僅在北美地區稼動<br>一切操作只能使用踏板<br>音符和判定點構成變成類似MaiMai或WACCA的由內往外<br>因為是彩票機，所以沒有對應e-amusement pass紀錄系統，遊戲也不會關門，且可以接關<br>遊戲結束時會進入超級獎勵挑戰（SUPER BONUS CHALLENGE），會依玩家踩中的音符數量產生30、500點分數（接關到一定次數會出現1000點），踩到對應分數可獲得相對應的彩票<br>本作的獨家樂曲《PARANOiA: STOMP, STOMP, STOMP》後來逆移植回本家
 |}
 {{hidef|}}
 
@@ -544,9 +550,9 @@
 
 ====Pluto Relinquish====
 * 初登場同樣於SuperNOVA2，Pluto的混音版之二，同樣為該代的ENCORE EXTRA STAGE魔王曲之一，作者為2MB（U1-ASAMi）
-** BPM表記'''100-806'''，與上兩者不同的是沒有停拍部分，但有大量的瞬間加速環節
+** BPM表記'''100-806'''，與上兩者不同的是沒有停拍部分，反而有大量的瞬間加速環節以及一部分及慢速環節
 *** 開頭更是初見殺：進入譜面的時間也將近半秒左右，不少初見玩家更因此遭到關門
-** EXPERT難度以上的譜面的終盤會出現大量高速8分音符連踏
+** EXPERT難度以上的譜面的終盤會出現大量高速8分音符尾殺
 
 ===EVOLVED系列===
 * 初登場為家用機Hottest Party的系列，也是首次有譜面分岐的歌曲系列，所有曲名前半段皆取自不同國家的不同地名：{{ruby|tokyo|東京}}EVOLVED、{{ruby|osaka|大阪}} EVOLVED -毎度、おおきに！-、{{ruby|roppongi|六本木}} EVOLVED、{{ruby|New York|紐約}} EVOLVED、{{ruby|London|倫敦}} EVOLVED、{{ruby|Tohoku|東北}} EVOLVED
