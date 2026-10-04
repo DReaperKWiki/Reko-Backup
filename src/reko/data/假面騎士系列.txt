@@ -60,7 +60,7 @@
 * 鎧武、EX-AID：東森綜合台、霹靂台灣台
 * Build：中華電信MOD（木棉花代理）、霹靂台灣台
 * ZI-O-Saber：霹靂台灣台
-* Revice-Zeztz：中華電信MOD（木棉花代理）
+* Revice-My-th：中華電信MOD（木棉花代理）
 <br>
 
 * 台灣未有播放顎門和Wizard，Fourze結束後隔一年才播鎧武
@@ -68,7 +68,7 @@
 === 香港地區（粵/日雙語） ===
 * 初代-V3、BLACK-顎門：麗的電視中文台/[[成句/仆你個街，亞視嚟嘅喂！|亞洲電視本港台]]
 * 龍騎-鎧武：無線電視翡翠台
-* Build-Gotchard, Zeztz：ViuTV
+* Build-Gotchard, Zeztz-My-th：ViuTV
 * Gavv：Ani-One
 
 <br>
@@ -222,7 +222,7 @@
 ** Decade更把前九作定為平行世界，並把[[超級戰隊系列]]一同列入假面騎士的平行世界觀
 
 * <s>與多數無業或職業不明的昭和騎士不同，</s>不少平成騎士的變身者都有'''正職'''設定
-* <s>從響鬼開始'''所有'''作品都會有與健康飲品「奧樂蜜C」合作的廣告</s>
+* <s>從響鬼開始'''所有'''作品都會有與健康飲品「奧樂蜜C」合作的廣告，進而讓該飲品在對岸「榮獲」'''騎士快樂水'''的稱號</s>
 ** [https://www.youtube.com/watch?v=C2B522g_BcQ <s>可是南光太郎當年是拍過「力保健/力保美達」廣告</s>]
 <br>
 {{hideh|作品列表}}
@@ -954,7 +954,9 @@
 |-
 | Gavv || <s>被打掉外甲的素體形態</s> || Poppin Gummy Form<br>初期的Gochizo形態（略） || Bushel Form || Caking Form || Blizzard Sorbel Form || - || Over Mode<br>Master Mode || - || Hexenheim Form || Amazingummy Form<ref>於本篇終盤（非最終話）登場的1話限定形態</ref>
 |-
-| Zeztz || ? || Physicam Impact<br>初期形態（略） || ? || Plasma<br>↓<br>Plasma Booster || Catastrom<br>↓<br>Orderm ||  || Exdream || - || Agendream || ?
+| Zeztz || - || Physicam Impact<br>初期形態（略） || - || Plasma<br>↓<br>Plasma Booster || Catastrom<br>↓<br>Orderm || - || Exdream || - || Agendream || ?
+|-
+| My-th || ? || 初期形態（略） || ? || ? || ? || ? || ? || ? || ? || ?
 |}
 {{hidef}}
 
@@ -1052,6 +1054,7 @@
 *** 2025年1月：風都偵探
 *** 2025年9月：Gotchard
 *** 2025年12月：Gavv
+*** 2026年8月：Zeztz
 
 === [https://www.nhk.or.jp/anime/kamen-rider/ 全仮面ライダー大投票] ===
 * NHK電視台於2021年10月舉辦（同年11月6日開票），從1971年的初代假面騎士到同年的《Revice》為止的人氣投票，與此前的[[機動戰士鋼彈系列#全ガンダム大投票|機動戰士鋼彈系列大投票]]一樣分為作品、角色人氣以及音樂等部門

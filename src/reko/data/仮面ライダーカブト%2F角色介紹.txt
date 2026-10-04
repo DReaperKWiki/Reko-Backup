@@ -455,8 +455,8 @@
 |Hopper Zecter
 |腰帶
 |Change Hopper
-|被捨棄的人
-|因為兩個Zector都被Zect捨棄了
+|被捨棄的人<ref>然而超全集或圖鑑都表明是意志堅定的人<s>別問，問就是米村又吃書了</s></ref>
+|{{censored|最常被誤解是因為開發失敗而被拋棄，但實際上是加賀美陸為對抗原蟲背著ZECT秘密開發的}}
 |-
 |Caucasus Zecter
 |手環
