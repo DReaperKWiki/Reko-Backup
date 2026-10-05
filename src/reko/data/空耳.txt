@@ -51,7 +51,7 @@
 |-
 |{{youtube|Wj76YgiwdmM|もすかう}}
 |Moskau||rowspan="3"|日語
-|FLASH時代的經典作品之一
+|FLASH時代的經典作品之一<br>也是德國樂團「成吉思汗」的名曲<br>華語圈則發展出「螺絲刀」版本的空耳
 |-
 |[http://www.nicovideo.jp/watch/1310634995 先輩☆全裸♂HEY！！]
 |マジLOVE1000%
@@ -431,6 +431,11 @@
 |[[ウルトラマンデッカー|wake up decker!]]
 |日語
 |原文為You can now send! Sing out!
+|-
+|<s>西巴</s>
+|[[賽馬娘 Pretty Derby|芝生えるわ~]]
+|韓文
+|芝的日文發音しば與某個韓文髒話發音相同<s>，因此在韓國人耳中幾乎整首歌都在罵髒話</s>
 |}
 
 === 其他語言歌曲 ===
@@ -761,7 +766,6 @@
 |}
 
 == 參見 ==
-* {{wp|空耳|維基}}
 * [https://ja.wikipedia.org/wiki/空耳アワー 空耳アワー]
 * [http://dic.nicovideo.jp/a/空耳 ニコニコ大百科條目]
 * [[キーボードクラッシャー]]：空耳台詞的素材

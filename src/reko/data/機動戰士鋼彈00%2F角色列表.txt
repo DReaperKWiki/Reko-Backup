@@ -794,9 +794,9 @@
 
 ==回應 ==
 {{pcomment|section=2}}
-* [[{{TALKPAGENAME}}]]
 
 {{Gundam}}
+
 ==備註==
 <references />
 [[category:鋼彈]]
