@@ -437,3 +437,6 @@ convert from html-->{{h0|アカツキ電光戦記/Akatsuki Blitzkampf}}
 == 備註 ==
 
 {{reflist}}
+[[分類:遊戲]]
+[[分類:格鬥遊戲]]
+[[分類:機台遊戲]]

@@ -39,47 +39,12 @@
 * {{censored|由於獎勵多為從舊作回歸的車輛或者是'''在以前的系列賽就已經出現過'''，普遍認為Playground Games黔驢技窮。}}
 ** {{censored|雖然跟《地平線5》相比已經算是改善不少，但由於鮮有日本相關內容而被批評是嚴重離題。}}
 
-{{hideh|系列賽歷史（點擊展開）}}
-* {{Color|Red||紅字}}為系列賽封面車輛。
-{|border="1" class="wikitable" style="font-size:90%;"
-|-
-!標題
-!日期
-!系列賽獎勵
-!季節獎勵
-|-
-|{{ruby|歡迎來到日本|Welcome to Japan}}
-|2026年5月21日~2026年6月18日
-|{{Color|Red||2008 Mazda Furai}}<br>2010 Nissan 370Z
-|1999 Toyota Altezza RS200 Z Edition<br>2006 Mitsubishi Lancer Evolution IX MR GSR<br>1997 Nissan Skyline GT-R V-Spec<br>1991 Honda CR-X SiR<br>2019 Subaru WRX STI S209<br>2016 Toyota Land Cruiser Arctic Trucks AT37<br>1996 Toyota Starlet Glanza V<br>1974 Toyota Corolla SR5
-|-
-|{{ruby|Horizon歲月|Horizon Decades}}
-|2026年6月18日~2026年7月16日
-|{{Color|Red||1993 Porsche 911 Turbo S Leichtbau}}<br>2018 Lotus Exige Cup 430
-|1989 Volkswagen Golf Rallye G 60<br>1988 Lamborghini Countach LP5000 Quattrovalvole<br>1998 TVR Cerbera Speed 12<br>1993 Schuppan 962CR<br>2006 Dodge Ram SRT-10<br>2003 Ford F-150 SVT Lightning<br>2017 Mercedes-AMG GT R<br>2017 Saleen S7 LM
-|-
-|{{ruby|義大利異國情調|Italian Exotics}}
-|2026年7月16日~2026年8月13日
-|{{Color|Red||2024 Lamborghini Temerario}}<br>2022 Ferrari 296 GTB
-|1984 De Tomaso Pantera GT5<br>2004 Maserati MC12<br>2017 Abarth 124 Spider<br>2020 Lamborghini Huracán LP 640-4 Evo<br>[[洛克昂‧史特拉托斯|1982 Lancia 037 Stradale]]<br>2020 Ferrari Roma<br>2022 Lamborghini Huracán LP 640-4 Evo Spyder<br>2021 Pagani Huayra R
-|-
-|{{ruby|Horizon吉祥物派對|Horizon Mascot Party}}
-|2026年8月13日~2026年9月10日
-|{{Color|Red||1970 Honda N600}}<br>1967 Renault 8 Gordini
-|2018 Exomotive Exocet Sport V8 XP-5<br>1969 Datsun 2000 Roadster<br>2024 Chevrolet Camaro ZL1<br>2016 Abarth 695 Biposto<br>1974 Toyota Celica GT<br>1989 Toyota MR2 SC<br>1988 Mitsubishi Starion ESI-R<br>1968 Dodge Dart HEMI Super Stock
-|-
-|{{ruby|英國汽車|British Automotive}}
-|2026年9月10日~2026年10月8日
-|{{Color|Red||2025 Bentley Continental GT Speed}}<br>2019 Aston Martin Valhalla Concept Car
-|2019 Ginetta G40 Junior<br>2021 McLaren 620R<br>2015 Jaguar XKR-S GT<br>2021 MINI John Cooper Works GP<br>2006 Vauxhall Astra VXR<br>2016 Bentley Bentayga<br>2002 Lotus Esprit V8<br>2023 Lotus Emira
-|}
-{{hidef}}
-
 === Horizon Play ===
 * 線上多人對戰模式，有獨自的等級設置。
 * 玩家可以用持有{{ruby|XP|經驗值}}加成的車輛來加快升級<s>，雖然實際效果杯水車薪</s>
-* 因為玩家反饋說升到滿級所需的XP實在太高，於是在系列賽2的更新當中大幅降低了26級至100級的XP要求。
-** 在此之前到達32級的玩家會直接變成100級。
+* 因為玩家反饋說升級所需的XP實在太高，於是在系列賽2的更新當中大幅降低了26級至100級的XP要求。
+** 已經到達32級的玩家會直接變成100級。
+** 系列賽6的更新把等級上限提升至300，玩家之前的XP會保留並以此繼續升級。
 
 === 終極考驗 ===
 * 6名人類玩家組隊對抗6個神手Drivatar的錦標賽模式，在嘉年華遊戲清單當中有著最高的10點數報酬，於系列賽2回歸。
@@ -210,11 +175,11 @@
 ** 若沒有跟隨其在社群媒體的帳戶，就不會知道這一切。
 * 但創作者們的一切努力最後都付諸東流。2026年9月19日，Playground Games突然大規模封禁痛車相關帳戶，包含下載使用作品的一般玩家。
 ** 把作品設定為私人瀏覽也無濟於事，Playground Games會直接檢索帳戶內容，一旦發現就是永久停權。
-** 這場戰爭以惡意團夥的勝利結束。
+** 於是大家開發出一種更隱蔽的方法：直接提取遊戲檔案進行分享，完全繞過伺服器，和之前的游擊戰術同時使用。
 * 以此事為開端，加上其他各種長期存在的頑疾，《地平線6》的評價急遽下滑。
 ** 外掛玩家盤據各個排行榜的前列。
 ** 嘉年華遊戲清單本身就是個問題，錯過限定獎勵就要等不知道多長時間才再有機會取得。Playground Games宣稱要終結這種狀況，到頭來還是跟以前一樣。
-** 新鮮內容過少且離題，不斷拿早已參戰舊作的車輛來湊數。
+** 新鮮內容過少且離題，不斷拿早已參戰舊作的車輛來湊數，而且其3D模型也是破舊不堪。
 ** 層出不窮的bug，最嚴重者會破壞玩家存檔。
 ** 封鎖玩家不遺餘力，對社群意見卻敷衍了事乃至針鋒相對的態度。
 

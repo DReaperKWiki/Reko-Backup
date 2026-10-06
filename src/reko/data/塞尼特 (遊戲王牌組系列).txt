@@ -6,6 +6,11 @@
 |條目内所有'''提及設定圖'''的部分都能點進外部連結查看檔案，以補足設定資料
 |}
 
+[[檔案:A Journey Back to the Light Zenet -wallpaper-.jpg|500px|right]]
+
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #00EE00; font-size:24px; ">
+現世と冥界交わりし時、王を決める{{ruby|旅|ゲーム}}が始まる！
+</div>
 == 解説 ==
 * 塞尼特是由[[Konami]]發行的[[遊☆戯☆王OCG]]的構築包(DBGV)「牌組構築包 光榮勝利者（{{ruby|'''D'''eck '''B'''uild Pack： '''G'''lorious '''V'''ictors|デッキビルドパック ファントム・リベンジャーズ}}）」<ref>同卡包收錄的牌組除本系列還有【[[盈滿月]]】【[[異解△]]】</ref>起登場的牌組系列。
 
@@ -21,6 +26,7 @@
 ** 除此以外，本系列對初代《[[遊☆戯☆王]]》漫畫以及動畫的致敬要素更多，將通常怪獸作為主要戰鬥手段，與原作漫畫中「王之記憶篇」使用石板怪獸的概念十分相似。
 *** 另外仔細看怪獸的卡圖也能看出，它們手上會設計類似動畫中決鬥者使用的決鬥盤的棋盤。
 
+* 宣傳語為'''{{color|green||「{{ruby|現世與冥界相交之時|現世と冥界交わりし時}}、{{ruby|決定王的旅程就此展開|王を決める{{ruby|旅|ゲーム}}が始まる}}！」}}'''
 == 牌組怪獸介紹 ==
 === 塞尼特的啟示者—妮菲塔莉（セネトの{{ruby|啓示者|けいじしゃ}}－ネフェルタリ） ===
 [[檔案:Zenet Prophet - Nefertari.jpg|250px|right]]

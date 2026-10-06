@@ -6,6 +6,14 @@
 |條目内所有'''提及設定圖'''的部分都能點進外部連結查看檔案，以補足設定資料
 |}
 
+[[檔案:Cielo, the Night Sky of Raise Moon - No More Bets! -Art-.jpg|500px|right]]
+
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #FFD700; font-size: 24px;">
+
+月が望むほどに輝きを増していくテーマだ！
+
+</div>
+
 == 解説 ==
 * 盈滿月是由[[Konami]] 發行的[[遊☆戯☆王OCG]]的構築包(DBGV)「牌組構築包 光榮勝利者（{{ruby|'''D'''eck '''B'''uild Pack： '''G'''lorious '''V'''ictors|デッキビルドパック ファントム・リベンジャーズ}}）」<ref>同卡包收錄的牌組除本系列還有【[[塞尼特 (遊戲王牌組系列)|塞尼特]]】【[[異解△]]】</ref>起登場的牌組系列。
 
@@ -178,6 +186,7 @@
 {{-}}
 
 === 盈滿月的群星（レイズ・ムーンの{{ruby|星々|ほしぼし}}） ===
+[[檔案:The Stars of Raise Moon.jpg|250px|right]]
 * 同卡包發售前最後一張公佈的本家卡。
 * ①效果可以從牌組置頂1張【盈滿月】放在卡頂，發動後會限制雙方直到回合結束為止都能不能用抽牌以外的方式將卡片加入手牌。
 ** 可以有效防止對手在自己的回合作檢索或回收，但不會影響《增殖的G》【[[多多迷寶]]】這樣的持續抽牌型效果。

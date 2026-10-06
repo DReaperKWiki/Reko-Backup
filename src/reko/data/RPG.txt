@@ -728,7 +728,7 @@ Ar Tonelico Series
 |2009
 |Bioware最新的傳統俯勘CRPG系列，第一作以沉重的劇情跟紮實的復古戰鬥廣受好評，第二作把招牌砸掉。
 |-
-|Planescape: Torment
+|[[Planescape: Torment]]
 （異域鎮魂曲）
 | rowspan="2" |Black Isle
 |1999
