@@ -6,6 +6,17 @@
 |條目内所有'''提及設定圖'''的部分都能點進外部連結查看檔案，以補足設定資料
 |}
 
+[[檔案:Apodrakosis Eternal Recurrence of Trailokya -wallpaper--.jpg|500px|right]]
+
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #FF0000; font-size: 24px;">
+転生せよ！
+</div>
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #0000FF; font-size: 24px;">
+三竜族の王たちよ！
+</div>
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; color: #00FF7F; font-size: 24px;">
+勝者こそが{{ruby|真の竜|こうけいしゃ}}に進化する！
+</div>
 == 解說  ==
 * 龍華是由[[Konami]] 發行的[[遊☆戯☆王OCG]]的構築包(DBCB)「牌組構築包 穿越破壞者（{{Ruby|'''D'''eck '''B'''uild Pack：'''C'''rossover '''B'''reakers|デッキビルドパック　クロスオーバー・ブレイカーズ}}）」<ref>同卡包收錄的牌組除本系列還有【[[雷熱閃魂]]】【[[M∀LICE]]】</ref>起登場的牌組系列。
 
