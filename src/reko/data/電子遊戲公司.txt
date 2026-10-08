@@ -1083,9 +1083,9 @@ Irrational Games則是《BioShock（[[生化奇兵]]）》的開發團隊
 |1989年3月（Deniam）<br>1998年1月14日
 |一開始以數織（Picross／Nonogram）系列Logic Pro出名，後來誕生出知名Beatmania仿作《EZ2DJ》
 |益智遊戲、音樂遊戲
-|《Logic Pro》、《EZ2DJ》（後更名《EZ2AC》）、《EZ2 DANCE》
+|《Logic Pro》、《EZ2DJ》（後更名《EZ2AC》）、《EZ2 DANCER》
 |
-|其中就以《EZ2DJ》的爭論最大，被<s>FY</s>Konami打官司打了約莫20年，而後Konami勝訴，Amuse World更因此嚴重赤字倒閉<br>原團隊後來先後另起爐灶成立Pentavision和Square Pixels後繼續相關作品的製作
+|關於《EZ2DJ／EZ2AC》的抄襲事件及後續，可參見[[原創風行#街機遊戲]]一欄
 |-
 |Andamiro
 |1992年7月9日
@@ -1093,7 +1093,7 @@ Irrational Games則是《BioShock（[[生化奇兵]]）》的開發團隊
 |音樂遊戲、小品遊戲
 |《Pump it up》
 |
-|當時Konami也為此對Andamiro打了不少官司，但後來就沒有下文且不影響其續作的開發。
+|關於《Pump it up》的抄襲事件及後續，可參見[[原創風行#街機遊戲]]一欄
 |-
 |Softmax
 |1994年10月28日

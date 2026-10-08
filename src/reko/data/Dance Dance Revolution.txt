@@ -23,6 +23,10 @@
 ** 玩家的能量條會視判定作增減，基本上判定為GREAT以上就會增加能量，反之BOO以下會扣減，GOOD則不變（2013版放寬至GOOD判定也能增加能量）
 *** 除了簡單模式以外，任何模式只要能量條歸零就直接關門GAME OVER（後續代數也會以E評價來顯示）
 *** 而後的作品進入EXTRA STAGE時，能量條會變成4 LIFE，此時GOOD判定以下會強制扣能量，無法回復；One More Extra Stage/Encore Extra Stage則是只有1能量的RISKY，GOOD判定以下直接關門
+*** A3的BABY-LON's GALAXY活動後，於WORLD實裝FLARE能量條（只能在Premium Play或Galaxy Play選擇）：
+**** 等級從低到高分為I～EX，等級愈高，各種判定扣能量的幅度也會愈大，需求分數也會愈高
+**** 如果以FLARE能量條遊玩並通過樂曲，樂曲外框會有對應等級的FLARE特效
+**** WORLD的Galaxy Play模式可選擇FLOATING FLARE選項，等級從最高的EX開始，能量條一清空就會降級
 * 關卡結算畫面會根據玩家表現作出評價：從最低至最高為E、D、C、B、A、S (AA)、SS (AAA)
 ** X2開始如果以FULL COMBO完成譜面會有特殊演出，結算畫面也會有FULL COMBO標示
 *** 除了GREAT以下直接顯示FULL COMBO以外，PERFECT以上判定FULL COMBO會是PERFECT FULL COMBO、MARVELOUS則是MARVELOUS FULL COMBO，2013開始放寬至GREAT以上FULL COMBO顯示GREAT FULL COMBO
@@ -51,7 +55,7 @@
 |Dance Dance Revolution 2ndMIX
 |1998年11月18日（無印）<br>1999年4月28日（LINK版）
 |38
-|第二作，BASIC和ANOTHER譜面選擇簡化：可在難度選擇畫面裡面預先選擇（踏⬆️或⬇️兩次選擇，MANIAC譜面則需要另外輸入⬅️⬅️⬅️➡️➡️➡️⬅️➡️指令）<br>LINK版本可直接選擇全歌曲模式，此外首次可允許兩邊不同譜面難度，另外可以透過PS記憶卡存取於家用版自訂的譜面遊玩<br>初代以來的EXTRA STAGE刪除
+|第二作，BASIC和ANOTHER譜面選擇簡化：可在難度選擇畫面裡面預先選擇（踏⬆️或⬇️兩次選擇，MANIAC譜面則需要另外輸入⬅️⬅️⬅️➡️➡️➡️⬅️➡️指令）<br>LINK版本可直接選擇全歌曲模式，此外首次可允許兩邊不同譜面難度，另外本作開始可以透過PS記憶卡存取於家用版自訂的譜面遊玩<br>初代以來的EXTRA STAGE刪除
 |-
 |Dancing Stage
 |1999年1月
@@ -481,13 +485,19 @@
 |15+日版5 /美版5
 |另一個Plug-n-Play版本<br>同樣沒有譜面難度選擇，取而代之可選2鍵、3鍵及4鍵三種模式遊玩，此外也有收錄小遊戲
 |-
-|DanceDanceRevolution Classic Mini
+|Dance Dance Revolution Classroom Edition
+|2012年9月
+|PC
+|397
+|Hijinx Studios製作，僅在北美發行，專為美國國內的學校體育課或是減重班設計的特殊版本<br>因為是體育課教材，本作隨附最多48個無線跳舞踏墊以及專用ID卡，跳舞踏墊裡面內建ID卡讀卡機，可記錄學生於體育課的運動量以及健康狀況<br>使用時則是主機外接投影機投放螢幕供所有學生觀看譜面運動<br>本作除了收錄當代流行歌曲以外也有收錄大量BEMANI歷代原創曲以及Konami於Wii發行的韻律健走遊戲《Walk It Out!》的原創曲，但不同難度的譜面皆為自動生成
+|-
+|Dance Dance Revolution Classic Mini
 |2024年9月27日
 |兩棲（見後述）
 |（不適用）
 |由瑞起（ZUIKI Inc.）獲得KONAMI授權開發的迷你機台<br>主要收錄初代至3rdMIX，但大部分版權曲（尤其Dancemania旗下的版權曲）因為已經授權到期而沒有音樂<ref>選歌時游標移到授權到期的版權曲會顯示「Sorry This song cannot be played」的訊息，雖然還是可以玩但就是沒有音樂</ref><s>所以只能另外播放音樂或是只能透過特殊方式修改</s>，此外還有一些不同點包括：此機收錄的3rdMIX無歌詞顯示、Dynamite Rave採用歐版X之後的新編音源、Afronova沒有背景圖片等差異<br>有HDMI及USB接口，可分別連接至各種螢幕以及支援跳舞毯遊玩，此外機台上面的踏板型控制器為'''可拆式'''，可以直接接到PC上面遊玩DDR GRAND PRIX<s>甚至連Stepmania也能玩</s>
 |-
-|DanceDanceRevolution STOMP
+|Dance Dance Revolution STOMP
 |2026年5月7日
 |AC
 |28
@@ -631,6 +641,12 @@
 *** '''\ATTACK PERFECT FULL COMBO!!/'''
 *** 進入譜面的時間只有不到一秒，而且起手就是低速音符壓境，[https://www.nicovideo.jp/watch/sm25883670 初見即關店]的情況極為常見
 
+====鳳====
+* 初登場於A3，該作BABY-LON'S GALAXY活動的ENCORE EXTRA STAGE
+* 首次出現Constant突現特效：
+** 該特效會依當前BPM速度變動，BPM愈慢，音符突現的時間也會愈晚
+** 此後該特效正式於WORLD實裝
+
 ==== び ====
 * SDVX移植曲
 * CHALLENGE譜面有著跟SDVX一樣的要連踩'''高達117次的下箭頭16分音符'''（代表B的意思）的配置，店員的惡夢
@@ -682,7 +698,8 @@
 ** 韓國方面：Andamiro推出Pump It Up、AmuseWorld則是推出EZ2Dancer，而北美方面則是Roxor的In The Groove，至於這些山寨作的後續發展請詳見[[原創風行]]
 ** 日本JALECO方面也有推出過競品作《Stepping Stage》系列，除了兩邊的踏板變成6鍵、螢幕變成3等分以外玩法近乎相同，結果不意外被KONAMI控告，因此只出了3代的街機系列以及合輯性質的家用版《Stepping Selection》
 * 而後也有粉絲為此製作了模擬引擎《Stepmania》，上面的In The Groove，以及後來的Pump It Up Pro、Pump It Up Infinity以及StepmaniaX就是使用該引擎製作
-* 除此之外，有一部分DDR大賽也有較特殊的DDR Freestyle大賽：以低難度譜面為主，但玩家需要以花式舞蹈完成譜面
+* 歐美獨立遊戲《Friday Night Funkin'》的遊戲玩法除了有參考DDR以外，也有參考另一款音樂遊戲《Parappa the Rapper》
+* 除此之外，有一部分DDR大賽也有較特殊的DDR Freestyle大賽：以低難度譜面為主，但玩家需要以花式舞蹈完成遊戲
 
 ==相關連結==
 * [https://remywiki.com/ RemyWiki]

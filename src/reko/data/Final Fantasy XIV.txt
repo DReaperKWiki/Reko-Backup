@@ -1314,3 +1314,4 @@
 == 備註==
 <references/>
 [[分類:遊戲]]
+[[category:FF系列]]
