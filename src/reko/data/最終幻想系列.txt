@@ -622,7 +622,7 @@ PC
 |Final Fantasy VII Ever Crisis
 |Android/iOS
 |RPG
-|為整合本傳+補完計畫ABCD四作劇情的手機重製作品。<br>由Applibot開發。
+|為整合本傳+補完計畫ABCD四作劇情的手機重製作品。<br>由Applibot開發。<br>於2026年10月7日結束營運。
 |-
 |Final Fantasy VII The First Soldier
 |Android/iOS
