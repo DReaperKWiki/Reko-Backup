@@ -59,10 +59,10 @@
 * 動畫：
 ** <s>鋼鐵神兵B'T X（台灣中都卡通台版）：HIGH PRESSURE</s><ref>台灣中都卡通台在放映時自行將原主題曲「遥か〜SAILING FOR MY DREAM〜」抽換成本曲</ref>
 ** 神劍闖江湖：HEART OF SWORD～夜明け前～
-** 機動戰士鋼彈SEED系列：INVOKE -インヴォーク-、Meteor -ミーティア-（插曲）、ignited -イグナイテッド-、vestige -ヴェスティージ-、Zips<ref>原為《SEED MSV》PV的印象曲，後回流至《SEED Destiny Special Edition》作插曲</ref>、FREEDOM（以本人名義）
+** 機動戰士鋼彈SEED系列：INVOKE -インヴォーク-、Meteor -ミーティア-（插曲）、ignited -イグナイテッド-、vestige -ヴェスティージ-、Zips<ref>原為《SEED MSV》PV的印象曲，後回流至《SEED Destiny Special Edition》作插曲</ref>、FREEDOM{{ref|以西川貴教本名發表|group1}}
 ** SOUL EATER噬魂者：resonance
 ** 戰國BASARA弐：SWORD SUMMIT
-** [[Fate/EXTRA Last Encore]]：Bright Burning Shout{{ref|以西川貴教本名發表|group1}}
+** [[Fate/EXTRA Last Encore]]：Bright Burning Shout{{ref||group1}}
 ** 學園BASARA：Be Affecte{{ref||group1}}
 ** [[革命機Valvrave]]：Preserved Roses、革命デュアリズム（與水樹奈奈）
 ** 復仇者聯盟 光盤戰爭：突キ破レル-Time to SMASH!
@@ -70,6 +70,8 @@
 ** Thunderbolt Fantasy 東離劍遊紀：RAIMEI（雷鳴）、His/Story{{ref||group1}}、Roll The Dice{{ref||group1}}、Crescent Cutlass（與東山奈央）{{ref||group1}}、Judgement{{ref||group1}}
 ** 伊甸星原：Eden through the rough{{ref||group1}}、Never say Never{{ref||group1}}
 ** 炎炎消防隊（第3期後半）：Ignis-イグニス-
+** 鄉下大叔成為劍聖<ref>全稱：鄉下大叔成為劍聖～只是區區鄉下劍術師傅，成大器的弟子們卻不肯放過我～</ref>：HEROES{{ref||group1}}
+** [[獸王武神丹帝拜恩]]：残響≠ブラスター{{ref||group1}}
 
 * 遊戲：
 ** 戰國BASARA系列：crosswise、Naked arms、FLAGS、UTAGE、count ZERO
@@ -95,6 +97,7 @@
 ** 2026年7月以此曲登上THE FIRST TAKE，締造最快突破千萬點閱的紀錄
 *** <s>公開影片前的推文穿着招牌繃帶裝，卻說歌曲是[[成句/要對班上同學保密喲☆|保密]]的</s>
 *** 而登上THE FIRST TAKE的時間剛好碰上HGCE海涅專用古夫烈焰型的發售時機，不少玩家也藉此給古夫貼上黑色膠帶來擺出MV中的動作姿勢
+*** 2026年末發售了<s>恥度爆表的</s>官方cos服。<s>同人展或應援穿這個能順利進場嗎</s>
 
 * [https://www.youtube.com/watch?v=3sOMbEikn78 魔彈]
 ** MV中以諧仿懷舊昭和時代生活短劇，但角色'''身體演短劇+嘴念歌詞口形'''的衝突矛盾為特徵
