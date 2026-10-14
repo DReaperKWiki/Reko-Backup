@@ -77,7 +77,7 @@
 
 
 == 回應 ==
-*{{pcomment|section=2}}
+{{pcomment|section=2}}
 
 ==備註==
 <references />
