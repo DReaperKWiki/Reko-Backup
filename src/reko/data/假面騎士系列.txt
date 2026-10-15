@@ -699,7 +699,7 @@
 | 零食、家族鬥爭、信任<s>、狂人日記</s>
 | 嘴巴+零食
 | 零食名
-| <s>Flavor x Food</s>
+| <s>Food x Friendship</s>
 | <s>零食人、掃毒小隊</s><br><s>令和的EX-AID</s>
 |-
 | [[仮面ライダーゼッツ|假面騎士Zeztz]]
@@ -721,8 +721,8 @@
 | 管家
 | 肩帶/腰帶+生肖+蛋
 | 動物名
-| <s>History x Hatch
-| 貓和老鼠<br>假面騎士系列55週年紀念作<br>系列第一次使用生肖元素作為主題<br>同一款驅動器可以充當腰帶或肩帶使用
+| <s>History x Hatch</s>
+| 貓和老鼠<br>假面騎士系列55週年紀念作<br>令和龍騎2.0<br>系列第一次使用生肖元素作為主題<br>同一款驅動器可以充當腰帶或肩帶使用
 |}
 {{hidef}}
 
@@ -765,7 +765,7 @@
 |-
 | Gavv || {{censored|Siita戰死/Jiip陷入瘋狂，酸賀與Nyelv的關聯初現}}
 |-
-| Zeztz ||
+| Zeztz || 
 |-
 | My-Th ||
 |}
@@ -804,7 +804,7 @@
 ===== 假面騎士 =====
 * 假面騎士的題材：
 ** 使用先進科技的假面騎士：Zero-One、Geats、Gavv、Zeztz
-** 使用自古留傳下來的古代技術騎士：Saber、My-Th 
+** 使用自古留傳下來的技術：Saber、My-Th 
 ** 先進科技和古代技術的融合：Revice、Gotchard
 
 * 假面騎士互相交換使用變身道具：
@@ -813,7 +813,9 @@
 ** Revice：令和騎士中少數的完全相容
 ** Geats：以Desire Driver變身的假面騎士可以完全通用，除此以外者則各自有自己的變身道具而不能相容
 ** Gotchard：不論敵我雙方都是使用封印Chemy的卡片
-** Gavv：Valen、Bake與Bitter Gavv都能通用幾乎所有Gavv能使用的Gochizo；Vrastum Gear的DX玩具能兼用部分前四者使用的Gochizo，劇中不明；Vrastum Gear專用的杯裝Gochizo只有Gavv與Bitter Gavv的DX玩具能兼容，劇中不明
+** Gavv：Valen、Bake與Bitter Gavv都能通用幾乎所有Gavv能使用的Gochizo
+*** Vrastum Gear的DX玩具能兼用部分前四者使用的Gochizo，劇中不明
+*** Vrastum Gear專用的杯裝Gochizo只有Gavv與Bitter Gavv的DX玩具能兼容，劇中不明
 ** Zeztz：Zeztz與Nox、以及後續的Nox變體所使用的騎士系統基本一致
 
 * 主角騎士最終強化形態初登場關聯劇情：

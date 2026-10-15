@@ -8,7 +8,7 @@
 
 [[檔案:Eldlich_the_Golden_Lord_(V2)_-Wallpaper-.jpg|500px|right]]
 
-<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; font-size: 24px; color:#FFFF00;">
+<div lang="ja" style="font-family: Noto Serif CJK JP, Noto Serif JP, Sawarabi Mincho, serif; font-weight: bold; font-size: 24px; color:#FFC125;">
 
 {{ruby|呪われし者|エルドリッチ}}、
 
@@ -116,7 +116,12 @@
 
 === 黃金鄉的墮落神使（黄金郷のアンヘルカイド） ===
 [[檔案:Angelcaido of the Golden Land.jpg|250px|right]]
-* 收錄於補充包1208(ALIN)，召喚條件十分簡便，不過攻守貧瘠，而且只有一條遺言效果，需要動點腦才能善加利用。
+* 收錄於補充包1208(ALIN)。
+
+* 召喚條件十分簡便，可以是拿《黃金卿 艾爾德里奇》+不死族怪獸正規融合，也可以是存在《黃金卿 艾爾德里奇》時可以釋放光屬性不死族怪獸進行接觸融合。
+** 不過攻守貧瘠，而且只有一條遺言效果，需要動點腦才能善加利用。
+*** 主要功用是讓本家陷阱怪獸可以主動送墓，回合結束時發動墓地效果賺資源，順便調度到《艾爾德里奇》。
+
 * 「アンヘルカイド／Angel Caido」是西班牙語詞彙，意為「墮天使」，此處予以迴避字段。
 * 官方設定畫相關資訊：[[檔案:FallenAngeloftheGoldenLand-ConceptArt.png|300px|none]]
 ==== 卡片資訊 ====
@@ -125,6 +130,7 @@
 ** 每回合只能特殊召喚「黃金鄉的墮落神使」1次，且必須透過融合召喚或下述方法才能特殊召喚這張卡。<br>● 自己場上或墓地裡存在「黃金卿 艾爾德里奇」的狀態下，釋放自己場上1隻光屬性不死族怪獸即可特殊召喚額外牌組中的這張卡。
 * 效果：「黃金鄉的墮落神使」的效果每回合只能使用1次。
 *# 場上的這張卡被送去墓地的場合才能發動。特殊召喚自己牌組、額外牌組或墓地裡1隻「艾爾德里奇」怪獸。
+{{-}}
 
 == 相關魔陷 ==
 * 大部分的【黃金國】魔法陷阱都有墓地除外從牌阻檢索另一種類【黃金國】魔法陷阱上場覆蓋的效果，這也是本家資源運轉的重要關鍵。

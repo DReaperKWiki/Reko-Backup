@@ -585,7 +585,7 @@ D2（✩）：ラピッドショット、ミリオンスタッブ、{{ruby|ト�
 （火精靈）
 |Type=精靈
 |Ali=NEUTRAL
-|Picture
+|Picture=[[檔案:MT2Flaemis.png|200px]]
 |Faction=火炎
 |Skill=-
 |Edition=數位惡魔物語 女神轉生Ⅱ
@@ -595,7 +595,7 @@ D2（✩）：ラピッドショット、ミリオンスタッブ、{{ruby|ト�
 （水精靈）
 |Type=精靈
 |Ali=NEUTRAL
-|Picture
+|Picture=[[檔案:MT2Aquans.png|200px]]
 |Faction=凍結
 |Skill=-
 |Edition=數位惡魔物語 女神轉生Ⅱ
@@ -605,7 +605,7 @@ D2（✩）：ラピッドショット、ミリオンスタッブ、{{ruby|ト�
 （風精靈）
 |Type=精靈
 |Ali=NEUTRAL
-|Picture
+|Picture=[[檔案:MT2Aeros.png|200px]]
 |Faction=衝擊
 |Skill=-
 |Edition=數位惡魔物語 女神轉生Ⅱ
@@ -615,7 +615,7 @@ D2（✩）：ラピッドショット、ミリオンスタッブ、{{ruby|ト�
 （磐石精靈）
 |Type=精靈
 |Ali=NEUTRAL
-|Picture
+|Picture=[[檔案:MT2Erthys.png|200px]]
 |Faction=電擊
 |Skill=-
 |Edition=數位惡魔物語 女神轉生Ⅱ
@@ -623,7 +623,7 @@ D2（✩）：ラピッドショット、ミリオンスタッブ、{{ruby|ト�
 
 * 就是四大元素
 * 最大的特點是不管和什麼惡魔合體都只會將該惡魔變成同一種族再高一階（或低一階）的惡魔，四大元素精靈亦同
-*3代中是阿瑪拉經絡的常駐敵人，體質普遍很硬而一度成為小難關<s>後來再回去就見一堆宰一群了</s>
+* 3代中是阿瑪拉經絡的常駐敵人，體質普遍很硬而一度成為小難關<s>後來再回去就見一堆宰一群了</s>
 <br>
 
 ===== 真．女神轉生 =====
