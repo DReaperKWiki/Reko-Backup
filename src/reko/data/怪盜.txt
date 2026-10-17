@@ -1,4 +1,4 @@
-{{h0|神偷/義賊/怪盗/Gentleman Thief/[https://tvtropes.org/pmwiki/pmwiki.php/Main/PhantomThief Phantom Thief]}}
+{{h0|神偷/義賊/怪盗/俠盜/Gentleman Thief/[https://tvtropes.org/pmwiki/pmwiki.php/Main/PhantomThief Phantom Thief]}}
 
 == 解說 ==
                        __.------.
@@ -40,7 +40,7 @@
 ** 極高機率會有長輩當這行。
 ** 名字有可能是怪盗的諧音或致敬某些怪盜。
 
-== ACG中有名的怪盗名單 ==
+== ACG中有名的怪盜名單 ==
 {|class="wikitable" style="margin: 1.5em auto; text-align:center;" 
 |以下部分歡迎各位補完，已有者便請不要重複登錄，以最先登場的媒體為準。
 |-
@@ -48,7 +48,7 @@
 |}
 
 {|class="wikitable" style="margin:auto;"
-! 本名 !! 怪盗名/外號 !! 所屬作品 !! 能力 !! 裝束/特徵 !! 家族同業者 !! 共犯 !! 對手 !! 備註
+! 本名 !! 怪盜名/外號 !! 所屬作品 !! 能力 !! 裝束/特徵 !! 家族同業者 !! 共犯 !! 對手 !! 備註
 |-
 | （不明） || 我來也 || 宋朝·沈淑《諧史》 || （似乎沒有）<br><s>登場時已經被逮</s> || 偷盜完成後會在牆上留字「我來也」 ||  || 獄卒 || 趙師義 || 中國傳奇小說的人物，其稱號「我來也」在流傳至日本後在民俗小說話本變為「'''兒雷也/自來也'''」，一躍成為忍者傳說中的要角。
 |-
