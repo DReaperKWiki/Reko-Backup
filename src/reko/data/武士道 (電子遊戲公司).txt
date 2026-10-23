@@ -32,7 +32,7 @@
 |-
 | ✞Luck & Logic || 2015年-2018年 || 
 |-
-| ✞ReBIRTH for you || 2020-2026年 || 卡圖主打Q版人物，不論是原創還是聯動<br>2026年7月22日宣布預定2026年10月結束營運。
+| ✞ReBIRTH for you || 2020年-2026年 || 卡圖主打Q版人物，不論是原創還是聯動<br>2026年7月22日宣布預定2026年10月結束營運。
 |-
 | Dream Order || 2024年- || 以日本職棒(NPB)為主題的卡片遊戲，<s>能玩的球員卡</s>
 |-
@@ -259,9 +259,9 @@
 |-
 | 偵探歌劇 少女福爾摩斯 心靈的問候 || 2018年12月31日 || 1 || 《偵探歌劇 少女福爾摩斯》系列動畫最後一部作品
 |-
-| [[BanG Dream!]] || 2017年1月21日 || ISSEN、XEBEC || rowspan="5" | TV動畫 || 13+1 || 以Poppin' Party為主角的三部曲<br><s>黑歷史，名物：第3話的小星星</s>
+| [[BanG Dream!]] || 2017年1月21日 || ISSEN、XEBEC || rowspan="6" | TV動畫 || 13+1 || 以Poppin' Party為主角的三部曲<br><s>[[黑歷史]]名物：第3話的小星星</s>
 |-
-| BanG Dream! 2nd Season || 2019年1月3日 || rowspan="13" | 三次元 || 13 || 本作起系列製作公司改為三次元，動畫制作變為3渲2製作
+| BanG Dream! 2nd Season || 2019年1月3日 || rowspan="14" | 三次元 || 13 || 本作起系列製作公司改為三次元，動畫制作變為3渲2製作
 |-
 | BanG Dream! 3rd Season || 2020年1月5日 || 13 ||  
 |-
@@ -287,7 +287,7 @@
 |-
 | 劇場版「BanG Dream! It's MyGO!!!!!」 || 2024年9月27日<br>2024年11月8日 ||  || [[總集篇]]，分成前編和後編
 |-
-| BanG Dream! Ave Mujica prima aurora || 2026年10月16日 ||  || Ave Mujica的續篇(後日談)
+| BanG Dream! Ave Mujica prima aurora || 2026年10月16日 || || Ave Mujica的續篇
 |-
 | BanG Dream! 少女樂團派對！☆PICO || 2018年7月5日 ||rowspan="2" | DMM.Futureworks<br>W-Toon Studio<br>三次元 || rowspan="4" | 短篇動畫 || 26 || <s>官方有病的</s>泡麵日常番，講述各個樂團的互動故事<br>由於是泡麵番，除三次元外還有DMM.Futureworks參與製作
 |-
