@@ -877,7 +877,7 @@
 
 ==== 阿慈谷日步美(阿慈谷ヒフミ) ====
 * CV：[[本渡楓]]（日）/米糊zzZ（中）/박신희（韓）
-* '''班級：'''2年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）｜'''職業：'''輔助、T.S.（泳裝）
+* '''班級：'''2年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#DA8D34|3=貫穿}}、{{color|1=#ED2C3D|3=爆炸}}（賽車）／'''裝甲類型：'''{{color|1=#ED2C3D|3=輕裝甲}}、{{color|1=#DA8D34|3=重裝甲}}（泳裝）、{{color|1=#2D96D2|3=特殊裝甲}}（賽車）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（原版、賽車）、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（泳裝）｜<br>'''職業：'''輔助、T.S.（泳裝）、打手（賽車）
 * 部長，一名感情豐富的少女。
 ** 外貌和成績都不出眾，為人圓滑且品性善良，很受人歡迎。
 ** 看似童顏嬌小，其身高158cm比白子和優香高一點。
@@ -921,7 +921,7 @@
 
 ==== 白洲梓(白洲アズサ) ====
 * CV：[[種田梨沙]]（日）/葛子瑞（中）/김예림（韓）
-* '''班級：'''2年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}、{{color|1=#2D96D2|3=神秘}}（泳裝）／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（泳裝）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>｜'''職業：'''打手
+* '''班級：'''2年級｜'''武器：'''突擊步槍｜'''攻擊類型：'''{{color|1=#ED2C3D|3=爆炸}}（原版、賽車）、{{color|1=#2D96D2|3=神秘}}（泳裝）／'''裝甲類型：'''{{color|1=#DA8D34|3=重裝甲}}、{{color|1=#ED2C3D|3=輕裝甲}}（泳裝）、{{color|1=#2D96D2|3=特殊裝甲}}（賽車）｜'''定位：'''<span style="display: inline-block;width: 60px;height: 20px;background-color: red;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Striker</span>（原版、泳裝）、<span style="display: inline-block;width: 60px;height: 20px;background-color: #006BFF;border-radius: 10px; text-align: center;line-height: 150%;font-size: 14px;color: white;">Special</span>（賽車）｜<br>'''職業：'''打手、輔助（賽車）
 * 轉學生，在學校相當於國家的奇普托斯裡是很稀有的存在。
 * 編入原因除了考試成績不及格，還有多次與其他學生起衝突。
 ** 因為少言寡語、表情淡漠和與其他人械鬥而被不明真相的學生稱為「冰之魔女」，是讓正實委感到頭痛的問題學生之一。
@@ -955,6 +955,7 @@
 ** 同樣有降防技能，覆蓋率遠比原版高，即使不是神秘甲的總力BOSS也能作為降防掛件上場。
 ** 擁有目前原版出場後，與換裝版實裝日數相差最短紀錄：34天
 * 其中一個表情衍生出了專屬顏文字「(ᓀ‸ᓂ)」
+* <s>二創常因為日步美的關係而成為泳裝蒙面團的第七或第八人(把另一個白子也算進去的話)，防毒面具六號。</s>
 * 原型推測是沙利葉（Sariel），象徵[[月球|月亮]]的天使，同時具備光明與黑暗的二重性。
 
 ==== 下江小春(下江コハル) ====
