@@ -1889,8 +1889,9 @@
 
 == 恆曆 ==
 === 機動戰士鋼彈EIGHT ===
-* EES-001 [https://promo.kadokawa.co.jp/gundam-eight/assets/img/mecha/ms1-main1.png ガンダムジリウス]
+* EES-001 [https://promo.kadokawa.co.jp/gundam-eight/assets/img/mecha/ms1-main1.png 鋼彈吉利烏斯]
 ** イーストエンド公司為太陽系同盟的外宇宙探查計畫研發的最新型船外活動用MS
+*** 共有兩台機體，由主角「直巳・昴」駕駛的一台叫吉利烏斯、另一台則叫作ヘテルキウス
 ** 基於「{{ruby|實現人類的夢想的次世代萬能機|'''A'''stronaut's '''M'''achine is a '''N'''ext-generation '''U'''niversal '''G'''enius that realizes the '''D'''ream of global <nowiki>=</nowiki> G.U.N.D.A.M.}}」的概念開發，最大的特徵是背後兼具散熱板機能、使用了獨特生物技術的フェザーエクステンション
 
 * EEA-300 [https://promo.kadokawa.co.jp/gundam-eight/assets/img/mecha/ms2-main1.png マージム]
@@ -1912,6 +1913,10 @@
 *** 外觀設計上加入了代表國際和平維持機構的象徵，相比輕量級MS擁有能裝備更猛火力的出力，並考慮到維和需要配備了強韌的裝甲
 *** 操縱系統採用與マージム等由オービタル公司生產的MS統一的規格，把轉換機種時所需的訓練時數減到最低
 ** 武裝有口徑較小、配備4連裝旋轉式槍管的專用步槍，手持式盾牌及在刀鍔位置加裝了實體斧刃的一對光束軍刀
+<br>
+
+* ネオッソス
+** 以「保護」第八世代人類為名<s>行監視之實</s>而立的「エイト保護法」專門機關ヘプタゴン配備的最新型MS，根據吉利烏斯上記錄的映像似乎是由アストロバイオテクノロジー研發、與鋼彈吉利烏斯競標的バイオロジカルスーツ
 
 == 後末日 ==
 === 鋼彈異軌征途 ===
