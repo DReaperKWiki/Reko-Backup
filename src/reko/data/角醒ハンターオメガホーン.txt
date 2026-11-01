@@ -14,6 +14,10 @@
 主視覺圖=[[檔案:Omegahorn_00.jpg|300px]]
 |-|
 主視覺圖2=[[檔案:Omegahorn_01.jpg|300px]]
+|-|
+主視覺圖3（左側）=[[檔案:Omegahorn_02_01.jpg|300px]]
+|-|
+主視覺圖3（右側）=[[檔案:Omegahorn_02_02.jpg|300px]]
 </tabber>
 }}
 
