@@ -196,8 +196,17 @@
 |Bandai Namco
 |Pac-Man首款Metroidvania向衍生作，玩家扮演第8適任者與黃色球體Puck闖蕩已經化為廢墟的星球<br><br>雖然如前述所說本作是打著《Pac-Man》的名號且有列入《UGSF》宇宙，但遊戲節奏過慢、打鬥系統看似很酷但欠缺爽快感、迷宮模式一定要一氣呵成過關（一旦失敗只能整個重來）等問題令本作評價大打折扣
 |-
-|預定2026
-|Bloodstained: The Scarlet Engagement（血咒之城：緋紅之誓）
+|2026
+|Castlevania: Belmont's Curse<br>（惡魔城：貝爾蒙特的詛咒）
+|Evil Empire
+|由《死亡細胞》開發商開發，時隔12年的惡魔城正傳Metroidvania作品。<br>然而因為東西方玩家們的期待和成品有所出入，加上關卡構成充滿大量的跑酷及陷阱要求準確操作才能跨過的配置，令到本作的評價變成贊否兩論
+|-
+| rowspan="2" |2027
+|Metroid Ravenous<br>（密特羅德：絕境嗜生）
+|[[任天堂|Nintendo]]
+|《Metroid Dread》的後續正傳作品
+|-
+|Bloodstained: The Scarlet Engagement<br>（血咒之城：緋紅之誓）
 |Artplay
 |同名作品的續作，故事上為前作的前傳，今作支援雙主角切換
 |}
