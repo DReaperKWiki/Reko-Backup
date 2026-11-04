@@ -93,9 +93,30 @@
 ** 例如，她若發動恢復效果，便能使恢復效果遍及整座城市，還能夠區分敵我。
 
 === 寶具 ===
+{{Fate寶具
+    |image=     
+    |name=      '''回眸一笑．空呑海麒'''
+    |pronounce= '''かいぼういっしょう・くうどんかいき'''
+    |color=     pink
+    |bgcolor=   yellow
+    |rank=      EX	
+    |type=      對都市寶具
+    |range=     1~500
+    |maxcaught= 一座都市
+    |explain=   
+}}
 
 === Fate/Samurai Remnamt遊戲技能 ===
 *'''咒層．麗日照'''
+
+=== Fate/Grand Order專屬概念禮裝 ===
+{{Fate概念禮裝
+|image=
+|color=pink
+|bgcolor=yellow
+|name=桃狐半月國傾劍
+|explain=
+}}
 
 == 簡評、其他資料 ==
 
