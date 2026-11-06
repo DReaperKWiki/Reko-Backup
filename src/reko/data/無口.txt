@@ -995,9 +995,9 @@
 |Lost Odyssey（失落的奧德賽）
 |恢復記憶後話慢慢變多。
 |-
-|Dr. Gordon Freeman
+|Gordon Freeman
 |[[戰慄時空|HλLF-LIFE]]
-|最強物理學家，[[鐵撬]]就是[[力量]]的傳教師，完全沒說過半句話!
+|最強物理學家，[[鐵撬]]就是[[力量]]的傳教師，直至《Half-Life:Alyx》為止完全沒說過半句話!
 |-
 |桐山和雄
 |[[大逃殺|大逃殺（Battle Royale）]]
@@ -1622,6 +1622,10 @@
 |補鞋匠塔克 Tack the Cobbler
 |小偷與鞋匠（The Thief and the Cobbler）
 |<s>“Why can’t I ever talk when it matters?”</s> -Majestic Films 和 Miramax版本的發言<br>對於這位童顔巨肌駙馬爺主角，應不應該在這個傳奇性未完成動畫電影（的Recobbled Cut粉絲修復版）維持啞巴狀態，還是在上述的剪輯發行版少説話多行動又以旁白透露心聲，影迷們各有愛好。<s>除非你們忍受到修復版Tank唯一一句話"I love you"超級低沉啦~</s>
+|-
+|齊力可‧裘比(キリコ・キュービィー)
+|裝甲騎兵Votoms
+|年幼就飽受戰爭摧殘，以至於連喜怒哀樂等情感都不露面色，直到在烏度認識戈頓、可可娜、巴尼拉後才開始有些許面露笑容的場面<s>，雖然如此在劇裡內心戲話很多</s>
 |-
 |}
 
