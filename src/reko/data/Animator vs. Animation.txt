@@ -56,7 +56,7 @@
 ** 與之相應，AvA1~4被整體定義為S1，原定分為七部曲的AvA6則變成了S3
 * 早期作為個人興趣作品，Alan完全沒有考慮過後續劇情規劃，從AvAS3才開始有意識地佈置伏筆<s>和回收當年無意間埋下的坑</s>，[[吃書]]自然難免
 * 隨著演出愈發宏大及製作手法的進步，製作耗時越來越長，按Alan的說法AvA11做了兩年左右<ref>主要原因在於後續台本似乎經歷了大幅度的改動</ref>{{censored|<s>而TCO、TSC和AvA10末尾被帶走的Yellow蹲了一年多班房，剩下三色則在地板上躺了同樣長的時間，結果整個AvA11都是回憶殺沒他們事</s>}}
-** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在2025年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴要在水裡泡大半年}}</s>，AvA13更是從最初說好的2026年二月一路跳票到五月底快六月……
+** 雖然也說接下來的製作速度不會這麼慢，及承諾AvA12會在2025年夏季出來<s>但還是一路拖到了九月中旬{{censored|，好不容易劇情推進了，還是有柴在水裡泡了大半年}}</s>，AvA13更是從最初說好的2026年二月一路跳票到五月底快六月……
 
 {{hideh|點擊展開}}
 {|width="100%" class="wikitable" 
@@ -93,7 +93,9 @@
 |-
 | 12 || Hacker<br>駭客 || 2025/9/13 || ''回到{{color|#a303fc||動畫師}}面前的{{color|#505050||那個火柴人}}。''<br><s>這個標題配縮略圖中央大特寫的vic，哎呀這什麼意思呢好難猜喔</s><br>{{censored|vic通過Yellow的記憶得到召喚游標的方式，以欺詐脅迫的手段逼迫Alan為自己改名為「{{ruby|H4CK3R|駭客}}」並因此獲得<s>大號</s>超能力，隨後徑直飛往ALANSPC展開其復仇戰<br><s>本集最慘：被強制改名為「{{ruby|NO ONE|無名氏}}」後[[才能喪失|失去全部超能力]]不說還徑直掉進水裡、到下一集才被撈上岸的TCO</s>}}<br>整體相當壓抑的一集，氣氛全靠<s>Green的臀部鏡頭</s>紅綠藍智取三僱傭兵提起來的|| [https://www.youtube.com/watch?v=kXtvcYDR1us youtube]<br>[https://www.bilibili.com/video/BV1hrpEz2EZJ/ bilibili]
 |-
-| 13 || The Machine<br>機器 || 2026/5/30 || ''把它啟動，看它發揮。''<br>{{censored|書接前回，H43與TDL<s>還有查無此柴到'''一度被忘記畫到畫面上'''<ref>無誤，Skim放出的分鏡稿裡某個鏡頭能看到NO，'''但成片的同一個鏡頭裡就沒有了'''</ref>的NO</s>回到公司，在TDL建議下造出一台能<s>榨橙汁</s>激發TSC的復活能力的機器而成功復活Mitsi，但被復活的卻只是一具無反應的空殼……？<br>機器的'''全3D'''組裝動畫到H43與TDL'''殺陣到拆樓'''的史詩級打鬥<s>真的打到大道磨滅了（物理）</s>的一套精彩鏡頭讓觀眾們紛紛直呼值得}}{{censored|，但下一幕開始就是他媽的H34被[[腰斬]]→傀儡化→和TDL在公司內[[開無雙|無雙]]大屠殺的[[槍彈辯駁系列|絕望]]過山車……<s>教練這不是我要看的四大空心頭首次同屏出演</s>}}<br>{{censored|<s>爫宀耂和水果電池不用多說，NO僅有的幾個鏡頭也沒牌面到一度引發官方OOC爭議<ref>{{censored|懇求五年前就已決裂的TDL為自己解開手銬，在屠殺過程中伏在地上瑟瑟發抖、之後更為核爆求生把自己關進先前羈押TSC的牢籠並拉下鐵板}}</ref>，除了TDL包括觀眾在內誰都不開心的世界誕生了，輪到大家為之後到底要怎麼給TDL洗白或至少讓他在結局後還活著哀嚎了</s>}}<br><s>往好處想，至少這集證實了Sign作為僱傭兵試訓排位第一的含金量{{censored|有核彈他是真的會扔啊}}</s> ||[https://www.youtube.com/watch?v=l6WeJ9JqDfU youtube]<br>[https://www.bilibili.com/video/BV1CfVV67EqU bilibili]
+| 13 || The Machine<br>機器 || 2026/5/30 || ''把它啟動，看它發揮。''<br>{{censored|書接前回，H43與TDL<s>還有查無此柴到'''一度被忘記畫到畫面上'''<ref>無誤，Skim放出的分鏡稿裡某個鏡頭能看到NO，'''但成片的同一個鏡頭裡就沒有了'''</ref>的NO</s>回到公司，在TDL建議下造出一台能<s>榨橙汁</s>激發TSC的復活能力的機器而成功復活Mitsi，但被復活的卻只是一具空殼……？<br>H43與TDL'''殺陣到拆樓'''<s>真的打到大道磨滅（物理）</s>的史詩級打鬥讓觀眾們紛紛直呼值得<ref>順帶一提這段打鬥鏡頭也是令本集跳票將近四個月的罪魁禍首，甚至因為超時長砍掉了部分預定情節</ref>}}{{censored|，但下一幕開始就是他媽的H34被[[腰斬]]→傀儡化→和TDL在公司內[[開無雙|大屠殺]]的[[槍彈辯駁系列|絕望]]過山車……<s>教練這不是我要看的四大空心頭首次同屏出演</s>}}<br>{{censored|<s>爫宀耂和水果電池不用多說，NO僅有的幾個鏡頭也沒牌面到一度引發官方OOC爭議<ref>{{censored|懇求五年前就已決裂的TDL為自己解開手銬，在屠殺過程中伏在地上瑟瑟發抖、之後更為核爆求生把自己關進先前羈押TSC的牢籠並拉下鐵板}}</ref>，除了TDL包括觀眾在內誰都不開心的世界誕生了，輪到大家為到底要怎麼給TDL洗白或至少讓他在結局後還活著哀嚎了</s>}}<br><s>往好處想，至少這集證實了Sign作為僱傭兵試訓排位第一的含金量{{censored|有核彈他是真的會扔啊}}</s> ||[https://www.youtube.com/watch?v=l6WeJ9JqDfU youtube]<br>[https://www.bilibili.com/video/BV1CfVV67EqU bilibili]
+|-
+| 14 || The Dark Age<br>黑暗時代 || 2026/11/7 || ''邪惡之塔、令人畏懼的黑暗世界時代降臨''<br><s>出人意料地</s>和上一集只相隔不到半年，<s>然後縮略圖上那個'''{{wp|哀悼基督_(米開朗琪羅)|聖母憐子|lang=zh-tw}}'''姿勢的Mitsi和TSC是要怎樣？！</s><br>{{censored|可能被人批評「女角色經常死」，Alan這一次為剛剛復活的Mitsi發揮老闆娘架勢，單人匹馬救出NO和TSC，並成功聯絡劇中的Alan爲他們上buff，NO也成功恢複力量變回TCO。<br><s>多了紫色力量的Mitsi：「別再碰我老公，狗娘養的！」}}</s><br>TSC畫電話時沒有柴柴想到沒有人可以説話？ || [https://www.youtube.com/watch?v=QCZjNqtnGmM youtube]<br>[https://www.bilibili.com/video/BV1Z24J6dEBk bilibili]
 |}
 {{hidef}}
 
@@ -237,6 +239,8 @@
 | Animation vs. Game Design<br>火柴人 VS 遊戲設計 || 2025/11/15 || 與創作型遊戲平台「Pixicade」<ref>一個在紙張上按一定規則畫出自己的遊戲關卡，便可通過掃描識別將其轉換為可以實際遊玩的遊戲的App</ref>聯動、為推廣黑五促販限定的特別聯名套組製作的工商短片<br>一言以蔽之：火柴幫跑到Alan的iPad裡遊玩自己利用Pixicade機能設計的各色遊戲關卡，<s>而Alan只需要負責用app掃描屏幕上的畫和看小火柴開心玩耍就好</s><br>可能是因為Win10於2025年10月14日結束支持服務的關係，此集可見Alan的電腦已經升級為Win11 || [https://www.youtube.com/watch?v=dz04yXwSkQY youtube]<br>[https://www.bilibili.com/video/BV13aCyBHEGd bilibili]
 |-
 | Animation vs. Geometry Dash<br>火柴人 VS 幾何衝刺<ref>由單人工作室「Robtop Games」開發、2013年發行並持續更新至今的節奏跑酷遊戲，以其功能強大的內建關卡編輯器及龐大的玩家自訂內容社群著稱</ref> || 2026/07/18 || 沒有反應，只是Green在玩家自訂關卡「Wicked VIP」內推關並{{censored|反復嘗試（死亡）775次後}}通關的過程</br>影片內關卡由團隊成員Lunsar製作並上傳到遊戲內（關卡ID：143792348），還得到Robtop頒發的Insane 8☆評級{{censored|但由於Alan[https://x.com/alanthebecker/status/2076704190835962272 直接在推特上請Robtop給此關評級]的原因，幾何衝刺社群內對此事頗有微詞<ref>{{censored|關卡本身質量相當平庸（幾乎完全沒有裝飾的白板佈局+前後難度差異過大導致的遊玩體驗不均衡），普遍認為若不是看在Alan面子上這關根本不會得到評級機會}}</ref>。<s>順便一提影片結尾處的關卡崩塌演出在實際關卡中並不存在</s>}}<br><s>迷你劇體裁的Av其他</s>，不算AS系列的話是時長僅比AvA1長一點的全系列倒數第二短，另外也是該系列下第一部全程僅有一柴（Green）出鏡的影片 || [https://youtu.be/C637UcpHfNY?is=EdSWybGNeZCrp0HT youtube]<br>[https://www.bilibili.com/video/BV1gxKA6yEzE bilibili]
+|-
+| Animation vs. Sonic<br>火柴人 VS [[音速小子系列|音速小子]] || - ||  || [youtube]<br>[bilibili]
 |}
 {{hidef}}
 
