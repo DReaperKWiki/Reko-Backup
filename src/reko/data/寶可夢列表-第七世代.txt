@@ -875,7 +875,7 @@
 |height= 0.2
 |weight= 0.5
 |type= {{color|white|#9ACD32|'''蟲'''}} {{color|white|#FFB0AF|'''妖精'''}}
-|ability=採蜜
+|ability= 採蜜
 |ability2= 鱗粉
 |abilityh= 甜幕
 |pokedex= 用花粉和花蜜製作團子。依調配的種類和劑量不同，團子的效果也不一樣。<br>最討厭雨水弄濕自己。因為伽勒爾地區陰天居多，所以很難見得到牠的身影。
