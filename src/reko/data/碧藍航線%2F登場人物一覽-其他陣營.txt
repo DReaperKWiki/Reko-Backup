@@ -61,6 +61,12 @@
 ==== [[Wikipedia:HMS_Pearl_(1708)|珍珠（パール/MOT Pearl）]] ====
 [[檔案:MOT Pearl.png|x200px]]
 * 圖鑑編號：711，SSR。
+==== 塞利米耶（セリミエ/MOT Selimiye） ====
+[[檔案:MOT Selimiye.png|x200px]]
+* 圖鑑編號：764，SSR。
+==== 雷伊爾·貝（リヤラ・ベイ/MOT Riyala Bey） ====
+[[檔案:MOT Riyala Bey.png|x200px]]
+* 圖鑑編號：761，SR。
 
 === 前衛型 ===
 ==== [[Wikipedia:Golden_Hind|金鹿（ゴールデン・ハインド/MOT Golden Hind）]] ====
@@ -81,6 +87,12 @@
 ==== 皇家詹姆斯（ロイヤル・ジェームズ/MOT Royal James） ====
 [[檔案:MOT Royal James.png|x200px]]
 * 圖鑑編號：712，SR。
+==== 水星（メルクーリィ/MOT Merkuriy） ====
+[[檔案:MOT Merkuriy.png|x200px]]
+* 圖鑑編號：763，SSR。
+==== 長蛇（オーメン・ランゲ/MOT Ormrinn Langi） ====
+[[檔案:MOT Ormrinn Langi.png|x200px]]
+* 圖鑑編號：760，SR。
 
 === 潛水型 ===
 ==== 皇家財富（ロイヤル・フォーチュン/MOT Royal Fortune） ====
@@ -101,6 +113,9 @@
 ==== 冒險（アドベンチャー/MOT Adventure） ====
 [[檔案:MOT Adventure.png|x200px]]
 * 圖鑑編號：713，SR。
+==== 鐵角（ヤーンバアデン/MOT Járnbarðinn） ====
+[[檔案:MOT Járnbarðinn.png|x200px]]
+* 圖鑑編號：762，SSR。
 
 == {{anchor|Faction_Kingdom_of_Tulipa}}郁金王國 ==
 === [[Wikipedia:Admiralen-class_destroyer|海軍上將級驅逐艦]] ===

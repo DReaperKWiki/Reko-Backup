@@ -627,7 +627,7 @@
 **CV：[[花江夏樹]]
 **超高校級的???。
 **2×2「瘋狂模式」裡新登場的角色
-**<s>John Danganronpa{{ref|1=John Doe（無名氏） + Danganronpa = John Danganronpa，為官方揭示他的正名前歐美粉絲們對他的暱稱}}</s>
+**<s>John Danganronpa{{ref|1=John Doe（無名氏） + Danganronpa = John Danganronpa，為官方揭示他的正名前歐美粉絲們對他的暱稱，甚至Spike Chunsoft英文官方及英文配音員也有用這個暱稱稱呼。}}</s>
 
 *{{censored|江ノ島盾子／江之島盾子}}
 **{{censored|CV：豐口惠／演出：神田沙也加（特別影片演出）}}
@@ -653,20 +653,20 @@
 **{{censored|為了把江之島病毒AI輸入新世界程式而故意被抓住}}
 **{{censored|<s>姦屍癖</s>}}
 
-*{{censored|[[苗木誠]]（cv：緒方惠美）}}
+*{{censored|[[苗木誠]]}}
 **{{censored|CV：緒方惠美}}
 **{{censored|超高校級的希望}}
 **{{censored|未來機關第十四支部所屬}}
 **{{censored|發現新世界程式遭盾子AI入侵而和<s>兩位老婆</s>響子、十神兩人進入新世界程式拯救日向等人}}
 
-*{{censored|[[霧切響子]]（cv：日笠陽子）}}
+*{{censored|[[霧切響子]]}}
 **{{censored|CV：日笠陽子}}
 **{{censored|超高校級的偵探}}
 **{{censored|未來機關第十四支部所屬}}
 **{{censored|發現新世界程式遭盾子AI入侵而和苗木、十神兩人進入新世界程式拯救日向等人}}
 
-*{{censored|[[十神白夜]]（cv：石田彰）}}
-*{{censored|CV：石田彰}}
+*{{censored|十神白夜}}
+**{{censored|CV：石田彰}}
 **{{censored|真。超高校級的名門少爺}}
 **{{censored|未來機關第十四支部所屬}}
 **{{censored|發現新世界程式遭盾子AI入侵而和苗木、響子兩人進入新世界程式拯救日向等人}}

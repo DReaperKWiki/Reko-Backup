@@ -229,6 +229,7 @@ LOCH=[[檔案:Witchcrafter Madame Verre(LOCH).jpg|250px]]
 {{-}}
 
 === 魔女工坊 希德（ウィッチクラフト・シード） ===
+[[檔案:Witchcrafter_Seed.png|250px|right]]
 * 登場於漫畫《遊戯王OCG STORIES》第7卷的附贈卡。
 * 漫畫中是【魔女工坊】的新成員，會使用植物魔法。
 * 效果不單輔助本家也能輔助《萊格魯斯》，墓地效果也可以用來過濾手牌。
