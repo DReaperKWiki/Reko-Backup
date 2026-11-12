@@ -487,7 +487,28 @@
 | スパイラル・ラダー
 |}
 * 《幕末交鋒神話 嘮嘮叨叨新選組・THE・END REVENGE OF MAKOTO》主題曲。
+* 根據{{twitter|hagakeita|2120488355632935237|芳賀敬太表示}}，本曲漢字題名為《八魂共鳴》。
 * Reson「'''8'''」te
+
+
+=== PHOENIX（feat. Yuriko Kaida） ===
+{| class="wikitable" style="margin-right: 1em auto 1em auto;"
+|-
+! 主唱
+| スパイラル・ラダー
+|-
+! 作詞
+| スパイラル・ラダー
+|-
+! 作曲
+| スパイラル・ラダー
+|-
+! 編曲
+| スパイラル・ラダー
+|}
+* 《真冬泳裝Special 嘮嘮叨叨軟嫩嫩大戰！ ～史上最糟的爆彈女～》主題曲。
+* 在{{twitter|_spiral_ladder_|2120475487080476825|スパイラル・ラダー官方Ｘ（推特）　的發文}}，本曲漢字題名為《九界飛翔》。
+* PHOEN「'''IX'''」
 
 == 其他活動主題曲 ==
 === BURN OUT! ===
@@ -765,6 +786,9 @@
 
 =相關=
 *[[Fate/Grand Order]]
+* [https://spiral-ladder.com/ スパイラル・ラダー] — 由TYPE-MOON的芳賀敬太和LIVE LAB.的毛蟹二人組成的樂隊，以象徵TYPE-MOON品牌的理念為核心。會邀請歌手合作演唱。
+** 2022年起，不少Fate/Grand Order中的歌曲，便是以這名義創作並發佈
+
 = 回應 =
 {{pcomment|section=3}}
 = 備註 =

@@ -541,7 +541,10 @@
 ** 6.1之後的主線是全新開始的故事，7.0更是要跨洋渡海去西方新大陸「圖拉爾<s>美洲</s>」尋寶<s>順便放暑假</s>。
 
 === 登場角色 ===
-* 詳見[[Final Fantasy XIV登場角色一覽|此條目]]。
+* Part 1：[[Final Fantasy XIV/登場角色一覽-Part 1|主要角色]]
+* Part 2：[[Final Fantasy XIV/登場角色一覽-Part 2|原初世界諸國與地域]]
+* Part 3：[[Final Fantasy XIV/登場角色一覽-Part 3|異世界與敵對勢力]]
+* Part 4：[[Final Fantasy XIV/登場角色一覽-Part 4|大型任務、支線與聯動]]
 
 == 種族 ==
 * 此處只列舉玩家可選種族。
