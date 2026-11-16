@@ -486,18 +486,18 @@
 |-
 |豐田（Toyota）
 |1937年8月28日
-|2000GT, Century<ref>就是[[仲夏夜之淫夢|某GV]]的黑色高級車，也是日本皇室指定用車且禁止外銷</ref>, Corolla, Supra, MR2, Sprinter Trueno GT-APEX(AE86), Levin GT-APEX (AE86),Vitz (Yaris) , Altezza, Celsior, Aristo, Land Cruiser, 86<ref>該車為與SUBARU合作製作的車款，同型車請見SUBARU一欄</ref> ,Prius ,Mirai ,Hiace
+|2000GT, Century<ref>就是[[仲夏夜之淫夢|某GV]]的黑色高級車，也是日本皇室指定用車且禁止外銷</ref>, Corolla, Supra, MR2, Sprinter Trueno GT-APEX(AE86), Levin GT-APEX (AE86),Vitz (Yaris) , Altezza, Celsior<ref>《[[快打旋風]]》、《街頭快打》作為加分關卡被暴打的苦主原型<s>OH! MY GOD!/OH! MY CAR!</s></ref>, Aristo, Crown, Land Cruiser, 86<ref>該車為與SUBARU合作製作的車款，同型車請見SUBARU一欄</ref> ,Prius ,Mirai ,Hiace
 |世界上最大的汽車集團，也是台灣萬年銷量最佳的品牌<ref>30年前的台灣汽車市場是福特跟裕隆的天下</ref><br>有參加包含F1在內的多項賽事的紀錄<ref>但是在F1的表現...，雖然號稱資金無上限，但是8年內參加了140場比賽連一個分站冠軍都沒有，分站成績最高只有第3 (8次)，車隊排名最高也只有2005年的第4名</ref>，直到今天依然活躍於賽場上<br>在利曼24小時耐力賽相當優秀，取得過至少四連霸<br>Land Cruiser以及Hilux系列皮卡以耐用著稱，廣為武裝組織使用<s>[https://scontent.fhkg12-1.fna.fbcdn.net/v/t1.6435-9/44980859_1147237638734555_1766955940780703744_n.jpg 豐田汽車，恐怖分子的最愛]</s><br>台灣代理：和泰
 |-
 |凌志（Lexus）
 |1989年9月1日
-|GS400, LFA, IS200/300<ref>Altezza於Lexus的名義</ref>, LS 400<ref>Celsior於Lexus的名義，《[[快打旋風]]》、《街頭快打》作為加分關卡被暴打的苦主原型<s>OH! MY CAR!</s></ref>, GS300<ref>Aristo於Lexus的名義</ref>
+|GS400, LFA, IS200/300<ref>Altezza於Lexus的名義</ref>, LS 400<ref>Celsior於Lexus的名義</ref>, GS300<ref>Aristo於Lexus的名義</ref>
 |樓上的分支，主攻日本外市場的精緻車部門，許多新配備或技術都會在這個品牌上先行<br>台灣代理自然也是和泰
 |-
 |賽揚（Scion）
 |2003年6月9日
 |xA, xB, tC, FR-S<ref>86在Scion的名義</ref>
-|樓上的第二個分支，主攻北美市場<br>因經濟改變考量而於2016年結束
+|樓上的第二個分岐，主攻北美市場<br>因經濟改變考量而於2016年結束
 |-
 |童夢（Dome）
 |1978年1月
@@ -768,8 +768,8 @@
 |-
 |福斯（Volkswagen）
 |1937年5月28日
-|Type 1{{ref|俗稱Beetle（原因來自於車子造型），中文圈採用Beetle的涵義稱為金龜車/甲蟲車，後來現代版亦正名化；因為金龜子是蟲子，所以粗俗的稱呼會是bug|name=VW_Type1}}, Type 2<ref>另稱Microbus/Transporter，第一代型號（T1）因嬉皮士經常以此改裝亦冠上嬉皮士車之名</ref>, Karmann Ghia, Golf, Polo, New Beetle
-|與保時捷同出一脈，曾在二戰替德軍生產偵查車輛等<br>2010後世界上最大的汽車集團，在WRC車輛小型化後成為該賽事霸主<br><s>業務包含賣香腸</s>
+|Type 1{{ref|俗稱Beetle（原因來自於車子造型），中文圈採用Beetle的涵義稱為金龜車/甲蟲車，後來現代版亦正名化；因為金龜子是蟲子，所以粗俗的稱呼會是bug|name=VW_Type1}}, Type 2<ref>另稱Microbus/Transporter，第一代型號（T1）因嬉皮士經常以此改裝亦冠上嬉皮士車之名</ref>, Karmann Ghia, Golf, Polo, New Beetle, New Beetle(A5)<ref>金龜車系列最後的車款</ref>
+|與保時捷同出一脈，曾在二戰替德軍生產偵查車輛等<br>2010後世界上最大的汽車集團，在WRC車輛小型化後成為該賽事霸主<br><s>業務包含賣香腸</s><br>
 |-
 |歐寶（Opel）
 |1862年1月21日<br>汽車部門成立：1899年
@@ -1666,7 +1666,7 @@
 |-
 |麥克小汽車
 |Micro Machines
-|美國玩具大廠Galoob於1987年生產的小汽車系列，定位與上兩者相當<br>2006年Galoob被孩之寶收購，之後有很長一段時間停產，2015–2016年間也只有短暫生產，直至2020年由新東家Wicked Cool Toys/Jazwares重啟生產<br>除了玩具車以外也有自己專屬的遊戲系列
+|美國玩具大廠Galoob於1987年生產的小汽車系列，定位與上述的多美小汽車、風火輪及阿Q迴力車相當<br>2006年Galoob被孩之寶收購，之後有很長一段時間停產，2015–2016年間也只有短暫生產，直至2020年由新東家Wicked Cool Toys/Jazwares重啟生產<br>除了玩具車以外也有自己專屬的遊戲系列
 |-
 |[[變形金剛系列|變形金剛]]
 |Transformers
