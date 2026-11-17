@@ -110,7 +110,7 @@
 |Dancing Stage featuring Disney's RAVE<br><br>Dance Dance Revolution Disney's RAVE<br><br>Dance Dance Revolution Disney MIX
 |2000年11月30日
 |25
-|與迪士尼的聯名作，收錄的曲目大多都是迪士尼經典歌曲的混音版，同時亦有收錄其他Avex授權的電音樂曲<br>家用版新增魔法對戰模式：兩邊不時會產生妨害特效<br>MANIAC譜面選擇方式為歷代最複雜：<br>街機版需切換到業務模式並同時踏住2P的⬅️➡️鍵、按住Service和Test鍵，直到左上顯示MANIAC MODE ON即可解禁<br>家用版日版更複雜：選取畫面中須分別在Mickey Mouse March (Eurobeat Version) 停留1秒、Chim-Chim-Cher-ee停留2秒、Macho Duck停留1秒、ELECTRICAL PARADE (Retro Future MIX) 停留1秒、IT'S A SMALL WORLD停留2秒、 I Want You Back停留1秒之後同時踏下⬅️➡️鍵即可解禁，之後的歐美版則是改成需通過所有樂曲的TRICK譜面以解禁MANIAC譜面<br>歐美版因為版權問題而刪除其中11首版權曲，取而代之新增6首BEMANI本家原創樂曲
+|與迪士尼的聯名作，收錄的曲目大多都是迪士尼經典歌曲的混音版，同時亦有收錄其他Avex授權的電音樂曲<br>家用版新增魔法對戰模式：兩邊不時會產生妨害特效<br>MANIAC譜面選擇方式為歷代最複雜：<br>街機版需切換到業務模式並同時踏住2P的⬅️➡️鍵、按住Service和Test鍵，直到左上顯示MANIAC MODE ON即可解禁<br>家用版日版更複雜：選取畫面中須分別在Mickey Mouse March (Eurobeat Version) 停留1秒、Chim-Chim-Cher-ee停留2秒、Macho Duck停留1秒、ELECTRICAL PARADE (Retro Future MIX) 停留1秒、IT'S A SMALL WORLD停留2秒、 I Want You Back停留1秒之後再輸入[https://rekowiki.org/wiki/%E6%AA%94%E6%A1%88:Dance_Dance_Revolution_Disney%27s_RAVE_%E8%A7%A3%E7%A6%81%E6%8C%87%E4%BB%A4%E4%B9%8B2.png 這些指令（需要同時用到2P手把或踏板）]即可解禁，之後的歐美版則是改成需通過所有樂曲的TRICK譜面以解禁MANIAC譜面<br><br>歐版（Disney Mix）因為版權問題而刪除其中11首版權曲，取而代之新增6首BEMANI本家原創樂曲<br><br>此外也有Majesco製作的Plug-n-play版本，使用載體為類似FC/NES的主機板<ref>同公司推出的Plug-n-play DDR遊戲《Dance Dance Revolution: Strawberry Shortcake》也是使用同樣的載體</ref>
 |-
 |Dance Dance Revolution 5thMIX
 |2001年5月2日
