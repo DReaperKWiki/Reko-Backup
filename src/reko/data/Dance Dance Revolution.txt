@@ -1,4 +1,4 @@
-{{h0|Dance Dance Revolution<ref>日、美、亞版名稱，歐版因後來官方統一名稱而跟進</ref>/Dancing Stage<ref>前歐版名稱，因後來官方統一名稱而被除名</ref>/熱舞革命<ref>中文圈直譯</ref>/勁爆熱舞<ref>中文坊間名稱</ref>/跳舞機<ref>中文圈俗稱</ref>}}
+{{h0|Dance Dance Revolution<ref>日、美、亞版名稱，歐版因後來官方統一名稱而跟進</ref>/Dancing Stage<ref>前歐版名稱，因後來官方統一名稱而被除名</ref>/熱舞革命<ref>中文圈直譯</ref>/勁爆熱舞<ref>中文坊間名稱</ref>/跳舞機<ref>中文圈俗稱，也可泛指其他的跳舞類音樂遊戲機台</ref>}}
 {| class="wikitable" style="margin:1.5em auto; text-align:center;"
 |-
 |本條目歡迎各位島民繼續補充
@@ -465,7 +465,7 @@
 |2009年10月5日
 |iOS
 |3+DLC 67
-|上者的加強版<br>全部樂曲接追加搖擺模式的譜面，此外最初樂曲只有3首，其餘67首需要額外付費下載
+|上者的加強版<br>全部樂曲皆有追加搖擺模式的譜面，此外最初樂曲只有3首，其餘67首需要額外付費下載
 |-
 |Dance Dance Revolution Tokimeki MIX
 |2000年9月28日

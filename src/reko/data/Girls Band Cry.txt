@@ -1,4 +1,4 @@
-{{h0|Girls Band Cry/少女樂團 吶喊吧/ガールズバンドクライ<s>/[[Devil May Cry|女孩樂隊哭{{color|black||/}}少女舞樂哭{{color|black||/}}閨泣5]]<ref>中國大陸民間對本作的諧音翻譯，採用與《Devil May Cry》一樣的俗名</ref>/[[暮蟬悲鳴時|Girls Band when they cry{{color|black||/}}がーるずばんどのなく頃に]]</s>}}
+{{h0|Girls Band Cry/少女樂團 吶喊吧/ガールズバンドクライ<s>/[[Devil May Cry|女孩樂隊哭{{color|black||/}}少女舞樂哭{{color|black||/}}閨泣5]]<ref>中國大陸民間對本作的諧音翻譯，採用與《Devil May Cry》一樣的俗名</ref></s>}}
 
 {{Infobox
 | bodystyle = width:350px;
@@ -39,11 +39,11 @@
 * 2023年5月29日，公開本作的MV以及作品資訊。
 * 2023年6月-12月間發表五首專輯、舉辦多場線下Live。
 
-* 2024年3月16日，1st ONE-MAN LIVE 『薄明の序奏』 舉辦。
-* 2024年4月6日，動畫第1期開始放送。
+* 2024年3月16日，1st ONE-MAN LIVE『薄明の序奏』舉辦。
+* 2024年4月6日，動畫1期開始放送。
 * 2024年7月5日，宣佈與《[[BanG Dream!]]》的樂團MyGO!!!!!聯動，預定次年1月12日對邦。
 * 2024年7月12日，聲優美怜、凪都因身體因素暫停活動。
-* 2024年9月13日，2nd ONE-MAN LIVE 『凛音の理』活動舉行。
+* 2024年9月13日，2nd ONE-MAN LIVE『凛音の理』活動舉行。
 * 2024年11月2日，3rd ONE-MAN LIVE『咆哮の奏』活動舉行。
 * 2024年12月20日，4th ONE-MAN LIVE『協奏の響』活動舉行。
 
@@ -51,12 +51,10 @@
 * 2025年2月7日，5th ONE-MAN LIVE『鳴動の刻』活動舉行。
 * 2025年2月28日，宣佈與《[[夜晚的水母不會游泳]]》展開聯動。
 * 2025年4月10日，聲優美怜、凪都復歸。
-
 * 2025年5月15日，TOGENASHI TOGEARI與《[[緋染天空]]》的樂團「She is Legend」舉辦對邦活動『SOUL & CRY』。
 * 2025年6月14日，再次與《BanG Dream!》聯動，將與RAISE A SUILEN於年末對邦。
 * 2025年9月23日，武道館Live『奏檄の叫』活動舉行。
 ** 宣佈製作'''完全新作劇場版'''及手機遊戲《Girls Band Cry First Riff》。
-
 * 2025年9月30日，宣佈總集篇劇場版前篇《青春狂走曲》與《[[佐賀偶像是傳奇|佐賀偶像是傳奇 夢銀河是天堂]]》將展開聯動活動，二者會在部分場館同捆上映，並有相關特典。
 * 2025年10月3日，總集篇劇場版前篇《青春狂走曲》上映，除剪輯本篇前半段內容外還會新增部分新畫面。
 * 2025年11月14日，總集篇劇場版後篇《なぁ、未来。》上映。
@@ -67,7 +65,10 @@
 * 2026年6月26日，Canna Lily 1st ONE-MAN LIVE 『未明に咲く花』 舉辦。
 * 2026年7月20日，F-272 1st ONE-MAN LIVE The Dissonant “I DOLL“ 舉辦。
 * 2026年10月3日，《First Riff》的第3次生放送，公開新團クズミミズク的人設。
+* 2026年11月3日，Special LIVE『赤色の響祭』活動舉行。
+* 2026年11月7日，《First Riff》的第4次生放送，公開手機遊戲玩法。
 
+* 2027年3月20日，ONE-MAN LIVE『凛音の耀』活動舉行。
 * 2027年3月21-28日，舞台劇版公演。
 * 2027年5月21日，劇場版《ガールズバンドクライ THE MOVIE》上映。
 
@@ -155,7 +156,7 @@
 
 === Canna Lily ===
 * 手機遊戲《First Riff》中新增
-* 音樂製作：{{wp|SCRAMBLES|SCRAMBLES(松隈ケンタ)|lang=ja}}
+* 音樂製作：{{wp|Donuts_(企業)|DONUTS|lang=ja}}&{{wp|アソビシステム|ASOBISYSTEM|lang=ja}}×{{wp|SCRAMBLES|SCRAMBLES(松隈ケンタ)|lang=ja}}
 
 ==== 星亜矢芽 ====
 * CV：早坂莉寧
@@ -215,7 +216,7 @@
 === クズミミズク ===
 * 手機遊戲《First Riff》中新增，4個社會人士和1個小鬼的樂團
 ** 4名成人都會抽菸
-* 音樂製作：{{wp|agehasprings|lang=jp}}×{{wp|キングレコード|KING RECORDS|lang=jp}}
+* 音樂製作：{{wp|キングレコード|KING RECORDS|lang=jp}}×{{wp|agehasprings|lang=jp}}
 * 人設：ぽんかん⑧
 * 劇本：渡航<s>[[果然我的青春戀愛喜劇搞錯了。|果然我的青春少女樂隊搞錯了。]]</s>
 
