@@ -59,6 +59,11 @@
 |朋弟的同名作品
 |華語圈最代表與爭議性的抄襲案例，諷刺的是考慮原作所在地區的政治波動……
 |-
+|Sweet Dream Two
+|北卓也
+|[[灌籃高手]]
+|利用畫風與縮寫冒充續作，主角還為此刻意設定成從美國歸來的流川引人聯想<br>推出四集後即被原作提告，雙方和解收場
+|-
 |メガバカ
 |豪村中
 |族繁不及備載
@@ -211,7 +216,7 @@
 |-
 |Pump It Up
 |Andamiro
-|Rowspan = "2"|Dance Dance Revolution
+|Rowspan = "2"|[[Dance Dance Revolution]]
 |簡稱PIU<br>玩法相像，但踏板配置變成斜向四方↙️↖️↗️↘️+中間踏板⏹️，後期的長押箭頭長押時也會算COMBO（類似上面EZ2AC、EZ2ON及DJMAX）<br>同樣被Konami（以侵害相關專利為由）控告，不過Andamiro也以同樣理由與Konami對簿公堂，最後雙方在2002年於庭外達成和解，令Pump It Up得以延續下去，甚至慢慢進軍日本市場
 |-
 |In The Groove

@@ -270,13 +270,13 @@
 |2005年7月14日（日版）<br>2005年10月24日（美版）
 |GC
 |29
-|詳見[[瑪利歐系列]]
+|Konami與Hudson共同開發<ref>實質上為任天堂與Konami授權、Hudson開發</ref>的DDR音樂遊戲，同時也是唯一一款在GC上發行的DDR作品<br>本作因為主打輕玩家客群，故也是唯一一款沒有DDR原有的部分核心要素（長押、雙踏板、輔助選項）的系列作，但全部歌曲的SUPER HARD譜面可藉由通關任一譜面的VERY HARD譜面解禁<br>首次有實驗性質的故事模式以及妨害要素（預設為開啟），而後本作的妨害要素後來沿用至Wii的HOTTEST PARTY系列並加以改良
 |-
 |Dance Dance Revolution HOTTEST PARTY
 |2007年10月25日（日版）<br>2007年9月25日（美版）
 |rowspan = "3"|Wii
 |50
-|Xbox平台以外首款以16:9畫面比例顯示的DDR遊戲<br>上述的花彩特效沿用，但可以調整是否開啟<br>新增Wii主機的獨家玩法<br>跳舞毯除了可使用同捆包附贈的以外，也可使用上面附贈的跳舞毯<br>
+|Xbox平台以外首款以16:9畫面比例顯示的DDR遊戲<br>沿用並改良了上述的妨害要素，但可以調整是否開啟<br>新增Wii主機的獨家玩法<br>跳舞毯除了可使用同捆包附贈的以外，也可使用上面附贈的跳舞毯<br>
 |-
 |ダンスダンスレボリューション フルフル♪パーティー
 |2008年12月18日
@@ -286,7 +286,7 @@
 |Dance Dance Revolution MUSIC FIT
 |2010年1月28日
 |52
-|北美為HOTTEST PARTY3，差別在於部分（ry<br>其中一個花彩特效為部分⬅️➡️音符替換成類似SOLO的↖️↗️音符，部分樂曲才會出現<s>變相的SOLO譜面</s><br>另有收錄支援Wii平衡板的獨家模式
+|北美為HOTTEST PARTY3，差別在於部分（ry<br>其中一個妨害要素為部分⬅️➡️音符替換成類似SOLO的↖️↗️音符，部分樂曲才會出現<s>變相的SOLO譜面</s><br>另有收錄支援Wii平衡板的獨家模式
 |-
 |Dance Dance Revolution 2ndMIX Dreamcast Edition
 |2000年2月17日
@@ -382,7 +382,7 @@
 |2010年11月16日（美版）<br>2010年11月16日（歐版）<br>2011年4月12日
 |Wii<br>PS3<br>X360
 |56（Wii）<br>50+DLC 30（PS3、X360）
-|首款跨平台的DDR家用機遊戲<br>三種版本共用同個曲目表，但UI介面以及系統完全不同：<br>PS3與X360使用相同介面，Wii則是獨立出來，但體感操作只有PS3和Wii才有，此外Hottest Party以來的花彩特效完全刪除<br>Wii版雖沿用Music Fit/Hottest Party3之前的介面並新修以外，COMBO判定為事先將GOOD列入COMBO計算（之後才沿用到下述以及本傳的2013）<br>PS3/X360版的雙踏變成2 COMBO之餘FREEZE音符押完O.K.也會算COMBO，難度指數又改回上限為10，此外因應PS3機能，只有支援單版遊玩，另外未加入譜面編輯模式<br><br>兩邊的獨家模式不盡相同：<br>Wii：新增Choreograph模式，玩法可說是Hottest Party以來的體感模式的進化版，有時會出現需使用Wii手把及雙節棍擺舞步的音符，此外也有支援Wii平衡板，另外該模式只有部分歌曲能玩<br>PS3、X360：除了PS3版本限定的PS Move遊玩模式以外，新增獨家的'''單版8鍵'''（除了⬅️⬇️⬆️➡️以外多了↖️↙️↘️↗️4個鍵）的Octo-Mode<ref>雖然說韓國方面的F2 System推出的DDR仿作Techno Motion是最先引入單版8鍵的玩法...</ref>
+|首款跨平台的DDR家用機遊戲<br>三種版本共用同個曲目表，但UI介面以及系統完全不同：<br>PS3與X360使用相同介面，Wii則是獨立出來，但體感操作只有PS3和Wii才有，此外Hottest Party以來的妨害要素完全刪除<br>Wii版雖沿用Music Fit/Hottest Party3之前的介面並新修以外，COMBO判定為事先將GOOD列入COMBO計算（之後才沿用到下述以及本傳的2013）<br>PS3/X360版的雙踏變成2 COMBO之餘FREEZE音符押完O.K.也會算COMBO，難度指數又改回上限為10，此外因應PS3機能，只有支援單版遊玩，另外未加入譜面編輯模式<br><br>兩邊的獨家模式不盡相同：<br>Wii：新增Choreograph模式，玩法可說是Hottest Party以來的體感模式的進化版，有時會出現需使用Wii手把及雙節棍擺舞步的音符，此外也有支援Wii平衡板，另外該模式只有部分歌曲能玩<br>PS3、X360：除了PS3版本限定的PS Move遊玩模式以外，新增獨家的'''單版8鍵'''（除了⬅️⬇️⬆️➡️以外多了↖️↙️↘️↗️4個鍵）的Octo-Mode<ref>雖然說韓國方面的F2 System推出的DDR仿作Techno Motion是最先引入單版8鍵的玩法...</ref>
 |-
 |DanceDanceRevolution II<br><br>Dance Dance Revolution hottest party5
 |2011年10月11日（美版）<br>2011年11月25日（歐版）

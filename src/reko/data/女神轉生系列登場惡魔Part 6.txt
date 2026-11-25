@@ -52,8 +52,9 @@ P2EPNyarlathotep.png|P2罰（真實型態）
 </gallery>
 </div>
 |Faction=D2：衝擊
-|Skill=P2：這いよる混沌、不滅の黒、刻の車輪<br>
-D2：這いよる混沌、異界からの衝撃
+|Skill=這いよる混沌（P2、D2）
+P2：不滅の黒、刻の車輪<br>
+D2：異界からの衝撃
 |Edition=真・女神轉生Ⅱ
 }}
 {{MTdata
@@ -184,7 +185,7 @@ P5R：顧問官
 （天蛾人）
 |Type=妖蟲/妖獸
 |Ali=DARK-NEUTRAL
-|Picture=
+|Picture=[[檔案:DSMothman.png|200px]]
 |Faction=衝擊
 |Skill=真ⅤV：ゲイルチャージ
 |Edition=惡魔召喚師
@@ -194,7 +195,7 @@ P5R：顧問官
 （慶祝天蛾人）
 |Type=妖獣
 |Ali=DARK-NEUTRAL
-|Picture=
+|Picture=[[檔案:DSMothman.png|200px]]
 |Faction=衝擊
 |Skill=祝福の鱗粉、祝福の矢風
 |Edition=Dx2 真･女神転生 リベレーション
@@ -267,7 +268,7 @@ P5R：顧問官
 （高速婆婆）
 |Type=怪異
 |Ali=DARK-NEUTRAL
-|Picture
+|Picture=[[檔案:DSSHTurboGranny.png|200px]]
 |Faction=靈魂駭客：衝擊<br>
 靈魂駭客2：物理
 |Skill=-
@@ -388,7 +389,7 @@ P5R：顧問官
 （毒氣怪客）
 |Type=外道
 |Ali=DARK-CHAOS
-|Picture
+|Picture=[[檔案:DSSHMadGasser.png|200px]]
 |Faction=狀態異常
 |Skill=-
 |Edition=惡魔召喚師 靈魂駭客
@@ -409,6 +410,13 @@ P5R：顧問官
 |Type=外道
 |Ali=DARK-CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT1Slime.png|真Ⅰ
+檔案:DSSlime.png|惡魔召喚師
+檔案:DSSHSlime.png|靈魂駭客
+</gallery>
+</div>
 |Faction=-
 |Skill=-
 |Edition=舊約・女神轉生
@@ -423,28 +431,11 @@ P5R：顧問官
 <br>
 
 {{MTdata
-|Name=ブラックウーズ
-（黑軟泥怪）
-|Type=外道
-|Ali=DARK-CHAOS
-|Picture
-|Faction=-
-|Skill=-
-|Edition=真・女神轉生
-}}
-
-* ウーズ（Ooze)為RPG遊戲中史萊姆的另一種稱呼，意思同理
-* <s>只是個色違版的史萊姆</s>
-** 但不同於史萊姆，牠等級往往更高，並有更好的防禦性能
-* 在本作設定中，牠是融合/召喚失敗或惡魔失去MAG/禍靈支撐而劣化而成的混(ry
-<br>
-
-{{MTdata
 |Name=ブロブ
 （果凍怪）
 |Type=外道
 |Ali=DARK-CHAOS
-|Picture
+|Picture=[[檔案:SMT1Blob.png|200px]]
 |Faction=-
 |Skill=-
 |Edition=舊約・女神轉生
@@ -453,8 +444,23 @@ P5R：顧問官
 * ブロブ（Blob)為RPG遊戲中史萊姆的(ry
 ** 名稱由來於1958年一部美國SF恐怖片標題，講述一個變形蟲般的巨大物體襲擊鳳凰城的一個小鎮
 * <s>可能是本系列第一個色違惡魔</s>
-* <s>只是個色違(ry</s>
-** 但不同於史(ry
+* <s>只是個色違版的史萊姆，</s>但不同於史萊姆，牠等級往往更高，並有更好的防禦性能
+* 在本作設定中，牠是融合/召喚失敗或惡魔失去MAG/禍靈支撐而劣化而成的混(ry
+<br>
+
+{{MTdata
+|Name=ブラックウーズ
+（黑軟泥怪）
+|Type=外道
+|Ali=DARK-CHAOS
+|Picture=[[檔案:SMT1BlackOoze.png|200px]]
+|Faction=-
+|Skill=-
+|Edition=真・女神轉生
+}}
+
+* ウーズ（Ooze)為RPG遊戲中史萊姆的另一種稱呼，意思同理
+* <s>只是個色違(ry，</s>但不同於史(ry
 * 在本作設定中，牠是融(ry
 <br>
 
@@ -570,7 +576,7 @@ P5R：顧問官
 （巴克貝亞德）
 |Type=外道
 |Ali=DARK-CHAOS
-|Picture
+|Picture=[[檔案:SMT1Backbeard.png|200px]]
 |Faction=火焰、雷電
 |Skill=-
 |Edition=數位惡魔物語 女神轉生Ⅱ
@@ -631,6 +637,12 @@ P5R：顧問官
 |Type=
 |Ali=
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSOrgoneGhost Strong.png|強化姿態
+檔案:DSOrgoneGhost Weak.png|弱化姿態
+</gallery>
+</div>
 |Faction=
 |Skill=
 |Edition=真・女神轉生：惡魔召喚師
@@ -651,6 +663,12 @@ P5R：顧問官
 |Type=珍獣
 |Ali=
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSOliver.png|惡魔召喚師
+檔案:DSSHOliver.png|靈魂駭客
+</gallery>
+</div>
 |Faction=
 |Skill=
 |Edition=真・女神轉生：惡魔召喚師
@@ -696,7 +714,7 @@ P5R：顧問官
 （本我）
 |Type=妖樹
 |Ali=
-|Picture=
+|Picture=[[檔案:DSEs.png|200px]]
 |Faction=狀態異常
 |Skill=D2：自我の侵食
 |Edition=
@@ -816,12 +834,18 @@ P5R：顧問官
 |Type=龍王
 |Ali=NEUTRAL-NEUTRAL
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:DSOuroboros.png|惡魔召喚師
+檔案:DSSHOuroboros.png|靈魂駭客
+</gallery>
+</div>
 |Faction=SJ/DSJ：電擊
 D2：萬能、異常狀態
 |Skill=SJ/DSJ（全頭目戰）：災厄の輪廻、豪雷
 SJ/DSJ（頭目戰1）：エネルギー充填<br>
 SJ/DSJ（頭目戰2）断末波<br>
-D2：エターナイズ、無限の波動、永劫辛苦
+D2：エターナイズ、無限の波動、永劫辛苦〈加護〉
 |Edition=ラストバイブルスペシャル
 }}
 
@@ -842,9 +866,9 @@ D2：エターナイズ、無限の波動、永劫辛苦
 （人魚）
 |Type=鬼女
 |Ali=NEUTRAL-CHAOS 
-|Picture
+|Picture=[[檔案:SMT4FMermaid.png|200px]]
 |Faction=冰凍
-|Skill=嵐からの歌声
+|Skill=5V：嵐からの歌声
 |Edition=真・女神轉生Ⅳ Final
 }}
 
@@ -890,6 +914,13 @@ D2：エターナイズ、無限の波動、永劫辛苦
 |Type=外道
 |Ali=DARK-CHAOS
 |Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT2Doppelgänger.png|真Ⅱ
+檔案:DSDoppelgänger.png|惡魔召喚師
+檔案:SJDoppelgänger.png|SJ
+</gallery>
+</div>
 |Faction=輔助
 |Skill=-
 |Edition=真・女神轉生Ⅱ
@@ -909,7 +940,12 @@ D2：エターナイズ、無限の波動、永劫辛苦
 （曼德拉草）
 |Type=妖樹
 |Ali=DARK-LAW
-|Picture
+|Picture=
+<div style="min-width:300px; max-width:300px;">
+<gallery mode=slideshow>
+檔案:SMT2Mandrake.png|真Ⅱ
+</gallery>
+</div>
 |Faction=狀態異常
 |Skill=-
 |Edition=真・女神転生Ⅱ
@@ -923,7 +959,7 @@ D2：エターナイズ、無限の波動、永劫辛苦
 （蟻獅）
 |Type=妖虫
 |Ali=
-|Picture=
+|Picture=[[檔案:DSMyrmecolion.png|200px]]
 |Faction=狀態異常
 |Skill=-
 |Edition=
@@ -959,7 +995,7 @@ X：火焰、雷電<br>
 （賽德娜）
 |Type=地母神
 |Ali=
-|Picture=
+|Picture=[[檔案:DSSedna.png|200px]]
 |Faction=冰凍、咒殺
 |Skill=-
 |Edition=
@@ -974,7 +1010,7 @@ X：火焰、雷電<br>
 （鳥人）
 |Type=妖鳥
 |Ali=
-|Picture=
+|Picture=[[檔案:DSSHTangataManu.png|200px]]
 |Faction=槍擊
 |Skill=-
 |Edition=
@@ -1526,7 +1562,7 @@ D2（屍鬼）：宝石ちょうだい？、お願いがあるの→遊んでく
 |Faction=萬能、電擊
 |Skill=真if：邪気の左手
 真ⅣF：ソウルドレイン、前鬼の斧、後鬼の水壁、孔雀の呪法<br>
-D2：修験道の開祖、孔雀明王の呪術、アーケイン
+D2：修験道の開祖、孔雀明王の呪術、アーケイン〈加護〉
 |Edition=真・女神轉生
 }}
 
