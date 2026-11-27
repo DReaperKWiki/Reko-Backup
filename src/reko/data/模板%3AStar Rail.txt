@@ -1,0 +1,24 @@
+{{Navbox
+| name =Star Rail
+| title = [[崩壞：星穹鐵道|{{color|white||崩壞：星穹鐵道}}]]
+| state = uncollapsed
+|titlestyle = background:linear-gradient(180deg, #261c5c 15%, #10295e);color:#f3f6ff;-webkit-text-fill-color:#f3f6ff;
+|groupstyle = background:#10295e;color:#f3f6ff;
+|liststyle  = background:#ffffff;
+|evenstyle = background:#f2f3ff;
+| group1 = 登場角色
+| list1 =
+{{Navbox|child|
+|titlestyle = background:linear-gradient(180deg, #261c5c 15%, #10295e);color:#f3f6ff;-webkit-text-fill-color:#f3f6ff;
+|groupstyle = background:#10295e;color:#f3f6ff;
+|liststyle  = background:#ffffff;
+|evenstyle = background:#f2f3ff;
+| group1 = 主線角色
+| list1 =[[崩壞：星穹鐵道/登場角色一覽-星穹列車|星穹列車]]・[[崩壞：星穹鐵道/登場角色一覽-星核獵手|星核獵手]]・[[崩壞：星穹鐵道/登場角色一覽-空間站「黑塔」|空間站「黑塔」]]・[[崩壞：星穹鐵道/登場角色一覽-貝洛伯格|貝洛伯格]]・[[崩壞：星穹鐵道/登場角色一覽-仙舟聯盟|仙舟聯盟]]・[[崩壞：星穹鐵道/登場角色一覽-匹諾康尼|匹諾康尼]]・[[崩壞：星穹鐵道/登場角色一覽-星際和平公司|星際和平公司]]・[[崩壞：星穹鐵道/登場角色一覽-翁法羅斯|翁法羅斯]]・[[崩壞：星穹鐵道/登場角色一覽-二相樂園|二相樂園]]・[[崩壞：星穹鐵道/登場角色一覽-銀河|銀河]]
+| group2 = 聯動角色
+| list2 =[[崩壞：星穹鐵道/登場角色一覽-聯動角色|聯動角色]]
+| group3 = 劇情角色
+| list3 =[[崩壞：星穹鐵道/登場角色一覽-星神|星神]]
+}}
+}}
+<noinclude>[[分類:特定主題使用模板]]</noinclude>

@@ -1,0 +1,28 @@
+<noinclude>{{documentation}}</noinclude>{{Navbox
+|listclass=hlist
+|name   = 碧藍幻想
+|title  = [[碧藍幻想]]
+|titlestyle  = background: lightblue; text-align: center; vertical-align: middle;
+|bodystyle  = background: #f9f9f9;
+|liststyle  = text-align: left;
+|groupstyle = background: #c9c9c9; text-align: center; width: 10%;
+|belowstyle = text-align: center;
+|oddstyle   = background: #ececec;
+|evenstyle  = background: #f9f9f9;
+|state      = expanded
+|group1 = 角色列表
+| list1 =[[碧藍幻想登場人物一覽-主線登場人物|主線人物]]・[[碧藍幻想登場人物一覽-十天眾|十天眾]]・[[碧藍幻想登場人物一覽-十賢者|十賢者]]・[[碧藍幻想登場人物一覽-十二神將|十二神將]]・[[碧藍幻想登場人物一覽-六龍|六龍]]・[[碧藍幻想登場人物一覽-人類|人類]]・[[碧藍幻想登場人物一覽-矮人族|矮人族]]・[[碧藍幻想登場人物一覽-角族|角族]]・[[碧藍幻想登場人物一覽-獸耳族|獸耳族]]・[[碧藍幻想登場人物一覽-星晶獸|星晶獸]]・[[碧藍幻想登場人物一覽-不明|不明]]
+{{Navbox subgroup
+|name = 角色條目
+|group1 = 000相關
+|list1 = [[ベルゼバブ (GBF)|ベルゼバブ]]・[[ルシファー (GBF)|ルシファー]]・[[ベリアル (GBF)|ベリアル]]・[[ルシフェル (GBF)|ルシフェル]]・[[ルシオ (GBF)|ルシオ]]・[[サンダルフォン (GBF)|サンダルフォン]]
+|group2 = 四騎士相關
+|list2 = [[パーシヴァル (GBF)|パーシヴァル]]・[[ジークフリート (GBF)|ジークフリート]]・[[ランスロット (GBF)|ランスロット]]・[[ヴェイン (GBF)|ヴェイン]]・[[アグロヴァル (GBF)|アグロヴァル]]・[[ラモラック (GBF)|ラモラック]]
+|group3 = 其他
+|list3 = [[カロ (GBF)|カロ]]・[[グリームニル (GBF)|グリームニル]]・[[カリオストロ (GBF)|カリオストロ]]・[[ナルメア (GBF)|ナルメア]]
+}}
+|group3 =分支條目	
+|list3 = [[碧藍幻想THE ANIMATION|動畫版]]・[[碧藍幻想Versus]]・[[碧藍幻想Relink]]
+}}
+
+<noinclude>[[分類:特定主題使用模板]]</noinclude>
