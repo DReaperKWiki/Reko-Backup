@@ -369,9 +369,9 @@
 | image = 
 <tabber> 
 |-| 
-OCG卡圖=[[檔案:Dramatic Rescue (OCG).png|250px]]
+OCG卡圖=[[檔案:Dramatic Rescue (OCG).png|250px|right]]
 |-| 
-TCG卡圖=[[檔案:Dramatic Rescue.png|250px]]
+TCG卡圖=[[檔案:Dramatic Rescue.png|250px|right]]
 </tabber>
 }}
 * 無字段陷阱，當本家怪獸變成效果對象時可跳回手牌並換成別的怪獸上場，而且特召範圍'''沒有限制'''。
@@ -485,9 +485,19 @@ TCG卡圖=[[檔案:Dramatic Rescue.png|250px]]
 {{-}}
 
 === 亞馬遜秘湯（アマゾネスの{{ruby|秘湯|ひとう}}） ===
-[[檔案:Amazoness Hot Spring.png|250px|right]]
+{{Infobox
+| bodystyle = width:250px;
+| image = 
+<tabber> 
+|-| 
+OCG卡圖=[[檔案:Amazoness Hot Spring.png|250px|right]]
+|-| 
+TCG卡圖=[[檔案:Amazoness_Hot_Spring_(TCG).png|250px|right]]
+</tabber>
+}}
 * 發動時可檢索1隻本家怪獸，或抓牌組中1隻本家P怪貼上P區，受到戰鬥傷害時還能完整回血，屬於防禦向貼紙。
 * 這張卡的構圖基本參考<s>抄襲</s>了《[[神鷹女郎#神鷹的羽翼休息（ハーピィの羽根休（はねやす）め）|神鷹的羽翼休息]]》<s>，一邊是養眼的神鷹女郎，另一邊是肌肉姊貴</s>。
+** <s>TCG卡圖還穿著衣服洗澡。</s>
 ==== 卡片資訊 ====
 * 永續陷阱
 * 效果：「亞馬遜秘湯」的②效果每回合只能使用1次。

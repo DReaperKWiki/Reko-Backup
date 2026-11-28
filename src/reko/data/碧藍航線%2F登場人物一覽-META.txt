@@ -230,7 +230,12 @@
 [[檔案:Bristol META.png|x200px]]
 * 圖鑑編號：M062，艦種：驅逐，SSR。
 * 在2026年6月的META信標戰中作為解析報酬實裝。
-
+<!--
+==={{anchor|Kersaint_META}}[[碧藍航線/登場人物一覽-自由鳶尾&維希教廷#Kersaint|凱爾聖]](META)（ケルサン(META)/Kersaint META）===
+[[檔案:Kersaint META.png|x200px]]
+* 圖鑑編號：M0XX，艦種：驅逐，SR。
+* 於2026年12月至2027年1月的「世界巡游」作為報酬登場。
+-->
 === {{anchor|La_Galissonnière_META}}[[碧藍航線/登場人物一覽-自由鳶尾&維希教廷#La_Galissonnière|拉·加利索尼埃]](META)（クイーン・エリザベス(META)/La Galissonnière META） ===
 [[檔案:La Galissonnière META.png|x200px]]
 * 圖鑑編號：M020，艦種：重巡，SSR。
